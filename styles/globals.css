@@ -1,0 +1,84 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif;
+  background: #0a0b0e;
+  color: #e1e4e8;
+  min-height: 100vh;
+}
+.container { max-width: 1280px; margin: 0 auto; padding: 24px 32px; }
+
+/* Header */
+.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 28px; }
+.header h1 { font-size: 22px; font-weight: 700; color: #f0f6fc; letter-spacing: -0.3px; }
+.header h1 span { color: #58a6ff; }
+.header .date { font-size: 14px; color: #8b949e; }
+
+/* Market Bar */
+.market-bar {
+  display: flex; gap: 20px; padding: 18px 24px;
+  background: #161b22; border: 1px solid #21262d; border-radius: 12px;
+  margin-bottom: 28px; flex-wrap: wrap;
+}
+.market-item { display: flex; align-items: center; gap: 8px; }
+.market-item .label { font-size: 12px; font-weight: 600; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+.market-item .value { font-size: 18px; font-weight: 700; }
+.market-item .chg { font-size: 13px; font-weight: 600; padding: 2px 8px; border-radius: 6px; }
+.positive { color: #3fb950; }
+.negative { color: #f85149; }
+.chg.pos { background: rgba(63,185,80,0.12); }
+.chg.neg { background: rgba(248,81,73,0.12); }
+.sector-bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.sec { font-size: 12px; padding: 4px 10px; border-radius: 6px; }
+.sec.up { color: #3fb950; background: rgba(63,185,80,0.08); }
+.sec.down { color: #f85149; background: rgba(248,81,73,0.08); }
+
+/* Grid */
+.grid { display: grid; gap: 20px; margin-bottom: 24px; }
+.grid-2 { grid-template-columns: 1fr 1fr; }
+.grid-3 { grid-template-columns: 2fr 1fr; }
+
+/* Cards */
+.card { background: #161b22; border: 1px solid #21262d; border-radius: 12px; padding: 20px; }
+.card-hd { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+.card-hd h2 { font-size: 15px; font-weight: 600; color: #f0f6fc; }
+.badge { font-size: 11px; padding: 3px 10px; border-radius: 8px; background: #21262d; color: #8b949e; }
+
+/* Stock Row */
+.s-row { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid #1c2128; }
+.s-row:last-child { border-bottom: none; }
+.s-row .info { display: flex; align-items: center; gap: 12px; }
+.s-row .tkr { font-size: 15px; font-weight: 700; color: #f0f6fc; }
+.s-row .nm { font-size: 13px; color: #8b949e; }
+.s-row .prc { font-size: 15px; font-weight: 600; text-align: right; }
+.s-row .sub { font-size: 12px; color: #6e7681; margin-top: 2px; }
+.s-row .sig { font-size: 12px; color: #58a6ff; margin-top: 2px; }
+
+/* Table */
+.tbl { width: 100%; border-collapse: collapse; }
+.tbl th { text-align: left; font-size: 12px; font-weight: 600; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; padding: 8px 12px; border-bottom: 1px solid #1c2128; }
+.tbl td { padding: 10px 12px; border-bottom: 1px solid #1c2128; font-size: 14px; }
+.tbl tr:last-child td { border-bottom: none; }
+.tbl .rank { font-weight: 700; color: #58a6ff; width: 32px; }
+.tbl .tkr-c { font-weight: 700; color: #f0f6fc; }
+.tbl .sc { font-weight: 700; }
+.fts { display: flex; gap: 6px; flex-wrap: wrap; }
+.ft { font-size: 11px; padding: 2px 8px; border-radius: 6px; background: #1c2128; color: #8b949e; }
+.ft.up { color: #3fb950; background: rgba(63,185,80,0.1); }
+.ft.down { color: #f85149; background: rgba(248,81,73,0.1); }
+
+/* News */
+.n-item { padding: 10px 0; border-bottom: 1px solid #1c2128; }
+.n-item:last-child { border-bottom: none; }
+.n-item .nt { font-size: 14px; font-weight: 500; color: #c9d1d9; }
+.n-item .nm { display: flex; gap: 10px; margin-top: 4px; font-size: 12px; color: #6e7681; }
+.imp { font-size: 11px; padding: 2px 8px; border-radius: 6px; }
+.imp.up { color: #3fb950; background: rgba(63,185,80,0.1); }
+.imp.down { color: #f85149; background: rgba(248,81,73,0.1); }
+.imp.neutral { color: #8b949e; background: rgba(139,148,158,0.1); }
+
+@media (max-width: 768px) {
+  .container { padding: 16px; }
+  .grid-2 { grid-template-columns: 1fr; }
+  .grid-3 { grid-template-columns: 1fr; }
+  .market-bar { gap: 12px; }
+}

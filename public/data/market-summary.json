@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-31",
+  "indices": {
+    "sp500": { "value": 5842.3, "change": 0.8 },
+    "nasdaq": { "value": 18452.1, "change": 1.2 },
+    "djia": { "value": 42115.7, "change": 0.3 },
+    "vix": { "value": 14.2, "change": -0.5 },
+    "treasury_10y": { "value": 4.32, "change": -0.02 }
+  },
+  "sector_leaders": [
+    { "name": "Technology", "change": 1.5 },
+    { "name": "Energy", "change": 0.8 }
+  ],
+  "sector_laggards": [
+    { "name": "Utilities", "change": -0.4 }
+  ],
+  "holdings": [
+    { "ticker": "AAPL", "name": "Apple Inc.", "price": 195.40, "change": 1.2, "reason": "新產品消息" },
+    { "ticker": "NVDA", "name": "NVIDIA Corp.", "price": 880.20, "change": 2.1, "reason": "Analyst upgrade" },
+    { "ticker": "MSFT", "name": "Microsoft Corp.", "price": 425.30, "change": -0.3, "reason": "冇特別" }
+  ],
+  "watchlist": [
+    { "ticker": "TSLA", "name": "Tesla Inc.", "price": 245.80, "change": 3.5, "signal": "Delivery numbers beat" },
+    { "ticker": "AMD", "name": "AMD Inc.", "price": 168.50, "change": 2.8, "signal": "New chip announcement" },
+    { "ticker": "COST", "name": "Costco", "price": 732.10, "change": 0.0, "signal": "Earnings tonight" }
+  ],
+  "screening": [
+    { "rank": 1, "ticker": "NVDA", "score": 8.2, "factors": ["Momentum+", "Quality+", "Insider+"] },
+    { "rank": 2, "ticker": "AMZN", "score": 7.9, "factors": ["Value+", "Growth+", "Momentum+"] },
+    { "rank": 3, "ticker": "COST", "score": 7.5, "factors": ["Quality+", "Value+"] },
+    { "rank": 4, "ticker": "GOOGL", "score": 7.2, "factors": ["Value+", "Insider+"] },
+    { "rank": 5, "ticker": "AAPL", "score": 6.8, "factors": ["Quality+", "Momentum-"] }
+  ],
+  "news": [
+    { "title": "FOMC Minutes 偏鴿，市場解讀正面", "source": "Bloomberg", "impact": "positive" },
+    { "title": "半導體 Sector 傳 M&A Rumor", "source": "WSJ", "impact": "positive" },
+    { "title": "Oil 跌 2% 因庫存增加", "source": "Reuters", "impact": "negative" }
+  ]
+}
