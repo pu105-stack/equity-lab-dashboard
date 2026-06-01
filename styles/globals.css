@@ -114,6 +114,28 @@ body {
 /* Section Title */
 .section-title { font-size: 18px; font-weight: 700; color: #f0f6fc; margin: 36px 0 20px; }
 
+/* Status Bar */
+.status-bar {
+  display: flex; gap: 0; margin-bottom: 28px;
+  background: #161b22; border: 1px solid #21262d; border-radius: 12px;
+  overflow: hidden; flex-wrap: wrap;
+}
+.status-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 12px 20px; flex: 1; min-width: 130px;
+  border-right: 1px solid #1c2128;
+}
+.status-item:last-child { border-right: none; }
+.status-item.dash { background: rgba(88,166,255,0.04); }
+.status-icon { font-size: 15px; }
+.status-label { font-size: 11px; font-weight: 700; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+.status-desc { font-size: 12px; color: #c9d1d9; white-space: nowrap; }
+
+@media (max-width: 768px) {
+  .status-item { min-width: 120px; border-right: none; border-bottom: 1px solid #1c2128; }
+  .status-item:last-child { border-bottom: none; }
+}
+
 /* Cadence Grid */
 .cadence-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 24px; }
 .cadence-card { background: #161b22; border: 1px solid #21262d; border-radius: 12px; overflow: hidden; }

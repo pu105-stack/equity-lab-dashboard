@@ -28,6 +28,35 @@ export default function Home({ data }) {
         </div>
       </div>
 
+      {/* System Status Bar */}
+      <div className="status-bar">
+        <div className="status-item">
+          <span className="status-icon">🌅</span>
+          <span className="status-label">Daily</span>
+          <span className="status-desc">AM Scan / PM Review</span>
+        </div>
+        <div className="status-item">
+          <span className="status-icon">📊</span>
+          <span className="status-label">Weekly</span>
+          <span className="status-desc">Wed Screen / Sat Full</span>
+        </div>
+        <div className="status-item">
+          <span className="status-icon">📈</span>
+          <span className="status-label">Monthly</span>
+          <span className="status-desc">Factor + Direction</span>
+        </div>
+        <div className="status-item">
+          <span className="status-icon">🔍</span>
+          <span className="status-label">Quarterly</span>
+          <span className="status-desc">Deep Review</span>
+        </div>
+        <div className="status-item dash">
+          <span className="status-icon">📡</span>
+          <span className="status-label">Sources</span>
+          <span className="status-desc">FMP · RSS · FRED · EDGAR</span>
+        </div>
+      </div>
+
       {/* Row 1: Holdings + Watchlist */}
       <div className="grid grid-2">
         <div className="card">
