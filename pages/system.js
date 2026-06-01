@@ -93,32 +93,37 @@ export default function System() {
           <tbody>
             {/* Market Data */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge price">Price & Market</span></td></tr>
-            <tr><td></td><td className="src">Yahoo Finance</td><td>Historical prices, fundamentals, financials</td><td>Daily</td></tr>
-            <tr><td></td><td className="src">Finnhub</td><td>Real-time quotes, company news, earnings</td><td>Real-time</td></tr>
-            <tr><td></td><td className="src">Polygon (via Finnhub)</td><td>Options & intraday data</td><td>Real-time</td></tr>
+            <tr><td></td><td className="src">FMP Quote</td><td>Current prices, OHLCV, volume, market cap</td><td>Real-time (delayed)</td></tr>
+            <tr><td></td><td className="src">FMP Historical</td><td>Daily OHLCV historical EOD prices</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">Yahoo Finance</td><td>Historical prices (fallback when FMP rate-limited)</td><td>Daily</td></tr>
 
             {/* Fundamentals */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge funda">Fundamentals</span></td></tr>
-            <tr><td></td><td className="src">SEC EDGAR</td><td>10-K, 10-Q filings, insider trades</td><td>Quarterly</td></tr>
-            <tr><td></td><td className="src">FMP</td><td>Financial statements, ratios, DCF models</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">FMP</td><td>Financial statements, key metrics, ratios, DCF, profiles</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">FMP Earnings</td><td>Earnings calendar (epsActual, epsEstimated, revenueActual)</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">SEC EDGAR</td><td>10-K, 10-Q filings, insider transactions (Form 4)</td><td>Quarterly</td></tr>
+
+            {/* 13F / Institutional Holdings */}
+            <tr className="cat-row"><td colSpan={4}><span className="cat-badge funda">Institutional Holdings</span></td></tr>
+            <tr><td></td><td className="src">SEC EDGAR 13F</td><td>Institutional holdings — 大行持倉、hedge fund portfolio</td><td>Quarterly</td></tr>
 
             {/* News & Sentiment */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge news">News & Sentiment</span></td></tr>
-            <tr><td></td><td className="src">Marketaux</td><td>Financial news with entity-level sentiment</td><td>Real-time</td></tr>
-            <tr><td></td><td className="src">Tiingo News</td><td>Ticker-tagged news feed</td><td>Real-time</td></tr>
-            <tr><td></td><td className="src">RSS Feed (54 sources)</td><td>Aggregated financial news</td><td>Real-time</td></tr>
-            <tr><td></td><td className="src">Reddit (r/wallstreetbets)</td><td>Sentiment monitoring</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">RSS Feeds (63+ sources)</td><td>Aggregated news (Bloomberg, WSJ, CNBC, Benzinga, etc.)</td><td>Real-time</td></tr>
+            <tr><td></td><td className="src">Marketaux</td><td>Financial news with entity-level sentiment scoring</td><td>Real-time</td></tr>
+            <tr><td></td><td className="src">Reddit (r/wallstreetbets)</td><td>Sentiment monitoring & retail flow</td><td>Daily</td></tr>
 
             {/* Economic */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge econ">Economic & Macro</span></td></tr>
-            <tr><td></td><td className="src">FRED</td><td>US macro data (GDP, CPI, PMI, employment)</td><td>Weekly</td></tr>
-            <tr><td></td><td className="src">Finviz</td><td>Sector screener, heatmaps</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">FRED</td><td>US macro data (GDP, CPI, PMI, employment, yield curve)</td><td>Weekly</td></tr>
+            <tr><td></td><td className="src">Wikipedia</td><td>S&P 500 constituent list (sector, industry, GICS)</td><td>Monthly</td></tr>
 
             {/* Screening */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge screen">Screening & Analytics</span></td></tr>
-            <tr><td></td><td className="src">Finviz Screener</td><td>Multi-factor stock screening</td><td>Weekly</td></tr>
+            <tr><td></td><td className="src">In-app Screening</td><td>Multi-factor scoring (Track A: Balanced, Track B: Momentum)</td><td>Weekly</td></tr>
             <tr><td></td><td className="src">Risk Calculator</td><td>VaR, drawdown, beta, correlation</td><td>On-demand</td></tr>
             <tr><td></td><td className="src">Portfolio Monitor</td><td>Exposure snapshot, concentration checks</td><td>Daily</td></tr>
+            <tr><td></td><td className="src">Finviz</td><td>Sector heatmaps, visual screening (manual reference)</td><td>Reference</td></tr>
 
             {/* Infrastructure */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge infra">Infrastructure</span></td></tr>
