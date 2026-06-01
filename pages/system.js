@@ -112,6 +112,7 @@ export default function System() {
             <tr><td></td><td className="src">RSS Feeds (63+ sources)</td><td>Aggregated news (Bloomberg, WSJ, CNBC, Benzinga, etc.)</td><td>Real-time</td></tr>
             <tr><td></td><td className="src">Finnhub News</td><td>Ticker-specific news & earnings transcripts</td><td>On-demand</td></tr>
             <tr><td></td><td className="src">Marketaux</td><td>Financial news with entity-level sentiment scoring</td><td>Real-time</td></tr>
+            <tr><td></td><td className="src">Tiingo</td><td>Smart ticker-tagged news (CUDA → NVDA)</td><td>On-demand</td></tr>
             <tr><td></td><td className="src">Reddit (r/wallstreetbets)</td><td>Sentiment monitoring & retail flow</td><td>Daily</td></tr>
 
             {/* Economic */}
@@ -134,6 +135,7 @@ export default function System() {
             <tr><td></td><td className="src">Vercel</td><td>Dashboard hosting (static Next.js)</td><td>—</td></tr>
           </tbody>
         </table>
+        <div className="ds-note">📁 All sources above live under <code>data-sources/</code> skill category</div>
       </div>
 
       {/* Footer */}
