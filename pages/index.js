@@ -52,8 +52,8 @@ export default function Home({ data }) {
         </div>
         <div className="status-item dash">
           <span className="status-icon">📡</span>
-          <span className="status-label">Sources</span>
-          <span className="status-desc">FMP · RSS · FRED · EDGAR</span>
+          <span className="status-label">Skills</span>
+          <span className="status-desc">15 sources · data-sources/</span>
         </div>
       </div>
 
