@@ -82,3 +82,16 @@ body {
   .grid-3 { grid-template-columns: 1fr; }
   .market-bar { gap: 12px; }
 }
+
+/* Footer */
+.footer {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-top: 32px; padding: 16px 24px;
+  background: #161b22; border: 1px solid #21262d; border-radius: 12px;
+  font-size: 13px; color: #8b949e;
+}
+.deploy-badge {
+  padding: 4px 12px; border-radius: 8px;
+  background: rgba(88,166,255,0.12); color: #58a6ff;
+  font-weight: 600; font-size: 12px;
+}
