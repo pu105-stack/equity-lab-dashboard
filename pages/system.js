@@ -110,6 +110,7 @@ export default function System() {
             {/* News & Sentiment */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge news">News & Sentiment</span></td></tr>
             <tr><td></td><td className="src">RSS Feeds (63+ sources)</td><td>Aggregated news (Bloomberg, WSJ, CNBC, Benzinga, etc.)</td><td>Real-time</td></tr>
+            <tr><td></td><td className="src">Finnhub News</td><td>Ticker-specific news & earnings transcripts</td><td>On-demand</td></tr>
             <tr><td></td><td className="src">Marketaux</td><td>Financial news with entity-level sentiment scoring</td><td>Real-time</td></tr>
             <tr><td></td><td className="src">Reddit (r/wallstreetbets)</td><td>Sentiment monitoring & retail flow</td><td>Daily</td></tr>
 
