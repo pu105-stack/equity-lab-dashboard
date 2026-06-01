@@ -105,7 +105,7 @@ export default function System() {
 
             {/* 13F / Institutional Holdings */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge funda">Institutional Holdings</span></td></tr>
-            <tr><td></td><td className="src">SEC EDGAR 13F</td><td>Institutional holdings — 大行持倉、hedge fund portfolio</td><td>Quarterly</td></tr>
+            <tr><td></td><td className="src">SEC EDGAR 13F</td><td>Institutional holdings — 大行持倉、hedge fund portfolio (skill: sec-edgar-13f ✅)</td><td>Quarterly</td></tr>
 
             {/* News & Sentiment */}
             <tr className="cat-row"><td colSpan={4}><span className="cat-badge news">News & Sentiment</span></td></tr>
