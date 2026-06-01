@@ -1,22 +1,37 @@
 import '../styles/globals.css'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+import { useState } from 'react'
 
 export default function App({ Component, pageProps }) {
   const router = useRouter()
-  const isSystem = router.pathname === '/system'
+  const [menuOpen, setMenuOpen] = useState(false)
+
+  const isActive = (path) => router.pathname === path ? 'active' : ''
+
+  const links = [
+    { href: '/', label: 'Dashboard' },
+    { href: '/system', label: 'System' },
+  ]
 
   return (
     <>
       <nav className="nav">
         <div className="nav-inner">
-          <div className="nav-brand">📈 Equity Lab</div>
-          <div className="nav-links">
-            <Link href="/" className={`nav-link ${!isSystem ? 'active' : ''}`}>Dashboard</Link>
-            <Link href="/system" className={`nav-link ${isSystem ? 'active' : ''}`}>System</Link>
+          <Link href="/" className="nav-brand">📈 Equity Lab</Link>
+          <div className={`nav-links ${menuOpen ? 'open' : ''}`}>
+            {links.map(l => (
+              <Link key={l.href} href={l.href} className={`nav-link ${isActive(l.href)}`} onClick={() => setMenuOpen(false)}>
+                {l.label}
+              </Link>
+            ))}
           </div>
+          <button className={`nav-toggle ${menuOpen ? 'open' : ''}`} onClick={() => setMenuOpen(!menuOpen)} aria-label="Menu">
+            <span></span><span></span><span></span>
+          </button>
         </div>
       </nav>
+      {menuOpen && <div className="nav-overlay" onClick={() => setMenuOpen(false)} />}
       <Component {...pageProps} />
     </>
   )
