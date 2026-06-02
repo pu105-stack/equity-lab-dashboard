@@ -1,167 +1,158 @@
-# Pipeline Architecture Plan
+# Pipeline Architecture Plan (V2)
 
-## 設計哲學
+## 核心架構
 
 ```
-data-sources/  ← 原子 skills（每個 data source 獨立，做 fetch + return raw data）
-     ↓
-pipelines/     ← 組合式 workflows（declare steps + params，出結果）
-     ↓
-output         ← Discord summary / Dashboard / DB record / Alert
+data-sources/     → 17 skills (tools — 點 fetch 數據)
+                     finnhub, yahoo-finance, rss-feed, marketaux,
+                     fred, sec-edgar, sec-edgar-13f, stock-screener,
+                     finviz-stock-screener, tiingo, reddit-data,
+                     portfolio-monitor, risk-calculator, stock-deep-dive
+
+daily-ops/        → 排程 job (cron)，一條龍 fetch → process → store → report
+                     ├── morning-scan    每日 8am HKT (開市前)
+                     ├── evening-review   每日 4pm HKT (收市後)
+                     ├── weekly-screen   每星期 Wed/Sat
+                     ├── monthly-factor  每月尾
+                     ├── quarterly-13f   每季 (Mar/Jun/Sep/Dec)
+                     └── stock-deep-dive on-demand (user-triggered)
 ```
 
-每個 pipeline = 一個「劇本」，declare 用邊啲 atomic skills + 咩 logic + 咩 output。
+**DB storage 係 daily ops 嘅 side effect** — morning scan fetch 完 store 埋，data 自然 accumulate。
+
+唔需要獨立嘅 data pipeline layer。Morning scan + evening review 夾埋 cover 全日 data。
 
 ---
 
-## Pipeline 清單
+## Daily Ops 詳細
 
-### 🏗 Tier 0 — Infrastructure（背景自動）
+### 1. Morning Scan (每日 8am HKT)
 
-#### P1: data-ingestion
-| | |
-|---|---|
-| **Cadence** | Daily 23:00 UTC (weekdays) |
-| **Steps** | fetch_stocks → fetch_prices → fetch_macro |
-| **Output** | PostgreSQL tables: stocks, daily_prices, fundamentals, macro |
-| **Triggers** | Time-based cron |
+**目的：** 開市前 data → morning report
+**Cadence:** 每日 (cron)
 
----
+**Steps:**
+1. Fetch S&P 500 pre-market prices (FMP/yahoo-finance)
+2. Fetch overnight news summary (RSS + Tiingo + Finnhub + Marketaux)
+3. Fetch FRED macro (interest rate, CPI, unemployment)
+4. Fetch today's earnings calendar (FMP)
+5. **Store all raw data → DB**
+6. Analyze:
+   - Pre-market movers (top gainers/losers)
+   - News sentiment by stock
+   - Overnight macro changes
+   - Earnings beats/misses today
+7. **Output:** morning report (Discord)
 
-### 🌅 Tier 1 — Daily Ops（每個 trading day）
+**DB records stored:**
+- `daily_prices`, `news_summary`, `macro_indicators`, `earnings_calendar`
 
-#### P2: morning-scan
-| | |
-|---|---|
-| **Cadence** | 開市前 (~8:30am ET / 8:30pm HKT) |
-| **Calls** | rss-feed(hours=16) + marketaux(morning) + fred(latest) + earnings-calendar(today) |
-| **Output** | Discord summary: overnight news, watchlist alerts, macro context, earnings today |
+### 2. Evening Review (每日 4pm HKT)
 
-#### P3: evening-review
-| | |
-|---|---|
-| **Cadence** | 收市後 (~5pm ET / 5am HKT) |
-| **Calls** | rss-feed(hours=8) + portfolio-monitor(snapshot) + risk-calculator(stop-loss) |
-| **Output** | Discord summary: session news, portfolio P&L, stop-loss alerts |
+**目的：** 收市 data → 全日分析
+**Cadence:** 每日 (cron)
 
----
+**Steps:**
+1. Fetch S&P 500 closing prices (FMP/yahoo-finance)
+2. Fetch intraday/sector performance
+3. Fetch today's news roundup (RSS + Tiingo + Finnhub)
+4. **Store all raw data → DB**
+5. Analyze:
+   - Daily % change breakdown
+   - Sector rotation
+   - Volume anomalies
+   - Portfolio holdings P&L
+   - Correlation shifts
+6. **Output:** evening review (Discord)
 
-### 📊 Tier 2 — Weekly / Monthly
+**DB records stored:**
+- `daily_prices`, `news_summary`
 
-#### P4: screening-wed
-| | |
-|---|---|
-| **Cadence** | Wed 14:00 UTC |
-| **Calls** | stock-screener(list=1) → sector scan → technicals → fundamentals → score |
-| **Output** | Ranked candidates (Track A), Discord post |
+### 3. Weekly Screening (Wed & Sat)
 
-#### P5: screening-sat
-| | |
-|---|---|
-| **Cadence** | Sat 14:00 UTC |
-| **Calls** | stock-screener(list=both) → full pipeline |
-| **Output** | Ranked candidates (Track A + B), Discord post |
+**目的：** 全 market 篩選（Russell 3000）
+**Cadence:** 每星期兩次 (cron)
 
-#### P6: factor-review
-| | |
-|---|---|
-| **Cadence** | Monthly (last Sat) |
-| **Calls** | stock-screener(review) + portfolio-monitor |
-| **Output** | Factor hit rates, weight adjustment proposals |
+**Steps:**
+1. Fetch Russell 3000 prices on-demand → 暫存 `screen_cache`
+2. Run stock screener (momentum, value, growth factors)
+3. Top picks → store report + vector map
+4. 暫存 table clean up / keep 到下星期
 
-#### P7: macro-direction
-| | |
-|---|---|
-| **Cadence** | Monthly (1st Sat) |
-| **Calls** | fred(multi-series) + sector ETF momentum scan |
-| **Output** | Macro environment summary, sector rotation signal |
+**DB records stored:**
+- `weekly_screening`, `screen_cache` (暫存)
 
----
+### 4. Monthly Factor Review (每月尾)
 
-### 🔍 Tier 3 — Quarterly / Event-driven
+**目的：** 回顧 factor performance
+**Cadence:** cron — 每月最後一日
 
-#### P8: deep-review
-| | |
-|---|---|
-| **Cadence** | Quarterly |
-| **Calls** | portfolio-monitor + risk-calculator + stock-screener(review, 12wk) |
-| **Output** | Portfolio attribution, strategy calibration report |
+**Steps:**
+1. Aggregate daily prices → monthly returns
+2. Factor analysis (momentum, value, size, quality)
+3. **Output:** monthly factor report
 
-#### P9: institutional-flow
-| | |
-|---|---|
-| **Cadence** | Quarterly (post-13F deadline) / On-demand |
-| **Calls** | sec-edgar-13f(top institutions) → compare vs prev quarter → flag changes |
-| **Output** | Discord alert: new buys, exits, significant position changes |
+### 5. Quarterly 13F (Mar/Jun/Sep/Dec)
 
-#### P10: stock-deep-dive
-| | |
-|---|---|
-| **Cadence** | On-demand (triggered by screening / user request) |
-| **Calls** | stock-deep-dive(ticker) → 7-step research |
-| **Output** | Research note .md file |
+**目的：** 追蹤機構持倉變化
+**Cadence:** cron — 每季 (45日 filing deadline 後)
+
+**Steps:**
+1. Fetch SEC EDGAR 13F for key funds
+2. Compare with previous quarter
+3. **Output:** 13F change report
+
+**DB records stored:**
+- `holder_portfolios` (only tracked funds)
 
 ---
 
-## ⚠️ Data Storage Strategy — Discussion Point
+## DB Storage Strategy
 
-> Oscar嘅問題：每日 fetch 咁多 data 入 DB，會唔會好快爆？有冇必要每樣都儲？
+### Keep (historical needed for analysis)
 
-### 現狀（from equity-data-pipeline）
+| Table | Source | Growth/yr |
+|-------|--------|-----------|
+| `daily_prices` | S&P 500, FMP | ~10 MB |
+| `earnings_calendar` | FMP | ~0.24 MB |
+| `macro_indicators` | FRED | ~0.5 MB |
+| `news_summary` | RSS + Tiingo + Finnhub + Marketaux | ~5 MB |
+| `weekly_screening` | Screener | ~0.5 MB |
+| **Total baseline** | | **~16-17 MB/yr** |
 
-| Table | 而家點做 | Size/yr |
-|---|---|---|
-| `daily_prices` | 每日 fetch 全部 S&P 500 (~500 stocks) | ~50 MB |
-| `news` | 每6小時 fetch 63+ RSS feeds，store 30日 | ~10 MB |
-| `fundamentals` | Quarterly snapshots for 500 stocks | ~5 MB |
-| `stocks` | S&P 500 universe, permanent | 0.1 MB |
-| `screening_runs` | Per run output | ~1 MB |
-| **Total** | | **~65 MB/yr** |
+### On-demand (fetch when needed, optional store)
 
-### Reality check
+| Table | Behaviour |
+|-------|-----------|
+| `screen_cache` | Russell 3000 raw prices — fetch per screening event, keep 1 week |
+| `holder_portfolios` | 13F — fetch per quarter, store only for tracked funds |
+| `deep_dive_data` | Per-ticker analysis, store optional |
 
-65MB/year is **tiny** by database standards. Even 5 years = 325MB. Not a concern.
+### Never store
 
-但 Oscar 嘅思考方向係啱嘅 — **唔係所有 data 都有同等價值**。應該分 tier：
+| Data | Why |
+|------|-----|
+| News body | Summary only — 慳 95% space |
+| Russell 3000 (full daily) | 太大，只 screening event 用 |
+| Tick-level / intraday | Decision support, 唔需要 |
 
-### Proposed: 3-Tier Storage
+---
 
-| Tier | Data | Storage | 點做 |
-|------|------|---------|------|
-| 🟢 **Must Store** | prices, fundamentals, macro, screening runs | Full data, permanent/rolling | Screening 同 backtest 必需要用 historical data |
-| 🟡 **Store Summary** | News | Title + source + tickers + sentiment score only (唔 store body) | Searchable, 夠做 alert/sentiment |
-| 🔴 **On-demand Only** | Per-ticker deep dive, 13F holdings, ticker-specific news | 唔 store 落 DB — 即 fetch 即 output | 有需要先拉，用完就算 |
+## Roadmap
 
-### 具體建議
+### Phase 1 ✅ (Done)
+- Skill reorganisation → `data-sources/`
+- `sec-edgar-13f` skill created
+- Pipeline architecture reworked (no separate pipeline layer)
 
-**1. Prices → Keep full （🟢）**
-- 50MB/yr 真係好細
-- Screening 同 backtest 需要 historical data
-- 用 rolling 2-year purge 已經夠
-- 可以考慮只 keep S&P 500，唔使 keep 全部 ~10,000 stocks
+### Phase 2 ✅ (Done)
+- `morning-scan.py` — 開市前掃瞄 script, cron @ 8pm HKT (weekdays)
+- `evening-review.py` — 美股收市回顧 script, cron @ 8am HKT (weekdays)
+- `weekly-screening.py` — 每週篩選 script, cron Wed 10pm + Sat 2pm
+- All scripts: no_agent mode (zero LLM cost), Chinese output, DB store
+- Report files saved to `daily-ops/reports/`
 
-**2. News → Store summary only （🟡）**
-- Store: `title`, `source`, `published_at`, `tickers[]`, `sentiment_score`
-- **唔 store**: `body` / full article text
-- 30-day TTL keep
-- 如果某隻股需要深入睇 news → on-demand call finnhub / marketaux
-
-**3. Per-ticker deep dives → On-demand only （🔴）**
-- `stock-deep-dive` 唔 store 落 DB
-- 每次 on-demand call，output 去 .md file
-- `institutional-flow` 都係 on-demand，13F 每季先一次
-
-**4. Fundamentals → Keep （🟢）**
-- 5MB/yr，permanent，對 valuation 分析好重要
-
-### Summary
-
-| Data Type | 而家 | 建議 |
-|-----------|------|------|
-| Prices (daily) | ✅ Full, 2yr rolling | ✅ Keep (50MB/yr cheap) |
-| News | ✅ Full body, 30d TTL | ⚠️ **Change to summary-only** (title + tickers + sentiment) |
-| Fundamentals | ✅ Permanent | ✅ Keep |
-| Macro | ✅ Keep | ✅ Keep |
-| Screening | ✅ Per run | ✅ Keep |
-| Deep dives | ❌ Not stored | ✅ **On-demand only** (correct already) |
-| 13F | ❌ Not implemented | ✅ **On-demand only** (quarterly fetch) |
+### Phase 3 — Dashboard + DB
+- DB schema (tables above)
+- Read-only queries
+- Dashboard displays what DB already has
