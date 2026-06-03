@@ -3,37 +3,36 @@
     {
       "date": "2026-06-03",
       "pipeline": "開市前掃瞄",
-      "time": "21:23 HKT",
+      "time": "21:51 HKT",
       "status": "success",
-      "market_direction": "🟡 Mixed",
-      "spy": "759.57 (+0.14%)",
+      "market_direction": "🔴 Bearish",
+      "spy": "756.14 (-0.45%)",
       "vix": "N/A",
       "top_gainers": [
-        "AAPL +2.9%",
-        "TSLA +1.9%",
-        "JPM +1.5%"
+        "META +1.8%",
+        "GOOGL +0.4%"
       ],
       "top_losers": [
-        "MSFT -4.2%",
-        "GOOGL -3.9%",
-        "AMZN -1.8%",
-        "V -1.7%",
-        "NVDA -0.7%"
+        "NVDA -2.3%",
+        "MSFT -1.9%",
+        "V -1.1%",
+        "JPM -0.6%",
+        "AMZN -0.3%"
       ],
       "headlines": [
-        "GameStop Jumps 9% on Record Profit, $2 Billion Buyback as eBay Bid Battle Intensifies (247wallst)",
-        "PUMA: Multi-Year Downtrend Broken — WCL Retest Before €35–€38? (tradingview)",
-        "CADCHF Sell Setup | Fiblance Swing Structure Model (FSSM) - Type (tradingview)",
-        "Dow futures drop 200 points as oil prices and bond yields creep higher: Live updates (cnbc_top)",
-        "If You Have $2.4 Million Saved at 59 and Your Employer Just Offered a $400,000 Severance, Here Is th (247wallst)",
-        "Live updates: CNBC sits down for an exclusive interview with Israel's Benjamin Netanyahu (cnbc_top)"
+        "Europe unveils tech sovereignty package amid growing concerns over reliance on U.S. tech: 'We want t (cnbc_top)",
+        "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict (cnbc_top)",
+        "Oil back in the spotlight! (tradingview)",
+        "USDCAD bullish above 1.3830 support (tradingview)",
+        "CBS fires veteran correspondent Scott Pelley amid turmoil over direction of '60 Minutes' (cnbc_top)",
+        "B T C : (Buy Bitcoin Back To $69K) (tradingview)"
       ],
       "focus": [
-        "留意 Utilities 板塊：盤前 +1.9%"
+        "留意 Technology 板塊：盤前 -1.5%"
       ],
-      "analysis": "盤前中性，指數期貨平穩 | Utilities 領先 (+1.9%) — 可能有板塊輪動 | 孳息曲線平坦 (0.41%) — 增長憂慮，選股要謹慎",
+      "analysis": "盤前中性，指數期貨平穩 | Technology 領先 (-1.5%) — 可能有板塊輪動 | 孳息曲線平坦 (0.41%) — 增長憂慮，選股要謹慎",
       "key_takeaways": [
-        "SPY +0.14% 盤前"
+        "SPY -0.45% 盤前"
       ]
     },
     {
