@@ -76,6 +76,31 @@ export default function DailyOps({ runs }) {
                     </div>
                   )}
 
+                  {run.headlines?.length > 0 && (
+                    <div className="ops-section">
+                      <div className="ops-section-title">📰 重點新聞</div>
+                      {run.headlines.map((h, j) => (
+                        <div key={j} className="ops-headline">• {h}</div>
+                      ))}
+                    </div>
+                  )}
+
+                  {run.focus?.length > 0 && (
+                    <div className="ops-section">
+                      <div className="ops-section-title">🎯 今日關注</div>
+                      {run.focus.map((f, j) => (
+                        <div key={j} className="ops-focus-item">• {f}</div>
+                      ))}
+                    </div>
+                  )}
+
+                  {run.analysis && (
+                    <div className="ops-section">
+                      <div className="ops-section-title">💡 睇法</div>
+                      <div className="ops-analysis">{run.analysis}</div>
+                    </div>
+                  )}
+
                   {run.key_takeaways?.length > 0 && (
                     <div className="ops-takeaways">
                       {run.key_takeaways.map((t, j) => (
@@ -236,6 +261,37 @@ export default function DailyOps({ runs }) {
           font-size: 13px;
           color: #94a3b8;
           line-height: 1.5;
+        }
+        .ops-section {
+          margin-top: 8px;
+          padding-top: 8px;
+          border-top: 1px solid #334155;
+        }
+        .ops-section-title {
+          font-size: 12px;
+          font-weight: 600;
+          color: #64748b;
+          margin-bottom: 4px;
+          letter-spacing: 0.5px;
+        }
+        .ops-headline {
+          font-size: 13px;
+          color: #cbd5e1;
+          line-height: 1.5;
+          padding: 1px 0;
+        }
+        .ops-focus-item {
+          font-size: 13px;
+          color: #fbbf24;
+          line-height: 1.5;
+          font-weight: 500;
+          padding: 1px 0;
+        }
+        .ops-analysis {
+          font-size: 13px;
+          color: #a5b4fc;
+          line-height: 1.5;
+          font-style: italic;
         }
         .ops-error-msg {
           font-size: 13px;

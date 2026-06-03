@@ -3,7 +3,7 @@
     {
       "date": "2026-06-03",
       "pipeline": "開市前掃瞄",
-      "time": "21:04 HKT",
+      "time": "21:19 HKT",
       "status": "success",
       "market_direction": "🟡 Mixed",
       "spy": "759.57 (+0.14%)",
@@ -20,6 +20,18 @@
         "V -1.7%",
         "NVDA -0.7%"
       ],
+      "headlines": [
+        "US10Y yield is breaking out of 2y downtrend...get ready (tradingview)",
+        "Three dead in Royal Navy helicopter crash (bbc_top)",
+        "What a $1K Investment in Qualcomm 15 Years Ago Is Worth Today (Hint: It’s More Than You Think) (247wallst)",
+        "KKR, Ares, Blackstone tumble as Partners Group caps private equity fund withdrawals (cnbc_top)",
+        "XRP/USD: Fresh Bearish BoS Below 1.2685 Keeps Pressure Toward 1. (tradingview)",
+        "AI Designing AI: The Hidden Reason Nvidia Owns a $2 Billion Stake in Synopsys (247wallst)"
+      ],
+      "focus": [
+        "Watch Utilities: +1.9%"
+      ],
+      "analysis": "Pre-market neutral, index futures flat | Utilities leading (+1.9%) — potential sector rotation | Yield curve flat (0.41%) — growth concerns, stay selective",
       "key_takeaways": [
         "SPY +0.14% pre-market"
       ]
