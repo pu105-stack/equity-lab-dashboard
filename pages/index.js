@@ -32,28 +32,28 @@ export default function Home({ data }) {
       <div className="status-bar">
         <div className="status-item">
           <span className="status-icon">🌅</span>
-          <span className="status-label">Daily</span>
-          <span className="status-desc">AM Scan / PM Review</span>
+          <span className="status-label">Morning Scan</span>
+          <span className="status-desc">8pm · Pre-market context</span>
+        </div>
+        <div className="status-item">
+          <span className="status-icon">📰</span>
+          <span className="status-label">News Curator</span>
+          <span className="status-desc">8pm · Opportunities</span>
+        </div>
+        <div className="status-item">
+          <span className="status-icon">🌆</span>
+          <span className="status-label">Evening Review</span>
+          <span className="status-desc">8am · Post-mortem</span>
         </div>
         <div className="status-item">
           <span className="status-icon">📊</span>
-          <span className="status-label">Weekly</span>
-          <span className="status-desc">Wed Screen / Sat Full</span>
-        </div>
-        <div className="status-item">
-          <span className="status-icon">📈</span>
-          <span className="status-label">Monthly</span>
-          <span className="status-desc">Factor + Direction</span>
-        </div>
-        <div className="status-item">
-          <span className="status-icon">🔍</span>
-          <span className="status-label">Quarterly</span>
-          <span className="status-desc">Deep Review</span>
+          <span className="status-label">Weekly Screen</span>
+          <span className="status-desc">Wed/Sat · Candidates</span>
         </div>
         <div className="status-item dash">
           <span className="status-icon">📡</span>
-          <span className="status-label">Skills</span>
-          <span className="status-desc">15 sources · data-sources/</span>
+          <span className="status-label">Pipeline Hub</span>
+          <span className="status-desc">daily-ops → decisions</span>
         </div>
       </div>
 

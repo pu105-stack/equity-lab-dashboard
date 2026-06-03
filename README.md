@@ -7,13 +7,16 @@
 
 ## 🚀 Cron Jobs (全部 weekdays)
 
-| 時間 (HKT) | Job | 做咩 | Script |
-|-----------|-----|------|--------|
-| 🌅 **8pm** (US開市前1hr) | 開市前掃瞄 | Pre-market, sentiment, macro, 今日焦點 | `morning-scan.py` |
-| 🌆 **8am** (US收市後) | 美股收市回顧 | Close data, sector, portfolio, news | `evening-review.py` |
-| 📊 **Wed 10pm / Sat 2pm** | 每週篩選 | Russell 3000 factor screening | `weekly-screening.py` |
+| 時間 (HKT) | Pipeline | 角色 | 目的 |
+|-----------|----------|------|------|
+| 🌅 **8pm** | 開市前掃瞄 | Morning Strategist | Pre-market context, macro, 今日 focus |
+| 📰 **8pm** | 新聞分析-NewsCurator | Research Analyst | 新聞 → 搵投資機會 |
+| 🌆 **8am** | 美股收市回顧 | Evening Analyst | Post-mortem, P&L, forward look |
+| 📊 **Wed 10pm / Sat 2pm** | 每週篩選 | Quant Screener | Russell 3000 factor screening |
 
-**Output:** Discord DM (origin) + report file (`daily-ops/reports/`)
+**各司其職，output 獨立儲存。將來 Decision Pipeline 會讀取所有 output 做買賣建議。**
+
+**Output:** Discord DM (origin) + 儲存到 daily-ops.json (dashboard 顯示)
 
 ---
 
