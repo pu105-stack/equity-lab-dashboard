@@ -3,36 +3,35 @@
     {
       "date": "2026-06-03",
       "pipeline": "開市前掃瞄",
-      "time": "21:51 HKT",
+      "time": "21:55 HKT",
       "status": "success",
       "market_direction": "🔴 Bearish",
-      "spy": "756.14 (-0.45%)",
+      "spy": "756.03 (-0.47%)",
       "vix": "N/A",
       "top_gainers": [
-        "META +1.8%",
-        "GOOGL +0.4%"
+        "META +2.0%"
       ],
       "top_losers": [
-        "NVDA -2.3%",
-        "MSFT -1.9%",
-        "V -1.1%",
-        "JPM -0.6%",
-        "AMZN -0.3%"
+        "NVDA -2.5%",
+        "MSFT -2.2%",
+        "V -1.3%",
+        "JPM -0.8%",
+        "AMZN -0.7%"
       ],
       "headlines": [
+        "Dollar Index - Major Update (tradingview)",
+        "You Think You Own the S&P 500. You Mostly Own a Few AI Stocks — and the Rest Is Growing at Zero (247wallst)",
+        "Iran calls deadly attack on Kuwait retaliation for latest U.S. strikes (cbs_news)",
+        "AUD/USD reaction to Australian GDP q/q (tradingview)",
         "Europe unveils tech sovereignty package amid growing concerns over reliance on U.S. tech: 'We want t (cnbc_top)",
-        "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict (cnbc_top)",
-        "Oil back in the spotlight! (tradingview)",
-        "USDCAD bullish above 1.3830 support (tradingview)",
-        "CBS fires veteran correspondent Scott Pelley amid turmoil over direction of '60 Minutes' (cnbc_top)",
-        "B T C : (Buy Bitcoin Back To $69K) (tradingview)"
+        "XAUUSD : AMD Setup Loading (tradingview)"
       ],
       "focus": [
-        "留意 Technology 板塊：盤前 -1.5%"
+        "留意 Utilities 板塊：盤前 +1.2%"
       ],
-      "analysis": "盤前中性，指數期貨平穩 | Technology 領先 (-1.5%) — 可能有板塊輪動 | 孳息曲線平坦 (0.41%) — 增長憂慮，選股要謹慎",
+      "analysis": "盤前中性，指數期貨平穩 | Utilities 領先 (+1.2%) — 可能有板塊輪動 | 孳息曲線平坦 (0.41%) — 增長憂慮，選股要謹慎",
       "key_takeaways": [
-        "SPY -0.45% 盤前"
+        "SPY -0.47% 盤前"
       ]
     },
     {
