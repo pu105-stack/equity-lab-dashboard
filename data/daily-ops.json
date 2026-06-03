@@ -3,22 +3,48 @@
     {
       "date": "2026-06-03",
       "pipeline": "開市前掃瞄",
-      "time": "21:15 HKT",
+      "time": "21:23 HKT",
       "status": "success",
       "market_direction": "🟡 Mixed",
       "spy": "759.57 (+0.14%)",
-      "vix": "16.05",
-      "top_gainers": ["AAPL +2.9%", "TSLA +1.9%", "JPM +1.5%"],
-      "top_losers": ["MSFT -4.2%", "GOOGL -3.9%", "AMZN -1.8%", "V -1.7%", "NVDA -0.7%"],
-      "headlines": [
-        "US10Y yield is breaking out of 2y downtrend...get ready (tradingview)",
-        "KKR, Ares, Blackstone tumble as Partners Group caps private equity fund withdrawals (cnbc_top)",
-        "AI Designing AI: The Hidden Reason Nvidia Owns a $2 Billion Stake in Synopsys (247wallst)",
-        "Three dead in Royal Navy helicopter crash (bbc_top)"
+      "vix": "N/A",
+      "top_gainers": [
+        "AAPL +2.9%",
+        "TSLA +1.9%",
+        "JPM +1.5%"
       ],
-      "focus": ["Watch Utilities: +1.9% pre-market rotation signal"],
-      "analysis": "Pre-market neutral, index futures flat | Utilities leading (+1.9%) — potential sector rotation | Yield curve flat (0.41%) — growth concerns, stay selective",
-      "key_takeaways": ["SPY +0.14% pre-market"]
+      "top_losers": [
+        "MSFT -4.2%",
+        "GOOGL -3.9%",
+        "AMZN -1.8%",
+        "V -1.7%",
+        "NVDA -0.7%"
+      ],
+      "headlines": [
+        "GameStop Jumps 9% on Record Profit, $2 Billion Buyback as eBay Bid Battle Intensifies (247wallst)",
+        "PUMA: Multi-Year Downtrend Broken — WCL Retest Before €35–€38? (tradingview)",
+        "CADCHF Sell Setup | Fiblance Swing Structure Model (FSSM) - Type (tradingview)",
+        "Dow futures drop 200 points as oil prices and bond yields creep higher: Live updates (cnbc_top)",
+        "If You Have $2.4 Million Saved at 59 and Your Employer Just Offered a $400,000 Severance, Here Is th (247wallst)",
+        "Live updates: CNBC sits down for an exclusive interview with Israel's Benjamin Netanyahu (cnbc_top)"
+      ],
+      "focus": [
+        "留意 Utilities 板塊：盤前 +1.9%"
+      ],
+      "analysis": "盤前中性，指數期貨平穩 | Utilities 領先 (+1.9%) — 可能有板塊輪動 | 孳息曲線平坦 (0.41%) — 增長憂慮，選股要謹慎",
+      "key_takeaways": [
+        "SPY +0.14% 盤前"
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "pipeline": "每週篩選",
+      "time": "14:00 HKT",
+      "status": "success",
+      "market_direction": "",
+      "key_takeaways": [
+        "Track A: 0 candidates | Track B: 0 candidates"
+      ]
     },
     {
       "date": "2026-06-03",
@@ -28,17 +54,20 @@
       "market_direction": "🟡 Mixed",
       "spy": "759.57 (+0.14%)",
       "vix": "16.05",
-      "top_gainers": ["AAPL +2.9%", "TSLA +1.9%", "JPM +1.5%"],
-      "top_losers": ["MSFT -4.2%", "GOOGL -3.9%", "AMZN -1.8%"],
-      "key_takeaways": ["Mixed portfolio: 3 up vs 5 down", "Utilities attracted capital (+1.9%)"]
-    },
-    {
-      "date": "2026-06-03",
-      "pipeline": "每週篩選",
-      "time": "14:00 HKT",
-      "status": "success",
-      "market_direction": "",
-      "key_takeaways": ["Track A: 0 candidates | Track B: 0 candidates"]
+      "top_gainers": [
+        "AAPL +2.9%",
+        "TSLA +1.9%",
+        "JPM +1.5%"
+      ],
+      "top_losers": [
+        "MSFT -4.2%",
+        "GOOGL -3.9%",
+        "AMZN -1.8%"
+      ],
+      "key_takeaways": [
+        "Mixed portfolio: 3 up vs 5 down",
+        "Utilities attracted capital (+1.9%)"
+      ]
     }
   ]
 }
