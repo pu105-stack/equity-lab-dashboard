@@ -11,6 +11,7 @@ export default function App({ Component, pageProps }) {
 
   const links = [
     { href: '/', label: 'Dashboard' },
+    { href: '/daily-ops', label: 'Daily Ops' },
     { href: '/system', label: 'System' },
   ]
 

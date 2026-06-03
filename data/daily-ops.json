@@ -1,0 +1,61 @@
+{
+  "runs": [
+    {
+      "date": "2026-06-03",
+      "pipeline": "開市前掃瞄",
+      "time": "21:04 HKT",
+      "status": "success",
+      "market_direction": "🟡 Mixed",
+      "spy": "759.57 (+0.14%)",
+      "vix": "N/A",
+      "top_gainers": [
+        "AAPL +2.9%",
+        "TSLA +1.9%",
+        "JPM +1.5%"
+      ],
+      "top_losers": [
+        "MSFT -4.2%",
+        "GOOGL -3.9%",
+        "AMZN -1.8%",
+        "V -1.7%",
+        "NVDA -0.7%"
+      ],
+      "key_takeaways": [
+        "SPY +0.14% pre-market"
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "pipeline": "每週篩選",
+      "time": "14:00 HKT",
+      "status": "success",
+      "market_direction": "",
+      "key_takeaways": [
+        "Track A: 0 candidates | Track B: 0 candidates"
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "pipeline": "美股收市回顧",
+      "time": "00:00 HKT",
+      "status": "success",
+      "market_direction": "🟡 Mixed",
+      "spy": "759.57 (+0.14%)",
+      "vix": "16.05",
+      "top_gainers": [
+        "AAPL +2.9%",
+        "TSLA +1.9%",
+        "JPM +1.5%"
+      ],
+      "top_losers": [
+        "MSFT -4.2%",
+        "GOOGL -3.9%",
+        "AMZN -1.8%"
+      ],
+      "key_takeaways": [
+        "Mixed portfolio: 3 up vs 5 down",
+        "Utilities attracted capital (+1.9%)"
+      ]
+    }
+  ]
+}
