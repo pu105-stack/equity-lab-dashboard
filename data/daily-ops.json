@@ -3,48 +3,22 @@
     {
       "date": "2026-06-03",
       "pipeline": "開市前掃瞄",
-      "time": "21:19 HKT",
+      "time": "21:15 HKT",
       "status": "success",
       "market_direction": "🟡 Mixed",
       "spy": "759.57 (+0.14%)",
-      "vix": "N/A",
-      "top_gainers": [
-        "AAPL +2.9%",
-        "TSLA +1.9%",
-        "JPM +1.5%"
-      ],
-      "top_losers": [
-        "MSFT -4.2%",
-        "GOOGL -3.9%",
-        "AMZN -1.8%",
-        "V -1.7%",
-        "NVDA -0.7%"
-      ],
+      "vix": "16.05",
+      "top_gainers": ["AAPL +2.9%", "TSLA +1.9%", "JPM +1.5%"],
+      "top_losers": ["MSFT -4.2%", "GOOGL -3.9%", "AMZN -1.8%", "V -1.7%", "NVDA -0.7%"],
       "headlines": [
         "US10Y yield is breaking out of 2y downtrend...get ready (tradingview)",
-        "Three dead in Royal Navy helicopter crash (bbc_top)",
-        "What a $1K Investment in Qualcomm 15 Years Ago Is Worth Today (Hint: It’s More Than You Think) (247wallst)",
         "KKR, Ares, Blackstone tumble as Partners Group caps private equity fund withdrawals (cnbc_top)",
-        "XRP/USD: Fresh Bearish BoS Below 1.2685 Keeps Pressure Toward 1. (tradingview)",
-        "AI Designing AI: The Hidden Reason Nvidia Owns a $2 Billion Stake in Synopsys (247wallst)"
+        "AI Designing AI: The Hidden Reason Nvidia Owns a $2 Billion Stake in Synopsys (247wallst)",
+        "Three dead in Royal Navy helicopter crash (bbc_top)"
       ],
-      "focus": [
-        "Watch Utilities: +1.9%"
-      ],
+      "focus": ["Watch Utilities: +1.9% pre-market rotation signal"],
       "analysis": "Pre-market neutral, index futures flat | Utilities leading (+1.9%) — potential sector rotation | Yield curve flat (0.41%) — growth concerns, stay selective",
-      "key_takeaways": [
-        "SPY +0.14% pre-market"
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "pipeline": "每週篩選",
-      "time": "14:00 HKT",
-      "status": "success",
-      "market_direction": "",
-      "key_takeaways": [
-        "Track A: 0 candidates | Track B: 0 candidates"
-      ]
+      "key_takeaways": ["SPY +0.14% pre-market"]
     },
     {
       "date": "2026-06-03",
@@ -54,20 +28,17 @@
       "market_direction": "🟡 Mixed",
       "spy": "759.57 (+0.14%)",
       "vix": "16.05",
-      "top_gainers": [
-        "AAPL +2.9%",
-        "TSLA +1.9%",
-        "JPM +1.5%"
-      ],
-      "top_losers": [
-        "MSFT -4.2%",
-        "GOOGL -3.9%",
-        "AMZN -1.8%"
-      ],
-      "key_takeaways": [
-        "Mixed portfolio: 3 up vs 5 down",
-        "Utilities attracted capital (+1.9%)"
-      ]
+      "top_gainers": ["AAPL +2.9%", "TSLA +1.9%", "JPM +1.5%"],
+      "top_losers": ["MSFT -4.2%", "GOOGL -3.9%", "AMZN -1.8%"],
+      "key_takeaways": ["Mixed portfolio: 3 up vs 5 down", "Utilities attracted capital (+1.9%)"]
+    },
+    {
+      "date": "2026-06-03",
+      "pipeline": "每週篩選",
+      "time": "14:00 HKT",
+      "status": "success",
+      "market_direction": "",
+      "key_takeaways": ["Track A: 0 candidates | Track B: 0 candidates"]
     }
   ]
 }
