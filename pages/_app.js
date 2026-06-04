@@ -12,8 +12,8 @@ export default function App({ Component, pageProps }) {
   const links = [
     { href: '/', label: 'Dashboard' },
     { href: '/daily-ops', label: 'Daily Ops' },
-    { href: '/deep-dive', label: 'Deep Dive' },
-    { href: '/deep-dive-results', label: 'Results' },
+    { href: '/deep-dive', label: 'Deep Dive Candidate' },
+    { href: '/deep-dive-results', label: 'Deep Dive Result' },
     { href: '/system', label: 'System' },
   ]
 
