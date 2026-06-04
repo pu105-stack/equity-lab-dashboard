@@ -24,8 +24,8 @@ export default function DeepDiveCandidates() {
         const opsResp = await fetch('/daily-ops')
         const opsHtml = await opsResp.text()
         
-        // Fetch decisions from API
-        const decResp = await fetch('/api/deep-dive')
+        // Fetch decisions from public JSON
+        const decResp = await fetch('/data/deep-dive-decisions.json')
         const decData = await decResp.json()
         
         // Parse existing decisions into a lookup map
@@ -37,8 +37,8 @@ export default function DeepDiveCandidates() {
         }
         setDecisions(decMap)
         
-        // Get the weekly screen data - read from the API
-        const dataResp = await fetch('/api/daily-ops')
+        // Get the weekly screen data - read from the static JSON
+        const dataResp = await fetch('/data/daily-ops.json')
         const data = await dataResp.json()
         
         // Find the latest weekly screen run

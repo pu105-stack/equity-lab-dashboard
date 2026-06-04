@@ -1,0 +1,50 @@
+{
+  "decisions": [
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "LTRX",
+      "status": "deep_dive",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "MRVL",
+      "status": "pending",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "AVGO",
+      "status": "skip",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "pending",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "AAPL",
+      "status": "done",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "META",
+      "status": "pending",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "COIN",
+      "status": "skip",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    },
+    {
+      "ticker": "XLU",
+      "status": "pending",
+      "updated_at": "2026-06-05T10:00:00+08:00"
+    }
+  ],
+  "last_updated": "2026-06-05T10:00:00+08:00"
+}
