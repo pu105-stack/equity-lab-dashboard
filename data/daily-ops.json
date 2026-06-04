@@ -182,6 +182,50 @@
         "NVDA短線承壓，不宜急於撈底",
         "防禦性配置（JPM, V）相對穩健"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator#1",
+      "date": "2026-06-04",
+      "time": "20:39 HKT",
+      "status": "success",
+      "market_direction": "審慎偏弱 — 美股連升兩週後首日回調（S&P -0.7%, Nasdaq -0.9%, Dow -1.2%）。中東局勢再度升溫（美伊/以色列-黎巴嫩衝突）推升油價近$100，眾議院跨黨派通過限制總統對伊戰爭權力議案。科技巨頭AI資本開支料超$7000億引發回報質疑，Broadcom業績後暴跌14%拖累半導體板塊。以色列-黎巴嫩同意有條件停火，市場等待伊朗和談進展。",
+      "headlines": [
+        "ACTION: GOOGL — $840億股本融資震動市場，AI基建開支指引上調至$1900億上限，短線稀釋但長線AI基建領先地位強化",
+        "ACTION: AAPL — WWDC 6/8前Morgan Stanley強烈看多，Gemini驅動Siri改革+iOS支付功能，臨近催化劑窗口",
+        "WATCH: NVDA — Computex推RTX Spark AI PC超級晶片+Hyundai AI中心合作，Jensen稱Marvell爲下一家萬億公司",
+        "WATCH: AMZN — Prime Day延長至4天+AI倉儲機械人Proteus+歐洲百億歐元投資，自研晶片戰略加速",
+        "ACTION: AVGO — 業績後暴跌14%市值蒸發$3000億，AI收入雖倍增但市場失望，可考慮逢低佈局",
+        "WATCH: META — 新AI模型推遲發布+歐盟部分勝訴（Marketplace非gatekeeper）+泰國/澳洲監管壓力",
+        "ACTION: SPACE (未上市) — SpaceX IPO定價$1.75萬億，史上最大IPO，關注間接持倉機會",
+        "WATCH: MSFT — 與NVIDIA合作開發RTX Spark晶片，降低第三方依賴，AI內部化趨勢明確"
+      ],
+      "opportunities": [
+        "GOOGL: 短線因$840億股本融資受壓，但市場低估了Anthropic TPU訂單+Google Cloud企業AI需求（Palantir剛宣布上架GCP Marketplace）。BRK及ARK同時加倉屬罕見信號。$1900億capex指引看似驚人，但對比Meta/AMZN，Google的AI貨幣化路徑最清晰（搜索+雲+YouTube）。融資槓桿工具乃MSTR曾用方式，勿過慮稀釋。",
+        "AAPL: WWDC 6/8催化劑在即。Gemini驅動Siri代表Apple終於在AI助手領域有實質進展。iOS原生賬單分拆功能（掃收據即分單）看似小功能但提升iOS生態黏性。Morgan Stanley目標價暗示~15%上行空間。App Store $1.4萬億GMV年增穩健。",
+        "AVGO: 14%單日跌幅過度。AI收入同比確實翻倍以上，市場對custom AI chip期望過高。VMware整合仍在進行，non-AI半導體週期性復甦尚未計價。$3000億市值蒸發後風險回報改善，適合耐心投資者分批建倉。",
+        "SPACE (間接): SpaceX IPO為2026年最重磅事件。無法直接認購者可關注：持有SpaceX的VC/PE基金、Tesla（Elon財富效應）、或發射相關衛星營運商。IPO估值$1.75萬億但分析師十年目標高達$10萬億。",
+        "公用事業股（XLU等）: Big Tech AI資本開支$7000億+，數據中心電力需求爆發式增長，公用事業為被低估的AI受惠者，值得關注。",
+        "BRK.B: Greg Abel首筆重大收購 — $85億收購Taylor Morrison（建商），逆週期押注美國住房市場，顯示Abel時代的資本配置風格"
+      ],
+      "analysis": "News Curator #1（亞洲/歐洲 session）- 2026年6月4日 8pm HKT\n\n宏觀主題：Risk-off 情緒回歸\n美股打破兩週連升紀錄，S&P 500跌0.7%，主因：（1）伊朗/中東戰事升級 — 美國眾議院罕見跨黨派通過限制總統戰爭權力，4名共和黨人倒戈；（2）以色列-黎巴嫩達成有條件停火協議，但Hezbollah攻擊持續；（3）油價逼近$100，通脹憂慮重燃。Fed主席Warsh面臨減息壓力，但AI基建通脹效制約政策空間。\n\n半導體板塊：Broadcom暴跌拖累全線\nAVGO業績後-14%為今日最大事件。AI收入倍增但指引未達狂熱預期，反映市場對AI硬體股定價已極度進取。NVDA雖未受直接拖累（Computex利多對沖），但整體半導體情緒受壓。NVDA Computex亮點：RTX Spark AI PC晶片（與MSFT/聯發科合作）、Vera Rubin機架級平台、Hyundai AI中心合作。Jensen黃稱Marvell為下一家萬億美元公司具參考價值。\n\nMagnificent 7 分化加劇\n- AAPL 催化劑最多（WWDC 6/8），Gemini Siri + iOS支付，Morgan Stanley bullish\n- GOOGL 短線稀釋壓力，但長線AI故事最強（Anthropic TPU、Google Cloud、Waymo），BRK+ARK同時買入罕見\n- AMZN Prime Day延長、AI機械人、自研晶片、Cerebras合作，多引擎驅動\n- MSFT 中性偏正面，AI內部化降低對第三方依賴，與NVDA合作開發晶片\n- META 新AI模型延遲+多地監管壓力，但CoreWeave長約至2032顯示AI commitment未變\n- NVDA Computex多項新品，但需留意AVGO事件後AI硬體板塊估值重估風險\n\n板塊輪動觀察\n- 能源/油股受惠中東局勢（油價$100）\n- 公用事業將成AI基建受惠者（數據中心電力需求）\n- 住房/建商：BRK $85億收購Taylor Morrison，Abel逆週期押注\n- 防禦性資產短線或獲避險資金流入",
+      "risks": [
+        "中東局勢持續升級 — 伊朗和談破裂或致更大規模軍事衝突，油價突破$100衝擊全球經濟",
+        "AI資本開支回報質疑升溫 — Broadcom暴跌反映市場開始審視$7000億+AI支出的實際回報",
+        "美國國會與行政部門在伊朗問題上的分歧可能導致政策不確定性",
+        "通脹黏性使Fed無法減息，高利率持續壓制成長股估值",
+        "Big Tech自研晶片趨勢（GOOGL/AMZN/MSFT）可能衝擊NVDA/AVGO長期定價權"
+      ],
+      "my_take": "市場miss咗嘅重點：（1）GOOGL的$840億融資係催化劑，唔係利淡 — 參考MSTR先例，Strategic equity raise喺AI基建競賽中係先行指標，唔係弱勢信號。BRK歷來極少買科技股，今次double down係強烈背書。（2）Broadcom暴跌創造機會 — AI收入確實翻倍，市場失望只因預期太高。VMware非AI業務復甦尚未被price in。（3）公用事業係被低估嘅AI play — 數據中心電力需求結構性增長，但市場尚未將此主線定價。（4）SpaceX IPO係2026年最大事件 — $1.75萬億估值只是起點，跟進間接持倉機會。組合策略：增持GOOGL（利用短線弱勢）、持有AAPL（等WWDC催化劑）、留意AVGO撈底機會、關注XLU公用事業ETF。",
+      "key_takeaways": [
+        "美股短線回調，中東局勢為核心風險變數",
+        "AAPL WWDC 6/8為Magnificent 7中最明確短線催化劑",
+        "GOOGL $840億融資被過份解讀為利淡，長線AI基建護城河加深",
+        "AVGO暴跌14%後風險回報改善，AI收入倍增基本面未變",
+        "SpaceX IPO $1.75萬億估值 — 關注間接參與機會",
+        "公用事業（XLU）為數據中心AI需求之隱藏受惠者",
+        "BRK Abel時代首筆大型收購$85億押注住房市場，逆週期思維值得參考",
+        "NVDA Computex新品眾多但短線半導體板塊情緒受AVGO拖累"
+      ]
     }
   ]
 }
