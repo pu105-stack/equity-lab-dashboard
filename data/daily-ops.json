@@ -90,6 +90,52 @@
         "10Y yield declining (4.46%), curve flattening — bond market cautious",
         "Portfolio heavily AI-exposed — watch BTC contagion and 750 SPY support"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-04",
+      "time": "2026-06-04 20:00 HKT",
+      "status": "success",
+      "market_direction": "Risk-off — 中東局勢升級（伊朗炸科威特機場），Broadcom 業績崩盤拖累晶片股，S&P 500 終止十連升，油價迫近$100。但 AI capex 故事未死（Google $190B、SpaceX IPO），WWDC 前 Apple 獲看好。",
+      "headlines": [
+        "ACTION: AVGO — Broadcom 業績遜預期，盤後瀉14%，蒸發$300B市值，AI客製晶片指引不及市場期望。反彈後估值已高，宜減倉觀望。",
+        "ACTION: GOOGL — Google 宣佈$84.75B股權融資推AI基建，全年capex上調至$190B。Cathie Wood & Buffett 同步增持，但DuckDuckGo用戶創新高+UK CMA制裁AI搜尋，雙面刃。",
+        "WATCH: SpaceX IPO — $75B集資，$135/股固定價，$1.75T估值。史上最大IPO。indirect plays: GOOGL (7.5% stake)、TSLA (Musk)。",
+        "WATCH: AAPL — WWDC 6/8舉行，Gemini-powered Siri 成焦點。Morgan Stanley 看好。App Store全年$1.4T銷售。",
+        "WATCH: NVDA — Jensen Huang 進軍PC晶片市場 (RTX Spark)，擠壓QCOM。公開話MRVL會係下個trillion-dollar公司。同Hyundai傾韓國AI center。",
+        "WATCH: MSFT — Wells Fargo 指Microsoft正減少依賴第三方AI，更多in-house開發。同NVDA共同開發RTX Spark。",
+        "WATCH: META — 推遲新AI模型發布。澳洲FTA爭議升級（新聞付費法）。泰國起訴Facebook詐騙廣告。CoreWeave長約至2032。",
+        "WATCH: AMZN — 新AI倉庫機械人Proteus亮相，€10B歐洲投資。Prime Day延長至4日。數據中心擴張遭工程師反對。",
+        "NOTE: BRK.B — Greg Abel首個大deal：$8.5B收購Taylor Morrison (TMHC)。同時增持GOOGL。價值投資者轉向housing+tech。",
+        "NOTE: IBM — Trump稱CEO為legend，股價創新高+44%單月升幅。",
+        "NOTE: UBER — 接近$500M投資自駕startup Nuro。",
+        "NOTE: TSLA — OpenAI重返機械人業務，Optimus面臨競爭。",
+        "SKIP: Geopolitics — 以色列-黎巴嫩停火協議，伊朗炸科威特機場，美國眾議院限制Trump對伊軍事行動（4共和黨倒戈）。油價$100成焦點。"
+      ],
+      "opportunities": [
+        "🎯 GOOGL: $190B AI capex極度進取，但Cathie Wood + Buffett 同時買入屬罕見信號。UK CMA監管+用戶流向DuckDuckGo為風險。估值合理（相對AI peers），建議dip買。",
+        "🎯 MRVL: Jensen Huang公開背書為「下個trillion-dollar公司」，NVDA供應鏈溢價效應。AVGO大跌可能拖累短期，但中長期AI networking story intact。",
+        "🎯 AAPL: WWDC前（6/8），Morgan Stanley看好。Gemini Siri如成功，將打開AI consumer monetization大門。App Store $1.4T生態系統證明黏性。",
+        "🎯 SpaceX IPO indirect plays: GOOGL (7.5% equity stake最直接)、TSLA (Musk溢價)、NVDA (晶片供應商)。IPO定價$135，無價格區間，不尋常。"
+      ],
+      "analysis": "今日亞洲/歐洲session三大主題：(1) Broadcom業績炸彈引發AI估值重估，(2) SpaceX IPO細節出爐成市場焦點，(3) 中東再升級但出現停火曙光。\\n\\nBroadcom作為AI客製晶片龍頭，業績指引未能滿足市場極高預期，盤後跌14%，市值蒸發$300B。這反映AI板塊估值已price in大量利好，任何miss都會被放大。但需注意AVGO的非AI業務（VMware整合、傳統半導體）才是miss主因，AI revenue其實仍double-digit growth。\\n\\nGoogle $190B capex+$84.75B股權融資係雙面刃：一方面證明AI需求real and massive，利好NVDA、MRVL等基建股；另一方面稀釋現有股東，且DuckDuckGo創用戶新高顯示AI search爭議正分流用戶。\\n\\nSpaceX IPO係今年最大deal — $1.75T估值，$75B集資，直接定價唔行bookbuilding，顯示demand極強。Indirect plays值得關注。\\n\\n油價逼近$100，中東局勢+伊朗炸科威特機場短期推升能源成本，不利transportation/consumer discretionary。",
+      "risks": [
+        "⚠️ AVGO大跌可能蔓延至整個半導體/AI板塊，NVDA、MRVL短期受拖累",
+        "⚠️ 中東局勢升級（伊朗炸科威特機場），油價$100+將打擊消費及運輸股",
+        "⚠️ AI capex泡沫風險 — Google $190B、MSFT/AMZN/META合計>$700B，回報成疑",
+        "⚠️ SpaceX IPO吸走市場流動性，可能觸發tech sell-off",
+        "⚠️ META澳洲FTA爭議+泰國訴訟=監管風險升溫",
+        "⚠️ 德州screwworm疫情威脅美國畜牧業，肉價通脹壓力"
+      ],
+      "my_take": "市場今日miss咗嘅關鍵：Broadcom跌唔係AI故事結束，而係市場揀winner/loser嘅開始。AVGO嘅miss主要來自VMware整合+legacy業務，AI custom chip（TPU v6、Meta ASIC）動能依舊強勁。反而Google $190B capex+SpaceX $1.75T IPO確認AI軍備競賽只係剛開始。\\n\\n我認為本次pullback係reposition機會：\\n1. GOOGL — $190B commitment顯示佢哋睇到嘅AI需求遠超市場預期。$84.75B dilution短期壓股價，但長線係買入位。\\n2. MRVL — Huang嘅trillion-dollar公司標籤唔係隨口講。AVGO跌時MRVL若跟跌，係accumulate機會。\\n3. AAPL — WWDC前揸、WWDC後視Siri demo決定。如成功，AAPL有機會複製NVDA嘅AI re-rating。\\n\\n最需要警惕嘅訊號：油價$100 + 中東全面戰爭風險 = 2026 H2最大tail risk。應適度hedge能源股或減少high-beta exposure。",
+      "key_takeaways": [
+        "🔑 Broadcom ($AVGO) 盤後瀉14%，$300B市值蒸發 — AI估值開始揀擇，唔係乜都炒",
+        "🔑 SpaceX IPO鎖定$1.75T估值、$135定價、$75B集資額 — 史上最大IPO",
+        "🔑 Google $190B AI capex + $84.75B融資 — AI軍備競賽加速，利好基建股",
+        "🔑 伊朗炸科威特機場，油價$100關口 — 中東tail risk升溫",
+        "🔑 WWDC 6/8 — Apple Gemini Siri 成AI consumer adoption關鍵試金石",
+        "🔑 Jensen Huang：MRVL係下個trillion-dollar公司 + NVDA進軍PC晶片"
+      ]
     }
   ]
 }
