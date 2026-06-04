@@ -86,6 +86,9 @@ Tables: `daily_prices`, `macro_indicators`, `earnings_calendar`
 ### 4. Output
 Output 去 Discord。儲存副本到 `daily-ops/reports/morning-scan/YYYY-MM-DD.md`
 
+### 5. Dashboard Update
+寫入 `/docker-data/equity-lab-dashboard/data/daily-ops.json` — 用 Python 讀取現有 JSON，append 新 entry，寫返出去。字段包括：pipeline, date, time, status, spy, vix, market_direction, headlines, focus, analysis, risks, my_take, key_takeaways
+
 ## Quality Standards
 
 ✅ **Good:**

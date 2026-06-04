@@ -70,3 +70,4 @@
 - Be opinionated — take a stance
 - Write in Chinese Traditional
 - Output 留底俾 future Decision Pipeline 用
+- 寫入 `/docker-data/equity-lab-dashboard/data/daily-ops.json` (dashboard 顯示)
