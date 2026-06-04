@@ -8,8 +8,16 @@
       "spy": "754.24 (-0.70%)",
       "vix": "16.06 (+1.84%)",
       "market_direction": "🟡 Bearish — 10連升斷纜，Big Tech 成最大輸家",
-      "top_gainers": ["META +4.24%"],
-      "top_losers": ["NVDA -3.62%", "MSFT -3.17%", "AMZN -2.53%", "AAPL -1.57%", "V -1.55%"],
+      "top_gainers": [
+        "META +4.24%"
+      ],
+      "top_losers": [
+        "NVDA -3.62%",
+        "MSFT -3.17%",
+        "AMZN -2.53%",
+        "AAPL -1.57%",
+        "V -1.55%"
+      ],
       "headlines": [
         "S&P 500 和 Nasdaq 結束10連升紀錄",
         "NVDA Computex 效應反轉 — Jensen 好消息出貨",
@@ -33,7 +41,55 @@
         "⚠️ 組合整體偏向科技，beta exposure 偏高"
       ],
       "my_take": "今日係 healthy correction。重點 watch: NVDA $214 support、MSFT bounce 力度、META 強勢延續性。下週 AAPL WWDC 係大催化劑，310 附近值唔值得加倉取決於對 Siri 2.0 / AI agent 嘅信心。",
-      "key_takeaways": ["NVDA 好消息出貨 pattern 出現", "MSFT 最大警號 — 連跌兩日", "META relative strength 值得追蹤", "AAPL WWDC 下週一"]
+      "key_takeaways": [
+        "NVDA 好消息出貨 pattern 出現",
+        "MSFT 最大警號 — 連跌兩日",
+        "META relative strength 值得追蹤",
+        "AAPL WWDC 下週一"
+      ]
+    },
+    {
+      "pipeline": "開市前掃瞄",
+      "date": "2026-06-04",
+      "time": "20:05 HKT",
+      "status": "success",
+      "spy": "754.24 (-0.05% 5d, -0.70% 1d)",
+      "vix": "16.64 (+8.6% 5d)",
+      "market_direction": "cautious — SPY gave back weekly gains in Wednesday selloff; VIX surging into today",
+      "headlines": [
+        "Anthropic scales most powerful AI, files for IPO",
+        "Bitcoin crash triggers billions in liquidations",
+        "Marvell, Coherent, HP hit all-time highs on AI momentum",
+        "10Y yield declining to 4.46%, curve flattening (spread 0.41%)",
+        "Barron's: \"Triple Whammy\" — multiple forces hitting markets",
+        "STMicro doubles revenue outlook, hits fresh peak",
+        "Victoria's Secret soars to all-time high on swing to profits",
+        "Legend Biotech +42% on promising cancer therapy results"
+      ],
+      "focus": [
+        "AI/semiconductor momentum vs. broader market weakness — divergence is striking",
+        "Bitcoin crash risk-off sentiment may spill into equities today",
+        "Anthropic IPO filing — major catalyst for AI names (NVDA, META, GOOGL)",
+        "Yield curve narrowing — watch for recession signal if spread goes negative",
+        "VIX at 16.64 suggests elevated hedging activity"
+      ],
+      "analysis": "SPY rallied Mon-Tue to 759.57 (June 2 high), then sold off hard Wednesday (-0.70%) back to 754.24 — erasing virtually all weekly gains. VIX is spiking to 16.64 pre-market today, well above the 15.32 level from last Friday, indicating growing unease. The macro picture is mixed: 10Y yields declining to 4.46% (supportive) but the 10Y-2Y spread narrowing to 0.41% suggests the bond market is pricing in a softer economic outlook. Overnight themes are dominated by two big forces: (1) AI euphoria continues — Marvell, Coherent, HP all at all-time highs, Anthropic filing for IPO, STMicro doubling guidance; (2) Bitcoin crash causing billions in liquidations, which could spill risk-off sentiment into equities. The AI/semiconductor momentum is extremely concentrated — if BTC contagion spreads, tech could see a rotation or correction. Portfolio holdings (AAPL, MSFT, GOOGL, AMZN, NVDA, META, TSLA, JPM, V) are heavily exposed to the AI theme, which is the key alpha driver but also the key risk if risk appetite shifts.",
+      "risks": [
+        "Bitcoin liquidation cascade spilling into equities (risk-off)",
+        "SPY technical breakdown if 750 support fails",
+        "VIX above 16 suggests hedging demand increasing",
+        "AI/semiconductor euphoria vs. narrow market breadth — reversal risk",
+        "Curve flattening approaching zero — recession watch"
+      ],
+      "my_take": "The AI narrative is as strong as ever (Anthropic IPO, Marvell/Coherent all-time highs). But the Bitcoin crash adds a new variable — crypto risk-off can bleed into tech. SPY gave back its weekly gains in a single session, which is pattern of distribution, not accumulation. VIX at 16.64 is actionable — I'd watch for 750 support on SPY. If it holds, the AI momentum carries the day. If it breaks, trim positions and raise cash. Our portfolio is long AI-heavy, so this is a \"show me\" morning — let pre-market settle before conviction.",
+      "key_takeaways": [
+        "SPY flat over 5d but fell -0.70% yesterday — all weekly gains erased",
+        "VIX at 16.64 — highest in the period, rising fear",
+        "AI/semiconductors on fire (Marvell, Coherent, HP all-time highs + Anthropic IPO)",
+        "Bitcoin crash — billions liquidated — potential risk-off spillover",
+        "10Y yield declining (4.46%), curve flattening — bond market cautious",
+        "Portfolio heavily AI-exposed — watch BTC contagion and 750 SPY support"
+      ]
     }
   ]
 }
