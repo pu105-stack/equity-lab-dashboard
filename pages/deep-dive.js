@@ -24,8 +24,8 @@ export default function DeepDiveCandidates() {
         const opsResp = await fetch('/daily-ops')
         const opsHtml = await opsResp.text()
         
-        // Fetch decisions from public JSON
-        const decResp = await fetch('/data/deep-dive-decisions.json')
+        // Fetch decisions from API
+        const decResp = await fetch('/api/deep-dive')
         const decData = await decResp.json()
         
         // Parse existing decisions into a lookup map
@@ -223,10 +223,10 @@ export default function DeepDiveCandidates() {
             onClick={saveDecisions}
             disabled={saving}
           >
-            {saving ? '⏳ Saving...' : saved ? '✅ Saved!' : '📤 Sync to Maya'}
+            {saving ? '⏳ Saving...' : saved ? '✅ Saved!' : '💾 Save Decisions'}
           </button>
           <span className="save-hint">
-            Maya 會睇住你 mark 咗 🔍 Deep Dive 嘅 tickers 逐隻分析
+            Maya 會嚟呢版睇你 mark 咗 🔍 Deep Dive 嘅 tickers
           </span>
         </div>
       )}
