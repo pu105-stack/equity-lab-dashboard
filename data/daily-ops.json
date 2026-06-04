@@ -236,6 +236,49 @@
         "META relative strength 值得追蹤",
         "AAPL WWDC 下週一"
       ]
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-06-06",
+      "time": "06:00 HKT",
+      "status": "success",
+      "market_direction": "AI semi 持續強勢，crypto risk 浮現，能源板塊異動",
+      "headlines": [
+        "NVDA — Computex catalyst cluster，連續一週正 sentiment，News Curator 多次 ACTION",
+        "MRVL — Jensen 稱 trillion-dollar company，AI networking 受惠",
+        "AVGO — 暴跌後估值改善，AI 收入仍倍增，值博率提升",
+        "GOOGL — Anthropic IPO + 90B capex，BRK/ARK 同步買入",
+        "AAPL — WWDC 6/8 前 Morgan Stanley 強烈看多，催化劑窗口",
+        "LTRX — 收購傳聞突然出現（anomaly），細價股機會",
+        "XLU — 公用事業被低估嘅 AI 受惠者，Big Tech 數據中心電力需求",
+        "META — 新 AI 模型延遲，但 CoreWeave 長約至 2032 顯示 commitment",
+        "COIN — BTC crash 後風險未消，crypto 相關 risk-off",
+        "SPACE (未上市) — SpaceX IPO .75T 估值，史上最大"
+      ],
+      "focus": [
+        "AI Semi: NVDA, MRVL, AVGO, ANET — 最強 signal cluster",
+        "Crypto risk: TSLA, COIN, MARA — 比特幣爆倉後續",
+        "能源 + 公用: XLU, 油股 — AI 數據中心電力需求",
+        "Event-driven: AAPL WWDC 6/8, SpaceX IPO"
+      ],
+      "opportunities": [
+        "NVDA: Computex 新品 + Anthropic IPO + Marvell trillion-dollar comment，三重催化劑疊加。一週內 News Curator 3x ACTION，sentiment 持續上升",
+        "AAPL: WWDC 6/8 係 Magnificent 7 中最明確短線催化劑。Morgan Stanley target 暗示 15%+ 上行",
+        "LTRX: 突然出現嘅 anomaly — 平時 0 mentions，本週因收購傳聞出現。細價股高 beta 機會",
+        "XLU: 市場未意識到 AI 數據中心對電力需求嘅結構性增長。Big Tech 00B+ capex = 公用事業長期利好",
+        "GOOGL: 90B AI capex commitment 確認 AI 基建競賽，BRK 歷來極少買科技股"
+      ],
+      "risks": [
+        "Broadcom 暴跌14% — AI 估值開始揀擇",
+        "油價 00 關口 — 中東局勢升溫",
+        "AI capex 回報質疑 — 00B+ 投入能否變現"
+      ],
+      "my_take": "呢星期最值得跟進係 AI Semi cluster（NVDA, MRVL），同埋 anomaly LTRX。AAPL WWDC 前值得持有。XLU 係 medium-term theme 唔急。Crypto 相關暫時迴避。",
+      "key_takeaways": [
+        "6 隻值得跟進（3 high_confidence, 3 worth_watching）",
+        "2 個 anomaly tickers 出現",
+        "AI Semi 係最強 cluster"
+      ]
     }
   ]
 }
