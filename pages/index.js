@@ -119,7 +119,7 @@ export default function Home({ data }) {
 
       <div className="footer">
         <span>🔹 Data: {d.date}</span>
-        <span className="deploy-badge">⚡ Deploy: 2026-06-01</span>
+        <span className="deploy-badge">⚡ Deploy: 2026-06-04</span>
       </div>
     </div>
   )
