@@ -10,8 +10,10 @@ data-sources/     → 17 skills (tools — 點 fetch 數據)
                      portfolio-monitor, risk-calculator, stock-deep-dive
 
 daily-ops/        → 排程 job (cron)，一條龍 fetch → process → store → report
-                     ├── morning-scan    每日 8am HKT (開市前)
-                     ├── evening-review   每日 4pm HKT (收市後)
+                     ├── morning-scan    每日 8pm HKT (開市前)
+                     ├── news-curator-1  每日 8pm HKT (亞洲/歐洲 news)
+                     ├── evening-review   每日 8am HKT (收市後)
+                     ├── news-curator-2  每日 8am HKT (US session news)
                      ├── weekly-screen   每星期 Wed/Sat
                      ├── monthly-factor  每月尾
                      ├── quarterly-13f   每季 (Mar/Jun/Sep/Dec)

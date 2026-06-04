@@ -5,13 +5,24 @@
 
 ---
 
-## 🚀 Cron Jobs (全部 weekdays)
+## 🚀 Daily Schedule (weekdays HKT)
+
+```
+8pm ──┬── 🌅 Morning Scan         → set context for US session
+       └── 📰 News Curator #1      → 亞洲/歐洲 news 搵機會
+
+           ↓ US session (9:30pm-4:30am) ↓
+
+8am ──┬── 🌆 Evening Review       → 收市 post-mortem + P&L
+       └── 📰 News Curator #2      → US session news 搵機會
+```
 
 | 時間 (HKT) | Pipeline | 角色 | 目的 |
 |-----------|----------|------|------|
 | 🌅 **8pm** | 開市前掃瞄 | Morning Strategist | Pre-market context, macro, 今日 focus |
-| 📰 **8pm** | 新聞分析-NewsCurator | Research Analyst | 新聞 → 搵投資機會 |
+| 📰 **8pm** | 新聞分析-NewsCurator #1 | Research Analyst | 亞洲/歐洲新聞 → 搵投資機會 |
 | 🌆 **8am** | 美股收市回顧 | Evening Analyst | Post-mortem, P&L, forward look |
+| 📰 **8am** | 新聞分析-NewsCurator #2 | Research Analyst | US session 新聞 → 搵投資機會 |
 | 📊 **Wed 10pm / Sat 2pm** | 每週篩選 | Quant Screener | Russell 3000 factor screening |
 
 **各司其職，output 獨立儲存。將來 Decision Pipeline 會讀取所有 output 做買賣建議。**
