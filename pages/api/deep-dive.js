@@ -16,11 +16,24 @@ export default function handler(req, res) {
 
   // POST: 儲存 decisions（你㩒 Sync 時）
   if (req.method === 'POST') {
-    const { decisions } = req.body
+    const { decisions, merge } = req.body
     if (!decisions) return res.status(400).json({ error: 'Missing decisions' })
 
+    let allDecisions = decisions
+    
+    // merge mode: keep existing decisions, only update the ones in this request
+    if (merge) {
+      try {
+        const existing = JSON.parse(fs.readFileSync(DEC_PATH, 'utf8'))
+        const existingMap = {}
+        existing.decisions.forEach(d => { existingMap[d.ticker] = d })
+        decisions.forEach(d => { existingMap[d.ticker] = d })
+        allDecisions = Object.values(existingMap)
+      } catch {}
+    }
+
     const payload = {
-      decisions,
+      decisions: allDecisions,
       last_updated: new Date().toISOString()
     }
     

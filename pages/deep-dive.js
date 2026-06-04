@@ -126,6 +126,10 @@ export default function DeepDiveCandidates() {
           }
         })
         setDecisions(fullDecMap)
+        
+        // Filter out 'done' tickers from candidates page (keep it clean)
+        const activeEntries = tickerEntries.filter(e => fullDecMap[e.ticker] !== 'done')
+        setEntries(activeEntries)
       } catch (e) {
         console.error('Load error:', e)
       }

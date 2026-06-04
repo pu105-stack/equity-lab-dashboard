@@ -43,11 +43,23 @@ export default function DeepDiveResults() {
 
   const archiveResult = async (ticker) => {
     try {
+      // Remove from results
       await fetch('/api/deep-dive-results', {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ ticker })
       })
+      
+      // Also update candidate status to 'done' on the Deep Dive page
+      await fetch('/api/deep-dive', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          decisions: [{ ticker, status: 'done', updated_at: new Date().toISOString() }],
+          merge: true
+        })
+      })
+      
       setResults(prev => prev.filter(r => r.ticker !== ticker))
     } catch (e) {
       console.error('Archive error:', e)
