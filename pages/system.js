@@ -150,7 +150,7 @@ export default function System() {
       {/* Footer */}
       <div className="footer">
         <span>🔹 Equity Lab — Decision Support System</span>
-        <span className="deploy-badge">⚡ Updated: 2026-06-04</span>
+        <span className="deploy-badge">⚡ Build: 2026-06-04</span>
       </div>
     </div>
 
