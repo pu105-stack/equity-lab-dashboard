@@ -269,7 +269,7 @@ export default function DeepDiveCandidates() {
         .src-badge.headlines { background: rgba(16,185,129,0.15); color: #10b981; }
         .src-badge.opportunities { background: rgba(245,158,11,0.15); color: #fbbf24; }
         .src-badge.theme { background: rgba(99,102,241,0.15); color: #818cf8; }
-        .rsn { font-size: 12px; color: #94a3b8; line-height: 1.4; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 500px; }
+        .rsn { font-size: 12px; color: #94a3b8; line-height: 1.5; max-width: 600px; }
         .sel { font-size: 13px; padding: 6px 12px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e2e8f0; cursor: pointer; flex-shrink: 0; min-width: 150px; font-weight: 500; }
         .sel:focus { outline: none; border-color: #6366f1; }
         .sel option { background: #0f172a; color: #e2e8f0; }
