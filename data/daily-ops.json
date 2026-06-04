@@ -32,13 +32,6 @@
       ]
     },
     {
-      "date": "2026-06-04",
-      "pipeline": "news-curator",
-      "time": "23:47 HKT",
-      "status": "ok",
-      "headlines": 15
-    },
-    {
       "pipeline": "新聞分析-NewsCurator#1",
       "date": "2026-06-04",
       "time": "20:39 HKT",

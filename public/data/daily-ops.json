@@ -1,14 +1,35 @@
 {
   "runs": [
     {
-      "date": "2026-06-04",
-      "pipeline": "news-curator",
-      "time": "21:30 HKT",
-      "status": "ok",
-      "headlines": 15,
-      "action": 2,
-      "watch": 4,
-      "note": 9
+      "pipeline": "每週篩選",
+      "date": "2026-06-06",
+      "time": "06:00 HKT",
+      "status": "success",
+      "market_direction": "本週焦點：AI semi 持續強勢",
+      "headlines": [
+        "NVDA — Computex catalyst cluster，News Curator 多次 ACTION",
+        "AAPL — WWDC 6/8 催化劑窗口",
+        "MRVL — Jensen 稱 trillion-dollar 公司",
+        "LTRX — 收購傳聞突然出現",
+        "XLU — AI 數據中心電力需求受惠"
+      ],
+      "focus": [
+        "AI Semi: NVDA, MRVL",
+        "Event: AAPL WWDC 6/8",
+        "Anomaly: LTRX 收購傳聞"
+      ],
+      "opportunities": [
+        "AAPL: WWDC 6/8 最明確短線催化劑",
+        "LTRX: 突然出現 anomaly，細價股機會"
+      ],
+      "risks": [
+        "油價 00",
+        "Broadcom 拖累半導體"
+      ],
+      "my_take": "AAPL WWDC 前持倉，LTRX anomaly 值得跟進",
+      "key_takeaways": [
+        "5 tickers, 2 high_confidence, 1 anomaly"
+      ]
     },
     {
       "pipeline": "新聞分析-NewsCurator#1",
@@ -235,37 +256,6 @@
         "MSFT 最大警號 — 連跌兩日",
         "META relative strength 值得追蹤",
         "AAPL WWDC 下週一"
-      ]
-    },
-    {
-      "pipeline": "每週篩選",
-      "date": "2026-06-06",
-      "time": "06:00 HKT",
-      "status": "success",
-      "market_direction": "本週焦點：AI semi 持續強勢",
-      "headlines": [
-        "NVDA — Computex catalyst cluster，News Curator 多次 ACTION",
-        "AAPL — WWDC 6/8 催化劑窗口",
-        "MRVL — Jensen 稱 trillion-dollar 公司",
-        "LTRX — 收購傳聞突然出現",
-        "XLU — AI 數據中心電力需求受惠"
-      ],
-      "focus": [
-        "AI Semi: NVDA, MRVL",
-        "Event: AAPL WWDC 6/8",
-        "Anomaly: LTRX 收購傳聞"
-      ],
-      "opportunities": [
-        "AAPL: WWDC 6/8 最明確短線催化劑",
-        "LTRX: 突然出現 anomaly，細價股機會"
-      ],
-      "risks": [
-        "油價 00",
-        "Broadcom 拖累半導體"
-      ],
-      "my_take": "AAPL WWDC 前持倉，LTRX anomaly 值得跟進",
-      "key_takeaways": [
-        "5 tickers, 2 high_confidence, 1 anomaly"
       ]
     }
   ]
