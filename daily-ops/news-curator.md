@@ -62,12 +62,47 @@
 ```
 → 冇 judgment, 冇機會識別 ❌
 
+## DB Store (CRITICAL)
+每條 curated headline 必須入 PostgreSQL：
+- **host**: host.docker.internal
+- **port**: 5432
+- **user**: tradus371
+- **password**: QuantLab2026!
+- **dbname**: equity-db
+- **table**: news_summary
+- **source**: 'news-curator' (固定 — 同 raw RSS 分開)
+
+用 Python psycopg2 逐條 insert：
+```python
+import psycopg2
+conn = psycopg2.connect(host='host.docker.internal', user='tradus371',
+                        password='QuantLab2026!', dbname='equity-db')
+cur = conn.cursor()
+for item in curated_items:
+    cur.execute("""INSERT INTO news_summary
+        (title, source, published_at, tickers, sentiment_score, url)
+        VALUES (%s, 'news-curator', %s, %s, %s, %s)""",
+        (item['headline'], datetime.now(), item.get('tickers', []),
+         item['sentiment'], item.get('url', '')))
+conn.commit()
+cur.close()
+conn.close()
+```
+
+## Dashboard Update
+每 run 完要 update dashboard + git push：
+```
+python3 /docker-data/daily-ops/update-dashboard.py news-curator ok '{"headlines": N}'
+```
+
 ## Rules
 - Summarize first (fast), then opportunities (deep)
-- Max 20 curated headlines
+- Max 15 curated headlines
 - At least 3-5 ACTION/WATCH items
 - Focus on portfolio + semi sector + macro surprises
 - Be opinionated — take a stance
 - Write in Chinese Traditional
+- 每條必須有日期 date field（YYYY-MM-DD）方便 filter
+- tickers_mentioned 可有可無，有就填冇就 []，唔好夾硬作
 - Output 留底俾 future Decision Pipeline 用
 - 寫入 `/docker-data/equity-lab-dashboard/data/daily-ops.json` (dashboard 顯示)
