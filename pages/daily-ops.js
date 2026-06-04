@@ -29,7 +29,7 @@ export default function DailyOps({ runs }) {
           <span className="l">Total Runs</span>
         </div>
         <div className="stat">
-          <span className="n ok">{sorted.filter(r => r.status === 'success').length}</span>
+          <span className="n ok">{sorted.filter(r => r.status === 'success' || r.status === 'ok').length}</span>
           <span className="l">✅ Success</span>
         </div>
         <div className="stat">
