@@ -13,6 +13,7 @@ export default function App({ Component, pageProps }) {
     { href: '/', label: 'Dashboard' },
     { href: '/daily-ops', label: 'Daily Ops' },
     { href: '/deep-dive', label: 'Deep Dive' },
+    { href: '/deep-dive-results', label: 'Results' },
     { href: '/system', label: 'System' },
   ]
 
