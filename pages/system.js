@@ -152,15 +152,15 @@ export default function System() {
         <span>🔹 Equity Lab — Decision Support System</span>
         <span className="deploy-badge">⚡ Build: 2026-06-04</span>
       </div>
-    </div>
 
-    <style jsx>{`
-      /* Flow layout for daily cadence */
-      .cadence-flow { display: flex; flex-direction: column; gap: 8px; }
-      .flow-block { display: flex; align-items: flex-start; gap: 12px; }
-      .flow-time { font-size: 13px; font-weight: 700; color: #fbbf24; min-width: 40px; padding-top: 2px; flex-shrink: 0; }
-      .flow-items { flex: 1; display: flex; flex-direction: column; gap: 6px; }
-      .flow-arrow { text-align: center; font-size: 12px; color: #64748b; padding: 4px 0; letter-spacing: 0.5px; }
-    `}</style>
+      <style jsx>{`
+        /* Flow layout for daily cadence */
+        .cadence-flow { display: flex; flex-direction: column; gap: 8px; }
+        .flow-block { display: flex; align-items: flex-start; gap: 12px; }
+        .flow-time { font-size: 13px; font-weight: 700; color: #fbbf24; min-width: 40px; padding-top: 2px; flex-shrink: 0; }
+        .flow-items { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+        .flow-arrow { text-align: center; font-size: 12px; color: #64748b; padding: 4px 0; letter-spacing: 0.5px; }
+      `}</style>
+    </div>
   )
 }
