@@ -44,12 +44,12 @@ export default function System() {
           </div>
           <div className="cadence-body">
             <div className="cadence-item">
-              <span className="cadence-time">Wed</span>
-              <span>Screening Run — 中段篩選潛在機會</span>
+              <span className="cadence-time">Sat 6am</span>
+              <span>Weekly Screen — 新聞-driven signal filter → 睇邊啲值得深睇</span>
             </div>
-            <div className="cadence-item">
-              <span className="cadence-time">Sat</span>
-              <span>Full Screen — 深度掃描 watchlist</span>
+            <div className="cadence-item" style={{ marginTop: 8 }}>
+              <span className="cadence-time">On-demand</span>
+              <span>Deep Dive — 逐隻分析 tickers（from Deep Dive page）</span>
             </div>
           </div>
         </div>

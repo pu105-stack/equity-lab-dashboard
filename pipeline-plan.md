@@ -1,160 +1,192 @@
-# Pipeline Architecture Plan (V2)
+# Pipeline Architecture Plan (V3)
 
-## 核心架構
+## 核心哲學 — 各司其職
 
 ```
-data-sources/     → 17 skills (tools — 點 fetch 數據)
-                     finnhub, yahoo-finance, rss-feed, marketaux,
-                     fred, sec-edgar, sec-edgar-13f, stock-screener,
-                     finviz-stock-screener, tiingo, reddit-data,
-                     portfolio-monitor, risk-calculator, stock-deep-dive
-
-daily-ops/        → 排程 job (cron)，一條龍 fetch → process → store → report
-                     ├── morning-scan    每日 8pm HKT (開市前)
-                     ├── news-curator-1  每日 8pm HKT (亞洲/歐洲 news)
-                     ├── evening-review   每日 8am HKT (收市後)
-                     ├── news-curator-2  每日 8am HKT (US session news)
-                     ├── weekly-screen   每星期 Wed/Sat
-                     ├── monthly-factor  每月尾
-                     ├── quarterly-13f   每季 (Mar/Jun/Sep/Dec)
-                     └── stock-deep-dive on-demand (user-triggered)
+Trading Desk = Maya (Commander)
+                  │
+  ┌───────────────┼───────────────┐
+  │               │               │
+Morning Scan   News Curator   Evening Review
+(context)      (opportunity)  (post-mortem)
+  │               │               │
+  └───────────────┼───────────────┘
+                  ↓
+      ┌──────────────────────┐
+      │  Weekly Screen (Sat) │ ← NEW
+      │  「邊啲值得再睇？」   │
+      └──────────┬───────────┘
+                 ↓ (你揀 tickers)
+      ┌──────────────────────┐
+      │ Deep Dive (on-demand)│ ← NEW
+      │ 逐隻 full analysis  │
+      └──────────────────────┘
+                 ↓
+      [Future] Paper Trade Agent
 ```
 
-**DB storage 係 daily ops 嘅 side effect** — morning scan fetch 完 store 埋，data 自然 accumulate。
-
-唔需要獨立嘅 data pipeline layer。Morning scan + evening review 夾埋 cover 全日 data。
+**原則：**
+- Summarize 係基本盤，core = 搵投資機會
+- 唔係 keyword filter，係 AI judgment
+- 每個 pipeline output 獨立留底 → 將來 Paper Trade Agent 用
+- 唔 consolidate pipelines（context length）
 
 ---
 
-## Daily Ops 詳細
+## Pipeline 詳細
 
-### 1. Morning Scan (每日 8am HKT)
+### 1. Morning Scan（開市前掃瞄）
+**⏰ 每日 8pm HKT（US 開市前）**
 
-**目的：** 開市前 data → morning report
-**Cadence:** 每日 (cron)
+**角色：** Context setter — 今日 market 係咩環境
 
-**Steps:**
-1. Fetch S&P 500 pre-market prices (FMP/yahoo-finance)
-2. Fetch overnight news summary (RSS + Tiingo + Finnhub + Marketaux)
-3. Fetch FRED macro (interest rate, CPI, unemployment)
-4. Fetch today's earnings calendar (FMP)
-5. **Store all raw data → DB**
-6. Analyze:
-   - Pre-market movers (top gainers/losers)
-   - News sentiment by stock
-   - Overnight macro changes
-   - Earnings beats/misses today
-7. **Output:** morning report (Discord)
+**Data source:** yahoo-finance, fred, rss-feed, marketaux, finnhub
 
-**DB records stored:**
-- `daily_prices`, `news_summary`, `macro_indicators`, `earnings_calendar`
+**Core value:**
+- SPY trend, VIX, macro snapshot
+- 今日 themes / catalysts
+- 風險 level
 
-### 2. Evening Review (每日 4pm HKT)
-
-**目的：** 收市 data → 全日分析
-**Cadence:** 每日 (cron)
-
-**Steps:**
-1. Fetch S&P 500 closing prices (FMP/yahoo-finance)
-2. Fetch intraday/sector performance
-3. Fetch today's news roundup (RSS + Tiingo + Finnhub)
-4. **Store all raw data → DB**
-5. Analyze:
-   - Daily % change breakdown
-   - Sector rotation
-   - Volume anomalies
-   - Portfolio holdings P&L
-   - Correlation shifts
-6. **Output:** evening review (Discord)
-
-**DB records stored:**
-- `daily_prices`, `news_summary`
-
-### 3. Weekly Screening (Wed & Sat)
-
-**目的：** 全 market 篩選（Russell 3000）
-**Cadence:** 每星期兩次 (cron)
-
-**Steps:**
-1. Fetch Russell 3000 prices on-demand → 暫存 `screen_cache`
-2. Run stock screener (momentum, value, growth factors)
-3. Top picks → store report + vector map
-4. 暫存 table clean up / keep 到下星期
-
-**DB records stored:**
-- `weekly_screening`, `screen_cache` (暫存)
-
-### 4. Monthly Factor Review (每月尾)
-
-**目的：** 回顧 factor performance
-**Cadence:** cron — 每月最後一日
-
-**Steps:**
-1. Aggregate daily prices → monthly returns
-2. Factor analysis (momentum, value, size, quality)
-3. **Output:** monthly factor report
-
-### 5. Quarterly 13F (Mar/Jun/Sep/Dec)
-
-**目的：** 追蹤機構持倉變化
-**Cadence:** cron — 每季 (45日 filing deadline 後)
-
-**Steps:**
-1. Fetch SEC EDGAR 13F for key funds
-2. Compare with previous quarter
-3. **Output:** 13F change report
-
-**DB records stored:**
-- `holder_portfolios` (only tracked funds)
+**Output:** Discord + `daily-ops.json` → git push → Vercel
 
 ---
 
-## DB Storage Strategy
+### 2. News Curator #1 & #2（新聞分析）
+**⏰ #1: 每日 8pm HKT（亞洲/歐洲 session）**
+**⏰ #2: 每日 8am HKT（US overnight session）**
 
-### Keep (historical needed for analysis)
+**角色：** Opportunity finder — 由新聞入面搵投資機會
 
-| Table | Source | Growth/yr |
-|-------|--------|-----------|
-| `daily_prices` | S&P 500, FMP | ~10 MB |
-| `earnings_calendar` | FMP | ~0.24 MB |
-| `macro_indicators` | FRED | ~0.5 MB |
-| `news_summary` | RSS + Tiingo + Finnhub + Marketaux | ~5 MB |
-| `weekly_screening` | Screener | ~0.5 MB |
-| **Total baseline** | | **~16-17 MB/yr** |
+**Data source:** rss-feed (56 feeds, ~500-900 articles)
 
-### On-demand (fetch when needed, optional store)
+**Steps:**
+1. RSS fetch
+2. Curate (ACTION / WATCH / NOTE)
+3. **每條 headline 入 DB** → `news_summary`（source='news-curator'）
+4. Update `daily-ops.json` + git push
+5. Discord output（Chinese Traditional）
 
-| Table | Behaviour |
-|-------|-----------|
-| `screen_cache` | Russell 3000 raw prices — fetch per screening event, keep 1 week |
-| `holder_portfolios` | 13F — fetch per quarter, store only for tracked funds |
-| `deep_dive_data` | Per-ticker analysis, store optional |
+**Core value:**
+- Summarize 係基本盤
+- 搵 investment opportunities 先係核心
+- 每條有日期 + tickers（有就 fill，冇就 []）
 
-### Never store
+---
 
-| Data | Why |
-|------|-----|
-| News body | Summary only — 慳 95% space |
-| Russell 3000 (full daily) | 太大，只 screening event 用 |
-| Tick-level / intraday | Decision support, 唔需要 |
+### 3. Evening Review（美股收市回顧）
+**⏰ 每日 8am HKT（US 收市後）**
+
+**角色：** Post-mortem — 今日發生咗咩事
+
+**Data source:** yahoo-finance, finnhub, fred
+
+**Core value:**
+- 今日大市表現
+- 持倉 P&L
+- Sector rotation
+- 風險 checklist
+
+**Output:** Discord + `daily-ops.json` → git push → Vercel
+
+---
+
+### 4. Weekly Screen（每週篩選）← UPDATED
+**⏰ 逢星期六 6am HKT**
+
+**角色：** Signal filter — 呢個星期邊啲 tickers 值得再睇？
+
+**Input:** `news_summary`（7日 data）+ News Curator picks
+
+**Steps:**
+1. Query News Curator picks（source='news-curator', 7日）
+2. Anomaly detection — tickers 突然出現
+3. Thematic clustering — recurring themes
+4. AI judgment → 邊 3-8 隻 tickers 值得再睇 + 點解
+
+**Output：**
+```
+📊 每週篩選 — X月X日
+
+🎯 高信心（News Curator 多次提及）
+  NVDA — Computex + Anthropic IPO catalyst cluster
+  MRVL — record high + AI infra theme
+
+👀 值得睇（anomaly / 新出現）
+  LTRX — 收購傳聞
+  {細價股} — breakthrough news
+
+📌 主題
+  AI Semi — NVDA, MRVL, AVGO, ANET
+  Crypto risk — TSLA, COIN, MARA
+```
+
+**唔做：** ❌ scoring、❌ price data、❌ sentiment trend、❌ trade recommendation
+
+**Output:** Discord + `daily-ops.json` → git push → Vercel
+
+---
+
+### 5. Deep Dive（詳細分析）← NEW
+**⏰ On-demand（你睇完 Weekly Screen 後話 run 先 run）**
+
+**角色：** 逐隻 ticker 做 detailed analysis
+
+**Steps:**
+1. 你揀 tickers（from Weekly Screen output）
+2. For each ticker:
+   - Fundamentals（yahoo-finance: PE, EPS, revenue, margins）
+   - Technicals（price chart, support/resistance）
+   - News cluster（news_summary 相關 news）
+   - Catalyst timeline（earnings, events, product launches）
+   - Risk/reward assessment
+3. **Output:** full analysis report
+
+**Output:** Discord（你睇完決定 action）
+
+---
+
+## DB Schema
+
+### `news_summary`（核心 table）
+| Column | Type | Description |
+|--------|------|-------------|
+| id | integer PK | Auto |
+| title | text | Headline |
+| source | varchar | 'rss:bloomberg' / 'news-curator' |
+| published_at | timestamp | News date |
+| tickers | text[] | Mentioned tickers |
+| sentiment_score | numeric | -1 to +1 |
+| url | text | Source link |
+| created_at | timestamp | Insert time |
+
+---
+
+## Cron Jobs Summary
+
+| Name | Schedule | Skills | Output |
+|------|----------|--------|--------|
+| Morning Scan | Mon-Fri 8pm HKT | yahoo-finance, finnhub, fred, marketaux | Discord + daily-ops.json |
+| News Curator #1 | Mon-Fri 8pm HKT | rss-feed | DB + daily-ops.json + Discord |
+| Evening Review | Mon-Fri 8am HKT | yahoo-finance, finnhub, fred | Discord + daily-ops.json |
+| News Curator #2 | Mon-Fri 8am HKT | rss-feed | DB + daily-ops.json + Discord |
+| **Weekly Screen** | **Sat 6am HKT** | **（由 prompt 行 Python DB query + AI judgment）** | **Discord + daily-ops.json** |
+| **Deep Dive** | **On-demand** | **yahoo-finance, finnhub** | **Discord** |
 
 ---
 
 ## Roadmap
 
-### Phase 1 ✅ (Done)
-- Skill reorganisation → `data-sources/`
-- `sec-edgar-13f` skill created
-- Pipeline architecture reworked (no separate pipeline layer)
+### Phase 1 ✅
+- Pipeline architecture 建立
+- Morning Scan / News Curator / Evening Review running
+- DB storage + Daily-ops dashboard
 
-### Phase 2 ✅ (Done)
-- `morning-scan.py` — 開市前掃瞄 script, cron @ 8pm HKT (weekdays)
-- `evening-review.py` — 美股收市回顧 script, cron @ 8am HKT (weekdays)
-- `weekly-screening.py` — 每週篩選 script, cron Wed 10pm + Sat 2pm
-- All scripts: no_agent mode (zero LLM cost), Chinese output, DB store
-- Report files saved to `daily-ops/reports/`
+### Phase 2 🔄（Now）
+- News Curator → DB insert fixed ✅
+- Pipeline plan updated ✅
+- Weekly Screen → Sat only（rewrite cron）
+- Deep Dive pipeline（create）
 
-### Phase 3 — Dashboard + DB
-- DB schema (tables above)
-- Read-only queries
-- Dashboard displays what DB already has
+### Phase 3 ⏳
+- Paper Trade Agent（睇所有 output → 買賣建議）
+- News Curator → 獨立 Profile（DeepSeek V4 Pro）
