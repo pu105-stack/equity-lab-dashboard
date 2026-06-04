@@ -35,7 +35,6 @@ export default function DeepDiveCandidates() {
             decMap[d.ticker] = d.status
           })
         }
-        setDecisions(decMap)
         
         // Get the weekly screen data - read from the static JSON
         const dataResp = await fetch('/data/daily-ops.json')
@@ -118,6 +117,15 @@ export default function DeepDiveCandidates() {
         }
         
         setEntries(tickerEntries)
+        
+        // Init decisions map: all tickers default to 'pending'
+        const fullDecMap = { ...decMap }
+        tickerEntries.forEach(e => {
+          if (!fullDecMap[e.ticker]) {
+            fullDecMap[e.ticker] = 'pending'
+          }
+        })
+        setDecisions(fullDecMap)
       } catch (e) {
         console.error('Load error:', e)
       }
