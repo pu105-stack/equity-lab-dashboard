@@ -14,16 +14,25 @@ export default function System() {
         <div className="cadence-card daily">
           <div className="cadence-hd">
             <span className="cadence-icon">🌅</span>
-            <span className="cadence-label">Daily</span>
+            <span className="cadence-label">Daily (HKT)</span>
           </div>
           <div className="cadence-body">
-            <div className="cadence-item">
-              <span className="cadence-time">AM</span>
-              <span>Morning Scan — 開市前篩選異動 & 催化劑</span>
-            </div>
-            <div className="cadence-item">
-              <span className="cadence-time">PM</span>
-              <span>Evening Review — 收市後持倉檢討 + 新聞回顧</span>
+            <div className="cadence-flow">
+              <div className="flow-block">
+                <span className="flow-time">8pm</span>
+                <div className="flow-items">
+                  <div className="cadence-item"><span>🌅 Morning Scan — Pre-market context, themes</span></div>
+                  <div className="cadence-item"><span>📰 News Curator #1 — 亞洲/歐洲 news 搵機會</span></div>
+                </div>
+              </div>
+              <div className="flow-arrow">↓ US session (9:30pm–4:30am) ↓</div>
+              <div className="flow-block">
+                <span className="flow-time">8am</span>
+                <div className="flow-items">
+                  <div className="cadence-item"><span>🌆 Evening Review — 收市 post-mortem + P&L</span></div>
+                  <div className="cadence-item"><span>📰 News Curator #2 — US session news 搵機會</span></div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -141,8 +150,17 @@ export default function System() {
       {/* Footer */}
       <div className="footer">
         <span>🔹 Equity Lab — Decision Support System</span>
-        <span className="deploy-badge">⚡ Deploy: 2026-06-01</span>
+        <span className="deploy-badge">⚡ Updated: 2026-06-04</span>
       </div>
     </div>
+
+    <style jsx>{`
+      /* Flow layout for daily cadence */
+      .cadence-flow { display: flex; flex-direction: column; gap: 8px; }
+      .flow-block { display: flex; align-items: flex-start; gap: 12px; }
+      .flow-time { font-size: 13px; font-weight: 700; color: #fbbf24; min-width: 40px; padding-top: 2px; flex-shrink: 0; }
+      .flow-items { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+      .flow-arrow { text-align: center; font-size: 12px; color: #64748b; padding: 4px 0; letter-spacing: 0.5px; }
+    `}</style>
   )
 }
