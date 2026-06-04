@@ -6,6 +6,7 @@ const PIPELINE_META = {
   '美股收市回顧': { icon: '🌆', color: '#6366f1' },
   '每週篩選': { icon: '📊', color: '#10b981' },
   '新聞分析-NewsCurator': { icon: '📰', color: '#ec4899' },
+  'news-curator': { icon: '📰', color: '#ec4899' },
 }
 
 export default function DailyOps({ runs }) {
@@ -43,7 +44,7 @@ export default function DailyOps({ runs }) {
           const meta = PIPELINE_META[run.pipeline] || { icon: '📡', color: '#888' }
           const key = `${run.date}-${run.pipeline}-${i}`
           const isOpen = !!open[key]
-          const ok = run.status === 'success'
+          const ok = run.status === 'success' || run.status === 'ok'
 
           return (
             <div key={key} className="card" style={{ borderLeftColor: meta.color }}>
