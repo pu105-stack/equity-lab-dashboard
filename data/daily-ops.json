@@ -1,72 +1,39 @@
 {
   "runs": [
     {
-      "date": "2026-06-03",
-      "pipeline": "開市前掃瞄",
-      "time": "21:57 HKT",
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-04",
+      "time": "08:08 HKT",
       "status": "success",
-      "market_direction": "🔴 Bearish",
-      "spy": "756.06 (-0.46%)",
-      "vix": "N/A",
-      "top_gainers": [
-        "META +2.1%",
-        "TSLA +0.3%"
-      ],
-      "top_losers": [
-        "NVDA -2.6%",
-        "MSFT -2.1%",
-        "V -1.4%",
-        "AMZN -0.6%",
-        "JPM -0.5%"
-      ],
+      "spy": "754.24 (-0.70%)",
+      "vix": "16.06 (+1.84%)",
+      "market_direction": "🟡 Bearish — 10連升斷纜，Big Tech 成最大輸家",
+      "top_gainers": ["META +4.24%"],
+      "top_losers": ["NVDA -3.62%", "MSFT -3.17%", "AMZN -2.53%", "AAPL -1.57%", "V -1.55%"],
       "headlines": [
-        "Dollar Index - Major Update (tradingview)",
-        "You Think You Own the S&P 500. You Mostly Own a Few AI Stocks — and the Rest Is Growing at Zero (247wallst)",
-        "Iran calls deadly attack on Kuwait retaliation for latest U.S. strikes (cbs_news)",
-        "AUD/USD reaction to Australian GDP q/q (tradingview)",
-        "Europe unveils tech sovereignty package amid growing concerns over reliance on U.S. tech: 'We want t (cnbc_top)",
-        "XAUUSD : AMD Setup Loading (tradingview)"
+        "S&P 500 和 Nasdaq 結束10連升紀錄",
+        "NVDA Computex 效應反轉 — Jensen 好消息出貨",
+        "MSFT 兩日累跌 -7.2%，Build 2026 AI開支市場消化",
+        "Berkshire $10B GOOGL private placement 建倉",
+        "META +4.24% 一枝獨秀 — 資金輪入？",
+        "AAPL WWDC 下週一 — UBS 潑冷水",
+        "AMZN Prime Day 6月23-26日催化劑在前"
       ],
       "focus": [
-        "留意 Technology 板塊：盤前 -1.4%"
+        "NVDA 能否守住 $214（今日低點）— 穿咗可能加速向下",
+        "MSFT 兩日 -7.2% 後隨時有 bounce，但唔好估底住",
+        "META 嘅 momentum 可唔可以持續 — anomaly 定新趨勢？",
+        "AAPL WWDC 6月8日週一 — $310附近值唔值得加倉？"
       ],
-      "analysis": "盤前中性，指數期貨平穩 | Technology 領先 (-1.4%) — 可能有板塊輪動 | 孳息曲線平坦 (0.41%) — 增長憂慮，選股要謹慎",
-      "key_takeaways": [
-        "SPY -0.46% 盤前"
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "pipeline": "每週篩選",
-      "time": "14:00 HKT",
-      "status": "success",
-      "market_direction": "",
-      "key_takeaways": [
-        "Track A: 0 candidates | Track B: 0 candidates"
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "pipeline": "美股收市回顧",
-      "time": "00:00 HKT",
-      "status": "success",
-      "market_direction": "🟡 Mixed",
-      "spy": "759.57 (+0.14%)",
-      "vix": "16.05",
-      "top_gainers": [
-        "AAPL +2.9%",
-        "TSLA +1.9%",
-        "JPM +1.5%"
+      "analysis": "今日係一個「預期之內但幅度超預期」嘅回調日。10連升後獲利回吐係 healthy，但值得警惕嘅係 NVDA 同 MSFT 嘅跌幅 — MSFT 連跌兩日，如果再跌就要認真檢視持倉邏輯。META +4.24% 係今日唯一亮點，表現非常突出。\n\nKey Lessons:\n• 10連升後第一次回調，散戶同機構傾向 take profit，尤其 AI 倉位\n• NVDA 開始出現「好消息出貨」pattern — Computex、Vera Rubin 照跌\n• MSFT 連跌兩日係最大警號 — $37B AI run rate 已完全 priced in\n• META 嘅 relative strength 值得跟進\n• TSLA 盤中 $17 震幅但收市 flat — 波動性增加但方向未明",
+      "risks": [
+        "⚠️ MSFT 兩日累跌 -7.2% — portfolio 最大 drawdown risk",
+        "⚠️ VIX 16.06 雖低於恐慌，但連續兩日回升",
+        "⚠️ NVDA $214.51 = today's low — 接近全日最低收，聽日可能測試 $210-$212",
+        "⚠️ 組合整體偏向科技，beta exposure 偏高"
       ],
-      "top_losers": [
-        "MSFT -4.2%",
-        "GOOGL -3.9%",
-        "AMZN -1.8%"
-      ],
-      "key_takeaways": [
-        "Mixed portfolio: 3 up vs 5 down",
-        "Utilities attracted capital (+1.9%)"
-      ]
+      "my_take": "今日係 healthy correction。重點 watch: NVDA $214 support、MSFT bounce 力度、META 強勢延續性。下週 AAPL WWDC 係大催化劑，310 附近值唔值得加倉取決於對 Siri 2.0 / AI agent 嘅信心。",
+      "key_takeaways": ["NVDA 好消息出貨 pattern 出現", "MSFT 最大警號 — 連跌兩日", "META relative strength 值得追蹤", "AAPL WWDC 下週一"]
     }
   ]
 }
