@@ -382,54 +382,12 @@
         "Bitcoin $62K以下 — 13日ETF連續$44億淨流出，風險偏好受壓"
       ],
       "opportunities": [
-        {
-          "ticker": "GOOGL",
-          "action": "BUY ON DIP",
-          "price": "$372.19",
-          "reason": "$840億融資引發短線恐慌但長線基建護城河加深。BRK+ARK同時買入係罕見信號。Marketaux sentiment +0.447 bullish。Target $429.87（+15.5%）。$190B AI capex commitment係整個AI生態系嘅看漲期權。",
-          "entry": "370-375區間",
-          "stop": "< $355"
-        },
-        {
-          "ticker": "AAPL",
-          "action": "HOLD / ACCUMULATE (PRE-WWDC)",
-          "price": "$311.23",
-          "reason": "WWDC 6/8最明確短線催化劑。Gemini Siri係Apple AI策略嘅成敗關鍵。Marketaux +0.269 bullish。Morgan Stanley強烈看多。$310 support已多次測試。",
-          "entry": "308-312區間",
-          "stop": "< $300"
-        },
-        {
-          "ticker": "MRVL",
-          "action": "HOLD / PARTIAL TAKE PROFIT",
-          "price": "$316.43",
-          "reason": "單週+54%後有獲利回吐壓力（Benzinga report今日回落）。中長線AI networking story完整（Jensen背書），但短線追高風險高。咁大漲幅後至少等pullback至$280-290先再考慮。",
-          "entry": "$280-290 on pullback",
-          "stop": "N/A"
-        },
-        {
-          "ticker": "NVDA",
-          "action": "HOLD / ADD ON WEAKNESS",
-          "price": "$218.66",
-          "reason": "Fundamentals最強：PE 33.4/forward PE 17.3，PEG 0.66，85% revenue growth，target $298（+36%）。210-215買盤堅實。NVDA CPU進軍laptop擴大TAM。唯一風險係AVGO事件擴散至整個semi板塊。",
-          "entry": "$210-215",
-          "stop": "< $205"
-        },
-        {
-          "ticker": "AVGO",
-          "action": "BUY ON WEAKNESS (BATCH)",
-          "price": "$418.91",
-          "reason": "12.6%單日跌幅過度。AI revenue仍doubledigit growth，VMware整合未完成。Marketaux sentiment +0.533 bullish（市場已認為oversold）。$400以下可考慮分批建倉。",
-          "entry": "$390-410",
-          "stop": "< $370"
-        },
-        {
-          "ticker": "JPM",
-          "action": "HOLD",
-          "price": "+3.34% (6/4)",
-          "reason": "銀行股領漲板塊輪動。債息回落降低融資成本+經濟軟著陸預期利好。Dow/Russell rotation signal支持金融股。",
-          "entry": "持倉",
-          "stop": "N/A"
-        }
+        "GOOGL: $840億融資短線恐慌但長線基建護城河加深，BRK+ARK同時買入係罕見信號。Target $429.87 (+15.5%)。$190B AI capex commitment利好。",
+        "AAPL: WWDC 6/8最明確短線催化劑，Gemini Siri係Apple AI策略成敗關鍵。Morgan Stanley強烈看多，$310 support已多次測試。",
+        "MRVL: 單週+54%後有獲利回吐壓力。中長線AI networking story完整（Jensen背書），等pullback至$280-290再考慮。",
+        "NVDA: PE 33.4/forward PE 17.3，PEG 0.66，85% revenue growth，target $298 (+36%)。CPU進軍laptop擴大TAM，$210-215買盤堅實。",
+        "AVGO: 12.6%單日跌幅過度。AI revenue仍doubledigit growth，Marketaux sentiment +0.533 bullish。$390-410可考慮分批建倉。",
+        "JPM: 銀行股領漲板塊輪動。債息回落降低融資成本+經濟軟著陸預期利好。"
       ],
       "risks": [
         "⚠️ MSFT/AMZN結構性弱勢 — 連跌數日，AI開支回報質疑若擴散將衝擊整個M7",
