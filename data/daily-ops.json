@@ -303,6 +303,48 @@
         "JPM 銀行股強勢，利率環境改善係主要驅動力",
         "唯一弱勢持倉係 TSLA，但 415 支持位尚算穩固"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-05",
+      "time": "08:15 HKT",
+      "status": "success",
+      "market_direction": "半導體巨震 + 加密貨幣暴跌 + 中東地緣風險升溫 — 市場情緒偏謹慎",
+      "headlines": [
+        "ACTION: AVGO — Broadcom $285bn市值蒸發，營收展望遜預期跌12%，半導體板塊承壓",
+        "ACTION: BTC/MSTR — 比特幣狂瀉，Strategy減持引發幣災，BTC ETFs 13日淨流出$44億",
+        "ACTION: SPACE/TSLA — SpaceX史上最大IPO估值$1.77tn，Goldman預測AI收入100倍增長2030年",
+        "ACTION: BX — Blackstone旗艦私募信貸基金限制贖回，私人信貸市場壓力信號",
+        "ACTION: XLE/CVX/XOM — Hezbollah拒絕停火，伊朗石油出口跌至6年低點，油價面臨突破",
+        "WATCH: NVDA — Nvidia CPU進軍筆電市場，對抗Apple/Intel/AMD，AI戰場延伸",
+        "WATCH: NEE/D — NextEra與Dominion計劃$4200億合併，能源巨頭整合加速",
+        "WATCH: GLD/IAU — 全球央行2025年黃金購買創45年高，金價企穩",
+        "NOTE: SPY/QQQ — 巨型IPO浪潮（SpaceX等）測試美股牛市承受力",
+        "NOTE: GS — Goldman Sachs進軍代幣化房地產基金，加密金融化加速"
+      ],
+      "opportunities": [
+        "AVGO: 12%跌幅係過度反應定結構性問題？Broadcom AI chip需求基本面未變，回調可考慮分批低吸。關鍵位看$160支持。",
+        "NVDA: 從data center打到laptop，CPU進攻擴大TAM。FT披露Nvidia新策略，對AMD/INTC形成直接壓力。中線睇好NVDA主導地位。",
+        "XLE: 地緣風險（伊朗出口6年低 + Hezbollah反悔停火）vs 中國進口放緩 — 油價可能向上突破$100。Trafigura利潤翻倍反映供需緊張。",
+        "GLD: 央行買金45年高 + 宏觀不確定性，避險配置仍需持有。",
+        "NEE/D: $4200億合併重塑美國公用事業格局，清潔能源+燃氣雙線佈局。"
+      ],
+      "analysis": "昨晚（6月4日）US session新聞密度極高。最大事件係Broadcom $285bn單日蒸發 — 營收指引令市場失望，拖累整個半導體板塊，Bloomberg報導chip stock slump重燃buy-the-dip討論。同一時間，FT報導Nvidia正從data center進攻laptop市場，CPU戰略對Apple/Intel/AMD形成新競爭格局。\n\n加密貨幣市場陷入恐慌：Bitcoin跌破$62K，$600M+多頭合約被清算，13日連續ETF淨流出$44億。Strategy/MSTR持倉浮虧$110億，Saylor試圖淡化影響但市場唔買帳。Coinbase推出SpaceX pre-IPO市場。\n\n中東局勢惡化：Hezbollah拒絕美國斡旋的停火協議，伊朗石油出口跌至6年低點。Trafigura profit翻倍至$41億，警告oil at inflection point。Fed研究顯示美國對油價衝擊的敏感度已下降，但地緣溢價仍在。\n\n私人信貸市場出現裂痕：Blackstone flagship credit fund限制贖回（$45億贖回申請），Partners Group都跟進。呢個係需要高度關注的信號。\n\n美股方面，FT提出「the coming equity surge will test the US bull run」— SpaceX巨型IPO以及其他AI相關上市將測試市場吸收能力。S&P拒絕SpaceX快速納入指數。",
+      "risks": [
+        "Broadcom暴跌可能擴散至整個半導體板塊（NVDA/AMD/TSM），AI溢價面臨重估",
+        "加密貨幣崩盤可能引發更大規模的清算連鎖反應，影響Coinbase等相關持股",
+        "中東局勢進一步升級（伊朗核風險IAEA警告已增加），油價急升打擊消費股",
+        "私人信貸限制贖回擴散 — Blackstone/Partners Group可能只是冰山一角",
+        "巨型IPO抽走市場流動性，AI股估值面臨資金面壓力"
+      ],
+      "my_take": "今晚新聞嘅基調係risk-off：Broadcom暴跌、crypto崩盤、地緣風險升溫、私人信貸收緊。但呢啲恰恰係opportunity set。Broadcom嘅AI需求邏輯冇變，市場反應過度就係買入機會。NVDA擴張TAM嘅故事仍然完整。油價睇好，黃金繼續hold。最大隱憂係私人信貸—如果贖回潮擴散到更大型基金，會引發真正的流動性危機。保持警戒，AVGO分批低吸，NVDA逢跌加倉，XLE long exposure。",
+      "key_takeaways": [
+        "Broadcom $285bn市值蒸發 — 半導體板塊短期overhang，但AI長線邏輯未變",
+        "Crypto崩盤 — Strategy減持觸發連鎖反應，BTC ETFs $44億淨流出",
+        "中東地緣風險惡化 — 油價向上突破概率增，能源板塊睇好",
+        "Blackstone限制贖回 — 私人信貸壓力信號，需密切關注",
+        "SpaceX IPO序幕 — $1.77tn估值測試市場流動性，S&P拒絕快納"
+      ]
     }
   ]
 }
