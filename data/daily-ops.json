@@ -1,37 +1,6 @@
 {
   "runs": [
     {
-      "pipeline": "每週篩選",
-      "date": "2026-06-06",
-      "time": "06:00 HKT",
-      "status": "success",
-      "market_direction": "本週焦點：AI semi 持續強勢",
-      "headlines": [
-        "NVDA — Computex catalyst cluster，News Curator 多次 ACTION",
-        "AAPL — WWDC 6/8 催化劑窗口",
-        "MRVL — Jensen 稱 trillion-dollar 公司",
-        "LTRX — 收購傳聞突然出現",
-        "XLU — AI 數據中心電力需求受惠"
-      ],
-      "focus": [
-        "AI Semi: NVDA, MRVL",
-        "Event: AAPL WWDC 6/8",
-        "Anomaly: LTRX 收購傳聞"
-      ],
-      "opportunities": [
-        "AAPL: WWDC 6/8 最明確短線催化劑",
-        "LTRX: 突然出現 anomaly，細價股機會"
-      ],
-      "risks": [
-        "油價 00",
-        "Broadcom 拖累半導體"
-      ],
-      "my_take": "AAPL WWDC 前持倉，LTRX anomaly 值得跟進",
-      "key_takeaways": [
-        "5 tickers, 2 high_confidence, 1 anomaly"
-      ]
-    },
-    {
       "pipeline": "新聞分析-NewsCurator#1",
       "date": "2026-06-04",
       "time": "20:39 HKT",
@@ -399,6 +368,47 @@
         "⚠️ VIX 15.73未回comfort zone — 市場未真正放鬆警戒"
       ],
       "my_take": "**Overall Bias: 審慎看好，但Short-term Tactical Neutral**\n\n今日（6/5 週五）係一個「等催化劑」嘅格局。三大利好催化劑排隊：下週一AAPL WWDC、SpaceX IPO啟動、Prime Day公佈。但同時三大利空尾跡未消：AVGO暴跌、Bitcoin崩盤、Blackstone贖回限制。\n\n**最大嘅結構性變化係rotation信號**：Dow +1.66%、Russell +1.51% vs QQQ -0.48% — 呢個唔係一日行情，而係資金從Nasdaq超買區域流出至價值/金融/小型股嘅開始。GOOGL嘅強勢反彈係例外，因BRK+ARK建倉係獨立催化劑。\n\n**AAPL WWDC 6/8 係我睇得最重嘅催化劑**：如果Apple成功展示Gemini Siri + AI agent功能，AAPL會迎來類似NVDA嘅AI re-rating。Morgan Stanley嘅睇法我buy — Apple嘅優勢係現有用戶base + iOS生態，AI monetization門檻最低。但UBS嘅冷水（$310=fair value）都值得聽，切忌over-anticipate。\n\n**最被低估嘅機會係GOOGL**：市場仍focus喺$840億融資嘅dilution effect，而miss咗成個picture — BRK歷史性建倉科技股、ARK買入、$190B capex commitment、Anthropic TPU訂單。呢啲加埋係一個「AI基建軍備競賽嘅明確受益者」signal。如果下週SpaceX IPO成功（$1.77tn listing），GOOGL作為7.5%股東直接受惠。\n\n**最大嘅sleeping risk係私人信貸**：Blackstone旗艦基金限制贖回 + Partners Group跟進 = 呢個可能係冰山一角。如果贖回潮擴散，會引發真正的流動性收縮。暫時係watch item，但下週需要密切留意有冇更多基金跟進。\n\n**今日部署**：\n- 週五通常volume低 + 下週催化劑密集 = 今日唔應該做major reposition\n- 如果想要pre-position下週催化劑：GOOGL（AI基建）+ AAPL（WWDC）係最直接嘅plays\n- AVGO可考慮細注撈底（$390-410區間）\n- MSFT/AMZN弱勢應繼續avoid，等反彈信號\n- 油價從$96回落至$92.74係short-term relief，但中東局勢未解決，不宜short energy\n- VIX 15.73偏高 — 可考慮buy put hedge對沖下週WWDC/liquidity risk\n\n**一句總結**：下週Catalyst密度係2026年最高之一（WWDC + SpaceX IPO + Prime Day），今日策略係保持彈性、唔好滿倉、pre-position高信心催化劑（GOOGL, AAPL）。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-06-06",
+      "time": "06:06 HKT",
+      "status": "success",
+      "market_direction": "AI半導體擺盪 + 地緣政治主導 — AVGO大跌拖累sector，SpaceX IPO狂潮、金價$4,530歷史高位、油價inflection point",
+      "headlines": [
+        "AVGO — $285bn市值蒸發，AI chip guidance disappoint，sector-wide selloff",
+        "GOOGL — 史上最大$85B stock offering，AI capex commitment vs dilution",
+        "NVDA — AI戰線擴展到laptop（新TAM），但被AVGO拖累需判斷真跌假跌",
+        "SATS — SpaceX IPO proxy，~3% stake，trader flow driven",
+        "CVX — 伊朗戰爭+庫存新低，oil at inflection point",
+        "GLD — 金價$4,530，central banks buying at 45-year high"
+      ],
+      "focus": [
+        "AI Semi: AVGO（earnings miss fallout）+ NVDA（laptop AI新TAM）",
+        "SpaceX IPO Ecosystem: SATS（proxy）+ SPX（theme）",
+        "Geopolitical: CVX/XOM（oil inflection）+ GLD（gold避險）",
+        "AI Capex: GOOGL（$85B offering）+ AMZN（$50B chip）+ MSFT",
+        "Credit Risk: BX（private credit cap）+ Pimco warning"
+      ],
+      "opportunities": [
+        "AVGO buy-the-dip — 如果係company-specific miss唔係sector-wide signal，呢個跌幅可能係overreaction",
+        "SATS — SpaceX IPO狂熱嘅pure flow proxy，short-term momentum trade",
+        "CVX — 伊朗衝突+庫存低位的結構性oil bull case，portfolio冇energy exposure係gap",
+        "NVDA laptop AI — 新嘅addressable market，AVGO事件後嘅entry機會"
+      ],
+      "risks": [
+        "AVGO miss可能係AI capex cycle見頂嘅first signal — 如果係，NVDA/AMD/Tech全部要重新定價",
+        "GOOGL $85B dilution — 對existing shareholders嘅~8%稀釋，market reaction未fully priced",
+        "伊朗戰爭升級 → oil spike → inflation → Fed hawkish → 整個risk-off",
+        "Private credit（BX/Pimco）stress signal — 如果credit market crack，影響傳導到equity"
+      ],
+      "my_take": "呢星期最緊要嘅判斷係AVGO：公司-specific定係sector-wide？Oscar你嘅portfolio有NVDA，如果AVGO係sector signal你要減NVDA exposure；如果係AVGO-specific，NVDA嘅laptop AI story可能係add機會。第二priority係GOOGL $85B offering — 史上最大stock sale，呢個signal對AI capex theme有重大implication。第三係SATS做SpaceX proxy trade — 純flow play但值博率ok。Energy（CVX）係portfolio hedge play，gold（GLD）係macro backstop。我skip咗MSTR（BTC仲跌緊，未到entry）同BX（credit stress太早call）。Priority: (1) AVGO判斷 → (2) GOOGL offering細節 → (3) NVDA laptop AI → (4) SATS proxy → (5) CVX hedge",
+      "key_takeaways": [
+        "5 high_confidence, 4 worth_watching, 2 themes — total 11 entries",
+        "3/11 係portfolio holdings（NVDA, GOOGL）— 其他8個係new discovery/anomaly",
+        "最多signal cluster: AI Semi（AVGO, NVDA）+ Geopolitical（CVX, GLD）",
+        "SpaceX IPO係呢週最大嘅非sector specific catalyst"
+      ]
     }
   ]
 }
