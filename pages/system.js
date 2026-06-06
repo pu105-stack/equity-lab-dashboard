@@ -59,12 +59,15 @@ function ChevronDown() {
   )
 }
 
-function Section({ title, icon, children, defaultOpen = true }) {
+function Section({ title, icon, children, defaultOpen = true, color = '#6366f1' }) {
   const [open, setOpen] = useState(defaultOpen)
   return (
     <div className="section">
-      <button className="section-hd" onClick={() => setOpen(!open)}>
-        <span className="section-title">{icon} {title}</span>
+      <button className="section-hd" onClick={() => setOpen(!open)} style={{ '--accent': color }}>
+        <span className="section-hd-left">
+          <span className="section-icon-wrap">{icon}</span>
+          <span className="section-title">{title}</span>
+        </span>
         <span className={`section-arrow ${open ? 'open' : ''}`}><ChevronDown /></span>
       </button>
       {open && <div className="section-body">{children}</div>}
@@ -86,7 +89,7 @@ export default function System() {
       </div>
 
       {/* Architecture Flow */}
-      <Section title="Pipeline Architecture" icon="🧭" defaultOpen={true}>
+      <Section title="Pipeline Architecture" icon="🧭" color="#6366f1" defaultOpen={true}>
         <div className="arch-flow">
           {/* Data Sources Layer */}
           <div className="arch-layer">
@@ -206,7 +209,7 @@ export default function System() {
       </Section>
 
       {/* Live Pipelines */}
-      <Section title="Active Pipelines" icon="⏱️" defaultOpen={true}>
+      <Section title="Active Pipelines" icon="⏱️" color="#22c55e" defaultOpen={true}>
         <div className="pipeline-grid">
           {pipelines.map(p => (
             <div key={p.id} className={`pipeline-card ${p.id}`}>
@@ -234,7 +237,7 @@ export default function System() {
       </Section>
 
       {/* Database Schema */}
-      <Section title="Database Schema" icon="🗄️" defaultOpen={false}>
+      <Section title="Database Schema" icon="🗄️" color="#38bdf8" defaultOpen={false}>
         <div className="db-grid">
           {dbTables.map(t => (
             <div key={t.name} className="db-card">
@@ -260,7 +263,7 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
       </Section>
 
       {/* Tech Stack */}
-      <Section title="Tech Stack" icon="🔧" defaultOpen={false}>
+      <Section title="Tech Stack" icon="🔧" color="#f59e0b" defaultOpen={false}>
         <div className="tech-grid">
           {techStack.map(cat => (
             <div key={cat.cat} className="tech-cat">
@@ -287,10 +290,13 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
 
         /* Section */
         .section { background: #161b22; border: 1px solid #21262d; border-radius: 12px; margin-bottom: 20px; overflow: hidden; }
-        .section-hd { display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 16px 20px; background: none; border: none; color: #f0f6fc; cursor: pointer; font-size: 15px; }
+        .section-hd { display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 14px 20px; background: none; border: none; color: #f0f6fc; cursor: pointer; font-size: 15px; border-bottom: 1px solid transparent; position: relative; }
         .section-hd:hover { background: #1c2128; }
-        .section-title { font-size: 15px; font-weight: 600; }
-        .section-arrow { transition: transform 0.2s; display: flex; }
+        .section-hd::before { content: ''; position: absolute; left: 0; top: 8px; bottom: 8px; width: 3px; border-radius: 0 3px 3px 0; background: var(--accent); opacity: 0.6; }
+        .section-hd-left { display: flex; align-items: center; gap: 10px; }
+        .section-icon-wrap { width: 28px; height: 28px; border-radius: 7px; display: flex; align-items: center; justify-content: center; font-size: 15px; background: color-mix(in srgb, var(--accent) 15%, transparent); }
+        .section-title { font-size: 14px; font-weight: 600; color: #f0f6fc; }
+        .section-arrow { transition: transform 0.2s; display: flex; color: var(--accent); opacity: 0.5; }
         .section-arrow.open { transform: rotate(180deg); }
         .section-body { padding: 0 20px 20px; }
 
