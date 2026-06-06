@@ -119,6 +119,11 @@ export default function System() {
                 <span className="arch-name">FRED</span>
                 <span className="arch-detail">Macro data</span>
               </div>
+              <div className="arch-card src">
+                <span className="arch-icon">💵</span>
+                <span className="arch-name">FMP</span>
+                <span className="arch-detail">Financials · metrics · prices</span>
+              </div>
               <div className="arch-card pending">
                 <span className="arch-icon">⏳</span>
                 <span className="arch-name">Tiingo</span>
