@@ -119,6 +119,26 @@ export default function System() {
                 <span className="arch-name">FRED</span>
                 <span className="arch-detail">Macro data</span>
               </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">Tiingo</span>
+                <span className="arch-detail">Ticker news — overlaps with Marketaux + RSS</span>
+              </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">SEC EDGAR</span>
+                <span className="arch-detail">Filings — separate workflow, no cron yet</span>
+              </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">Reddit</span>
+                <span className="arch-detail">Sentiment — not wired into any pipeline</span>
+              </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">Finviz</span>
+                <span className="arch-detail">Screener — AI qualitative screening preferred</span>
+              </div>
             </div>
           </div>
 
