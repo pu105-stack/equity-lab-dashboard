@@ -16,145 +16,48 @@ export default function DeepDiveCandidates() {
   const [saved, setSaved] = useState(false)
   const [loading, setLoading] = useState(true)
 
-  // Load weekly_screen data from daily-ops.json and existing decisions
+  // Load candidates from DB
   useEffect(() => {
     async function load() {
       try {
-        // Get weekly screen entries from the latest daily-ops build
-        const opsResp = await fetch('/daily-ops')
-        const opsHtml = await opsResp.text()
-        
-        // Fetch decisions from API (ephemeral - from Vercel /tmp/)
+        // Fetch decisions from Vercel API (user's pending/skip/deep_dive choices)
         const decResp = await fetch('/api/deep-dive')
         const decData = await decResp.json()
-        
-        // Also check deep-dive-results.json (permanent - from git)
-        let doneTickers = new Set()
-        try {
-          const resultsResp = await fetch('/data/deep-dive-results.json')
-          const resultsData = await resultsResp.json()
-          resultsData.results.forEach(r => {
-            if (r.status === 'done') doneTickers.add(r.ticker)
-          })
-        } catch {}
-        
-        // Parse existing decisions into a lookup map
         const decMap = {}
         if (decData.decisions) {
-          decData.decisions.forEach(d => {
-            decMap[d.ticker] = d.status
-          })
+          decData.decisions.forEach(d => { decMap[d.ticker] = d.status })
         }
-        // Merge 'done' status from deep-dive-results.json (permanent)
-        doneTickers.forEach(t => {
-          if (!decMap[t] || decMap[t] === 'pending') {
-            decMap[t] = 'done'
-          }
-        })
-        
-        // Get the weekly screen data - read from the static JSON
-        const dataResp = await fetch('/data/daily-ops.json')
-        const data = await dataResp.json()
-        
-        // Find the latest weekly screen run
-        const weeklyRuns = data.runs
-          .filter(r => r.pipeline === '每週篩選')
-          .sort((a, b) => `${b.date}T${b.time}`.localeCompare(`${a.date}T${a.time}`))
-        
-        if (weeklyRuns.length === 0) {
+
+        // Fetch candidates from DB (weekly_screen where not done/skip)
+        const candResp = await fetch('/api/candidates')
+        const candData = await candResp.json()
+
+        if (!candData.candidates || candData.candidates.length === 0) {
           setEntries([])
           setLoading(false)
           return
         }
-        
-        const latest = weeklyRuns[0]
-        
-        // Date + time from the weekly screen run
-        const screenDate = latest.date || ''
-        const screenTime = latest.time || ''
-        
-        // Parse headlines and opportunities into ticker entries
-        const tickerEntries = []
-        const seen = new Set()
-        
-        // From headlines
-        if (latest.headlines) {
-          latest.headlines.forEach(h => {
-            const match = h.match(/^[🎯📡⚠️]*\s*([A-Z]+)\s*[—–-]\s*(.+)/)
-            if (match) {
-              const ticker = match[1]
-              if (!seen.has(ticker)) {
-                seen.add(ticker)
-                tickerEntries.push({
-                  ticker,
-                  reason: match[2].trim(),
-                  source: 'headlines',
-                  date: screenDate,
-                  time: screenTime,
-                  status: decMap[ticker] || 'pending'
-                })
-              }
-            }
-          })
-        }
-        
-        // From opportunities (more detailed)
-        if (latest.opportunities) {
-          latest.opportunities.forEach(o => {
-            const match = o.match(/^[🎯📡⚠️]*\s*([A-Z]+)/)
-            if (match) {
-              const ticker = match[1]
-              if (!seen.has(ticker)) {
-                seen.add(ticker)
-                tickerEntries.push({
-                  ticker,
-                  reason: o.substring(match[0].length).trim().substring(0, 100),
-                  source: 'opportunities',
-                  date: screenDate,
-                  time: screenTime,
-                  status: decMap[ticker] || 'pending'
-                })
-              }
-            }
-          })
-        }
-        
-        // From focus/themes
-        if (latest.focus) {
-          latest.focus.forEach(f => {
-            const match = f.match(/[—–-]\s*([A-Z,\s.]+)/)
-            if (match) {
-              const tickers = match[1].split(',').map(t => t.trim()).filter(t => /^[A-Z]{1,5}$/.test(t))
-              tickers.forEach(t => {
-                if (!seen.has(t)) {
-                  seen.add(t)
-                  tickerEntries.push({
-                    ticker: t,
-                    reason: f.substring(0, 60),
-                    source: 'theme',
-                    date: screenDate,
-                    status: decMap[t] || 'pending'
-                  })
-                }
-              })
-            }
-          })
-        }
-        
+
+        // Build entries: DB data + user decisions
+        const tickerEntries = candData.candidates.map(c => ({
+          ticker: c.ticker,
+          reason: c.reasoning,
+          source: c.category,
+          date: c.screen_date,
+          status: decMap[c.ticker] || c.status || 'pending'
+        }))
+
         setEntries(tickerEntries)
-        
-        // Init decisions map: all tickers default to 'pending'
+
+        // Init decisions map
         const fullDecMap = { ...decMap }
         tickerEntries.forEach(e => {
           if (!fullDecMap[e.ticker]) {
-            fullDecMap[e.ticker] = 'pending'
+            fullDecMap[e.ticker] = e.status
           }
         })
         setDecisions(fullDecMap)
-        
-        // Filter out 'done' tickers from candidates page (keep it clean)
-        const activeEntries = tickerEntries.filter(e => fullDecMap[e.ticker] !== 'done')
-        setEntries(activeEntries)
+
       } catch (e) {
         console.error('Load error:', e)
       }
@@ -162,7 +65,6 @@ export default function DeepDiveCandidates() {
     }
     load()
   }, [])
-
   const setStatus = (ticker, status) => {
     setDecisions(prev => ({ ...prev, [ticker]: status }))
     setEntries(prev => prev.map(e => e.ticker === ticker ? { ...e, status } : e))
@@ -232,10 +134,12 @@ export default function DeepDiveCandidates() {
                 <div className="info">
                   <div className="tkr-line">
                     <span className="tkr">{e.ticker}</span>
-                    <span className={`src-badge ${e.source}`}>{e.source}</span>
+                    <span className={`src-badge ${e.source}`}>
+                      {e.source === 'high_confidence' ? '🎯 機會' : e.source === 'worth_watching' ? '📡 關注' : e.source === 'theme' ? '📌 主題' : e.source}
+                    </span>
                   </div>
                   <div className="rsn">{e.reason}</div>
-                  {e.date && <div className="dt">{e.date} {e.time}</div>}
+                  {e.date && <div className="dt">{e.date}</div>}
                 </div>
                 <select 
                   className="sel"
@@ -297,7 +201,8 @@ export default function DeepDiveCandidates() {
         .tkr { font-size: 16px; font-weight: 700; color: #f1f5f9; font-family: monospace; }
         .src-badge { font-size: 11px; padding: 3px 8px; border-radius: 5px; font-weight: 500; background: #334155; color: #94a3b8; text-transform: uppercase; }
         .src-badge.headlines { background: rgba(16,185,129,0.15); color: #10b981; }
-        .src-badge.opportunities { background: rgba(245,158,11,0.15); color: #fbbf24; }
+        .src-badge.high_confidence { background: rgba(16,185,129,0.15); color: #10b981; }
+        .src-badge.worth_watching { background: rgba(245,158,11,0.15); color: #fbbf24; }
         .src-badge.theme { background: rgba(99,102,241,0.15); color: #818cf8; }
         .rsn { font-size: 13px; color: #94a3b8; line-height: 1.5; }
         .dt { font-size: 12px; color: #64748b; margin-top: 3px; }
