@@ -2,10 +2,10 @@
   "results": [
     {
       "ticker": "AAPL",
-      "verdict": "BUY",
+      "verdict": "WATCH",
       "upside": "+15%",
       "status": "done",
-      "completed_at": "2026-06-05T09:00:00+08:00",
+      "completed_at": "2026-06-06T10:21:09Z",
       "metrics": {
         "pe": "28.5",
         "rev_growth": "+4.5%",
@@ -14,10 +14,11 @@
         "beta": "1.21",
         "price": "312.40"
       },
-      "analysis": "AAPL 基本面穩健，服務收入持續增長（App Store .4T GMV）。WWDC 6/8 係短線催化劑 — Gemini-powered Siri 將成 AI consumer adoption 關鍵。Morgan Stanley 目標價暗示 15%+ 上行。",
-      "catalyst": "WWDC 6/8 — Gemini Siri 2.0 發佈。如果成功，AAPL 有機會複製 NVDA 嘅 AI re-rating。",
-      "risk_reward": "Upside: 60（+15%）\nDownside: 80（-10%）\nRisk/Reward = 1.5:1 ✅",
-      "rationale": "WWDC 前持倉，等 Siri demo 後決定加減。短線 catalyst 明確，長線 AI consumer story 未被充分定價。"
+      "analysis": "AAPL \u57fa\u672c\u9762\u7a69\u5065\uff0c\u670d\u52d9\u6536\u5165\u6301\u7e8c\u589e\u9577\uff08App Store .4T GMV\uff09\u3002WWDC 6/8 \u4fc2\u77ed\u7dda\u50ac\u5316\u5291 \u2014 Gemini-powered Siri \u5c07\u6210 AI consumer adoption \u95dc\u9375\u3002Morgan Stanley \u76ee\u6a19\u50f9\u6697\u793a 15%+ \u4e0a\u884c\u3002",
+      "catalyst": "WWDC 6/8 \u2014 Gemini Siri 2.0 \u767c\u4f48\u3002\u5982\u679c\u6210\u529f\uff0cAAPL \u6709\u6a5f\u6703\u8907\u88fd NVDA \u5605 AI re-rating\u3002",
+      "risk_reward": "Upside: 60\uff08+15%\uff09\nDownside: 80\uff08-10%\uff09\nRisk/Reward = 1.5:1 \u2705",
+      "rationale": "WWDC \u524d\u6301\u5009\uff0c\u7b49 Siri demo \u5f8c\u6c7a\u5b9a\u52a0\u6e1b\u3002\u77ed\u7dda catalyst \u660e\u78ba\uff0c\u9577\u7dda AI consumer story \u672a\u88ab\u5145\u5206\u5b9a\u50f9\u3002",
+      "conviction": "Medium"
     },
     {
       "ticker": "LTRX",
@@ -29,10 +30,33 @@
         "price": "5.82",
         "beta": "2.35"
       },
-      "analysis": "LTRX 突然因收購傳聞出現，正常情況下 0 條/週 coverage。細價股高 beta，deal 風險高。需要確認 buyer、估值、timeline 先可決定。",
-      "catalyst": "收購傳聞 — 待確認 buyer 同 terms。",
-      "risk_reward": "Upside: 收購溢價 30-50%\nDownside: 傳聞落空 → 跌返原位\nRisk/Reward = 投機性，唔適合大注",
-      "rationale": "值得 watch 但未夠 confidence 入。等更多 details 出嚟先決定。Short-term 投機機會，唔係 core position。"
+      "analysis": "LTRX \u7a81\u7136\u56e0\u6536\u8cfc\u50b3\u805e\u51fa\u73fe\uff0c\u6b63\u5e38\u60c5\u6cc1\u4e0b 0 \u689d/\u9031 coverage\u3002\u7d30\u50f9\u80a1\u9ad8 beta\uff0cdeal \u98a8\u96aa\u9ad8\u3002\u9700\u8981\u78ba\u8a8d buyer\u3001\u4f30\u503c\u3001timeline \u5148\u53ef\u6c7a\u5b9a\u3002",
+      "catalyst": "\u6536\u8cfc\u50b3\u805e \u2014 \u5f85\u78ba\u8a8d buyer \u540c terms\u3002",
+      "risk_reward": "Upside: \u6536\u8cfc\u6ea2\u50f9 30-50%\nDownside: \u50b3\u805e\u843d\u7a7a \u2192 \u8dcc\u8fd4\u539f\u4f4d\nRisk/Reward = \u6295\u6a5f\u6027\uff0c\u5514\u9069\u5408\u5927\u6ce8",
+      "rationale": "\u503c\u5f97 watch \u4f46\u672a\u5920 confidence \u5165\u3002\u7b49\u66f4\u591a details \u51fa\u569f\u5148\u6c7a\u5b9a\u3002Short-term \u6295\u6a5f\u6a5f\u6703\uff0c\u5514\u4fc2 core position\u3002"
+    },
+    {
+      "ticker": "NVDA",
+      "verdict": "BUY",
+      "status": "done",
+      "completed_at": "2026-06-05T14:00:00+08:00",
+      "conviction": "High",
+      "metrics": {
+        "price": "218.66",
+        "dcf_fair_value": "441.50",
+        "fwd_pe": "17.3",
+        "peg": "0.66",
+        "rev_growth": "+85.2%",
+        "net_margin": "63.0%",
+        "roe": "158.0%",
+        "fcf": "119.1",
+        "beta": "2.24",
+        "ev_ebitda": "31.7"
+      },
+      "analysis": "NVIDIA \u76ee\u524d\u5168\u7403\u6700\u5177\u5b9a\u50f9\u6b0a\u548c\u8b77\u57ce\u6cb3\u6df1\u5ea6\u7684\u79d1\u6280\u516c\u53f8\u3002AI \u57fa\u790e\u8a2d\u65bd\u8cc7\u672c\u958b\u652f\u6d6a\u6f6e\u525b\u958b\u59cb \u2014 \u56db\u5927\u96f2\u7aef\u5de8\u982d\u5408\u8a08 $7,000 \u5104+ AI CapEx\u3002CUDA \u751f\u614b + NVLink \u4e92\u9023 + \u6700\u5148\u9032\u88fd\u7a0b GPU \u7d44\u5408\u5728 2-3 \u5e74\u5167\u7121\u53ef\u66ff\u4ee3\u3002DCF \u516c\u5141\u50f9\u503c $441.5 (102% \u4e0a\u884c)\u3002PEG 0.66 \u53cd\u6620\u589e\u9577\u8abf\u6574\u5f8c\u6975\u5ea6\u4fbf\u5b9c\u3002",
+      "catalyst": "Blackwell Ultra (GB300) \u653e\u91cf\u51fa\u8ca8\u3001Rubin \u5e73\u53f0 2026H2 \u62c9\u8ca8\u3001Q2 FY2027\uff088/26\uff09\u8ca1\u5831\u9810\u671f\u7e8c\u5f37",
+      "risk_reward": "Upside (Base): +102%\nDownside (Bear): -18%\nRisk/Reward = 5.7:1 \u2705",
+      "rationale": "BUY \u2014 High Conviction\u3002\u5168\u7403 AI \u6a19\u6e96\u5236\u5b9a\u8005\uff0c\u589e\u9577 85%+\u3001\u5229\u6f64\u7387 63%\u3001PEG 0.66\u3001FWD P/E 17.3x\u3002DCF \u986f\u793a 100%+ \u4e0a\u884c\u7a7a\u9593\uff0c\u800c\u540c\u696d\u4f30\u503c\u6ea2\u50f9\u986f\u8457\u3002\u552f\u4e00\u6ce8\u610f\u4fc2 AVGO \u62d6\u7d2f\u534a\u5c0e\u9ad4\u60c5\u7dd2\u53ca Big Tech \u81ea\u7814\u6676\u7247\u9577\u671f\u98a8\u96aa\u3002"
     }
   ]
 }
