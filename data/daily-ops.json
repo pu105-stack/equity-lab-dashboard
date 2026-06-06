@@ -372,42 +372,44 @@
     {
       "pipeline": "每週篩選",
       "date": "2026-06-06",
-      "time": "06:06 HKT",
+      "time": "13:12 HKT",
       "status": "success",
-      "market_direction": "AI半導體擺盪 + 地緣政治主導 — AVGO大跌拖累sector，SpaceX IPO狂潮、金價$4,530歷史高位、油價inflection point",
+      "market_direction": "Iran戰爭 + AI chip sector rotation — Dow +700pts vs Nasdaq 受AVGO拖累，rotation into value",
       "headlines": [
-        "AVGO — $285bn市值蒸發，AI chip guidance disappoint，sector-wide selloff",
-        "GOOGL — 史上最大$85B stock offering，AI capex commitment vs dilution",
-        "NVDA — AI戰線擴展到laptop（新TAM），但被AVGO拖累需判斷真跌假跌",
-        "SATS — SpaceX IPO proxy，~3% stake，trader flow driven",
-        "CVX — 伊朗戰爭+庫存新低，oil at inflection point",
-        "GLD — 金價$4,530，central banks buying at 45-year high"
+        "NVDA — AI戰線擴展到laptop，開闢新TAM",
+        "GOOGL — 史上最大$85B股權融資支持AI開支",
+        "AMZN — $50B Chip Secret，自研AI chips挑戰NVDA",
+        "AVGO — $285bn rout，dip機會定結構問題？",
+        "SATS — SpaceX IPO frenzy proxy play",
+        "CVX — 油價inflection，Iran戰爭+庫存2004新低",
+        "PINS — $4B AWS deal或成轉折點",
+        "NEE — $420bn energy mega-merger",
+        "META — AI agents解鎖WhatsApp revenue"
       ],
       "focus": [
-        "AI Semi: AVGO（earnings miss fallout）+ NVDA（laptop AI新TAM）",
-        "SpaceX IPO Ecosystem: SATS（proxy）+ SPX（theme）",
-        "Geopolitical: CVX/XOM（oil inflection）+ GLD（gold避險）",
-        "AI Capex: GOOGL（$85B offering）+ AMZN（$50B chip）+ MSFT",
-        "Credit Risk: BX（private credit cap）+ Pimco warning"
+        "AI Semi: NVDA, AVGO, GOOGL, AMZN",
+        "SpaceX IPO: SATS (proxy)",
+        "Energy/Geopolitical: CVX, GLD",
+        "Cloud/Adoption: PINS, NEE"
       ],
       "opportunities": [
-        "AVGO buy-the-dip — 如果係company-specific miss唔係sector-wide signal，呢個跌幅可能係overreaction",
-        "SATS — SpaceX IPO狂熱嘅pure flow proxy，short-term momentum trade",
-        "CVX — 伊朗衝突+庫存低位的結構性oil bull case，portfolio冇energy exposure係gap",
-        "NVDA laptop AI — 新嘅addressable market，AVGO事件後嘅entry機會"
+        "NVDA — 最solid AI play，AVGO事件後sector rotation可能有利NVDA",
+        "AVGO — $285bn失血，如果AI infra spend thesis不變係買入機會",
+        "SATS — SpaceX IPO前最後嘅proxy window",
+        "PINS — $4B AWS deal，估值得重評"
       ],
       "risks": [
-        "AVGO miss可能係AI capex cycle見頂嘅first signal — 如果係，NVDA/AMD/Tech全部要重新定價",
-        "GOOGL $85B dilution — 對existing shareholders嘅~8%稀釋，market reaction未fully priced",
-        "伊朗戰爭升級 → oil spike → inflation → Fed hawkish → 整個risk-off",
-        "Private credit（BX/Pimco）stress signal — 如果credit market crack，影響傳導到equity"
+        "Iran戰爭升級 — 油價暴升 + 避險衝擊risk assets",
+        "AVGO guidance miss可能係結構性 — 要睇詳細call transcript",
+        "Trump關稅升級 — 59 countries + EU，global trade disruption",
+        "Private credit — BX cap withdrawals + Pimco default warning",
+        "GOOGL $85B stock offering dilution"
       ],
-      "my_take": "呢星期最緊要嘅判斷係AVGO：公司-specific定係sector-wide？Oscar你嘅portfolio有NVDA，如果AVGO係sector signal你要減NVDA exposure；如果係AVGO-specific，NVDA嘅laptop AI story可能係add機會。第二priority係GOOGL $85B offering — 史上最大stock sale，呢個signal對AI capex theme有重大implication。第三係SATS做SpaceX proxy trade — 純flow play但值博率ok。Energy（CVX）係portfolio hedge play，gold（GLD）係macro backstop。我skip咗MSTR（BTC仲跌緊，未到entry）同BX（credit stress太早call）。Priority: (1) AVGO判斷 → (2) GOOGL offering細節 → (3) NVDA laptop AI → (4) SATS proxy → (5) CVX hedge",
+      "my_take": "呢星期三條主線：(1) AI Semi re-pricing — AVGO miss暴露chip估值脆弱性，但GOOGL/AMZN capital raise證明infra spend不停，NVDA laptop expansion最solid。Priority: NVDA > AVGO (deep dive決定係dip定唔掂) (2) SpaceX IPO狂潮 — SATS係proxy但低流動性，等S-1 (3) Energy/Gold macro hedge — CVX/GLD。建議先睇NVDA + AVGO（urgent判斷），然後PINS/NEE慢慢睇。",
       "key_takeaways": [
-        "5 high_confidence, 4 worth_watching, 2 themes — total 11 entries",
-        "3/11 係portfolio holdings（NVDA, GOOGL）— 其他8個係new discovery/anomaly",
-        "最多signal cluster: AI Semi（AVGO, NVDA）+ Geopolitical（CVX, GLD）",
-        "SpaceX IPO係呢週最大嘅非sector specific catalyst"
+        "6 high_confidence, 3 worth_watching, 2 themes",
+        "3 non-portfolio discoveries: AVGO, SATS, PINS, NEE (4)",
+        "AI Semi + Energy + SpaceX IPO 三條主線"
       ]
     }
   ]
