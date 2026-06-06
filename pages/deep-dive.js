@@ -53,6 +53,9 @@ export default function DeepDiveCandidates() {
         
         const latest = weeklyRuns[0]
         
+        // Date from the weekly screen run
+        const screenDate = latest.date || ''
+        
         // Parse headlines and opportunities into ticker entries
         const tickerEntries = []
         const seen = new Set()
@@ -60,7 +63,7 @@ export default function DeepDiveCandidates() {
         // From headlines
         if (latest.headlines) {
           latest.headlines.forEach(h => {
-            const match = h.match(/^([A-Z]+)\s*[—–-]\s*(.+)/)
+            const match = h.match(/^[🎯📡⚠️]*\s*([A-Z]+)\s*[—–-]\s*(.+)/)
             if (match) {
               const ticker = match[1]
               if (!seen.has(ticker)) {
@@ -69,6 +72,7 @@ export default function DeepDiveCandidates() {
                   ticker,
                   reason: match[2].trim(),
                   source: 'headlines',
+                  date: screenDate,
                   status: decMap[ticker] || 'pending'
                 })
               }
@@ -79,7 +83,7 @@ export default function DeepDiveCandidates() {
         // From opportunities (more detailed)
         if (latest.opportunities) {
           latest.opportunities.forEach(o => {
-            const match = o.match(/^[🎯👀]*\s*([A-Z]+)/)
+            const match = o.match(/^[🎯📡⚠️]*\s*([A-Z]+)/)
             if (match) {
               const ticker = match[1]
               if (!seen.has(ticker)) {
@@ -88,6 +92,7 @@ export default function DeepDiveCandidates() {
                   ticker,
                   reason: o.substring(match[0].length).trim().substring(0, 100),
                   source: 'opportunities',
+                  date: screenDate,
                   status: decMap[ticker] || 'pending'
                 })
               }
@@ -98,7 +103,7 @@ export default function DeepDiveCandidates() {
         // From focus/themes
         if (latest.focus) {
           latest.focus.forEach(f => {
-            const match = f.match(/[—–-]\s*([A-Z,\s]+)/)
+            const match = f.match(/[—–-]\s*([A-Z,\s.]+)/)
             if (match) {
               const tickers = match[1].split(',').map(t => t.trim()).filter(t => /^[A-Z]{1,5}$/.test(t))
               tickers.forEach(t => {
@@ -108,6 +113,7 @@ export default function DeepDiveCandidates() {
                     ticker: t,
                     reason: f.substring(0, 60),
                     source: 'theme',
+                    date: screenDate,
                     status: decMap[t] || 'pending'
                   })
                 }
@@ -210,6 +216,7 @@ export default function DeepDiveCandidates() {
                     <span className={`src-badge ${e.source}`}>{e.source}</span>
                   </div>
                   <div className="rsn">{e.reason}</div>
+                  {e.date && <div className="dt">{e.date}</div>}
                 </div>
                 <select 
                   className="sel"
@@ -274,6 +281,7 @@ export default function DeepDiveCandidates() {
         .src-badge.opportunities { background: rgba(245,158,11,0.15); color: #fbbf24; }
         .src-badge.theme { background: rgba(99,102,241,0.15); color: #818cf8; }
         .rsn { font-size: 12px; color: #94a3b8; line-height: 1.5; max-width: 600px; }
+        .dt { font-size: 11px; color: #64748b; margin-top: 4px; }
         .sel { font-size: 13px; padding: 6px 12px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e2e8f0; cursor: pointer; flex-shrink: 0; min-width: 150px; font-weight: 500; }
         .sel:focus { outline: none; border-color: #6366f1; }
         .sel option { background: #0f172a; color: #e2e8f0; }
