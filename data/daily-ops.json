@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-06",
+      "time": "11:23 HKT",
+      "status": "success",
+      "market_direction": "Labour Market Shock + AI Capex Reality Check — 強勁就業數據（+272K vs 185K exp）改寫利率前景，Fed加息概率升至52%。半導體板塊繼續受AVGO拖累（兩日-20%），AI股全面回調。META/GOOGL股權融資震盪市場。中東局勢升級（伊朗無人機被 Hormuz 擊落）。BTC跌破$60K。下週WWDC+SpaceX IPO雙重催化劑。Risk-off情緒主導，但非技術性崩盤。",
+      "headlines": [
+        "[ACTION] SPY/QQQ/DIA/TLT | sent:-0.7 | Hot Jobs Report (+272K vs 185K exp) — Fed HIKE odds jump to 52%, rate cuts vanish",
+        "[ACTION] META/GOOGL/AMZN/MSFT | sent:-0.8 | Meta (META) plunges on report it may sell tens of billions in stock to fund AI push",
+        "[ACTION] GOOGL | sent:-0.3 | Alphabet (GOOGL) seeking fresh capital — $190B capex target (2x last year), 4-week losing streak tes",
+        "[ACTION] GOOGL/SPACE | sent:0.6 | Google to pay SpaceX $920M/month for compute capacity at xAI data centers (32-month, ~$30B deal)",
+        "[WATCH] MU/AVGO/NVDA/MRVL/AMD/TSM | sent:-0.9 | Semiconductor stocks roll over — Micron (MU) tanks, Broadcom (AVGO) -20% in 2 days, drags rest of ma",
+        "[WATCH] AAPL | sent:0.5 | Apple (AAPL) WWDC preview — Tim Cook's AI legacy at stake in his final developer conference as CEO (",
+        "[WATCH] BTC/MSTR/COIN | sent:-0.8 | Bitcoin cracks $60,000 — lowest since Oct 2024, crypto mutiny on Strategy (MSTR) as shorts target it",
+        "[WATCH] SPACE/GOOGL/TSLA/SATS | sent:0.7 | SpaceX IPO jolts European retail investing — Yardeni weighs trillion-dollar listing viability, S&P 5",
+        "[WATCH] XLE/CVX/XOM/USO/OIL | sent:-0.4 | US military shoots down Iranian drones over Strait of Hormuz, bombs coastal sites — war tensions esc",
+        "[WATCH] MSFT/GOOGL/AMZN/OPENAI | sent:-0.5 | Model routing — AI overspending fix threatens OpenAI/Anthropic business models, benefits Big Tech pl",
+        "[NOTE] MRVL/FLEX/POOL/CPB | sent:0.6 | Marvell (MRVL) + Flex (FLEX) to join S&P 500, replacing Pool (POOL) and Campbell's (CPB)",
+        "[NOTE] MSFT/OPENAI | sent:0.3 | Trump administration and OpenAI discussing possible government stake in the AI startup",
+        "[NOTE] BA | sent:0.5 | Boeing (BA) to start 737 Max production on new assembly line July 6 — CEO signals industrial turnaro",
+        "[NOTE] GLD/IAU/GDX | sent:-0.2 | Gold chart looks precarious — options market may be mispricing downside risk (despite central bank b",
+        "[NOTE] General | sent:0.0 | Trump wants Bill Pulte to fire large chunk of intelligence staff — FISA extension blocked by Senate"
+      ],
+      "opportunities": [
+        "🎯 GOOGL: $190B AI capex + SpaceX 7.5% equity stake + BRK/ARK同時買入。短線融資恐慌創造dip機會，$190B commitment反映管理層睇到嘅AI需求遠超市場預期。長線基建護城河加深，分批低吸。",
+        "🎯 AAPL: WWDC 6/8（週一）係下週最明確催化劑。Gemini Siri + AI Agent係Apple AI策略成敗關鍵。Cook最後一次WWDC。Morgan Stanley睇好$355目標。$310 support已多次測試。",
+        "🎯 MRVL: 入S&P 500確認AI networking龍頭地位，Jensen稱next trillion-dollar company。AVGO拖累半導體時若跟跌係accumulate機會。AI networking supply鏈最直接受惠。",
+        "🎯 BA: 737 Max生產線7/6重啟。航空製造業復甦緩慢但確定。Trump支持製造業回流。適合有耐心嘅價值投資者。",
+        "🎯 XLE: 中東局勢升級（Hormuz + Bab el-Mandeb）+ Hezbollah拒絕停火。能源板塊係性價比最高嘅geopolitical hedge。油價$100突破概率升。"
+      ],
+      "risks": [
+        "⚠️ HOT JOBS REPORT: +272K vs 185K — Fed加息概率52%。利率重置可能觸發全面估值重估。H2最大系統性風險。",
+        "⚠️ META/GOOGL股權融資潮: 繼GOOGL $84B後META tens of billions — 市場開始認真審視AI capex回報。如果MSFT/AMZN跟進，會引發AI板塊全面去風險。",
+        "⚠️ 半導體擴散風險: AVGO -20% in 2 days可能蔓延NVDA($210-215 critical)、AMD、TSM。NVDA失守$210將加速下跌。",
+        "⚠️ BTC $60K以下 + 13日ETF $44億淨流出: 加密清算可能傳導至科技股風險偏好。MSTR短倉激增係另類sentiment指標。",
+        "⚠️ 中東全面戰爭: Hormuz + Bab el-Mandeb + Hezbollah。油價衝擊係H2最大tail risk。",
+        "⚠️ Model routing: OpenAI/Anthropic商業模式受威脅，IPO估值受壓。MSFT/GOOGL/AMZN反而受惠platform效應。"
+      ],
+      "my_take": "Hot Jobs Report係今日嘅game changer。+272K vs 185K expected — 呢個數字直接將Fed從「唔減息」推至「可能加息」嘅境地。利率期貨顯示52%加息概率，債息反彈，成長股全面受壓。呢個宏觀衝擊比AVGO/META/GOOGL任何單一事件都更重要。\n\n市場今日miss咗嘅重點：\n\n1️⃣ Jobs Data係結構性，唔係一次性 — 如果6月/7月數據持續強勁，Fed加息會成為新baseline。對high multiple stocks（NVDA, META, CRM等）殺傷力最大。銀行/能源/價值股反而受惠higher-for-longer利率環境。\n\n2️⃣ META股權融資係dual signal — 一方面反映AI cash burn快到要用equity financing（利淡），另一方面係AI commitment確認（利好長線）。2026嘅META = 2024嘅MSTR — 市場唔理解strategic capital raise。短期恐慌創造中期買入機會。\n\n3️⃣ GOOGL vs META capital raise點解唔同 — GOOGL嘅AI spending有Google Cloud + YouTube monetization支撐，ROI路徑清晰。META嘅AI變現途徑（WhatsApp commerce? AI agents?）相對模糊。所以GOOGL嘅融資接受度高過META。\n\n4️⃣ 半導體rollover = rotation signal — Wolf Street話AVGO/MU兩日跌20%係rollover。但MRVL入S&P 500 + Jensen背書顯示AI networking需求未減。市場正揀winner/loser — AI內部rotation from chip compute (NVDA/AVGO) to networking (MRVL, CRDO)。\n\n5️⃣ Apple WWDC係下週唯一有把握嘅催化劑 — Cook最後一次WWDC，Gemini Siri如果成功會係Apple AI策略轉折點。但風險係expectation太高 — 如果demo令人失望，AAPL可能回吐$300-305。Morgan Stanley $355 vs UBS $310 — 分歧巨大。\n\n6️⃣ 伊朗-Hormuz局勢被低估 — CNBC頭條話Iran threats against Bab el-Mandeb係big vulnerability。US已實際擊落Iran drones。如果Houthi開始攻擊Bab el-Mandeb船隻，油價會急速突破$100。能源板塊係目前性價比最高嘅geopolitical hedge。\n\n組合策略：\n- 增持GOOGL（dip買入，$190B capex長期利好）\n- 持有AAPL（等WWDC催化劑，但唔好over-anticipate）\n- META減持/對沖（等股權融資細節明朗化再決定）\n- 留意MRVL pullback機會（AVGO拖累時accumulate）\n- 增加能源暴露（XLE/CVX做geopolitical hedge）\n- NVDA觀察$210-215 support，穿咗就reduce\n- 留意Fed加息風險對high beta持倉嘅影響"
+    },
+    {
       "pipeline": "新聞分析-NewsCurator#1",
       "date": "2026-06-04",
       "time": "20:39 HKT",
