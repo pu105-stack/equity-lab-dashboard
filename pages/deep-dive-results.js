@@ -12,6 +12,7 @@ export default function DeepDiveResults() {
   const [loading, setLoading] = useState(true)
   const [open, setOpen] = useState({})
   const [filterTicker, setFilterTicker] = useState('')
+  const [filterDecision, setFilterDecision] = useState('all')
   const [sortOrder, setSortOrder] = useState('newest')
 
   useEffect(() => {
@@ -74,6 +75,9 @@ export default function DeepDiveResults() {
     const q = filterTicker.toUpperCase()
     filteredResults = filteredResults.filter(r => r.ticker.includes(q))
   }
+  if (filterDecision !== 'all') {
+    filteredResults = filteredResults.filter(r => r.verdict === filterDecision)
+  }
   filteredResults.sort((a, b) => {
     const ta = a.completed_at || ''
     const tb = b.completed_at || ''
@@ -107,6 +111,12 @@ export default function DeepDiveResults() {
           value={filterTicker}
           onChange={e => setFilterTicker(e.target.value)}
         />
+        <select className="sort-select" value={filterDecision} onChange={e => setFilterDecision(e.target.value)}>
+          <option value="all">🎯 All</option>
+          <option value="BUY">🟢 BUY</option>
+          <option value="WATCH">🟡 WATCH</option>
+          <option value="PASS">🔴 PASS</option>
+        </select>
         <select className="sort-select" value={sortOrder} onChange={e => setSortOrder(e.target.value)}>
           <option value="newest">🕐 Newest first</option>
           <option value="oldest">🕐 Oldest first</option>
@@ -125,19 +135,18 @@ export default function DeepDiveResults() {
 
         {filteredResults.map(r => {
           const isOpen = !!open[r.ticker]
-          const verdictColor = r.verdict === 'BUY' ? '#10b981' : r.verdict === 'WATCH' ? '#f59e0b' : r.verdict === 'PASS' ? '#ef4444' : '#64748b'
+          const verdictLabel = r.verdict || 'PENDING'
+          const verdictColor = verdictLabel === 'BUY' ? '#10b981' : verdictLabel === 'WATCH' ? '#f59e0b' : verdictLabel === 'PASS' ? '#ef4444' : '#64748b'
 
           return (
             <div key={r.ticker} className="card" style={{ borderLeftColor: verdictColor }}>
               {/* Header */}
               <div className="hd" onClick={() => toggle(r.ticker)}>
                 <div className="tkr-badge" style={{ background: verdictColor + '20', color: verdictColor }}>{r.ticker}</div>
+                <div className="verdict-badge" style={{ background: verdictColor + '18', color: verdictColor }}>{verdictLabel}</div>
                 <div className="info">
-                  <div className="verdict" style={{ color: verdictColor }}>
-                    {r.verdict || 'PENDING'} {r.upside ? `— ${r.upside}` : ''}
-                  </div>
                   <div className="meta">
-                    {r.completed_at?.replace('T', ' ').substring(0, 19).replace(/-/g, '/') || ''} · {r.status === 'done' ? '✅ Done' : '🔍 In Progress'}
+                    {r.completed_at?.replace('T', ' ').substring(0, 19).replace(/-/g, '/') || ''} · {r.status === 'done' ? '✅ Done' : '🔍 In Progress'} {r.upside ? `· ${r.upside}` : ''}
                   </div>
                 </div>
                 <span className={`arrow ${isOpen ? 'open' : ''}`}>▼</span>
@@ -215,6 +224,7 @@ export default function DeepDiveResults() {
         .hd { display: flex; align-items: center; gap: 12px; padding: 14px 16px; cursor: pointer; user-select: none; }
         .hd:hover { background: rgba(255,255,255,0.02); }
         .tkr-badge { font-size: 16px; font-weight: 700; font-family: monospace; padding: 4px 12px; border-radius: 8px; flex-shrink: 0; min-width: 60px; text-align: center; }
+        .verdict-badge { font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 6px; flex-shrink: 0; min-width: 52px; text-align: center; }
         .info { flex: 1; min-width: 0; }
         .verdict { font-size: 14px; font-weight: 600; }
         .meta { font-size: 11px; color: #64748b; margin-top: 2px; }
