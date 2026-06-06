@@ -14,6 +14,7 @@ export default function App({ Component, pageProps }) {
     { href: '/daily-ops', label: 'Daily Ops' },
     { href: '/deep-dive', label: 'Deep Dive Candidate' },
     { href: '/deep-dive-results', label: 'Deep Dive Result' },
+    { href: '/rag-search', label: '🔎 RAG Search' },
     { href: '/system', label: 'System' },
   ]
 
