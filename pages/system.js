@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react'
 
 const pipelines = [
-  { id: 'nc1', name: 'News Curator #1', icon: '📰', schedule: 'Mon–Fri 8pm', desc: '亞洲/歐洲 session news → 搵投資機會', color: '#3b82f6' },
-  { id: 'nc2', name: 'News Curator #2', icon: '📰', schedule: 'Mon–Fri 8am', desc: 'US session news → 搵投資機會', color: '#3b82f6' },
-  { id: 'ms', name: 'Morning Scan', icon: '🌅', schedule: 'Mon–Fri 8:30pm', desc: 'US pre-market context + macro setup', color: '#22c55e' },
-  { id: 'er', name: 'Evening Review', icon: '🌆', schedule: 'Mon–Fri 8:30am', desc: '收市 post-mortem + 機會追蹤', color: '#f59e0b' },
-  { id: 'ws', name: 'Weekly Screen', icon: '📊', schedule: 'Sat 6am', desc: '7日 News Curator 分析 → signal filter', color: '#a855f7' },
-  { id: 'dd', name: 'Deep Dive', icon: '🔬', schedule: 'Every 3h (9–18 HKT)', desc: 'On-demand ticker deep dive analysis', color: '#ec4899' },
+  { id: 'nc1', name: 'News Curator #1', icon: '📰', schedule: 'Mon–Fri 8pm', desc: '亞洲/歐洲 session news → 搵投資機會' },
+  { id: 'nc2', name: 'News Curator #2', icon: '📰', schedule: 'Mon–Fri 8am', desc: 'US session news → 搵投資機會' },
+  { id: 'ms', name: 'Morning Scan', icon: '🌅', schedule: 'Mon–Fri 8:30pm', desc: 'US pre-market context + macro setup' },
+  { id: 'er', name: 'Evening Review', icon: '🌆', schedule: 'Mon–Fri 8:30am', desc: '收市 post-mortem + 機會追蹤' },
+  { id: 'ws', name: 'Weekly Screen', icon: '📊', schedule: 'Sat 6am', desc: '7日 News Curator 分析 → signal filter' },
+  { id: 'dd', name: 'Deep Dive', icon: '🔬', schedule: 'Every 3h (9–18 HKT)', desc: 'On-demand ticker deep dive analysis' },
 ]
 
 const dbTables = [
@@ -184,11 +184,6 @@ export default function System() {
                 <span className="arch-name">Discord DM</span>
                 <span className="arch-detail">Cron delivery</span>
               </div>
-              <div className="arch-card display">
-                <span className="arch-icon">🔎</span>
-                <span className="arch-name">RAG Search</span>
-                <span className="arch-detail">Keyword + full-text</span>
-              </div>
             </div>
           </div>
         </div>
@@ -200,7 +195,7 @@ export default function System() {
           {pipelines.map(p => (
             <div key={p.id} className={`pipeline-card ${p.id}`}>
               <div className="pipe-hd">
-                <span className="pipe-icon" style={{ background: p.color + '20', color: p.color }}>{p.icon}</span>
+                <span className="pipe-icon">{p.icon}</span>
                 <div className="pipe-meta">
                   <span className="pipe-name">{p.name}</span>
                   <span className="pipe-schedule">{p.schedule}</span>
@@ -210,10 +205,12 @@ export default function System() {
                   Active
                 </span>
               </div>
-              <div className="pipe-desc">{p.desc}</div>
-              <div className="pipe-tags">
-                <span className="pipe-tag">cron</span>
-                <span className="pipe-tag">{p.id === 'dd' ? 'delegate_task' : 'rss/yfinance'}</span>
+              <div className="pipe-body">
+                <div className="pipe-desc">{p.desc}</div>
+                <div className="pipe-tags">
+                  <span className="pipe-tag">cron</span>
+                  <span className="pipe-tag">{p.id === 'dd' ? 'delegate_task' : 'rss/yfinance'}</span>
+                </div>
               </div>
             </div>
           ))}
@@ -307,17 +304,29 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
         /* Pipeline Status Grid */
         .pipeline-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 8px 0; }
         @media (max-width: 768px) { .pipeline-grid { grid-template-columns: 1fr; } }
-        .pipeline-card { background: #0f172a; border: 1px solid #1e293b; border-radius: 10px; padding: 14px; }
-        .pipe-hd { display: flex; align-items: center; gap: 10px; }
-        .pipe-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; }
-        .pipe-meta { flex: 1; display: flex; flex-direction: column; gap: 1px; }
+        .pipeline-card { background: #0f172a; border: 1px solid #1e293b; border-radius: 10px; padding: 0; position: relative; overflow: hidden; display: flex; flex-direction: column; }
+        .pipeline-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; }
+        .pipeline-card.nc::before { background: #3b82f6; }
+        .pipeline-card.ms::before { background: #22c55e; }
+        .pipeline-card.er::before { background: #f59e0b; }
+        .pipeline-card.ws::before { background: #a855f7; }
+        .pipeline-card.dd::before { background: #ec4899; }
+        .pipe-hd { display: flex; align-items: center; gap: 12px; padding: 14px 16px 0; }
+        .pipe-icon { width: 36px; height: 36px; border-radius: 9px; display: flex; align-items: center; justify-content: center; font-size: 17px; flex-shrink: 0; }
+        .pipeline-card.nc .pipe-icon { background: rgba(59,130,246,0.15); color: #3b82f6; }
+        .pipeline-card.ms .pipe-icon { background: rgba(34,197,94,0.15); color: #22c55e; }
+        .pipeline-card.er .pipe-icon { background: rgba(245,158,11,0.15); color: #f59e0b; }
+        .pipeline-card.ws .pipe-icon { background: rgba(168,85,247,0.15); color: #a855f7; }
+        .pipeline-card.dd .pipe-icon { background: rgba(236,72,153,0.15); color: #ec4899; }
+        .pipe-meta { flex: 1; display: flex; flex-direction: column; gap: 2px; }
         .pipe-name { font-size: 14px; font-weight: 600; color: #f0f6fc; }
         .pipe-schedule { font-size: 11px; color: #6b7280; }
-        .pipe-status { display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 6px; }
-        .pipe-status.ok { color: #4ade80; background: rgba(74,222,128,0.1); }
-        .pipe-desc { font-size: 13px; color: #9ca3af; margin-top: 10px; padding-left: 2px; }
+        .pipe-status { display: flex; align-items: center; gap: 5px; font-size: 11px; font-weight: 500; padding: 3px 10px; border-radius: 20px; }
+        .pipe-status.ok { color: #4ade80; background: rgba(74,222,128,0.1); border: 1px solid rgba(74,222,128,0.15); }
+        .pipe-body { padding: 10px 16px 14px; }
+        .pipe-desc { font-size: 13px; color: #9ca3af; line-height: 1.5; }
         .pipe-tags { display: flex; gap: 6px; margin-top: 10px; }
-        .pipe-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px; background: #1e293b; color: #64748b; }
+        .pipe-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px; background: #1c2128; color: #6b7280; font-weight: 500; }
 
         /* Status Dot */
         .sd { display: inline-block; width: 7px; height: 7px; border-radius: 50%; }
