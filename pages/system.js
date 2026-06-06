@@ -90,7 +90,11 @@ export default function System() {
         <div className="arch-flow">
           {/* Data Sources Layer */}
           <div className="arch-layer">
-            <div className="layer-label">Data Ingestion</div>
+            <div className="layer-label-wrapper">
+              <span className="layer-line"></span>
+              <span className="layer-label">Data Ingestion</span>
+              <span className="layer-line"></span>
+            </div>
             <div className="layer-cards">
               <div className="arch-card src">
                 <span className="arch-icon">📡</span>
@@ -119,7 +123,11 @@ export default function System() {
 
           {/* Processing Layer */}
           <div className="arch-layer">
-            <div className="layer-label">Pipeline Processing</div>
+            <div className="layer-label-wrapper">
+              <span className="layer-line"></span>
+              <span className="layer-label">Pipeline Processing</span>
+              <span className="layer-line"></span>
+            </div>
             <div className="layer-cards">
               <div className="arch-card proc nc">
                 <span className="arch-icon">📰</span>
@@ -153,7 +161,11 @@ export default function System() {
 
           {/* Storage Layer */}
           <div className="arch-layer">
-            <div className="layer-label">Storage</div>
+            <div className="layer-label-wrapper">
+              <span className="layer-line"></span>
+              <span className="layer-label">Storage</span>
+              <span className="layer-line"></span>
+            </div>
             <div className="layer-cards">
               <div className="arch-card db">
                 <span className="arch-icon">🗄️</span>
@@ -172,7 +184,11 @@ export default function System() {
 
           {/* Display Layer */}
           <div className="arch-layer">
-            <div className="layer-label">Display</div>
+            <div className="layer-label-wrapper">
+              <span className="layer-line"></span>
+              <span className="layer-label">Display</span>
+              <span className="layer-line"></span>
+            </div>
             <div className="layer-cards">
               <div className="arch-card display">
                 <span className="arch-icon">🖥️</span>
@@ -281,7 +297,13 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
         /* Architecture Flow */
         .arch-flow { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 20px 0; }
         .arch-layer { display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100%; }
-        .layer-label { font-size: 11px; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 1px; }
+        .arch-layer .layer-label-wrapper { display: flex; align-items: center; gap: 12px; width: 100%; margin-bottom: 4px; }
+        .arch-layer .layer-line { flex: 1; height: 1px; background: linear-gradient(to right, transparent, #1e293b, transparent); }
+        .layer-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; padding: 4px 14px; border-radius: 20px; white-space: nowrap; }
+        .arch-layer:nth-child(1) .layer-label { background: rgba(59,130,246,0.12); color: #60a5fa; }
+        .arch-layer:nth-child(3) .layer-label { background: rgba(168,85,247,0.12); color: #a78bfa; }
+        .arch-layer:nth-child(5) .layer-label { background: rgba(56,189,248,0.12); color: #38bdf8; }
+        .arch-layer:nth-child(7) .layer-label { background: rgba(167,139,250,0.12); color: #a78bfa; }
         .layer-cards { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
         .arch-card { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 14px 16px; border-radius: 10px; border: 1px solid; min-width: 120px; text-align: center; }
         .arch-card.src { background: #0f172a; border-color: #1e3a5f; }
