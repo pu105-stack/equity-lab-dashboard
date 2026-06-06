@@ -89,10 +89,7 @@ export default function Home({ latestRuns }) {
           <div className="stat-value">56</div>
           <div className="stat-label">RSS Feeds</div>
         </div>
-        <div className="stat-card">
-          <div className="stat-value">8,767</div>
-          <div className="stat-label">News Headlines Tracked</div>
-        </div>
+      
       </div>
 
       {/* Pipeline Status Summary */}
