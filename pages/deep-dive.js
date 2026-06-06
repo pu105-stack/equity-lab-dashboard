@@ -24,9 +24,19 @@ export default function DeepDiveCandidates() {
         const opsResp = await fetch('/daily-ops')
         const opsHtml = await opsResp.text()
         
-        // Fetch decisions from API
+        // Fetch decisions from API (ephemeral - from Vercel /tmp/)
         const decResp = await fetch('/api/deep-dive')
         const decData = await decResp.json()
+        
+        // Also check deep-dive-results.json (permanent - from git)
+        let doneTickers = new Set()
+        try {
+          const resultsResp = await fetch('/data/deep-dive-results.json')
+          const resultsData = await resultsResp.json()
+          resultsData.results.forEach(r => {
+            if (r.status === 'done') doneTickers.add(r.ticker)
+          })
+        } catch {}
         
         // Parse existing decisions into a lookup map
         const decMap = {}
@@ -35,6 +45,12 @@ export default function DeepDiveCandidates() {
             decMap[d.ticker] = d.status
           })
         }
+        // Merge 'done' status from deep-dive-results.json (permanent)
+        doneTickers.forEach(t => {
+          if (!decMap[t] || decMap[t] === 'pending') {
+            decMap[t] = 'done'
+          }
+        })
         
         // Get the weekly screen data - read from the static JSON
         const dataResp = await fetch('/data/daily-ops.json')

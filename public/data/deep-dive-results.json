@@ -3,37 +3,22 @@
     {
       "ticker": "AAPL",
       "verdict": "WATCH",
-      "upside": "+15%",
+      "conviction": "Medium",
+      "upside": "-42.9% (DCF overvalued)",
       "status": "done",
-      "completed_at": "2026-06-06T10:21:09Z",
+      "completed_at": "2026-06-06T18:17:00Z",
       "metrics": {
-        "pe": "28.5",
+        "pe": "37.2",
         "rev_growth": "+4.5%",
-        "margin": "28.3%",
+        "margin": "47.9%",
         "debt_eq": "1.8",
         "beta": "1.21",
-        "price": "312.40"
+        "price": "307.00"
       },
-      "analysis": "AAPL 基本面穩健，服務收入持續增長（App Store .4T GMV）。WWDC 6/8 係短線催化劑 — Gemini-powered Siri 將成 AI consumer adoption 關鍵。Morgan Stanley 目標價暗示 15%+ 上行。",
+      "analysis": "AAPL 基本面穩健，服務收入持續增長（App Store $1.4T GMV）。WWDC 6/8 係短線催化劑 — Gemini-powered Siri 將成 AI consumer adoption 關鍵。但DCF公允價值$176 vs 市價$307（高估43%）。P/E 37.2x vs 同業20.5x。",
       "catalyst": "WWDC 6/8 — Gemini Siri 2.0 發佈。如果成功，AAPL 有機會複製 NVDA 嘅 AI re-rating。",
-      "risk_reward": "Upside: 60（+15%）\nDownside: 80（-10%）\nRisk/Reward = 1.5:1 ✅",
-      "rationale": "WWDC 前持倉，等 Siri demo 後決定加減。短線 catalyst 明確，長線 AI consumer story 未被充分定價。",
-      "conviction": "Medium"
-    },
-    {
-      "ticker": "LTRX",
-      "verdict": "WATCH",
-      "upside": "N/A",
-      "status": "done",
-      "completed_at": "2026-06-05T09:30:00+08:00",
-      "metrics": {
-        "price": "5.82",
-        "beta": "2.35"
-      },
-      "analysis": "LTRX 突然因收購傳聞出現，正常情況下 0 條/週 coverage。細價股高 beta，deal 風險高。需要確認 buyer、估值、timeline 先可決定。",
-      "catalyst": "收購傳聞 — 待確認 buyer 同 terms。",
-      "risk_reward": "Upside: 收購溢價 30-50%\nDownside: 傳聞落空 → 跌返原位\nRisk/Reward = 投機性，唔適合大注",
-      "rationale": "值得 watch 但未夠 confidence 入。等更多 details 出嚟先決定。Short-term 投機機會，唔係 core position。"
+      "risk_reward": "Upside: DCF ~$176 (-43% if multiple contraction)\nDownside: $250 support\nRisk/Reward: 估值偏高，等回調入場",
+      "rationale": "長期持有可行，新進場建議等待$250-270區間回調。WWDC前持有等結果，但唔追高。"
     },
     {
       "ticker": "NVDA",
