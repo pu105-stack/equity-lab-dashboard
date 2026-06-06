@@ -14,10 +14,10 @@
         "beta": "1.21",
         "price": "312.40"
       },
-      "analysis": "AAPL \u57fa\u672c\u9762\u7a69\u5065\uff0c\u670d\u52d9\u6536\u5165\u6301\u7e8c\u589e\u9577\uff08App Store .4T GMV\uff09\u3002WWDC 6/8 \u4fc2\u77ed\u7dda\u50ac\u5316\u5291 \u2014 Gemini-powered Siri \u5c07\u6210 AI consumer adoption \u95dc\u9375\u3002Morgan Stanley \u76ee\u6a19\u50f9\u6697\u793a 15%+ \u4e0a\u884c\u3002",
-      "catalyst": "WWDC 6/8 \u2014 Gemini Siri 2.0 \u767c\u4f48\u3002\u5982\u679c\u6210\u529f\uff0cAAPL \u6709\u6a5f\u6703\u8907\u88fd NVDA \u5605 AI re-rating\u3002",
-      "risk_reward": "Upside: 60\uff08+15%\uff09\nDownside: 80\uff08-10%\uff09\nRisk/Reward = 1.5:1 \u2705",
-      "rationale": "WWDC \u524d\u6301\u5009\uff0c\u7b49 Siri demo \u5f8c\u6c7a\u5b9a\u52a0\u6e1b\u3002\u77ed\u7dda catalyst \u660e\u78ba\uff0c\u9577\u7dda AI consumer story \u672a\u88ab\u5145\u5206\u5b9a\u50f9\u3002",
+      "analysis": "AAPL 基本面穩健，服務收入持續增長（App Store .4T GMV）。WWDC 6/8 係短線催化劑 — Gemini-powered Siri 將成 AI consumer adoption 關鍵。Morgan Stanley 目標價暗示 15%+ 上行。",
+      "catalyst": "WWDC 6/8 — Gemini Siri 2.0 發佈。如果成功，AAPL 有機會複製 NVDA 嘅 AI re-rating。",
+      "risk_reward": "Upside: 60（+15%）\nDownside: 80（-10%）\nRisk/Reward = 1.5:1 ✅",
+      "rationale": "WWDC 前持倉，等 Siri demo 後決定加減。短線 catalyst 明確，長線 AI consumer story 未被充分定價。",
       "conviction": "Medium"
     },
     {
@@ -30,10 +30,10 @@
         "price": "5.82",
         "beta": "2.35"
       },
-      "analysis": "LTRX \u7a81\u7136\u56e0\u6536\u8cfc\u50b3\u805e\u51fa\u73fe\uff0c\u6b63\u5e38\u60c5\u6cc1\u4e0b 0 \u689d/\u9031 coverage\u3002\u7d30\u50f9\u80a1\u9ad8 beta\uff0cdeal \u98a8\u96aa\u9ad8\u3002\u9700\u8981\u78ba\u8a8d buyer\u3001\u4f30\u503c\u3001timeline \u5148\u53ef\u6c7a\u5b9a\u3002",
-      "catalyst": "\u6536\u8cfc\u50b3\u805e \u2014 \u5f85\u78ba\u8a8d buyer \u540c terms\u3002",
-      "risk_reward": "Upside: \u6536\u8cfc\u6ea2\u50f9 30-50%\nDownside: \u50b3\u805e\u843d\u7a7a \u2192 \u8dcc\u8fd4\u539f\u4f4d\nRisk/Reward = \u6295\u6a5f\u6027\uff0c\u5514\u9069\u5408\u5927\u6ce8",
-      "rationale": "\u503c\u5f97 watch \u4f46\u672a\u5920 confidence \u5165\u3002\u7b49\u66f4\u591a details \u51fa\u569f\u5148\u6c7a\u5b9a\u3002Short-term \u6295\u6a5f\u6a5f\u6703\uff0c\u5514\u4fc2 core position\u3002"
+      "analysis": "LTRX 突然因收購傳聞出現，正常情況下 0 條/週 coverage。細價股高 beta，deal 風險高。需要確認 buyer、估值、timeline 先可決定。",
+      "catalyst": "收購傳聞 — 待確認 buyer 同 terms。",
+      "risk_reward": "Upside: 收購溢價 30-50%\nDownside: 傳聞落空 → 跌返原位\nRisk/Reward = 投機性，唔適合大注",
+      "rationale": "值得 watch 但未夠 confidence 入。等更多 details 出嚟先決定。Short-term 投機機會，唔係 core position。"
     },
     {
       "ticker": "NVDA",
@@ -53,10 +53,10 @@
         "beta": "2.24",
         "ev_ebitda": "31.7"
       },
-      "analysis": "NVIDIA \u76ee\u524d\u5168\u7403\u6700\u5177\u5b9a\u50f9\u6b0a\u548c\u8b77\u57ce\u6cb3\u6df1\u5ea6\u7684\u79d1\u6280\u516c\u53f8\u3002AI \u57fa\u790e\u8a2d\u65bd\u8cc7\u672c\u958b\u652f\u6d6a\u6f6e\u525b\u958b\u59cb \u2014 \u56db\u5927\u96f2\u7aef\u5de8\u982d\u5408\u8a08 $7,000 \u5104+ AI CapEx\u3002CUDA \u751f\u614b + NVLink \u4e92\u9023 + \u6700\u5148\u9032\u88fd\u7a0b GPU \u7d44\u5408\u5728 2-3 \u5e74\u5167\u7121\u53ef\u66ff\u4ee3\u3002DCF \u516c\u5141\u50f9\u503c $441.5 (102% \u4e0a\u884c)\u3002PEG 0.66 \u53cd\u6620\u589e\u9577\u8abf\u6574\u5f8c\u6975\u5ea6\u4fbf\u5b9c\u3002",
-      "catalyst": "Blackwell Ultra (GB300) \u653e\u91cf\u51fa\u8ca8\u3001Rubin \u5e73\u53f0 2026H2 \u62c9\u8ca8\u3001Q2 FY2027\uff088/26\uff09\u8ca1\u5831\u9810\u671f\u7e8c\u5f37",
-      "risk_reward": "Upside (Base): +102%\nDownside (Bear): -18%\nRisk/Reward = 5.7:1 \u2705",
-      "rationale": "BUY \u2014 High Conviction\u3002\u5168\u7403 AI \u6a19\u6e96\u5236\u5b9a\u8005\uff0c\u589e\u9577 85%+\u3001\u5229\u6f64\u7387 63%\u3001PEG 0.66\u3001FWD P/E 17.3x\u3002DCF \u986f\u793a 100%+ \u4e0a\u884c\u7a7a\u9593\uff0c\u800c\u540c\u696d\u4f30\u503c\u6ea2\u50f9\u986f\u8457\u3002\u552f\u4e00\u6ce8\u610f\u4fc2 AVGO \u62d6\u7d2f\u534a\u5c0e\u9ad4\u60c5\u7dd2\u53ca Big Tech \u81ea\u7814\u6676\u7247\u9577\u671f\u98a8\u96aa\u3002"
+      "analysis": "NVIDIA 目前全球最具定價權和護城河深度的科技公司。AI 基礎設施資本開支浪潮剛開始 — 四大雲端巨頭合計 $7,000 億+ AI CapEx。CUDA 生態 + NVLink 互連 + 最先進製程 GPU 組合在 2-3 年內無可替代。DCF 公允價值 $441.5 (102% 上行)。PEG 0.66 反映增長調整後極度便宜。",
+      "catalyst": "Blackwell Ultra (GB300) 放量出貨、Rubin 平台 2026H2 拉貨、Q2 FY2027（8/26）財報預期續強",
+      "risk_reward": "Upside (Base): +102%\nDownside (Bear): -18%\nRisk/Reward = 5.7:1 ✅",
+      "rationale": "BUY — High Conviction。全球 AI 標準制定者，增長 85%+、利潤率 63%、PEG 0.66、FWD P/E 17.3x。DCF 顯示 100%+ 上行空間，而同業估值溢價顯著。唯一注意係 AVGO 拖累半導體情緒及 Big Tech 自研晶片長期風險。"
     },
     {
       "ticker": "MRVL",
@@ -74,7 +74,7 @@
       "analysis": "AI networking leader but extremely overvalued. P/E 90.9x vs peers 47.8x. DCF fair value $99 vs market $263 (-62%).",
       "catalyst": "AI networking demand + Data center expansion",
       "risk_reward": "Upside: DCF $99 (-62% downside)\nAnalyst target: $233 (-11%)\nRisk/Reward: Extremely unfavorable",
-      "rationale": "\u512a\u8cea\u516c\u53f8\u4f46\u4f30\u503c\u5b8c\u5168\u812b\u96e2\u57fa\u672c\u9762\u3002\u5efa\u8b70\u5df2\u6301\u6709\u8005\u90e8\u5206\u7372\u5229\uff0c\u65b0\u9032\u8005\u7b49\u5f85$150-200\u5340\u9593"
+      "rationale": "優質公司但估值完全脫離基本面。建議已持有者部分獲利，新進者等待$150-200區間"
     },
     {
       "ticker": "LTRX",
@@ -92,7 +92,75 @@
       "analysis": "IoT edge computing company in turnaround. Zero net debt, FCF positive $11.6M. But GAAP unprofitable, revenue -23%. Analyst target $9.13 vs DCF $4.49.",
       "catalyst": "Q4 FY2026 earnings Aug 2026 + CEO turnaround plan",
       "risk_reward": "Upside: Analyst $9.13 (+39%)\nDownside: DCF $4.49 (-32%)\nBeta: 1.66 (high vol)",
-      "rationale": "\u8f49\u8667\u70ba\u76c8\u4e2d\u5605IoT\u516c\u53f8\u3002\u8ca1\u52d9\u5e95\u76e4\u7a69\u4f46\u76c8\u5229\u62d0\u9ede\u672a\u78ba\u8a8d\u3002PEG 0.91x\u5438\u5f15\u4f46\u9ad8\u6ce2\u52d5\u3002\u9069\u5408\u9ad8\u98a8\u96aa\u627f\u53d7\u80fd\u529b\u6295\u8cc7\u8005\u3002"
+      "rationale": "轉虧為盈中嘅IoT公司。財務底盤穩但盈利拐點未確認。PEG 0.91x吸引但高波動。適合高風險承受能力投資者。"
+    },
+    {
+      "ticker": "AAPL",
+      "verdict": "WATCH",
+      "upside": "+3.2%",
+      "status": "done",
+      "completed_at": "2026-06-06T15:00:00+08:00",
+      "metrics": {
+        "price": "307.34",
+        "pe": "37.0",
+        "fwd_pe": "32.0",
+        "rev_growth": "+4.5%",
+        "margin": "46.9%",
+        "net_margin": "26.9%",
+        "roe": "141.5%",
+        "fcf": "98.8B",
+        "beta": "1.21",
+        "dcf_fair_value": "175"
+      },
+      "analysis": "AAPL 基本面極強：ROIC 65%、毛利率 47%、FCF 00B。WWDC 2026 (6/8) AI Siri 係短期催化劑。但現價 07 (32x Forward P/E) 已充分反映品質溢價，缺乏安全邊際。建議 WATCH，等 60-280 區間入場。",
+      "catalyst": "WWDC 2026 (6/8) — AI Siri 發佈。iPhone 18 AI 超級換機週期 (Sep 2026)。服務收入持續加速增長。",
+      "risk_reward": "Upside (Base): +3.2%\nDownside (Bear): -19%\nRisk/Reward = 0.17:1 ⚠️ 邊際",
+      "rationale": "WATCH — 全球最優質公司但估值已反映一切。現有持倉者可繼續持有，未持倉者等 60-280 區間入場。"
+    },
+    {
+      "ticker": "MRVL",
+      "verdict": "PASS",
+      "upside": "-62.4%",
+      "status": "done",
+      "completed_at": "2026-06-06T15:05:00+08:00",
+      "metrics": {
+        "price": "263.47",
+        "pe": "90.9",
+        "fwd_pe": "42.7",
+        "rev_growth": "+42.1%",
+        "margin": "51.5%",
+        "net_margin": "32.6%",
+        "ev_ebitda": "85.5",
+        "sbc_pct_fcf": "42%",
+        "beta": "2.28",
+        "dcf_fair_value": "99",
+        "analyst_target": "233"
+      },
+      "analysis": "MRVL 係 AI 資料中心網絡龍頭，FY26 營收 1.95億 (+42%)，毛利率 51.5%，淨利轉正。但 P/E 90.9x、DCF 公允價值僅 9 (-62%)，SBC 42% 侵蝕股東價值，商譽 10.6億。股價 1 年升 287% 已完全脫離基本面。建議 PASS。",
+      "catalyst": "自訂 ASIC 放量 (2027+)。800G/1.6T 光學互連升級週期。AI 數據中心資本開支浪潮。",
+      "risk_reward": "Upside (Bull): +23% (to 52w high)\nDownside (DCF): -62%\nDownside (Analyst): -11.5%\nRisk/Reward = 不利方向",
+      "rationale": "PASS — 優質業務但估值完全脫離基本面。FWD P/E 42.7x、EV/EBITDA 85.5x 係半導體行業最貴。已持有者考慮部分獲利，新進者等 50-200 區間。"
+    },
+    {
+      "ticker": "LTRX",
+      "verdict": "WATCH",
+      "upside": "+10.5%",
+      "status": "done",
+      "completed_at": "2026-06-06T15:10:00+08:00",
+      "metrics": {
+        "price": "6.56",
+        "market_cap": "293M",
+        "fwd_pe": "20.3",
+        "fcf_yield": "4.0%",
+        "gross_margin": "42.3%",
+        "current_ratio": "2.74",
+        "beta": "2.35",
+        "analyst_target": "9.13"
+      },
+      "analysis": "LTRX 係工業 IoT 解決方案公司，FY25 營收 .229億。連續虧損但 FCF 為正，輕資產模型。CEO+董事在 .11-2.90 大額買入 (極強 alignment)。Russell 3000 納入 (6月) 係短期催化劑。但股價已從 .28 反彈 187% 至 .56。建議 WATCH。",
+      "catalyst": "FY26 盈利拐點 (分析師預期 EPS bash.16 GAAP 轉正)。Russell 3000 納入 (6月)。M&A rumor。",
+      "risk_reward": "Upside (Bull): +30% (to .50)\nDownside (Bear): -47% (to .50)\nRisk/Reward = 0.47x (從現價進場不佳)",
+      "rationale": "WATCH — 管理層 alignment 極強，盈利拐點在望，但股價已大幅反彈。建議 .5-5.5 區間或 FY26 Q4 財報確認轉盈後再入場。"
     }
   ]
 }
