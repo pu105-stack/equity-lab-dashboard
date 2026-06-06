@@ -1,39 +1,31 @@
-import { Pool } from 'pg'
+import fs from 'fs'
+import path from 'path'
 
-const pool = new Pool({
-  host: process.env.PGHOST || 'host.docker.internal',
-  port: parseInt(process.env.PGPORT || '5432'),
-  user: process.env.PGUSER || 'tradus371',
-  password: process.env.PGPASSWORD || 'QuantLab2026!',
-  database: process.env.PGDATABASE || 'equity-db',
-})
+const DEC_PATH = path.join(process.cwd(), 'data', 'deep-dive-decisions.json')
 
-export default async function handler(req, res) {
+export default function handler(req, res) {
   if (req.method !== 'GET') return res.status(405).json({ error: 'Method not allowed' })
 
   try {
-    const result = await pool.query(`
-      SELECT id, screen_date, ticker, category, deep_dive_status, reasoning,
-             created_at, done_at
-      FROM weekly_screen
-      WHERE deep_dive_status IS DISTINCT FROM 'done'
-        AND deep_dive_status IS DISTINCT FROM 'skip'
-      ORDER BY screen_date DESC, id
-    `)
-
-    return res.json({
-      candidates: result.rows.map(r => ({
-        id: r.id,
-        ticker: r.ticker,
-        screen_date: r.screen_date,
-        category: r.category,
-        status: r.deep_dive_status || 'pending',
-        reasoning: r.reasoning,
-        created_at: r.created_at,
-        done_at: r.done_at,
+    const raw = fs.readFileSync(DEC_PATH, 'utf8')
+    const data = JSON.parse(raw)
+    
+    const candidates = (data.decisions || [])
+      .filter(d => d.status !== 'done')
+      .map(d => ({
+        id: d.id || 0,
+        ticker: d.ticker,
+        screen_date: d.updated_at ? d.updated_at.slice(0, 10) : null,
+        category: d.source || 'headlines',
+        status: d.status || 'pending',
+        reasoning: d.reasoning || d.verdict || '',
+        deep_dive_status: d.status === 'deep_dive' ? 'deep_dive' : d.status === 'skip' ? 'skip' : 'pending',
+        created_at: d.updated_at,
+        done_at: null,
       }))
-    })
+
+    return res.json({ candidates })
   } catch (e) {
-    return res.status(500).json({ error: e.message })
+    return res.json({ candidates: [] })
   }
 }
