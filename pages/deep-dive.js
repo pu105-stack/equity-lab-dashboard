@@ -69,8 +69,9 @@ export default function DeepDiveCandidates() {
         
         const latest = weeklyRuns[0]
         
-        // Date from the weekly screen run
+        // Date + time from the weekly screen run
         const screenDate = latest.date || ''
+        const screenTime = latest.time || ''
         
         // Parse headlines and opportunities into ticker entries
         const tickerEntries = []
@@ -89,6 +90,7 @@ export default function DeepDiveCandidates() {
                   reason: match[2].trim(),
                   source: 'headlines',
                   date: screenDate,
+                  time: screenTime,
                   status: decMap[ticker] || 'pending'
                 })
               }
@@ -109,6 +111,7 @@ export default function DeepDiveCandidates() {
                   reason: o.substring(match[0].length).trim().substring(0, 100),
                   source: 'opportunities',
                   date: screenDate,
+                  time: screenTime,
                   status: decMap[ticker] || 'pending'
                 })
               }
@@ -232,7 +235,7 @@ export default function DeepDiveCandidates() {
                     <span className={`src-badge ${e.source}`}>{e.source}</span>
                   </div>
                   <div className="rsn">{e.reason}</div>
-                  {e.date && <div className="dt">{e.date}</div>}
+                  {e.date && <div className="dt">{e.date} {e.time}</div>}
                 </div>
                 <select 
                   className="sel"

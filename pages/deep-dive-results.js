@@ -11,6 +11,8 @@ export default function DeepDiveResults() {
   const [results, setResults] = useState([])
   const [loading, setLoading] = useState(true)
   const [open, setOpen] = useState({})
+  const [filterTicker, setFilterTicker] = useState('')
+  const [sortOrder, setSortOrder] = useState('newest')
 
   useEffect(() => {
     async function load() {
@@ -66,7 +68,17 @@ export default function DeepDiveResults() {
     }
   }
 
-  const activeResults = results.filter(r => r.status !== 'archived')
+  // Filter + sort
+  let filteredResults = results.filter(r => r.status !== 'archived')
+  if (filterTicker) {
+    const q = filterTicker.toUpperCase()
+    filteredResults = filteredResults.filter(r => r.ticker.includes(q))
+  }
+  filteredResults.sort((a, b) => {
+    const ta = a.completed_at || ''
+    const tb = b.completed_at || ''
+    return sortOrder === 'newest' ? tb.localeCompare(ta) : ta.localeCompare(tb)
+  })
   const archivedResults = results.filter(r => r.status === 'archived')
 
   if (loading) return <div className="container"><div className="header"><h1>🔬 Deep Dive Results</h1></div><p style={{ color: '#64748b' }}>Loading...</p></div>
@@ -80,15 +92,30 @@ export default function DeepDiveResults() {
 
       {/* Stats */}
       <div className="summary">
-        <div className="stat"><span className="n">{activeResults.length}</span><span className="l">Active</span></div>
-        <div className="stat"><span className="n" style={{ color: '#10b981' }}>{activeResults.filter(r => r.status === 'done').length}</span><span className="l">✅ Done</span></div>
-        <div className="stat"><span className="n" style={{ color: '#f59e0b' }}>{activeResults.filter(r => r.status === 'in_progress').length}</span><span className="l">🔍 In Progress</span></div>
+        <div className="stat"><span className="n">{filteredResults.length}</span><span className="l">Active</span></div>
+        <div className="stat"><span className="n" style={{ color: '#10b981' }}>{filteredResults.filter(r => r.status === 'done').length}</span><span className="l">✅ Done</span></div>
+        <div className="stat"><span className="n" style={{ color: '#f59e0b' }}>{filteredResults.filter(r => r.status === 'in_progress').length}</span><span className="l">🔍 In Progress</span></div>
         <div className="stat"><span className="n" style={{ color: '#64748b' }}>{archivedResults.length}</span><span className="l">📦 Archived</span></div>
+      </div>
+
+      {/* Filter + Sort */}
+      <div className="filters">
+        <input
+          className="filter-input"
+          type="text"
+          placeholder="Filter by ticker..."
+          value={filterTicker}
+          onChange={e => setFilterTicker(e.target.value)}
+        />
+        <select className="sort-select" value={sortOrder} onChange={e => setSortOrder(e.target.value)}>
+          <option value="newest">🕐 Newest first</option>
+          <option value="oldest">🕐 Oldest first</option>
+        </select>
       </div>
 
       {/* Active Results */}
       <div className="tl">
-        {activeResults.length === 0 && (
+        {filteredResults.length === 0 && (
           <div className="empty">
             <div className="empty-icon">🔬</div>
             <div>未有 deep dive results</div>
@@ -96,7 +123,7 @@ export default function DeepDiveResults() {
           </div>
         )}
 
-        {activeResults.map(r => {
+        {filteredResults.map(r => {
           const isOpen = !!open[r.ticker]
           const verdictColor = r.verdict === 'BUY' ? '#10b981' : r.verdict === 'WATCH' ? '#f59e0b' : r.verdict === 'PASS' ? '#ef4444' : '#64748b'
 
@@ -110,7 +137,7 @@ export default function DeepDiveResults() {
                     {r.verdict || 'PENDING'} {r.upside ? `— ${r.upside}` : ''}
                   </div>
                   <div className="meta">
-                    {r.completed_at?.substring(0, 10)} · {r.status === 'done' ? '✅ Done' : '🔍 In Progress'}
+                    {r.completed_at?.replace('T', ' ').substring(0, 19).replace(/-/g, '/') || ''} · {r.status === 'done' ? '✅ Done' : '🔍 In Progress'}
                   </div>
                 </div>
                 <span className={`arrow ${isOpen ? 'open' : ''}`}>▼</span>
@@ -159,7 +186,7 @@ export default function DeepDiveResults() {
               <div key={r.ticker} className="archived-item">
                 <span className="archived-tkr">{r.ticker}</span>
                 <span className="archived-v">{r.verdict || '—'}</span>
-                <span className="archived-d">{r.completed_at?.substring(0, 10)}</span>
+                <span className="archived-d">{r.completed_at?.replace('T', ' ').substring(0, 19).replace(/-/g, '/') || ''}</span>
               </div>
             ))}
           </div>
@@ -172,10 +199,17 @@ export default function DeepDiveResults() {
       </div>
 
       <style jsx>{`
-        .summary { display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap; }
+        .summary { display: flex; gap: 12px; margin-bottom: 16px; flex-wrap: wrap; }
         .stat { background: #1e293b; border: 1px solid #334155; border-radius: 10px; padding: 14px 20px; display: flex; flex-direction: column; align-items: center; min-width: 80px; }
         .stat .n { font-size: 24px; font-weight: 700; color: #f1f5f9; }
         .stat .l { font-size: 11px; color: #94a3b8; margin-top: 4px; }
+        .filters { display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; }
+        .filter-input { font-size: 13px; padding: 8px 14px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e2e8f0; outline: none; flex: 1; min-width: 140px; max-width: 220px; }
+        .filter-input:focus { border-color: #6366f1; }
+        .filter-input::placeholder { color: #4b5563; }
+        .sort-select { font-size: 13px; padding: 8px 14px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e2e8f0; cursor: pointer; }
+        .sort-select:focus { outline: none; border-color: #6366f1; }
+        .sort-select option { background: #0f172a; color: #e2e8f0; }
         .tl { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
         .card { background: #1e293b; border: 1px solid #334155; border-left: 4px solid #888; border-radius: 10px; overflow: hidden; }
         .hd { display: flex; align-items: center; gap: 12px; padding: 14px 16px; cursor: pointer; user-select: none; }
