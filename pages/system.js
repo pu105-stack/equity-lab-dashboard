@@ -284,7 +284,7 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
         <span className="deploy-badge">⚡ v2.0 · 2026-06</span>
       </div>
 
-      <style jsx>{`
+      <style jsx global>{`
         .header-sub { font-size: 14px; color: #6b7280; margin-top: 4px; }
         .build-badge { font-size: 12px; padding: 4px 12px; border-radius: 8px; background: #1e293b; color: #94a3b8; border: 1px solid #334155; }
 
@@ -294,7 +294,11 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
         .section-hd:hover { background: #1c2128; }
         .section-hd::before { content: ''; position: absolute; left: 0; top: 8px; bottom: 8px; width: 3px; border-radius: 0 3px 3px 0; background: var(--accent); opacity: 0.6; }
         .section-hd-left { display: flex; align-items: center; gap: 10px; }
-        .section-icon-wrap { width: 28px; height: 28px; border-radius: 7px; display: flex; align-items: center; justify-content: center; font-size: 15px; background: color-mix(in srgb, var(--accent) 15%, transparent); }
+        .section-icon-wrap { width: 28px; height: 28px; border-radius: 7px; display: flex; align-items: center; justify-content: center; font-size: 15px; }
+        .section:nth-of-type(1) .section-icon-wrap { background: rgba(99,102,241,0.15); }
+        .section:nth-of-type(2) .section-icon-wrap { background: rgba(34,197,94,0.15); }
+        .section:nth-of-type(3) .section-icon-wrap { background: rgba(56,189,248,0.15); }
+        .section:nth-of-type(4) .section-icon-wrap { background: rgba(245,158,11,0.15); }
         .section-title { font-size: 14px; font-weight: 600; color: #f0f6fc; }
         .section-arrow { transition: transform 0.2s; display: flex; color: var(--accent); opacity: 0.5; }
         .section-arrow.open { transform: rotate(180deg); }
@@ -306,10 +310,10 @@ news_summary (id, title, source, published_at, tickers, sentiment_score, url, cr
         .arch-layer .layer-label-wrapper { display: flex; align-items: center; gap: 12px; width: 100%; margin-bottom: 4px; }
         .arch-layer .layer-line { flex: 1; height: 1px; background: linear-gradient(to right, transparent, #1e293b, transparent); }
         .layer-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; padding: 4px 14px; border-radius: 20px; white-space: nowrap; }
-        .arch-layer:nth-child(1) .layer-label { background: rgba(59,130,246,0.12); color: #60a5fa; }
-        .arch-layer:nth-child(3) .layer-label { background: rgba(168,85,247,0.12); color: #a78bfa; }
-        .arch-layer:nth-child(5) .layer-label { background: rgba(56,189,248,0.12); color: #38bdf8; }
-        .arch-layer:nth-child(7) .layer-label { background: rgba(167,139,250,0.12); color: #a78bfa; }
+        .arch-layer:nth-of-type(1) .layer-label { background: rgba(59,130,246,0.12); color: #60a5fa; }
+        .arch-layer:nth-of-type(3) .layer-label { background: rgba(168,85,247,0.12); color: #a78bfa; }
+        .arch-layer:nth-of-type(5) .layer-label { background: rgba(56,189,248,0.12); color: #38bdf8; }
+        .arch-layer:nth-of-type(7) .layer-label { background: rgba(167,139,250,0.12); color: #a78bfa; }
         .layer-cards { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
         .arch-card { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 14px 16px; border-radius: 10px; border: 1px solid; min-width: 120px; text-align: center; }
         .arch-card.src { background: #0f172a; border-color: #1e3a5f; }
