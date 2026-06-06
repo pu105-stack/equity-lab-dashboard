@@ -5,30 +5,44 @@
       "date": "2026-06-06",
       "time": "06:00 HKT",
       "status": "success",
-      "market_direction": "本週焦點：AI semi 持續強勢",
+      "market_direction": "本週 AI semi 震盪加劇 — AVGO 暴跌 14% 引發 AI 估值重估，但 AI capex 故事未死（GOOGL $190B + SpaceX IPO）。中東油價 $100 係 macro tail risk。",
       "headlines": [
-        "NVDA — Computex catalyst cluster，News Curator 多次 ACTION",
-        "AAPL — WWDC 6/8 催化劑窗口",
-        "MRVL — Jensen 稱 trillion-dollar 公司",
-        "LTRX — 收購傳聞突然出現",
-        "XLU — AI 數據中心電力需求受惠"
+        "🎯 MRVL — Jensen 封「下一家萬億公司」，AI networking 龍頭",
+        "🎯 SpaceX (Indirect) — $1.75T IPO 史上最大，GOOGL 7.5% 持倉最直接受惠",
+        "🎯 BRK.B — Abel 時代首筆大型 deal，逆週期押注住房 + $10B GOOGL private placement",
+        "📡 GOOGL — BRK/ARK 同買係罕見信號，但 $84.75B 稀釋 + DuckDuckGo 分流成疑",
+        "📡 AAPL — WWDC 6/8 催化劑在即，但 UBS 潑冷水 + sell-the-news 風險",
+        "📡 NVDA — Computex 產品強但「好消息出貨」pattern，AVGO 拖累半導體情緒",
+        "📡 AVGO — 14% 暴跌後 risk/reward 改善，AI 收入仍倍增但競爭加劇",
+        "📡 META — +4.24% 相對強勢 anomaly，但 AI 模型延遲 + 監管雙重壓力",
+        "⚠️ MSFT — 兩日累跌 -7.2% 係最大警號，$37B AI run rate 已 fully priced in",
+        "⚠️ TSLA — OpenAI 重返機械人業務競爭 + BTC 爆倉不利高 beta"
       ],
       "focus": [
-        "AI Semi: NVDA, MRVL",
-        "Event: AAPL WWDC 6/8",
-        "Anomaly: LTRX 收購傳聞"
+        "🎯 MRVL: Jensen 親自背書，AI networking 下一站龍頭",
+        "📡 GOOGL: 最大雙面性 — BRK 背書 vs dilution + 監管",
+        "📡 AAPL: WWDC 2 日後，最明確短線催化劑窗口",
+        "⚠️ MSFT: 兩日 -7.2% 係組合最大 drawdown risk"
       ],
       "opportunities": [
-        "AAPL: WWDC 6/8 最明確短線催化劑",
-        "LTRX: 突然出現 anomaly，細價股機會"
+        "🎯 MRVL: Jensen Huang 喺 Computex 公開話 MRVL 會係「下一家萬億美元公司」— 呢個背書係 NVDA 供應鏈溢價嘅延伸。AI networking 係下一個 bottleneck，AVGO 暴跌反而提供更好入場位。",
+        "🎯 SpaceX (Indirect): $1.75T 估值、$135 固定定價、$75B 集資 — 史上最大 IPO 但唔行 bookbuilding，顯示 demand 遠超 supply。最直接間接持倉：GOOGL（7.5% equity stake）。",
+        "🎯 BRK.B: Greg Abel 上任後首兩個 quarter 嘅 capital allocation 極具信號意義 — $8.5B 收購 TMHC（逆週期押注住房）+ $10B GOOGL private placement（AI 基建 bet）。Abel 唔係 Buffett 2.0，佢更 aggressive。",
+        "📡 GOOGL: BRK 罕見做 $10B private placement + ARK 同步增持 = 兩個極端風格嘅基金經理睇好同一件事。但 $84.75B 稀釋係 real、DuckDuckGo 市佔創新高顯示 AI search 分流、UK CMA 制裁 AI search — 三項 risk 必須 weigh。",
+        "📡 AAPL: WWDC 6/8（後日）— Gemini-powered Siri 係最大亮點。Morgan Stanley 強烈看好，但週四 UBS 潑冷水 + 美股 10 連升後回調 = 催化劑前已有獲利壓力。Sell-the-news 風險存在。"
       ],
       "risks": [
-        "油價 00",
-        "Broadcom 拖累半導體"
+        "⚠️ MSFT: 兩日累跌 -7.2% 係本週組合最大警號。Build 2026 嘅 AI 開支已被市場消化，$37B AI run rate 完全 priced in。若再跌穿關鍵位，要檢視持倉邏輯。",
+        "⚠️ TSLA: OpenAI 重返機械人業務（Optimus 競爭）+ 比特幣爆倉（Tesla 持 BTC）+ 中東油價 $100（影響 EV demand）= triple headwind。高 beta 股喺 risk-off 環境首當其衝。",
+        "⚠️ NVDA: Computex 一大堆新品但股價 -3.62% — 「好消息出貨」pattern 明顯。$214 係關鍵 support，穿咗可能加速向下。"
       ],
-      "my_take": "AAPL WWDC 前持倉，LTRX anomaly 值得跟進",
+      "my_take": "本週最重要嘅信號唔係 AVGO 跌 14%，而係市場開始揀 winner/loser —「只要係 AI 就炒」嘅階段結束。\n\n邊啲 AI 股有 real moat？MRVL（Jensen 背書嘅 networking）+ GOOGL（$190B capex = 佢哋睇到嘅 demand 遠超市場想像）。邊啲被高估？MSFT（$37B run rate 已完全 priced in，內部化 AI 反而威脅 NVDA 關係）。\n\n下週最大事件：AAPL WWDC 6/8。如果 Gemini Siri 真係掂，AAPL 有機會複製 NVDA 嘅 AI re-rating。但如果 demo 令人失望，+5% YTD 嘅 AAPL 會即時受壓。\n\n中東 oil shock 係 H2 最大 tail risk — 油價 $100 唔係終點，若伊朗局勢惡化，$120 都可能。呢個風險未被市場 fully priced in。\n\n組合建議：short-term 焦點 AAPL WWDC，中線 accumulate MRVL（AVGO 跌係 gift），減持 MSFT 換 GOOGL，留意油價 hedging。",
       "key_takeaways": [
-        "5 tickers, 2 high_confidence, 1 anomaly"
+        "3 隻機會, 5 隻值得關注, 2 隻風險 — total 10 entries",
+        "🎯 MRVL係本週最被低估嘅機會 — Jensen嘅trillion-dollar背書唔係隨口講",
+        "📡 GOOGL係最大 conviction call — BRK+ARK背書但$84.75B dilution係real",
+        "⚠️ MSFT兩日-7.2%係組合最大drawdown risk — 唔好等反彈先減",
+        "下週焦點：AAPL WWDC 6/8 — 催化劑成敗決定短期方向"
       ]
     },
     {

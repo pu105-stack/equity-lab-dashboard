@@ -2,13 +2,17 @@
   "decisions": [
     {
       "ticker": "NVDA",
-      "status": "deep_dive",
-      "updated_at": "2026-06-05T10:00:00+08:00"
+      "status": "done",
+      "updated_at": "2026-06-05T14:00:00+08:00",
+      "verdict": "BUY",
+      "conviction": "High"
     },
     {
       "ticker": "LTRX",
-      "status": "deep_dive",
-      "updated_at": "2026-06-05T10:00:00+08:00"
+      "status": "done",
+      "updated_at": "2026-06-05T14:00:00+08:00",
+      "verdict": "WATCH",
+      "conviction": "Low"
     },
     {
       "ticker": "MRVL",
@@ -46,5 +50,5 @@
       "updated_at": "2026-06-05T10:00:00+08:00"
     }
   ],
-  "last_updated": "2026-06-05T10:00:00+08:00"
+  "last_updated": "2026-06-05T14:00:00+08:00"
 }

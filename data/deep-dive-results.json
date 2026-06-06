@@ -33,6 +33,28 @@
       "catalyst": "收購傳聞 — 待確認 buyer 同 terms。",
       "risk_reward": "Upside: 收購溢價 30-50%\nDownside: 傳聞落空 → 跌返原位\nRisk/Reward = 投機性，唔適合大注",
       "rationale": "值得 watch 但未夠 confidence 入。等更多 details 出嚟先決定。Short-term 投機機會，唔係 core position。"
+    },
+    {
+      "ticker": "NVDA",
+      "verdict": "BUY",
+      "status": "done",
+      "completed_at": "2026-06-05T12:00:00+08:00",
+      "conviction": "High",
+      "metrics": {
+        "price": "218.66",
+        "dcf_fair_value": "441.50",
+        "fwd_pe": "17.3",
+        "peg": "0.66",
+        "rev_growth": "+85.2%",
+        "net_margin": "63.0%",
+        "roe": "114.3%",
+        "fcf": "46.3B",
+        "beta": "2.24"
+      },
+      "analysis": "NVIDIA 目前全球最具定價權和護城河深度的科技公司。AI 基礎設施資本開支浪潮剛開始 — 四大雲端巨頭合計 $7,000 億+ AI CapEx。CUDA 生態 + NVLink 互連 + 最先進製程 GPU 組合在 2-3 年內無可替代。DCF 公允價值 $441.5 (102% 上行)。PEG 0.66 反映增長調整後極度便宜。Computex 催化劑簇提供短期動能。",
+      "catalyst": "Computex 2026 — RTX Spark AI PC, Vera Rubin 平台, Hyundai AI 中心, MSFT custom chip 合作",
+      "risk_reward": "Upside (Bull): +120%\nUpside (Base): +102%\nDownside (Bear): -25%\nRisk/Reward = 4:1 ✅",
+      "rationale": "BUY — High Conviction。全球 AI 標準制定者，增長 85%+、利潤率 63%、PEG 0.66。唯一注意 AVGO 拖累半導體情緒及 Big Tech 自研晶片長期風險。"
     }
   ]
 }

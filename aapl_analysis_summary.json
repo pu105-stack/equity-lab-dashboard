@@ -1,0 +1,17 @@
+{
+  "ticker": "AAPL",
+  "decision": "WATCH",
+  "conviction": "Medium",
+  "verdict": "全球最優質科技公司，護城河極寬、資本配置卓越，但 $307 (32x Forward P/E) 已充分反映品質溢價和 AI 預期，缺乏安全邊際。建議觀望 $260-280 區間再考慮建倉。",
+  "fair_value": 307,
+  "upside_pct": 3.2,
+  "key_catalysts": [
+    "WWDC 2026 (6月8日) — AI Siri 發布，驅動 iPhone 換機超級週期",
+    "iPhone 18 AI 超級換機週期 (Sep 2026)",
+    "服務收入持續加速增長，利潤率擴張",
+    "股票回購 ($90B+/年) 提供 EPS tailwind",
+    "印度及新興市場滲透率提升"
+  ],
+  "analysis_summary": "AAPL 當前 $307（32x Forward P/E）處於合理估值上沿。基本面極強：ROIC 65%、毛利率穩定提升至 47%、FCF/NI 88%、每年 $100B+ 股東回報。WWDC 2026 AI 催化劑近在咫尺，但高估值已充分 price in。綜合加權預期回報僅 +3.2%，風險回報比邊際。建議 WATCH，等 $260-280 才 BUY。",
+  "full_analysis": "請參閱 /docker-data/equity-lab-dashboard/aapl_deep_dive_analysis.md 完整 8-phase analysis"
+}
