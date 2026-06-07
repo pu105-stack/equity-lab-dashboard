@@ -137,6 +137,17 @@ ON CONFLICT (screen_date, ticker) DO UPDATE SET
 寫入 `/docker-data/equity-lab-dashboard/data/daily-ops.json` → git push → Vercel
 
 用 Python 直接寫 JSON（唔用 update-dashboard.py script）。
+**但寫完之後一定要 call sync script，將 weekly_screen DB → deep-dive-decisions.json：**
+
+```bash
+python3 /docker-data/equity-lab-dashboard/scripts/sync-deep-dive-decisions.py
+```
+
+**步驟：**
+1. 寫入 `weekly_screen` DB table
+2. 寫入 `daily-ops.json`
+3. Run sync script → `deep-dive-decisions.json` 更新
+4. git add + commit + push 晒所有改動
 
 ### Dashboard JSON Fields（必須 align）
 | Field | Type | 用途 | Example |
