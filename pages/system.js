@@ -6,7 +6,7 @@ const pipelines = [
   { id: 'ms', name: 'Morning Scan', icon: '🌅', schedule: 'Mon–Fri 8:30pm', desc: 'US pre-market context + macro setup' },
   { id: 'er', name: 'Evening Review', icon: '🌆', schedule: 'Mon–Fri 8:30am', desc: '收市 post-mortem + 機會追蹤' },
   { id: 'ws', name: 'Weekly Screen', icon: '📊', schedule: 'Sat 6am', desc: '7日 News Curator 分析 → signal filter' },
-  { id: 'dd', name: 'Deep Dive', icon: '🔬', schedule: 'Every 3h (9–18 HKT)', desc: 'On-demand ticker deep dive analysis' },
+  { id: 'dd', name: 'Deep Dive', icon: '🔬', schedule: 'Every 3h (12–21 HKT)', desc: 'On-demand ticker deep dive analysis (FMP + yfinance + SEC EDGAR)' },
 ]
 
 const dbTables = [
@@ -20,6 +20,9 @@ const techStack = [
   { cat: 'Data Ingestion', items: [
     { name: 'RSS Feeds', detail: '56 sources (Bloomberg, WSJ, CNBC, FT, etc.)' },
     { name: 'Yahoo Finance', detail: 'Prices, fundamentals, financials (yfinance)' },
+    { name: 'FMP (Paid)', detail: 'Financials, key metrics, revenue segments, financial scores, earnings calendar' },
+    { name: 'SEC EDGAR', detail: '8-K earnings press releases, XBRL financial facts, insider trades, 13F' },
+    { name: 'TradingView', detail: 'Economic calendar API (actual/forecast/prior for CPI, NFP, FOMC, etc.)' },
     { name: 'Finnhub', detail: 'Real-time quotes, ticker news (250/day free)' },
     { name: 'FRED', detail: 'US macro data (GDP, CPI, yield curve)' },
     { name: 'Marketaux', detail: 'Entity-level sentiment news (100/day)' },
@@ -115,34 +118,29 @@ export default function System() {
                 <span className="arch-detail">Real-time quotes</span>
               </div>
               <div className="arch-card src">
+                <span className="arch-icon">💵</span>
+                <span className="arch-name">FMP</span>
+                <span className="arch-detail">Financials · metrics · segments · scores</span>
+              </div>
+              <div className="arch-card src">
+                <span className="arch-icon">📄</span>
+                <span className="arch-name">SEC EDGAR</span>
+                <span className="arch-detail">8-K earnings · XBRL facts · insider trades</span>
+              </div>
+              <div className="arch-card src">
+                <span className="arch-icon">📅</span>
+                <span className="arch-name">TradingView</span>
+                <span className="arch-detail">Economic calendar API</span>
+              </div>
+              <div className="arch-card src">
                 <span className="arch-icon">📈</span>
                 <span className="arch-name">FRED</span>
                 <span className="arch-detail">Macro data</span>
               </div>
               <div className="arch-card src">
-                <span className="arch-icon">💵</span>
-                <span className="arch-name">FMP</span>
-                <span className="arch-detail">Financials · metrics · prices</span>
-              </div>
-              <div className="arch-card pending">
-                <span className="arch-icon">⏳</span>
-                <span className="arch-name">Tiingo</span>
-                <span className="arch-detail">Ticker news — overlaps with Marketaux + RSS</span>
-              </div>
-              <div className="arch-card pending">
-                <span className="arch-icon">⏳</span>
-                <span className="arch-name">SEC EDGAR</span>
-                <span className="arch-detail">Filings — separate workflow, no cron yet</span>
-              </div>
-              <div className="arch-card pending">
-                <span className="arch-icon">⏳</span>
-                <span className="arch-name">Reddit</span>
-                <span className="arch-detail">Sentiment — not wired into any pipeline</span>
-              </div>
-              <div className="arch-card pending">
-                <span className="arch-icon">⏳</span>
-                <span className="arch-name">Finviz</span>
-                <span className="arch-detail">Screener — AI qualitative screening preferred</span>
+                <span className="arch-icon">📊</span>
+                <span className="arch-name">Marketaux</span>
+                <span className="arch-detail">Entity-level sentiment</span>
               </div>
             </div>
           </div>
