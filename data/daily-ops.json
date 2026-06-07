@@ -469,6 +469,43 @@
         "META relative strength 值得追蹤",
         "AAPL WWDC 下週一"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-07",
+      "time": "16:42 HKT",
+      "status": "success",
+      "market_direction": "伊朗戰爭進入第100天引發能源供應危機，油價強勢回升；通脹壓力使美債市場承壓，加息預期升溫；加密貨幣遭遇FTX以來最差周表現；AI賽道持續有催化劑但資金輪動",
+      "headlines": [
+        "ACTION: USO/XLE/CVX/XOM — 伊朗戰爭Day100，Hormuz海峽油輪交通暴跌90-95%，原油供應危機 direct beneficiary",
+        "ACTION: BTC/ETH — 加密貨幣$390B蒸發，BTC最超賣自2020年，技術性反彈信號極強",
+        "ACTION: TLT/TBT — Wolf Street警告通脹將迫使年內加息，Treasury市場 brewing trouble",
+        "WATCH: LLY/PFE — Lilly下一代肥胖藥安全性數據出爐，Pfizer每月一次藥顯示潛力",
+        "WATCH: NVDA/MSFT — OpenAI最大規模改版+IPO推進，AI agent時代來臨",
+        "WATCH: TSLA/BYDDY — 中國EV可能數年內進入美國市場，行業格局或改變",
+        "WATCH: BTU/ARCH — Trump$700M援引韓戰法規拯救煤電，AI算力需求作掩護",
+        "WATCH: COIN/MSTR — 美國大銀行建數位貨幣網絡，傳統金融進軍crypto"
+      ],
+      "opportunities": [
+        "USO/XLE: 伊朗Hormuz封鎖直接利好能源板塊，oil roaring back確認趨勢，short-term戰術long",
+        "BTC: RSI極端超賣+FTX級別恐慌=技術性反彈機會，可考慮小注long bitcoin futures或IBIT",
+        "TLT/TBT: 通脹+加息預期升溫，short duration / long volatility策略，留意CPI數據",
+        "LLY: GLP-1賽道持續催化，新藥數據正面，行業龍頭強者恆強"
+      ],
+      "analysis": "今日（6月7日）Asian/European session共掃描58條RSS feeds，獲取144篇新聞文章。核心驅動因素：（1）伊朗戰爭Day100 — Hormuz海峽油輪交通暴跌90-95%，美國擊落伊朗導彈/無人機，局勢持續升級；（2）加密貨幣市場遭遇FTX以來最差周表現，BTC/ETH合計蒸發$390B，BTC RSI超賣至2020年以來最低水平；（3）Wolf Street警告通脹壓力迫使年內加息，Treasury市場出現問題信號；（4）AI賽道：OpenAI最大規模改版為IPO鋪路，Lockdown Mode推出；（5）GLP-1賽道持續有正面數據催化。整體市場處於macro-driven狀態，risk-off情緒主導但能源和部分防禦性板塊有明確催化劑。",
+      "risks": [
+        "伊朗戰爭升級擴大 — 如果衝突擴散至整個中東，油價可能飆升至$150+引發全球衰退",
+        "通脹反彈迫使Fed轉鷹 — 市場尚未完全pricing in加息風險，bond market selloff可能蔓延至equity",
+        "Crypto恐慌蔓延 — $390B蒸發可能引發更多forced selling，反彈前仍有下跌空間",
+        "AI估值過高 — 雖然OpenAI有催化劑，但NVDA等AI股估值已在高位，警惕利好出貨"
+      ],
+      "my_take": "今日新聞格局非常清晰：伊朗戰爭100天是核心變數，直接推動能源板塊強勢，同時壓制風險偏好。加密貨幣的恐慌性拋售創造了技術性反彈機會，但需注意Hormuz局勢惡化可能進一步打擊risk assets。GLP-1和AI是中長期結構性主題，適合逢低布局。債券市場的warning signal不容忽視 — Wolf Street嘅分析同近期強勁就業數據一致，若CPI超出預期，市場可能重新定價利率路徑。策略上：short-term偏向能源long + crypto tactical bounce，中線保持對GLP-1/AI的結構性配置，降低duration exposure。",
+      "key_takeaways": [
+        "伊朗戰爭是最大變數 — 能源板塊短期最強催化劑",
+        "Crypto極端超賣提供戰術性交易機會",
+        "通脹/加息風險升溫，注意債券市場信號",
+        "GLP-1和AI是中長期確定性最高的結構性主題"
+      ]
     }
   ]
 }
