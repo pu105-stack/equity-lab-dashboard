@@ -2,6 +2,12 @@
   "runs": [
     {
       "date": "2026-06-07",
+      "pipeline": "deep-dive",
+      "time": "16:32 HKT",
+      "status": "sync-db"
+    },
+    {
+      "date": "2026-06-07",
       "pipeline": "weekly-screen",
       "time": "16:15 HKT",
       "status": "ok"

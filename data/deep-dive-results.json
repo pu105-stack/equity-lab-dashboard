@@ -2,59 +2,40 @@
   "results": [
     {
       "ticker": "AAPL",
-      "verdict": "BUY",
-      "upside": "+15%",
+      "verdict": "WATCH",
+      "conviction": "Medium",
+      "upside": "+3.2%",
       "status": "done",
-      "completed_at": "2026-06-05T09:00:00+08:00",
-      "metrics": {
-        "pe": "28.5",
-        "rev_growth": "+4.5%",
-        "margin": "28.3%",
-        "debt_eq": "1.8",
-        "beta": "1.21",
-        "price": "312.40"
-      },
-      "analysis": "AAPL 基本面穩健，服務收入持續增長（App Store .4T GMV）。WWDC 6/8 係短線催化劑 — Gemini-powered Siri 將成 AI consumer adoption 關鍵。Morgan Stanley 目標價暗示 15%+ 上行。",
-      "catalyst": "WWDC 6/8 — Gemini Siri 2.0 發佈。如果成功，AAPL 有機會複製 NVDA 嘅 AI re-rating。",
-      "risk_reward": "Upside: 60（+15%）\nDownside: 80（-10%）\nRisk/Reward = 1.5:1 ✅",
-      "rationale": "WWDC 前持倉，等 Siri demo 後決定加減。短線 catalyst 明確，長線 AI consumer story 未被充分定價。"
+      "completed_at": "2026-06-06T10:31:31.382563+00:00",
+      "analysis": "全球最優質科技公司，護城河極寬、資本配置卓越，但 $307 (32x Forward P/E) 已充分反映品質溢價和 AI 預期，缺乏安全邊際。建議觀望 $260-280 區間再考慮建倉。",
+      "catalyst": "WWDC 2026 (6月8日) — AI Siri 發布, iPhone 18 AI 超級換機週期 (Sep 2026), 服務收入持續加速增長, 股票回購 $90B+/年 提供 EPS tailwind",
+      "risk_reward": "",
+      "rationale": "全球最優質科技公司，護城河極寬、資本配置卓越，但 $307 (32x Forward P/E) 已充分反映品質溢價和 AI 預期，缺乏安全邊際。建議觀望 $260-280 區間再考慮建倉。"
     },
     {
       "ticker": "LTRX",
       "verdict": "WATCH",
-      "upside": "N/A",
+      "conviction": "Medium",
+      "upside": "+10.5%",
       "status": "done",
-      "completed_at": "2026-06-05T09:30:00+08:00",
-      "metrics": {
-        "price": "5.82",
-        "beta": "2.35"
-      },
-      "analysis": "LTRX 突然因收購傳聞出現，正常情況下 0 條/週 coverage。細價股高 beta，deal 風險高。需要確認 buyer、估值、timeline 先可決定。",
-      "catalyst": "收購傳聞 — 待確認 buyer 同 terms。",
-      "risk_reward": "Upside: 收購溢價 30-50%\nDownside: 傳聞落空 → 跌返原位\nRisk/Reward = 投機性，唔適合大注",
-      "rationale": "值得 watch 但未夠 confidence 入。等更多 details 出嚟先決定。Short-term 投機機會，唔係 core position。"
+      "completed_at": "2026-06-06T10:31:31.382563+00:00",
+      "analysis": "營收待確認復甦、股價已大漲187%，風險回報比一般，待回調至$4.5-5.0區間 (管理層買入區) 再進場。",
+      "catalyst": "FY26盈利能力拐點 (分析師預期EPS $0.16 GAAP轉正), Russell 3000指數納入 (2026年6月), 內部人大額買入 (CEO+董事在$2.11-2.90), M&A目標潛力",
+      "risk_reward": "",
+      "rationale": "營收待確認復甦、股價已大漲187%，風險回報比一般，待回調至$4.5-5.0區間 (管理層買入區) 再進場。"
     },
     {
-      "ticker": "NVDA",
-      "verdict": "BUY",
+      "ticker": "MRVL",
+      "verdict": "PASS",
+      "conviction": "Low",
+      "upside": "-62.4%",
       "status": "done",
-      "completed_at": "2026-06-05T12:00:00+08:00",
-      "conviction": "High",
-      "metrics": {
-        "price": "218.66",
-        "dcf_fair_value": "441.50",
-        "fwd_pe": "17.3",
-        "peg": "0.66",
-        "rev_growth": "+85.2%",
-        "net_margin": "63.0%",
-        "roe": "114.3%",
-        "fcf": "46.3B",
-        "beta": "2.24"
-      },
-      "analysis": "NVIDIA 目前全球最具定價權和護城河深度的科技公司。AI 基礎設施資本開支浪潮剛開始 — 四大雲端巨頭合計 $7,000 億+ AI CapEx。CUDA 生態 + NVLink 互連 + 最先進製程 GPU 組合在 2-3 年內無可替代。DCF 公允價值 $441.5 (102% 上行)。PEG 0.66 反映增長調整後極度便宜。Computex 催化劑簇提供短期動能。",
-      "catalyst": "Computex 2026 — RTX Spark AI PC, Vera Rubin 平台, Hyundai AI 中心, MSFT custom chip 合作",
-      "risk_reward": "Upside (Bull): +120%\nUpside (Base): +102%\nDownside (Bear): -25%\nRisk/Reward = 4:1 ✅",
-      "rationale": "BUY — High Conviction。全球 AI 標準制定者，增長 85%+、利潤率 63%、PEG 0.66。唯一注意 AVGO 拖累半導體情緒及 Big Tech 自研晶片長期風險。"
+      "completed_at": "2026-06-06T10:31:31.382563+00:00",
+      "analysis": "MRVL 係 AI 資料中心網絡同自訂 ASIC 嘅核心受益者，但當前 P/E 90.9x、DCF 公允價值僅 $99 (-62%)，股價已完全脫離基本面支撐。建議 PASS，等回調至 $150-200 區間再考慮。",
+      "catalyst": "AI 數據中心網絡需求爆發, 自訂 ASIC 放量 (2027+ 最強動能), 800G/1.6T 光學互連升級週期, 公司營收 +42% YoY 轉盈",
+      "risk_reward": "",
+      "rationale": "MRVL 係 AI 資料中心網絡同自訂 ASIC 嘅核心受益者，但當前 P/E 90.9x、DCF 公允價值僅 $99 (-62%)，股價已完全脫離基本面支撐。建議 PASS，等回調至 $150-200 區間再考慮。"
     }
-  ]
+  ],
+  "last_synced": "2026-06-07T16:32:16.939648+08:00"
 }

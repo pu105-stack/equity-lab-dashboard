@@ -4,59 +4,38 @@
       "ticker": "AAPL",
       "verdict": "WATCH",
       "conviction": "Medium",
-      "upside": "-42.9% (DCF overvalued)",
+      "upside": "+3.2%",
       "status": "done",
-      "completed_at": "2026-06-06T18:17:00Z",
-      "metrics": {
-        "pe": "37.2",
-        "rev_growth": "+4.5%",
-        "margin": "47.9%",
-        "debt_eq": "1.8",
-        "beta": "1.21",
-        "price": "307.34"
-      },
-      "analysis": "基本面強但估值偏高。DCF公允價值$176 vs 市價$307（高估43%）。P/E 37.2x vs 同業20.5x。WWDC 6/8係短線催化劑；新進場建議等$250-270回調。",
-      "catalyst": "WWDC 6/8 — Gemini Siri 2.0",
-      "risk_reward": "Upside: DCF ~$176 (-43%)\nDownside: $250 support\nRisk/Reward: 估值偏高，等回調入場",
-      "rationale": "長期持有可行，新進場建議等待$250-270區間回調"
-    },
-    {
-      "ticker": "NVDA",
-      "verdict": "BUY",
-      "conviction": "High",
-      "upside": "+102% (DCF upside)",
-      "status": "done",
-      "completed_at": "2026-06-05T14:00:00+08:00",
-      "metrics": {
-        "pe": "17.3",
-        "rev_growth": "+85.2%",
-        "margin": "63.0%",
-        "fwd_pe": "17.3",
-        "peg": "0.66",
-        "price": "218.66"
-      },
-      "analysis": "全球最強AI半導體公司。CUDA生態+NVLink+最先進製程，2-3年內無可替代。DCF公允價值$441.5 (102%上行)。PEG 0.66反映增長調整後極度便宜。",
-      "catalyst": "Blackwell Ultra (GB300)放量、Rubin 2026H2、Q2 FY2027財報8/26",
-      "risk_reward": "Upside (Base): +102%\nDownside (Bear): -18%\nRisk/Reward = 5.7:1",
-      "rationale": "BUY High Conviction。全球AI標準制定者，增長85%+、利潤率63%、PEG 0.66。"
+      "completed_at": "2026-06-06T10:31:31.382563+00:00",
+      "analysis": "全球最優質科技公司，護城河極寬、資本配置卓越，但 $307 (32x Forward P/E) 已充分反映品質溢價和 AI 預期，缺乏安全邊際。建議觀望 $260-280 區間再考慮建倉。",
+      "catalyst": "WWDC 2026 (6月8日) — AI Siri 發布, iPhone 18 AI 超級換機週期 (Sep 2026), 服務收入持續加速增長, 股票回購 $90B+/年 提供 EPS tailwind",
+      "risk_reward": "",
+      "rationale": "全球最優質科技公司，護城河極寬、資本配置卓越，但 $307 (32x Forward P/E) 已充分反映品質溢價和 AI 預期，缺乏安全邊際。建議觀望 $260-280 區間再考慮建倉。"
     },
     {
       "ticker": "LTRX",
       "verdict": "WATCH",
       "conviction": "Medium",
-      "upside": "Analyst +39% / DCF -32%",
+      "upside": "+10.5%",
       "status": "done",
-      "completed_at": "2026-06-06T18:30:00Z",
-      "metrics": {
-        "pe": "20.3",
-        "peg": "0.91",
-        "fcf_yield": "4.0%",
-        "price": "6.56"
-      },
-      "analysis": "IoT邊緣運算轉虧為盈中。零淨債務FCF轉正$11.6M。GAAP仍未盈利，FY2025營收跌23%。分析師目標$9.13 vs DCF $4.49。",
-      "catalyst": "Q4 FY2026 earnings Aug 2026 + CEO turnaround plan",
-      "risk_reward": "Upside: Analyst $9.13 (+39%)\nDownside: DCF $4.49 (-32%)\nBeta: 1.66",
-      "rationale": "財務底盤穩但盈利拐點未確認。PEG 0.91x吸引但高波動。適合高風險承受能力投資者。"
+      "completed_at": "2026-06-06T10:31:31.382563+00:00",
+      "analysis": "營收待確認復甦、股價已大漲187%，風險回報比一般，待回調至$4.5-5.0區間 (管理層買入區) 再進場。",
+      "catalyst": "FY26盈利能力拐點 (分析師預期EPS $0.16 GAAP轉正), Russell 3000指數納入 (2026年6月), 內部人大額買入 (CEO+董事在$2.11-2.90), M&A目標潛力",
+      "risk_reward": "",
+      "rationale": "營收待確認復甦、股價已大漲187%，風險回報比一般，待回調至$4.5-5.0區間 (管理層買入區) 再進場。"
+    },
+    {
+      "ticker": "MRVL",
+      "verdict": "PASS",
+      "conviction": "Low",
+      "upside": "-62.4%",
+      "status": "done",
+      "completed_at": "2026-06-06T10:31:31.382563+00:00",
+      "analysis": "MRVL 係 AI 資料中心網絡同自訂 ASIC 嘅核心受益者，但當前 P/E 90.9x、DCF 公允價值僅 $99 (-62%)，股價已完全脫離基本面支撐。建議 PASS，等回調至 $150-200 區間再考慮。",
+      "catalyst": "AI 數據中心網絡需求爆發, 自訂 ASIC 放量 (2027+ 最強動能), 800G/1.6T 光學互連升級週期, 公司營收 +42% YoY 轉盈",
+      "risk_reward": "",
+      "rationale": "MRVL 係 AI 資料中心網絡同自訂 ASIC 嘅核心受益者，但當前 P/E 90.9x、DCF 公允價值僅 $99 (-62%)，股價已完全脫離基本面支撐。建議 PASS，等回調至 $150-200 區間再考慮。"
     }
-  ]
+  ],
+  "last_synced": "2026-06-07T16:32:16.939648+08:00"
 }
