@@ -142,6 +142,21 @@ export default function System() {
                 <span className="arch-name">Marketaux</span>
                 <span className="arch-detail">Entity-level sentiment</span>
               </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">Tiingo</span>
+                <span className="arch-detail">News — overlaps with Marketaux + RSS</span>
+              </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">Reddit</span>
+                <span className="arch-detail">Sentiment — not wired yet</span>
+              </div>
+              <div className="arch-card pending">
+                <span className="arch-icon">⏳</span>
+                <span className="arch-name">Finviz</span>
+                <span className="arch-detail">Screener — AI screening preferred</span>
+              </div>
             </div>
           </div>
 
