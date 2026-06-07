@@ -41,25 +41,6 @@
       "rationale": "BUY High Conviction。全球AI標準制定者，增長85%+、利潤率63%、PEG 0.66。"
     },
     {
-      "ticker": "MRVL",
-      "verdict": "PASS",
-      "conviction": "High",
-      "upside": "-62.3% (DCF overvalued)",
-      "status": "done",
-      "completed_at": "2026-06-06T18:30:00Z",
-      "metrics": {
-        "pe": "90.9",
-        "rev_growth": "+42%",
-        "margin": "25.3%",
-        "fwd_pe": "25.6",
-        "price": "263.47"
-      },
-      "analysis": "AI networking leader但極度高估。P/E 90.9x vs peers 47.8x。DCF公允價值$99 vs 市價$263 (-62%)。分析師目標均價$233。",
-      "catalyst": "AI networking demand, Data center expansion",
-      "risk_reward": "Upside: Analyst $233 (-11%)\nDownside: DCF $99 (-62%)\nRisk/Reward: 極不利",
-      "rationale": "優質公司但估值完全脫離基本面。建議已持有者獲利，新進者等$150-200。"
-    },
-    {
       "ticker": "LTRX",
       "verdict": "WATCH",
       "conviction": "Medium",
