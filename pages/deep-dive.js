@@ -41,7 +41,9 @@ export default function DeepDiveCandidates() {
         // Build entries: DB data + user decisions
         const tickerEntries = candData.candidates.map(c => ({
           ticker: c.ticker,
-          reason: c.reasoning,
+          reason: c.reasoning || c.verdict || c.source_reason || '',
+          verdict: c.verdict || '',
+          conviction: c.conviction || '',
           source: c.category,
           date: c.screen_date,
           status: decMap[c.ticker] || c.status || 'pending'
@@ -131,16 +133,18 @@ export default function DeepDiveCandidates() {
           return (
             <div key={e.ticker} className="card" style={{ borderLeftColor: status.color }}>
               <div className="hd">
-                <div className="info">
-                  <div className="tkr-line">
-                    <span className="tkr">{e.ticker}</span>
-                    <span className={`src-badge ${e.source}`}>
-                      {e.source === 'high_confidence' ? '🎯 機會' : e.source === 'worth_watching' ? '📡 關注' : e.source === 'theme' ? '📌 主題' : e.source}
-                    </span>
+              <div className="info">
+                    <div className="tkr-line">
+                      <span className="tkr">{e.ticker}</span>
+                      <span className={`src-badge ${e.source}`}>
+                        {e.source === 'high_confidence' ? '🎯 機會' : e.source === 'worth_watching' ? '📡 關注' : e.source === 'theme' ? '📌 主題' : e.source}
+                      </span>
+                      {e.verdict && <span className="verdict-badge">{e.verdict}</span>}
+                      {e.conviction && <span className="conv-badge">{e.conviction}</span>}
+                    </div>
+                    <div className="rsn">{e.reason || '—'}</div>
+                    {e.date && <div className="dt">{e.date}</div>}
                   </div>
-                  <div className="rsn">{e.reason}</div>
-                  {e.date && <div className="dt">{e.date}</div>}
-                </div>
                 <select 
                   className="sel"
                   value={e.status}
@@ -205,6 +209,8 @@ export default function DeepDiveCandidates() {
         .src-badge.worth_watching { background: rgba(245,158,11,0.15); color: #fbbf24; }
         .src-badge.theme { background: rgba(99,102,241,0.15); color: #818cf8; }
         .rsn { font-size: 13px; color: #94a3b8; line-height: 1.5; }
+        .verdict-badge { font-size: 11px; padding: 2px 8px; border-radius: 4px; font-weight: 600; background: rgba(99,102,241,0.15); color: #818cf8; }
+        .conv-badge { font-size: 11px; padding: 2px 8px; border-radius: 4px; font-weight: 600; background: rgba(245,158,11,0.15); color: #fbbf24; }
         .dt { font-size: 12px; color: #64748b; margin-top: 3px; }
         .sel { font-size: 14px; padding: 8px 12px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #e2e8f0; cursor: pointer; flex-shrink: 0; min-width: 140px; font-weight: 500; min-height: 38px; }
         .sel:focus { outline: none; border-color: #6366f1; }
