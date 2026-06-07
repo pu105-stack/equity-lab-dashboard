@@ -5,15 +5,15 @@ const pipelines = [
   { id: 'nc2', name: 'News Curator #2', icon: '📰', schedule: 'Mon–Fri 8am', desc: 'US session news → 搵投資機會' },
   { id: 'ms', name: 'Morning Scan', icon: '🌅', schedule: 'Mon–Fri 8:30pm', desc: 'US pre-market context + macro setup' },
   { id: 'er', name: 'Evening Review', icon: '🌆', schedule: 'Mon–Fri 8:30am', desc: '收市 post-mortem + 機會追蹤' },
-  { id: 'ws', name: 'Weekly Screen', icon: '📊', schedule: 'Sat 6am', desc: '7日 News Curator 分析 → signal filter' },
-  { id: 'dd', name: 'Deep Dive', icon: '🔬', schedule: 'Every 3h (12–21 HKT)', desc: 'On-demand ticker deep dive analysis (FMP + yfinance + SEC EDGAR)' },
+  { id: 'ws', name: 'Weekly Screen', icon: '📊', schedule: 'Sat 6am', desc: '7日 pipeline_reports + news_summary + .md → signal filter' },
+  { id: 'dd', name: 'Deep Dive', icon: '🔬', schedule: 'Every 3h (12–21 HKT)', desc: 'On-demand ticker deep dive → DB + pipeline_reports w/embedding' },
 ]
 
 const dbTables = [
-  { name: 'pipeline_reports', rows: '13 (385-dim embedding)', desc: '所有 pipeline 嘅 full analysis text', type: 'vector' },
-  { name: 'news_summary', rows: '8,767', desc: 'News Curator 逐條 headline + sentiment', type: 'relational' },
-  { name: 'weekly_screen', rows: '~30', desc: '每週 ticker picks + 分類 + deep dive linkage', type: 'relational' },
-  { name: 'deep_dive_results', rows: '3', desc: '8-phase deep dive: thesis, fair value, catalysts', type: 'relational' },
+  { name: 'pipeline_reports', rows: '13 (384-dim embedding)', desc: 'Morning/Evening/Deep Dive full analysis + vector', type: 'vector' },
+  { name: 'news_summary', rows: '8,779', desc: 'News Curator 逐條 headline + sentiment', type: 'relational' },
+  { name: 'weekly_screen', rows: '13', desc: '每週 ticker picks + 分類 + deep dive linkage', type: 'relational' },
+  { name: 'deep_dive_results', rows: '6', desc: '8-phase deep dive: thesis, fair value, catalysts', type: 'relational' },
 ]
 
 const techStack = [
@@ -31,10 +31,13 @@ const techStack = [
     { name: 'Hermes Agent', detail: 'AI agent framework — cron scheduler + tool calling + subagent delegation' },
     { name: 'DeepSeek V4', detail: 'LLM provider for all pipeline reasoning' },
     { name: 'fastembed', detail: 'bge-small-en-v1.5, 384-dim, runs in Docker' },
+    { name: 'update-dashboard.py', detail: 'Post-pipeline handler — sync DB→JSON + git push' },
   ]},
   { cat: 'Storage', items: [
     { name: 'PostgreSQL + pgvector', detail: 'Docker container (equity-db), vector(384) support' },
     { name: 'daily-ops.json', detail: 'Flat file for dashboard display (git pushed)' },
+    { name: 'deep-dive-decisions/results.json', detail: 'Display JSON synced from DB (git pushed)' },
+    { name: '/docker-data/news-curator/', detail: 'News Curator markdown summaries (pipeline handoff)' },
   ]},
   { cat: 'Display', items: [
     { name: 'Vercel (Next.js)', detail: 'Static dashboard hosting, auto-deploy from GitHub' },
