@@ -90,17 +90,7 @@
       "updated_at": "2026-06-06",
       "reasoning": "Blackstone capping withdrawals from flagship $4.5bn private credit fund。Pimco警告信貸損失即將上升。呢個係systemic risk signal — 如果private credit unravel，會影響整個金融板塊。",
       "source": "theme"
-    },
-    {
-      "ticker": "MRVL",
-      "status": "pending",
-      "updated_at": "2026-06-05T10:00:00+08:00"
-    },
-    {
-      "ticker": "XLU",
-      "status": "pending",
-      "updated_at": "2026-06-05T10:00:00+08:00"
     }
   ],
-  "last_synced": "2026-06-07T16:15:25.699916+08:00"
+  "last_synced": "2026-06-07T08:18:12.258990"
 }

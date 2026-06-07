@@ -15,11 +15,6 @@
       "conviction": "Low"
     },
     {
-      "ticker": "MRVL",
-      "status": "pending",
-      "updated_at": "2026-06-05T10:00:00+08:00"
-    },
-    {
       "ticker": "AVGO",
       "status": "skip",
       "updated_at": "2026-06-05T10:00:00+08:00"
@@ -42,11 +37,6 @@
     {
       "ticker": "COIN",
       "status": "skip",
-      "updated_at": "2026-06-05T10:00:00+08:00"
-    },
-    {
-      "ticker": "XLU",
-      "status": "pending",
       "updated_at": "2026-06-05T10:00:00+08:00"
     }
   ],
