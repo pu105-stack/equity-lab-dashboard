@@ -15,6 +15,13 @@
       "source": "theme"
     },
     {
+      "ticker": "NVDA",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "呢星期最大news：AI戰線從datacenter擴展到laptop — 開闢全新TAM對抗Apple/Intel/AMD/Qualcomm。Portfolio holding。AVGO事件後NVDA被拖累，但長期AI infra spend thesis不變。",
+      "source": "high_confidence"
+    },
+    {
       "ticker": "GOOGL",
       "status": "pending",
       "updated_at": "2026-06-06",
@@ -26,6 +33,13 @@
       "status": "pending",
       "updated_at": "2026-06-06",
       "reasoning": "Portfolio holding。Amazon's $50B Chip Secret — 自研Trainium/Inferentia chips可能成為NVDA最大競爭對手。同時PINS $4B AWS deal證明cloud服務變現能力。",
+      "source": "high_confidence"
+    },
+    {
+      "ticker": "AVGO",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "非portfolio，new discovery。$285bn市值蒸發後值得跟進。AI chip guidance miss係結構性定price in問題？如果AI infra spend長期thesis不變，呢個跌幅可能係買入機會。",
       "source": "high_confidence"
     },
     {
@@ -88,5 +102,5 @@
       "updated_at": "2026-06-05T10:00:00+08:00"
     }
   ],
-  "last_synced": "2026-06-07T08:14:41.202284"
+  "last_synced": "2026-06-07T16:15:25.699916+08:00"
 }
