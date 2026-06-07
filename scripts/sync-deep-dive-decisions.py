@@ -1,24 +1,62 @@
 #!/usr/bin/env python3
 """
-Sync decisions from Vercel API into data/deep-dive-decisions.json.
+Sync decisions from Vercel API + DB into data/deep-dive-decisions.json.
 Called by Maya (deep-dive-polling) before processing.
 
 Logic:
-- GET https://oscary.space/api/deep-dive → decisions list
-- Read local data/deep-dive-decisions.json
-- MERGE: overlay Vercel status onto existing entries
+- GET https://oscary.space/api/deep-dive → decisions list (user's status choices)
+- Query weekly_screen DB → get reasoning, category for each ticker
+- MERGE: overlay Vercel status + DB reasoning onto existing entries
 - REMOVE: entries with status='skip' or status='done'
 - WRITE: clean file with only pending + deep_dive entries
-- git add, commit, push
+- git add (no push — wait for next pipeline push)
 """
-import json, subprocess, sys, os
+
+import json, subprocess, sys, os, urllib.request
+from datetime import datetime
 
 VERCEL_API = "https://oscary.space/api/deep-dive"
 FILE_PATH = "/docker-data/equity-lab-dashboard/data/deep-dive-decisions.json"
 
+# DB query — runs in Docker where host.docker.internal works
+DB_QUERY = """
+SELECT ticker, category, reasoning, catalyst, theme, screen_date
+FROM weekly_screen
+ORDER BY screen_date DESC
+"""
+
+
+def fetch_db_reasons():
+    """Query weekly_screen from DB for reasoning data."""
+    import psycopg2
+    try:
+        conn = psycopg2.connect(
+            host="host.docker.internal", port=5432,
+            dbname="equity-db", user="tradus371",
+            password="QuantLab2026!"
+        )
+        cur = conn.cursor()
+        cur.execute(DB_QUERY)
+        reasons = {}
+        for row in cur.fetchall():
+            ticker, category, reasoning, catalyst, theme, screen_date = row
+            reasons[ticker] = {
+                "reasoning": reasoning or "",
+                "source": category or "headlines",
+                "catalyst": catalyst or "",
+                "theme": theme or "",
+                "screen_date": str(screen_date) if screen_date else "",
+            }
+        cur.close()
+        conn.close()
+        return reasons
+    except Exception as e:
+        print(f"⚠️ DB query failed: {e}")
+        return {}
+
+
 def main():
-    # 1. Fetch from Vercel
-    import urllib.request
+    # 1. Fetch from Vercel (user decisions)
     try:
         resp = urllib.request.urlopen(VERCEL_API, timeout=15)
         vercel_data = json.loads(resp.read())
@@ -27,55 +65,78 @@ def main():
         return
 
     vercel_decisions = vercel_data.get("decisions", [])
-    if not vercel_decisions:
-        print("ℹ️ No decisions from Vercel, nothing to sync")
-        return
+    # 就算 Vercel 冇 data，都照由 DB bootstrap
+    print(f"ℹ️ Vercel: {len(vercel_decisions)} decisions")
 
-    # 2. Read local file
+    # 2. Fetch reasoning from DB
+    db_reasons = fetch_db_reasons()
+    if db_reasons:
+        print(f"✅ DB: {len(db_reasons)} tickers with reasoning")
+    else:
+        print("⚠️ No DB data — will use existing JSON data only")
+
+    # 3. Read local file
     try:
         with open(FILE_PATH) as f:
             local_data = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         local_data = {"decisions": []}
 
-    # 3. Build map: ticker → entry
+    # 4. Build merged map
     vercel_map = {d["ticker"]: d for d in vercel_decisions}
     local_map = {d["ticker"]: d for d in local_data.get("decisions", [])}
 
-    # 4. Merge: Vercel status overlays local
     merged = {}
-    for ticker, entry in local_map.items():
-        merged[ticker] = dict(entry)  # copy
-        if ticker in vercel_map:
-            # Overlay status + timestamp from Vercel
-            merged[ticker]["status"] = vercel_map[ticker]["status"]
-            merged[ticker]["updated_at"] = vercel_map[ticker].get("updated_at", entry.get("updated_at",""))
 
-    # Also add any new tickers from Vercel not in local
+    # Start with DB tickers (always have reasoning)
+    for ticker, db in db_reasons.items():
+        merged[ticker] = {
+            "ticker": ticker,
+            "status": "pending",
+            "updated_at": db.get("screen_date", datetime.now().isoformat()),
+            "reasoning": db.get("reasoning", ""),
+            "source": db.get("source", "headlines"),
+        }
+
+    # Then overlay local entries (may have user set status from previous runs)
+    for ticker, entry in local_map.items():
+        if ticker not in merged:
+            merged[ticker] = dict(entry)
+        else:
+            # Preserve user status from local
+            merged[ticker]["status"] = entry.get("status", merged[ticker]["status"])
+            if entry.get("reasoning") and not merged[ticker].get("reasoning"):
+                merged[ticker]["reasoning"] = entry["reasoning"]
+
+    # Then overlay Vercel (latest user decisions)
     for ticker, entry in vercel_map.items():
         if ticker not in merged:
             merged[ticker] = dict(entry)
+        else:
+            merged[ticker]["status"] = entry.get("status", merged[ticker]["status"])
+            merged[ticker]["updated_at"] = entry.get("updated_at", merged[ticker].get("updated_at", ""))
 
-    # 5. REMOVE skip + done entries
+    # 6. Remove skip + done
     active = [e for e in merged.values() if e.get("status") not in ("skip", "done")]
 
-    # 6. Write back
-    output = {"decisions": active, "last_synced": __import__('datetime').datetime.now().isoformat()}
+    # 7. Write back
+    output = {"decisions": active, "last_synced": datetime.now().isoformat()}
     with open(FILE_PATH, "w") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Sync complete: {len(vercel_decisions)} from Vercel → {len(active)} active candidates")
+    # Stats
+    with_reasoning = sum(1 for d in active if d.get("reasoning"))
+    print(f"✅ Sync complete: {len(vercel_decisions)} from Vercel + {len(db_reasons)} from DB → {len(active)} active candidates ({with_reasoning} with reasoning)")
 
-    # 7. Git push
+    # 8. Git stage only — 唔 push，等下次 pipeline push 時一齊帶出去
     os.chdir("/docker-data/equity-lab-dashboard")
     subprocess.run(["git", "add", "data/deep-dive-decisions.json"], capture_output=True)
     r = subprocess.run(["git", "diff", "--cached", "--quiet"], capture_output=True)
     if r.returncode != 0:
-        subprocess.run(["git", "commit", "-m", f"sync: deep-dive decisions ({len(active)} active)"], capture_output=True)
-        subprocess.run(["git", "push"], capture_output=True)
-        print("✅ Git pushed")
+        print(f"✅ Staged: data/deep-dive-decisions.json ({len(active)} active, {with_reasoning} with reasoning)")
     else:
-        print("ℹ️ No changes to push")
+        print("ℹ️ No changes to stage")
+
 
 if __name__ == "__main__":
     main()
