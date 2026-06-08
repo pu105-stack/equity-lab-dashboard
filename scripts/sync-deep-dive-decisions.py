@@ -49,12 +49,36 @@ def fetch_db_reasons():
                 "deep_dive_status": deep_dive_status or "pending",
             }
 
-        # Also fetch already-analyzed tickers from deep_dive_results
-        cur.execute("SELECT DISTINCT ticker FROM deep_dive_results")
-        done_tickers = {row[0] for row in cur.fetchall()}
-        for t in done_tickers:
+        # Also fetch recently-analyzed tickers from deep_dive_results
+        # Only consider done if deep dive was completed after the last screen date
+        # (allows same ticker to be flagged again in a new cycle)
+        cur.execute("""
+            SELECT DISTINCT ON (ticker) ticker, completed_at
+            FROM deep_dive_results
+            ORDER BY ticker, completed_at DESC
+        """)
+        done_tickers = {}
+        for row in cur.fetchall():
+            ticker, completed_at = row
+            done_tickers[ticker] = completed_at
+
+        for t, completed_at in done_tickers.items():
             if t in reasons:
-                reasons[t]["deep_dive_status"] = "done"
+                dd_status = reasons[t].get("deep_dive_status", "pending")
+                screen_date_str = reasons[t].get("screen_date", "")
+                # Only override to done if the deep dive result is newer than the screen date
+                if dd_status != "done" and screen_date_str:
+                    try:
+                        screen_dt = datetime.fromisoformat(screen_date_str)
+                        if completed_at and completed_at > screen_dt:
+                            reasons[t]["deep_dive_status"] = "done"
+                    except (ValueError, TypeError):
+                        pass
+                elif dd_status != "done":
+                    # No screen date available from weekly_screen — use 30-day window as fallback
+                    from datetime import timezone
+                    if completed_at and (datetime.now(timezone.utc) - completed_at).days <= 30:
+                        reasons[t]["deep_dive_status"] = "done"
             else:
                 reasons[t] = {
                     "reasoning": "",
