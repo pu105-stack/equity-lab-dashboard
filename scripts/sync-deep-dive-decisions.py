@@ -20,7 +20,7 @@ FILE_PATH = "/docker-data/equity-lab-dashboard/data/deep-dive-decisions.json"
 
 # DB query — runs in Docker where host.docker.internal works
 DB_QUERY = """
-SELECT ticker, category, reasoning, catalyst, theme, screen_date
+SELECT ticker, category, reasoning, catalyst, theme, screen_date, deep_dive_status
 FROM weekly_screen
 ORDER BY screen_date DESC
 """
@@ -39,14 +39,32 @@ def fetch_db_reasons():
         cur.execute(DB_QUERY)
         reasons = {}
         for row in cur.fetchall():
-            ticker, category, reasoning, catalyst, theme, screen_date = row
+            ticker, category, reasoning, catalyst, theme, screen_date, deep_dive_status = row
             reasons[ticker] = {
                 "reasoning": reasoning or "",
                 "source": category or "headlines",
                 "catalyst": catalyst or "",
                 "theme": theme or "",
                 "screen_date": str(screen_date) if screen_date else "",
+                "deep_dive_status": deep_dive_status or "pending",
             }
+
+        # Also fetch already-analyzed tickers from deep_dive_results
+        cur.execute("SELECT DISTINCT ticker FROM deep_dive_results")
+        done_tickers = {row[0] for row in cur.fetchall()}
+        for t in done_tickers:
+            if t in reasons:
+                reasons[t]["deep_dive_status"] = "done"
+            else:
+                reasons[t] = {
+                    "reasoning": "",
+                    "source": "",
+                    "catalyst": "",
+                    "theme": "",
+                    "screen_date": "",
+                    "deep_dive_status": "done",
+                }
+
         cur.close()
         conn.close()
         return reasons
@@ -92,7 +110,7 @@ def main():
     for ticker, db in db_reasons.items():
         merged[ticker] = {
             "ticker": ticker,
-            "status": "pending",
+            "status": "done" if db.get("deep_dive_status") == "done" else "pending",
             "updated_at": db.get("screen_date", datetime.now().isoformat()),
             "reasoning": db.get("reasoning", ""),
             "source": db.get("source", "headlines"),
@@ -103,17 +121,19 @@ def main():
         if ticker not in merged:
             merged[ticker] = dict(entry)
         else:
-            # Preserve user status from local
-            merged[ticker]["status"] = entry.get("status", merged[ticker]["status"])
+            # Don't overwrite 'done' with local status
+            if merged[ticker]["status"] != "done":
+                merged[ticker]["status"] = entry.get("status", merged[ticker]["status"])
             if entry.get("reasoning") and not merged[ticker].get("reasoning"):
                 merged[ticker]["reasoning"] = entry["reasoning"]
 
-    # Then overlay Vercel (latest user decisions)
+    # Then overlay Vercel (latest user decisions) — but don't overwrite 'done'
     for ticker, entry in vercel_map.items():
         if ticker not in merged:
             merged[ticker] = dict(entry)
         else:
-            merged[ticker]["status"] = entry.get("status", merged[ticker]["status"])
+            if merged[ticker]["status"] != "done":
+                merged[ticker]["status"] = entry.get("status", merged[ticker]["status"])
             merged[ticker]["updated_at"] = entry.get("updated_at", merged[ticker].get("updated_at", ""))
 
     # 6. Remove skip + done
