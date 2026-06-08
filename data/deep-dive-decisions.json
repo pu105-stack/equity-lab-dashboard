@@ -1,4 +1,96 @@
 {
-  "decisions": [],
-  "last_synced": "2026-06-08T15:36:36.571203+08:00"
+  "decisions": [
+    {
+      "ticker": "MSTR",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "Bitcoin heading for biggest weekly loss since Nov2022，Strategy（MSTR）sale unnerving crypto traders。呢個係potential capitulation signal。如果BTC持續弱勢，MSTR嘅premium會進一步壓縮，可能有更大downside。但反之如果係oversold bounce candidate，值博率都高。需要monitor BTC flow + MSTR convertible bond activity。",
+      "source": "worth_watching"
+    },
+    {
+      "ticker": "SPX",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "SpaceX IPO $1.77tn估值 $86bn集資 — 史上最大IPO。Goldman預期SpaceX AI revenue 100x by 2030。JPMorgan用branch network幫手pitch。呢個IPO會影響market liquidity + 帶動satellite/space板塊重評。唔係direct ticker play住，但係值得monitor IPO timeline。SATS（~3% stake）同EchoStar係proxy。",
+      "source": "theme"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "呢星期最大news：AI戰線從datacenter擴展到laptop — 開闢全新TAM對抗Apple/Intel/AMD/Qualcomm。Portfolio holding。AVGO事件後NVDA被拖累，但長期AI infra spend thesis不變。",
+      "source": "high_confidence"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "Portfolio holding。史上最大$85B股權融資，明確信號：Google全力投入AI infrastructure。雙面刃：稀釋vs AI spending野心。市場似乎未fully price in呢個commitment scale。",
+      "source": "high_confidence"
+    },
+    {
+      "ticker": "AMZN",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "Portfolio holding。Amazon's $50B Chip Secret — 自研Trainium/Inferentia chips可能成為NVDA最大競爭對手。同時PINS $4B AWS deal證明cloud服務變現能力。",
+      "source": "high_confidence"
+    },
+    {
+      "ticker": "AVGO",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "非portfolio，new discovery。$285bn市值蒸發後值得跟進。AI chip guidance miss係結構性定price in問題？如果AI infra spend長期thesis不變，呢個跌幅可能係買入機會。",
+      "source": "high_confidence"
+    },
+    {
+      "ticker": "SATS",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "非portfolio，new discovery。SpaceX IPO $1.77tn估值狂熱中，EchoStar係少數公開市場proxy — 持有~3% SpaceX stake。JPMorgan用branch network pitch IPO。",
+      "source": "high_confidence"
+    },
+    {
+      "ticker": "PINS",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "非portfolio，new discovery。$4B AWS cloud deal係transformative級別 — 解鎖AI-driven ad targeting能力。Pinterest長期被低估，呢個deal可能係轉折點。",
+      "source": "worth_watching"
+    },
+    {
+      "ticker": "NEE",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "非portfolio，new discovery。NextEra + Dominion $420bn merger — 能源板塊史上最大合併之一。AI data centre電力需求係催化劑，utility sector估值有望re-rate。",
+      "source": "worth_watching"
+    },
+    {
+      "ticker": "META",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "Portfolio holding。AI agents unlocking WhatsApp revenue係新變現渠道。Enterprise AI 'business agent' launch + NSA使用Anthropic Mythos事件帶來監管風險。",
+      "source": "worth_watching"
+    },
+    {
+      "ticker": "GLD",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "金價升至~$4,530，中央銀行買金處於45年高位（2025年）。伊朗戰爭 + 停火反覆推升避險需求。唔係direct trade但係重要macro backdrop。",
+      "source": "theme"
+    },
+    {
+      "ticker": "BX",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "Blackstone capping withdrawals from flagship $4.5bn private credit fund。Pimco警告信貸損失即將上升。呢個係systemic risk signal — 如果private credit unravel，會影響整個金融板塊。",
+      "source": "theme"
+    },
+    {
+      "ticker": "CVX",
+      "status": "done",
+      "updated_at": "2026-06-06",
+      "reasoning": "3條curator mention，consistent energy theme。伊朗戰爭 + Hezbollah truce collapse + US原油庫存2004年新低。Trafigura利潤double。油價處於inflection point。",
+      "source": "high_confidence"
+    }
+  ],
+  "last_synced": "2026-06-08T15:36:51.786015+08:00"
 }
