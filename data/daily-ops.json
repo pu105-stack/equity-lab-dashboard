@@ -1,511 +1,241 @@
 {
-  "runs": [
-    {
-      "date": "2026-06-07",
-      "pipeline": "deep-dive",
-      "time": "16:32 HKT",
-      "status": "sync-db"
-    },
-    {
-      "date": "2026-06-07",
-      "pipeline": "weekly-screen",
-      "time": "16:15 HKT",
-      "status": "ok"
-    },
-    {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-06",
-      "time": "19:38 HKT",
-      "status": "success",
-      "market_direction": "避險情緒升溫 — 美伊衝突升級、強勁就業數據推高加息預期，股市大幅回調（S&P 500 -2.6%），半導體板塊急跌。資金輪動至能源、國防板塊。",
-      "headlines": [
-        "ACTION: AAPL — WWDC星期一舉行，Apple AI策略成關鍵考驗，股價近歷史高位$315。Tim Cook最後一次以CEO身份主講WWDC，Siri代理平台成焦點",
-        "ACTION: MU — 週五暴跌13%，半導體板塊全面回調。Wolf Street: 「Semiconductor Stocks Roll Over」，分析師爭論是否買入機會",
-        "ACTION: XLE/XOM/CVX — 美伊互相打擊，伊朗向科威特和巴林發射彈道導彈，霍爾木茲海峽受威脅。布蘭特原油或衝擊$140",
-        "ACTION: LMT/NOC/RTX — $1.15萬億NDAA國防法案推進，台灣無人機/國防投資成焦點，12名民主黨人罕見反對",
-        "ACTION: GOOGL — SpaceX以$135/股進行史上最大IPO，與Google簽署$300億算力租賃協議。S&P 500拒絕快速納入",
-        "WATCH: NVDA — Seeking Alpha downgrade至Hold，盈利未能推高股價。Jensen Huang否認AI導致失業",
-        "WATCH: GLD — Gold跌破EMA 200（$4,379），自2025年10月首次，技術面轉熊",
-        "WATCH: AVGO — 兩日暴跌20%，Seeking Alpha認為是「Golden Buying Opportunity」",
-        "WATCH: SHOP — SaaS行業整合潮創造罕見買入機會",
-        "WATCH: TSLA — JPMorgan突然轉多，Dimon讚賞Musk後分析師改口"
-      ],
-      "opportunities": [
-        "AAPL: WWDC催化劑 — 若AI策略成功（Siri代理平台升級），股價有望突破$330全年目標。但若令市場失望，高位回調風險大。建議sell volatility或參與事件驅動",
-        "MU: 半導體回調買入 — 13%單日跌幅過度，基本面未變。DRAM/NAND需求仍強勁，HBM受AI推動。適合有紀律地分批買入",
-        "XLE: 能源板塊避險 — 伊朗衝突升級+庫存下降+布蘭特可能衝$140。油股（XOM/CVX/OXY）和油服（SLB/HAL）直接受惠。美國鑽井數量持續增加（+2至431台）",
-        "國防股: NDAA $1.15萬億 + 台灣無人機投資 + 烏克蘭無人機攻擊史無前例。LMT/NOC/RTX防禦性強，地緣政治風險下持續受惠。Nigerian無人機初創Terra獲$3400萬融資",
-        "AVGO: 20%回調可能過度 — Broadcom AI相關收入持續增長，VMware整合推盈利。若半導體情緒恢復，反彈力強",
-        "CRDO: 光學連接技術受AI數據中心推動 — 光纖收發器需求爆炸性增長。盈利有上行空間，圖表看漲",
-        "SPACEX IPO相關: 無法直接交易但影響市場情緒。$920M/月Google合約證明了AI算力需求。零售投資者可能從BTC/ETH撤資參與IPO"
-      ],
-      "analysis": "本週市場焦點在三大因素交織：\n\n1. **美伊衝突急劇升溫** — 美國擊落伊朗無人機後轟炸伊朗雷達站，伊朗以彈道導彈反擊科威特和巴林。霍爾木茲海峽航運受威脅，布蘭特原油$92.87但仍可能衝擊$140。能源板塊成為唯一避險選擇。值得注意的是，特朗普同時釋放和談信號（願會見伊朗最高領袖），市場仍在評估戰/和路徑。\n\n2. **強勁就業數據重塑利率預期** — 5月新增172K職位（超預期），連續三個月超預期。美聯儲新主席Warsh面臨考驗，預測市場顯示52%概率今年加息。S&P 500週五暴跌2.6%，終結九週連漲。美元創兩個月最大漲幅。債券收益率上升，黃金受壓。\n\n3. **半導體板塊全面回調** — MU -13%、AVGO兩日-20%。市場質疑AI資本開支能否持續。但Goldman Sachs認為selloff是買入機會，S&P 500年底目標8000。Apple WWDC星期一的AI發布將是半導體情緒的關鍵催化劑。\n\n地緣政治方面：中國在台灣對面部署新型導彈、荷蘭軍艦穿越台海、PLA高度戒備。北京打擊概念炒作、推動基金行業長期回報轉型。歐盟考慮「專用工具」強制脫鉤中國供應鏈。",
-      "risks": [
-        "美伊衝突進一步升級 — 若霍爾木茲海峽被封鎖，油價可能急升30%+，全球經濟衰退風險大增",
-        "聯儲局加息風險 — 強勁就業+通脹回升，若Warsh轉鷹，成長股/科技股將受重創",
-        "半導體周期見頂風險 — AI資本開支若放緩，NVDA/MU/AVGO估值將大幅壓縮",
-        "台海局勢 — 中國部署新型導彈、PLA高戒備，若擦槍走火將引發更大範圍市場動盪",
-        "伊朗世界盃簽證問題 — 美國拒發伊朗團隊簽證可能加劇外交緊張"
-      ],
-      "my_take": "本週焦點係**星期一Apple WWDC** — 呢個係AI主題嘅關鍵催化劑。如果Apple成功展示Siri代理平台升級，成個AI生態（NVDA/AVGO/MSFT）可能反彈；如果失敗，半導體板塊嘅調整會更深。\n\n**能源係最清晰嘅short-term機會** — 伊朗衝突短期內難解決，布蘭特上$100幾乎確定，$140唔係唔可能。能源股未 fully priced in 呢個風險溢價。XLE/XOM/CVX係防守性持倉，同時有上行空間。\n\n**半導體回調係機會** — MU -13%過度，AVGO -20%更係overdone。但唔好撈底太急，等WWDC後確認方向再出手。分批買入MU/AVGO比較穩陣。\n\n**黃金走勢令人擔心** — EMA 200失守係技術性轉熊信號，聯儲局可能加息嘅環境不利金價。暫時避開金礦股。\n\n**SPACEX IPO**係2026年最大事件 — $135/股、史上最大IPO、$300億Google合約。雖然不能直接交易，但反映AI算力需求真實且龐大。GOOGL作為AI基礎設施受惠者值得持有。",
-      "key_takeaways": [
-        "Apple WWDC (週一) 係AI主題關鍵催化劑，主導本週市場方向",
-        "美伊衝突升級推能源價格，布蘭特或衝$140，能源股係最佳避險",
-        "半導體大幅回調（MU -13%, AVGO -20%），但可能係買入機會",
-        "強勁就業數據令Fed加息預期升溫，成長股受壓",
-        "國防開支$1.15萬億NDAA推進，地緣政治風險支撐國防板塊",
-        "黃金技術面轉熊（跌破EMA 200），加息預期持續打壓",
-        "SpaceX $135史上最大IPO，$300億Google合約證明AI算力需求"
-      ]
-    },
-    {
-      "pipeline": "每週篩選",
-      "date": "2026-06-06",
-      "time": "13:12 HKT",
-      "status": "success",
-      "market_direction": "Iran戰爭 + AI chip sector rotation — Dow +700pts vs Nasdaq 受AVGO拖累，rotation into value",
-      "headlines": [
-        "NVDA — AI戰線擴展到laptop，開闢新TAM",
-        "GOOGL — 史上最大$85B股權融資支持AI開支",
-        "AMZN — $50B Chip Secret，自研AI chips挑戰NVDA",
-        "AVGO — $285bn rout，dip機會定結構問題？",
-        "SATS — SpaceX IPO frenzy proxy play",
-        "CVX — 油價inflection，Iran戰爭+庫存2004新低",
-        "PINS — $4B AWS deal或成轉折點",
-        "NEE — $420bn energy mega-merger",
-        "META — AI agents解鎖WhatsApp revenue"
-      ],
-      "focus": [
-        "AI Semi: NVDA, AVGO, GOOGL, AMZN",
-        "SpaceX IPO: SATS (proxy)",
-        "Energy/Geopolitical: CVX, GLD",
-        "Cloud/Adoption: PINS, NEE"
-      ],
-      "opportunities": [
-        "NVDA — 最solid AI play，AVGO事件後sector rotation可能有利NVDA",
-        "AVGO — $285bn失血，如果AI infra spend thesis不變係買入機會",
-        "SATS — SpaceX IPO前最後嘅proxy window",
-        "PINS — $4B AWS deal，估值得重評"
-      ],
-      "risks": [
-        "Iran戰爭升級 — 油價暴升 + 避險衝擊risk assets",
-        "AVGO guidance miss可能係結構性 — 要睇詳細call transcript",
-        "Trump關稅升級 — 59 countries + EU，global trade disruption",
-        "Private credit — BX cap withdrawals + Pimco default warning",
-        "GOOGL $85B stock offering dilution"
-      ],
-      "my_take": "呢星期三條主線：(1) AI Semi re-pricing — AVGO miss暴露chip估值脆弱性，但GOOGL/AMZN capital raise證明infra spend不停，NVDA laptop expansion最solid。Priority: NVDA > AVGO (deep dive決定係dip定唔掂) (2) SpaceX IPO狂潮 — SATS係proxy但低流動性，等S-1 (3) Energy/Gold macro hedge — CVX/GLD。建議先睇NVDA + AVGO（urgent判斷），然後PINS/NEE慢慢睇。",
-      "key_takeaways": [
-        "6 high_confidence, 3 worth_watching, 2 themes",
-        "3 non-portfolio discoveries: AVGO, SATS, PINS, NEE (4)",
-        "AI Semi + Energy + SpaceX IPO 三條主線"
-      ]
-    },
-    {
-      "pipeline": "開市掃瞄",
-      "date": "2026-06-05",
-      "time": "20:30 HKT",
-      "status": "success",
-      "market_direction": "混合信號 — 美股反彈日後亞洲受壓，Dow/IWM領先顯示輪動加速，AI半導體內部分化。市場等待下週WWDC+SpaceX IPO雙重催化劑。",
-      "spy": "757.09 (+0.38% 6/4)",
-      "vix": "15.73 (pre-market 6/5)",
-      "dgs10": "4.47% (6/5 持平)",
-      "oil": "$92.74 (-0.3% overnight)",
-      "gold": "$4,493 (+0.4% overnight)",
-      "dxy": "99.23 (weak)",
-      "headlines": [
-        "【隔夜】SPY +0.38%反彈但QQQ -0.48% — 指數分化，資金從Nasdaq流向Dow/IWM（Dow +1.66%, Russell +1.51%）",
-        "【隔夜】GOOGL +3.68%一支穿雲箭 — 市場消化$840億融資後轉為買入，BRK+ARK同時建倉效應浮現",
-        "【隔夜】NVDA +1.82%反彈但盤中波幅$10 — 210-215區間有買盤支撐，但Computex好消息出貨pattern未散",
-        "【隔夜】AVGO -12.6%市值蒸發$2850億 — AI客製晶片指引令人失望，但市場尾段回穩至$418",
-        "【隔夜】MRVL +54%週漲幅 — Jensen稱next trillion-dollar company，AI networking供需缺口最直接受惠者",
-        "【隔夜】MSFT -4.93%週跌 + AMZN -6.23%週跌 — Magnificent 7中最大輸家，AI開支回報質疑打擊",
-        "【隔夜】JPM +3.34%銀行股領漲 — 利率環境改善+債息回落雙重利好",
-        "【亞洲】Nikkei -1.31%, HSI -1.15% — 日本/香港跟隨美股弱勢，中國通縮憂慮持續",
-        "【歐洲】Stoxx 50 -0.09% — 歐股持平，仍在消化地緣風險",
-        "【商品】油價從$96回落至$92.74，Hezbollah拒絕停火但市場已部分price in",
-        "【宏觀】10Y yield 4.47%持平，T10Y2Y曲線0.42%，breakeven通脹降至2.36%",
-        "【News Curator】AVGO暴跌、BTC/MSTR崩盤、Blackstone限制贖回為最大風險信號"
-      ],
-      "focus": [
-        "AAPL WWDC 6/8（週一）— 本日最關鍵催化劑窗口，Gemini Siri + AI Agent 為核心看點",
-        "SpaceX IPO下週啟動 — $1.77tn估值，史上最大IPO，GOOGL間接持倉7.5%最直接受惠",
-        "AI半導體內部分化 — MRVL +54% vs AVGO -12.6%，市場正揀winner/loser",
-        "Dow/Russell outperformance — 資金從AI/tech輪出至金融/價值/小型股",
-        "VIX 15.73 — 低於恐慌但高於舒適，市場處於「謹慎但未投降」狀態",
-        "Blackstone限制贖回 — 私人信貸裂縫需警惕擴散風險",
-        "Bitcoin $62K以下 — 13日ETF連續$44億淨流出，風險偏好受壓"
-      ],
-      "opportunities": [
-        "GOOGL: $840億融資短線恐慌但長線基建護城河加深，BRK+ARK同時買入係罕見信號。Target $429.87 (+15.5%)。$190B AI capex commitment利好。",
-        "AAPL: WWDC 6/8最明確短線催化劑，Gemini Siri係Apple AI策略成敗關鍵。Morgan Stanley強烈看多，$310 support已多次測試。",
-        "MRVL: 單週+54%後有獲利回吐壓力。中長線AI networking story完整（Jensen背書），等pullback至$280-290再考慮。",
-        "NVDA: PE 33.4/forward PE 17.3，PEG 0.66，85% revenue growth，target $298 (+36%)。CPU進軍laptop擴大TAM，$210-215買盤堅實。",
-        "AVGO: 12.6%單日跌幅過度。AI revenue仍doubledigit growth，Marketaux sentiment +0.533 bullish。$390-410可考慮分批建倉。",
-        "JPM: 銀行股領漲板塊輪動。債息回落降低融資成本+經濟軟著陸預期利好。"
-      ],
-      "risks": [
-        "⚠️ MSFT/AMZN結構性弱勢 — 連跌數日，AI開支回報質疑若擴散將衝擊整個M7",
-        "⚠️ TSLA $415支持位薄弱 — 5日累跌4%，若跌穿$415可加速至$400",
-        "⚠️ AVGO事件擴散 — 12.6%單日跌幅可能引發半導體板塊連鎖減倉",
-        "⚠️ Blackstone限制贖回擴散 — 私人信貸乃下一個流動性危機種子",
-        "⚠️ Bitcoin $62K以下清算未完成 — 加密市場波動或傳導至科技股風險偏好",
-        "⚠️ Hezbollah拒絕停火+伊朗出口6年低 — 油價回調可能短暫，向上突破$100風險仍在",
-        "⚠️ VIX 15.73未回comfort zone — 市場未真正放鬆警戒"
-      ],
-      "my_take": "**Overall Bias: 審慎看好，但Short-term Tactical Neutral**\n\n今日（6/5 週五）係一個「等催化劑」嘅格局。三大利好催化劑排隊：下週一AAPL WWDC、SpaceX IPO啟動、Prime Day公佈。但同時三大利空尾跡未消：AVGO暴跌、Bitcoin崩盤、Blackstone贖回限制。\n\n**最大嘅結構性變化係rotation信號**：Dow +1.66%、Russell +1.51% vs QQQ -0.48% — 呢個唔係一日行情，而係資金從Nasdaq超買區域流出至價值/金融/小型股嘅開始。GOOGL嘅強勢反彈係例外，因BRK+ARK建倉係獨立催化劑。\n\n**AAPL WWDC 6/8 係我睇得最重嘅催化劑**：如果Apple成功展示Gemini Siri + AI agent功能，AAPL會迎來類似NVDA嘅AI re-rating。Morgan Stanley嘅睇法我buy — Apple嘅優勢係現有用戶base + iOS生態，AI monetization門檻最低。但UBS嘅冷水（$310=fair value）都值得聽，切忌over-anticipate。\n\n**最被低估嘅機會係GOOGL**：市場仍focus喺$840億融資嘅dilution effect，而miss咗成個picture — BRK歷史性建倉科技股、ARK買入、$190B capex commitment、Anthropic TPU訂單。呢啲加埋係一個「AI基建軍備競賽嘅明確受益者」signal。如果下週SpaceX IPO成功（$1.77tn listing），GOOGL作為7.5%股東直接受惠。\n\n**最大嘅sleeping risk係私人信貸**：Blackstone旗艦基金限制贖回 + Partners Group跟進 = 呢個可能係冰山一角。如果贖回潮擴散，會引發真正的流動性收縮。暫時係watch item，但下週需要密切留意有冇更多基金跟進。\n\n**今日部署**：\n- 週五通常volume低 + 下週催化劑密集 = 今日唔應該做major reposition\n- 如果想要pre-position下週催化劑：GOOGL（AI基建）+ AAPL（WWDC）係最直接嘅plays\n- AVGO可考慮細注撈底（$390-410區間）\n- MSFT/AMZN弱勢應繼續avoid，等反彈信號\n- 油價從$96回落至$92.74係short-term relief，但中東局勢未解決，不宜short energy\n- VIX 15.73偏高 — 可考慮buy put hedge對沖下週WWDC/liquidity risk\n\n**一句總結**：下週Catalyst密度係2026年最高之一（WWDC + SpaceX IPO + Prime Day），今日策略係保持彈性、唔好滿倉、pre-position高信心催化劑（GOOGL, AAPL）。"
-    },
-    {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-05",
-      "time": "08:15 HKT",
-      "status": "success",
-      "market_direction": "半導體巨震 + 加密貨幣暴跌 + 中東地緣風險升溫 — 市場情緒偏謹慎",
-      "headlines": [
-        "ACTION: AVGO — Broadcom $285bn市值蒸發，營收展望遜預期跌12%，半導體板塊承壓",
-        "ACTION: BTC/MSTR — 比特幣狂瀉，Strategy減持引發幣災，BTC ETFs 13日淨流出$44億",
-        "ACTION: SPACE/TSLA — SpaceX史上最大IPO估值$1.77tn，Goldman預測AI收入100倍增長2030年",
-        "ACTION: BX — Blackstone旗艦私募信貸基金限制贖回，私人信貸市場壓力信號",
-        "ACTION: XLE/CVX/XOM — Hezbollah拒絕停火，伊朗石油出口跌至6年低點，油價面臨突破",
-        "WATCH: NVDA — Nvidia CPU進軍筆電市場，對抗Apple/Intel/AMD，AI戰場延伸",
-        "WATCH: NEE/D — NextEra與Dominion計劃$4200億合併，能源巨頭整合加速",
-        "WATCH: GLD/IAU — 全球央行2025年黃金購買創45年高，金價企穩",
-        "NOTE: SPY/QQQ — 巨型IPO浪潮（SpaceX等）測試美股牛市承受力",
-        "NOTE: GS — Goldman Sachs進軍代幣化房地產基金，加密金融化加速"
-      ],
-      "opportunities": [
-        "AVGO: 12%跌幅係過度反應定結構性問題？Broadcom AI chip需求基本面未變，回調可考慮分批低吸。關鍵位看$160支持。",
-        "NVDA: 從data center打到laptop，CPU進攻擴大TAM。FT披露Nvidia新策略，對AMD/INTC形成直接壓力。中線睇好NVDA主導地位。",
-        "XLE: 地緣風險（伊朗出口6年低 + Hezbollah反悔停火）vs 中國進口放緩 — 油價可能向上突破$100。Trafigura利潤翻倍反映供需緊張。",
-        "GLD: 央行買金45年高 + 宏觀不確定性，避險配置仍需持有。",
-        "NEE/D: $4200億合併重塑美國公用事業格局，清潔能源+燃氣雙線佈局。"
-      ],
-      "analysis": "昨晚（6月4日）US session新聞密度極高。最大事件係Broadcom $285bn單日蒸發 — 營收指引令市場失望，拖累整個半導體板塊，Bloomberg報導chip stock slump重燃buy-the-dip討論。同一時間，FT報導Nvidia正從data center進攻laptop市場，CPU戰略對Apple/Intel/AMD形成新競爭格局。\n\n加密貨幣市場陷入恐慌：Bitcoin跌破$62K，$600M+多頭合約被清算，13日連續ETF淨流出$44億。Strategy/MSTR持倉浮虧$110億，Saylor試圖淡化影響但市場唔買帳。Coinbase推出SpaceX pre-IPO市場。\n\n中東局勢惡化：Hezbollah拒絕美國斡旋的停火協議，伊朗石油出口跌至6年低點。Trafigura profit翻倍至$41億，警告oil at inflection point。Fed研究顯示美國對油價衝擊的敏感度已下降，但地緣溢價仍在。\n\n私人信貸市場出現裂痕：Blackstone flagship credit fund限制贖回（$45億贖回申請），Partners Group都跟進。呢個係需要高度關注的信號。\n\n美股方面，FT提出「the coming equity surge will test the US bull run」— SpaceX巨型IPO以及其他AI相關上市將測試市場吸收能力。S&P拒絕SpaceX快速納入指數。",
-      "risks": [
-        "Broadcom暴跌可能擴散至整個半導體板塊（NVDA/AMD/TSM），AI溢價面臨重估",
-        "加密貨幣崩盤可能引發更大規模的清算連鎖反應，影響Coinbase等相關持股",
-        "中東局勢進一步升級（伊朗核風險IAEA警告已增加），油價急升打擊消費股",
-        "私人信貸限制贖回擴散 — Blackstone/Partners Group可能只是冰山一角",
-        "巨型IPO抽走市場流動性，AI股估值面臨資金面壓力"
-      ],
-      "my_take": "今晚新聞嘅基調係risk-off：Broadcom暴跌、crypto崩盤、地緣風險升溫、私人信貸收緊。但呢啲恰恰係opportunity set。Broadcom嘅AI需求邏輯冇變，市場反應過度就係買入機會。NVDA擴張TAM嘅故事仍然完整。油價睇好，黃金繼續hold。最大隱憂係私人信貸—如果贖回潮擴散到更大型基金，會引發真正的流動性危機。保持警戒，AVGO分批低吸，NVDA逢跌加倉，XLE long exposure。",
-      "key_takeaways": [
-        "Broadcom $285bn市值蒸發 — 半導體板塊短期overhang，但AI長線邏輯未變",
-        "Crypto崩盤 — Strategy減持觸發連鎖反應，BTC ETFs $44億淨流出",
-        "中東地緣風險惡化 — 油價向上突破概率增，能源板塊睇好",
-        "Blackstone限制贖回 — 私人信貸壓力信號，需密切關注",
-        "SpaceX IPO序幕 — $1.77tn估值測試市場流動性，S&P拒絕快納"
-      ]
-    },
-    {
-      "pipeline": "新聞分析-NewsCurator#1",
-      "date": "2026-06-04",
-      "time": "20:39 HKT",
-      "status": "success",
-      "market_direction": "審慎偏弱 — 美股連升兩週後首日回調（S&P -0.7%, Nasdaq -0.9%, Dow -1.2%）。中東局勢再度升溫（美伊/以色列-黎巴嫩衝突）推升油價近$100，眾議院跨黨派通過限制總統對伊戰爭權力議案。科技巨頭AI資本開支料超$7000億引發回報質疑，Broadcom業績後暴跌14%拖累半導體板塊。以色列-黎巴嫩同意有條件停火，市場等待伊朗和談進展。",
-      "headlines": [
-        "ACTION: GOOGL — $840億股本融資震動市場，AI基建開支指引上調至$1900億上限，短線稀釋但長線AI基建領先地位強化",
-        "ACTION: AAPL — WWDC 6/8前Morgan Stanley強烈看多，Gemini驅動Siri改革+iOS支付功能，臨近催化劑窗口",
-        "WATCH: NVDA — Computex推RTX Spark AI PC超級晶片+Hyundai AI中心合作，Jensen稱Marvell爲下一家萬億公司",
-        "WATCH: AMZN — Prime Day延長至4天+AI倉儲機械人Proteus+歐洲百億歐元投資，自研晶片戰略加速",
-        "ACTION: AVGO — 業績後暴跌14%市值蒸發$3000億，AI收入雖倍增但市場失望，可考慮逢低佈局",
-        "WATCH: META — 新AI模型推遲發布+歐盟部分勝訴（Marketplace非gatekeeper）+泰國/澳洲監管壓力",
-        "ACTION: SPACE (未上市) — SpaceX IPO定價$1.75萬億，史上最大IPO，關注間接持倉機會",
-        "WATCH: MSFT — 與NVIDIA合作開發RTX Spark晶片，降低第三方依賴，AI內部化趨勢明確"
-      ],
-      "opportunities": [
-        "GOOGL: 短線因$840億股本融資受壓，但市場低估了Anthropic TPU訂單+Google Cloud企業AI需求（Palantir剛宣布上架GCP Marketplace）。BRK及ARK同時加倉屬罕見信號。$1900億capex指引看似驚人，但對比Meta/AMZN，Google的AI貨幣化路徑最清晰（搜索+雲+YouTube）。融資槓桿工具乃MSTR曾用方式，勿過慮稀釋。",
-        "AAPL: WWDC 6/8催化劑在即。Gemini驅動Siri代表Apple終於在AI助手領域有實質進展。iOS原生賬單分拆功能（掃收據即分單）看似小功能但提升iOS生態黏性。Morgan Stanley目標價暗示~15%上行空間。App Store $1.4萬億GMV年增穩健。",
-        "AVGO: 14%單日跌幅過度。AI收入同比確實翻倍以上，市場對custom AI chip期望過高。VMware整合仍在進行，non-AI半導體週期性復甦尚未計價。$3000億市值蒸發後風險回報改善，適合耐心投資者分批建倉。",
-        "SPACE (間接): SpaceX IPO為2026年最重磅事件。無法直接認購者可關注：持有SpaceX的VC/PE基金、Tesla（Elon財富效應）、或發射相關衛星營運商。IPO估值$1.75萬億但分析師十年目標高達$10萬億。",
-        "公用事業股（XLU等）: Big Tech AI資本開支$7000億+，數據中心電力需求爆發式增長，公用事業為被低估的AI受惠者，值得關注。",
-        "BRK.B: Greg Abel首筆重大收購 — $85億收購Taylor Morrison（建商），逆週期押注美國住房市場，顯示Abel時代的資本配置風格"
-      ],
-      "analysis": "News Curator #1（亞洲/歐洲 session）- 2026年6月4日 8pm HKT\n\n宏觀主題：Risk-off 情緒回歸\n美股打破兩週連升紀錄，S&P 500跌0.7%，主因：（1）伊朗/中東戰事升級 — 美國眾議院罕見跨黨派通過限制總統戰爭權力，4名共和黨人倒戈；（2）以色列-黎巴嫩達成有條件停火協議，但Hezbollah攻擊持續；（3）油價逼近$100，通脹憂慮重燃。Fed主席Warsh面臨減息壓力，但AI基建通脹效制約政策空間。\n\n半導體板塊：Broadcom暴跌拖累全線\nAVGO業績後-14%為今日最大事件。AI收入倍增但指引未達狂熱預期，反映市場對AI硬體股定價已極度進取。NVDA雖未受直接拖累（Computex利多對沖），但整體半導體情緒受壓。NVDA Computex亮點：RTX Spark AI PC晶片（與MSFT/聯發科合作）、Vera Rubin機架級平台、Hyundai AI中心合作。Jensen黃稱Marvell為下一家萬億美元公司具參考價值。\n\nMagnificent 7 分化加劇\n- AAPL 催化劑最多（WWDC 6/8），Gemini Siri + iOS支付，Morgan Stanley bullish\n- GOOGL 短線稀釋壓力，但長線AI故事最強（Anthropic TPU、Google Cloud、Waymo），BRK+ARK同時買入罕見\n- AMZN Prime Day延長、AI機械人、自研晶片、Cerebras合作，多引擎驅動\n- MSFT 中性偏正面，AI內部化降低對第三方依賴，與NVDA合作開發晶片\n- META 新AI模型延遲+多地監管壓力，但CoreWeave長約至2032顯示AI commitment未變\n- NVDA Computex多項新品，但需留意AVGO事件後AI硬體板塊估值重估風險\n\n板塊輪動觀察\n- 能源/油股受惠中東局勢（油價$100）\n- 公用事業將成AI基建受惠者（數據中心電力需求）\n- 住房/建商：BRK $85億收購Taylor Morrison，Abel逆週期押注\n- 防禦性資產短線或獲避險資金流入",
-      "risks": [
-        "中東局勢持續升級 — 伊朗和談破裂或致更大規模軍事衝突，油價突破$100衝擊全球經濟",
-        "AI資本開支回報質疑升溫 — Broadcom暴跌反映市場開始審視$7000億+AI支出的實際回報",
-        "美國國會與行政部門在伊朗問題上的分歧可能導致政策不確定性",
-        "通脹黏性使Fed無法減息，高利率持續壓制成長股估值",
-        "Big Tech自研晶片趨勢（GOOGL/AMZN/MSFT）可能衝擊NVDA/AVGO長期定價權"
-      ],
-      "my_take": "市場miss咗嘅重點：（1）GOOGL的$840億融資係催化劑，唔係利淡 — 參考MSTR先例，Strategic equity raise喺AI基建競賽中係先行指標，唔係弱勢信號。BRK歷來極少買科技股，今次double down係強烈背書。（2）Broadcom暴跌創造機會 — AI收入確實翻倍，市場失望只因預期太高。VMware非AI業務復甦尚未被price in。（3）公用事業係被低估嘅AI play — 數據中心電力需求結構性增長，但市場尚未將此主線定價。（4）SpaceX IPO係2026年最大事件 — $1.75萬億估值只是起點，跟進間接持倉機會。組合策略：增持GOOGL（利用短線弱勢）、持有AAPL（等WWDC催化劑）、留意AVGO撈底機會、關注XLU公用事業ETF。",
-      "key_takeaways": [
-        "美股短線回調，中東局勢為核心風險變數",
-        "AAPL WWDC 6/8為Magnificent 7中最明確短線催化劑",
-        "GOOGL $840億融資被過份解讀為利淡，長線AI基建護城河加深",
-        "AVGO暴跌14%後風險回報改善，AI收入倍增基本面未變",
-        "SpaceX IPO $1.75萬億估值 — 關注間接參與機會",
-        "公用事業（XLU）為數據中心AI需求之隱藏受惠者",
-        "BRK Abel時代首筆大型收購$85億押注住房市場，逆週期思維值得參考",
-        "NVDA Computex新品眾多但短線半導體板塊情緒受AVGO拖累"
-      ]
-    },
-    {
-      "pipeline": "開市前掃瞄",
-      "date": "2026-06-04",
-      "time": "20:37 HKT",
-      "status": "success",
-      "spy": "754.24 (-0.70%)",
-      "vix": "16.58",
-      "market_direction": "避險情緒升溫 — Broadcom AI晶片展望令人失望，半導體板塊承壓，Nasdaq期貨走弱",
-      "headlines": [
-        "Broadcom盤前暴跌，AI晶片展望令投資者失望（Yahoo Finance）",
-        "Broadcom恐創史上最大單日市值蒸發之一（Yahoo Finance）",
-        "比特幣急跌引發數十億美元爆倉（Yahoo Finance）",
-        "Anthropic遞交IPO申請後推出最強AI模型（Yahoo Finance）",
-        "Berkshire Hathaway新舵手Greg Abel斥資85億美元押注逆向策略（Yahoo Finance）",
-        "油價逼近100美元，美股創紀錄升勢暫歇（Yahoo Finance）",
-        "美元從兩個月高點回落，伊朗談判進行中（Yahoo Finance）",
-        "SpaceX IPO目標價出爐（Investors.com）",
-        "摩根大通：五股力量正在重塑美中權力平衡（Yahoo Finance）",
-        "貨運業困境蔓延：破產裁員逾600人（Yahoo Finance）"
-      ],
-      "focus": [
-        "Broadcom AI展望遜預期 — 半導體全線受壓",
-        "VIX急升至16.58 — 恐慌情緒升溫",
-        "10年債息回落至4.46% — 避險資金流入國債",
-        "利率期貨市場 — 關注今晚首次申領失業救濟數據"
-      ],
-      "analysis": "## 昨日市況回顧\n\nSPY昨日（6月3日）收報754.24，下跌0.70%，終結了連續三日的升勢。VIX由上周五（5月29日）的15.32上升至今日的16.58（+8.2%），市場恐慌情緒明顯升溫。\n\n## 債市信號\n\n10年期國債收益率持續下滑，由5月20日的4.57%回落至4.46%，反映資金正在避險。收益率曲線利差（10Y-2Y）由0.53收窄至0.41，雖然仍處於正數區間，但曲線趨平趨勢值得留意——若進一步收窄，可能預示經濟放緩預期升溫。\n\n## 今日關鍵催化劑\n\n**1. Broadcom效應 — 半導體板塊最大風險**\n\nBroadcom盤後公布的AI晶片展望遠遜市場預期，盤前股價暴跌，分析師形容「可能創史上最大單日市值蒸發之一」。這對整個半導體產業鏈產生連鎖效應——直接衝擊NVDA（持倉中的最大權重之一）及相關AI概念股。CrowdStrike亦因業績欠佳同步大跌。\n\n**2. 比特幣爆倉 — 風險偏好雙重打擊**\n\n比特幣急跌引發數十億美元爆倉，加密市場的動盪往往與科技股風險偏好高度相關，形成疊加壓力。\n\n**3. 今晚宏觀數據**\n\n首申失業救濟人數將於今晚公佈，在貨運業裁員潮（破產人數逾600人）背景下，勞動市場數據將是市場焦點。\n\n**4. 油價逼近100美元**\n\n原油價格持續攀升，對通脹預期及消費者信心構成壓力。若油價突破100美元關口，可能加劇聯儲局維持高利率的壓力。\n\n## 組合持倉影響\n\n- **NVDA**：Broadcom的AI晶片展望惡化直接利空整個AI半導體板塊，NVDA短期承壓。\n- **META / GOOGL / AMZN**：AI投入回報疑慮可能重新浮現。\n- **AAPL / MSFT**：相對防禦性較強，但仍受整體市場情緒影響。\n- **TSLA**：風險偏好多重打擊（BTC爆倉 + 科技股走弱）。\n- **JPM / V**：債息回落對銀行股淨息差有負面影響，但避險資金可能流入防禦性金融股。",
-      "risks": [
-        "Broadcom暴跌擴散至整個半導體板塊，NVDA首當其衝",
-        "VIX若突破17關口，可能觸發系統性去風險",
-        "比特幣爆倉引發流動性緊縮傳導至股市",
-        "油價衝擊$100關口，通脹預期再起",
-        "今晚首次申領失業救濟人數超預期"
-      ],
-      "my_take": "今日係明確嘅risk-off格局。Broadcom嘅AI展望令人失望，喺AI概念股估值已處於高位嘅背景下，呢個催化劑足以觸發一波獲利回吐。VIX急升、債息回落、BTC爆倉三者同步，形成典型嘅避險三角。\n\n短期策略上：NVDA持倉要密切留意盤中表現，若跌幅過大應考慮減倉對沖。防禦性配置（JPM, V）相對穩健，可作為資金避風港。今晚首申數據係第二個關鍵變數——若勞動市場數據理想，或能為市場提供支撐。\n\n中線睇法：AI長期趨勢未變，Broadcom嘅個別展望唔應該否定整個AI產業鏈。但短線（今明兩日）需要先消化呢個震盪。唔好撈底，等市場搵到支持位先再考慮加倉。",
-      "key_takeaways": [
-        "Broadcom AI展望遜預期 — 主導今日市場情緒",
-        "VIX飆升至16.58，避險情緒明顯升溫",
-        "10年債息回落至4.46%，資金流入國債避險",
-        "比特幣爆倉疊加科技股壓力，風險偏好多重受壓",
-        "油價逼近100美元，通脹壓力續存",
-        "今晚首申失業救濟為宏觀焦點",
-        "NVDA短線承壓，不宜急於撈底",
-        "防禦性配置（JPM, V）相對穩健"
-      ]
-    },
-    {
-      "pipeline": "開市前掃瞄",
-      "date": "2026-06-04",
-      "time": "20:05 HKT",
-      "status": "success",
-      "spy": "754.24 (-0.05% 5d, -0.70% 1d)",
-      "vix": "16.64 (+8.6% 5d)",
-      "market_direction": "cautious — SPY gave back weekly gains in Wednesday selloff; VIX surging into today",
-      "headlines": [
-        "Anthropic scales most powerful AI, files for IPO",
-        "Bitcoin crash triggers billions in liquidations",
-        "Marvell, Coherent, HP hit all-time highs on AI momentum",
-        "10Y yield declining to 4.46%, curve flattening (spread 0.41%)",
-        "Barron's: \"Triple Whammy\" — multiple forces hitting markets",
-        "STMicro doubles revenue outlook, hits fresh peak",
-        "Victoria's Secret soars to all-time high on swing to profits",
-        "Legend Biotech +42% on promising cancer therapy results"
-      ],
-      "focus": [
-        "AI/semiconductor momentum vs. broader market weakness — divergence is striking",
-        "Bitcoin crash risk-off sentiment may spill into equities today",
-        "Anthropic IPO filing — major catalyst for AI names (NVDA, META, GOOGL)",
-        "Yield curve narrowing — watch for recession signal if spread goes negative",
-        "VIX at 16.64 suggests elevated hedging activity"
-      ],
-      "analysis": "SPY rallied Mon-Tue to 759.57 (June 2 high), then sold off hard Wednesday (-0.70%) back to 754.24 — erasing virtually all weekly gains. VIX is spiking to 16.64 pre-market today, well above the 15.32 level from last Friday, indicating growing unease. The macro picture is mixed: 10Y yields declining to 4.46% (supportive) but the 10Y-2Y spread narrowing to 0.41% suggests the bond market is pricing in a softer economic outlook. Overnight themes are dominated by two big forces: (1) AI euphoria continues — Marvell, Coherent, HP all at all-time highs, Anthropic filing for IPO, STMicro doubling guidance; (2) Bitcoin crash causing billions in liquidations, which could spill risk-off sentiment into equities. The AI/semiconductor momentum is extremely concentrated — if BTC contagion spreads, tech could see a rotation or correction. Portfolio holdings (AAPL, MSFT, GOOGL, AMZN, NVDA, META, TSLA, JPM, V) are heavily exposed to the AI theme, which is the key alpha driver but also the key risk if risk appetite shifts.",
-      "risks": [
-        "Bitcoin liquidation cascade spilling into equities (risk-off)",
-        "SPY technical breakdown if 750 support fails",
-        "VIX above 16 suggests hedging demand increasing",
-        "AI/semiconductor euphoria vs. narrow market breadth — reversal risk",
-        "Curve flattening approaching zero — recession watch"
-      ],
-      "my_take": "The AI narrative is as strong as ever (Anthropic IPO, Marvell/Coherent all-time highs). But the Bitcoin crash adds a new variable — crypto risk-off can bleed into tech. SPY gave back its weekly gains in a single session, which is pattern of distribution, not accumulation. VIX at 16.64 is actionable — I'd watch for 750 support on SPY. If it holds, the AI momentum carries the day. If it breaks, trim positions and raise cash. Our portfolio is long AI-heavy, so this is a \"show me\" morning — let pre-market settle before conviction.",
-      "key_takeaways": [
-        "SPY flat over 5d but fell -0.70% yesterday — all weekly gains erased",
-        "VIX at 16.64 — highest in the period, rising fear",
-        "AI/semiconductors on fire (Marvell, Coherent, HP all-time highs + Anthropic IPO)",
-        "Bitcoin crash — billions liquidated — potential risk-off spillover",
-        "10Y yield declining (4.46%), curve flattening — bond market cautious",
-        "Portfolio heavily AI-exposed — watch BTC contagion and 750 SPY support"
-      ]
-    },
-    {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-04",
-      "time": "2026-06-04 20:00 HKT",
-      "status": "success",
-      "market_direction": "Risk-off — 中東局勢升級（伊朗炸科威特機場），Broadcom 業績崩盤拖累晶片股，S&P 500 終止十連升，油價迫近$100。但 AI capex 故事未死（Google $190B、SpaceX IPO），WWDC 前 Apple 獲看好。",
-      "headlines": [
-        "ACTION: AVGO — Broadcom 業績遜預期，盤後瀉14%，蒸發$300B市值，AI客製晶片指引不及市場期望。反彈後估值已高，宜減倉觀望。",
-        "ACTION: GOOGL — Google 宣佈$84.75B股權融資推AI基建，全年capex上調至$190B。Cathie Wood & Buffett 同步增持，但DuckDuckGo用戶創新高+UK CMA制裁AI搜尋，雙面刃。",
-        "WATCH: SpaceX IPO — $75B集資，$135/股固定價，$1.75T估值。史上最大IPO。indirect plays: GOOGL (7.5% stake)、TSLA (Musk)。",
-        "WATCH: AAPL — WWDC 6/8舉行，Gemini-powered Siri 成焦點。Morgan Stanley 看好。App Store全年$1.4T銷售。",
-        "WATCH: NVDA — Jensen Huang 進軍PC晶片市場 (RTX Spark)，擠壓QCOM。公開話MRVL會係下個trillion-dollar公司。同Hyundai傾韓國AI center。",
-        "WATCH: MSFT — Wells Fargo 指Microsoft正減少依賴第三方AI，更多in-house開發。同NVDA共同開發RTX Spark。",
-        "WATCH: META — 推遲新AI模型發布。澳洲FTA爭議升級（新聞付費法）。泰國起訴Facebook詐騙廣告。CoreWeave長約至2032。",
-        "WATCH: AMZN — 新AI倉庫機械人Proteus亮相，€10B歐洲投資。Prime Day延長至4日。數據中心擴張遭工程師反對。",
-        "NOTE: BRK.B — Greg Abel首個大deal：$8.5B收購Taylor Morrison (TMHC)。同時增持GOOGL。價值投資者轉向housing+tech。",
-        "NOTE: IBM — Trump稱CEO為legend，股價創新高+44%單月升幅。",
-        "NOTE: UBER — 接近$500M投資自駕startup Nuro。",
-        "NOTE: TSLA — OpenAI重返機械人業務，Optimus面臨競爭。",
-        "SKIP: Geopolitics — 以色列-黎巴嫩停火協議，伊朗炸科威特機場，美國眾議院限制Trump對伊軍事行動（4共和黨倒戈）。油價$100成焦點。"
-      ],
-      "opportunities": [
-        "🎯 GOOGL: $190B AI capex極度進取，但Cathie Wood + Buffett 同時買入屬罕見信號。UK CMA監管+用戶流向DuckDuckGo為風險。估值合理（相對AI peers），建議dip買。",
-        "🎯 MRVL: Jensen Huang公開背書為「下個trillion-dollar公司」，NVDA供應鏈溢價效應。AVGO大跌可能拖累短期，但中長期AI networking story intact。",
-        "🎯 AAPL: WWDC前（6/8），Morgan Stanley看好。Gemini Siri如成功，將打開AI consumer monetization大門。App Store $1.4T生態系統證明黏性。",
-        "🎯 SpaceX IPO indirect plays: GOOGL (7.5% equity stake最直接)、TSLA (Musk溢價)、NVDA (晶片供應商)。IPO定價$135，無價格區間，不尋常。"
-      ],
-      "analysis": "今日亞洲/歐洲session三大主題：(1) Broadcom業績炸彈引發AI估值重估，(2) SpaceX IPO細節出爐成市場焦點，(3) 中東再升級但出現停火曙光。\\\\n\\\\nBroadcom作為AI客製晶片龍頭，業績指引未能滿足市場極高預期，盤後跌14%，市值蒸發$300B。這反映AI板塊估值已price in大量利好，任何miss都會被放大。但需注意AVGO的非AI業務（VMware整合、傳統半導體）才是miss主因，AI revenue其實仍double-digit growth。\\\\n\\\\nGoogle $190B capex+$84.75B股權融資係雙面刃：一方面證明AI需求real and massive，利好NVDA、MRVL等基建股；另一方面稀釋現有股東，且DuckDuckGo創用戶新高顯示AI search爭議正分流用戶。\\\\n\\\\nSpaceX IPO係今年最大deal — $1.75T估值，$75B集資，直接定價唔行bookbuilding，顯示demand極強。Indirect plays值得關注。\\\\n\\\\n油價逼近$100，中東局勢+伊朗炸科威特機場短期推升能源成本，不利transportation/consumer discretionary。",
-      "risks": [
-        "⚠️ AVGO大跌可能蔓延至整個半導體/AI板塊，NVDA、MRVL短期受拖累",
-        "⚠️ 中東局勢升級（伊朗炸科威特機場），油價$100+將打擊消費及運輸股",
-        "⚠️ AI capex泡沫風險 — Google $190B、MSFT/AMZN/META合計>$700B，回報成疑",
-        "⚠️ SpaceX IPO吸走市場流動性，可能觸發tech sell-off",
-        "⚠️ META澳洲FTA爭議+泰國訴訟=監管風險升溫",
-        "⚠️ 德州screwworm疫情威脅美國畜牧業，肉價通脹壓力"
-      ],
-      "my_take": "市場今日miss咗嘅關鍵：Broadcom跌唔係AI故事結束，而係市場揀winner/loser嘅開始。AVGO嘅miss主要來自VMware整合+legacy業務，AI custom chip（TPU v6、Meta ASIC）動能依舊強勁。反而Google $190B capex+SpaceX $1.75T IPO確認AI軍備競賽只係剛開始。\\\\n\\\\n我認為本次pullback係reposition機會：\\\\n1. GOOGL — $190B commitment顯示佢哋睇到嘅AI需求遠超市場預期。$84.75B dilution短期壓股價，但長線係買入位。\\\\n2. MRVL — Huang嘅trillion-dollar公司標籤唔係隨口講。AVGO跌時MRVL若跟跌，係accumulate機會。\\\\n3. AAPL — WWDC前揸、WWDC後視Siri demo決定。如成功，AAPL有機會複製NVDA嘅AI re-rating。\\\\n\\\\n最需要警惕嘅訊號：油價$100 + 中東全面戰爭風險 = 2026 H2最大tail risk。應適度hedge能源股或減少high-beta exposure。",
-      "key_takeaways": [
-        "🔑 Broadcom ($AVGO) 盤後瀉14%，$300B市值蒸發 — AI估值開始揀擇，唔係乜都炒",
-        "🔑 SpaceX IPO鎖定$1.75T估值、$135定價、$75B集資額 — 史上最大IPO",
-        "🔑 Google $190B AI capex + $84.75B融資 — AI軍備競賽加速，利好基建股",
-        "🔑 伊朗炸科威特機場，油價$100關口 — 中東tail risk升溫",
-        "🔑 WWDC 6/8 — Apple Gemini Siri 成AI consumer adoption關鍵試金石",
-        "🔑 Jensen Huang：MRVL係下個trillion-dollar公司 + NVDA進軍PC晶片"
-      ]
-    },
-    {
-      "pipeline": "美股收市回顧",
-      "date": "2026-06-04",
-      "time": "16:30 HKT",
-      "status": "success",
-      "spy": "757.09 (+0.38%)",
-      "vix": "15.40 (-4.11%)",
-      "market_direction": "溫和反彈日 — SPY +0.38%，VIX 回落至 15.40，市場避險情緒降溫。大市在昨日（6/3）全面下跌後迎來修復性反彈，成長股及金融股領漲。",
-      "top_gainers": [
-        "GOOGL +3.68%",
-        "JPM +3.34%",
-        "V +2.49%"
-      ],
-      "top_losers": [
-        "TSLA -1.24%",
-        "AAPL +0.31%",
-        "MSFT +0.17%"
-      ],
-      "headlines": [
-        "GOOGL 強勢反彈 +3.68%，重返 372 水平",
-        "JPM 銀行股領漲 +3.34%，國債收益率趨穩",
-        "VIX 跌至 15.40，市場恐慌情緒明顯改善",
-        "NVDA 反彈 +1.82%，半導體板塊從低位回穩",
-        "DGS10 報 4.46%，債息自 5/20 高位 4.57% 持續回落"
-      ],
-      "focus": [
-        "成長股反彈力度分化：GOOGL/V 強勢，TSLA 續弱",
-        "銀行股 JPM 強勢突破 310 關口",
-        "債息回落利好成長股估值重評"
-      ],
-      "analysis": "【大市回顧】\n\n今日（6/4）美股整體呈溫和反彈格局。SPY 收報 757.09，微升 0.38%。VIX 從 16.06 跌至 15.40（-4.11%），顯示市場恐慌情緒明顯降溫，屬於典型「恐慌後修復」走勢。\n\n【持倉表現】\n持倉組合等權平均回報約 +1.42%，大幅跑贏 SPY (+0.38%)，反映今日市場邏輯偏向個股驅動而非指數級行情。\n\nGOOGL (+3.68%) 係今日最大亮點：從開盤 358.85 一路上衝收 372.19，日內波幅顯著，可能有 Alphabet 相關正面消息或資金重新配置。\n\nJPM (+3.34%) 大幅跑贏：銀行股係今日板塊龍頭，配合國債收益率從 5/20 高位 4.57% 持續回落至 4.46%，降低銀行融資成本預期，利好銀行股表現。\n\nNVDA (+1.82%) 從昨日低位大幅反彈：昨日 NVDA 跌穿 215（盤中低見 214.51），今日反彈至 218.66，日內高見 221.60，顯示 210-215 區間有較強買盤支撐。\n\nV (+2.49%) 支付巨頭強勢：從開盤 316.79 升至收 320.18，消費者支出數據或行業前景正面。\n\nTSLA (-1.24%) 係持倉中唯一錄得跌幅：昨日 TSLA 從 416 反彈至 423.70 後，今日未能延續升勢，收報 418.45，短線仍在 415-425 區間整固。\n\n【宏觀背景】\n- DGS10（10年期國債收益率）：最新報 4.46%，自 5/20 高位 4.57% 持續回落，利好成長股估值。\n- T10Y2Y（收益率曲線利差）：最新報 0.41%（6/3），仍維持正利差，緩解衰退擔憂。但趨勢從 5/20 的 0.53% 持續收窄，值得關注。\n- VIX 回落至 15.40 意味市場恢復相對平靜，短期內再發生大幅拋售的風險降低。",
-      "risks": [
-        "TSLA 短線弱勢未改，414-415 區間係重要支撐位",
-        "T10Y2Y 利差持續收窄（0.53→0.41），若再跌穿 0.30 需警惕",
-        "DGS10 數據最新只到 6/2，若債息突然反彈將壓制成長股反彈",
-        "VIX 仍處於偏高水平（>15），市場尚未完全回到「comfort zone」"
-      ],
-      "my_take": "今日係一個質量不俗的反彈日。持倉+1.42% vs SPY +0.38%，選股方向正確。GOOGL 今日走勢特別值得留意 — 一支穿雲箭式突破，如果配合基本面催化劑（例如 Gemini / Cloud 新消息），呢個位置可能係新升浪起點。JPM +3.34% 銀行股提前定價利率環境改善，邏輯順暢。TSLA 短期跑輸令人失望，但 415 支持位守得穩，未必需要急於減持。債息回落係整個風險資產反彈的「底層邏輯」— 如果呢個趨勢持續，6月下半個月睇高一線。",
-      "key_takeaways": [
-        "組合回報 +1.42%，大幅跑贏 SPY +0.38%",
-        "GOOGL +3.68% 係最大催化劑，關注是否有利好消息驅動",
-        "VIX 跌至 15.40，市場情緒改善利好風險偏好",
-        "JPM 銀行股強勢，利率環境改善係主要驅動力",
-        "唯一弱勢持倉係 TSLA，但 415 支持位尚算穩固"
-      ]
-    },
-    {
-      "pipeline": "美股收市回顧",
-      "date": "2026-06-04",
-      "time": "08:08 HKT",
-      "status": "success",
-      "spy": "754.24 (-0.70%)",
-      "vix": "16.06 (+1.84%)",
-      "market_direction": "🟡 Bearish — 10連升斷纜，Big Tech 成最大輸家",
-      "top_gainers": [
-        "META +4.24%"
-      ],
-      "top_losers": [
-        "NVDA -3.62%",
-        "MSFT -3.17%",
-        "AMZN -2.53%",
-        "AAPL -1.57%",
-        "V -1.55%"
-      ],
-      "headlines": [
-        "S&P 500 和 Nasdaq 結束10連升紀錄",
-        "NVDA Computex 效應反轉 — Jensen 好消息出貨",
-        "MSFT 兩日累跌 -7.2%，Build 2026 AI開支市場消化",
-        "Berkshire $10B GOOGL private placement 建倉",
-        "META +4.24% 一枝獨秀 — 資金輪入？",
-        "AAPL WWDC 下週一 — UBS 潑冷水",
-        "AMZN Prime Day 6月23-26日催化劑在前"
-      ],
-      "focus": [
-        "NVDA 能否守住 $214（今日低點）— 穿咗可能加速向下",
-        "MSFT 兩日 -7.2% 後隨時有 bounce，但唔好估底住",
-        "META 嘅 momentum 可唔可以持續 — anomaly 定新趨勢？",
-        "AAPL WWDC 6月8日週一 — $310附近值唔值得加倉？"
-      ],
-      "analysis": "今日係一個「預期之內但幅度超預期」嘅回調日。10連升後獲利回吐係 healthy，但值得警惕嘅係 NVDA 同 MSFT 嘅跌幅 — MSFT 連跌兩日，如果再跌就要認真檢視持倉邏輯。META +4.24% 係今日唯一亮點，表現非常突出。\n\nKey Lessons:\n• 10連升後第一次回調，散戶同機構傾向 take profit，尤其 AI 倉位\n• NVDA 開始出現「好消息出貨」pattern — Computex、Vera Rubin 照跌\n• MSFT 連跌兩日係最大警號 — $37B AI run rate 已完全 priced in\n• META 嘅 relative strength 值得跟進\n• TSLA 盤中 $17 震幅但收市 flat — 波動性增加但方向未明",
-      "risks": [
-        "⚠️ MSFT 兩日累跌 -7.2% — portfolio 最大 drawdown risk",
-        "⚠️ VIX 16.06 雖低於恐慌，但連續兩日回升",
-        "⚠️ NVDA $214.51 = today's low — 接近全日最低收，聽日可能測試 $210-$212",
-        "⚠️ 組合整體偏向科技，beta exposure 偏高"
-      ],
-      "my_take": "今日係 healthy correction。重點 watch: NVDA $214 support、MSFT bounce 力度、META 強勢延續性。下週 AAPL WWDC 係大催化劑，310 附近值唔值得加倉取決於對 Siri 2.0 / AI agent 嘅信心。",
-      "key_takeaways": [
-        "NVDA 好消息出貨 pattern 出現",
-        "MSFT 最大警號 — 連跌兩日",
-        "META relative strength 值得追蹤",
-        "AAPL WWDC 下週一"
-      ]
-    },
-    {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-07",
-      "time": "16:42 HKT",
-      "status": "success",
-      "market_direction": "伊朗戰爭進入第100天引發能源供應危機，油價強勢回升；通脹壓力使美債市場承壓，加息預期升溫；加密貨幣遭遇FTX以來最差周表現；AI賽道持續有催化劑但資金輪動",
-      "headlines": [
-        "ACTION: USO/XLE/CVX/XOM — 伊朗戰爭Day100，Hormuz海峽油輪交通暴跌90-95%，原油供應危機 direct beneficiary",
-        "ACTION: BTC/ETH — 加密貨幣$390B蒸發，BTC最超賣自2020年，技術性反彈信號極強",
-        "ACTION: TLT/TBT — Wolf Street警告通脹將迫使年內加息，Treasury市場 brewing trouble",
-        "WATCH: LLY/PFE — Lilly下一代肥胖藥安全性數據出爐，Pfizer每月一次藥顯示潛力",
-        "WATCH: NVDA/MSFT — OpenAI最大規模改版+IPO推進，AI agent時代來臨",
-        "WATCH: TSLA/BYDDY — 中國EV可能數年內進入美國市場，行業格局或改變",
-        "WATCH: BTU/ARCH — Trump$700M援引韓戰法規拯救煤電，AI算力需求作掩護",
-        "WATCH: COIN/MSTR — 美國大銀行建數位貨幣網絡，傳統金融進軍crypto"
-      ],
-      "opportunities": [
-        "USO/XLE: 伊朗Hormuz封鎖直接利好能源板塊，oil roaring back確認趨勢，short-term戰術long",
-        "BTC: RSI極端超賣+FTX級別恐慌=技術性反彈機會，可考慮小注long bitcoin futures或IBIT",
-        "TLT/TBT: 通脹+加息預期升溫，short duration / long volatility策略，留意CPI數據",
-        "LLY: GLP-1賽道持續催化，新藥數據正面，行業龍頭強者恆強"
-      ],
-      "analysis": "今日（6月7日）Asian/European session共掃描58條RSS feeds，獲取144篇新聞文章。核心驅動因素：（1）伊朗戰爭Day100 — Hormuz海峽油輪交通暴跌90-95%，美國擊落伊朗導彈/無人機，局勢持續升級；（2）加密貨幣市場遭遇FTX以來最差周表現，BTC/ETH合計蒸發$390B，BTC RSI超賣至2020年以來最低水平；（3）Wolf Street警告通脹壓力迫使年內加息，Treasury市場出現問題信號；（4）AI賽道：OpenAI最大規模改版為IPO鋪路，Lockdown Mode推出；（5）GLP-1賽道持續有正面數據催化。整體市場處於macro-driven狀態，risk-off情緒主導但能源和部分防禦性板塊有明確催化劑。",
-      "risks": [
-        "伊朗戰爭升級擴大 — 如果衝突擴散至整個中東，油價可能飆升至$150+引發全球衰退",
-        "通脹反彈迫使Fed轉鷹 — 市場尚未完全pricing in加息風險，bond market selloff可能蔓延至equity",
-        "Crypto恐慌蔓延 — $390B蒸發可能引發更多forced selling，反彈前仍有下跌空間",
-        "AI估值過高 — 雖然OpenAI有催化劑，但NVDA等AI股估值已在高位，警惕利好出貨"
-      ],
-      "my_take": "今日新聞格局非常清晰：伊朗戰爭100天是核心變數，直接推動能源板塊強勢，同時壓制風險偏好。加密貨幣的恐慌性拋售創造了技術性反彈機會，但需注意Hormuz局勢惡化可能進一步打擊risk assets。GLP-1和AI是中長期結構性主題，適合逢低布局。債券市場的warning signal不容忽視 — Wolf Street嘅分析同近期強勁就業數據一致，若CPI超出預期，市場可能重新定價利率路徑。策略上：short-term偏向能源long + crypto tactical bounce，中線保持對GLP-1/AI的結構性配置，降低duration exposure。",
-      "key_takeaways": [
-        "伊朗戰爭是最大變數 — 能源板塊短期最強催化劑",
-        "Crypto極端超賣提供戰術性交易機會",
-        "通脹/加息風險升溫，注意債券市場信號",
-        "GLP-1和AI是中長期確定性最高的結構性主題"
-      ]
-    }
-  ]
+    "runs": [
+        {
+            "pipeline": "美股收市回顧",
+            "date": "2026-06-08",
+            "time": "08:30 HKT",
+            "status": "success",
+            "market_direction": "🔥 恐慌性拋售 — SPY -2.58%、QQQ -4.8%、SMH -9.2% 創2026年最大單日跌幅；VIX飆至21.51；伊朗週末導彈襲以色列令避險升級",
+            "headlines": [
+                "📉 SPY 737.55 (-2.58%) — 九週連漲終結，單日蒸發所有上週漲幅",
+                "💀 QQQ 705.06 (-4.80%) — 科技恐慌拋售，半導體板塊領跌",
+                "🔌 SMH -9.22% — MU -13.25%、MRVL -16.74%、AVGO兩日累計-20.5%",
+                "⚡ NVDA $205.10 (-6.2%) — 單日蒸發$2790億市值，Huang稱chip shortage持續",
+                "🛡️ XLF +0.21% / JPM +0.48% — 金融股係唯一正回報板塊",
+                "🇮🇷 伊朗週日向以色列發射導彈 — 兩月停火結束，Hormuz海峽續關",
+                "🛢️ 油價週五跌至$90.54後週日反彈至$92.51 — 伊朗局勢推升",
+                "💎 GLD $396.24 (-3.7%) — 金價罕見在避險中下跌，利率上升打壓",
+                "₿ BTC $60,922後反彈至$63,398 — 槓桿ETF大屠殺(MSTU -95%)"
+            ],
+            "opportunities": [
+                "NVDA: 單日-6.2%/週-8.5%，PE 31.5/forward PE 16.2，PEG遠低於1。Huang確認chip shortage持續。AI supercycle未變，恐慌買入機會。Target $298 (+45%)",
+                "AVGO/MU: 兩日累計跌20%/週跌16%，基本面無變。等半導體情緒穩定後分批建倉。Broadcom分析師稱恐慌過度",
+                "XLE/XOM/CVX: 伊朗導彈攻擊+Hormuz關閉=油價短期難回落。能源股週五跟跌但基本面具支撐，係避險+上行雙重邏輯",
+                "WMT/COST: 防禦性消費股逆勢有買盤。WMT +0.97%週五收綠，通脹環境下定價能力強",
+                "ISP/BMPS/BPM: 意大利銀行整合浪潮被市場忽略。Intesa加入爭奪MPS，歐洲銀行重組故事"
+            ],
+            "analysis": "📊 本週回顧（6月1日-6月5日）\n\n───────────────\n📉 MARKET RECAP\n───────────────\n\n上週五大跌終結了美股九週連漲紀錄，係2026年以來最血腥嘅交易日：\n\n【指數】\n• SPY：757.09 → 737.55（-2.58%），週跌2.77%\n• QQQ：740.61 → 705.06（-4.80%），週跌5.08%\n• DIA：516.70 → 509.70（-1.35%），Dow相對抗跌\n• S&P 500指數：7584 → 7384，盤中低見7369\n\n【波動率】\n• VIX：15.40 → 21.51（+39.7%），係2025年10月以來最大單日升幅\n• 期權市場定價恐慌，但未到2025年8月carry trade爆倉時嘅30+\n\n【成交量】\n• SPY 93.7M（正常40-50M），QQQ 99.2M（正常35-40M），SMH 22M（正常8-10M）\n• 典型panic selling pattern — 機構被迫減倉+散戶踩踏\n\n【利率】\n• 10Y國債收益率：4.47% → 4.54%（+7bp），利率上升而非避險下跌\n• 呢個係關鍵 — 正常避險會推低債息，但上週五股債雙殺，反映嘅係「加息預期升溫」而非「衰退擔憂」\n• 5月非農新增172K超預期，連續三個月beat，聯儲局減息空間進一步收窄\n\n【板塊】\n• XLF（金融）+0.21% — 唯一正回報板塊，JPM $310.89→312.37（+0.48%）\n• XLE（能源）-1.84% — 油價跌拖累，但相對跌幅遠細過科技\n• SMH（半導體）-9.22% — 災區中心！\n• 防禦消費：WMT +0.97%（逆勢收綠），COST -0.05%（接近平收）\n\n───────────────\n🔥 NOTABLE MOVERS\n───────────────\n\n【最大輸家（週五單日）】\n1. MRVL：316.43 → 263.47（-16.74%）— 上週暴漲後嘅極端獲利回吐\n2. MU：996.00 → 864.01（-13.25%）— DRAM恐慌拋售\n3. SMH：-9.22% — 半導體ETF歷史級跌幅\n4. AVGO：418.91 → 385.73（-7.92%），兩日累計-20.5%（週三收盤479→週五385）\n5. TSLA：418.45 → 391.00（-6.56%）\n6. NVDA：218.66 → 205.10（-6.20%），市值蒸發$2790億\n7. META：627.57 → 593.00（-5.51%）\n8. TQQQ（3x Nasq）：85.22 → 73.05（-14.3%）— 槓桿ETF加速下跌\n\n【Catalyst分析】\n• AVGO上週三收市後AI晶片指引令人失望，觸發半導體恐慌\n• 週四AVGO -12.6%已係警示，週五蔓延至整個科技板塊\n• Seeking Alpha downgrade NVDA to Hold — 但基本面分析師普遍認為係overdone\n• BTC跌穿$61K加劇風險偏好惡化，槓桿ETF連鎖清算（MSTU年跌95%）\n\n【相對強勢】\n• JPM +0.48% — 銀行股受益利率上升+經濟軟著陸預期\n• WMT +0.97% — 防禦性資金流入\n• GOOGL -0.98% — 相對抗跌，BRK/ARK持倉效應+AI基建故事\n• AAPL -1.25% — WWDC前夕有撐\n\n───────────────\n📰 NEWS THAT MATTERED\n───────────────\n\n【Confirmed Catalysts】\n1. AVGO AI晶片指引遜預期 — 觸發半導體板塊兩日20%大跌\n2. 5月非農+172K超預期 — 連續三個月beat，加息預期升溫\n3. Iran向以色列發射導彈（週日）— 兩月停火結束，Hormuz續關\n4. BTC跌穿$61K — 槓桿ETF大屠殺，風險偏好雙重打擊\n5. SpaceX IPO週五啟動 — $1.75T估值，但市場rout可能影響定價\n\n【News Curator Calls Review】\n✅ Long Energy（XLE/XOM/CVX）— 能源股相對抗跌，伊朗事件後更確認\n✅ Short Airlines（AAL/UAL/DAL）— 航空燃油成本翻倍，結構性利空\n✅ Buy NVDA dip — 基本面未變，但時機上要等sector情緒穩定\n⚠️ AVGO dip buy — 兩日跌20%係overdone，但撈底要分批\n⚠️ Italian banks — 被市場忽略但催化劑未到\n❌ Gold避險 — GLD -3.7%反而大跌，利率上行環境不利黃金\n\n【Overnight Developments】\n• Iran導彈攻擊以色列：特朗普呼籲內塔尼亞胡不要報復\n• OPEC+第四輪增產（每日僅18.8萬桶），無法填補Hormuz缺口\n• 亞洲開市：韓國Kospi跌8%，日本Nikkei跌3%+\n• Bitcoin反彈至$63,398，從$60,922低位回升\n• 油價週日反彈至$92.51（從週五$90.54低位）\n\n───────────────\n🎯 OPPORTUNITIES CARRY FORWARD\n───────────────\n\n【1. NVDA — AI超級週期嘅恐慌買入機會】\n• 週五收$205.10，距52週高$236.54跌13%，距target $298仲有45%上行\n• PE 31.5/forward PE 16.2，PEG遠低於1（growth adjusted極平）\n• Revenue growth 85%，profit margin 63%，free cashflow $463億\n• Huang確認chip shortage持續，SK合作計劃進行中\n• 催化劑：WWDC今晚（Apple AI策略）+ SpaceX IPO（AI算力需求證明）\n• 策略：唔好all-in，分3批買入，$200/$190/$180各一批\n\n【2. AVGO/MU — 半導體板塊overdone selloff】\n• AVGO：週三$479 → 週五$385.73（-20.5%），AI revenue仍double digit增長\n• MU：$1035 → $864（-16.6%），DRAM/NAND需求未變，HBM受AI推動\n• Broadcom分析師：市場反應過度，基本面冇轉差\n• 策略：等今晚WWDC確認direction後再出手，分批建倉\n\n【3. XLE — 能源股雙重邏輯（避險+上行）】\n• Iran+Hormuz = 油價短期難回落，技術面望創歷史新高\n• 但能源股週五都跌（XLE -1.84%），反映market-beta因素\n• 伊朗局勢短期難以平息，油價有上行風險溢價\n• 策略：持有現有能源倉位，可考慮趁週五回調加倉\n\n【4. AAPL — WWDC今晚係最明確短線催化劑】\n• 收$307.34，距$310 support位僅1%\n• Tim Cook最後一次以CEO身份主講WWDC\n• Siri Agent平台升級係成敗關鍵\n• Morgan Stanley強烈看多，目標$330\n• 策略：等WWDC後確認方向，成功率偏多但切忌over-anticipate\n\n【5. WMT/COST — 防禦性配置】\n• WMT週五逆勢收綠（+0.97%），COST幾乎平收（-0.05%）\n• 通脹+利率上升環境下，必需品消費定價能力強\n• 策略：若市場繼續回調，增持防禦性消費\n\n───────────────\n⚠️ RISKS / WATCHLIST\n───────────────\n\n【今晚要睇實】\n⚠️ AAPL WWDC（今晚凌晨1點HKT）— 最大催化劑。若AI策略（Gemini Siri）成功，整個AI生態反彈；若失望，半導體板塊第二波下跌\n⚠️ 伊朗局勢 — 以色列會否報復？若反擊擴大，油價可急升30%+\n⚠️ CPI數據（本週三/四）— 核心CPI若超預期，Fed冇減息空間，risk assets雙重打擊\n\n【Overnight Risk】\n⚠️ 亞洲市場開市 — 韓國Kospi已跌8%，日本Nikkei -3%+，亞洲tech selloff蔓延\n⚠️ SpaceX IPO定價（週五）— $1.75T估值能否抵受market rout？若定價過高或推遲，科技股信心再受打擊\n⚠️ 槓桿ETF連鎖清算 — NVDL/MSTU/MSTX被wipe out可能引發衍生品連鎖反應\n⚠️ 私人信貸裂縫 — Blackstone限制贖回，若擴散會引發真正流動性收縮\n\n【持倉風險】\n⚠️ 唔知道持倉情況，但若持有科技/半導體重倉，上週五已承受重大損失\n⚠️ 今晚WWDC前唔好加大科技風險暴露\n⚠️ VIX 21.51 + 10Y yield 4.54% = 股債雙殺環境，傳統60/40組合失效\n\n───────────────\n💡 MY TAKE\n───────────────\n\n一句總結：上週五係2026年最重要嘅「buy the dip」moment，但今晚WWDC決定方向。\n\n上週五嘅selloff係三股力量疊加：(1) AVGO引爆半導體恐慌、(2) 強勁就業數據推高加息預期、(3) BTC/crypto槓桿爆倉傳導風險偏好。呢三個因素入面，只有加息預期係結構性嘅 — 但其餘兩個都係短期噪音。\n\n最大嘅takeaway係**板塊輪動已經確認**：資金由Nasdaq/AI半導體流出至金融/價值/消費防禦。XLF上週+1.69% vs QQQ -5.08%，差距6.8個百分點。呢個唔係一日行情，而係資金重新配置嘅開始。\n\n**即刻部署建議**：\n• 上週五冇減倉嘅話，今日唔好再喺低位斬倉\n• 半導體（NVDA/AVGO/MU）嘅fundamentals冇變，跌得越深越係機會\n• 但今晚WWDC結果係short-term direction嘅關鍵 — 等Apple出嚟確認AI需求故事\n• Energy嘅避險+上行雙重邏輯仍然成立，伊朗局勢短期無解\n• 防禦性消費（WMT/COST）可以作為市場繼續回調嘅緩衝\n\n**Tomorrow's Bias: 短線中性偏好，等WWDC確認方向。中線bullish on semi dip，bearish on airlines/consumer discretionary.**",
+            "risks": [
+                "AAPL WWDC令市場失望 — 半導體板塊第二波下跌",
+                "伊朗-以色列衝突擴大 — 油價急升30%+，全球衰退風險",
+                "CPI超預期（本週） — 聯儲局減息無望，股債雙殺",
+                "SpaceX IPO定價過高或延遲 — 科技股信心再受打擊",
+                "槓桿ETF連鎖爆倉蔓延 — NVDL/MSTU衍生品風險",
+                "VIX 21.51以上可能觸發系統性去風險",
+                "10Y yield突破4.6% — 成長股估值大幅壓縮"
+            ],
+            "my_take": "上週五（-2.58% SPY / -4.8% QQQ）係2026年最重要嘅buy the dip moment。半導體恐慌（AVGO/MU -13%+）係overdone，AI supercycle基本面冇變。但今晚WWDC係short-term方向嘅decider — 成功嘅話成個AI生態反彈，失望嘅話semi第二波下跌。最大結構性變化係資金由科技輪動至金融/價值（XLF +1.69% vs QQQ -5.08%），呢個趨勢會持續。短線中性偏好，等WWDC後再做major reposition。能源（XLE/XOM/CVX）仍然係最好嘅避險+上行雙重play，伊朗局勢短期無解。"
+        },
+        {
+            "pipeline": "開市掃瞄",
+            "date": "2026-06-05",
+            "time": "20:30 HKT",
+            "status": "success",
+            "market_direction": "混合信號 — 美股反彈日後亞洲受壓，Dow/IWM領先顯示輪動加速，AI半導體內部分化。市場等待下週WWDC+SpaceX IPO雙重催化劑。",
+            "spy": "757.09 (+0.38% 6/4)",
+            "vix": "15.73 (pre-market 6/5)",
+            "dgs10": "4.47% (6/5 持平)",
+            "oil": "$92.74 (-0.3% overnight)",
+            "gold": "$4,493 (+0.4% overnight)",
+            "dxy": "99.23 (weak)",
+            "headlines": [
+                "【隔夜】SPY +0.38%反彈但QQQ -0.48% — 指數分化，資金從Nasdaq流向Dow/IWM（Dow +1.66%, Russell +1.51%）",
+                "【隔夜】GOOGL +3.68%一支穿雲箭 — 市場消化$840億融資後轉為買入，BRK+ARK同時建倉效應浮現",
+                "【隔夜】NVDA +1.82%反彈但盤中波幅$10 — 210-215區間有買盤支撐，但Computex好消息出貨pattern未散",
+                "【隔夜】AVGO -12.6%市值蒸發$2850億 — AI客製晶片指引令人失望，但市場尾段回穩至$418",
+                "【隔夜】MRVL +54%週漲幅 — Jensen稱next trillion-dollar company，AI networking供需缺口最直接受惠者",
+                "【隔夜】MSFT -4.93%週跌 + AMZN -6.23%週跌 — Magnificent 7中最大輸家，AI開支回報質疑打擊",
+                "【隔夜】JPM +3.34%銀行股領漲 — 利率環境改善+債息回落雙重利好",
+                "【亞洲】Nikkei -1.31%, HSI -1.15% — 日本/香港跟隨美股弱勢，中國通縮憂慮持續",
+                "【歐洲】Stoxx 50 -0.09% — 歐股持平，仍在消化地緣風險",
+                "【商品】油價從$96回落至$92.74，Hezbollah拒絕停火但市場已部分price in",
+                "【宏觀】10Y yield 4.47%持平，T10Y2Y曲線0.42%，breakeven通脹降至2.36%",
+                "【News Curator】AVGO暴跌、BTC/MSTR崩盤、Blackstone限制贖回為最大風險信號"
+            ],
+            "focus": [
+                "AAPL WWDC 6/8（週一）— 本日最關鍵催化劑窗口，Gemini Siri + AI Agent 為核心看點",
+                "SpaceX IPO下週啟動 — $1.77tn估值，史上最大IPO，GOOGL間接持倉7.5%最直接受惠",
+                "AI半導體內部分化 — MRVL +54% vs AVGO -12.6%，市場正揀winner/loser",
+                "Dow/Russell outperformance — 資金從AI/tech輪出至金融/價值/小型股",
+                "VIX 15.73 — 低於恐慌但高於舒適，市場處於「謹慎但未投降」狀態",
+                "Blackstone限制贖回 — 私人信貸裂縫需警惕擴散風險",
+                "Bitcoin $62K以下 — 13日ETF連續$44億淨流出，風險偏好受壓"
+            ],
+            "opportunities": [
+                "GOOGL: $840億融資短線恐慌但長線基建護城河加深，BRK+ARK同時買入係罕見信號。Target $429.87 (+15.5%)。$190B AI capex commitment利好。",
+                "AAPL: WWDC 6/8最明確短線催化劑，Gemini Siri係Apple AI策略成敗關鍵。Morgan Stanley強烈看多，$310 support已多次測試。",
+                "MRVL: 單週+54%後有獲利回吐壓力。中長線AI networking story完整（Jensen背書），等pullback至$280-290再考慮。",
+                "NVDA: PE 33.4/forward PE 17.3，PEG 0.66，85% revenue growth，target $298 (+36%)。CPU進軍laptop擴大TAM，$210-215買盤堅實。",
+                "AVGO: 12.6%單日跌幅過度。AI revenue仍doubledigit growth，Marketaux sentiment +0.533 bullish。$390-410可考慮分批建倉。",
+                "JPM: 銀行股領漲板塊輪動。債息回落降低融資成本+經濟軟著陸預期利好。"
+            ],
+            "risks": [
+                "⚠️ MSFT/AMZN結構性弱勢 — 連跌數日，AI開支回報質疑若擴散將衝擊整個M7",
+                "⚠️ TSLA $415支持位薄弱 — 5日累跌4%，若跌穿$415可加速至$400",
+                "⚠️ AVGO事件擴散 — 12.6%單日跌幅可能引發半導體板塊連鎖減倉",
+                "⚠️ Blackstone限制贖回擴散 — 私人信貸乃下一個流動性危機種子",
+                "⚠️ Bitcoin $62K以下清算未完成 — 加密市場波動或傳導至科技股風險偏好",
+                "⚠️ Hezbollah拒絕停火+伊朗出口6年低 — 油價回調可能短暫，向上突破$100風險仍在",
+                "⚠️ VIX 15.73未回comfort zone — 市場未真正放鬆警戒"
+            ],
+            "my_take": "**Overall Bias: 審慎看好，但Short-term Tactical Neutral**\n\n今日（6/5 週五）係一個「等催化劑」嘅格局。三大利好催化劑排隊：下週一AAPL WWDC、SpaceX IPO啟動、Prime Day公佈。但同時三大利空尾跡未消：AVGO暴跌、Bitcoin崩盤、Blackstone贖回限制。\n\n**最大嘅結構性變化係rotation信號**：Dow +1.66%、Russell +1.51% vs QQQ -0.48% — 呢個唔係一日行情，而係資金從Nasdaq超買區域流出至價值/金融/小型股嘅開始。GOOGL嘅強勢反彈係例外，因BRK+ARK建倉係獨立催化劑。\n\n**AAPL WWDC 6/8 係我睇得最重嘅催化劑**：如果Apple成功展示Gemini Siri + AI agent功能，AAPL會迎來類似NVDA嘅AI re-rating。Morgan Stanley嘅睇法我buy — Apple嘅優勢係現有用戶base + iOS生態，AI monetization門檻最低。但UBS嘅冷水（$310=fair value）都值得聽，切忌over-anticipate。\n\n**最被低估嘅機會係GOOGL**：市場仍focus喺$840億融資嘅dilution effect，而miss咗成個picture — BRK歷史性建倉科技股、ARK買入、$190B capex commitment、Anthropic TPU訂單。呢啲加埋係一個「AI基建軍備競賽嘅明確受益者」signal。如果下週SpaceX IPO成功（$1.77tn listing），GOOGL作為7.5%股東直接受惠。\n\n**最大嘅sleeping risk係私人信貸**：Blackstone旗艦基金限制贖回 + Partners Group跟進 = 呢個可能係冰山一角。如果贖回潮擴散，會引發真正的流動性收縮。暫時係watch item，但下週需要密切留意有冇更多基金跟進。\n\n**今日部署**：\n- 週五通常volume低 + 下週催化劑密集 = 今日唔應該做major reposition\n- 如果想要pre-position下週催化劑：GOOGL（AI基建）+ AAPL（WWDC）係最直接嘅plays\n- AVGO可考慮細注撈底（$390-410區間）\n- MSFT/AMZN弱勢應繼續avoid，等反彈信號\n- 油價從$96回落至$92.74係short-term relief，但中東局勢未解決，不宜short energy\n- VIX 15.73偏高 — 可考慮buy put hedge對沖下週WWDC/liquidity risk\n\n**一句總結**：下週Catalyst密度係2026年最高之一（WWDC + SpaceX IPO + Prime Day），今日策略係保持彈性、唔好滿倉、pre-position高信心催化劑（GOOGL, AAPL）。",
+            "key_takeaways": [
+                "AAPL WWDC (週一) 係AI主題關鍵催化劑，主導本週市場方向",
+                "美伊衝突升級推能源價格，布蘭特或衝$140，能源股係最佳避險",
+                "半導體大幅回調（MU -13%, AVGO -20%），但可能係買入機會",
+                "強勁就業數據令Fed加息預期升溫，成長股受壓",
+                "國防開支$1.15萬億NDAA推進，地緣政治風險支持國防板塊",
+                "黃金技術面轉熊（跌穿EMA 200），加息預期持續打壓",
+                "SpaceX $135史上最大IPO，$300億Google合約證明AI算力需求"
+            ]
+        },
+        {
+            "pipeline": "新聞分析-NewsCurator",
+            "date": "2026-06-08",
+            "time": "08:27 HKT",
+            "status": "success",
+            "market_direction": "伊朗局勢再度升溫 + 科技股恐慌性拋售 = 市場避險情緒高漲。油價急升、航空股受壓、資金由科技輪動至能源/價值股。本週焦點：CPI數據 + SpaceX IPO。",
+            "headlines": [
+                "ACTION: OIL/USO/XLE — Iran launches missiles at Israel after 2-month ceasefire; Hormuz closure continues; OPEC+ approves 4th output quota hike. Oil surging with pennant targeting new ATH.",
+                "ACTION: AAL/UAL/DAL/SHORT — Airlines face $100bn extra jet fuel bill; IATA warns industry profits will halve; BA chief says fares rising; Air NZ cutting flights. Structural headwind from Iran war.",
+                "ACTION: NVDA — Nvidia lost $279B in a single day (12% drop); NVDL leverage ETF collapsed. However, Huang flags prolonged chip shortage, SK cooperation plan. AI capex supercycle intact — buy dip.",
+                "ACTION: ISP/BMPS/BPM — Intesa prepares Monte dei Paschi bid to gatecrash BPM's €50bn merger; Banco BPM invites MPS to merger talks. Italian banking consolidation wave accelerating.",
+                "WATCH: SPACEX — SpaceX IPO launching Friday at potential $1.75T valuation; market rout could impact pricing. Will SpaceX's valuation survive Friday's market rout?",
+                "WATCH: MSTR/BTC — Bitcoin slides near $60K; Michael Saylor signals buy; MSTX lost 89% from peak, MSTU down 95%. Institutional sentiment flipped per NYDIG. Leverage decay destroying LETFs.",
+                "WATCH: TLT/Yields — Bond traders bet on CPI surge bolsters case for Fed pivot; Trump calls on Warsh for rate cut; Voters sour on Trump's handling of inflation.",
+                "WATCH: SMH/ASML/KO Semis — Korean stocks plunge 8% (Kospi), Asian tech selloff extends. Broadcom slight crack overblown per SA. Nvidia/SK cooperation plan in focus.",
+                "WATCH: GLD/NUGT — Gold breaks down near $4,367 with oversold signals; NUGT collapsed 17% on Friday. Gold holds decline as Iran attacks threaten ceasefire.",
+                "NOTE: LLY/NVO — Wegovy pill dominating GLP-1 pill market; new wave of weight-loss therapies; Boehringer obesity drug data casts doubt on competitiveness.",
+                "NOTE: META/GOOGL/AMZN — The coming rise of anti-AI populism; AI facing 4 harsh realities; Walmart tells workers AI will improve jobs. Political risk growing for Big Tech.",
+                "NOTE: MSFT/CRWD — OpenAI plots biggest ChatGPT overhaul since launch; working on 'super app'. AI competition intensifying.",
+                "NOTE: EEM/EWH — Xi Jinping going to North Korea; NK says nuclear program 'irreversible'. China-Taiwan tensions. SCMP: 'Trump-class' battleship vs Chinese carrier-killers.",
+                "NOTE: Oil price spike triggers 'demand destruction' discussions — airlines, shipping, chemicals all affected. EVs becoming comparatively cheap vs petrol.",
+                "NOTE: These are the market's new hot stocks as investors flee from tech — rotational flow into energy, financials, value. Mega AI deals ready to flood market."
+            ],
+            "opportunities": [
+                "OIL: 伊朗攻擊以色列 + Hormuz繼續關閉，OPEC增產杯水車薪。USOIL技術面望創歷史新高。能源股係目前最強板塊。",
+                "NVDA: 單日跌12%($279B蒸發)係AI超級週期中罕見嘅恐慌買入機會。Huang話chip shortage持續。",
+                "Airlines Short: 航空燃油成本翻倍，IATA警告行業盈利減半。BA話機票必加價。Short AAL/UAL/DAL。",
+                "ISP/BMPS/BPM: 意大利銀行整合浪潮，Intesa加入爭奪MPS。歐洲銀行業重組利好。",
+                "Semi Recovery: Broadcom分析指恐慌過度，等半導體ETF恐慌消化後加倉。"
+            ],
+            "analysis": "【市場宏觀】\n伊朗在週日向以色列發射導彈，為兩個月停火以來首次，中東局勢再度升溫。特朗普呼籲內塔尼亞胡不要報復，但市場已經率先反應：美國期貨下跌、亞洲股市（尤其韓國Kospi跌8%）重挫、油價急升。OPEC+雖然批准第四輪增產但每日僅18.8萬桶，無法填補Hormuz關閉造成的供應缺口。\n\n【能源 — 最大機會】\n油價技術面形成旗形突破，目標係歷史新高。航空業面臨$1000億額外燃油開支（IATA數據），英國航空CEO警告機票一定要加價。Expensive oil令電動車相對變得更便宜。Post-war oil trade可能永久改變全球能源流動格局。\n\n【科技股恐慌】\nNvidia單日蒸發$2790億（-12%），連帶韓國SK海力士、三星等半導體股暴跌。但Huang喺SK合作會議上話chip shortage會持續，AI capex supercycle冇變。Broadcom分析師話市場反應過度。呢啲係基本面冇變嘅恐慌式拋售，歷史經驗話俾我哋知係買入機會。\n\n【比特幣/槓桿ETF】\nBitcoin跌穿$60,000，MSTU年跌95%、MSTX跌89%由2024年8月高位。Leverage decay喺大波動環境下殺傷力驚人。Saylor暗示會買但市場唔buy。\n\n【本週焦點】\n1) CPI數據 — bond traders賭CPI會推高，強化Fed轉向理據\n2) SpaceX IPO 週五 — $1.75T估值能否抵受market rout？\n3) Italian bank mega-merger — Intesa gatecrash BPM嘅€50bn deal",
+            "risks": [
+                "伊朗局勢急劇升級 — 全面戰爭爆發會令市場大跌",
+                "CPI高於預期 — 債息飆升 + Fed冇空間減息 = 股債雙殺",
+                "SpaceX IPO定價過高引發科技股第二輪拋售",
+                "Oil demand destruction — 油價太高開始殺需求，反轉能源股升勢",
+                "Leverage ETF contagion — NVDL/MSTU/MSTX被wipe out引發衍生品連鎖反應"
+            ],
+            "my_take": "本週市場有兩個主要驅動力：(1) 伊朗/中東局勢升級推動能源股、(2) 科技股恐慌拋售係buy dip機會。\n\n最大conviction trade係long能源（USO/XLE）、short airlines（AAL/UAL/DAL via puts）。伊朗局勢短期內難以平息，油價有理據持續上升。航空股係最直接受害者 — 燃油成本翻倍、盈利減半，而且冇hedging能力。\n\nNVDA今日跌12%係AI超級週期中嘅噪音，唔係結構性轉向。Huang同SK嘅合作計劃同chip shortage警告反而confirm咗需求面好強。我會buy dip，但唔會all-in住，因為semi sector整體需要時間消化。\n\n意大利銀行合併係被市場忽略嘅機會。Intesa/BMPS/BPM嘅整合創造value，歐洲銀行業重組故事值得關注。\n\n最大風險係CPI超預期 — 如果通脹再升溫，Fed冇空間減息，risk assets會面對雙重打擊。",
+            "key_takeaways": [
+                "能源股係本週最強板塊 — Long OIL/USO/XLE",
+                "Short airlines (AAL/UAL/DAL) as oil hedge",
+                "NVDA 12%跌 = AI supercycle嘅buy dip機會",
+                "意大利銀行合併 (ISP/BMPS/BPM) 係被低估嘅催化劑",
+                "Bitcoin leverage ETFs大屠殺 — 遠離MSTU/MSTX/NVDL",
+                "CPI data係本週最大macro事件",
+                "Tech → Energy/Value rotation in progress"
+            ]
+        },
+        {
+            "pipeline": "開市前掃瞄",
+            "date": "2026-06-04",
+            "time": "20:37 HKT",
+            "status": "success",
+            "spy": "754.24 (-0.70%)",
+            "vix": "16.58",
+            "market_direction": "避險情緒升溫 — Broadcom AI晶片展望令人失望，半導體板塊承壓，Nasdaq期貨走弱",
+            "headlines": [
+                "Broadcom盤前暴跌，AI晶片展望令投資者失望（Yahoo Finance）",
+                "Broadcom恐創史上最大單日市值蒸發之一（Yahoo Finance）",
+                "比特幣急跌引發數十億美元爆倉（Yahoo Finance）",
+                "Anthropic遞交IPO申請後推出最強AI模型（Yahoo Finance）",
+                "Berkshire Hathaway新舵手Greg Abel斥資85億美元押注逆向策略（Yahoo Finance）",
+                "油價逼近100美元，美股創紀錄升勢暫歇（Yahoo Finance）",
+                "美元從兩個月高點回落，伊朗談判進行中（Yahoo Finance）",
+                "SpaceX IPO目標價出爐（Investors.com）",
+                "摩根大通：五股力量正在重塑美中權力平衡（Yahoo Finance）",
+                "貨運業困境蔓延：破產裁員逾600人（Yahoo Finance）"
+            ],
+            "focus": [
+                "Broadcom AI展望遜預期 — 半導體全線受壓",
+                "VIX急升至16.58 — 恐慌情緒升溫",
+                "10年債息回落至4.46% — 避險資金流入國債",
+                "利率期貨市場 — 關注今晚首次申領失業救濟數據"
+            ],
+            "analysis": "## 昨日市況回顧\n\nSPY昨日（6月3日）收報754.24，下跌0.70%，終結了連續三日的升勢。VIX由上周五（5月29日）的15.32上升至今日的16.58（+8.2%），市場恐慌情緒明顯升溫。\n\n## 債市信號\n\n10年期國債收益率持續下滑，由5月20日的4.57%回落至4.46%，反映資金正在避險。收益率曲線利差（10Y-2Y）由0.53收窄至0.41，雖然仍處於正數區間，但曲線趨平趨勢值得留意——若進一步收窄，可能預示經濟放緩預期升溫。\n\n## 今日關鍵催化劑\n\n**1. Broadcom效應 — 半導體板塊最大風險**\n\nBroadcom盤後公布的AI晶片展望遠遜市場預期，盤前股價暴跌，分析師形容「可能創史上最大單日市值蒸發之一」。這對整個半導體產業鏈產生連鎖效應——直接衝擊NVDA（持倉中的最大權重之一）及相關AI概念股。CrowdStrike亦因業績欠佳同步大跌。\n\n**2. 比特幣爆倉 — 風險偏好雙重打擊**\n\n比特幣急跌引發數十億美元爆倉，加密市場的動盪往往與科技股風險偏好高度相關，形成疊加壓力。\n\n**3. 今晚宏觀數據**\n\n首申失業救濟人數將於今晚公佈，在貨運業裁員潮（破產人數逾600人）背景下，勞動市場數據將是市場焦點。\n\n**4. 油價逼近100美元**\n\n原油價格持續攀升，對通脹預期及消費者信心構成壓力。若油價突破100美元關口，可能加劇聯儲局維持高利率的壓力。\n\n## 組合持倉影響\n\n- **NVDA**：Broadcom的AI晶片展望惡化直接利空整個AI半導體板塊，NVDA短期承壓。\n- **META / GOOGL / AMZN**：AI投入回報疑慮可能重新浮現。\n- **AAPL / MSFT**：相對防禦性較強，但仍受整體市場情緒影響。\n- **TSLA**：風險偏好多重打擊（BTC爆倉 + 科技股走弱）。\n- **JPM / V**：債息回落對銀行股淨息差有負面影響，但避險資金可能流入防禦性金融股。\n",
+            "risks": [
+                "Broadcom暴跌擴散至整個半導體板塊，NVDA首當其衝",
+                "VIX若突破17關口，可能觸發系統性去風險",
+                "比特幣爆倉引發流動性緊縮傳導至股市",
+                "油價衝擊$100關口，通脹預期再起",
+                "今晚首次申領失業救濟人數超預期"
+            ],
+            "my_take": "今日係明確嘅risk-off格局。Broadcom嘅AI展望令人失望，喺AI概念股估值已處於高位嘅背景下，呢個催化劑足以觸發一波獲利回吐。VIX急升、債息回落、BTC爆倉三者同步，形成典型嘅避險三角。\n\n短期策略上：NVDA持倉要密切留意盤中表現，若跌幅過大應考慮減倉對沖。防禦性配置（JPM, V）相對穩健，可作為資金避風港。今晚首申數據係第二個關鍵變數——若勞動市場數據理想，或能為市場提供支撐。\n\n中線睇法：AI長期趨勢未變，Broadcom嘅個別展望唔應該否定整個AI產業鏈。但短線（今明兩日）需要先消化呢個震盪。唔好撈底，等市場搵到支持位先再考慮加倉。\n",
+            "key_takeaways": [
+                "Broadcom AI展望遜預期 — 主導今日市場情緒",
+                "VIX飆升至16.58，避險情緒明顯升溫",
+                "10年債息回落至4.46%，資金流入國債避險",
+                "比特幣爆倉疊加科技股壓力，風險偏好多重受壓",
+                "油價逼近100美元，通脹壓力續存",
+                "今晚首申失業救濟為宏觀焦點",
+                "NVDA短線承壓，不宜急於撈底",
+                "防禦性配置（JPM, V）相對穩健"
+            ]
+        },
+        {
+            "pipeline": "開市前掃瞄",
+            "date": "2026-06-04",
+            "time": "20:05 HKT",
+            "status": "success",
+            "spy": "754.24 (-0.05% 5d, -0.70% 1d)",
+            "vix": "16.64 (+8.6% 5d)",
+            "market_direction": "cautious — SPY gave back weekly gains in Wednesday selloff; VIX surging into today",
+            "headlines": [
+                "Anthropic scales most powerful AI, files for IPO",
+                "Bitcoin crash triggers billions in liquidations",
+                "Marvell, Coherent, HP hit all-time highs on AI momentum",
+                "10Y yield declining to 4.46%, curve flattening (spread 0.41%)",
+                "Barron's: \"Triple Whammy\" — multiple forces hitting markets",
+                "STMicro doubles revenue outlook, hits fresh peak",
+                "Victoria's Secret soars to all-time high on swing to profits",
+                "Legend Biotech +42% on promising cancer therapy results"
+            ],
+            "focus": [
+                "AI/semiconductor momentum vs. broader market weakness — divergence is striking",
+                "Bitcoin crash risk-off sentiment may spill into equities today",
+                "Anthropic IPO filing — major catalyst for AI names (NVDA, META, GOOGL)",
+                "Yield curve narrowing — watch for recession signal if spread goes negative",
+                "VIX at 16.64 suggests elevated hedging activity"
+            ],
+            "analysis": "SPY rallied Mon-Tue to 759.57 (June 2 high), then sold off hard Wednesday (-0.70%) back to 754.24 — erasing virtually all weekly gains. VIX is spiking to 16.64 pre-market today, well above the 15.32 level from last Friday, indicating growing unease. The macro picture is mixed: 10Y yields declining to 4.46% (supportive) but the 10Y-2Y spread narrowing to 0.41% suggests the bond market is pricing in a softer economic outlook. Overnight themes are dominated by two big forces: (1) AI euphoria continues — Marvell, Coherent, HP all at all-time highs, Anthropic filing for IPO, STMicro doubling guidance; (2) Bitcoin crash causing billions in liquidations, which could spill risk-off sentiment into equities. The AI/semiconductor momentum is extremely concentrated — if BTC contagion spreads, tech could see a rotation or correction. Portfolio holdings (AAPL, MSFT, GOOGL, AMZN, NVDA, META, TSLA, JPM, V) are heavily exposed to the AI theme, which is the key alpha driver but also the key risk if risk appetite shifts.",
+            "risks": [
+                "Bitcoin liquidation cascade spilling into equities (risk-off)",
+                "SPY technical breakdown if 750 support fails",
+                "VIX above 16 suggests hedging demand increasing",
+                "AI/semiconductor euphoria vs. narrow market breadth — reversal risk",
+                "Curve flattening approaching zero — recession watch"
+            ],
+            "my_take": "The AI narrative is as strong as ever (Anthropic IPO, Marvell/Coherent all-time highs). But the Bitcoin crash adds a new variable — crypto risk-off can bleed into tech. SPY gave back its weekly gains in a single session, which is pattern of distribution, not accumulation. VIX at 16.64 is actionable — I'd watch for 750 support on SPY. If it holds, the AI momentum carries the day. If it breaks, trim positions and raise cash. Our portfolio is long AI-heavy, so this is a \"show me\" morning — let pre-market settle before conviction.",
+            "key_takeaways": [
+                "SPY flat over 5d but fell -0.70% yesterday — all weekly gains erased",
+                "VIX at 16.64 — highest in the period, rising fear",
+                "AI/semiconductors on fire (Marvell, Coherent, HP all-time highs + Anthropic IPO)",
+                "Bitcoin crash — billions liquidated — potential risk-off spillover",
+                "10Y yield declining (4.46%), curve flattening — bond market cautious",
+                "Portfolio heavily AI-exposed — watch BTC contagion and 750 SPY support"
+            ]
+        }
+    ]
 }
