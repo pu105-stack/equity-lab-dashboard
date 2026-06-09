@@ -268,6 +268,92 @@
         "⚠️ VIX若再度突破21，系統性去風險機制將觸發"
       ],
       "my_take": "Overall Bias: 🟢 Bullish-leaning with tactical caution\n\n上週五嘅-2.58%係2026年最重要嘅buy the dip moment — **前提係今晚WWDC足夠好**。\n\n最大嘅結構性變化有三個：\n\n1️⃣ 🇮🇷🇮🇱 伊朗-以色列停火曙光係過去100天最大熊市催化劑嘅移除。油價從$96回落至$91，避險情緒降溫，VIX從21.51回落至18.83。呢個因素係今天risk-on嘅最大支撐。\n\n2️⃣ 🤖 AI雙催化劑確認 — MRVL加入S&P 500（盤前+9%）+ AAPL WWDC今晚。呢兩個事件分別確認咗半導體AI景氣持續同Apple正式加入AI軍備競賽。Citi調升SPX目標至8100係華爾街嘅集體表態：AI supercycle冇變。\n\n3️⃣ ⚠️ 但Bitcoin暴跌嘅暗湧未散。BTC從$59k反彈至$63k係好現象，但槓桿ETF清算（MSTU年跌95%）同韓國AI槓桿爆倉係真實風險。歷史經驗（2018/2022）話畀我哋知，極端去槓桿最終會傳導至所有風險資產。暫時股市脫鉤，但呢個係高頻監察項目。\n\n本週三重催化劑（今晚WWDC → 週三CPI → 週四FOMC）將決定6月方向。策略上：\n• 半導體倉位保留，但加倉要等到WWDC後確認方向\n• AAPL可小注搏WWDC（Marketaux sentiment bullish +0.328）\n• 能源（XLE/XOM/CVX）回調係加倉機會，伊朗問題未解決\n• 金融（XLF/JPM）係本週最安全嘅持倉 — CPI+FOMC偏鷹+輪動\n• 整體倉位保持6-7成，留有子彈應對CPI/FOMC波動\n\n今日最緊要睇實：AAPL WWDC（凌晨1點HKT）、VIX能否回落至16以下、BTC企唔企得住$63k。如果三個都正面，本週risk-on可持續。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-09",
+      "time": "08:12 HKT",
+      "status": "success",
+      "market_direction": "📉 市場審慎偏淡。SPY 上週五急跌後週一反彈，但 BofA 出 'Take Profits' 警告，Fed 加息概率突破50%。伊朗-以色列停火不穩，油價波動。Citi 樂觀睇 SPX 8100 但市場 breadth 轉差。CPI 本週係 key catalyst。",
+      "headlines": [
+        "ACTION: SPACEX — SpaceX IPO well oversubscribed with $10B+ orders; retail investors clamour for allocation. Major catalyst for space economy and Musk-linked equities.",
+        "ACTION: CORNING (GLW) — Corning strikes another multibillion-dollar AI deal; Amazon pact joins Meta and Nvidia partnerships. Stock has strong momentum from AI optical connectivity demand.",
+        "ACTION: OPENAI — OpenAI files confidentially for IPO; expected valuation >$1tn. AI mega-debut alongside SpaceX creates blockbuster IPO summer.",
+        "ACTION: DELL/HPE — Dell soars 54%, HPE rockets 59% in a month as AI-server demand booms. Server makers are the picks-and-shovels of the AI buildout.",
+        "ACTION: INTC/MU — Chip rebound sparks hedging flurry; 'memory trade is alive and well.' Micron bouncing back with long-term supply agreements. Citi hikes SPX target to 8,100 on AI-driven earnings.",
+        "WATCH: FED HIKE — Fed rate hike odds pass 50% for 2026. Inflation could top 4% this week. Bond market wants Warsh to prove he'll fight it. Risk to growth stocks.",
+        "WATCH: OIL — Oil steady after Iran-Israel halt hostilities, but Kalshi says Strait of Hormuz won't open before Jan. China cushioning prices but analysts warn it won't last. Working-capital squeeze building.",
+        "WATCH: LLY — Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug impresses analysts. Next-gen GLP-1 race heats up with AZN also advancing oral pill.",
+        "WATCH: GOLD — Gold holding 4300 support. CPI this week will break the trap. BofA warns bear market signposts multiplying. Safe haven demand from Iran tension.",
+        "WATCH: BABA/BIDU/BYD — Pentagon restores Alibaba, Baidu, BYD to Chinese military blacklist after sudden Feb removal. Geopolitical risk for China tech.",
+        "WATCH: BofA Warns 'Take Profits' — Bear market signposts multiplying. Red flags include breadth deterioration, rate hike risk, and stretched AI valuations.",
+        "NOTE: ACES — Clean Energy ETF up 29% YTD. AI data centre power demand driving renewable buildout. S&P 500's new sector leader.",
+        "NOTE: APO/BX — Apollo and Blackstone raise $35bn in chip financing deal for Anthropic. Private credit fueling AI capital expenditure megadeals.",
+        "NOTE: BITCOIN — Bitcoin cratering to lowest since 2024. But new Wall Street crypto hype (tokenization, RWA) is rising as alternative.",
+        "NOTE: AAPL — Apple unveils long-awaited AI Siri at WWDC 2026. Partnering with Google and Nvidia for most advanced AI model. Privacy-first approach differentiates."
+      ],
+      "opportunities": [
+        "GLW: Corning 連續同三大 hyperscaler 簽約 (AMZN, META, NVDA)，AI 光纖連接係 infrastructure bottleneck。每次新 deal 都係 catalyst。揸住等下一份約。",
+        "DELL/HPE: AI server 需求結構性增長，54%/59% 單月升幅證明動能強勁。SMCI 都會受惠。Picks-and-shovels of AI buildout。",
+        "INTC/MU: Semiconductor rebound trade。MU 長約改善盈利可見性，INTC turnaround 有進展。Citi 8100 SPX target 利好半導體。",
+        "SPACEX IPO: 認購超額 $10B，零售需求瘋狂。First-day pop 機會大。RKLB (space sector halo) 和 TSLA (Musk wealth effect) 都受惠。",
+        "LLY: 新一代減肥藥 positive phase 3 data，weight loss TAM 仍然巨大。AZN 加入競爭但 validate 個 market。"
+      ],
+      "analysis": "本週市場處於關鍵轉折點。一方面 AI 基本面依然強勁 — OpenAI IPO、SpaceX 上市、Corning/Apollo/Blackstone 巨額 AI 基建融資，全部指向 AI capex cycle 正在加速。另一方面，宏觀風險正在累積：CPI 可能觸發加息預期急升、BofA 出賣出信號、市場 breadth 轉差、伊朗局勢不穩。\n\n策略上：繼續持有 AI infrastructure 核心持倉 (GLW, DELL, MU)，呢啲係 structural beneficiary。但會減低槓桿，準備 CPI 後再加倉。SpaceX IPO 會參與 — 呢種級數嘅 listing 通常有 first-day premium。能源板塊 (XLE, CVX) 作為 hedge，如果 Hormuz 持續關閉會受惠。Short duration bonds / cash 比例增至15-20% 應對 volatility。\n\n最大風險係 CPI 高過預期 + Fed 轉鷹 = growth/momentum 大幅回調。呢個 scenario 係本週最需要準備嘅。",
+      "risks": [
+        "⚠️ CPI 本週出爐 — 如果 >4%，Fed 加息預期急升，growth/momentum 會大幅回調。BofA 'Take Profits' warning 值得重視。",
+        "⚠️ 伊朗-以色列停火脆弱，Hormuz 海峽關閉持續。Kalshi 預測 1月前唔會重開。油價若急升會打擊消費同經濟。",
+        "⚠️ 美國將 BABA/BIDU/BYD 重新列入軍方黑名單，中美關係再趨緊張。Xi 訪北韓增加地緣政治複雜性。",
+        "⚠️ Bitcoin 跌至2024年低位，crypto 風險資產全面受壓。MSTR 持倉 underwater。"
+      ],
+      "my_take": "本週市場處於關鍵轉折點。一方面 AI 基本面依然強勁 — OpenAI IPO、SpaceX 上市、Corning/Apollo/Blackstone 巨額 AI 基建融資，全部指向 AI capex cycle 正在加速。另一方面，宏觀風險正在累積：CPI 可能觸發加息預期急升、BofA 出賣出信號、市場 breadth 轉差、伊朗局勢不穩。\n\n策略上：繼續持有 AI infrastructure 核心持倉 (GLW, DELL, MU)，呢啲係 structural beneficiary。但會減低槓桿，準備 CPI 後再加倉。SpaceX IPO 會參與 — 呢種級數嘅 listing 通常有 first-day premium。能源板塊 (XLE, CVX) 作為 hedge，如果 Hormuz 持續關閉會受惠。Short duration bonds / cash 比例增至15-20% 應對 volatility。\n\n最大風險係 CPI 高過預期 + Fed 轉鷹 = growth/momentum 大幅回調。呢個 scenario 係本週最需要準備嘅。",
+      "key_takeaways": [
+        "AI infrastructure theme 依然最強 — GLW, DELL, HPE, MU 係核心持倉",
+        "SpaceX + OpenAI IPO 雙重催化劑，Q3 係 IPO supercycle",
+        "CPI 本週係 key binary event — 決定6月 market direction",
+        "Hormuz 關閉持續時間被市場低估，能源係被忽略嘅 hedge",
+        "BofA 發出 'Take Profits' 信號，增加 cash 比例係 prudent",
+        "中美關係再緊張 (BABA/BIDU blacklist)，Xi 訪北韓增加變數"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-09",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "🟡 Weak bounce — SPY +0.23% but faded from intraday high of $745, closed near lows at $739.22. Semis relief rally (+5%) but AAPL sell-the-news (-1.89%) capped tech gains.",
+      "headlines": [
+        "📊 SPY +0.23% to $739.22 — gap-up opened at $743, faded all day to close near session lows. Bearish intraday tape.",
+        "🖥️ SMH +5.00% — relief bounce from Friday -9.22% crash. INTC +11.19%, MU +9.87%, MRVL +9.63% (S&P 500 addition).",
+        "🍎 AAPL -1.89% to $301.54 — WWDC sell-the-news. Siri AI + Google/Nvidia partnership underwhelmed. Volume spike 77.8M.",
+        "🚗 TSLA +4.59% — SpaceX IPO halo effect + broader semi bounce carry.",
+        "📈 MRVL +9.63% — S&P 500 addition effective today. AI networking story confirmed.",
+        "📉 MSFT -1.18%, GOOGL -1.42%, META -1.28% — mega-cap tech dragged by AAPL weakness.",
+        "🏦 XLF -0.63% — rotation trade took a breather after last week +1.69%. JPM -0.40%.",
+        "🔗 10Y Yield 4.552% (+1.6bp) — yields grinding higher. Rate hike odds >50%. CPI (Tues) is key.",
+        "😨 VIX 18.92 (from 21.51 Friday) — fear receded but still elevated (>18). Market not out of woods.",
+        "⛽ Oil $91.07 (+0.6%) — Iran-Israel ceasefire holds but Hormuz Strait remains closed."
+      ],
+      "opportunities": [
+        "MRVL: S&P 500 addition catalyst +9.63%. AI networking play — structural beneficiary of AI buildout. Worth holding.",
+        "INTC: +11.19% — turnaround story gaining traction. Semi rebound leader. Watch for CPI catalyst.",
+        "MU: +9.87% — memory recovery trade. Earnings visibility improving. Semi pick-and-shovel play.",
+        "SMH: +5% bounce from -9.22% crash. If CPI cooperates (core MoM ≤0.3%), semi rally has room to run.",
+        "TSLA: SpaceX IPO halo effect. If SpaceX prices $1.75T valuation this week, further upside possible.",
+        "LLY: +1.57% — next-gen weight loss drug phase 3 positive data. GLP-1 TAM still enormous."
+      ],
+      "analysis": "# 📊 Evening Review — 6月8日（星期一）\n\n## 📊 Market Recap\n\n### 指數表現（6月8日收市）\n| 指數 | 收市價 | 日變幅 | 上週五變幅 |\n|---|---|---|---|\n| **SPY** | $739.22 | **+0.23%** | -2.58% |\n| **QQQ** | $716.07 | **+1.56%** | -4.80% |\n| **DIA** | $508.91 | **-0.16%** | -1.35% |\n| **IWM** | $284.11 | **+0.87%** | -2.68% |\n| **VIX** | 18.92 | -2.59pts | +39.7% ($21.51) |\n\n### 盤中走勢分析\nSPY 今日高開喺 ~$743（gap up from Friday $737.55），早段反彈至日內高位 ~$745，**然後全日單邊回落**，最後一粒鐘加速跌至 $738.19 低位，收 $739.22。**呢個係典型嘅 failed rally pattern** — 開高走低，buyers 唔肯接貨。\n\nQQQ 表現稍好（+1.56%），純粹因為 semis 板塊機械式反彈。但扣除 semis 嘅貢獻，QQQ 其實係 flat to negative — AAPL -1.89%、MSFT -1.18%、GOOGL -1.42%、META -1.28%。\n\n### Sector Performance\n\n| 板塊 | ETF | 日變幅 | 備註 |\n|---|---|---|---|\n| 🟢 半導體 | SMH | **+5.00%** | 上週五-9.22%後反彈，但仍遠低於6/2高位$632 |\n| 🟢 科技 | XLK | **+2.15%** | Semis拉動，但megacap tech受AAPL拖累 |\n| 🟢 能源 | XLE | **+1.14%** | 油價$91穩定，伊朗停火未完全解除風險溢價 |\n| 🟢 小型股 | IWM | **+0.87%** | 跟隨大市反彈，幅度有限 |\n| 🟢 非必需消費 | XLY | **+0.46%** | TSLA +4.59%主導 |\n| 🔴 金融 | XLF | **-0.63%** | 上週+1.69%後回調，rotation trade暫停 |\n| 🔴 公用 | XLU | **-1.87%** | 利率上升壓力 |\n| 🔴 原材料 | XLB | **-1.32%** | 避險情緒仍偏強 |\n| 🔴 地產 | XLRE | **-1.50%** | 利率敏感 |\n\n### Volume / Breadth\n- SPY 成交量 **49.2M** — 低於上週五嘅93.7M（恐慌拋售），但高於正常嘅31-40M。市場未平靜。\n- SPY 全日由高位回落 ~$6（$745→$739）— 買盤跟進意願唔強。\n- SMH 成交量13.8M （vs 22M Friday）— 反彈成交縮減，唔係 conviction buying。\n\n### VIX\n- 收 18.92（上週五 21.51）— 恐慌情緒降溫，但 **VIX > 18 仍代表市場處於警戒水平**。\n\n---\n\n## 🔥 Notable Movers\n\n### 今日最大贏家（>3%）\n\n| 股票 | 變幅 | Catalyst |\n|---|---|---|\n| **INTC** | **+11.19%** | 半導體 turnaround 故事持續升溫。上週-6.27%後強力反彈。Citi SPX 8100 target 利好半導體。 |\n| **MU** | **+9.87%** | Memory 週期回暖。長約改善盈利可見性。上週五被錯殺後反彈。 |\n| **MRVL** | **+9.63%** | **S&P 500 今日生效加入**。盤前已+9%。AI networking 龍頭。84M股成交，極高關注。 |\n| **SMCI** | **+5.64%** | AI server 需求結構性增長。上週五被大市拖累後反彈。 |\n| **AMD** | **+5.14%** | GPU 競爭格局持續。上週五-9.8%後反彈。 |\n| **TSLA** | **+4.59%** | SpaceX IPO 光環效應（週五定價$1.75T）。Musk wealth effect play。50M股成交。 |\n| **AVGO** | **+2.82%** | 上週-20.5%兩日後溫和反彈。AI custom chip 故事未完但修復需時。 |\n| **NVDA** | **+1.73%** | 溫和反彈。PE 31.5/forward PE 16.2 — 估值已合理但市場情緒仍偏弱。 |\n\n### 今日最大輸家\n\n| 股票 | 變幅 | Catalyst |\n|---|---|---|\n| **AAPL** | **-1.89%** | **WWDC sell-the-news**。Siri AI + Google/Nvidia partnership 令市場失望。「Privacy-first」approach 被視為競爭劣勢。成交量77.8M（vs 正常45-65M）— 機構派貨信號。 |\n| **GOOGL** | **-1.42%** | AAPL 拖累 megacap tech。無自家 catalyst。 |\n| **META** | **-1.28%** | 同上。社交媒體板塊無催化劑。 |\n| **MSFT** | **-1.18%** | 相對於其他 megacap 算抗跌。AI 故事相對穩固。 |\n| **ORCL** | **-0.87%** | 收市後業績。市場審慎。 |\n\n### Sector Rotation Signals\n- 上週嘅 XLF→QQQ rotation 今日暫停 — XLF -0.63%，資金未進一步流入防守性板塊。\n- 但今日嘅 semi 反彈純粹係 oversold bounce，唔係結構性rotation reversal。\n- **關鍵問題**：如果AAPL繼續弱，QQQ會唔會再次領跌？定係semi反彈可以抵消？\n\n---\n\n## 📰 News That Mattered\n\n### ✅ WWDC 2026 — AAPL Siri AI\n- Tim Cook 最後一次以CEO身份主講WWDC\n- 公佈 Siri AI Agent 平台 + Google/Nvidia 合作\n- **市場反應：失望。** AAPL -1.89%，$301.54收市\n- 合作Google/Nvidia 被解讀為Apple AI能力不足，要靠外部\n- Privacy-first messaging 可能太保守，唔夠對手進取\n- **News Curator 嘅 call: 中！** 晨早scan話「若市場已完全price in → sell the news風險」— exactly 發生咗\n\n### ✅ MRVL 加入 S&P 500\n- 今日生效。盤前+9%，全日收+9.63%\n- AI networking 嘅 pure play — Corning 同三大hyperscaler簽約嘅受惠者\n- **News Curator 嘅 call: 中！** ACTION item 有GLW（Corning），MRVL作為S&P加入嘅直接受惠者\n\n### ⚠️ BofA 'Take Profits' Warning\n- BofA 出正式sell signal — bear market signposts multiplying\n- Breadth deterioration, rate hike risk, stretched AI valuations\n- 對市場情緒有壓制作用 — 解釋咗點解今日反彈咁弱\n\n### ⚠️ Pentagon 重新將BABA/BIDU/BYD列入軍事黑名單\n- 2月突然移除後今日恢復\n- 中概股風險升溫，影響HSI同China tech ADR\n\n### 🔜 ORCL Earnings（收市後）\n- AI infrastructure 最重要嘅 earnings 之一\n- 直接影響 SMCI/DELL 嘅 AI server 需求 narrative\n\n---\n\n## 🎯 Opportunities Carry Forward\n\n### 1️⃣ MRVL — S&P 500 催化劑已兌現，但故事未完\n- +9.63% 今日係 index inclusion 嘅一次性效應\n- 但 AI networking 嘅 structural demand（GLW 不斷簽約 hyperscaler）支持中期睇法\n- **明天策略：** 如果 CPI 溫和，MRVL pullback 係買入機會\n\n### 2️⃣ INTC/MU — Semi turnaround trade\n- INTC +11.19%/MU +9.87% 今日領漲 semis\n- 如果 CPI 唔爆（core MoM ≤+0.3%），呢個 trade 可以繼續\n- **Setup for tomorrow:** CPI 前可以小注，CPI後confirm加倉\n\n### 3️⃣ SMH — Oversold bounce 定 reversal？\n- 今日+5%但成交縮減 — 未確認 reversal\n- **關鍵水平：** SMH 需收復 $620（pre-Friday level）先算 reversal\n- CPI + FOMC 決定方向\n\n### 4️⃣ TSLA — SpaceX IPO halo\n- SpaceX 週五定價 $1.75T，史上最大IPO\n- TSLA +4.59% 今日反映 Musk wealth effect\n- 如果首日大升，TSLA 有額外上行空間\n\n### 5️⃣ LLY — 減肥藥王者未變\n- Phase 3 positive data for next-gen GLP-1\n- AZN加入競爭但validate個market\n- LLY +1.57% 今日 — 穩步向上，避險+增長雙重屬性\n\n---\n\n## ⚠️ Risks / Watchlist\n\n### 🔴 HIGH — CPI（星期二 6月9日）\n- **呢個係本週最重要嘅 catalyst**\n- 市場共識：核心CPI MoM +0.3%\n- **如果 >+0.4%** → Fed加息預期急升 → growth/semi大規模selloff，SPY測試$730\n- **如果 <+0.2%** → risk-on rally，semis持續反彈，SPY re-test $750\n\n### 🔴 HIGH — FOMC（星期三 6月10日）\n- 利率決議（預期按兵不動）+ 點陣圖更新\n- **點陣圖係關鍵** — 如果2026年加息預期中位數出現，市場會大幅波動\n- 市場已pricing in ~50%加息概率\n\n### 🔴 HIGH — AAPL WWDC Aftermath\n- -1.89% 係明確嘅sell signal。$300 整數關口係下一個support\n- 如果AAPL跌破$300，對NASDAQ/QQQ係重大負面信號\n- **半導體反彈可能被AAPL弱勢抵消**\n\n### 🟡 MEDIUM — 10Y Yield 突破4.55%\n- 10Y 4.552% — 如果突破4.60%，growth stocks機械式selloff\n- 30Y 已突破5%（5.024%）— 長端利率上升限制估值擴張\n\n### 🟡 MEDIUM — ORCL Earnings（今晚）\n- AI infrastructure 風向標\n- 如果ORCL miss / 保守指引 → SMCI/DELL/整個AI基建板塊受壓\n- 如果beat + raise → AI capex cycle confirmed\n\n### 🟡 MEDIUM — 伊朗-以色列停火\n- 協議脆弱。以色列內塔尼亞胡態度未明\n- Hormuz海峽仍關閉 — 油價$91仍包含風險溢價\n\n### 🟡 MEDIUM — Pentagon 黑名單（BABA/BIDU/BYD）\n- 中概股風險升溫\n- 如果擴大至更多中國科技公司，ADR市場受壓\n\n### 🟢 LOW — Bitcoin\n- $62,552 — 企穩$62k但未脫險\n- 仍處於去槓桿/清算風險中\n\n---\n\n## 💡 My Take\n\n**Today's Summary:** Weak bounce, failed rally, AAPL disappointment.\n\n今日嘅價格行動講嘅故事好清楚：**市場想反彈，但冇力氣**。SPY 高開 $743、早段衝 $745，然後全日陰跌收 $739.22 — 呢個係典型嘅 dead cat bounce pattern，唔係 genuine reversal。\n\n最重要嘅信號係 **AAPL -1.89% on WWDC day**。呢個係 \"buy the rumor, sell the news\" 嘅教科書案例。Tim Cook 最後一次WWDC、Siri AI Agent 平台、Google/Nvidia 合作 — 全部都已經被預期同price in。結果係市場話「唔夠好」。如果連AAPL都唔可以靠AI故事撐住，咁成個AI narrative trade 係脆弱嘅。\n\n好消息係 **semis 今日強力反彈**（SMH +5%，INTC +11%，MU +10%）。呢個係 oversold bounce，但至少證明咗 semis 嘅基本需求未消失 — MRVL 嘅 S&P 500 inclusion 同 Corning deal 都係實質催化劑。\n\n**Tomorrow is ALL about CPI.** 我嘅 base case：核心CPI MoM +0.3%（inline）。市場 short-term 反應會係 mixed，然後焦點轉向星期三 FOMC。關鍵係點陣圖 — 如果2026年加息預期被移除，就係 dovish surprise。\n\n**最大嘅交易機會：** 如果CPI出嚟溫和 (+0.2-0.3%) + 如果 AAPL 唔再跌穿 $300 — 呢個係 buy semis (SMH/INTC/MU) 嘅好機會。但如果CPI >0.4%，乜都唔好買。\n\n**Overall Bias: 🟡 Neutral-Bearish 短期，Bullish 中期**\n- 短期（本週）：CPI/FOMC 雙重不確定性，低吸高拋\n- 中期（6月）：AI supercycle 未變，回調係買入機會\n- 關鍵水平：SPY $730（support），$750（resistance）\n",
+      "risks": [
+        "⚠️ CPI (Tue Jun 9) — MARKET MAKER. Core MoM consensus +0.3%. Beat = rate hike odds surge → growth/semi selloff. Miss = risk-on rally.",
+        "⚠️ FOMC (Wed Jun 10) — Dot plot update. Any rate hike signal or hawkish shift = negative for equities.",
+        "⚠️ AAPL WWDC disappointment — -1.89% on elevated volume suggests institutional distribution. Could drag semis/tech lower Tuesday.",
+        "⚠️ 10Y yield 4.552% and rising — if yields break 4.60%, growth stocks face mechanical selling pressure.",
+        "⚠️ BofA Take Profits warning — official Wall Street sell signal. Bear market signposts multiplying.",
+        "⚠️ ORCL earnings (tonight) — AI infrastructure bellwether. Miss = negative readthrough for SMCI/DELL.",
+        "⚠️ Iran-Israel ceasefire fragile — Israel's Netanyahu position unclear. Hormuz Strait remains closed. Oil spike risk.",
+        "⚠️ Pentagon re-blacklists BABA/BIDU/BYD — China tech geopolitical risk escalating."
+      ],
+      "my_take": "Overall Bias: 🟡 Neutral-Bearish heading into CPI\n\nToday's bounce was weak — SPY opened at $743, rallied to $745, then faded to close at $739.22. That's a failed rally pattern. The semis relief bounce (+5% SMH) was mechanical oversold bounce, not conviction buying. The real story today was AAPL -1.89% on WWDC — the market voted \"not impressed\" with the Siri AI announcement. If AAPL can't hold post-WWDC, the AI narrative trade is vulnerable.\n\nTomorrow is ALL about CPI. Core MoM +0.3% is the line in the sand:\n- ≤+0.2% → risk-on rally, semis bounce continues, yields fall\n- +0.3% → mixed, status quo\n- ≥+0.4% → growth/semis selloff resumes, XLF/energy/XLV relative outperformance\n\nMy bet: CPI prints core +0.3% (inline). Market initially wobbles then stabilizes. FOMC Wednesday is the real event. The dot plot matters more than CPI.\n\nTonight watch: ORCL earnings (AI infrastructure readthrough), Asia session reaction to AAPL WWDC disappointment."
     }
   ]
 }
