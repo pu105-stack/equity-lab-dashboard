@@ -391,6 +391,91 @@
         "全球衝突升至二戰後最高水平 → black swan probability上升"
       ],
       "my_take": "Overall Bias: 🟡 Neutral — waiting for CPI+FOMC\n\n上週五恐慌拋售係overdone，但週一反彈failed — 市場未ready for sustained rally。SPY高開低走，AAPL sell-the-news，SMH反彈但成交縮 — 呢啲都係「唔信反彈」嘅信號。\n\n最大變數係CPI（明晚）vs FOMC（週四）嘅組合。CPI inline (0.3%) + FOMC dovish = risk-on。CPI hot + FOMC hawkish = risk-off。我最睇好嘅劇本係CPI inline + 停火協議落實 — 兩大不確定性同時移除 = 6月risk-on可持續。\n\n伊朗停火係最被低估嘅正面催化劑。Trump話2-3日搞掂，如果成事，最大地緣風險移除，油價回落利好通脹前景同消費者信心。\n\n部署：保持5-6成倉，能源回調係戰術買入機會，NVDA $205-210區間小注建倉（$35B晶片融資確認AI supercycle），LLY係最安全長倉。Avoid AAPL until $300 support confirmed。等CPI+FOMC後再加倉位。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-10",
+      "time": "08:47 HKT",
+      "status": "success",
+      "market_direction": "美伊衝突升溫（美軍再轟伊朗），市場風險偏好下降。半導體板塊遭做空，科技股回調。CPI（預期4.2%）週三出爐，bond market定價加息預期。油價因Hormuz緊張反彈，金價續跌。AI IPO巨浪來臨（SpaceX、OpenAI、Anthropic）",
+      "headlines": [
+        "ACTION: SMCI — $7B融資股價急跌，AI server訂單仍強，dilution overhang後可撈底",
+        "ACTION: META — Truist睇好新subscription model，$20B+ revenue潛力，40% upside",
+        "ACTION: GSK/NUVL — $10.6B歷來最大收購，強勢進軍oncology肺癌藥",
+        "ACTION: USO/XLE — 原油庫存跌9.1M barrels，美軍再轟伊朗，能源股值博",
+        "ACTION: SMH/SOXX — 半導體short interest急升，極端睇淡或係capitulation前兆",
+        "WATCH: AAPL — Siri AI反應兩極，EU被ban，短線弱長線catalyst仍在",
+        "WATCH: BA — Deliveries持續改善，turnaround有進展",
+        "WATCH: GM — Sodium-ion battery for data center，新growth vector",
+        "WATCH: BTC — 跌向$62K，資金流向AI，極端bearish",
+        "WATCH: RIVN — R2開始交付，make-or-break moment",
+        "NOTE: C/JPM — Trading revenue強，AI agent部署",
+        "NOTE: TOL — KBW upgrade，K-shaped經濟利好luxury homebuilder",
+        "NOTE: XOM/CVX — Alberta新建管道，加拿大能源出口升級",
+        "NOTE: NVDA/AMD — TSMC暗示加價，chip demand強勁",
+        "NOTE: SPY/QQQ — Macro風險升溫，bond market pricing Fed加息"
+      ],
+      "opportunities": [
+        "SMCI: $7B融資短期壓抑股價，但AI server需求冇放緩。Production capacity expansion係正數。等dilution overhang消化後可分段建倉",
+        "META: Truist $20B subscription thesis好solid。廣告收入穩定+subscription新引擎=dual engine growth。40% upside analysis合理",
+        "GSK: $10.6B收購Nuvalent改變oncology佈局。zidesamtinib係late-stage lung cancer藥，2026下半年launch。中長線利好",
+        "USO/XLE: 原油庫存急跌+美伊再衝突=短期油價向上risk。Hormuz disruption持續，supply squeeze未解決",
+        "SMH: Semiconductor短線受壓但ASML創新高反映設備需求好。Short interest extreme或觸發short squeeze"
+      ],
+      "analysis": "今日新聞有幾個主線：（1）美伊衝突升級— 美軍直升機被伊朗擊落後特朗普下令轟炸伊朗，Hormuz局勢再度緊張。油價反彈但 ceasefire 預期限制升幅。呢個係最大嘅 macro risk factor。（2）AI IPO 浪潮 — SpaceX 呢週IPO，OpenAI 同 Anthropic 相繼 filing。整體 AI 行業 capital raising 如火如荼，但短期對二級市場資金有擠出效應。（3）半導體板塊回調 — Short interest 急升，Cramer 話 tech losing leadership。但 ASML 創歷史新高，反映設備需求仍然旺盛。極端看淡情緒可能係觸底信號。（4）CPI 星期三出爐 — 預期 4.2%，bond market 已經 pricing Fed 加息。呢個係 short-term market catalyst。（5）Bitcoin 跌向 $62K — 資金流向 AI 股，risk-off 情緒蔓延。但極端 bearish sentiment 可能係 reversal signal。整體策略：短線防守為主（能源、defensives），等待半導體 capitulation 後撈底。",
+      "risks": [
+        "美伊衝突進一步升級導致油價急升、市場恐慌",
+        "CPI 高於預期（>4.2%）觸發加息恐慌",
+        "AI IPO 浪潮抽走二級市場流動性",
+        "半導體板塊 short squeeze 未出現前繼續下跌",
+        "Bitcoin 跌破 $60K 引發更大規模去槓桿"
+      ],
+      "my_take": "今日盤面信號 mixed。美伊衝突升級係最大變數，但市場似乎已部分消化（油價冇爆升）。Semiconductor 嘅 short interest extreme 值得留意 — 當所有人都睇淡一個 trade 嘅時候，往往係 reversal 嘅前夕。我會 focus 喺 (1) SMCI 等 dilution overhang 消化後慢慢建倉，(2) META 嘅 subscription thesis 好 solid，40% upside 合理，(3) 油股（XLE）做短線防守。CPI 星期三係關鍵 — 如果 core 低過預期，可以加 risk。Bitcoin 暫時唔掂，等 $58-60K 先考慮。",
+      "key_takeaways": [
+        "美伊再衝突，Hormuz緊張，油價反彈有限",
+        "半導體short interest急升，極端睇淡或見底信號",
+        "AI IPO巨浪：SpaceX/OpenAI/Anthropic相繼上市",
+        "CPI星期三出爐，預期4.2%",
+        "SMCI $7B融資係短期噪音，AI server需求不變",
+        "META Truist目標價40% upside，subscription新引擎",
+        "Bitcoin跌向$62K，資金流向AI"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-10",
+      "time": "08:59 HKT",
+      "status": "success",
+      "market_direction": "🔴 V型暴跌反彈 — SPY -0.29%（盤中-3.2%）、QQQ -1.15%（盤中-5.4%）、VIX高見23.34後收19.87；板塊輪動確認 — XLV+1.26%創新高 vs XLK-1.85%；NVDA $200支持位測試成功。CPI+FOMC決定6月方向。",
+      "headlines": [
+        "🔄 SPY 737.05（-0.29%）— 盤中722.59-746.90 V型反彈，成交量86.8M（2x正常）",
+        "💀 QQQ 707.83（-1.15%）— 盤中低686.37後暴力收復，波幅$39",
+        "🍎 AAPL -3.65% WWDC sell-the-news — Siri AI reveal underwhelms，盤中低$287.78",
+        "🔌 MRVL -7.61% ByteDance ASIC deal震驚市場，盤中低$244反彈至$266",
+        "✅ NVDA $200支持位測試成功 — Apple用NVDA GPU做AI係大利好",
+        "💊 XLV +1.26%創歷史新高 — 醫療保健領漲防禦型板塊",
+        "📊 VIX高見23.34後收19.87 — 恐慌急升後收窄，市場仍處警戒狀態",
+        "📡 CPI（明晚）+FOMC（週四）+ORCL業績（今晚盤後）— 三重催化劑"
+      ],
+      "opportunities": [
+        "NVDA: $200支持位測試成功+Apple用NVDA GPU做AI+SK hynix partnership確認HBM需求。盤中$199.34低位係短期底，target重回$218/$236。CPI前可小注",
+        "MU: $854.35低位後反彈9.5%至$935.89。SK hynix deal對memory利好，6/24業績前有上行催化",
+        "XLV: 連續創新高，市場最佳防禦板塊。醫療+1.26%係今日最強，資金持續流入",
+        "XLF: 連續第四日跑贏科技。10Y 4.56%利好銀行NIM，rotation trend confirmed",
+        "MRVL: $244低位可能overdone，S&P 500納入效應+Stifel維持買入。但custom silicon threat結構性，不宜重倉"
+      ],
+      "analysis": "📊 Evening Review — 6月9日（星期二）\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📊 MARKET RECAP — 6月9日（美國周二）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【今日主題：MASSIVE WHIPSAW — 開盤反彈急墜後V型收復，VIX曾飆至23.34】\n\n今日係2026年最戲劇性嘅交易日之一。SPY開盤延續昨日反彈至$746.90，然後在短短數小時內急插至$722.59（盤中跌-3.2%），最後一小時暴力收復至$737.05收市。QQQ更誇張 — 從$725.66高開急墜至$686.37（盤中跌-5.4%！），最後收$707.83。巨量成交證明機構激烈博弈。\n\n【指數表現】\n• SPY：開743.63 → 收737.05（-0.29%），盤中722.59-746.90，波幅$24\n• QQQ：開722.97 → 收707.83（-1.15%），盤中686.37-725.66，波幅$39 ← 驚人\n• DIA：開511.48 → 收509.41（+0.10%），盤中503.08-513.54 — Dow相對最穩\n• S&P 500：7386.65（-0.26%），盤中低見7237.85\n• ^RUT（Russell 2000）：2867.02（+0.41%），從盤中低2795強力反彈\n• VIX：開18.19 → 高見23.34 → 收19.87（+5.0%），恐慌急升後收窄\n\n【成交量爆燈】\n• SPY 86.8M（正常40-50M的~2倍）\n• QQQ 87.5M（正常35-40M的~2倍）\n• SMH 19.8M（正常8-10M的~2倍）\n• 巨量成交 + V型反彈 = 典型「恐慌性拋售後機構抄底」pattern\n\n【板塊輪動 — 防守型主導】\n🥇 贏家（防禦/價值板塊）：\n• XLV（醫療保健）+1.26% ← 創新高！最強板塊\n• XLP（必需消費）+1.24% ← 防守資金持續流入\n• XLI（工業）+1.13%\n• XLU（公用事業）+1.06%\n• XLF（金融）+0.94% ← 連續第四日跑贏科技\n\n🥉 輸家：\n• XLK（科技）-1.85%\n• XLE（能源）-1.61% ← 油價跌拖累\n• SMH（半導體）-1.19%\n\n【關鍵觀察】\n1. 板塊輪動確認：連續第二週資金從科技/半導體流向醫療、必需消費、金融、工業\n2. SPY從722.59 V型反彈至737.05 — $735支持位守住，但重上$740前未算安全\n3. QQQ從686.37反彈至707.83 — $700整數關口盤中擊穿後收回，短線重要\n4. VIX見23.34後回落至19.87 — 市場仍處警戒狀態，但最恐慌一刻已過\n5. 10Y Treasury 4.56%（+1bp），T10Y2Y曲線0.40% — 利率穩定為反彈提供基礎\n6. Breakeven通脹降至2.33% — 通脹預期下降，利好減息預期\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥 NOTABLE MOVERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【最大輸家（Jun 9）】\n\n1. MRVL：$288.85 → $266.88（-7.61%）盤中低$244.12！\n   • Catalyst：ByteDance ASIC deal令QCOM/MRVL同時受壓\n   • Marvell被市場定性為custom silicon競爭下的輸家\n   • 但盤中低見$244後大反彈至$266，低位有買盤\n\n2. AAPL：$301.54 → $290.55（-3.65%）盤中低$287.78！\n   • WWDC sell-the-news確認 — Siri AI reveal被市場解讀為underwhelm\n   • TD Cowen：given optimism into event, announcement came in shy of expectations\n   • 但關鍵細節：Apple將用Nvidia GPU via Google Cloud做AI — 對NVDA係另類利好\n   • Siri AI唔support中國市場，iOS 27延伸至iPhone 11 — 硬件升級催化減弱\n   • $287.78係盤中低位，代表恐慌性拋售，之後略有回穩\n\n3. TSLA：$408.95 → $396.68（-3.00%）盤中低$384.24\n   • Elon Musk稱正建造「比NVDA好2-3倍、成本僅1/10」嘅芯片\n   • 中國5月銷量反彈22%但市場未受落\n   • TSLA $384低位係重要技術位，若失守將進一步疲弱\n\n4. MSFT：$411.74 → $403.41（-2.02%）\n   • 連續多日受壓，AI開支回報質疑持續\n   • 利潤率受壓趨勢未改\n\n5. AVGO：$396.60 → $392.16（-1.12%）盤中低$370.33！\n   • 盤中跌至$370後強力反彈至$392，低位明顯有長線資金吸納\n   • HSBC維持看多+目標價上調\n\n6. QCOM：未在batch但據新聞跌8%至~$201\n   • ByteDance custom silicon deal衝擊qualcomm\n\n【相對強勢】\n• GOOGL：$363.31 → $364.26（+0.26%）— 逆勢微升！SpaceX IPO疊加效應\n• META：$585.39 → $584.59（-0.14%）— 接近持平，UBS睇好subscription thesis\n• NVDA：$208.64 → $208.19（-0.22%）盤中低$199.34！— $200整數關口考驗後反彈\n  • Apple選擇Nvidia GPU做AI雲端係大利好\n  • NVDA從$199.34反彈至$208.19 — V型反彈確認$200支持\n• MU：$949.28 → $935.89（-1.41%）盤中低$854.35後強力反彈！\n  • SK hynix/NVDA多年合作協議半導體記憶體前景確認\n  • 從$854低位反彈$81（+9.5%）到$935 — 典型分界線\n\n【板塊輪動信號】\n• XLV +1.26%創新高 — 醫療保健板塊成為資金避風港\n• XLP +1.24% — 必需消費連續兩週走強\n• XLF +0.94% — 金融股連續第四日跑贏科技\n• 對比：XLK -1.85%，SMH -1.19%\n• 差距擴大至3個百分點 — 輪動趨勢加速\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📰 NEWS THAT MATTERED\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【Confirmed Catalysts】\n\n1. 🍎 AAPL WWDC — Siri AI Reveal Underwhelms\n   • Apple用Nvidia GPU via Google Cloud（非自家晶片）做AI — 對NVDA利好，對AAPL自身chip story利淡\n   • Siri AI初期唔support中國、EU — 削弱即時TAM\n   • iOS 27延伸至iPhone 11 — 硬件升級誘因減弱\n   • Tim Cook最後一次WWDC主講 — 市場對接班人策略有保留\n   • Morgan Stanley維持睇好+目標上調，但TD Cowen話「shy of expectations」\n   • 收市後新聞：Apple stock -3.65%，盤中低-5%\n\n2. 🔌 ByteDance Custom Silicon Deal\n   • ByteDance推進自家AI ASIC — 打擊QCOM（-8%）及MRVL（-7.6%）\n   • 市場解讀：hyperscaler自研晶片趨勢對merchant silicon供應商不利\n   • MRVL盤中低$244暴跌15%後收復一半跌幅至$266\n\n3. 🔧 NVDA/SK Hynix Multi-Year Partnership\n   • SK hynix + NVDA共同開發下一代AI記憶體\n   • 確認HBM需求強勁，MU從$854強力反彈至$935\n   • NVDA CEO Jensen稱chip shortage持續\n\n4. 🤖 Elon Musk Chip Claims\n   • Musk話xAI正造「比NVDA好2-3倍、成本1/10」嘅芯片\n   • 市場未當真但壓住NVDA/TSLA情緒\n   • 同日SpaceX與Google簽署$30B/年AI雲端deal（$920M/月到2029年）\n\n5. 🌍 Iran-Israel 局勢\n   • Trump稱「2-3日內達成deal」\n   • 油價從$91.30跌至$89.61\n   • VIX曾飆至23.34反映地緣恐慌，但尾段回落\n\n6. 📊 OpenAI Confidentially Files for IPO\n   • AI IPO浪潮來臨（SpaceX 6/12, OpenAI, Anthropic）\n   • 市場開始消化equity supply wall\n\n7. 🇨🇳 China $295B AI Data Center Buildout\n   • 5年計劃，80%用國產芯片\n   • 對NVDA出口限制係風險但對國內半導體係利好\n\n【News Curator Calls Review（今早08:47）】\n✅ SMCI — 今日未大幅下跌，$7B融資overhang消化中\n✅ META — Truist subscription thesis +40% upside，今日-0.14%抗跌\n✅ GSK — 收購Nuvalent故事繼續，不受市場影響\n⚠️ USO/XLE — 油價續跌至$89.61，Hormuz disruption未解決但油價反跌\n⚠️ SMH — Semi短線受壓確認，但ASML創新高利好設備需求\n✅ AAPL — Siri AI反應兩極，短線弱長線catalyst仍在（準確預測）\n⚠️ BTC — 跌向$62K確認，今在$61.8K徘徊\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🎯 OPPORTUNITIES CARRY FORWARD\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n1. 🟢 NVDA $200 Support Tested & Held — Buy Signal\n   • 盤中低見$199.34後V型反彈至$208.19\n   • Apple選擇NVDA GPU做AI係重要確認 — 最大AI客戶之一\n   • SK hynix partnership確認HBM需求到2027年\n   • $200心理關口測試成功 — 技術面利好\n   • Catalyst：CPI明晚（若低於預期，NVDA可急彈）、SpaceX IPO（AI算力需求故事）\n   • Target：$218（前高）→ $236（52週高）\n\n2. 🟢 MU $854 Low Tested — Recovery Play\n   • 盤中低$854.35後大反彈9.5%至$935.89\n   • SK hynix deal對整個memory sector係利好\n   • MU 6/24業績前有上行催化\n   • Risk：半導體板塊若再跌，MU會跟隨\n\n3. 🟢 XLV Healthcare — Defensive Rotation Winner\n   • 連續創新高，今日+1.26%係最強板塊\n   • 醫療保險+藥物定價環境改善\n   • 市場不確定性下資金持續流入\n   • 適合做避險配置\n\n4. 🟢 XLF Financials — Rotation Continuation\n   • JPM連續多日走強，今日XLF +0.94%\n   • 10Y yield 4.56%利好銀行NIM\n   • 連續第四日跑贏科技 — trend confirmed\n\n5. 🔵 MRVL $244 Low — Oversold Bounce Candidate\n   • ByteDance news overdone？盤中低$244反彈至$266\n   • Stifel維持買入+目標價上調\n   • S&P 500納入效應（ETF資金流入）\n   • 但風險係custom silicon threat係結構性 — 不宜重倉\n\n6. 🔵 ORCL業績（今晚盤後）\n   • AI infrastructure bellwether\n   • Cloud backlog係關鍵指標\n   • 若業績好，可帶動整個AI基建板塊\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ RISKS / WATCHLIST\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【今晚/明早要睇實】\n\n⚠️ ORCL業績（盤後）— AI infrastructure最直接bellwether\n   • 若失望 → 半導體/雲端板塊第二波下跌\n   • 若beat → 確認AI capex故事，NVDA/AVGO受惠\n\n⚠️ CPI數據（明晚6/11 HKT）— 本週最重要macro event\n   • 核心CPI MoM共識+0.3%\n   • ≤+0.2% = risk-on大反彈，semis relief rally\n   • ≥+0.4% = 加息預期再升溫，成長股受壓\n\n⚠️ FOMC（週四晚）— 連同CPI決定6月方向\n   • 新主席Kevin Warsh首次FOMC — 措辭係關鍵\n   • 點陣圖：2026年減息路徑\n\n⚠️ SpaceX IPO（6/12 週五）— $1.77T史上最大IPO\n   • 吸走市場流动性\n   • 但可能係AI theme嘅催化劑\n   • Google $30B/年AI deal係正面signal\n\n【Overnight Risk】\n\n⚠️ 半導體板塊連續第二週下跌\n   • QQQ從6/4高點740.61跌至686.37（盤中跌幅-7.3%）\n   • 若CPI失望，semi可再跌5-10%\n   • SMH從640跌至554.66 — 技術面已超賣\n\n⚠️ AAPL $287.78低位 — 若失守$285將加速下跌\n   • WWDC disappointment持續消化\n   • 市場話Apple AI strategy仍落後\n   • 但$287-290區間有價值投資者吸納\n\n⚠️ BTC $61.8K — $60K保衛戰\n   • Strategy Inc再加1550 BTC\n   • 但槓桿清算風險未散\n   • 若跌穿$60K，風險偏好再受打擊\n\n⚠️ 伊朗局勢：停火談判脆弱\n   • Trump稱2-3日達成deal\n   • 但Hormuz海峽仍關閉，油價供應風險未解\n   • 美軍直升機墜毀顯示局勢不穩\n\n【持倉風險 — 不作持倉假設】\n⚠️ 若持有科技/半導體重倉，過去5日已承受重大損失\n⚠️ 若持有AAPL長倉，WWDC後-3.65%需重新評估AI thesis\n⚠️ CPI前不宜加大風險敞口\n⚠️ VIX 19.87仍處警戒水平，不宜all-in\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 MY TAKE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n一句總結：今日係「假反彈後的真正恐慌 → V型收復」，市場情緒極度分歧但$735支持位確認。\n\n今日個market講咗一個好重要嘅故事：SPY從$722.59 V型反彈、QQQ從$686.37反彈、VIX從23.34回落 — 低位有機構級別買盤。呢個唔係散戶momentum trade，而係長線資金喺恐慌中吸納。\n\n但輪動嘅結構性趨勢更加確認 — 連續第二週資金從科技/半導體流向醫療（XLV +1.26%新高！）、必需消費（XLP +1.24%）、金融（XLF +0.94%）、工業（XLI +1.13%）。AAPL WWDC失望進一步打擊科技情緒，MRVL/QCOM嘅custom silicon threat故事亦係semi sector嘅結構性逆風。\n\n最大嘅takeaway係**NVDA $200支持位測試成功** — Apple確認用NVDA GPU做AI係重大信號，SK hynix partnership確認HBM需求到2027。喺所有semi stock中，NVDA係最solid嘅recovery play。\n\n**但CPI（明晚）同FOMC（週四）先係真正嘅方向決定者**。今日嘅V型反彈可能只係short covering + dip buying，需要macro catalyst確認先可以持續。ORCL業績（今晚盤後）係第一個test。\n\nTomorrow's Bias: 短線中性偏謹慎。V型反彈係好sign但未確認趨勢逆轉。CPI前不宜加risk，但今日低位（SPY 722.59, QQQ 686.37）應該係短期底。保守啲嘅話，等CPI+FOMC結果先做major reposition。防守配置（XLV, XLP, XLF）仍然係最穩健嘅選擇。",
+      "risks": [
+        "CPI數據明晚 — 核心MoM +0.3%係生死線，超預期=成長股再受壓",
+        "FOMC週四 — 新主席Warsh首次會議，點陣圖減息路徑關鍵",
+        "ORCL業績今晚盤後 — AI基建bellwether，失望則半導體第二波下跌",
+        "AAPL $287.78低位若失守$285將加速下跌",
+        "半導體連續第二週跌，QQQ從高點盤中跌7.3%",
+        "SPX IPO 6/12 吸走流動性",
+        "VIX 19.87仍處警戒，不宜all-in",
+        "伊朗停火談判脆弱，Hormuz仍關"
+      ],
+      "my_take": "今日係經典嘅「panic selloff → V型收復」格局 — SPY從$722.59反彈、QQQ從$686.37反彈、VIX高見23.34後回落，低位有顯著機構買盤。AAPL WWDC sell-the-news（-3.65%）+ MRVL ByteDance ASIC驚嚇（-7.6%）繼續壓住科技情緒，但NVDA $200支持位測試成功（Apple確認用NVDA GPU做AI）和MU從$854暴力反彈9.5%係正面signal。最大結構性變化係板塊輪動確認—醫療（XLV +1.26%創新高）、必需消費（XLP +1.24%）、金融（XLF +0.94%）連續跑贏科技。明日CPI+FOMC決定6月方向，今晚ORCL業績係第一個測試。Short-term neutral leaning cautious — V型反彈係好sign但未確認趨勢逆轉。防守配置（XLV/XLP/XJF）仍然最穩健。"
     }
   ]
 }
