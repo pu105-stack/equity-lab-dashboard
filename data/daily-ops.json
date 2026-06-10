@@ -393,55 +393,6 @@
       "my_take": "Overall Bias: 🟡 Neutral — waiting for CPI+FOMC\n\n上週五恐慌拋售係overdone，但週一反彈failed — 市場未ready for sustained rally。SPY高開低走，AAPL sell-the-news，SMH反彈但成交縮 — 呢啲都係「唔信反彈」嘅信號。\n\n最大變數係CPI（明晚）vs FOMC（週四）嘅組合。CPI inline (0.3%) + FOMC dovish = risk-on。CPI hot + FOMC hawkish = risk-off。我最睇好嘅劇本係CPI inline + 停火協議落實 — 兩大不確定性同時移除 = 6月risk-on可持續。\n\n伊朗停火係最被低估嘅正面催化劑。Trump話2-3日搞掂，如果成事，最大地緣風險移除，油價回落利好通脹前景同消費者信心。\n\n部署：保持5-6成倉，能源回調係戰術買入機會，NVDA $205-210區間小注建倉（$35B晶片融資確認AI supercycle），LLY係最安全長倉。Avoid AAPL until $300 support confirmed。等CPI+FOMC後再加倉位。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-10",
-      "time": "08:47 HKT",
-      "status": "success",
-      "market_direction": "美伊衝突升溫（美軍再轟伊朗），市場風險偏好下降。半導體板塊遭做空，科技股回調。CPI（預期4.2%）週三出爐，bond market定價加息預期。油價因Hormuz緊張反彈，金價續跌。AI IPO巨浪來臨（SpaceX、OpenAI、Anthropic）",
-      "headlines": [
-        "ACTION: SMCI — $7B融資股價急跌，AI server訂單仍強，dilution overhang後可撈底",
-        "ACTION: META — Truist睇好新subscription model，$20B+ revenue潛力，40% upside",
-        "ACTION: GSK/NUVL — $10.6B歷來最大收購，強勢進軍oncology肺癌藥",
-        "ACTION: USO/XLE — 原油庫存跌9.1M barrels，美軍再轟伊朗，能源股值博",
-        "ACTION: SMH/SOXX — 半導體short interest急升，極端睇淡或係capitulation前兆",
-        "WATCH: AAPL — Siri AI反應兩極，EU被ban，短線弱長線catalyst仍在",
-        "WATCH: BA — Deliveries持續改善，turnaround有進展",
-        "WATCH: GM — Sodium-ion battery for data center，新growth vector",
-        "WATCH: BTC — 跌向$62K，資金流向AI，極端bearish",
-        "WATCH: RIVN — R2開始交付，make-or-break moment",
-        "NOTE: C/JPM — Trading revenue強，AI agent部署",
-        "NOTE: TOL — KBW upgrade，K-shaped經濟利好luxury homebuilder",
-        "NOTE: XOM/CVX — Alberta新建管道，加拿大能源出口升級",
-        "NOTE: NVDA/AMD — TSMC暗示加價，chip demand強勁",
-        "NOTE: SPY/QQQ — Macro風險升溫，bond market pricing Fed加息"
-      ],
-      "opportunities": [
-        "SMCI: $7B融資短期壓抑股價，但AI server需求冇放緩。Production capacity expansion係正數。等dilution overhang消化後可分段建倉",
-        "META: Truist $20B subscription thesis好solid。廣告收入穩定+subscription新引擎=dual engine growth。40% upside analysis合理",
-        "GSK: $10.6B收購Nuvalent改變oncology佈局。zidesamtinib係late-stage lung cancer藥，2026下半年launch。中長線利好",
-        "USO/XLE: 原油庫存急跌+美伊再衝突=短期油價向上risk。Hormuz disruption持續，supply squeeze未解決",
-        "SMH: Semiconductor短線受壓但ASML創新高反映設備需求好。Short interest extreme或觸發short squeeze"
-      ],
-      "analysis": "今日新聞有幾個主線：（1）美伊衝突升級— 美軍直升機被伊朗擊落後特朗普下令轟炸伊朗，Hormuz局勢再度緊張。油價反彈但 ceasefire 預期限制升幅。呢個係最大嘅 macro risk factor。（2）AI IPO 浪潮 — SpaceX 呢週IPO，OpenAI 同 Anthropic 相繼 filing。整體 AI 行業 capital raising 如火如荼，但短期對二級市場資金有擠出效應。（3）半導體板塊回調 — Short interest 急升，Cramer 話 tech losing leadership。但 ASML 創歷史新高，反映設備需求仍然旺盛。極端看淡情緒可能係觸底信號。（4）CPI 星期三出爐 — 預期 4.2%，bond market 已經 pricing Fed 加息。呢個係 short-term market catalyst。（5）Bitcoin 跌向 $62K — 資金流向 AI 股，risk-off 情緒蔓延。但極端 bearish sentiment 可能係 reversal signal。整體策略：短線防守為主（能源、defensives），等待半導體 capitulation 後撈底。",
-      "risks": [
-        "美伊衝突進一步升級導致油價急升、市場恐慌",
-        "CPI 高於預期（>4.2%）觸發加息恐慌",
-        "AI IPO 浪潮抽走二級市場流動性",
-        "半導體板塊 short squeeze 未出現前繼續下跌",
-        "Bitcoin 跌破 $60K 引發更大規模去槓桿"
-      ],
-      "my_take": "今日盤面信號 mixed。美伊衝突升級係最大變數，但市場似乎已部分消化（油價冇爆升）。Semiconductor 嘅 short interest extreme 值得留意 — 當所有人都睇淡一個 trade 嘅時候，往往係 reversal 嘅前夕。我會 focus 喺 (1) SMCI 等 dilution overhang 消化後慢慢建倉，(2) META 嘅 subscription thesis 好 solid，40% upside 合理，(3) 油股（XLE）做短線防守。CPI 星期三係關鍵 — 如果 core 低過預期，可以加 risk。Bitcoin 暫時唔掂，等 $58-60K 先考慮。",
-      "key_takeaways": [
-        "美伊再衝突，Hormuz緊張，油價反彈有限",
-        "半導體short interest急升，極端睇淡或見底信號",
-        "AI IPO巨浪：SpaceX/OpenAI/Anthropic相繼上市",
-        "CPI星期三出爐，預期4.2%",
-        "SMCI $7B融資係短期噪音，AI server需求不變",
-        "META Truist目標價40% upside，subscription新引擎",
-        "Bitcoin跌向$62K，資金流向AI"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-10",
       "time": "08:59 HKT",
@@ -476,6 +427,85 @@
         "伊朗停火談判脆弱，Hormuz仍關"
       ],
       "my_take": "今日係經典嘅「panic selloff → V型收復」格局 — SPY從$722.59反彈、QQQ從$686.37反彈、VIX高見23.34後回落，低位有顯著機構買盤。AAPL WWDC sell-the-news（-3.65%）+ MRVL ByteDance ASIC驚嚇（-7.6%）繼續壓住科技情緒，但NVDA $200支持位測試成功（Apple確認用NVDA GPU做AI）和MU從$854暴力反彈9.5%係正面signal。最大結構性變化係板塊輪動確認—醫療（XLV +1.26%創新高）、必需消費（XLP +1.24%）、金融（XLF +0.94%）連續跑贏科技。明日CPI+FOMC決定6月方向，今晚ORCL業績係第一個測試。Short-term neutral leaning cautious — V型反彈係好sign但未確認趨勢逆轉。防守配置（XLV/XLP/XJF）仍然最穩健。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-10",
+      "time": "21:54 HKT",
+      "status": "success",
+      "market_direction": "Risk-off mood dominates: US inflation at 4.2% (3yr high) + US-Iran escalation + Fed hike fears = equities under pressure. AI/chip stocks leading downside. Oil spiking on geopolitical risk. Defensive rotation underway. World Cup starts tomorrow adding distraction risk.",
+      "headlines": [
+        "ACTION: SPY — US CPI surges to 4.2% in May — highest in 3 years, driven by Iran war energy shock | Headline CPI at 4.2% crushes disinflation narrative. Bond markets pricing in Fed hike. Risk-off across equities. Energy component from Iran war is structural, not transitory.",
+        "ACTION: XLE — US-Iran exchange strikes after helicopter downing — oil jumps, Hormuz transit recovering slowly | Escalation cycle resuming. US strikes Iran after Apache downed. Energy secretary says Hormuz transits climbing but full recovery months away. Oil spike is tradable but choppy.",
+        "ACTION: NVDA — Semiconductor shorts pile on as winning trade reverses — AI rally suddenly shaky | The crowded AI trade is unwinding. Oracle earnings tonight is the next test. NVDA leading downside. Semiconductor shorts surging. Cautious on semis into earnings.",
+        "ACTION: ORCL — Oracle earnings pose next test for suddenly shaky AI stock rally | ORCL is the AI bellwether tonight. After semis selloff, cloud capex commentary is critical. Miss = further AI rout; beat = stabilization. High-impact binary event.",
+        "ACTION: NKE — Nike downgraded by RBC — price target cut from $70 to $50 ahead of World Cup | RBC downgrade days before World Cup is telling. Turnaround under Elliott Hill taking longer. World Cup spending already priced in. NKE has further downside risk.",
+        "WATCH: SPCX — SpaceX IPO 4x oversubscribed — $85B+ raise; Gulf funds place billions in orders | Biggest IPO in history. Gulf sovereign demand strong. But some analysts calling it overvalued. Watch the listing dynamics — supply shock could pressure indices.",
+        "WATCH: GOOGL — Anthropic releases Claude Fable 5 to public — Mythos-class AI now accessible | Frontier AI model release accelerates competition. GOOGL Gemini 3.5 announced too. AI capex race continues. Positive for cloud providers but margin pressure increasing.",
+        "WATCH: BYDDY — BYD to spend €2B on 5-minute flash chargers across Europe | BYD aggressively expanding in Europe with ultrarapid charging. Direct threat to TSLA supercharger network. EU tariff dynamics key risk. Flash charging is game-changing if real.",
+        "WATCH: GLD — Gold slumps as inflation fuels Fed rate hike fears — Bitcoin and gold fall together | Gold selling off on rate hike expectations. Historically gold does badly in rising rate environments. But Iran escalation should support floor. Mixed signals.",
+        "WATCH: WHSMF — WH Smith shares tumble 19% on profit warning — Iran war hitting airport footfall | Travel retail casualty of Iran war. Airport footfall dropping. £100M equity raise. Could be a value trap or a deep value play if war ends. Too early to buy.",
+        "WATCH: APO — Apollo & Blackstone close $35B chip financing deal for Anthropic | Private credit at scale. $35B for AI chip infrastructure. Positive for APO/BX — shows private credit demand for AI-related debt. Recurring fee income story intact.",
+        "NOTE: JPM — Fed stress test results to be released June 24 — banks brace",
+        "NOTE: META — EU orders Meta to open WhatsApp to rival AI chatbots",
+        "NOTE: USO — China begins tapping oil reserves as Middle East crisis drags on",
+        "NOTE: RIVN — Rivian starts R2 SUV deliveries — critical launch moment",
+        "NOTE: GM — GM plans energy storage batteries for data centers and grid"
+      ],
+      "opportunities": [
+        "XLE/USO: 油價因美伊衝突急升，Hormuz海峽通行緩慢恢復，能源股短線有交易空間。CPI能源分項結構性推升，不宜short能源。",
+        "NKE: RBC downgrade喺世界盃前夕係強烈sell signal。Turnaround比預期耐，World Cup hype already priced in。Short NKE / buy puts。",
+        "QQQ/SPY puts: CPI 4.2% + Fed加息預期重燃 + AI股回調，大市短線下行風險增加。可考慮put spread。",
+        "ORCL: AI最後防線。今晚業績決定AI板塊短期方向。Binary event — straddle或者等結果再跟。",
+        "BYDDY: €2B歐洲充電基建投資係結構性利好。Flash charging技術如果成真，顛覆EV充電格局。適度long。"
+      ],
+      "analysis": "今日Asian/European session主要受三大因素主導：\n\n1. **US CPI 4.2%（三年新高）** — 能源價格受Iran戰爭推升係主因。Core CPI稍軟（0.2% MoM），但headline數字足以令市場重新定價Fed加息。Bond traders already pricing in 2026 hike。對growth stock / duration sensitive資產不利。\n\n2. **美伊衝突升級** — US downed Apache直升機後對伊朗發動空襲，伊朗反擊 targeting Bahrain/Jordan美軍基地。Trump警告Iran要「pay the price」。Oil immediately spiked。Hormuz海峽通行雖在恢復但需時數月。Energy secretary表示恢復正常要months。\n\n3. **AI/chip stock selloff** — 之前最擁擠嘅trade開始unwind。Semiconductor shorts surging。NVDA leading downside。Oracle做今晚last hope。Multiple contraction正在發生，尤其喺higher rate environment。\n\n其他重要信號：SpaceX IPO 4x oversubscribed但被部分分析師質疑overvalued；Anthropic推出Fable 5公眾版加速AI競爭；Nike被RBC downgrade；WH Smith受Iran war拖累profit warning跌19%；\n\n策略上：短線偏防守，reduce exposure to high-multiple tech，加能源/商品hedge。等等Oracle業績再決定AI倉位方向。",
+      "risks": [
+        "US-Iran conflict unexpectedly de-escalates → oil crash reverses energy trade",
+        "Oracle earnings beat big → AI short squeeze resets the whole thesis",
+        "Fed pivots dovish on CPI (looking through energy spike) → rates rally",
+        "World Cup distraction → lower volume, erratic moves",
+        "SpaceX IPO sucks liquidity from other names"
+      ],
+      "my_take": "Short-term bearish bias。CPI + Iran + AI unwind三重打擊，市場需要消化。Oracle今晚業績係關鍵分水嶺：\n\n- Beat + 上調指引：AI short squeeze，NVDA/ORCL急彈，大市反彈\n- Miss + 保守指引：AI capitulation，QQQ跌5%+，rotation加速\n\nMy base case: Oracle delivers mixed — in-line revenue but cautious cloud capex commentary。市場失望，AI繼續下行但唔會崩潰。建議：\n1. Reduce tech exposure / hedge with QQQ puts\n2. 加能源 (XLE) exposure play Iran escalation\n3. 睇位short NKE (World Cup disappointment play)\n4. 留意BYDDY structure long機會\n\nMidterm election risk building (Maine primary: progressive Platner won) + Social Security insolvency timeline accelerating = more macro uncertainty ahead. Keep powder dry. Keep positions small and defined risk.",
+      "key_takeaways": [
+        "CPI 4.2% = Fed rate hike expectations return = 不利growth/momentum",
+        "US-Iran strikes escalation = oil bull case intact, energy overweight",
+        "AI/chip selloff intensifying — Oracle earnings is the next catalyst",
+        "Nike downgrade pre-World Cup = structural concern, not just cyclical",
+        "Defensive positioning recommended — reduce leverage, add hedges"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-10",
+      "time": "22:13 HKT",
+      "status": "success",
+      "market_direction": "Bearish — CPI shock + AI unwind keeps risk-off, but not collapsing",
+      "headlines": [
+        "CPI 4.2% shock仍主導市場，債息升至4.56%",
+        "ORCL收市後業績 — AI板塊信心投票",
+        "VIX spike到22.53後回落，恐慌被absorb但未clear",
+        "Energy (XLE) 唯一有相對強度板塊",
+        "NKE downgrade + World Cup = sell the news risk",
+        "Gold狂瀉-6.8%單週，rate hike fear殺所有避險"
+      ],
+      "focus": [
+        "ORCL — 今日最大binary event，決定AI方向",
+        "XLE — Iran escalation持續，能源有勢",
+        "NVDA — 等ORCL業績後再部署",
+        "NKE — 短線short opportunity around World Cup",
+        "SPY 730 support — 守住則橫行，失守則加速"
+      ],
+      "analysis": "🌍 隔夜市場\n\n• SPY: 736.64 (-0.06%) — 上週五CPI shock急跌後，嚟緊三日橫行。今日低開731.5後反彈回736，買盤喺732水平出現。\n• QQQ: 707.26 (-0.08%) — 科技股仍係重災區，上週五-4.8%重創後未回穩。NVDA今日 intraday 低見204.28，AI 賣壓持續。\n• DOW: 50699.55 (-0.34%) — 相對抗跌，但都守唔住51000關口。\n• VIX: 20.48 — 今日 intraday 曾急升至22.53（10:30 ET附近有panic selling），其後回落到20水平。市場驚魂未定但非恐慌。\n• Nikkei 225: 64179.27 (-1.89%) — 亞洲盤全面下跌，日本市場跟隨美股科技弱勢。\n• HSI: 24407.96 (-0.64%) — 港股持續受壓，地緣風險 + 美息上升打擊。\n• STOXX 50: 6056.96 (+0.12%) — 歐洲靠穩，未有跟跌。\n• 10Y Treasury: 4.56% (+9bp from last week) — CPI 4.2%後債息飆升，Fed加息預期重新定價。\n• 2Y-10Y Spread: 0.40% (bear steepening) — 通脹預期主導，唔係增長樂觀。呢種 steepening 對 equities 唔友好。\n• TLT (長債ETF): 85.22 — 債券仍在尋底，但今日微升0.12%。\n• Gold (GLD): 383.39 — 單週-6.8%！加息預期打擊金價，Iran 避險買盤不足以抵銷 rate hike fear。\n• Oil (USO): 133.53 (+1.70%) — Iran 局勢支撐油價，今日反彈。但波幅極大（上日-2.85%後今日+1.70%）。\n\n📡 今日重點事件\n\n• 🚨 ORCL 收市後業績 — 今日最大事件。AI 板塊嘅信心投票。上日低見198.18（從236.34高位累跌16%），市場已經priced in worst。但只要指引弱，AI capitulation 就會加速。\n• US CPI 4.2% 繼續消化 — 上週五數據後市場重整加息預期，Fed watch 定價6月加息概率升。\n• US-Iran 局勢持續 — 互換打擊後，Hormuz 航道回復緩慢。\n• World Cup 明日開鑼 — 短期 distraction risk，但對NKE等消費股有潛在 downside catalyst。\n• 無重大經濟數據今日 — 焦點全在 ORCL。\n\n🔥 Sector Watch\n\n• ✅ Energy (XLE 58.21, +1.43%) — 今日唯一明顯上升板塊。Iran 局勢 + oil 反彈支持。相對強度正在建立。避險資金流入。\n• ❌ Technology / Semis — 最大 risk sector。QQQ 上週五 -4.8%，NVDA 由218跌到205（-6%），ORCL pre-earnings 跌16%。AI 擁擠交易正在 unwinding。\n• ❌ Gold Miners / Precious Metals — GLD -6.8% 單週，加息預期重創。\n• ⚠️ Consumer Discretionary — NKE downgrade (RBC cut to $50 from $70) + World Cup可能係sell the news event。\n• ⚠️ Financials — Fed stress test Jun 24，銀行股有監管事件風險。\n\n🎯 Pre-market 機會（從 News Curator Consolidate）\n\n• NVDA (205.80) — 今日intraday低見204.28後回穩205.80。AI selloff 仍未結束，但短期超賣。ORCL 業績後若反彈，NVDA 可能短線 bounce。唔好撈底住 — 等ORCL業績確認方向。\n• ORCL (208.70) — 今日最大binary event。pre-earnings 已跌16%，市場定價悲觀。策略：若業績後跌穿198（今日低位），加速下行風險 > 撈底。若beat + cloud capex正面，AI short squeeze 可至225+。建議睇定啲，唔好pre-position。\n• XLE (58.21) — Iran escalation 持續 + oil volatility = energy 有勢。今日+1.43%確認相對強度。可長倉，止蝕56.50。\n• NKE (44.40) — 有趣地，RBC downgrade後NKE反而由42.98反彈到44.40 (+3.3%)。可能係short covering。但World Cup開鑼後，sell the news風險增加。Short 嘅話等反彈到46再加倉。\n• BYDDY (11.06) — 今日再跌 (-0.72%)，連續5日下跌（由11.65到11.06，-5.1%）。歐洲 €2B flash charger 投資係長期positive，但短期市場 risk-off 壓低股價。結構性long機會 — 等市場穩定後建倉。\n• GLD (383.39) — 極端超賣（單週-6.8%），但rate hike fear 壓過避險需求。唔好接飛刀住 — 等CPI data消化完畢。\n• APO (留意) — Private credit AI chip deal ($35B) 係 structural positive。若AI selloff拖低APO，係買入機會。\n\n📋 Today's Agenda\n\n• 9:30 AM ET — US market opens (currently trading)\n• After Close — ORCL earnings (critical AI bellwether)\n• 本週餘下催化劑：\n  - 週四: PPI, 初次申領失業金\n  - 週五: U of Michigan 消費者信心\n  - 下週: Fed decision (CPI數據重塑加息預期)\n• SPY Key Levels:\n  - Support: 731.50 (今日低位), 722.59 (上日低位), 700 (psychological)\n  - Resistance: 737-740 (近日橫行頂部), 745 (pre-CPI水平)\n\n💡 My Take\n\nShort-term bearish, 但唔係全面恐慌。\n\nCPI + Iran + AI unwind 三重壓力仍在。市場由上週五開始進入risk-off mode，VIX企穩20+。但留意幾點：\n\n1. SPY今日低開731.50後有買盤承接，收窄跌幅 — 736做咗個temporary floor。\n2. VIX 今日 intraday spike 到22.53後回落至20.48，顯示恐慌性賣盤被absorbed。\n3. Energy (XLE) 有相對強度，資金正rotation out of tech into energy/defensives。\n4. 美股正喺消化期，唔係崩潰。ORCL 業績係 key decision point。\n\nBase case：市場短線繼續受壓，SPY 測試 730 support。但除非 ORCL 業績災難性，否則唔會直線跌穿 720。\n\n策略：\n1. 🟢 Long XLE / Energy — Iran escalation 未解決，oil有支持\n2. 🔴 唔好撈底 AI/tech — 等ORCL業績確認方向\n3. ⚪ 睇位short NKE — World Cup buy the rumor, sell the news play\n4. ⚪ 留意BYDDY structure long 機會 — 等risk-off settling\n5. 🟢 Hold cash / 低 exposures — 保持彈性應對ORCL binary event\n\n最重要嘅一句：Oracle 業績決定今個星期餘下時間嘅market direction。唔好喺binary event前over-commit。\n",
+      "risks": [
+        "ORCL miss + 保守指引 → AI capitulation, QQQ跌穿680",
+        "Fed加息預期升溫 → bond market繼續selloff, equities multiple compression",
+        "US-Iran 進一步升級 → oil spike, risk-off惡化",
+        "Gold 跌勢未止 → 避險資產失靈信號",
+        "World Cup distraction → 低流通量 + 異常波動"
+      ],
+      "my_take": "Short-term bearish bias. CPI 4.2% shock + Iran escalation + AI unwind triple threat keeps market in risk-off mode. SPY found intraday support at 731.50 but no conviction to rally. VIX spike to 22.53 then fade to 20.48 shows panic being absorbed but not cleared. Energy (XLE) is the only sector showing clear relative strength — rotation out of tech into defensives/commodities is the dominant narrative. Today is all about ORCL earnings after close — it's the AI bellwether test. A beat + positive cloud commentary could trigger a sharp AI short squeeze (NVDA/ORCL to 225+). A miss accelerates AI capitulation and QQQ tests 680. Base case: mixed/neutral ORCL, market drifts lower but doesn't crash. Keep powder dry, stay small, wait for ORCL clarity."
     }
   ]
 }
