@@ -15,7 +15,7 @@ export default function App({ Component, pageProps }) {
     { href: '/deep-dive', label: 'Deep Dive Candidate' },
     { href: '/deep-dive-results', label: 'Deep Dive Result' },
     { href: '/charts', label: 'Charts' },
-
+    { href: '/long-trade-system', label: 'Long Trade System' },
     { href: '/system', label: 'System' },
   ]
 
