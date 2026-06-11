@@ -499,56 +499,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-11",
-      "time": "08:09 HKT",
-      "status": "success",
-      "market_direction": "伊朗戰事升級＋CPI 4.2% 3年新高＝滯脹恐慌。美股科技股大跌1%+，資金避險但黃金同步下跌（流動性擠壓）。油價因霍爾木茲危機飆升。債市定價Fed年内加息。全市場risk-off。",
-      "headlines": [
-        "ACTION: ORCL — Oracle Q4 beats but stock drops on $70bn capex+$40bn new raise. Capex shock signals AI spending arms race but dilutes equity.",
-        "ACTION: SPACEX — IPO 4X oversubscribed, Gulf SWFs piling in. But Renaissance says 114% overvalued, Warren calls for SEC delay.",
-        "ACTION: OIL — US/Iran war escalates: Hormuz Strait threatened, tankers running dark. Oil surges; traders shorting as if crisis is over.",
-        "ACTION: C — Trump endorses Citi, stock outperforms down market. Best performing bank stock on Trump praise.",
-        "ACTION: ANTH — Apollo+Blackstone raise $35bn chip financing for Anthropic. Massive AI infra bet signalling compute demand is real.",
-        "WATCH: AMZN — Amazon borrows $17.5B from banks for AI spend + trucking expansion sparks freight sell-off.",
-        "WATCH: NEURA — German humanoid robotics startup raises $1.4bn from Nvidia, Amazon. Humanoid robotics race heats up.",
-        "WATCH: NKE — Nike downgraded day before World Cup kickoff. Stock underperformance despite mega-event catalyst.",
-        "WATCH: GOLD — Gold sliding 3rd day; analysts say pain may last 2 years. XAUUSD hit $4100 target then reversed.",
-        "WATCH: LMT — Lockheed cannot say when allies will get Patriot missiles. Defense production meeting at White House.",
-        "WATCH: CPI — Inflation hits 4.2% (3yr high); bond traders price in Fed HIKE in 2026. Trump says 'I love the inflation'.",
-        "WATCH: BOJ — Governor Ueda hospitalized, will miss June meeting. BOJ policy uncertainty.",
-        "WATCH: MRNA/Parabilis — Cancer drugmaker surges 58% in US trading debut. Biotech IPO momentum.",
-        "NOTE: AI infra spending — Oracle $70bn, Amazon $17.5bn, Apollo/Blackstone $35bn. AI capex cycle accelerating across hyperscalers and private credit.",
-        "NOTE: Taiwan test-fires US mobile rocket launchers into waters facing China. Cross-strait tensions rising.",
-        "NOTE: Pentagon expands blacklist of Chinese firms. Impact on Xi's US visit.",
-        "NOTE: Goldman flags tightening power grid in Texas amid rapid data center growth. Energy demand from AI infra.",
-        "NOTE: Xbox warns of 'reset' and prepares for layoffs. Microsoft gaming restructuring."
-      ],
-      "opportunities": [
-        "OIL: 伊朗戰爭升級＋霍爾木茲海峽實質封鎖風險。油價已升但空頭仍在加倉——若海峽真的受阻，軋空行情可期。USO/OIH是直接工具。",
-        "C: Trump公開唱好Citi爲\"top dealmaker\"，政治背書强勁。銀行股在risk-off環境中相對强勢。",
-        "ANTH: Apollo+Blackstone $35bn chip financing——私募信貸巨頭重注AI算力。機構資金信號極强。APO/BX作爲AI融資仲介持續受惠。",
-        "ORCL: $70bn CapEx shock令股價短期受壓，但長期AI數據中心需求確定性高。$40bn融資 dilute短期但支撑多年增長。跌深可考慮分批建倉。",
-        "LMT/NOC: 伊朗戰爭暴露導彈庫存問題——白宫召開國防生產會議。國防開支加速催化劑。"
-      ],
-      "analysis": "昨晚至今晨宏觀定調：美國CPI 4.2%（3年高點），核心CPI略低於預期但能源價格主導升幅。Trump「我喜歡通脹」言論引發政治爭議。伊朗方面，美軍第二輪打擊——打擊伊朗水庫/飲水設施，20萬人斷水。霍爾木茲海峽：Trump稱「秘密軍事任務」已運送2億桶石油通過，但伊朗關閉海峽予所有船隻——油輪轉用「暗航」（關閉AIS）。\n\n企業層面：Oracle Q4 beat但$70bn CapEx+$40bn新融資嚇怕市場——股價跌。SpaceX IPO 4X超購但估值爭議大。Apollo/Blackstone爲Anthropic籌$35bn芯片融資——史上最大AI融資之一。Amazon $17.5bn銀行貸款+進軍貨運威脅FDX/UPS。德國Neura Robotics獲$1.4bn（NVDA+AMZN參與）——人形機械人賽道升溫。\n\n宏觀：債市定價Fed年内加息。BOJ行長植田住院缺席6月會議。台灣首次對中國方向試射美國機動火箭系統。",
-      "risks": [
-        "伊朗戰事降溫——若 truce 重啟，油價短線急回",
-        "CPI持續攀升→Fed被迫加息→股市進一步殺估值",
-        "SpaceX IPO定價過高→上市後暴跌拖累整體IPO情緒",
-        "AI CapEx狂潮高峰期已過→NVDA等股盈利預期下修",
-        "BOJ行長住院期間日圓不確定性——日圓carry trade拆倉風險"
-      ],
-      "my_take": "今日市場主題好清晰：滯脹恐慌（Stagflation Fear）。CPI 4.2% + Iran war = 最差組合。有趣嘅係黃金同步跌——呢個係liquidity squeeze signal，唔係避險失效。資金要攞cash去cover margin call。\n\n我嘅重點睇法：\n1. 油股（XOM/CVX/OIH）係目前最好嘅macro hedge——戰爭溢價未完全反映，空頭倉位重有軋空潛力\n2. Citi係Trump trade——政治背書唔係成日有，C喺銀行股中相對strong\n3. AI infra theme不變——ORCL短痛長贏，跌係買入機會\n4. 留意今晚Fed minutes——核心CPI稍soft（0.2% mom）可能阻止加息預期進一步升溫\n5. 台灣導彈試射係低關注度但高風險事件——如果中國強烈回應，半導體股會受壓",
-      "key_takeaways": [
-        "滯脹交易主導——能源>防禦>科技",
-        "伊朗戰爭未有緩和跡象——油價risk premium應持續",
-        "AI CapEx狂潮繼續——Oracle/Anthropic融資確認需求",
-        "SPACEX IPO係近期最大事件風險——影響IPO市場整體情緒",
-        "BOJ不確定性——USDJPY可能再試165"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-11",
       "time": "08:38 HKT",
@@ -581,6 +531,82 @@
         "World Cup distraction = low liquidity, amplified moves"
       ],
       "my_take": "Bearish — Capitulation phase continues. SPY broke 730 support, QQQ approaching correction territory (-6.3% from peak). SMCI -28% is the canary in the coal mine for AI momentum unwind. GLD -9% in a week signals liquidity squeeze beyond just inflation fears. ORCL beat earnings but fell after-hours on capex worries — 'good news is bad' is a near-bottom signal but we're not there yet. Tomorrow: PPI + ORCL after-hours contagion could drive SPY to test 720. Strategy: Long XLE/Energy for stagflation hedge, avoid catching AI falling knives, wait for SPY to reclaim 730 before going long tech. The rotation from growth to staples/energy is the dominant narrative and it has legs."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-11",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "市場震盪偏弱：道指週三大跌900點後期貨反彈300點，美伊衝突升級+通脹4.2%+SPACEX IPO吸金三重壓力。半導體領跌、軟體股反彈夭折，資金從MAG7輪出。ECB即將加息，新Fed主席Warsh首次會議降息概率極低。伊朗封鎖霍爾木茲海峽推動油價飆升，黃金跌至6個月低點。市場處於risk-off模式。",
+      "headlines": [
+        "ACTION: SPACEX — SpaceX IPO: Preparing for the biggest liftoff yet? | 史上最大IPO明日定價，零售資金從Mag 7大規模流出轉投SpaceX，Hyperliquid永續合約定價$162（比IPO價高20%），但估值過高爭議大",
+        "ACTION: OIL (USO/XLE) — US and Iran exchange strikes across Middle East for second day in a row | 美伊第二輪交火，伊朗宣布封鎖霍爾木茲海峽，油價飆升，OPEC產量跌至2000年最低，分析師警告若停火破裂油價可達$150",
+        "ACTION: EUR/USD — Eurozone braces for first interest rate rise since 2023 as ECB battles inflation – business live | ECB自2023年以來首次加息，能源通脹壓力迫使收緊",
+        "WATCH: GLD — As gold's tumble continues, traders bet the pain may last for two more years | 金價跌至6個月低點，GLD從2月高點下跌25%，交易員押注痛苦可能持續2年，但伊朗局勢升級可能引發避險反彈",
+        "WATCH: ORCL — US Stocks Rebound; Oracle Falls on Spending Concerns; SpaceX IPO Pricing | Bloomberg Brief 6/11/2026 | 宣布$700億數據中心擴張但營收指引持平，股價盤後下跌，Seeking Alpha稱估值離譜",
+        "WATCH: SMH/SOXX — Dow futures rebound by 300 points as chip stocks bounce, oil prices ease: Live updates | 半導體空頭急增，最受歡迎交易突然反轉，晶片股領跌市場",
+        "NOTE: AI INFRA — China-based operatives used ChatGPT to shape AI data centers and tariff debates | Wall Street $8000億AI數據中心賭注出現裂縫，預計157GW中僅84GW能建成",
+        "NOTE: COPPER/ALUMINUM — Iran war tightens ‘super-squeeze’ in metals markets | 伊朗戰爭加劇金屬市場供應緊張",
+        "NOTE: MACRO — Trump says 'I love the inflation' as US prices rise at fastest rate in three years | CPI達4.2%創3年新高，Fed降息預期遙遙無期",
+        "NOTE: BTC — Corporate bitcoin buying has collapsed from $500 million per day to almost negligible | 比特幣礦工利潤率創歷史新低，機構每日賣出量達450%日產量",
+        "NOTE: CPNG — ‘South Korea’s Amazon’ hit with record fine over data breach | 因數據洩露被罰$4.09億，影響近三分之二韓國人口",
+        "NOTE: MRVL — Micron, Marvell drag the tech sector into a new bearish phase. Will the correction last this time? | Seeking Alpha認為Marvell比Nvidia更好的AI投資",
+        "NOTE: ANTHROPIC (private) — Apollo and Blackstone raise $35bn in chip financing deal for Anthropic | Apollo和Blackstone為Anthropic籌集$350億芯片融資",
+        "NOTE: UK GILTS — UK defence secretary resigns over spending plan | 英國國防大臣因預算問題辭職，政治不確定性升溫"
+      ],
+      "opportunities": [
+        "USO/XLE: 伊朗封鎖霍爾木茲海峽+美伊第二輪交火+OPEC產量跌至2000年最低。三重供應衝擊，油價有望突破$100甚至$150。交易員正在做空石油（認為危機已結束），這種自滿十分危險。戰術性做多原油。",
+        "GLD: 金價跌至6個月低點（$2100附近），GLD從2月高點下跌25%，處於嚴重超賣區域。伊朗局勢升級隨時可能觸發避險反彈。戰術性抄底黃金，止損設在$2000。",
+        "SPACEX IPO: 史上最大IPO，零售資金狂熱。首日可能暴漲20%+（永續合約暗示$162 vs IPO價$135）。但估值過高（研究稱高估114%），適合IPO首日短炒而非長期持有。",
+        "MRVL: 多家分析師認為Marvell是比NVDA更好的AI投資標的。NVDA今年回調後，MRVL在AI網絡和DPU領域的定位被低估。",
+        "OXY/CVX/XOM: 若油價持續飆升，美國頁岩油巨頭將是最直接受益者。OXY還有巴菲特持倉催化劑。"
+      ],
+      "analysis": "【地緣政治】美伊衝突顯著升級：美國連續第二晚轟炸伊朗，伊朗宣布關閉霍爾木茲海峽。日本首相表示7月石油進口100%避開霍爾木茲，印度轉向阿聯酋/非洲/巴西採購。OPEC產量跌至2000年最低（日均1613萬桶）。分析師警告若停火破裂，油價可達$150。\n\n【宏觀經濟】美國5月CPI達4.2%創3年新高，核心通脹持續頑固。Wolf Street指出CPI已超過2年期國債收益率，『超級核心』服務和電價驅動通脹。新Fed主席Warsh首次會議降息概率極低。ECB準備自2023年9月以來首次加息。\n\n【市場結構】道指週三暴跌900點後反彈300點。半導體空頭急增（最受歡迎交易反轉）。軟體股反彈夭折。SpaceX IPO吸金效應顯著：零售資金從MAG7和半導體ETF撤出轉投SpaceX。Evercore ISI策略師稱『melt up已開始』。\n\n【AI基礎設施】Oracle宣布$700億數據中心擴張但營收指引持平，股價受壓。Apollo/Blackstone為Anthropic籌集$350億芯片融資。KKR推出$100億數據中心基金。但247WallSt報告稱157GW規劃中僅84GW能建成，AI基礎設施泡沫風險浮現。\n\n【大宗商品】黃金跌至6個月低點（$2100附近），GLD從2月高點下跌25%，交易員押注痛苦可能持續2年。銅和鋁因伊朗戰爭出現供應『超級擠壓』。比特幣跌破$63,000，礦工利潤率創歷史新低，機構每日賣出量達450%日產量。",
+      "risks": [
+        "美伊局勢快速降溫（停火協議），油價急跌回歸",
+        "SPACEX IPO抽走市場流動性，引發MAG7進一步拋售",
+        "Fed Warsh首次會議意外鷹派（加息），債券收益率飆升壓垮風險資產",
+        "ECB加息引發歐洲債券市場動盪蔓延至全球",
+        "通脹持續高企→消費者支出放緩→盈利下修風險"
+      ],
+      "my_take": "本週市場有三條主線交織：(1) 美伊戰爭升級 - 這是最大變數。伊朗封鎖霍爾木茲海峽是game changer，全球每日約1700萬桶原油經過該海峽。油價有巨大上行風險，市場明顯低估了供應中斷的可能性（交易員仍在做空原油！）。能源板塊是當前最清晰的多頭機會。\n\n(2) SpaceX IPO - 歷史性事件，但對市場結構的影響可能比多數人意識到的更大。零售資金從Big Tech大規模流出轉投SpaceX，意味著MAG7短期可能繼續承壓。IPO首日大概率暴漲，但$135的定價已充分反映了樂觀預期。\n\n(3) 通脹+利率 - CPI 4.2% + ECB加息 + Fed新主席上任 = 利率環境持續收緊。黃金下跌有基本面支撐（實際利率上升），但短期超賣嚴重，伊朗風險提供了反彈催化劑。\n\n我的偏好：做多能源（USO/XLE），戰術性抄底黃金（GLD），減倉半導體（資金輪出+估值壓縮），SPACEX IPO首日短炒但要嚴格止盈。",
+      "key_takeaways": [
+        "石油是當前最清晰的多頭機會 — 霍爾木茲海峽關閉是供應衝擊級別的事件",
+        "SpaceX IPO將吸走大量市場流動性，短期利空MAG7和半導體",
+        "黃金嚴重超賣，伊朗風險提供反彈催化劑",
+        "通脹居高不下意味著利率『higher for longer』，債券市場壓力持續",
+        "AI基礎設施投資出現泡沫跡象 — 項目交付率可能遠低於預期"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-11",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bearish with tactical long opportunities (Energy/Gold)",
+      "headlines": [
+        "美伊衝突升級 + 霍爾木茲海峽封鎖 — 油價有巨大上行風險",
+        "SPY三日累計-4.2%，VIX高企21-23，市場處於risk-off模式",
+        "半導體領跌（SMH -9%），資金從MAG7大規模輪出至能源/防禦",
+        "SPACEX IPO今日首日交易 — 史上最大IPO，零售資金狂熱",
+        "CPI 4.2%創3年新高，Fed降息預期遙遙無期"
+      ],
+      "focus": [
+        "能源 (USO/XLE/OXY/CVX) — 三重供應衝擊，最清晰的多頭機會",
+        "黃金 (GLD) — $374超賣區，伊朗局勢可能觸發避險反彈",
+        "半導體 (SMH/NVDA/MRVL) — 資金輪出重災區，不要接飛刀",
+        "SPACEX IPO首日 — 市場流動性風向標",
+        "防禦板塊 (XLU) — 資金持續流入公用事業"
+      ],
+      "analysis": "🌅 Morning Scan — 6月11日（星期四）\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🌍 隔夜市場\n\n【美股收市 — 6月10日】\n• SPY: 725.43（-1.58%），五日累計 -4.2%\n• QQQ: 693.69（-2.0%），五日累計 -6.3%\n• DIA: 500.25（-1.8%），五日累計 -3.2%\n• 道指期貨今晨反彈約300點，市場嘗試技術性反彈\n\n市場連續三日急跌，VIX收22.22（週中曾觸23.34），今朝回落至20.76。恐慌情緒仍高但未到極端水平。\n\n【半導體 — 跌市重災區】\n• SMH: 570.91（-9.0% 五日）— 半導體領跌全場\n• NVDA現價$200.42，今日再跌-3.7%\n• MRVL五日暴跌-20.2%（252.59），昨收-5.4%\n• ORCL：201.26（-14.9% 五日），因Spending Concerns + SpaceX IPO分流資金\n\n半導體空頭急增，最受歡迎交易突然反轉，晶片股領跌市場。資金從MAG7大規模輪出。\n\n【能源 — 逆市抗跌王者】\n• USO: 134.30（+2.3% 今日），五日僅-1.8%\n• XLE: 58.25（+1.5% 今日），五日-0.9%\n• CVX: 189.80（+0.8% 五日）— 逆市上升！\n• OXY: 57.10（+1.0% 今日）\n• XOM: 150.62（-0.9% 五日）\n\n伊朗封鎖霍爾木茲海峽 + 美伊第二輪交火 + OPEC產量跌至2000年最低 = 三重供應衝擊。能源是當前最清晰的多頭機會。\n\n【商品】\n• GLD: 374.58（-4.1% 今日，-8.9% 五日）— 金價跌至6個月低點\n• USO日內高低波幅擴大（132.63→136.61），油價波動加劇\n\n【債券市場 — 利率繼續上行】\n• 2Y Treasury: 4.13%（+8bp 本週）\n• 10Y Treasury: 4.53%（+6bp 本週）\n• 30Y: 5.01%（+4bp 本週）\n• 10Y-2Y Spread: 0.40%（曲線輕微牛平）\n• 實質利率（10Y TIPS）: ~2.20%\n• Fed Funds: 3.64%\n\n債券市場定價加息預期升溫。CPI 4.2% + ECB加息 + 新Fed主席Warsh首次會議降息概率極低 = 利率環境持續收緊。\n\n【加密貨幣】\n• BTC: ~62,566 — 相對平穩，60-63K區間震盪\n• 礦工利潤率創歷史新低，機構每日賣出量達450%日產量\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n📡 今日重點事件\n\n1. CPI 4.2%效應持續消化 — 3年新高，Fed降息預期遙遙無期\n2. 美伊衝突升級 — 第二輪交火，油價上行風險巨大\n3. SpaceX IPO定價$135 — 史上最大IPO，今日首日交易焦點\n4. ECB議息會議 — 預計加息\n5. 英國國防大臣因預算問題辭職 — 政治不確定性\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🔥 Sector Watch\n\n【強勢 — 防禦/避險輪入】\n• 公用 (XLU): 44.00（+0.1% 五日）— 資金流入防禦板塊\n• 能源 (XLE): 58.25（-0.9% 五日）— 相對強勢明顯\n• 能源股逆市抗跌，資金持續流入\n\n【弱勢 — 資金流出重災區】\n• 半導體 (SMH): 570.91（-9.0% 五日）— 領跌，空頭急增\n• 科技 (XLK): 176.63（-8.6% 五日）— 全面拋售\n• 原材料 (XLB): 49.60（-3.9% 五日）\n• MAG7全面受壓，資金輪出至SpaceX IPO+能源\n\n【Rotation Signals】\n• Growth→Value rotation: 明顯\n• Tech→Energy rotation: 確認\n• Risk-off 模式已開，但未到panic level\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🎯 機會（從News Curator Consolidate）\n\n🔴 ACTION ITEMS — 今日重點跟進\n\n1. USO/XLE — 戰術性做多原油\n   三重供應衝擊仍在升級：霍爾木茲海峽封鎖 + 美伊交火 + OPEC產量20年低。\n   交易員仍在做空石油（認為危機已結束），這種自滿極度危險。\n   今日策略：油價若回調至$132附近（USO）可加倉。止損$128。\n\n2. GLD — 戰術性抄底黃金\n   金價6個月低點$374，GLD從2月高點下跌25%，嚴重超賣。\n   伊朗局勢升級隨時觸發避險反彈。市場忽略地緣風險。\n   今日策略：$370-375區間分批建倉，止損$355（$2000金價）。\n\n3. OXY/CVX/XOM — 美國頁岩油巨頭\n   若油價持續飆升，最直接受益者。\n   OXY有巴菲特持倉催化劑 + 5日走勢已顯示抗跌。\n   今日策略：OXY若回調至$56可加倉。\n\n4. MRVL — AI網絡低估標的\n   多家分析師認為MRVL是比NVDA更好的AI投資標的。\n   雖五日暴跌20%，但AI網絡和DPU定位未被充分定價。\n   今日策略：$250以下分批低吸，但不要急 — 半導體情緒仍差。\n\n🟡 WATCH ITEMS — 今日要睇實\n\n• SPACEX IPO首日交易：零售資金狂熱，永續合約暗示$162 vs IPO價$135。\n  首日可能暴漲20%+，但估值高估114%。適合短炒，嚴格止盈。\n  \n• ORCL：$700億數據中心擴張但營收指引持平，盤後下跌。\n  Seeking Alpha稱估值離譜。耐心等更好的入場點。\n\n• NVDA：今日再跌-3.7%，但marketaux sentiment仍bullish（+0.39）。\n  半導體拋售可能過度，但趨勢向下不要接飛刀。\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n📋 本週Agenda\n\n• SPY support: 720（6月5日低位735已跌穿，下個關鍵位720）\n• SPY resistance: 738-745區間\n• 若SPY守住720，技術反彈可期；跌穿720則下試700\n\nCatalyst Schedule:\n• 今日（6/11）：SpaceX IPO首日 / ECB決議\n• 下週：FOMC會議（Warsh首次主持）/ 更多Q1財報季尾聲\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n💡 My Take\n\n【Overall Bias: Bearish with tactical long opportunities】\n\n市場有三條主線，全部指向risk-off：\n\n(1) 美伊戰爭升級 — 最大變數。霍爾木茲海峽封鎖是game changer（全球每日1700萬桶原油經此），油價有巨大上行風險。市場明顯低估供應中斷可能性。\n\n(2) SpaceX IPO抽水效應 — 零售資金從MAG7大規模流出，短期MAG7繼續承壓。加上半導體板塊資金輪出，成長股短期不要接。\n\n(3) CPI 4.2% + ECB加息 + Fed新主席上任 — 利率環境持續收緊。黃金下跌有實際利率上升的基本面支撐。\n\n今日最緊要睇實：油價走勢（USO能否守住$132）和SPACEX首日表現。如果SPACEX首日不漲反跌，會係極大負面信號（反映市場資金乾涸）。\n\n持倉偏向：做多能源（USO/XLE/CVX），戰術性抄底黃金（GLD），減倉或避開半導體，SPACEX首日短炒嚴格止盈。\n\n⚠️ 注意：本週跌勢已連續三日，短期超賣嚴重，隨時有技術反彈。但反彈是做減倉機會，不是轉向信號。\n",
+      "risks": [
+        "美伊戰爭升級超出預期 — 油價突破$100甚至$150",
+        "CPI持續高企 + ECB加息 = 全球利率進一步收緊",
+        "SPACEX IPO首日表現不佳 = 市場資金乾涸的確認信號",
+        "半導體拋售擴散至整個科技板塊 — 可能觸發systematic selling",
+        "金價持續下跌若跌穿$355（GLD $355/$2000金價）則結構性破壞"
+      ],
+      "my_take": "市場短期處於bearish trend，但有三個值得關注的戰術機會：做多能源（USO/XLE）是當前最清晰的交易，伊朗供應風險遠未被定價；戰術性抄底黃金是第二個機會，超賣嚴重但有地緣風險催化劑；SPACEX IPO首日短炒是第三個機會，但要極嚴格止盈。\n\n半導體全面迴避。NVDA五日跌幅慘烈，但MVRL在$250以下值得分批關注其AI網絡定位。\n\n整體而言，risk-off主基調不變。技術反彈隨時會來（三日急跌後超賣），但反彈是減倉機會。SPY的關鍵分水嶺在720 — 守住則有反彈空間，跌穿則下試700。"
     }
   ]
 }
