@@ -607,6 +607,46 @@
         "金價持續下跌若跌穿$355（GLD $355/$2000金價）則結構性破壞"
       ],
       "my_take": "市場短期處於bearish trend，但有三個值得關注的戰術機會：做多能源（USO/XLE）是當前最清晰的交易，伊朗供應風險遠未被定價；戰術性抄底黃金是第二個機會，超賣嚴重但有地緣風險催化劑；SPACEX IPO首日短炒是第三個機會，但要極嚴格止盈。\n\n半導體全面迴避。NVDA五日跌幅慘烈，但MVRL在$250以下值得分批關注其AI網絡定位。\n\n整體而言，risk-off主基調不變。技術反彈隨時會來（三日急跌後超賣），但反彈是減倉機會。SPY的關鍵分水嶺在720 — 守住則有反彈空間，跌穿則下試700。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-12",
+      "time": "10:40 HKT",
+      "status": "success",
+      "market_direction": "市場等待SpaceX IPO定價，科技股回穩，油價因伊朗和談下跌，金價6個月低",
+      "headlines": [
+        "ACTION: SPACEX — SpaceX IPO今日上市，$135定價，史上最大IPO $75B",
+        "ACTION: INTC — Cramer稱Intel係「Number One」，比NVDA更重要，股價暴漲",
+        "ACTION: GLD — 金價跌至6個月低點$374，通脹擔憂但仍被拋售，注意伊朗避險反彈",
+        "WATCH: OIL — 美伊和談希望令油價下跌，但伊朗反駁稱deal未定，波動大",
+        "WATCH: COIN — Coinbase推出AI agent交易工具，可代客交易和支付",
+        "WATCH: ADBE — Adobe Q2業績出爐，分析師認為估值太低，值得關注",
+        "WATCH: ORCL — Oracle安全漏洞被駭客利用入侵100+公司，短期負面",
+        "WATCH: BTC — Big Tech跌市+油價波動，Bitcoin能否守住$60K？",
+        "NOTE: 全球經濟增長放緩至疫情以來最低 — World Bank警告",
+        "NOTE: FedEx作為經濟風向標發出混合信號",
+        "NOTE: 以色列對加沙發動 overnight 襲擊 — 地緣風險持續"
+      ],
+      "opportunities": [
+        "SPACEX: IPO首日短炒機會，$135定價vs永續$162，20%+潛在升幅但要嚴格止盈",
+        "INTC: Cramer催化劑+超賣反彈，半導體輪動可能",
+        "GLD: $374戰術性抄底，伊朗局勢隨時觸發避險反彈"
+      ],
+      "analysis": "## 🚀 SpaceX IPO — 今日焦點\n史上最大IPO $75B，$135定價，預測市場估計市值可達$2T以上。永續合約暗示$162 vs IPO $135。首日可能暴漲20%+，但估值高估114%嘅質疑聲都存在。散户分配僅20%，機構需求極強。\n\n## 💻 半導體/AI\nCramer力推Intel，稱「Number One」比NVDA更重要，股價暴漲。但半導體整體仍弱勢（SMH五日-9%）。OpenAI收購Ona強化Codex。Coinbase推AI agent交易工具。\n\n## 🛢️ 能源\n美伊和談有進展（特朗普稱「subject to finalization」），油價回落。但伊朗反駁deal未定，伊朗更威脅Elon Musk嘅企業。油輪CEO指霍爾木茲海峽若達成協議可快速恢復。\n\n## 📉 宏觀\n金價跌至6個月低點$374（-8.9%五日）。World Bank警告全球增長放緩至疫情以來最低。FedEx信號混合。市場仍消化CPI 4.2%。",
+      "risks": [
+        "美伊和談若失敗，油價將急升",
+        "SpaceX抽水$75B，市場資金進一步緊張",
+        "金價續跌反映市場對避險資產需求減弱",
+        "全球經濟放緩信號增多"
+      ],
+      "my_take": "SpaceX IPO係今日唯一真正催化劑。油價因和談消息回調，但deal遠未確定，伊朗反駁+威脅Elon Musk企業顯示局勢仍緊張。半導體有INTC催化劑但整體仍弱。金價$374吸引但冇避險買盤進場前唔好急。今日重點睇實SPACEX首日表現。",
+      "key_takeaways": [
+        "SpaceX IPO $135定價，史上最大$75B",
+        "Cramer推INTC：股價暴漲，「比NVDA更重要」",
+        "美伊和談進展但未確定，油價波動",
+        "金價6個月低點$374，通脹擔憂但仍被拋售",
+        "Coinbase推AI agent交易工具，OpenAI收購Ona"
+      ]
     }
   ]
 }
