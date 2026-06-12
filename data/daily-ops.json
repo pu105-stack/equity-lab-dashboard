@@ -609,51 +609,11 @@
       "my_take": "市場短期處於bearish trend，但有三個值得關注的戰術機會：做多能源（USO/XLE）是當前最清晰的交易，伊朗供應風險遠未被定價；戰術性抄底黃金是第二個機會，超賣嚴重但有地緣風險催化劑；SPACEX IPO首日短炒是第三個機會，但要極嚴格止盈。\n\n半導體全面迴避。NVDA五日跌幅慘烈，但MVRL在$250以下值得分批關注其AI網絡定位。\n\n整體而言，risk-off主基調不變。技術反彈隨時會來（三日急跌後超賣），但反彈是減倉機會。SPY的關鍵分水嶺在720 — 守住則有反彈空間，跌穿則下試700。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-12",
-      "time": "10:40 HKT",
-      "status": "success",
-      "market_direction": "市場等待SpaceX IPO定價，科技股回穩，油價因伊朗和談下跌，金價6個月低",
-      "headlines": [
-        "ACTION: SPACEX — SpaceX IPO今日上市，$135定價，史上最大IPO $75B",
-        "ACTION: INTC — Cramer稱Intel係「Number One」，比NVDA更重要，股價暴漲",
-        "ACTION: GLD — 金價跌至6個月低點$374，通脹擔憂但仍被拋售，注意伊朗避險反彈",
-        "WATCH: OIL — 美伊和談希望令油價下跌，但伊朗反駁稱deal未定，波動大",
-        "WATCH: COIN — Coinbase推出AI agent交易工具，可代客交易和支付",
-        "WATCH: ADBE — Adobe Q2業績出爐，分析師認為估值太低，值得關注",
-        "WATCH: ORCL — Oracle安全漏洞被駭客利用入侵100+公司，短期負面",
-        "WATCH: BTC — Big Tech跌市+油價波動，Bitcoin能否守住$60K？",
-        "NOTE: 全球經濟增長放緩至疫情以來最低 — World Bank警告",
-        "NOTE: FedEx作為經濟風向標發出混合信號",
-        "NOTE: 以色列對加沙發動 overnight 襲擊 — 地緣風險持續"
-      ],
-      "opportunities": [
-        "SPACEX: IPO首日短炒機會，$135定價vs永續$162，20%+潛在升幅但要嚴格止盈",
-        "INTC: Cramer催化劑+超賣反彈，半導體輪動可能",
-        "GLD: $374戰術性抄底，伊朗局勢隨時觸發避險反彈"
-      ],
-      "analysis": "## 🚀 SpaceX IPO — 今日焦點\n史上最大IPO $75B，$135定價，預測市場估計市值可達$2T以上。永續合約暗示$162 vs IPO $135。首日可能暴漲20%+，但估值高估114%嘅質疑聲都存在。散户分配僅20%，機構需求極強。\n\n## 💻 半導體/AI\nCramer力推Intel，稱「Number One」比NVDA更重要，股價暴漲。但半導體整體仍弱勢（SMH五日-9%）。OpenAI收購Ona強化Codex。Coinbase推AI agent交易工具。\n\n## 🛢️ 能源\n美伊和談有進展（特朗普稱「subject to finalization」），油價回落。但伊朗反駁deal未定，伊朗更威脅Elon Musk嘅企業。油輪CEO指霍爾木茲海峽若達成協議可快速恢復。\n\n## 📉 宏觀\n金價跌至6個月低點$374（-8.9%五日）。World Bank警告全球增長放緩至疫情以來最低。FedEx信號混合。市場仍消化CPI 4.2%。",
-      "risks": [
-        "美伊和談若失敗，油價將急升",
-        "SpaceX抽水$75B，市場資金進一步緊張",
-        "金價續跌反映市場對避險資產需求減弱",
-        "全球經濟放緩信號增多"
-      ],
-      "my_take": "SpaceX IPO係今日唯一真正催化劑。油價因和談消息回調，但deal遠未確定，伊朗反駁+威脅Elon Musk企業顯示局勢仍緊張。半導體有INTC催化劑但整體仍弱。金價$374吸引但冇避險買盤進場前唔好急。今日重點睇實SPACEX首日表現。",
-      "key_takeaways": [
-        "SpaceX IPO $135定價，史上最大$75B",
-        "Cramer推INTC：股價暴漲，「比NVDA更重要」",
-        "美伊和談進展但未確定，油價波動",
-        "金價6個月低點$374，通脹擔憂但仍被拋售",
-        "Coinbase推AI agent交易工具，OpenAI收購Ona"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-12",
       "time": "11:03 HKT",
       "status": "success",
-      "market_direction": "大盤強力反彈 — SPY +1.7%, QQQ +3.4%, 半導體 +6.7%領漲",
+      "market_direction": "🟡 Technical bounce in risk-off context — SPY +1.70%, QQQ +3.38% after 4-day selloff; semis bounce (SMH +6.75%) leads but energy weak (-1.94%) on Iran talks; VIX 19.44 (-12.5%) fear cooling but not cleared",
       "headlines": [
         "SPY 737.76 (+1.7%) — 三日跌後強力反彈，VIX 22→19",
         "QQQ 717.12 (+3.4%) — 科技股領漲，半導體全面反攻",
@@ -667,7 +627,7 @@
         "INTC: Cramer催化劑，股價暴漲",
         "SPACEX: IPO首日表現 — 市場情緒溫度計"
       ],
-      "analysis": "## 🌍 美股收市 — 6月11日（星期四）\n\n### 大盤強力反彈\n• SPY: **737.76**（+1.7%），從5日低點725強力反彈\n• QQQ: **717.12**（+3.4%）— 科技股領漲\n• IWM: **290.41**（+3.0%）— 中小型股反彈最強\n• VIX: 22.22 → **19.44**（-12.5%）— 恐慌情緒大幅降溫\n\n### 半導體全面反攻\n• SMH: **609.45**（+6.7%）— Cramer推Intel催化劑\n• INTC: 股價暴漲，Cramer稱「Number One，比NVDA更重要」\n• 之前超賣的技術性反彈確認\n\n### 能源回落\n• USO: $134.30 → $128.83（-4.1%）\n• XLE: 58.25 → 57.12（-1.9%）\n• 美伊和談消息令油價急跌，但伊朗反駁deal未定\n• 油輪CEO：霍爾木茲海峽若協議可快速恢復\n\n### 金價技術反彈\n• GLD: $374.58 → $386.32（+3.1%）\n• 6個月低點後技術反彈，但仍未脫離弱勢\n• 實質利率2.20%，支撐美元\n\n### 債券市場\n• 10Y: 4.54% → **4.46%**（-8bp）\n• 利率回落支撑成長股反彈\n\n## 🚀 今日重點：SpaceX IPO\n史上最大IPO $75B，$135定價，預測市場估計市值$2T+\n散户分配僅20%，機構需求極強。今晚首日表現將決定市場情緒。\n\n## 🔥 Sector Flow\n• 轉向：半導體(SMH +6.7%)、中小型股(IWM +3.0%)\n• 輪出：能源(XLE -1.9%)，資金從避險回流風險資產\n• 本週板塊總結：通殺後半導體領反彈，能源一週仍正",
+      "analysis": "📊 Evening Review — 6月12日（星期五）\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. 📊 Market Recap\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【本週總結：CPI 4.2% Shock → 四日急跌 → 週四暴力反彈】\n本週市場係2026年最混亂嘅一週。週五CPI 4.2%觸發panic selloff（SPY -2.58%），週一WWDC後AAPL sell-the-news，週二V型反轉（VIX見23.34），週三SMCI -28% AI capitulation，然後週四迎來強力技術反彈。\n\n【今日（6月11日 US收市）】\n\n| 指數 | 收市 | 日變幅 | 週變幅（5日） |\n|---|---|---|---|\n| SPY | $737.76 | +1.70% | -1.43% |\n| QQQ | $717.12 | +3.38% | -0.03% ← 幾乎收復整週跌幅 |\n| DJI | $50,848.75 | +1.86% | -0.04% |\n| IWM | $290.41 | +2.96% | -1.03% |\n| VIX | 19.44 | -12.5% | -9.6%（上週21.51） |\n\n【盤中走勢】\nSPY開728.76，全日穩步上揚，高位觸及740.00，最終收737.76。同昨日（週三）725.43低位相比反彈+1.7%。但呢個反彈喺725有強力支持後發生，唔算conviction buying。\n\nQQQ表現最強！開699.29，收717.12（+3.38%）。從週三低位693.69反彈+3.4%，幾乎完全收復整週跌幅。半導體暴力反彈係主因。\n\n【板塊表現（6月11日）】\n\n| 板塊 | ETF | 日變幅 | 週變幅 | 備註 |\n|---|---|---|---|---|\n| 🟢 半導體 | SMH | +6.75% | +2.4% | 從570.91暴力反彈！ |\n| 🟢 科技 | XLK | +3.73% | -1.2% | 半導體帶動 |\n| 🟢 工業 | XLI | +3.24% | -0.5% | 週三-3.38%後強力彈 |\n| 🟢 小型股 | IWM | +2.96% | -1.0% | 跟隨反彈 |\n| 🟢 非必需消費 | XLY | +2.48% | +0.1% | TSLA +4.6%帶動 |\n| 🟢 醫療 | XLV | +0.81% | -0.1% | 相對平穩 |\n| 🟡 金融 | XLF | +0.75% | +0.1% | 週跌最少之一 |\n| 🔴 能源 | XLE | -1.94% | -2.4% | 和美談壓油價，本週最弱 |\n| 🔴 必需消費 | XLP | -0.26% | +2.2% | 避險資金部分獲利 |\n| ⚪ 公用 | XLU | +0.11% | +0.1% | 平穩 |\n| ⚪ 地產 | XLRE | -0.16% | +0.8% | 平穩 |\n\n【關鍵觀察】\n1. Semi暴力反彈（SMH +6.75%）主導今日行情 — INTC +9.3%係最大催化劑\n2. 能源（XLE -1.94%）係今日唯一明顯輸家 — 美伊和談消息壓油價\n3. Volume SPY 73.2M（高於正常40-50M但比週三86.8M低）— 反彈成交未爆\n4. VIX從22.22暴挫至19.44（-12.5%）— 恐慌顯著降溫，但仍>18警戒線\n\n【宏觀】\n• 10Y收益率：4.55%（6/10最新）— 本週從4.47升至4.55，利率上行壓力持續\n• T10Y2Y曲線：0.40% — 仍正但偏平，本週CPI 4.2%後無惡化\n• Fed Funds：3.62% — 按兵不動，市場定價6月加息概率<30%\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n2. 🔥 Notable Movers\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【今日最大贏家（>3%）】\n\n1. INTC：$107.04 → $116.96（+9.3%）🔥🔥🔥\n   • Cramer稱Intel係「Number One」，比NVDA更重要\n   • 股價暴漲，成交量184M（3x正常）— 極高關注\n   • 但Forward PE 75.87，trailing EPS -$0.60 — 純sentiment play\n   • 分析師目標價僅$93.17 vs 現價$117 — 已大幅高過target\n   • ⚠️ 短期momentum強，但估值脫離基本面\n\n2. AMD：$452.40 → $488.45（+8.0%）\n   • 半導體板塊全面反彈，AMD係GPU alternative play\n   • 從週三低位437.23反彈+11.7% — 超賣反彈典型\n\n3. MRVL：$266.88 → $280.31（+5.0% 週四）\n   • 來自ByteDance ASIC驚嚇後繼續修復\n   • S&P 500納入效應仍在\n   • 但從$288.85（週一收）仍低〜3%\n\n4. TSLA：$381.59 → $399.15（+4.6%）\n   • SpaceX IPO光環效應（Musk wealth effect）\n   • 從$380低位強力反彈，接近$400心理關口\n\n5. COIN：$153.97 → $160.43（+4.2%）\n   • Coinbase推出AI agent交易工具 — 可代客交易和支付\n   • 新產品催化劑，但crypto市場仍弱\n\n6. NVDA：$200.42 → $204.87（+2.2%）\n   • 相對弱勢反彈 — 只係跟隨板塊\n   • 仍然未收復$205心理關口\n   • $200支持位本週三次測試守住，但反彈力度弱\n\n【今日最大輸家】\n\n1. ORCL：$201.26 → $184.10（-8.5%）💀💀💀\n   • Oracle安全漏洞被駭客利用入侵100+公司\n   • 週三業績後已跌（capex/$40B raise concerns）\n   • 今日再因security breach暴跌\n   • 成交量63M（3x正常）— 機構減倉\n   • 從$236.34（6/2高位）一週跌至$184 = -22%！技術性熊市\n\n2. ADBE：$233.38 → $218.80（-6.3%）💀\n   • Adobe Q2業績後市場唔收貨\n   • 收$218.80，逼近52週低位$218.09\n   • Trailing PE 12.5x / Forward PE 8.3x / PEG 0.62 — 估值極低\n   • 分析師目標價$329（+50%）— 但市場focus喺growth放緩\n   • 高利潤率（gross 89%, operating 39%）, strong FCF $9.3B\n   • 係value trap定係deep value？傾向後者，但唔好接飛刀\n\n3. MSFT：$397.36 → $390.34（-1.8%）\n   • 即使大市反彈1.7%，MSFT仍然下跌！\n   • 從$428（6/5）一週跌至$390 = -8.9% — Mega-cap中最弱\n   • 接近52週低位$384 — 下個support $380\n   • AI開支回報質疑持續打壓\n\n4. XLE/Energy：-1.94%\n   • 美伊和談希望令油價回落\n   • 但伊朗反駁稱deal未定 + 威脅Elon Musk企業\n   • 油輪CEO：霍爾木茲海峽若達成協議可快速恢復\n   • 波動極大，但中線能源牛市結構未變\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n3. 📰 News That Mattered\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【News Curator Calls Review】\n\n1. INTC (Cramer催化劑) — ✅ 準確！+9.3%\n   News Curator今早話Cramer稱Intel係「Number One」\n   → 股價暴漲，半導體反彈領頭羊\n   完全命中\n\n2. ORCL (Security漏洞) — ✅ 準確！-8.5%\n   News Curator warn咗Oracle安全漏洞\n   → 駭客入侵100+公司，股價暴跌\n   風險警示命中\n\n3. ADBE (Q2業績) — ❌ 錯方向！估錯\n   News Curator話「分析師認為估值太低，值得關注」\n   → 但市場sell off -6.3%，跌至52週低位\n   分析師睇好但市場投反對票\n\n4. OIL (美伊和談) — ⚠️ 短線命中但方向未確定\n   和談希望確實在今日壓油價（XLE -1.94%）\n   但伊朗反駁稱deal未定 — 波動未完\n\n5. GLD ($374抄底) — ✅ 準確！+3.1%反彈\n   金價從$374.58反彈至$386.32\n   戰術性抄底機會確實在今日兌現\n\n【其他重點新聞】\n• SpaceX IPO定價$135 — 史上最大IPO $75B。永續合約暗示$162\n• World Bank警告全球經濟增長放緩至疫情以來最低\n• FedEx發出混合信號 — 經濟風向標唔明朗\n• 以色列對加沙發動overnight襲擊\n• Coinbase推AI agent交易工具\n• OpenAI收購Ona強化Codex\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n4. 🎯 Opportunities Carry Forward\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【高優先級】\n\n🎯 INTC（$116.96, +9.3%今日）\nCramer催化劑+半導體反彈龍頭。但Forward PE 76x，遠超分析師$93目標價。\n只適合momentum trading，唔係long-term hold。設止蝕$110。\n\n🎯 GLD（$386.32, +3.1%今日反彈）\n從$374 6個月低位反彈。伊朗局勢+全球經濟放緩=避險需求。\n$374可能係中期底部。戰術性long at $374-380 range，止蝕$365。\n\n🎯 ADBE（$218.80, -6.3%今日）\nTrailing PE 12.5x / Forward PE 8.3x / PEG 0.62 — 極端低估。\n89% gross margin, $9.3B FCF, 分析師target $329。\n但跌至52週低位$218.09，short-term trend係向下。\n等$215以下再考慮分批建倉。唔好撈底住。\n\n🎯 ORCL（$184.10, -8.5%今日）\nSecurity breach + capex concerns = double hit。一週-22%。\n$175-180係關鍵支持（2025年10月低位）。如果守住，值博率高。\n等$175-180買入區間，tight stop $170。\n\n【中優先級】\n\n🎯 MSFT（$390.34, -1.8%今日逆市跌）\nMega-cap中最弱。一週-8.9%。接近52週低位$384。\nAI開支回報質疑係結構性問題，但估值已回落。\n未到底。等$380再睇。\n\n🎯 XLE/Energy（$57.12, -1.94%今日）\n美伊和談短期壓油價，但deal遠未確定。\nOPEC產量2000年最低+全球經濟放緩=供應緊張邏輯未變。\n回調係加倉機會。等$56-57 range買。\n\n🎯 SPACEX IPO\n今日首日交易。$135定價，永續$162暗示20%+潛在升幅。\n首日短炒要嚴格止盈。機構需求強但估值爭議大。\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n5. ⚠️ Risks / Watchlist\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ 今晚要睇實\n1. SpaceX IPO首日表現 — 若差（低於$135），市場流動性訊號惡化\n2. 美伊和談進展 — 伊朗反駁稱deal未定。若談判破裂→油價急升\n3. 以色列-加沙發燒 — overnight襲擊後，局勢可能升級\n\n⚠️ 本週剩餘風險\n4. MSFT $384 support — 若跌穿，Mega-cap最後防線失守\n5. ADBE $218.09 52週低位 — 若break new low，software估值全面下修\n6. VIX仍在19.44 — 高於18警戒線，未到comfort zone\n7. World Bank增長警告 — 宏觀逆風確認，盈利下修風險上升\n8. CPI 4.2%效應未完全消化\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n6. 💡 My Take\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n本週總結：CPI 4.2% Shock → 四日急跌（SPY 757→725）→ 週四技術反彈（SPY +1.7%, QQQ +3.38%）。\n\n今日（週四US收市）嘅反彈係超賣後嘅機械式修復，唔係trend reversal。SMH +6.75%、INTC +9.3%、AMD +8.0%係short covering + 超賣反彈，唔係新資金入場。SPY成交量73M（低於週三86.8M）確認呢點。\n\n最重要嘅forward-looking observations：\n\n1️⃣ 半導體反彈最強但最脆弱 — INTC（PE 76x forward, 遠超target $93）係sentiment play，唔係fundamental turn。如果SpaceX IPO不如預期，semi leader轉為輸家。\n\n2️⃣ 資金輪動暫停但未逆轉 — XLP/XLV/XLU本週仍跑贏大市。週四嘅tech反彈只係短線，stagflation trade（做多能源/防禦，做空科技/工業）仍係主流。\n\n3️⃣ SPACEX IPO係今日最大變數 — 首日表現會直接影響市場情緒同流動性。好嘅話穩定risk appetite，差嘅話加劇資金緊張。\n\n4️⃣ MSFT係最被忽略嘅weak signal — 即使大市反彈1.7%，MSFT仍跌1.8%。一週-8.9%，逼近52週低位。如果Microsoft都頂唔住，mega-cap tech嘅AI故事動搖。\n\nTomorrow's Bias: 🟡 NEUTRAL with bearish tilt\n\n技術反彈有空間延伸到SPY $745-750（20/50日MA），但基本因素（CPI 4.2%, Iran war premium, World Bank growth warning）支持risk-off。策略上：做多能源/黃金dip，迴避追高半導體，等SpaceX IPO完成後再判斷方向。SPY $725係短期底，$720係牛熊分界。\n\nBiggest single thing: SpaceX IPO定價$135。如果首日收$150+，市場流動性改善，risk-on。如果平收或below，資金緊張信號確認。今晚就係答案。\n",
       "risks": [
         "反彈是否持續？今日可能係dead cat bounce",
         "SpaceX抽水$75B，市場資金進一步緊張",
@@ -680,6 +640,82 @@
         "INTC: Cramer催化劑+半導體輪動",
         "GLD: $374反彈至$386，伊朗避險仍有空間"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-12",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "Risk-on sentiment dominates — SpaceX IPO frenzy + Iran peace deal hopes drive equities higher. Oil plunges to 3-month lows, luxury stocks surge, ECB hikes rates. Market pricing in ~50% probability of US-Iran framework deal this weekend. Inflation expectations remain sticky, creating a wedge between bond and equity markets.",
+      "headlines": [
+        "ACTION: SPCX — SpaceX prices $75B IPO at $135/share — world's largest ever market debut",
+        "ACTION: USO — Oil slides to 3-month low on US-Iran peace deal optimism",
+        "ACTION: LVMH — Luxury stocks spike 5% on proposed US-Iran peace deal",
+        "ACTION: ADBE — Adobe hit by CFO departure, multiple analyst downgrades on ARR concerns",
+        "WATCH: AMD — Buy AMD shares as graphics chip sales boost earnings — Citi",
+        "WATCH: COIN — Coinbase launches tool for AI agents to trade crypto",
+        "WATCH: GLD — Gold slumps to 6-month low even as inflation fears rise",
+        "WATCH: AVAL — Avalanche Treasury Co starts trading on Nasdaq as crypto proxy",
+        "NOTE: ECB — ECB raises eurozone rates as Iran war stokes inflation",
+        "NOTE: DATA — Data center opponents blocked $130B in projects in 2026",
+        "NOTE: META — Meta dismantles $2B Manus deal on Beijing's orders",
+        "NOTE: BTC — Bitcoin holds $63K as ETF outflows linked to arbitrage not bearish",
+        "NOTE: DEF — European defence stock rally reverses on funding concerns"
+      ],
+      "opportunities": [
+        "SPCX: SPCX debuts on Nasdaq today at ~$1.77T valuation. Retail allocation cut to ~20%, synthetic SPCX on Solana trades at 30% premium. Massive demand + scarcity = likely first-day pop. However, $1.77T prici",
+        "USO: WTI breaks below key support as Trump claims deal framework near. If signed this weekend, Hormuz reopens → oil supply shock reversal. But Iran says 'nothing finalised'. Asymmetric setup — peace deal a",
+        "LVMH: LVMH +5%, luxury rallying on de-escalation. Iran deal reduces geopolitical risk premium → consumer confidence → luxury spending. Europe-exposed names benefit most. Momentum + catalyst.",
+        "ADBE: Adobe drops on CFO exit + 3 downgrades. ARR concerns + leadership change = near-term pain. But Adobe AI monetization (Firefly, Sensei) underappreciated. Buy dip if overshoots $350. Contrarian entry."
+      ],
+      "analysis": "今日新聞焦點完全被兩件事壟斷：SpaceX IPO 同伊朗和平協議。SpaceX 以 $135/股集資 $750億，創全球史上最大IPO，市值衝擊 $1.77T。散戶配額被削至20%，Solana 上合成 SPCX 溢價30%，反映需求極度旺盛。但估值需要 Starship、Starlink、火星殖民三個moonshots全部成功先撐得住。\n\n伊朗方面，Trump 聲稱『接近達成協議』，原油隨即暴跌至三個月低位。但伊朗官方話『未有最終結論』——市場可能超前定價和平紅利。如果週末未能簽署，油價將反向急彈。ECB 反而因伊朗戰爭通脹而加息，同市場預期嘅 Fed pivot 路徑形成矛盾。\n\n歐洲奢侈品股（LVMH +5%）同亞洲風險資產受惠於地緣風險降溫。避險資產（黃金跌至六個月低位）則被拋售。Adobe 因CFO離職被 downgrade，可能創造低吸機會。數據中心擴張面臨 $1300億項目被阻，基建成本上升風險浮現。",
+      "risks": [
+        "伊朗協議週末未能簽署，油價反向急彈重創航運及消費股",
+        "SpaceX 上市後流通量極低，波動率異常高，追高風險極大",
+        "ECB 加息顯示通脹頑固，若 Fed 被迫跟進將衝擊 risk assets",
+        "World Cup 期間流動性降低，異常價格波動風險上升"
+      ],
+      "my_take": "今日最清晰嘅信號係 oil 同 luxury 嘅 divergence——市場正在 aggressively price in 伊朗和平紅利。但呢個 trade 已經 crowded，entry timing 好重要。我會 prefer long USO 做 hedge（peace deal fails 嘅 tail risk），同時留意 ADBE 如果跌到 $350 附近可以開始建倉。SPCX 等第一波炒作冷卻、post-lockup 供應出清後再評估。ECB 加息同 Fed pivot 嘅分歧值得關注——如果 bond market price in 更高更久嘅利率，growth stocks 會受壓。",
+      "key_takeaways": [
+        "SpaceX IPO 主導市場情緒，估值脆弱，等冷卻後再參與",
+        "伊朗協議定價咗 50% probability，油價有 asymmetric upside risk",
+        "ECB 加息 vs Fed pivot 預期嘅矛盾係下週焦點",
+        "Luxury / consumer discretionary 係 peace trade 最佳載體",
+        "數據中心擴張受阻可能限制 AI infrastructure buildout 速度"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-12",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "🟡 Neutral with Bullish Lean — 美股反彈中，伊朗和平 + SpaceX 撐情緒，但 FOMC 不確定性限制 upside",
+      "headlines": [
+        "📈 SPY 737.76 (+1.70%) — 全面反彈，VIX 回落至 19.44",
+        "🚀 SpaceX SPCX 今日 Nasdaq 首掛 — 全球史上最大 IPO，$1.77T 估值",
+        "🛢️ WTI 跌至 $85（3 個月低位）— 伊朗和平協議預期壓油價",
+        "🇮🇷 Trump 稱伊朗協議框架接近，週末為關鍵窗口",
+        "💎 LVMUY +4.33% — 奢侈股 rally 持續，和平紅利 + 消費復甦",
+        "📉 ADBE 218.80 (-6.2%) — CFO 離職 + downgrades，等 $200-210 再評估",
+        "🇯🇵 日經 66,020 (+2.81%) / 🇭🇰 恒指 24,718 (+1.93%) — 亞洲跟升",
+        "🏦 FOMC 下週二-三會議 — 市場定價 100% 按兵不動"
+      ],
+      "focus": [
+        "SPCX: 今日首日掛牌 — market sentiment barometer",
+        "USO: 伊朗 peace deal asymmetric setup — tail hedge long",
+        "LVMUY: 奢侈股動能持續，止損 $112",
+        "ADBE: 跌過龍，等 $200-210 分注建倉",
+        "AMD: Citi bullish，$460-470 係 better entry"
+      ],
+      "analysis": "🌅 開市掃瞄 — 6月12日（星期五）\n\n────────────────────────────\n🌍 隔夜市場\n────────────────────────────\n\n【美股週四強勢反彈 — Risk-on 全面回歸】\n• SPY 收 737.76（+1.70%）— 從週三低位 725.43 強勁反彈，一舉收復前兩日失地\n• QQQ 收 717.12（+3.38%）— 納指反彈力度最大，科技股恐慌過後資金回流\n• DJI 收 50,848.75（+1.86%）— 道指同步反彈，金融+消費撐盤\n• VIX 回落至 19.44（-12.5%）— 恐慌情緒快速降溫，從週三 22+ 高點大幅回落\n\n關鍵觀察：週四的反彈有兩個特徵值得注意——\n(1) QQQ 反彈幅度（+3.38%）遠超 SPY（+1.70%），顯示此前被過度拋售的科技股開始吸引抄底資金；\n(2) VIX 從 22→19 代表期權市場認為最恐慌時刻已過，但 19 仍高於正常水平（<15），市場未完全轉安。\n\n【亞洲時段（今早）— 全面跟隨美股反彈】\n• 🇯🇵 日經 N225：66,020（+2.81%）— 強勁跟漲，科技出口股領先\n• 🇭🇰 恒指 HSI：24,718（+1.93%）— 突破 24,500 阻力，成交放量\n• 亞洲市場今早全面 risk-on，呼應美股反彈+伊朗和平情緒\n\n【歐洲隔夜】\n• EWU（歐洲ETF）：46.90（+2.38%）— 歐洲股市反彈，奢侈股撐盤\n• EEM（新興市場）：67.50（+4.39%）— 強勁反彈，伊朗和平+美元走弱雙重利好\n\n【債券市場】\n• 10Y 國債：4.55% — 利率企穩，未有進一步上行\n• 2Y10Y 利差：0.40 — 倒掛持續但未惡化，衰退訊號中性\n• Fed Funds：3.62% — 利率預期不變\n• 關鍵：債市未有恐慌性避險買盤，反映市場相信伊朗事件有解決方案\n\n【美元 & 商品】\n• DXY：99.82（微跌）— 美元持續走弱，利好新興市場、商品、跨國企業\n• 🛢️ WTI 原油：$85.04（-3.1%）— 伊朗和平協議預期令油價急跌至 3 個月低位！今日亞洲盤再跌至 $85\n• 🥇 黃金：$4,224.60（+3.3% from 週四低位）— 從 6 個月低位 $4,090 反彈，但仍在弱勢區域\n\n【加密貨幣】\n• BTC：$63,440 — 守住 $63K，ETF 流出被解讀為套利交易平倉而非看淡\n\n────────────────────────────\n📡 今日重點\n────────────────────────────\n\n🔥 頭號事件：SpaceX（SPCX）今日在 Nasdaq 上市！\n• $75B 集資 — 全球史上最大 IPO\n• $135/share，估值約 $1.77T\n• 散戶配售僅 ~20%，Solana 上 Synthetix SPCX 溢價 30% 交易\n• 今日首日交易的開盤表現將影響整個市場情緒\n\n🔥 第二焦點：伊朗和平協議\n• Trump 稱框架接近達成，週末可能有協議\n• 伊朗重申「未有最終決定」\n• 若協議簽訂 → Hormuz 海峽重開 → 油價進一步受壓 → 通脹預期降溫 → 聯儲局減息空間\n• 若本週末無協議 → oil、defence、gold 反向急彈\n\n📅 經濟日曆（今日）\n• 週五，常規數據日 — PPI 或進出口物價可能發布\n• 下週二：FOMC 會議（6月16-17日）— 市場定價 100% 按兵不動\n\n📅 業績日曆\n• 無 major 業績 — ADBE 暴跌後市場關注其指引影響\n\n────────────────────────────\n🔥 Sector Watch\n────────────────────────────\n\n【🔥 Momentum — 有動力嘅板塊】\n\n① 半導體（反彈中）\n• AMD：$488.45（+7.96% from 週三低位 $452）— Citi 今日 bullish 報告加持，GPU 銷售動能強\n• QQQ 反彈 3.38%，半導體 ETF 同步跟進\n• 但 AVGO/MU 等尚未收復失地，板塊分歧仍大\n\n② 金融（XLF）\n• FEDFUNDS 3.62%，利差穩定\n• 利率 higher-for-longer 環境繼續有利銀行淨息差\n• 上週唯一正回報板塊，防守+進攻兼備\n\n③ 奢侈/消費（伊朗和平紅利）\n• LVMUY：$117.11（+4.33%）— 連續第三日上升，伊朗減壓 + 歐元強勢\n• 若和平協議簽訂，歐洲消費股有額外 upside\n\n【⚠️ Risk — 要小心嘅板塊】\n\n① 能源（XLE）\n• WTI 跌至 $85，3 個月低位\n• 若伊朗協議簽訂，油價可能測試 $80\n• 但若協議失敗 → 油價急速反彈至 $95+\n• 雙向風險極大，不宜重倉賭方向\n\n② 國防（DEF）\n• 歐洲國防股（Rheinmetall、Thales）回吐\n• 伊朗和平 → 國防溢價消退\n• 短線繼續受壓\n\n③ 房地產信託（DC REITs）\n• 數據中心項目受阻 $130B\n• 反數據中心情緒升溫 → DLR、EQIX 受壓\n\n────────────────────────────\n🎯 Pre-market 機會（從 News Curator Consolidate）\n────────────────────────────\n\n🎯 SPCX — SpaceX 今日首掛\n• 今日全球最矚目事件。$1.77T 估值係天花板價定價，但稀缺性（散戶得 20% 配額）支撐首日爆升\n• 部署：第一波炒作不追。等 post-lockup 供應出清、估值消化後再評估長倉。今日可觀察作為 market sentiment barometer\n\n🎯 USO / 能源 — 伊朗和平 Asymmetric Setup\n• 油價已跌至 $85，price in 相當高嘅和平概率\n• 但伊朗話「nothing finalised」\n• 部署：小注 long USO 做 tail hedge — 若協議失敗油價反彈 10%+，若協議成功損失可控。不對稱回報\n\n🎯 LVMUY — 奢侈股動能持續\n• LVMH +5%，和平紅利 + 歐洲消費復甦雙重推動\n• 部署：持倉可繼續持有，止損設 $112（週二突破位）。若今日回調可加倉\n\n🎯 ADBE — 跌過龍？等信號\n• 收 $218.80（-6.2%），盤中低見 $218 — CFO 離職 + 3 downgrades\n• ARR 放緩憂慮合理，但 Adobe AI monetization（Firefly、Sensei）被市場低估\n• 部署：等跌至 $200-210 開始分注建倉。今日不宜 rush — CFO 消息仲在消化中\n\n👀 AMD — Citi bullish，等 Q2 pre-announcement\n• 今日 Citi 出 bullish report，GPU momentum 強\n• 部署：$488 不算便宜，可等回調至 $460-470 水平再加。Q2 pre-announcement（7月）係關鍵 catalyst\n\n👀 COIN — AI Agent 交易平台\n• Coinbase 推出 AI agent 交易帳戶，Bernstein 睇好 World Cup 預測熱潮\n• 部署：$160 附近可建小注觀察。監管明朗化 + 新用例 = 中期 bullish\n\n👀 GLD — 黃金到底部未？\n• $4,224 仍低於 50 天線。如果 Fed pivot 或伊朗協議失敗，金價可快速反彈至 $4,400+\n• 部署：先唔入，等 PCE（6月27日）出完睇方向。若跌破 $4,000 先考慮 long\n\n────────────────────────────\n📋 本日議程 & Key Levels\n────────────────────────────\n\n【今週 Catalyst Schedule】\n• 6/12（五）— SpaceX IPO 首日 / 伊朗週末協議窗口\n• 6/16-17（二-三）— FOMC 會議\n• 6/27 — PCE 通脹數據\n\n【SPY Key Levels】\n• Support 1：725（週三低位）— 短線關鍵支撐\n• Support 2：737（前突破位轉支撐）\n• Resistance 1：745（50 天線）\n• Resistance 2：752（上週高位）\n\n【QQQ Key Levels】\n• Support 1：693（週三低位）\n• Support 2：705（前 support）\n• Resistance：725（50 天線）\n\n【VIX】\n• 19.44 — 回落中但未到安全區\n• 若跌破 18 → 確認恐慌退潮\n• 若反彈上 21 → 避險重臨\n\n────────────────────────────\n💡 My Take\n────────────────────────────\n\nOverall Bias：🟡 Neutral with Bullish Lean\n\n今日市場 set up 係「好淡角力」嘅格局——\n\nBullish 因素：\n✅ 美股週四全面反彈，VIX 回落 12%，顯示恐慌情緒見頂\n✅ 亞洲時段跟升，Nikkei +2.8%、HSI +1.9%\n✅ 美元弱勢支持風險資產\n✅ 伊朗和平預期 — 若週末協議簽訂，係 big positive catalyst\n✅ SpaceX IPO 成功 = sentiment boost for tech\n\nBearish 風險：\n⚠️ 油價急跌反映伊朗和平已被大幅 price in — 若協議失敗，反向風險巨大\n⚠️ VIX 仍在 19，市場未完全轉安\n⚠️ 10Y 4.55% 維持高位，growth stock 估值壓力持續\n⚠️ 下週 FOMC — 任何 hawkish surprise 都會壓制反彈\n⚠️ ADBE 暴跌令科技股信心脆弱\n\n今日最緊要睇實：\n1️⃣ SpaceX 首日表現 — 若收漲 20%+，市場情緒全面轉好；若破發，負面訊號\n2️⃣ 伊朗週末會否有協議 announcement — 今日尾盤 positioning 會反映\n3️⃣ SPY 能否守住 737、挑戰 745 — 決定下週走向\n\n改變之前 Thesis 嘅信號：\n上週半導體恐慌（AVGO -20%）後市場本週快速修復，證明 AI 相關嘅結構性需求未被破壞。伊朗和平紅利 trade（long luxury, short oil）已經 crowded，要小心 reversal。我認為 6 月整體偏牛，但短期波動會持續到 FOMC 明朗化。\n\n一句總結：Market 在伊朗和平 + SpaceX 亢奮和 FOMC uncertainty 之間擺動。Short-term tactical bullish，但保持靈活，等 FOMC 確認方向再加大 exposure。\n",
+      "risks": [
+        "伊朗協議失敗→油價急彈 10%+，crowded peace trade 反向",
+        "FOMC 下週 hawkish surprise 壓制反彈",
+        "VIX 仍在 19，市場未完全轉安",
+        "ADBE 暴跌拖累科技 sentiment",
+        "10Y 4.55% 限制 growth stock valuation"
+      ],
+      "my_take": "Overall Bias：🟡 Neutral with Bullish Lean\n\n今日市場 set up 係「好淡角力」格局。美股週四全面反彈（SPY +1.70%、QQQ +3.38%），VIX 回落至 19，亞洲時段跟升，美元弱勢支持風險資產。伊朗和平預期若本週末簽訂協議係 big catalyst。但油價已大幅 price in 和平紅利，若協議失敗反向風險巨大。10Y 維持 4.55% 壓制 growth stock。今日最緊要睇 SpaceX 首日表現、伊朗週末協議 window、SPY 能否守 737 攻 745。Short-term tactical bullish，保持靈活到 FOMC 明朗化。\n\n一句總結：Market 在伊朗和平 + SpaceX 亢奮和 FOMC uncertainty 之間擺動。"
     }
   ]
 }
