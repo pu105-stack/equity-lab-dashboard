@@ -716,6 +716,38 @@
         "10Y 4.55% 限制 growth stock valuation"
       ],
       "my_take": "Overall Bias：🟡 Neutral with Bullish Lean\n\n今日市場 set up 係「好淡角力」格局。美股週四全面反彈（SPY +1.70%、QQQ +3.38%），VIX 回落至 19，亞洲時段跟升，美元弱勢支持風險資產。伊朗和平預期若本週末簽訂協議係 big catalyst。但油價已大幅 price in 和平紅利，若協議失敗反向風險巨大。10Y 維持 4.55% 壓制 growth stock。今日最緊要睇 SpaceX 首日表現、伊朗週末協議 window、SPY 能否守 737 攻 745。Short-term tactical bullish，保持靈活到 FOMC 明朗化。\n\n一句總結：Market 在伊朗和平 + SpaceX 亢奮和 FOMC uncertainty 之間擺動。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-06-13",
+      "time": "06:41 HKT",
+      "status": "success",
+      "market_direction": "Neutral with Bullish Lean — VIX從22回落至19，SPY從725反彈至737。伊朗和平憧憬主導risk-on，但下週FOMC（6/16-17）係關鍵轉折點。",
+      "opportunities": [
+        "🎯 RKLB: SpaceX IPO光環+Nasdaq 100，space tech structural beneficiary",
+        "🎯 C: Trump trade+XLF rotation+加息環境",
+        "🎯 GLW: AI光纖bottleneck，hyperscaler合約疊加",
+        "🎯 LLY: GLP-1抗癌+新一代減肥藥positive data",
+        "📡 GOOGL: BRK/ARK買入signal但$85B dilution雙面",
+        "📡 ADBE: PEG 0.62 deep value，等$210以下",
+        "📡 NVDA: $200 support守三次，Apple deal利好但AI unwind未完",
+        "📡 MRVL: Jensen trillion-dollar call vs P/E 90x",
+        "📡 LVMUY: Peace deal rally但未confirm"
+      ],
+      "risks": [
+        "⚠️ MSFT: -8.9% weekly，最弱mega-cap，AI spend質疑",
+        "⚠️ ORCL: -22%技術熊市，security breach+融資稀釋",
+        "⚠️ NKE: 世界盃前降級，turnaround太慢"
+      ],
+      "analysis": "本週市場經歷了CPI 4.2% shock→四日急跌→週四暴力反彈嘅完整cycle。三條主線交織：(1) 美伊衝突升級→和平deal憧憬，油價急升急跌；(2) AI半導體capitulation（SMCI -28%）後暴力反彈（SMH +6.75%）；(3) SpaceX IPO史上最大，$1.77T估值抽走市場流動性。\n\n最清晰嘅信號係資金從科技/momentum輪出至能源/金融/防禦。XLF連續跑贏XLK，XLV創新高。市場開始揀winner/loser——「只要係AI就炒」嘅階段已經結束。\n\n下週焦點：FOMC會議（6/16-17）+伊朗和平協議窗口+SpaceX IPO後續表現。",
+      "my_take": "本週最重要嘅takeaway係：市場正在pricing in Iran和平紅利，但呢個trade已經crowded。我會overweight能源做hedge（peace deal fails嘅tail risk），同時留意ADBE如果再跌可開始建倉。GOOGL嘅BRK/ARK買入信號太強唔可以ignore，但$85B dilution係real嘅。半導體oversold bounce已發生，唔好追，等FOMC確認方向。\n\n最大conviction：RKLB（SpaceX溢出效應未完全反映）+ C（Trump trade+XLF rotation）+ ADBE（deep value，等$210以下）。",
+      "focus": [
+        "伊朗和平協議: LVMUY, USO, C",
+        "AI Capex揀winner: GOOGL, GLW, NVDA, MRVL",
+        "Deep Value: ADBE",
+        "Space Tech: RKLB",
+        "規避: MSFT, ORCL, NKE"
+      ]
     }
   ]
 }

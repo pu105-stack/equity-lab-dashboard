@@ -1,6 +1,90 @@
 {
   "decisions": [
     {
+      "ticker": "RKLB",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "SpaceX IPO光環效應+Rocket Lab加入Nasdaq 100。太空經濟已到轉折點，RKLB係唯一盈利嘅pure-play space stock，直接受惠SpaceX上市嘅溢出效應。Nasdaq 100納入觸發被動資金流入。",
+      "source": "🎯機會"
+    },
+    {
+      "ticker": "C",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "Trump公開唱好「top dealmaker」，強烈政治背書。銀行股（XLF）本週持續跑贏科技股，加息環境有利淨息差。Citi自身將SPX目標上調至8100，反映內部信心。相對強度確認。",
+      "source": "🎯機會"
+    },
+    {
+      "ticker": "GLW",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "Corning連續與AMZN/META/NVDA三大hyperscaler簽訂AI光纖連接合約。AI數據中心光纖連接係infrastructure bottleneck，GLW係picks-and-shovels中最被低估嘅一員。每次新deal都係catalyst。",
+      "source": "🎯機會"
+    },
+    {
+      "ticker": "LLY",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "GLP-1類藥物顯示抗癌潛力（NPR報導），新一代減肥藥positive phase 3 data。減肥藥TAM仍在快速擴大，競爭對手入場只是validate市場。防御性醫療板塊（XLV創新高）係資金避風港。",
+      "source": "🎯機會"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "BRK+ARK同步買入係極罕見信號，SpaceX 7.5%持倉間接受惠$1.77T IPO。$190B AI capex commitment確認demand遠超市場預期。但$85B股權融資稀釋+DuckDuckGo AI搜尋分流壓力構成雙面刃。",
+      "source": "📡值得關注"
+    },
+    {
+      "ticker": "ADBE",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "PEG 0.62、Forward PE 8.3x、毛利率89%、FCF $9.3B — 估值極低。但CFO離職+ARR放緩+分析師降級構成短期壓力。跌至52週低位$218，係value trap定deep value？傾向後者，但唔好接飛刀。",
+      "source": "📡值得關注"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "pending",
+      "updated_at": "2026-06-06",
+      "reasoning": "$200支持位本週三次守住，Apple選用NVDA GPU via Google Cloud做AI係大利好，SK Hynix多年合作確認HBM需求強勁。但AVGO事件後AI半導體估值重估未完，SMCI -28%顯示AI動能股capitulation風險。",
+      "source": "📡值得關注"
+    },
+    {
+      "ticker": "MRVL",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "Jensen封「下一家萬億公司」，S&P 500納入確認AI networking龍頭地位。但ByteDance自研ASIC衝擊custom silicon前景，盤中曾跌至$244（-15%）後反彈至$266。Forward P/E 90x估值極高，兩邊都有人撐。",
+      "source": "📡值得關注"
+    },
+    {
+      "ticker": "LVMUY",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "伊朗和平deal憧憬推升奢侈股+5%，和平紅利+消費復甦邏輯清晰。但deal遠未確定（伊朗官方潑冷水），若週末談判破裂將即時反轉。持倉止損設$112。",
+      "source": "📡值得關注"
+    },
+    {
+      "ticker": "MSFT",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "本週最弱mega-cap，從$428（6/5）一週跌至$390 = -8.9%。連大市反彈1.7%時MSFT仍跌-1.8%。AI開支回報質疑持續打壓，Xbox重組+裁員信號負面。接近52週低位$384，下個support $380。冇short-term catalyst。",
+      "source": "⚠️風險"
+    },
+    {
+      "ticker": "ORCL",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "三重打擊：安全漏洞入侵100+公司（-8.5%今日）+$40B debt+equity融資稀釋+Q1指引持平冇驚喜。從$236.34（6/2高位）一週跌至$184 = -22%技術性熊市。成交量63M（3x正常）— 機構減倉中。",
+      "source": "⚠️風險"
+    },
+    {
+      "ticker": "NKE",
+      "status": "pending",
+      "updated_at": "2026-06-12",
+      "reasoning": "RBC世界盃開鑼前降級（目標價$70→$50），turnaround需時。世界盃催化劑已完全price in，冇驚喜空間。CEO Elliott Hill turnaround比預期慢。股價$43.96弱勢，下行風險未完。",
+      "source": "⚠️風險"
+    },
+    {
       "ticker": "MSTR",
       "status": "pending",
       "updated_at": "2026-06-06",
@@ -83,14 +167,7 @@
       "updated_at": "2026-06-06",
       "reasoning": "Blackstone capping withdrawals from flagship $4.5bn private credit fund。Pimco警告信貸損失即將上升。呢個係systemic risk signal — 如果private credit unravel，會影響整個金融板塊。",
       "source": "theme"
-    },
-    {
-      "ticker": "CVX",
-      "status": "pending",
-      "updated_at": "2026-06-06",
-      "reasoning": "3條curator mention，consistent energy theme。伊朗戰爭 + Hezbollah truce collapse + US原油庫存2004年新低。Trafigura利潤double。油價處於inflection point。",
-      "source": "high_confidence"
     }
   ],
-  "last_synced": "2026-06-12T07:00:41.559533"
+  "last_synced": "2026-06-13T06:44:03.561631+08:00"
 }
