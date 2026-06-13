@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "RKLB",
-      "status": "pending",
-      "updated_at": "2026-06-12",
-      "reasoning": "SpaceX IPO光環效應+Rocket Lab加入Nasdaq 100。太空經濟已到轉折點，RKLB係唯一盈利嘅pure-play space stock，直接受惠SpaceX上市嘅溢出效應。Nasdaq 100納入觸發被動資金流入。",
-      "source": "🎯機會"
-    },
-    {
       "ticker": "C",
       "status": "pending",
       "updated_at": "2026-06-12",
@@ -169,5 +162,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T06:44:03.561631+08:00"
+  "last_synced": "2026-06-13T13:14:21.806424+08:00"
 }
