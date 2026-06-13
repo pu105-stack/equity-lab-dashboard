@@ -15,13 +15,6 @@
       "source": "theme"
     },
     {
-      "ticker": "AVGO",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "非portfolio，new discovery。$285bn市值蒸發後值得跟進。AI chip guidance miss係結構性定price in問題？如果AI infra spend長期thesis不變，呢個跌幅可能係買入機會。",
-      "source": "high_confidence"
-    },
-    {
       "ticker": "SATS",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -64,5 +57,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:18:33.099378+08:00"
+  "last_synced": "2026-06-13T15:24:31.069169+08:00"
 }
