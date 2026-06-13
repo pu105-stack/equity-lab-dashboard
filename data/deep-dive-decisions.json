@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "ADBE",
-      "status": "deep_dive",
-      "updated_at": "2026-06-12",
-      "reasoning": "PEG 0.62、Forward PE 8.3x、毛利率89%、FCF $9.3B — 估值極低。但CFO離職+ARR放緩+分析師降級構成短期壓力。跌至52週低位$218，係value trap定deep value？傾向後者，但唔好接飛刀。",
-      "source": "📡值得關注"
-    },
-    {
       "ticker": "NVDA",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -120,5 +113,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:06:05.839138+08:00"
+  "last_synced": "2026-06-13T15:06:47.803761+08:00"
 }
