@@ -29,13 +29,6 @@
       "source": "worth_watching"
     },
     {
-      "ticker": "META",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "Portfolio holding。AI agents unlocking WhatsApp revenue係新變現渠道。Enterprise AI 'business agent' launch + NSA使用Anthropic Mythos事件帶來監管風險。",
-      "source": "worth_watching"
-    },
-    {
       "ticker": "GLD",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -50,5 +43,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:24:46.088444+08:00"
+  "last_synced": "2026-06-13T15:25:17.877784+08:00"
 }
