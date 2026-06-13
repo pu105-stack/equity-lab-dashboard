@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "GOOGL",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "BRK+ARK同步買入係極罕見信號，SpaceX 7.5%持倉間接受惠$1.77T IPO。$190B AI capex commitment確認demand遠超市場預期。但$85B股權融資稀釋+DuckDuckGo AI搜尋分流壓力構成雙面刃。",
-      "source": "📡值得關注"
-    },
-    {
       "ticker": "ADBE",
       "status": "deep_dive",
       "updated_at": "2026-06-12",
@@ -71,13 +64,6 @@
       "source": "high_confidence"
     },
     {
-      "ticker": "GOOGL",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "Portfolio holding。史上最大$85B股權融資，明確信號：Google全力投入AI infrastructure。雙面刃：稀釋vs AI spending野心。市場似乎未fully price in呢個commitment scale。",
-      "source": "high_confidence"
-    },
-    {
       "ticker": "AMZN",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -134,5 +120,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:05:15.321527+08:00"
+  "last_synced": "2026-06-13T15:06:05.839138+08:00"
 }
