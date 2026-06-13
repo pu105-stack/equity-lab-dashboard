@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "LLY",
-      "status": "pending",
-      "updated_at": "2026-06-12",
-      "reasoning": "GLP-1類藥物顯示抗癌潛力（NPR報導），新一代減肥藥positive phase 3 data。減肥藥TAM仍在快速擴大，競爭對手入場只是validate市場。防御性醫療板塊（XLV創新高）係資金避風港。",
-      "source": "🎯機會"
-    },
-    {
       "ticker": "GOOGL",
       "status": "pending",
       "updated_at": "2026-06-06",
@@ -148,5 +141,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T13:15:02.337990+08:00"
+  "last_synced": "2026-06-13T13:19:57.831436+08:00"
 }

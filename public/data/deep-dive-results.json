@@ -49,6 +49,18 @@
       "rationale": "觀望"
     },
     {
+      "ticker": "LLY",
+      "verdict": "WATCH",
+      "conviction": "7/10",
+      "upside": "-10.0%",
+      "status": "done",
+      "completed_at": "2026-06-13T05:19:49.181965+00:00",
+      "analysis": "觀望 — 當前估值偏高，等待更佳進場點（$900-$1,000區間）",
+      "catalyst": "口服GLP-1 orforglipron III期數據（2026年）, Retatrutide三重激動劑III期進展, 製造產能大量釋放（2027-2028年）→FCF爆發, Mounjaro/Zepbound國際市場擴張, Kisunla阿茲海默症銷售放量, 減重市場TAM持續擴大至$1,500億",
+      "risk_reward": "",
+      "rationale": "觀望 — 當前估值偏高，等待更佳進場點（$900-$1,000區間）"
+    },
+    {
       "ticker": "LTRX",
       "verdict": "WATCH",
       "conviction": "Medium",
@@ -85,5 +97,5 @@
       "rationale": "優質公司，但估值極端昂貴。$102.39 對應 ~100x P/S，即使 2030 年達成分析師預測營收，折現後公平價值僅 ~$69/股。建議等待 Neutron 首飛結果或股價回調至 $25-40 區間再考慮。"
     }
   ],
-  "last_synced": "2026-06-13T13:15:02.337990+08:00"
+  "last_synced": "2026-06-13T13:19:57.831436+08:00"
 }
