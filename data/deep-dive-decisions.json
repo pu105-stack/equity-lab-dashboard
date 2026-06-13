@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "NKE",
-      "status": "deep_dive",
-      "updated_at": "2026-06-12",
-      "reasoning": "RBC世界盃開鑼前降級（目標價$70→$50），turnaround需時。世界盃催化劑已完全price in，冇驚喜空間。CEO Elliott Hill turnaround比預期慢。股價$43.96弱勢，下行風險未完。",
-      "source": "⚠️風險"
-    },
-    {
       "ticker": "MSTR",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -71,5 +64,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:17:53.434599+08:00"
+  "last_synced": "2026-06-13T15:18:33.099378+08:00"
 }
