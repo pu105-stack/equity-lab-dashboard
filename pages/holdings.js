@@ -22,12 +22,6 @@ export default function PortfolioPage() {
 
   useEffect(() => { load() }, [])
 
-  // Auto-refresh every 60s
-  useEffect(() => {
-    const interval = setInterval(load, 60000)
-    return () => clearInterval(interval)
-  }, [])
-
   const toggle = (ticker) => setOpen(p => ({ ...p, [ticker]: !p[ticker] }))
 
   const totalMarketValue = positions.reduce((s, p) => s + (p.market_value || 0), 0)
@@ -162,8 +156,7 @@ export default function PortfolioPage() {
 
       {positions.length > 0 && (
         <div className="footer">
-          <span>🔹 Live prices refresh every 60s · {lastUpdated && `Last updated ${lastUpdated}`}</span>
-          <button className="refresh-btn" onClick={load}>🔄 Refresh</button>
+          <span>🔹 Live prices via Yahoo Finance · 開頁自動 fetch</span>
         </div>
       )}
 
@@ -215,8 +208,6 @@ export default function PortfolioPage() {
         .empty-sub { font-size: 13px; color: #4b5563; margin-top: 6px; }
 
         .footer { display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; color: #64748b; font-size: 13px; }
-        .refresh-btn { font-size: 13px; padding: 6px 14px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #94a3b8; cursor: pointer; min-height: 36px; }
-        .refresh-btn:hover { background: #1e293b; color: #e2e8f0; }
 
         @media (max-width: 600px) {
           .tbl-hd { display: none; }
