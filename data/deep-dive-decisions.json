@@ -1,20 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "C",
-      "status": "pending",
-      "updated_at": "2026-06-12",
-      "reasoning": "Trump公開唱好「top dealmaker」，強烈政治背書。銀行股（XLF）本週持續跑贏科技股，加息環境有利淨息差。Citi自身將SPX目標上調至8100，反映內部信心。相對強度確認。",
-      "source": "🎯機會"
-    },
-    {
-      "ticker": "GLW",
-      "status": "pending",
-      "updated_at": "2026-06-12",
-      "reasoning": "Corning連續與AMZN/META/NVDA三大hyperscaler簽訂AI光纖連接合約。AI數據中心光纖連接係infrastructure bottleneck，GLW係picks-and-shovels中最被低估嘅一員。每次新deal都係catalyst。",
-      "source": "🎯機會"
-    },
-    {
       "ticker": "LLY",
       "status": "pending",
       "updated_at": "2026-06-12",
@@ -162,5 +148,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T13:14:21.806424+08:00"
+  "last_synced": "2026-06-13T13:14:57.158601+08:00"
 }
