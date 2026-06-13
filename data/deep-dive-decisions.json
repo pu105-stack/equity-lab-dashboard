@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "LVMUY",
-      "status": "deep_dive",
-      "updated_at": "2026-06-12",
-      "reasoning": "伊朗和平deal憧憬推升奢侈股+5%，和平紅利+消費復甦邏輯清晰。但deal遠未確定（伊朗官方潑冷水），若週末談判破裂將即時反轉。持倉止損設$112。",
-      "source": "📡值得關注"
-    },
-    {
       "ticker": "NKE",
       "status": "deep_dive",
       "updated_at": "2026-06-12",
@@ -85,5 +78,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:12:22.762285+08:00"
+  "last_synced": "2026-06-13T15:16:41.212083+08:00"
 }
