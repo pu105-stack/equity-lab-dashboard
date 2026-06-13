@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "MSTR",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "Bitcoin heading for biggest weekly loss since Nov2022，Strategy（MSTR）sale unnerving crypto traders。呢個係potential capitulation signal。如果BTC持續弱勢，MSTR嘅premium會進一步壓縮，可能有更大downside。但反之如果係oversold bounce candidate，值博率都高。需要monitor BTC flow + MSTR convertible bond activity。",
-      "source": "worth_watching"
-    },
-    {
       "ticker": "NEE",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -15,5 +8,5 @@
       "source": "worth_watching"
     }
   ],
-  "last_synced": "2026-06-13T15:36:56.150130+08:00"
+  "last_synced": "2026-06-13T15:37:37.473007+08:00"
 }
