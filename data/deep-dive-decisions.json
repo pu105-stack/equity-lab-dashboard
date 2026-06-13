@@ -8,13 +8,6 @@
       "source": "📡值得關注"
     },
     {
-      "ticker": "MSFT",
-      "status": "deep_dive",
-      "updated_at": "2026-06-12",
-      "reasoning": "本週最弱mega-cap，從$428（6/5）一週跌至$390 = -8.9%。連大市反彈1.7%時MSFT仍跌-1.8%。AI開支回報質疑持續打壓，Xbox重組+裁員信號負面。接近52週低位$384，下個support $380。冇short-term catalyst。",
-      "source": "⚠️風險"
-    },
-    {
       "ticker": "NKE",
       "status": "deep_dive",
       "updated_at": "2026-06-12",
@@ -92,5 +85,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:12:08.300629+08:00"
+  "last_synced": "2026-06-13T15:12:22.762285+08:00"
 }
