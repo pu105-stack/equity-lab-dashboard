@@ -18,22 +18,21 @@ function Sparkline({ data, color }) {
   )
 }
 
-function Donut({ items }) {
-  const total = items.reduce((s, i) => s + i.value, 0) || 1
-  const colors = ['#10b981','#f59e0b','#6366f1','#ec4899','#06b6d4','#f97316','#8b5cf6']
-  let offset = 0; const r = 50; const circ = 2 * Math.PI * r
+function Donut({ items, total }) {
+  const colors = ['#10b981','#f59e0b','#6366f1','#ec4899','#06b6d4','#f97316','#8b5cf6','#94a3b8']
+  let offset = 0; const r = 80; const circ = 2 * Math.PI * r
   return (
-    <svg width="140" height="140" viewBox="0 0 120 120">
+    <svg width="220" height="220" viewBox="0 0 200 200">
       {items.map((item, i) => {
         const pct = item.value / total
         const len = pct * circ
         const dash = `${len} ${circ - len}`
         const s = { strokeDasharray: dash, strokeDashoffset: -offset }
         offset += len
-        return <circle key={i} cx="60" cy="60" r={r} fill="none" stroke={colors[i % colors.length]} strokeWidth="16" transform="rotate(-90 60 60)" style={s} />
+        return <circle key={i} cx="100" cy="100" r={r} fill="none" stroke={colors[i % colors.length]} strokeWidth="24" transform="rotate(-90 100 100)" style={s} />
       })}
-      <text x="60" y="56" textAnchor="middle" fill="#f1f5f9" fontSize="20" fontWeight="700">${total.toLocaleString()}</text>
-      <text x="60" y="72" textAnchor="middle" fill="#64748b" fontSize="11">Total</text>
+      <text x="100" y="94" textAnchor="middle" fill="#f1f5f9" fontSize="24" fontWeight="800">{total > 0 ? '$' + Math.round(total).toLocaleString() : '—'}</text>
+      <text x="100" y="114" textAnchor="middle" fill="#64748b" fontSize="13">Total</text>
     </svg>
   )
 }
@@ -66,7 +65,8 @@ export default function PortfolioPage() {
   )
 
   const hdrColor = PNL_COLOR(account?.pnl)
-  const allocation = positions.map(p => ({ ticker: p.ticker, value: p.market_value || 0 }))
+  const allocItems = (positions || []).map(p => ({ ticker: p.ticker, value: p.market_value || 0 }))
+  if (account?.cash) allocItems.push({ ticker: 'Cash', value: account.cash })
 
   return (
     <div className="container">
@@ -94,46 +94,29 @@ export default function PortfolioPage() {
       {/* Chart Row */}
       {positions.length > 0 && (
         <div className="chart-row">
-          {/* Donut */}
-          <div className="donut-box">
-            <div className="chart-label">Allocation</div>
-            <Donut items={allocation} />
-            <div className="donut-legend">
-              {positions.map((p, i) => (
-                <div key={p.ticker} className="legend-item">
-                  <span className="legend-dot" style={{ background: ['#10b981','#f59e0b','#6366f1','#ec4899','#06b6d4','#f97316','#8b5cf6'][i % 7] }} />
-                  <span className="legend-tkr">{p.ticker}</span>
-                  <span className="legend-pct">{((p.market_value || 0) / (account?.equity || 1) * 100).toFixed(1)}%</span>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          {/* Summary cards */}
-          <div className="summary-cards">
-            <div className="scard">
-              <div className="scard-l">Positions</div>
-              <div className="scard-v">{positions.length}</div>
-            </div>
-            <div className="scard">
-              <div className="scard-l">Total P&L</div>
-              <div className="scard-v" style={{ color: hdrColor }}>{account?.pnl >= 0 ? '+' : ''}{fmt(account?.pnl)}</div>
-            </div>
-            <div className="scard">
-              <div className="scard-l">Best</div>
-              <div className="scard-v" style={{ color: '#10b981' }}>
-                {positions.reduce((b, p) => (p.pnl_pct || 0) > (b?.pnl_pct || -Infinity) ? p : b, positions[0])?.ticker || '—'}
-              </div>
-            </div>
-            <div className="scard">
-              <div className="scard-l">Worst</div>
-              <div className="scard-v" style={{ color: '#ef4444' }}>
-                {positions.reduce((w, p) => (p.pnl_pct || Infinity) < (w?.pnl_pct || Infinity) ? p : w, positions[0])?.ticker || '—'}
-              </div>
-            </div>
+      {/* Summary Cards */}
+      <div className="summary-cards">
+        <div className="scard">
+          <div className="scard-l">Positions</div>
+          <div className="scard-v">{positions.length}</div>
+        </div>
+        <div className="scard">
+          <div className="scard-l">Total P&L</div>
+          <div className="scard-v" style={{ color: hdrColor }}>{account?.pnl >= 0 ? '+' : ''}{fmt(account?.pnl)}</div>
+        </div>
+        <div className="scard">
+          <div className="scard-l">Best</div>
+          <div className="scard-v" style={{ color: '#10b981' }}>
+            {positions.reduce((b, p) => (p.pnl_pct || 0) > (b?.pnl_pct || -Infinity) ? p : b, positions[0])?.ticker || '—'}
           </div>
         </div>
-      )}
+        <div className="scard">
+          <div className="scard-l">Worst</div>
+          <div className="scard-v" style={{ color: '#ef4444' }}>
+            {positions.reduce((w, p) => (p.pnl_pct || Infinity) < (w?.pnl_pct || Infinity) ? p : w, positions[0])?.ticker || '—'}
+          </div>
+        </div>
+      </div>
 
       {/* Holdings Table */}
       {positions.length === 0 ? (
@@ -143,6 +126,7 @@ export default function PortfolioPage() {
           <div className="empty-sub">Anya 未有持倉</div>
         </div>
       ) : (
+        <>
         <div className="tl">
           {positions.map(p => {
             const isOpen = !!open[p.ticker]
@@ -220,6 +204,38 @@ export default function PortfolioPage() {
         </div>
       )}
 
+      {/* Allocation Donut — bottom */}
+      {positions.length > 0 && (
+        <div className="allocation-section">
+          <div className="allocation-title">Allocation</div>
+          <div className="allocation-content">
+            <Donut items={allocItems} total={account?.equity || 0} />
+            <div className="allocation-legend">
+              {positions.map((p, i) => {
+                const colors = ['#10b981','#f59e0b','#6366f1','#ec4899','#06b6d4','#f97316','#8b5cf6','#94a3b8']
+                return (
+                  <div key={p.ticker} className="al-item">
+                    <span className="al-dot" style={{ background: colors[i % colors.length] }} />
+                    <span className="al-tkr">{p.ticker}</span>
+                    <span className="al-bar-bg"><span className="al-bar-fill" style={{ width: `${((p.market_value || 0) / (account?.equity || 1) * 100)}%`, background: colors[i % colors.length] }} /></span>
+                    <span className="al-pct">{((p.market_value || 0) / (account?.equity || 1) * 100).toFixed(1)}%</span>
+                    <span className="al-val">{fmt(p.market_value || 0)}</span>
+                  </div>
+                )
+              })}
+              {/* Cash row */}
+              <div className="al-item">
+                <span className="al-dot" style={{ background: '#94a3b8' }} />
+                <span className="al-tkr">Cash</span>
+                <span className="al-bar-bg"><span className="al-bar-fill" style={{ width: `${((account?.cash || 0) / (account?.equity || 1) * 100)}%`, background: '#94a3b8' }} /></span>
+                <span className="al-pct">{((account?.cash || 0) / (account?.equity || 1) * 100).toFixed(1)}%</span>
+                <span className="al-val">{fmt(account?.cash || 0)}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {positions.length > 0 && (
         <div className="footer">
           <span>🔹 Data via Yahoo Finance · 開頁時 fetch · {new Date().toLocaleTimeString('zh-HK', { hour12: false })}</span>
@@ -235,19 +251,24 @@ export default function PortfolioPage() {
         .hero-sub { font-size: 13px; color: #64748b; margin-top: 6px; display: flex; gap: 6px; justify-content: center; }
         .hero-dot { color: #334155; }
 
-        /* Chart Row */
-        .chart-row { display: flex; gap: 16px; margin-bottom: 20px; align-items: stretch; }
-        .donut-box { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 14px; flex: 0 0 auto; display: flex; flex-direction: column; align-items: center; }
-        .chart-label { font-size: 11px; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; margin-bottom: 8px; }
-        .donut-legend { margin-top: 8px; display: flex; flex-direction: column; gap: 3px; }
-        .legend-item { display: flex; align-items: center; gap: 6px; font-size: 11px; }
-        .legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-        .legend-tkr { color: #94a3b8; font-weight: 600; min-width: 32px; }
-        .legend-pct { color: #64748b; }
-        .summary-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; flex: 1; }
+        /* Summary Cards */
+        .summary-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 20px; }
         .scard { background: #1e293b; border: 1px solid #334155; border-radius: 10px; padding: 12px; display: flex; flex-direction: column; justify-content: center; }
         .scard-l { font-size: 11px; color: #64748b; text-transform: uppercase; letter-spacing: 0.3px; }
         .scard-v { font-size: 18px; font-weight: 700; color: #f1f5f9; margin-top: 4px; }
+
+        /* Allocation */
+        .allocation-section { margin-top: 20px; background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 16px; }
+        .allocation-title { font-size: 14px; font-weight: 600; color: #f1f5f9; margin-bottom: 12px; }
+        .allocation-content { display: flex; gap: 24px; align-items: flex-start; }
+        .allocation-legend { flex: 1; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+        .al-item { display: flex; align-items: center; gap: 8px; font-size: 13px; }
+        .al-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+        .al-tkr { font-weight: 600; color: #e2e8f0; min-width: 48px; font-family: monospace; }
+        .al-bar-bg { flex: 1; height: 6px; background: #0f172a; border-radius: 3px; overflow: hidden; min-width: 40px; }
+        .al-bar-fill { height: 100%; border-radius: 3px; }
+        .al-pct { color: #94a3b8; min-width: 42px; text-align: right; font-weight: 500; }
+        .al-val { color: #64748b; min-width: 60px; text-align: right; }
 
         /* Holdings */
         .tl { display: flex; flex-direction: column; gap: 6px; }
@@ -303,8 +324,8 @@ export default function PortfolioPage() {
 
         @media (max-width: 600px) {
           .hero-val { font-size: 28px; }
-          .chart-row { flex-direction: column; }
           .summary-cards { grid-template-columns: repeat(2, 1fr); }
+          .allocation-content { flex-direction: column; align-items: center; }
           .row { flex-wrap: wrap; padding: 10px; gap: 4px; }
           .row-spark { display: none; }
           .row-dd { flex: 0 0 38px; }
