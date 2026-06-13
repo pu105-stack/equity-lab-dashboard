@@ -202,6 +202,7 @@ export default function PortfolioPage() {
             )
           })}
         </div>
+        </>
       )}
 
       {/* Allocation Donut — bottom */}
