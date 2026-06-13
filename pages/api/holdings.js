@@ -13,11 +13,12 @@ export default async function handler(req, res) {
     const data = JSON.parse(raw)
     let { account, positions } = data
 
-    // Fetch live prices from Yahoo Finance (free, no API key)
+    // Fetch live prices + sparklines from Yahoo Finance (free, no API key)
     if (positions.length > 0) {
       const enriched = []
       for (const p of positions) {
         let livePrice = null
+        let sparkline = []
         try {
           const resp = await fetch(YAHOO_CHART(p.ticker))
           const json = await resp.json()
@@ -27,8 +28,22 @@ export default async function handler(req, res) {
             const closes = quotes?.close || []
             const valid = closes.filter(c => c !== null)
             if (valid.length > 0) livePrice = Math.round(valid[valid.length - 1] * 100) / 100
+
+            // Sparkline: last 30 closes (compress to ~30 points for speed)
+            const timestamps = result.timestamp || []
+            const points = []
+            for (let i = 0; i < timestamps.length; i++) {
+              if (closes[i] !== null) points.push(closes[i])
+            }
+            // Sample down to 30 points max
+            if (points.length > 30) {
+              const step = Math.floor(points.length / 30)
+              sparkline = points.filter((_, i) => i % step === 0).slice(0, 30)
+            } else {
+              sparkline = points
+            }
           }
-        } catch { /* fallback: use synced price */ }
+        } catch { /* use synced data */ }
 
         const costBasis = p.entry_price * p.quantity
         const marketValue = livePrice ? livePrice * p.quantity : (p.market_value || null)
@@ -41,6 +56,7 @@ export default async function handler(req, res) {
           market_value: marketValue ? Math.round(marketValue * 100) / 100 : null,
           pnl: pnl ? Math.round(pnl * 100) / 100 : null,
           pnl_pct: pnlPct,
+          sparkline,
         })
       }
       positions = enriched
