@@ -22,13 +22,6 @@
       "source": "📡值得關注"
     },
     {
-      "ticker": "MRVL",
-      "status": "pending",
-      "updated_at": "2026-06-12",
-      "reasoning": "Jensen封「下一家萬億公司」，S&P 500納入確認AI networking龍頭地位。但ByteDance自研ASIC衝擊custom silicon前景，盤中曾跌至$244（-15%）後反彈至$266。Forward P/E 90x估值極高，兩邊都有人撐。",
-      "source": "📡值得關注"
-    },
-    {
       "ticker": "LVMUY",
       "status": "deep_dive",
       "updated_at": "2026-06-12",
@@ -141,5 +134,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T13:26:20.567682+08:00"
+  "last_synced": "2026-06-13T15:05:15.321527+08:00"
 }
