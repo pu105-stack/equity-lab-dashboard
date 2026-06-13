@@ -22,13 +22,6 @@
       "source": "theme"
     },
     {
-      "ticker": "AMZN",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "Portfolio holding。Amazon's $50B Chip Secret — 自研Trainium/Inferentia chips可能成為NVDA最大競爭對手。同時PINS $4B AWS deal證明cloud服務變現能力。",
-      "source": "high_confidence"
-    },
-    {
       "ticker": "AVGO",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -78,5 +71,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:16:41.212083+08:00"
+  "last_synced": "2026-06-13T15:17:53.434599+08:00"
 }
