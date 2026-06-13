@@ -1,12 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "NEE",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "非portfolio，new discovery。NextEra + Dominion $420bn merger — 能源板塊史上最大合併之一。AI data centre電力需求係催化劑，utility sector估值有望re-rate。",
-      "source": "worth_watching"
-    }
-  ],
-  "last_synced": "2026-06-13T15:37:37.473007+08:00"
+  "decisions": [],
+  "last_synced": "2026-06-13T15:38:31.150353+08:00"
 }
