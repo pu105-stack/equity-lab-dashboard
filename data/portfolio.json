@@ -1,9 +1,9 @@
 {
   "account": {
-    "equity": 100000.0,
+    "equity": 100004.44,
     "cash": 97660.0,
     "initial": 100000.0,
-    "pnl": 0.0,
+    "pnl": 4.44,
     "pnl_pct": 0.0,
     "updated_at": "2026-06-13T10:54:53.847880+00:00"
   },
@@ -17,12 +17,15 @@
       "stop_loss": 364.68,
       "take_profit": 469.95,
       "opened_at": "2026-06-13T10:54:53.856029+00:00",
-      "pnl": 0.0,
+      "live_price": 390.74,
+      "market_value": 2344.44,
+      "pnl": 4.44,
+      "pnl_pct": 0.19,
       "dd_decision": "WATCH",
       "dd_fair_value": 438.0,
       "dd_conviction": "Med-High",
       "dd_upside_pct": 12.3
     }
   ],
-  "last_synced": "2026-06-13T19:02:02.125415+08:00"
+  "last_synced": "2026-06-13T19:05:18.948065+08:00"
 }
