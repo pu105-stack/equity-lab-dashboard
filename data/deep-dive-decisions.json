@@ -8,13 +8,6 @@
       "source": "worth_watching"
     },
     {
-      "ticker": "SPX",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "SpaceX IPO $1.77tn估值 $86bn集資 — 史上最大IPO。Goldman預期SpaceX AI revenue 100x by 2030。JPMorgan用branch network幫手pitch。呢個IPO會影響market liquidity + 帶動satellite/space板塊重評。唔係direct ticker play住，但係值得monitor IPO timeline。SATS（~3% stake）同EchoStar係proxy。",
-      "source": "theme"
-    },
-    {
       "ticker": "PINS",
       "status": "deep_dive",
       "updated_at": "2026-06-06",
@@ -43,5 +36,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:25:17.877784+08:00"
+  "last_synced": "2026-06-13T15:30:37.734049+08:00"
 }
