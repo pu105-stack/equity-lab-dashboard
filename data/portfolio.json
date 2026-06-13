@@ -1,0 +1,28 @@
+{
+  "account": {
+    "equity": 100000.0,
+    "cash": 97660.0,
+    "initial": 100000.0,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "updated_at": "2026-06-13T10:54:53.847880+00:00"
+  },
+  "positions": [
+    {
+      "id": 12,
+      "ticker": "MSFT",
+      "direction": "LONG",
+      "quantity": 6,
+      "entry_price": 390.0,
+      "stop_loss": 364.68,
+      "take_profit": 469.95,
+      "opened_at": "2026-06-13T10:54:53.856029+00:00",
+      "pnl": 0.0,
+      "dd_decision": "WATCH",
+      "dd_fair_value": 438.0,
+      "dd_conviction": "Med-High",
+      "dd_upside_pct": 12.3
+    }
+  ],
+  "last_synced": "2026-06-13T19:01:06.250244+08:00"
+}
