@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "NVDA",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "$200支持位本週三次守住，Apple選用NVDA GPU via Google Cloud做AI係大利好，SK Hynix多年合作確認HBM需求強勁。但AVGO事件後AI半導體估值重估未完，SMCI -28%顯示AI動能股capitulation風險。",
-      "source": "📡值得關注"
-    },
-    {
       "ticker": "LVMUY",
       "status": "deep_dive",
       "updated_at": "2026-06-12",
@@ -48,13 +41,6 @@
       "updated_at": "2026-06-06",
       "reasoning": "SpaceX IPO $1.77tn估值 $86bn集資 — 史上最大IPO。Goldman預期SpaceX AI revenue 100x by 2030。JPMorgan用branch network幫手pitch。呢個IPO會影響market liquidity + 帶動satellite/space板塊重評。唔係direct ticker play住，但係值得monitor IPO timeline。SATS（~3% stake）同EchoStar係proxy。",
       "source": "theme"
-    },
-    {
-      "ticker": "NVDA",
-      "status": "deep_dive",
-      "updated_at": "2026-06-06",
-      "reasoning": "呢星期最大news：AI戰線從datacenter擴展到laptop — 開闢全新TAM對抗Apple/Intel/AMD/Qualcomm。Portfolio holding。AVGO事件後NVDA被拖累，但長期AI infra spend thesis不變。",
-      "source": "high_confidence"
     },
     {
       "ticker": "AMZN",
@@ -113,5 +99,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:06:47.803761+08:00"
+  "last_synced": "2026-06-13T15:11:11.465555+08:00"
 }
