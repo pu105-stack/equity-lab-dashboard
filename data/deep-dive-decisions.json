@@ -15,13 +15,6 @@
       "source": "⚠️風險"
     },
     {
-      "ticker": "ORCL",
-      "status": "deep_dive",
-      "updated_at": "2026-06-12",
-      "reasoning": "三重打擊：安全漏洞入侵100+公司（-8.5%今日）+$40B debt+equity融資稀釋+Q1指引持平冇驚喜。從$236.34（6/2高位）一週跌至$184 = -22%技術性熊市。成交量63M（3x正常）— 機構減倉中。",
-      "source": "⚠️風險"
-    },
-    {
       "ticker": "NKE",
       "status": "deep_dive",
       "updated_at": "2026-06-12",
@@ -99,5 +92,5 @@
       "source": "theme"
     }
   ],
-  "last_synced": "2026-06-13T15:11:11.465555+08:00"
+  "last_synced": "2026-06-13T15:12:08.300629+08:00"
 }
