@@ -91,9 +91,6 @@ export default function PortfolioPage() {
         </div>
       )}
 
-      {/* Chart Row */}
-      {positions.length > 0 && (
-        <div className="chart-row">
       {/* Summary Cards */}
       <div className="summary-cards">
         <div className="scard">
