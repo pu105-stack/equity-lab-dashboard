@@ -113,15 +113,15 @@ const strategies = [
 ]
 
 const cronJobs = [
-  { id: '4e1dddb52a4b', name: 'viper-premarket', sched: '0 21 * * 1-5', hkt: '21:00 Mon-Fri', script: 'premarket.py', status: '✅ LIVE' },
-  { id: '618d8ebd9fa8', name: 'viper-intraday-backfill', sched: '5 21 * * 1-5', hkt: '21:05 Mon-Fri', script: 'intraday_backfill.py', status: '✅ LIVE' },
-  { id: '2843f12ad6c6', name: 'viper-intraday-collect', sched: '*/2 21-3 * * 1-5', hkt: '21:32-03:58 */2 min', script: 'intraday_collect.py', status: '✅ LIVE' },
-  { id: '67ab5afe3c12', name: 'viper-scan-15min', sched: '*/15 21-3 * * 1-5', hkt: '21:35-03:55 */15 min', script: 'viper-scan-15min.py', status: '✅ LIVE' },
-  { id: '8e595e065a26', name: 'viper-eod-close', sched: '55 3 * * 2-6', hkt: '03:55 Tue-Sat', script: 'eod_close.py', status: '✅ LIVE' },
-  { id: 'd4cbc5fd0e01', name: 'viper-postmarket', sched: '0 10 * * 2-6', hkt: '10:00 Tue-Sat', script: 'postmarket.py', status: '✅ LIVE' },
-  { id: '395755434f84', name: 'viper-monitor-poll', sched: '* 21-3 * * 1-5', hkt: '21:00-03:55 */1 min', script: 'monitor_poll.py', status: '⏸️ PAUSED' },
-  { id: '8dcbf65da30f', name: 'viper-weekly-review', sched: '0 22 * * 6', hkt: 'Sat 22:00', script: 'viper_weekly_review.py', status: '✅ LIVE' },
-  { id: 'f7934e63bbc8', name: 'viper-dst-switch', sched: '0 21 1 3,11 *', hkt: '1 Mar/Nov 21:00', script: 'dst_switch.py', status: '✅ LIVE' },
+  { id: '4e1dddb52a4b', name: 'viper-premarket', sched: '0 21 * * 1-5', hkt: '21:00 Mon-Fri', script: 'premarket.py', mode: '🤖 LLM', status: '✅ LIVE' },
+  { id: '618d8ebd9fa8', name: 'viper-intraday-backfill', sched: '5 21 * * 1-5', hkt: '21:05 Mon-Fri', script: 'intraday_backfill.py', mode: '🤖 LLM', status: '✅ LIVE' },
+  { id: '2843f12ad6c6', name: 'viper-intraday-collect', sched: '*/2 21-3 * * 1-5', hkt: '21:32-03:58 */2 min', script: 'intraday_collect.py', mode: '🤖 LLM', status: '✅ LIVE' },
+  { id: '67ab5afe3c12', name: 'viper-scan-15min', sched: '*/15 21-3 * * 1-5', hkt: '21:35-03:55 */15 min', script: 'viper-scan-15min.py', mode: '🤖 LLM', status: '✅ LIVE' },
+  { id: '8e595e065a26', name: 'viper-eod-close', sched: '55 3 * * 2-6', hkt: '03:55 Tue-Sat', script: 'eod_close.py', mode: '🤖 LLM', status: '✅ LIVE' },
+  { id: 'd4cbc5fd0e01', name: 'viper-postmarket', sched: '0 10 * * 2-6', hkt: '10:00 Tue-Sat', script: 'postmarket.py', mode: '⚙️ Script', status: '✅ LIVE' },
+  { id: '395755434f84', name: 'viper-monitor-poll', sched: '* 21-3 * * 1-5', hkt: '21:00-03:55 */1 min', script: 'monitor_poll.py', mode: '⚙️ Script', status: '⏸️ PAUSED' },
+  { id: '8dcbf65da30f', name: 'viper-weekly-review', sched: '0 22 * * 6', hkt: 'Sat 22:00', script: 'viper_weekly_review.py', mode: '⚙️ Script', status: '✅ LIVE' },
+  { id: 'f7934e63bbc8', name: 'viper-dst-switch', sched: '0 21 1 3,11 *', hkt: '1 Mar/Nov 21:00', script: 'dst_switch.py', mode: '⚙️ Script', status: '✅ LIVE' },
 ]
 
 const dbTables = [
@@ -342,6 +342,7 @@ export default function DayTradingSystem() {
             <span className="cr-col-name">Name</span>
             <span className="cr-col-hkt">HKT Schedule</span>
             <span className="cr-col-script">Script</span>
+            <span className="cr-col-mode">Mode</span>
             <span className="cr-col-status">Status</span>
           </div>
           {cronJobs.map((j, i) => (
@@ -350,6 +351,7 @@ export default function DayTradingSystem() {
               <span className="cr-name">{j.name}</span>
               <span className="cr-hkt">{j.hkt}</span>
               <span className="cr-script">{j.script}</span>
+              <span className="cr-mode">{j.mode}</span>
               <span className={`cr-status ${j.status.includes('LIVE') ? 'live' : 'paused'}`}>{j.status}</span>
             </div>
           ))}
@@ -573,7 +575,7 @@ position_checkpoints`}</pre>
 
         /* Cron Table */
         .cron-table { display: flex; flex-direction: column; gap: 0; padding: 8px 0; }
-        .cron-hd, .cron-row { display: grid; grid-template-columns: 2fr 1.8fr 2fr 1.8fr 1.2fr; gap: 8px; padding: 8px 14px; align-items: center; }
+        .cron-hd, .cron-row { display: grid; grid-template-columns: 2fr 1.6fr 1.8fr 1.5fr 0.8fr 1fr; gap: 8px; padding: 8px 14px; align-items: center; }
         .cron-hd { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #6b7280; border-bottom: 1px solid #1c2128; }
         .cron-row { border-bottom: 1px solid #1c2128; font-size: 11px; }
         .cron-row:last-child { border-bottom: none; }
@@ -582,6 +584,7 @@ position_checkpoints`}</pre>
         .cr-name { font-weight: 600; color: #f0f6fc; }
         .cr-hkt { color: #9ca3af; font-family: 'SF Mono', 'Fira Code', monospace; }
         .cr-script { color: #94a3b8; font-family: 'SF Mono', 'Fira Code', monospace; }
+        .cr-mode { font-size: 11px; }
         .cr-status { font-weight: 600; }
         .cr-status.live { color: #4ade80; }
         .cr-status.paused { color: #fbbf24; }
