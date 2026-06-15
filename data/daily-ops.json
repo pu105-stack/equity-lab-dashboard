@@ -750,53 +750,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-15",
-      "time": "08:14 HKT",
-      "status": "success",
-      "market_direction": "🔥 US-Iran和平協議主導市場：油價暴跌4%+，股指期貨跳升，美元走弱。本週焦點：Kevin Warsh首次Fed會議。宏觀背景多空交織——和平協議利好風險資產，但信貸違約警告和AI監管風險升溫限制上行。",
-      "headlines": [
-        "ACTION: USO/XLE — Oil prices crash 4%+ after US-Iran peace deal, Strait of Hormuz to reopen. FT warns backlog could take weeks to clear.",
-        "ACTION: SPY/QQQ — Kevin Warsh首個Fed會議本週登場，市場完全無共識預期，波動性大增。做多波動率。",
-        "ACTION: HYG/JNK — Pimco警告債務違約重啟，建議轉向固定收益避險。信貸風險升溫信號強烈。",
-        "ACTION: ANTH/GOOGL/MSFT — Anthropic頂級AI模型被特朗普政府出口管制凍結，Amazon舉報觸發。AI監管分水嶺。",
-        "ACTION: DXY/FXI — 中國推出數字支付系統對抗美元霸權，獲香港/泰國/UAE/沙特央行支持。去美元化加速。",
-        "WATCH: NVDA — AI Factory需求顯示高增長可持續，Cramer稱NVDA是市場關鍵。",
-        "WATCH: URA/CCJ — 38國核電三倍目標+Meta簽約6.6GW，鈾礦核能復興主題升溫。",
-        "WATCH: BTC — 伊朗和平協議推升BTC至$65K，但歷史模式預示可能暴跌至$48K。分歧巨大。",
-        "WATCH: 以色列空襲貝魯特 — Trump譴責Netanyahu，伊朗協議脆弱性增加油價波動。",
-        "WATCH: LITE — JPMorgan看好AI光網絡需求，Lumentum獲超配評級。",
-        "NOTE: SpaceX紀錄融資+市場擴張 dot-com級別供應增加。",
-        "NOTE: 英國放鬆2030年EV目標，政策阻力增加。",
-        "NOTE: 外國買家涌入英國企業收購，交易價值3倍創20年新高。"
-      ],
-      "opportunities": [
-        "USO/XLE: 伊朗和平協議短期做空能源板塊。油價暴跌4%+，但霍爾木茲積壓需數周清理，反彈後再沽空更佳。戰術性交易機會。",
-        "TLT: Pimco警告違約重啟+Warsh不確定性=避險資金流入國債。Pimco建議增持固定收益。防禦配置時機。",
-        "GOOGL/MSFT: Anthropic被凍模型=AI監管收緊，利好合規能力強的科技巨頭。長期AI份額重組受益者。",
-        "URA/CCJ: 核能復興結構性主題，38國+Meta需求驗證，鈾礦資產定價未反映長期敘事。",
-        "FXI/MCHI: 數字支付系統+沙特支持去美元化，人民幣資產長期利好。",
-        "LITE: AI光網絡間接受益，JPMorgan超配評級背書，估值合理。"
-      ],
-      "analysis": "## 宏觀框架\n\n### 主線1：US-Iran和平協議 — 市場最大變數\n特朗普與伊朗達成60天停火協議，霍爾木茲海峽重開。油價即時暴跌4%+（布倫特跌至3個月低位），股指期貨跳升，美元走弱。但協議脆弱——以色列貝魯特空襲威脅執行，Trump罕見公開譴責Netanyahu「無判斷力」。FT分析指出海峽積壓貨運需數周清理，油價反彈風險存在。\n\n實質影響：\n- 短期利好風險資產（解除中東戰爭溢價）\n- 能源板塊受壓（XLE/XOM/CVX）但航運/保險股受惠\n- 比特幣升至$65K+因風險偏好回升\n- 協議若破裂將引發更大波動（尾部風險）\n\n### 主線2：Kevin Warsh首個Fed會議 — 最大不確定性\n本週是Warsh接任聯儲局主席後第一次會議，市場完全無共識。MarketWatch指出經濟學家完全不知道該期待什麼。SpaceX和AI公司IPO後估值擴張，若Warsh偏鷹將直接打壓成長股。\n\n情景分析：\n- 鴿派→成長股(NVDA/QQQ)大漲，債券回落\n- 鷹派→防禦輪動，利好TLT/現金\n- 中性→市場震盪，個股分化\n\n### 主線3：AI監管分水嶺\nAnthropic的Fable和Mythos模型被出口管制凍結是AI監管史無前例的事件。Amazon舉報觸發行動。這將：\n- 短期利空AI風險偏好\n- 中長期利好合規能力強的巨頭(GOOGL/MSFT)\n- 可能推動AI公司加速IPO以獲取更多融資和談判籌碼\n\n### 主線4：信貸週期轉折？\nPimco發出債務違約重啟警告。高收益債市場風險升溫，Pimco建議轉向固定收益。配合Warsh會議不確定性，資金有避險需求。\n\n### 主線5：結構性主題\n- 核能復興：38國三倍產能目標+Meta簽約6.6GW，從「概念」到「資本流入」\n- 去美元化：中國mBridge 2.0接入沙特央行，石油貿易去美元化長期趨勢\n- 英國資產低估：外資併購創20年新高",
-      "risks": [
-        "伊朗協議執行風險 — 以色列貝魯特空襲表明協議極其脆弱，任何一方撕毀將導致油價暴漲",
-        "Kevin Warsh鷹派意外 — 市場完全無共識，若Warsh加息或縮表加速將重創估值",
-        "AI監管擴散 — Anthropic事件可能蔓延至其他AI公司(OpenAI/Meta)，科技板塊系統性風險",
-        "Pimco違約警告 — 若違約潮確實到來，信貸市場流動性危機可能傳導至股市",
-        "SpaceX融資虹吸效應 — 創紀錄IPO吸收市場流動性，中小盤股資金外流",
-        "油價反彈風險 — 霍爾木茲積壓+協議不穩定性，做空能源有逼倉風險"
-      ],
-      "my_take": "## 我的看法\n\n本週市場的核心變數是Kevin Warsh。伊朗協議帶來的風險偏好升溫可能是短暫的——Warsh首秀的不可預測性是最大風險。我的策略是：\n\n1️⃣ **做多波動率 (VXX/UVXY)** — Warsh會議+伊朗協議雙重不確定性，跨資產波動率被低估\n\n2️⃣ **戰術性做空能源 (XLE)** — 伊朗協議短期壓制油價，但反彈才沽空，不要在暴跌後追沽。等待技術性反彈至$80+布倫特再入場\n\n3️⃣ **買入TLT (長期國債)** — Pimco違約警告+Warsh不確定性=避險需求，但若Warsh偏鷹則國債受壓，需控制倉位\n\n4️⃣ **長線買入NVDA拉回** — AI基本面不變，監管風險暫時僅限Anthropic。NVDA拉回至$130以下是買點\n\n5️⃣ **核能主題 FDN-CCJ** — 結構性敘事剛開始，資本流入尚未完全定價。25%以下配置核心倉位\n\n6️⃣ **觀望中國家電股** — JPMorgan翻倍論但需確認具體標的。美的(000333)是首選候選\n\n總結：本週極高不確定性，降低風險敞口，持有現金和波動率對沖。Warsh會議結果後再重新部署。",
-      "key_takeaways": [
-        "伊朗和平協議短期利好風險資產，但執行風險高、油價反彈風險大",
-        "Kevin Warsh首個Fed會議是最大不確定性，市場無共識",
-        "Pimco警告債務違約重啟，信貸週期轉折信號值得警惕",
-        "Anthropic被凍模型是AI監管分水嶺，長期利好合規巨頭",
-        "核能復興和去美元化是兩個值得長期關注的結構性主題"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-15",
       "time": "08:42 HKT",
@@ -825,6 +778,86 @@
         "【低】核能主題CCJ：$95如果失守需要重新評估結構性敘事"
       ],
       "my_take": "極端波動嘅一週以V型反彈結束，但真正嘅考驗喺星期三FOMC—Kevin Warsh首秀。星期一/二應該降低風險，準備迎接可能是今年最重要嘅聯儲局會議。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-15",
+      "time": "20:10 HKT",
+      "status": "success",
+      "market_direction": "伊朗和談協議主導全球市場——油價暴跌、股市暴升、避險資產回吐。本週Fed/BOJ/BOE三央行議息成爲下一個催化劑。市場情緒從避險轉向risk-on，但中東根本矛盾未解。",
+      "headlines": [
+        "ACTION: OIL (USO/XLE) — 伊朗和談協議達成，油價暴跌至3個月低位（$80以下） + 美伊達成停火及霍爾木茲海峽重開協議，原油跌穿$80至3個月低位。但U.S.-Iran Deal Doesn't Mean a Swift Return of Oil and Gas Flows——短期供應不會立即恢復。CNBC警告Oil s",
+        "ACTION: SPCX (SpaceX) — SpaceX IPO首日暴升，市值突破$2T，Ark買入$5億+ + SpaceX上市首日即成爲全球最高估值公司之一，超越Tesla市值。FT分析'The spectacle of SpaceX trumps DCF models'，但SA警告'Why SpaceX IPOs Are A Red Flag F",
+        "ACTION: ROKU (FOXA) — Fox以$220億收購Roku，加速數位轉型 + FOX以現金+股票$220億收購Roku，定價約$85+/股。Roku在CTV/串流廣告領域有strong positioning，FOX可大幅擴張數位分發。Roku近月因競爭受壓，offer price有significant premi",
+        "ACTION: NVDA — NVIDIA @ $200: Jensen黃仁勳的關鍵信號，IBD稱AI散熱股回調10%後setup一流 + 247WallSt報導'If Jensen Huang Is Right About This One Thing, NVIDIA Stock Is a Steal at $200'。AI散熱股從高位回落10%，IBD稱setup 'doe",
+        "WATCH: ADBE — Adobe 'Cheapest In Years' — SA upgrade, AI discount not fully priced + Seeking Alpha upgrade: 'Adobe: The AI Discount Is Not Yet Fully Priced' + 'The Cheapest Adobe Has Looked In Years'. Adob",
+        "WATCH: FERRARI (RACE) — Morgan Stanley：Ferrari憂慮過度，股價回落提供買入機會 + CNBC報導Ferrari shares struggled lately, but Morgan Stanley says concerns overblown。Ferrari品牌定價能力無可匹敵，訂單排到2027+。近期回調是戰事/宏觀",
+        "WATCH: QCOM — Qualcomm：手機業務令人擔憂，但AI基建是機會 + SA分析Qualcomm: 'Handsets Are The Worry, But AI Infrastructure Is The Opportunity'。Qualcomm在edge AI/物聯網/汽車chip有顯著增長潛力。手機週期",
+        "WATCH: ORCL — Oracle：折讓的AI故事，超額變現前景可期 + SA reiterate Buy: 'Oracle: Discounted AI Story With Outsized Monetization Prospects'。Oracle雲端業務加速，OCI AI infrastructure ",
+        "WATCH: BTC (BITO) — Bitcoin突破$66K，伊朗和談帶動短暫暴升，但結構性風險仍在 + 伊朗和談帶動BTC短暫突破$66K（2週高位），但coindesk警告Bitcoin could crash to $48K if historical pattern triggered。Strategy（MSTR）用$100M買入1,5",
+        "WATCH: BUNZL (BNZL.L) — Elliott Management建倉Bunzl，施壓回購 + FT獨家報導Elliott presses Bunzl for buybacks after building stake。Bunzl是分銷商，現金流強勁，Elliott通常要求資本回報改善或業務分拆。過往Elliott targets平均",
+        "NOTE: TREASURIES (TLT) — 伊朗和談推動國債收益率下行，市場重新定價Fed加息預期 + 伊朗和談後Treasuries rally，交易員削減Fed加息預期。但JPM's Berro認為Fed本週會議likely no dissenters。市場目前定價59% chance of at least 1 rate hike by",
+        "NOTE: ADYEN (ADYEN.AS) — Adyen以$3.35億收購企業賬單平台Orb + Adyen通過收購Orb加強B2B企業賬單能力，拓展平台生態。這是Adyen在競爭加劇下的策略擴張。對股價輕微正面，但需時間整合。",
+        "NOTE: MAGS (Magnificent 7) — MAGS To Rags? Magnificent Seven Stocks Are Market Drags + Yahoo Finance報導M7 stocks整體表現落後大市。伊朗和談引發的risk-on rotation正在從megacap tech流出轉向周期/價值股。若此趨勢持續，QQQ短期受壓但中小型股/周期股可受惠。"
+      ],
+      "opportunities": [
+        "OIL (USO/XLE): 美伊達成停火及霍爾木茲海峽重開協議，原油跌穿$80至3個月低位。但U.S.-Iran Deal Doesn't Mean a Swift Return of Oil and Gas Flows——短期供應不會立即恢復。CNBC警告Oil shock 'far from over'。建議short oil/能源股反彈，或wait for bottom confirmation再long運輸/航空板塊",
+        "SPCX (SpaceX): SpaceX上市首日即成爲全球最高估值公司之一，超越Tesla市值。FT分析'The spectacle of SpaceX trumps DCF models'，但SA警告'Why SpaceX IPOs Are A Red Flag For The Stock Market。'短期動能強勁，但估值已脫離基本面。可trade首日回調後的反彈，但不宜長揸。",
+        "ROKU (FOXA): FOX以現金+股票$220億收購Roku，定價約$85+/股。Roku在CTV/串流廣告領域有strong positioning，FOX可大幅擴張數位分發。Roku近月因競爭受壓，offer price有significant premium。若監管通過，FOXA可受惠於合併協同效應。",
+        "NVDA: 247WallSt報導'If Jensen Huang Is Right About This One Thing, NVIDIA Stock Is a Steal at $200'。AI散熱股從高位回落10%，IBD稱setup 'doesn't get much better'。NVDA tradingview TA顯示1D partial signal + 1H fully compress",
+        "ADBE: Seeking Alpha upgrade: 'Adobe: The AI Discount Is Not Yet Fully Priced' + 'The Cheapest Adobe Has Looked In Years'. Adobe正在整合AI功能入產品線（Firefly, Sensei），但市場尚未priced in。若本季業績有AI相關收入加速，可成催化劑。",
+        "FERRARI (RACE): CNBC報導Ferrari shares struggled lately, but Morgan Stanley says concerns overblown。Ferrari品牌定價能力無可匹敵，訂單排到2027+。近期回調是戰事/宏觀憂慮所致，伊朗和談利好奢侈品消費情緒。",
+        "QCOM: SA分析Qualcomm: 'Handsets Are The Worry, But AI Infrastructure Is The Opportunity'。Qualcomm在edge AI/物聯網/汽車chip有顯著增長潛力。手機週期仍低迷，但AI邊緣運算需求提升可成催化劑。"
+      ],
+      "analysis": "伊朗和談協議係今日最大事件。美伊達成框架協議重開霍爾木茲海峽，油價應聲暴跌至3個月低位（WTI $80以下），全球股市暴升，避險資產（黃金、美債）回吐。歐洲股市創歷史新高，亞洲科技股（SoftBank+10%）領漲。但協議細節未曝光——以色列公開反對，Netanyahu稱'life project failed'，戰士仍在加薩/黎巴嫩。協議將於週五簽署，G7峯會（法國）是下一個外交戰場。\n\n第二焦點係SpaceX IPO——上市首日市值突破$2T，超越Tesla成為全球最高估值公司之一。Ark Invest單日買入$5億+，Elon Musk預測SpaceX收入將達萬億美元。但FT和SA均警告估值已脫離基本面，散戶FOMO風險極大。\n\nFOX以$220億收購Roku係最solid嘅event-driven deal。Roku在CTV廣告市場有獨特地位，合併後FOX可大幅擴張數位分發。\n\n宏觀層面：本週Fed（Warsh首秀）、BOJ（日圓短歷史高位）、BOE三央行議息。伊朗和談降低了Fed加息壓力——市場現在定價59% chance of 1 hike by Dec（之前更高）。JPM預計Fed不會有反對票。但Warsh過去支持加息，若意外轉鷹會是major risk event。",
+      "risks": [
+        "伊朗協議極脆弱——以色列公開反對，Netanyahu稱'life project failed'，協議可能在G7期間破裂",
+        "Fed本週會議（Kevin Warsh首次主持）——市場假設dovish，但若Warsh偏向鷹派（他過去支持加息），市場將劇烈調整",
+        "SpaceX IPO狂熱——散戶FOMO入場，FT和SA均警告估值泡沫，若回調可能拖累整個IPO市場情緒",
+        "Magnificent 7資金外流——Risk-on rotation持續從megacap tech流出，NVDA/AMZN/MSFT等短期受壓",
+        "油價雖然暴跌但供應不會立即恢復——JPMorgan's Ward警告oil could become a huge tailwind for stocks，但不能排除反彈",
+        "BOJ週二議息——日圓short處於9年高位，若BOJ意外轉鷹可能引發carry trade unwind"
+      ],
+      "my_take": "今日只有一個主題：伊朗和談。這是一個game-changing event——油價跌穿$80、全球股市暴升、避險資產回吐。但協議細節未明，以色列公開反對，戰士仍然在加薩/黎巴嫩。短線risk-on（long equities, short oil）係合理策略，但必須有catalyst stop。\n\nSpaceX IPO狂熱係第二主題——$2T估值絕對係泡沫級別，但短線動能強勁，trader可以play首日回調後反彈。中線睇Roku/FOX合併係最solid嘅event-driven play。\n\n最大變數係本週三央行：Fed（Warsh首秀）、BOJ（日圓短倉歷史高位）、BOE（通脹壓力）。伊朗和談降低了Fed加息壓力，但Warsh若比市場想像更鷹，會係major risk event。我的positioning：long ROKU/FOXA, short oil via USO, 小注NVDA反彈。",
+      "key_takeaways": [
+        "美伊停火協議主導市場——risk-on全面啟動，油價跌穿$80利好運輸/航空/消費",
+        "SpaceX IPO首日市值破$2T——短線動能可trade但估值泡沫風險極高",
+        "Fox $220億收購Roku——最solid的event-driven機會，監管風險可控",
+        "本週Fed/BOJ/BOE三央行議息——最大風險事件，Warsh立場是關鍵",
+        "Magnificent 7資金外流——rotation從tech轉向cycle/value，QQQ短期受壓"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-15",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "🔥 伊朗和談risk-on全面回歸 — ES期貨+2.08% / NQ+3.05% / 日經+5.0%；VIX跌至16.72；油價跌穿$80",
+      "headlines": [
+        "🔥 ES期貨 7589.75 (+2.08%) — 伊朗和談協議主導，risk-on全面回歸",
+        "🇯🇵 日經225 爆升+5.0%至69,317 — 亞洲risk-on最強確認信號",
+        "🛢️ USO $125.43 (-2.6%) — 伊朗協議油價崩至3個月低位，供應不會立即恢復",
+        "🤖 NQ期貨 +3.05%領漲 — 半導體/AI反彈先鋒，NVDA $200支持確認",
+        "📺 ROKU $143.66 (+20%) — Fox $220億收購爆量，M&A premium全線在望",
+        "🏛️ 本週三央行議息：Fed(Warsh首秀)/BOJ/BOE — 最大變數",
+        "⚠️ 伊朗協議極脆弱 — 以色列公開反對，G7期間可能破裂"
+      ],
+      "focus": [
+        "ROKU/FOXA — M&A event-driven，risk-on環境利好持續",
+        "USO/XLE — Short oil/能源，伊朗協議供應衝擊",
+        "NVDA — $200支持確認，AI散熱股回調後setup改善",
+        "ADBE — AI discount play，等週二/三穩定入場",
+        "Fed (Warsh) — 本週最大風險事件，Fed前減倉"
+      ],
+      "analysis": "🌍 隔夜市場\n\n【US Market Close - 6/12 Friday】\nSPY: 741.75 (+0.54%) — 低位725.33反彈至744.44，尾盤受伊朗和談憧憬推升\nQQQ: 721.34 (+0.59%) — 科技股V型反轉，週中崩至686後強勢收復\nDIA: 513.06 (+0.73%) — 道指穩步反彈，週五成交急增至838萬股（平均500-600萬）\nVIX: 17.68 — 上週收於17.68，今早亞洲盤已跌至16.72（-5.4%），恐慌情緒消散\n\n【ES Futures (S&P 500) 今日】: 7480 → 7589.75 (+2.08%)\n【NQ Futures (Nasdaq) 今日】: 29907 → 30565.75 (+3.05%)\n【YM Futures (Dow) 今日】: 51744 → 52063 (+1.63%)\n→ Nasdaq領漲，risk-on全面回歸，伊朗和談協議成主要催化劑\n\n【亞洲市場今日】\n日經225: 66,020 → 69,317.5（+5.0%）— 爆發性上漲，伊朗和談出口股狂飆\n恆生指數: 24,718 → 24,842（+0.5%）— 跟隨上漲但幅度有限，地產/內銀受壓\n\n【債市】\n10Y國債收益率: 4.45%（週四）→ 最新4.42%（避險資金流出國債）\n2Y國債收益率: 4.05%（週四）→ 最新4.03%（加息預期降溫）\n10Y-2Y Spread: 0.40% → 平坦化趨勢持續，但無衰退信號\nTLT: 85.98 → 85.77（-0.2%），債券缺乏追買\n\n【商品】\nUSO（原油）: 128.83 → 125.43（週五-2.6%）— 伊朗協議重創油價，全週累跌7.2%\nXLE（能源）: 57.12 → 57.55（+0.75%），能源股日線反彈但週線仍弱\nGLD（黃金）: 386.32 → 386.54（微升），黃金企穩—避險情緒回吐但中東不確定性未散\nFXE（美元/歐元）: 106.88 → 106.83，美元靠穩\n\n【BTC】\nBTC-USD: 65,710（今早開）→ 66,194（+0.7%），伊朗和談推動短暫破位，BTC蓄勢$66K-$66.5K阻力\n\n📡 今日重點事件\n\n本週「三央行議息週」——最大變數\n\n【週二6/16】日本央行（BOJ）議息\n- 日圓short倉處於9年高位，若BOJ意外轉鷹→carry trade大規模平倉\n- Nikkei今日已+5%，市場已priced in BOJ按兵不動，surprise risk在於偏鷹\n\n【週三6/17】聯儲局（Fed）議息—Kevin Warsh首秀\n- 市場定價59% chance of at least 1 rate hike by Dec\n- Warsh過去支持加息，若比市場想像鷹→major risk event\n- 伊朗和談降低Fed收緊壓力，但Warsh可能強調通脹仍未受控\n\n【週四6/18】英倫銀行（BOE）議息\n\n【G7峰會本周】— 伊朗協議細節將成核心議題\n- 以色列公開反對協議，Netanyahu稱\"life project failed\"\n- 協議可能在G7期間破裂，這是最大尾部風險\n\n🔥 Sector Watch\n\n【🚀 Momentum Up】\n- 科技（QQQ）: 期貨+3%領漲，AI/半導體反彈先鋒。NVDA從$200反彈至$205，散熱股回調10%後setup吸引\n- 小型股（IWM）: 290.41 → 292.95（+0.9%），risk-on rotation受惠者\n- 金融（XLF）: 52.62 → 53.34（+1.4%），利率穩定環境下銀行股吸引\n- 工業（XLI）: 175.15 → 176.18（+0.6%），運輸/航空板塊受惠油價暴跌\n\n【⚠️ Momentum Down】\n- 能源（XLE/XLE）: USO全週-7.2%，伊朗協議直接打擊。反彈是short機會\n- 公用（XLU）: 44.05 → 44.53（+1.1%），防禦性資金流出明顯\n- Magnificent 7（MAGS）: M7整體落後大市，資金從megacap tech流向周期股\n\n【Rotation Signals】\n- Mega-cap Tech → Small Cap / Value : 確認中。QQQ期貨+3%但有M7資金外流壓力\n- 避險（GLD/TLT）→ 風險（SPY/IWM）: 伊朗和談加速rotation\n\n🎯 Pre-market Opportunities（From News Curator）\n\n▶ ACTION Items\n\n1. OIL (USO/XLE) — Short Oil / Short Energy\n   今日部署: ES/NQ futures暴升+2-3%、USO跌至$125。伊朗協議令油價崩至3個月低位，但供應不會立即恢復。Short USO反彈或買put係最直接trade。若USO今日反彈至$127+可再加short。止損$132。\n\n2. SPCX (SpaceX) — IPO首日狂歡\n   今日部署: $2T市值超越TSLA絕對泡沫級別，但短線動能強勁。首日回調後可trade反彈，但不宜長揸。留意散戶FOMO入場信號。今日pre-market氣氛利好IPO。\n\n3. ROKU (FOXA) — Fox $220億收購\n   今日部署: ROKU週五爆量（1500萬股vs平均240萬）衝$143.66，offer premium fully priced？FOXA從$68.30跌至$65.85，市場對收購協同持懷疑態度。今日risk-on環境利好ROKU繼續向上，FOXA可小注博監管通過後補漲。ROKU阻力$150。\n\n4. NVDA — $200時機\n   今日部署: 伊朗和談全面risk-on，NVDA期貨料跟隨+3%。$200為重要心理關口，上週五已從$203反彈至$205。今日若開$210+可睇$215阻力。散熱股（VRT等）回調10%後setup吸引。\n\n▶ WATCH Items\n\n5. ADBE — Cheapest In Years\n   今日部署: ADBE上週五崩至$204（從$250一週暴跌18%），成交2500萬股天量。AI discount未fully priced。今日risk-on反彈有水位，但需等穩定信號。Watch $210能否守住。\n\n6. FERRARI (RACE) — Morgan Stanley買入信號\n   今日部署: 伊朗和談利好奢侈品消費情緒。RACE近期回調已反映過度憂慮，品牌定價能力無敵。risk-on環境下奢侈品/高端消費可受惠。\n\n7. QCOM — Handsets憂慮/AI機會\n   今日部署: QCOM上週從$217跌至$191後反彈至$211（+10%），edge AI/汽車chip故事吸引。手機週期仍低迷，但今日半導體整體反彈有利QCOM繼續向上。阻力$215。\n\n8. ORCL — Discounted AI Story\n   今日部署: ORCL上週四暴跌7.2%（179.67→184.10），OCI雲端增長故事未變，估值相對AI巨頭有折讓。今日risk-on環境+AI情緒回暖利好ORCL反彈。阻力$190。\n\n9. BTC (BITO) — $66K突破\n   今日部署: BTC已升穿$66K，向$66.5K阻力進發。伊朗和談+Strategy買入$100M利好。StanChart確認底部信號。短線可trade比特幣概念股（MSTR、COIN），但注意歷史pattern顯示BTC可crash至$48K。\n\n10. Treasuries (TLT) — 伊朗和談後收益率下行\n    今日部署: 伊朗和談降低Fed加息壓力，但Warsh鷹派風險未除。TLT今日可受惠債券避險資金流出後的穩定化。不建議今日大注做多TLT——Fed前夕風險不對稱。\n\n📋 Today's Agenda\n\n【Key Levels】\nSPY: Support $735（上週低位）/ Resistance $748（期貨high）/ $752（前高阻力）\nQQQ: Support $712（上週五低位）/ Resistance $725（期貨high）/ $730\nVIX: 16.72（跌至3個月低位）— <16表示市場完全complacent，風險\n\n【本週催化劑Schedule】\n週一 6/15 — G7峰會開始；伊朗協議細節討論；US market opens 21:30 HKT\n週二 6/16 — BOJ議息決議（日間）\n週三 6/17 — Fed議息決議（凌晨02:00 HKT 6/18）— Kevin Warsh首秀！\n週四 6/18 — BOE議息決議\n週五 6/19 — Quad Witching（四巫日）\n\n💡 My Take\n\nOverall Bias: BULLISH (short-term), CAUTIOUS (medium-term)\n\n伊朗和談是game-changing event。今日只有一個主題：risk-on全面回歸。ES期貨+2%、NQ+3%、日經+5%——市場用錢投票。\n\n但我要強調三個風險：\n1. 伊朗協議極脆弱——以色列公開反對，G7期間可能破裂。協議的\"蜜月期\"可能只有幾天\n2. Kevin Warsh首秀——市場假設dovish，但Warsh過去支持加息。若Fed surprise hawkish，市場將劇烈調整\n3. Magnificent 7資金外流——QQQ雖然期貨+3%，但M7整體表現落後。如果megacap tech持續流出，QQQ的漲幅不可持續\n\n我的positioning：\n- Long ROKU/FOXA（M&A premium + risk-on tailwind）\n- Short oil via USO（伊朗協議供應衝擊）\n- 小注NVDA反彈（$200 support confirmed，AI散熱setup改善）\n- Watch ADBE跌過龍機會（AI discount play，等穩定入場）\n- 今週最大變數係Warsh——Fed前減倉，Fed後部署",
+      "risks": [
+        "伊朗協議破裂 — 以色列反對，G7期間有機會翻盤",
+        "Kevin Warsh偏鷹 — 市場假設dovish，surprise hawkish會劇烈調整",
+        "BOJ意外轉鷹 — 日圓short倉9年高位，carry trade unwind風險",
+        "M7資金持續外流 — 科技股結構性弱勢，若持續會壓縮QQQ漲幅",
+        "三央行同日議息 — 流動性風險疊加，波動率可能急升"
+      ],
+      "my_take": "BULLISH (short-term, driven by Iran deal risk-on rally), but CAUTIOUS (medium-term, waiting on Fed/BOJ/BOE and Iran deal durability).\n\n今日最緊要睇實：\n1. ES期貨能否守住+2%（若回落至+1%以下表示risk-on動力減弱）\n2. G7期間以色列反應——任何Iran deal破裂signal會立即逆轉今日漲幅\n3. Warsh言論——Fed前夕個倉位不要太重\n\n改變之前thesis的關鍵信號：\n- 伊朗和談超越預期達成協議——油價跌穿$80，全球貿易/運輸成本下降\n- VIX從22.22暴跌至16.72——市場恐慌完全消退\n- 日經+5%是亞洲risk-on的最強確認\n- 但M7資金流出+科技股週中崩盤（QQQ曾跌至686）顯示結構性weakness仍在"
     }
   ]
 }
