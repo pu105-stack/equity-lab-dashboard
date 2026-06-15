@@ -17,6 +17,7 @@ export default function App({ Component, pageProps }) {
     { href: '/holdings', label: 'Holdings' },
     { href: '/charts', label: 'Charts' },
     { href: '/long-trade-system', label: 'Long Trade System' },
+    { href: '/day-trading-system', label: 'Day Trading' },
     { href: '/system', label: 'System' },
   ]
 

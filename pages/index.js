@@ -5,6 +5,7 @@ const quickLinks = [
   { href: '/daily-ops', icon: '📋', label: 'Daily Ops', desc: '所有 pipeline 最新 output', color: '#3b82f6' },
   { href: '/deep-dive', icon: '🔬', label: 'Deep Dive Candidates', desc: 'New tickers waiting for analysis', color: '#a855f7' },
     { href: '/deep-dive-results', icon: '📊', label: 'Deep Dive Results', desc: 'Completed analyses with BUY/WATCH/PASS', color: '#ec4899' },
+  { href: '/day-trading-system', icon: '🐍', label: 'Day Trading', desc: 'VIPER — intraday technical trader, 3-core strategies', color: '#22c55e' },
   { href: '/system', icon: '⚙️', label: 'System Overview', desc: 'Architecture, pipelines, tech stack', color: '#f59e0b' },
 ]
 
