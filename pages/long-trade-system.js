@@ -20,10 +20,10 @@ const processes = [
     items: [
       { icon: '✅', label: 'Deep Dive Check', detail: 'Verdict = BUY? 基本面 OK? Fair value 有 upside?' },
       { icon: '💰', label: 'Price Check', detail: '現價 vs fair value → 入場時機合理?' },
-      { icon: '📋', label: '12-Item Pre-Trade Checklist', detail: 'pre-trade-check.py — 逐一驗證所有條件' },
-      { icon: '⚖️', label: 'Position Sizing', detail: 'Kelly sizing — 1% risk per trade, 5-8 positions max' },
-      { icon: '🎯', label: 'R/R Calculation', detail: 'Risk/Reward ≥ 1:2 先入場' },
-      { icon: '🛡️', label: 'Portfolio Check', detail: 'Sector concentration < 30%? Max daily risk 4%?' },
+      { icon: '📋', label: '12-Item Pre-Trade Checklist', detail: 'pre-trade-check.py — 逐一驗證，One fail = PASS (唔入)' },
+      { icon: '⚖️', label: 'Position Sizing', detail: 'Kelly × 25% × VIX adjustment — max 15% per position' },
+      { icon: '🎯', label: 'R/R Calculation', detail: 'SL = 2×ATR(14), TP = 3×SL, R/R ≥ 1:2 先入場' },
+      { icon: '🛡️', label: 'Portfolio Check', detail: 'Sector < 30%? Position > 15%→alert. Open ≤ 5 trades' },
     ],
     color: '#a855f7',
   },
@@ -31,9 +31,11 @@ const processes = [
     name: 'Execution',
     icon: '⚡',
     items: [
-      { icon: '🗣️', label: 'Proposal to Oscar', detail: 'Format: ticker + entry + SL + TP + R/R → Oscar confirms' },
-      { icon: '📝', label: 'Trade Journal', detail: 'journal.py — 每單 trade 完寫反思' },
-      { icon: '📈', label: 'Position Monitor', detail: 'P&L tracking, SL/TP 距離 alert' },
+      { icon: '🗣️', label: 'Proposal to Oscar', detail: 'Format: trade-proposal-format.md → Oscar: buy / size X / cancel' },
+      { icon: '📝', label: 'Trade Journal', detail: 'journal.py — 每單 trade 完寫反思 + 評分' },
+      { icon: '📈', label: 'Position Monitor', detail: 'P&L tracking, SL/TP 距離 alert, trailing stop' },
+      { icon: '🔍', label: 'Market Open Gap Check', detail: '21:30/22:30 HKT — 睇 overnight gap 有冇 breach SL/TP' },
+      { icon: '🆕', label: 'Mid-Week Checkpoint', detail: 'Wed 21:00 — re-check Sat fails + new BUY scan' },
       { icon: '📊', label: 'Weekly Review', detail: 'Sat 10am — Performance + Positions + Pipeline review' },
       { icon: '📑', label: 'Monthly Review', detail: '1st Sat — P&L vs SPY + Attribution + Risk + Journal' },
     ],
@@ -42,29 +44,34 @@ const processes = [
 ]
 
 const schedules = [
-  { time: '09:30 HKT', playbook: 'morning', what: '☀️ Morning Check: Evening Review recap + open positions + P&L + risk metrics + economic calendar', type: 'auto' },
+  { time: '09:30 HKT', playbook: 'morning', what: '☀️ Morning Check: Evening Review recap + open positions + P&L + risk metrics + economic calendar + MTM snapshot', type: 'auto' },
   { time: '21:00 HKT', playbook: 'premarket', what: '🌅 Premarket Check: Positions + BUY scan from Deep Dive + live prices + event risk (FOMC/earnings)', type: 'auto' },
-  { time: 'Sat 10:00 HKT', playbook: 'weekly', what: '📈 Weekly Review: Performance summary + positions review + pipeline recap + deep dive follow-up + week ahead', type: 'auto' },
+  { time: 'Wed 21:00 HKT', playbook: 'mid-week', what: '🆕 Mid-Week Checkpoint: Re-check Sat FAIL candidates with current prices + new BUY scan + quick SL/TP alert', type: 'auto' },
+  { time: 'Sat 10:00 HKT', playbook: 'weekly', what: '📈 Weekly Review 🔑: Performance + positions + pre-trade-check on ALL BUY/WATCH → trade proposals', type: 'auto' },
   { time: '1st Sat 11:00 HKT', playbook: 'monthly', what: '📊 Monthly Review: P&L vs SPY + attribution analysis + risk metrics + trade journal review', type: 'auto' },
-  { time: 'Ad-hoc', playbook: 'pre-trade-check', what: '🔍 Pre-Trade: Oscar sees BUY candidate → 12-item checklist → position size → propose', type: 'manual' },
+  { time: '~21:30/22:30 HKT', playbook: 'gap-check', what: '🔍 Market Open Gap Check: Overnight gap breach SL/TP? Alert Oscar if triggered', type: 'manual' },
+  { time: 'Ad-hoc', playbook: 'pre-trade-check', what: '🔍 Pre-Trade: BUY candidate → 12-item checklist → position-size.py → propose to Oscar', type: 'manual' },
   { time: 'Ad-hoc', playbook: 'request-deep-dive', what: '🔬 Request Maya: Anya spots candidate → request-deep-dive.py → Maya picks up next poll', type: 'manual' },
   { time: 'Ad-hoc', playbook: 'journal', what: '📝 Trade Reflection: Trade closed → journal.py write reflection', type: 'manual' },
 ]
 
 const riskRules = [
-  { rule: 'Account', value: '$100,000 (demo)' },
-  { rule: 'Max Risk / Trade', value: '1-2% ($1,000 - $2,000)' },
-  { rule: 'Max Risk / Day', value: '4% ($4,000)' },
-  { rule: 'Max Open Positions', value: '5-8' },
+  { rule: 'Max Loss / Trade', value: '-8% (SL = 2×ATR floor)' },
+  { rule: 'Max Daily Loss', value: '-4% of portfolio → stop trading' },
+  { rule: 'Max Weekly Loss', value: '-8% of portfolio → full review' },
+  { rule: 'Max Monthly Loss', value: '-15% of portfolio → strategy review' },
+  { rule: 'Max Open Positions', value: '5' },
   { rule: 'Max Sector Concentration', value: '30% of portfolio' },
-  { rule: 'Min R/R Ratio', value: '1:2' },
-  { rule: 'Stop Loss Range', value: '5-10% (position trades)' },
-  { rule: 'Position Sizing', value: 'Kelly formula: Size = Risk / (Entry - Stop)' },
+  { rule: 'Max Position Size', value: '15% of portfolio' },
+  { rule: 'Max Daily Trades', value: '3 (wait till tomorrow)' },
+  { rule: 'Min R/R Ratio', value: '1:2 (≥ 2:1)' },
+  { rule: 'Position Sizing', value: 'Kelly × 25% × VIX adjustment' },
 ]
 
 const dbTables = [
   { name: 'trades', desc: 'All trade records (trader=anya)', type: 'relational' },
   { name: 'account', desc: 'Cash + equity balance', type: 'relational' },
+  { name: 'account_snapshots', desc: 'Daily portfolio snapshots (total_value, cash, positions, daily_pnl)', type: 'relational' },
   { name: 'anya_logs', desc: 'Checkpoint run index', type: 'relational' },
   { name: 'deep_dive_requests', desc: 'Anya → Maya: request deep dive', type: 'relational' },
   { name: 'deep_dive_results', desc: 'Maya: BUY/WATCH/PASS decisions', type: 'relational' },
@@ -74,20 +81,23 @@ const dbTables = [
 const scripts = [
   { name: 'daily-check.py --playbook morning', when: 'Cron 09:30', what: 'Full morning briefing: positions + P&L + risk + calendar + Evening Review recap' },
   { name: 'daily-check.py --playbook premarket', when: 'Cron 21:00', what: 'Pre-market prep: BUY scan + live price + event risk' },
-  { name: 'daily-check.py --playbook weekly', when: 'Cron Sat 10:00', what: 'Weekly performance + positions + pipeline + deep dive + week ahead' },
+  { name: 'daily-check.py --playbook mid-week', when: 'Cron Wed 21:00', what: 'Mid-week: re-check Sat fails + new BUY scan + SL/TP alert' },
+  { name: 'daily-check.py --playbook weekly', when: 'Cron Sat 10:00', what: 'Weekly performance + positions + pipeline + pre-trade on BUY/WATCH + proposals' },
   { name: 'daily-check.py --playbook monthly', when: 'Cron 1st Sat 11:00', what: 'Monthly P&L vs SPY + attribution + risk + journal' },
-  { name: 'pre-trade-check.py TICKER LONG PRICE', when: 'Manual (BUY found)', what: '12-item checklist before trade entry' },
-  { name: 'position-size.py TICKER PRICE --source X', when: 'Manual (checklist pass)', what: 'Kelly formula position sizing' },
-  { name: 'request-deep-dive.py TICKER "reason"', when: 'Manual (candidate spotted)', what: 'Request Maya for deep dive analysis' },
+  { name: 'pre-trade-check.py TICKER LONG PRICE', when: 'Manual (BUY found)', what: '12-item checklist — ALL must PASS, one fail = no trade' },
+  { name: 'position-size.py TICKER PRICE --source X', when: 'Manual (checklist pass)', what: 'Kelly formula × 25% × VIX adjustment' },
+  { name: 'request-deep-dive.py TICKER "reason"', when: 'Manual (candidate spotted)', what: 'Request Maya for deep dive analysis via deep_dive_requests table' },
   { name: 'journal.py TRADE_ID "reflection"', when: 'Manual (trade closed)', what: 'Write trade reflection to journal' },
+  { name: 'trades_db.py trader=anya open/close ...', when: 'Manual (Oscar confirmed)', what: 'Execute/open or close a trade after Oscar confirmation' },
 ]
 
 const coreRules = [
   { icon: '⛔', rule: 'Never execute without Oscar confirmation' },
-  { icon: '💡', rule: 'Pass = 唔輸錢 — no setup = no trade' },
-  { icon: '📋', rule: 'All proposals follow trade-proposal-format.md' },
-  { icon: '📁', rule: 'All output auto-saved to /docker-data/anya/{checkpoint}-review/' },
+  { icon: '💡', rule: 'Pass = 唔輸錢 — one checklist fail = no trade, no exceptions' },
+  { icon: '📋', rule: 'All proposals follow trade-proposal-format.md (OPEN + CLOSE sections)' },
+  { icon: '📁', rule: 'All output auto-saved to /docker-data/anya/{checkpoint}-review/ + DB index' },
   { icon: '🤝', rule: 'Anya → Maya via deep_dive_requests table (delegation)' },
+  { icon: '🧠', rule: 'Anya decides, Oscar confirms — never ask Oscar "which one?"' },
   { icon: '📊', rule: 'DB = source of truth, JSON = display layer' },
   { icon: '🔄', rule: 'update-dashboard.py --sync-only post-pipeline for git push' },
 ]
@@ -223,6 +233,10 @@ export default function LongTradeSystem() {
           <pre className="schema-sql">{`trades (id, ticker, direction, entry_price, qty, stop_loss, target,
        status, pnl, pnl_pct, entry_at, exit_at, trader VARCHAR(20) DEFAULT 'anya')
 
+account (id, cash, equity, updated_at)
+
+account_snapshots (id, total_value, cash, positions, daily_pnl, taken_at)
+
 anya_logs (id, playbook, run_at, status, summary, output_path)
 
 deep_dive_requests (id, ticker, reason, requested_by, status, created_at)
@@ -253,11 +267,50 @@ weekly_screen (id, ticker, category, deep_dive_status, reasoning)`}</pre>
         </div>
       </Section>
 
+      {/* Trade Flow */}
+      <Section title="Trade Flow (On-Demand)" icon="🌊" color="#06b6d4" defaultOpen={false}>
+        <pre className="schema-sql">{`═══ BUY FLOW ═══
+
+BUY signal found
+  │
+  ├─ 🔍 pre-trade-check.py TICKER LONG PRICE
+  │    12 items → ALL MUST PASS
+  │    └─ FAIL → reject, report why
+  │
+  ├─ 📐 position-size.py TICKER PRICE --source X
+  │    Kelly formula → shares, SL, TP, risk
+  │
+  ├─ 📋 PHASE 1: Full Analysis (6 sections)
+  │    Deep Dive + Financial Health + Catalysts
+  │    + Price Context + Risk + Portfolio Fit
+  │
+  ├─ 📋 PHASE 2: PROPOSE TO OSCAR
+  │    Format: trade-proposal-format.md
+  │    Wait for: buy / size X / cancel
+  │
+  └─ ✅ EXECUTE (only after Oscar confirms)
+       trades_db.py trader=anya open TICKER LONG QTY @PRICE SL X TP X
+
+═══ CLOSE FLOW ═══
+
+SL hit / TP hit / thesis broken
+  │
+  ├─ 📋 PROPOSE CLOSE TO OSCAR
+  │    Format: trade-proposal-format.md (CLOSE section)
+  │    Wait for: yes / let it run / adjust SL
+  │
+  └─ ✅ EXECUTE (only after Oscar confirms)
+       trades_db.py trader=anya close TRADE_ID @PRICE
+       → journal.py TRADE_ID "reflection"`}</pre>
+      </Section>
+
       {/* Data Flow */}
-      <Section title="Data Flow Architecture" icon="🌊" color="#06b6d4" defaultOpen={false}>
+      <Section title="Data Flow Architecture" icon="🌐" color="#84cc16" defaultOpen={false}>
         <pre className="schema-sql">{`Anya (Docker)                        Maya (Docker)                      Vercel
     │                                      │                                 │
     ├─ daily-check.py ──────────────────►  │                                 │
+    │   (morning / premarket / mid-week    │                                 │
+    │    / weekly / monthly)               │                                 │
     │                                      │                                 │
     ├─ request-deep-dive.py ──────────► INSERT deep_dive_requests            │
     │                                          │                             │
@@ -295,6 +348,7 @@ weekly_screen (id, ticker, category, deep_dive_status, reasoning)`}</pre>
         .section:nth-of-type(5) .section-icon-wrap { background: rgba(56,189,248,0.15); }
         .section:nth-of-type(6) .section-icon-wrap { background: rgba(236,72,153,0.15); }
         .section:nth-of-type(7) .section-icon-wrap { background: rgba(6,182,212,0.15); }
+        .section:nth-of-type(8) .section-icon-wrap { background: rgba(132,204,22,0.15); }
         .section-title { font-size: 14px; font-weight: 600; color: #f0f6fc; }
         .section-arrow { transition: transform 0.2s; display: flex; color: var(--accent); opacity: 0.5; }
         .section-arrow.open { transform: rotate(180deg); }
