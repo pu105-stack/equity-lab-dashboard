@@ -17,8 +17,7 @@ const processes = [
     name: 'Market Open',
     icon: '🎯',
     items: [
-      { icon: '👁️', label: 'Observe Only (15min)', detail: '21:30-21:45 HKT — watch opening, no entries' },
-      { icon: '🔍', label: '4 Scan Sessions', detail: '22:00 / 22:30 / 23:00 / 23:30 — 5 strategies checked' },
+      { icon: '🔍', label: '15-min Scan Loop', detail: 'Watchlist loop, 5 strategies checked. Observe 21:30-21:45 (no entries). Focus: 22:00 ORB, 22:30 Vol+EMA, 23:00 All, 23:30 VWAP MR only' },
       { icon: '📊', label: 'Chart + Propose', detail: 'mplfinance chart → signal → propose to Oscar' },
       { icon: '✅', label: '7 Hard Gates', detail: 'Avg vol > 1M, spread ≤ 0.05%, ATR ≤ 5%, no earnings, not Anya, daily loss < 2%, trades < 8' },
       { icon: '📈', label: '3 Core Strategies', detail: 'VWAP MR, Opening Range Breakout, Volume Surge' },
@@ -42,10 +41,8 @@ const processes = [
 const schedules = [
   { time: '21:00 HKT', playbook: 'premarket', what: '🌅 Premarket Brief: Build watchlist from 7 sources, VIX check, Anya exclude, earnings drop → top 5-15', type: 'auto' },
   { time: '21:05 HKT', playbook: 'backfill', what: '📦 Intraday Backfill: Alpaca 5d 5-min bars for 20 startup tickers', type: 'auto' },
-  { time: '21:30-21:45 HKT', playbook: 'observe', what: '👁️ Observe Only: Watch opening tick, no entries, wait for 15min candle', type: 'manual' },
   { time: '21:32-03:58 HKT', playbook: 'collect', what: '📡 Intraday Collect: 2-min live heartbeat snapshot for watchlist', type: 'auto' },
-  { time: '21:35-03:55 HKT', playbook: 'scan-15min', what: '🔍 Scan 15min: Watchlist loop + 5 strategy signals → propose to Oscar', type: 'auto' },
-  { time: '22:00/22:30/23:00/23:30 HKT', playbook: 'scan-sessions', what: '🎯 4 Scan Sessions: ORB → Volume + EMA → All strategies → VWAP MR only', type: 'manual' },
+  { time: '21:35-03:55 HKT', playbook: 'scan-15min', what: '🔍 Scan 15min: Watchlist loop + 5 strategy signals → propose. ⚠️ Observe 21:30-21:45 (no entries, wait for 15min candle). Focus: 22:00 ORB, 22:30 Vol+EMA, 23:00 All, 23:30 VWAP MR only', type: 'auto' },
   { time: '03:55 HKT', playbook: 'eod-close', what: '🌙 EOD Force-Close: Blind close ALL positions, no overnight hold. Safety net.', type: 'auto' },
   { time: '10:00 HKT (Tue-Sat)', playbook: 'postmarket', what: '📊 Daily P&L: Closed trades, rolling P&L, win rate, equity vs seed $100K', type: 'auto' },
   { time: 'Sat 22:00 HKT', playbook: 'weekly-review', what: '📈 Weekly Review: Strategy attribution, parameter tuning, watchlist refresh', type: 'auto' },
