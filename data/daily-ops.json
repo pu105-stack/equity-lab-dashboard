@@ -860,57 +860,6 @@
       "my_take": "BULLISH (short-term, driven by Iran deal risk-on rally), but CAUTIOUS (medium-term, waiting on Fed/BOJ/BOE and Iran deal durability).\n\n今日最緊要睇實：\n1. ES期貨能否守住+2%（若回落至+1%以下表示risk-on動力減弱）\n2. G7期間以色列反應——任何Iran deal破裂signal會立即逆轉今日漲幅\n3. Warsh言論——Fed前夕個倉位不要太重\n\n改變之前thesis的關鍵信號：\n- 伊朗和談超越預期達成協議——油價跌穿$80，全球貿易/運輸成本下降\n- VIX從22.22暴跌至16.72——市場恐慌完全消退\n- 日經+5%是亞洲risk-on的最強確認\n- 但M7資金流出+科技股週中崩盤（QQQ曾跌至686）顯示結構性weakness仍在"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-16",
-      "time": "08:09 HKT",
-      "status": "success",
-      "market_direction": "伊朗和平協議主導市場，風險資產全面risk-on。美股創新高(Dow record close)，SPX受惠能源成本下降。油價暴跌5%+、VIX急跌、美元走弱、債券rally。資金由能源流向科技+金融+消費。SpaceX IPO成最大焦點。聯儲預期按兵不動(Warsh era開始)，Iran deal = 通脹降溫 = 減息空間打開。",
-      "headlines": [
-        "ACTION: MU — MU: TD Cowen says has more room to run after +224% YTD, raised PT | AI記憶體週期結構性需求強勁。HBM3E ramp-up + DDR5 定價權。+224% YTD仍有上升空間，TD Cowen買入評級+目標價上調。Hynix同週期做佐參考。",
-        "ACTION: WDC — WDC: S&P 500 biggest gainer Monday, gross margin crossed 50%, revenue +45% YoY | AI存儲純標的，Sandisk分拆後成HDD純玩家。毛利率破50%、營收年增45%係里程碑。The AI storage trade nobody saw coming. 持續動能。",
-        "ACTION: RKLB — RKLB: KeyBanc says buy the dip on rocket stocks sold off on SpaceX IPO | SpaceX IPO後火箭股被錯殺。SpaceX $2T估值提振整個太空板塊。KeyBanc話買跌。RKLB有NASA合約+電子火箭重複使用，基本面具支撐。",
-        "ACTION: PAYX — PAYX: Citi sees 40% gain, likes big dividend payout | Citi目標價40%上行空間。Paychex受惠中小企就業市場韌性+股息率吸引。防禦+增長組合，市場輪動中具吸引力。",
-        "ACTION: COP — COP: Set to sign deal with Syria to revive gas production — first US major since civil war | 首間美國能源巨頭重返敘利亞。地緣政治風險但天然氣生產復甦潛力巨大。伊朗和平協議背景下中東穩定性改善，利好COP中東業務擴張。",
-        "ACTION: SPY/QQQ/DIA — US-Iran Peace Deal: Macro game-changer — oil down, stocks up, bonds rally | 宏觀層面最大催化劑。Hormuz重開=能源成本下降=通脹壓力降溫=聯儲減息空間擴大。JP Morgan話油價下跌係全球股市巨大順風。Trump考慮$300B Iran fund=$重建需求。市場risk-on模式開啟。",
-        "WATCH: NVDA — NVDA: Raises $20-25B in first bond sale since 2021 — AI borrowing frenzy | 史上最大AI債券發行之一。低成本融資用於AI基建擴張/回購潛力。但發債時機值得留意：係資本結構優化定signal stock係咪overvalued？等details。",
-        "WATCH: FOXA/ROKU — FOXA: Acquires Roku for $22B — streaming consolidation play | Roku $22B收購價合理但需監管審批。Fox向CTV轉型，Roku的OS+廣告技術有協同。等closing確定性。",
-        "WATCH: XLF/KBE/JPM/BAC — Bank Stocks (XLF/KBE): Momentum building for breakout — Katie Stockton | 技術分析顯示銀行股突破在即。利率長期higher for longer + 市場broadening beyond tech。伊朗和平利好全球貿易融資活動。等CPI/FOMC確認。",
-        "WATCH: CRM — CRM: Acquires AI customer service platform Fin for $3.6B | Agentforce擴張策略。Fin嘅AI客服技術與CRM現有平台整合。AI agent企業應用賽道。但$3.6B唔細，monitor integration execution。",
-        "WATCH: BTC/MSTR — BTC: Hits $65.5K+ on Iran peace deal — 'crypto spring' narrative | 伊朗和平協議 = 風險資產全面risk-on。BTC破$65K、XRP突破$1.20。Saylor再買1,587 BTC。CFTC批准perps登陸美國。結構性利好累積中。",
-        "WATCH: XLE/USO/OIH — Oil/XLE: SPR hits lowest since 1983, Iran deal to reopen Hormuz — oil -5% | 短期油價受壓(Hormuz重開)，但SPR處於41年低位。全球供應面仍然偏緊。伊朗deal細節未明(300B fund附帶條件)。油價跌係買入機會。",
-        "NOTE: RACE — RACE: Morgan Stanley says concerns overblown, shares should rise | 奢侈品需求韌性。Purosangue+新產品週期支撐。近期回調後估值吸引，MS睇好。市場awareness item。",
-        "NOTE: GLD/IAU — Gold: Holds gains as Iran deal reduces safe-haven demand but dollar weakens | 伊朗deal短期壓制避險需求，但美元弱勢+利率預期下調支撐金價。中長線央行購金趨勢不變。",
-        "NOTE: BNZL — BNZL: Elliott presses Bunzl for buybacks after building stake | Elliott activism catalyst。Bunzl分銷業務現金流強勁，回購空間大。但歐洲盤，留意Elliot持股披露。"
-      ],
-      "opportunities": [
-        "MU: AI記憶體超級週期未完。HBM3E獨供Nvidia + DDR5定價權。TD Cowen目標價上調，回調即買。",
-        "WDC: AI存儲新星。毛利率破50%係結構性改變唔係一次性。Sandisk分拆後價值釋放。Momentum trading friendly。",
-        "RKLB: SpaceX IPO效應外溢。火箭股被錯殺嘅買入窗口。NASA合約+電子火箭reusability。Space sector re-rating中。",
-        "PAYX: 中小企就業市場韌性+股息率=防禦性增長。Citi 40% upside明確目標。輪動市資金偏好value+dividend。",
-        "COP: 敘利亞天然氣+伊朗和平雙重催化。中東穩定性改善利好油企擴張。風險回報吸引。",
-        "XLF/KBE: 銀行股技術突破在即。利率居高不下+NIM擴張+資本回報。市場broadening嘅主要受惠者。",
-        "BTC/XRP: 'Crypto spring'。CFTC批准perps、Saylor持續買入、現貨ETF資金流入。伊朗和平觸發risk-on flow入crypto。"
-      ],
-      "analysis": "呢個session係典型嘅'peace dividend'交易。伊朗deal係game changer — 唔單止係地緣政治，而係直接影響能源成本->通脹->聯儲政策路徑嘅macro chain reaction。\n\n最大嘅投資主題有幾個：\n1) AI infrastucture spending繼續加速 — NVDA發$25B債、CRM買Fin、空間科技IPO全部指向AI capital expenditure超級週期。MU/WDC作為AI記憶體+存儲嘅supplier直接受惠。\n2) 市場rotation from tech到value/bank係真嘅 — VIX跌、油價跌、長債息跌都support bank stocks。Katie Stockton嘅技術分析信號值得重視。\n3) 'Crypto spring' narrative正在building — BTC上$65K、XRP breakout、CFTC監管框架推進。如果伊朗deal鞏固+聯儲轉鴿，crypto可能係下半年最大驚喜。\n\n我最鍾意嘅setup係MU同WDC — AI記憶體/存儲雙重暴露，估值未到頂。RKLB係更高風險但更高中期回報嘅space sector bet。\n\nWarning: Iran deal嘅60日MOU係最大變數。Details未出之前，油價嘅跌幅可能overdone。不要全倉追能源short。",
-      "risks": [
-        "伊朗和平協議執行風險：60-day MOU細節未明，以色列反對+國內共和黨分裂。任何breakdown => 油價V型反彈",
-        "聯儲6月FOMC：Warsh上任後首次會議，市場對減息預期可能太樂觀。如果hold + hawkish tone => 股市回調",
-        "NVDA $25B發債：超大規模融資或暗示stock overvalued/equity financing成本高。AI credit bubble風險",
-        "中國通縮+印尼鎳政策：全球增長風險仍然存在。China demand recovery唔確定",
-        "SpaceX IPO狂熱已推高估值至$2T+，若回調將拖累整體risk sentiment",
-        "日本BOJ利率決議：Yen short處於9年高位，BOJ意外加息 => carry trade unwind衝擊全球市場"
-      ],
-      "my_take": "呢個session係典型嘅'peace dividend'交易。伊朗deal係game changer — 唔單止係地緣政治，而係直接影響能源成本->通脹->聯儲政策路徑嘅macro chain reaction。\n\n最大嘅投資主題有幾個：\n1) AI infrastucture spending繼續加速 — NVDA發$25B債、CRM買Fin、空間科技IPO全部指向AI capital expenditure超級週期。MU/WDC作為AI記憶體+存儲嘅supplier直接受惠。\n2) 市場rotation from tech到value/bank係真嘅 — VIX跌、油價跌、長債息跌都support bank stocks。Katie Stockton嘅技術分析信號值得重視。\n3) 'Crypto spring' narrative正在building — BTC上$65K、XRP breakout、CFTC監管框架推進。如果伊朗deal鞏固+聯儲轉鴿，crypto可能係下半年最大驚喜。\n\n我最鍾意嘅setup係MU同WDC — AI記憶體/存儲雙重暴露，估值未到頂。RKLB係更高風險但更高中期回報嘅space sector bet。\n\nWarning: Iran deal嘅60日MOU係最大變數。Details未出之前，油價嘅跌幅可能overdone。不要全倉追能源short。",
-      "key_takeaways": [
-        "伊朗和平協議係宏觀最大催化劑，risk-on mode全面開啟",
-        "AI記憶體/存儲(MU/WDC)係最具retail+institutional雙重flow嘅板塊",
-        "銀行股(XLF)技術突破醞釀中，市場rotation結構性",
-        "Crypto spring：BTC破$65K、XRP突破、CFTC監管創新，結構性利好湊合",
-        "NVDA發$25B債係signal但唔一定negative，要睇融資用途",
-        "最大風險：Iran deal執行、FOMC tone、BOJ利率意外"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-16",
       "time": "08:41 HKT",
@@ -949,6 +898,79 @@
         "XLE (-3.47%) rebound risk — Oil oversold on deal euphoria. SPR at 41-year low. Supply still tight. Energy short squeeze potential"
       ],
       "my_take": "今日係2026年最重要嘅risk-on session之一。伊朗和平協議係game changer — 唔單止係地緣政治解除，而係直接影響能源成本→通脹→聯儲政策路徑嘅macro chain reaction。\n\n最大嘅投資主題：\n1) AI infrastructure spending繼續加速 — NVDA發$25B債、CRM買Fin、SpaceX IPO全部指向AI capital expenditure超級週期。MU/WDC作為AI記憶體+存儲嘅supplier直接受惠，今日+10-16%證明資金認同呢個敘事。\n2) 市場rotation from tech到value/bank係真嘅 — VIX跌、油價跌、長債息跌都support bank stocks。XLF連續多日跑贏。Katie Stockton嘅技術分析信號值得重視。\n3) 'Crypto spring' narrative正在building — BTC上$65K、XRP突破$1.19、CFTC監管框架推進。如果伊朗deal鞏固+聯儲轉鴿，crypto可能係下半年最大驚喜。\n\n我最鍾意嘅setup係MU同WDC — AI記憶體/存儲雙重暴露，估值未到頂。RKLB係更高風險但更高中期回報嘅space sector bet。\n\n⚠️ Warning: Iran deal嘅60日MOU係最大變數。Details未出之前，油價嘅跌幅可能overdone。XLE今日-3.47%可能係buyable dip。不要全倉追能源short。\n\nTomorrow bias: 🟢 Bullish — momentum carries, but watch for post-deal consolidation around SPY 755-760. CPI/FOMC afterglow + earnings season building."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-16",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "伊朗和平協議達成主導市場 — 油價暴跌至3月低位，環球股市大反彈；BOJ加息至31年高位1%；Fed首次Warsh會議料按兵不動；SpaceX IPO狂潮持續；BTC累積信號強烈",
+      "headlines": [
+        "ACTION: USO/XLE/XOM/CVX — 伊朗和平協議達成，油價戰時溢價快速消退，銀行下調預測，戰略短線做空能源",
+        "ACTION: SPY/QQQ — 環球股市因伊朗和平預期大反彈，框架協議最快本周簽署，risk-on mode",
+        "ACTION: BTC/IBIT — 250K BTC累積於$59-67K，BlackRock推出比特幣收益基金，地緣風險消退利好",
+        "WATCH: NVDA — $200億+債券融資計劃，2021年來首次，測試AI投資者胃口",
+        "WATCH: MSFT/GOOGL — SpaceX IPO後狂潮，超越Amazon成第五大公司，$600億收購Cursor進軍AI",
+        "WATCH: JPY/DXJ — BOJ加息至1%（31年高位），日本結束超寬鬆，carry trade影響",
+        "WATCH: HOOD — 裁員10%追求精簡，股價連漲4日，成本削減短期利好",
+        "WATCH: NVDA/AMD — OpenAI $340億支出+市場份額跌穿50%，AI競爭白熱化"
+      ],
+      "opportunities": [
+        "USO/XLE: 伊朗和平協議直接衝擊油價 — Morgan Stanley/GS下調預測，SPR壓價，戰時溢價消退。戰術性short能源/長equity rotation。但注意以色列可能阻礙協議，不宜過度重倉",
+        "SPY/QQQ: 和平協議解鎖risk-on模式。S&P 500突破前高動能強勁。框架協議若本周簽署將進一步催化。適合加倉指數long",
+        "BTC: $59-67K區間強烈累積（250K+ BTC），BlackRock機構級產品支持，地緣風險消退 = crypto重估。技術性反彈目標$75K+",
+        "NVDA: $200億債券融資可能用於AI基建擴張。若資金用途為capex而非buyback，是長期 bullish signal。適合逢低建倉"
+      ],
+      "analysis": "今日（6月16日）Asian/European session共掃描41條RSS feeds，獲取176篇新聞文章。核心驅動因素：（1）伊朗和平協議達成 — 美國與伊朗簽署MOU，Strait of Hormuz預計重開，油價暴跌至3月以來低位，Morgan Stanley/GS下調預測；（2）環球股市大反彈 — DealBook確認框架協議最快本周簽署，S&P 500強勢突破；（3）BOJ加息至1% — 31年高位，日本結束超寬鬆時代；（4）SpaceX IPO狂潮 — $87.5B募資，超越Amazon成第五大公司，$60B收購Cursor；（5）NVDA $200億+債券融資 — 2021年來首次；（6）BTC 250K累積於$59-67K — BlackRock推出收益基金。整體市場處於peace deal-driven risk-on模式，但中東局勢仍有不確定性。",
+      "risks": [
+        "以色列可能破壞伊朗協議 — Netanyahu政治困境，若以色列繼續打擊黎巴嫩真主黨，協議可能破裂",
+        "海灣水雷威脅 — 即使協議達成，海峽清理水雷需時，油價短期下行空間有限",
+        "Fed政策風險 — Warsh首次會議移除寬鬆傾向，若通脹數據超預期可能轉鷹",
+        "AI估值泡沫 — Howard Marks警告AI股投機，NVDA $200億債券融資時機值得關注",
+        "中國需求疲弱 — 煉油廠開工率4年低點，原油進口8年低點，全球需求前景不明"
+      ],
+      "my_take": "今日新聞格局出現重大轉折：伊朗戰爭100天後達成和平協議，這是2026年以來最重要的宏觀事件。油價戰時溢價開始消退（但不會一蹴而就），環球股市risk-on反彈。我認為這個momentum可以持續至少到框架協議正式簽署（最快本周）。策略上：(1) short energy / long equity rotation — 但淺嘗即止，因中東局勢仍有變數；(2) BTC累積信號強+BlackRock產品支持，技術面+基本面共振；(3) NVDA債券融資值得深究 — $200億不是小數目，如果資金用於AI基建，是長期利好。SpaceX IPO狂潮帶動整個space/AI生態系估值重估，MSFT/GOOGL間接受益。最大風險：以色列搗亂、水雷清理需時、Fed轉鷹。保持靈活，不宜過度集中於單一方向。",
+      "key_takeaways": [
+        "伊朗和平協議是最大變數改變者 — 油價下跌/股市反彈/風險偏好回升",
+        "BTC累積信號強勁，BlackRock產品支持，地緣風險消退推動crypto重估",
+        "SpaceX IPO改寫市場敘事 — space economy估值重估，間接利好大型科技股",
+        "BOJ加息至1%標誌日本貨幣政策正常化，全球資金流向將受影響",
+        "NVDA/Semi賽道長線看好但短期估值偏高 — Howard Marks的警告值得注意"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-16",
+      "time": "20:36 HKT",
+      "status": "success",
+      "market_direction": "Bullish — 伊朗和平協議引爆risk-on反彈，SPY +1.76%/QQQ +3.14%，VIX暴跌至16.08",
+      "headlines": [
+        "🇮🇷 伊朗與美國G7達成和平協議框架 — 油價暴跌至3月低位，VIX三日跌28%",
+        "📈 SPY $754.83 (+1.76%) — S&P 500 七日最大升幅，資金全面risk-on",
+        "🚀 QQQ $744.00 (+3.14%) — 科技股暴力反彈，半導體+AI領漲",
+        "🛢️ USO $125.43 — 戰爭溢價消退，銀行集體下調油價預測",
+        "₿ BTC $66,752 (+5%) — 250K BTC累積區形成支撐，BlackRock推出BTC收益基金",
+        "🏛️ BOJ加息至1%（31年最高）— 日本結束超寬鬆，日圓carry trade風險",
+        "💻 NVDA $25B債券融資 — 2021年來首次，AI基建資金成關鍵",
+        "🚀 SpaceX $2.5T市值逼近MSFT — IPO後三天累升超60%"
+      ],
+      "focus": [
+        "SPY/QQQ — 伊朗和平協議risk-on反彈持續，目標SPY $770",
+        "NVDA — $25B債券融資跟進，AI基建故事或再升級",
+        "BTC — 技術+基本面共振，$65K以下係買入區",
+        "XLE/XOM — 能源見頂風險，short energy/long tech rotation",
+        "FOMC（本週四）— Warsh首次會議，聲明措辭關鍵"
+      ],
+      "analysis": "🌅 Morning Scan — 6月16日（星期二）\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🌍 隔夜市場\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【美股收市 — 6月15日（星期一）：伊朗和平協議引爆牛市反彈】\n• SPY: $754.83 (+1.76%) — 七日最大單日升幅，S&P 500報7,554\n• QQQ: $744.00 (+3.14%) — 科技股暴力反彈，納指跑贏大市\n• DIA: $518.44 (+1.05%) — 道指創收市新高，傳統股穩步跟上\n• IWM: $294.64 (+0.58%) — 小型股反彈力度較弱，資金首選大市值科技\n• 成交量：SPY 45M（略低於平均），QQQ 46.5M（高於平均）— 反彈有量支持\n\n【VIX恐慌指數：自由落體式回落】\n• 6月10日：22.22（伊朗緊張高峰）\n• 6月11日：19.44（-12.5%）\n• 6月12日：17.68（-9.1%）\n• 6月16日今天：16.08（-9.0%，三日累跌-27.7%）\n• VIX跌落17以下，反映市場已完全pricing in伊朗和平協議，戰時溢價急速消退\n\n【債券市場信號】\n• 10年期國債收益率：4.48%（6月12日），從6月初4.56%回落\n• 2年-10年息差：0.40bp — 正向斜率，無衰退信號\n• 債息回落+股市大升=典型risk-on模式，資金從避險資產回流股市\n• 聯邦基金利率：3.62% — 料今週Kevin Warsh首次FOMC按兵不動\n\n【商品/外匯】\n• 原油（USO）：$125.43（6月12日），創3月以來低位。伊朗和平協議+Strait of Hormuz重開預期，戰爭溢價快速消退\n• 能源板塊（XLE）：$57.55，相對抗跌但跟隨油價走弱\n• 比特幣（BTC）：$66,752（+5.0% from Jun 12），risk-on資金回流，250K BTC累積於$59K-$67K區間形成強支撐\n• 美元：伊朗協議利空美元，風險偏好回升下美元走弱\n\n【亞洲/歐洲隔夜】\n• BOJ加息至1%（31年高位），日圓走強，日本股市承壓\n• 歐洲股市週一跟隨美股反彈，能源板塊受油價下跌拖累\n• 中國煉油廠開工率66.3%為四年低點，原油進口跌至八年低位 — 需求端持續疲弱\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📡 今日重點事件（6月16日）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【FOMC — Kevin Warsh首次會議】\n• 利率決議：週四凌晨（HKT）公布，預期按兵不動（Fed Funds維持3.62%）\n• 關鍵看點：聲明措辭會否移除「寬鬆傾向」，改為更中性/鷹派語調\n• Warsh作為新主席，市場對其溝通風格尚無定論 — 唔好低估「新官上任」可能帶來的措辭變化\n• 通脹措辭：CPI仍在3%+水平，核心通脹未達標，FOMC有壓力維持鷹派基調\n\n【經濟數據】\n• 本週：CPI數據公布（週三/週四）\n• 5月非農+172K超預期，連續三個月beat，減息空間進一步收窄\n• 市場開始討論加息風險 — 機率上週明顯上升\n\n【其他事件】\n• SpaceX IPO後第三日交易：估值逼近$3T，超越Amazon，下一目標Microsoft\n• 意大利競爭監管機構對Apple展開調查（DMA合規）\n• UK宣布禁止16歲以下使用社交媒體\n• Trump威脅對法國紅酒徵收100%關稅\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥 Sector Watch\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【有動能嘅板塊】\n• 🚀 科技（QQQ +3.14%）：伊朗和平協議釋放壓抑已久嘅科技需求，半導體+AI領漲\n• 🚀 半導體（NVDA +3%+，reclaim $5T市值）：NVDA宣布$25B債券融資，AI基建故事繼續\n• 🚀 金融（XLF）：利率維持高位對銀行利差有利，XLF上週唯一正回報板塊\n• ₿ 加密貨幣：BTC逼近$67K，risk-on情緒+BlackRock收益基金催化劑\n\n【有風險嘅板塊】\n• ⚠️ 能源（XLE/XOM/CVX）：伊朗和平協議直接利空油價，銀行集體下調油價預測。油價已跌至3月低位，短期仍有下行空間\n• ⚠️ 航空/旅遊：油價下跌短期利好，但BOJ加息+全球利率正常化對出行需求有壓抑\n• ⚠️ 日本 equities（EWJ/DXJ）：BOJ加息至1%，日圓carry trade拆倉壓力\n\n【Rotation Signals】\n• 資金從防禦/避險回流風險資產，VIX暴跌確認risk-on mode\n• 科技半導體為反彈主力，能源成最大資金流出\n• 小型股（IWM +0.58%）追落後力度不足，資金首選大型科技\n• 中東戰後重建主題（COP敘利亞天然氣協議）開始發酵\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🎯 Pre-market 機會（從News Curator Consolidate）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【🎯 ACTION — 短線戰術部署】\n\n1️⃣ SPY/QQQ — Risk-on反彈持續\n昨天SPY +1.76%、QQQ +3.14%只係第一波。如果框架協議本週簽署（DealBook確認最快本週），第二波反彈可以推SPY上$770+。重點係：伊朗協議嘅upside遠未fully priced in。三日VIX跌28%，但S&P 500只係回到6月初水平。目標：SPY $770/QQQ $760。催化劑：框架協議簽署、FOMC溫和聲明。\n\n2️⃣ NVDA — $25B債券融資係信號\nNVDA reclaim $5T市值。$25B債券融資（2021年來首次）係雙刃劍：短期dilution憂慮，但資金用途若係AI基建buildout，係長期利好。Howard Marks警告AI股似1999年，但基本面（NVDA PE 31.5/forward PE 16.2, PEG<1）完全唔同。部署：趁半導體反彈初期加倉，$205係首個入場位。\n\n3️⃣ BTC/IBIT — 技術+基本面共振\nBTC從$59K-$67K區間有250K BTC累積（Strong Holder支持），BlackRock推出比特幣收益基金（機構資金入場催化劑），伊朗和平協議移除地緣政治不確定性。BTC $66,752，目標$70K+。部署：逢回調加倉，$65K以下係安全買入區。\n\n【👀 WATCH — 監察清單】\n\n📍 NVDA債券融資細節：$200-250億資金用途係關鍵。若用於AI數據中心/晶圓產能擴張，係長期利好。若用於庫藏股/一般企業用途，中性。跟進prospectus。\n\n📍 SpaceX IPO漣漪效應：SPCX $2.5T+市值，超越TSLA/AVGO，逼近MSFT。Google每月向SpaceX支付$9.2億。生態系效應利好MSFT/GOOGL（雲端+AI合作）。間接受益，但唔好直接追SPCX（已extremely overbought）。\n\n📍 BOJ加息至1% — 日本利率正常化：日圓carry trade（借日圓買美股）規模以萬億計。若日圓持續走強，美股會有被動減倉壓力。短期影響有限，但係中長期risk factor。EWJ/DXJ避開。\n\n📍 Robinhood裁員10%：HOOD四連升後裁員，成本削減短期利好股價，但反映增長放緩。盤後睇Q2預期。\n\n📍 OpenAI $340億支出+市佔率首跌破50%：AI競爭白熱化。利好NVDA/AMD（AI infra需求），但利空AI應用層估值（OpenAI/Anthropic燒錢速度不可持續）。\n\n📍 ConocoPhillips（COP）— 戰後敘利亞天然氣協議：首間簽署戰後美國石油巨頭。伊朗協議若hold，更多中東重建主題會發酵。中長期故事。\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📋 Today's Agenda & Key Levels\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【本週Catalyst Schedule】\n• 週二（今晚）：無重要經濟數據，市場消化伊朗協議+SpaceX狂潮\n• 週三/四：CPI數據公布（核心CPI若超預期，係重大risk event）\n• 週四凌晨：FOMC利率決議+Kevin Warsh首次記者會\n• 週末：G7峰會（伊朗框架協議正式簽署窗口）\n\n【SPY Key Levels】\n• Support 1: $742（前阻力變支持，6月12日收盤位）\n• Support 2: $735（6月11日低位，伊朗協議前恐慌底）\n• Resistance 1: $757（6月8-9日高位）\n• Resistance 2: $770（下一重要心理關口）\n• 目前$755，短期bias向上，但FOMC+CPI本週係關卡\n\n【QQQ Key Levels】\n• Support 1: $725（6月9日低位）\n• Support 2: $705（6月10日panic底）\n• Resistance 1: $745（剛突破，需確認站穩）\n• Resistance 2: $765（6月高位）\n\n【VIX】\n• 16.08 — 若跌破15.5，確認恐慌完全消退，risk-on持續\n• 若反彈上18+，代表伊朗協議出現變數\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 My Take\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nOverall Bias: 中短期 bullish（伊朗和平協議推動risk-on），但本週FOMC+CPI係重要考驗\n\n一句總結：伊朗和平協議係#2026年最重要的macro catalyst，改變了三個月以來的戰爭定價。VIX三日跌27.7%確認資金由避險轉risk-on。但最賺錢嘅反彈已經發生（QQQ +3.14%係一個session），追高要小心。\n\n我的觀點：\n(1) 呢個risk-on momentum可以持續至少到框架協議簽署（最快本週G7），但upside空間比週一細咗。想追嘅話，等回調至SPY $745-750先入，唔好FOMO追在$755+。\n(2) 能源（XLE/XOM）已確認見頂 — 伊朗和平協議移除戰爭溢價，銀行集體下調油價預測，中國需求疲弱。short能源/long科技嘅rotation係最clean嘅trade。但勿全押 — 以色列仲可以搞局。\n(3) BTC係伊朗協議嘅silent winner — 250K BTC累積+BlackRock產品+地緣風險消退。技術面+基本面共振，$65K以下值得建倉。\n(4) NVDA $25B債券融資要跟緊 — 如果資金用於AI基建，係long-term bullish；如果只係balance sheet optimization，中性。Howard Marks嘅1999類比值得注意 — 唔好畀SpaceX IPO狂潮沖昏頭腦。\n(5) 最大風險係FOMC轉鷹（Warsh首秀可能比市場預期更鷹）+ 以色列搗亂伊朗協議。本週唔好overstay welcome — 隨時準備減倉。\n\n一句話：risk-on但唔好貪心。賺咗先走唔會錯。",
+      "risks": [
+        "FOMC轉鷹 — Warsh首秀或移除寬鬆傾向，比市場預期更鷹派",
+        "以色列搗亂伊朗協議 — 協議仍脆弱，以色列可阻礙執行",
+        "CPI超預期 — 本週CPI若反彈，加息預期升溫打壓risk assets",
+        "BOJ加息/日圓carry trade拆倉 — 長期資金流向逆轉風險",
+        "SpaceX IPO抽走流動性 — $87.5B史上最大IPO draining liquidity",
+        "Howard Marks警告AI股=1999年 — 估值脫離基本面風險"
+      ],
+      "my_take": "Overall Bias: Bullish（伊朗和平協議推動risk-on），但本週FOMC+CPI係關鍵考驗。這波反彈最賺嘅一日已經過去（QQQ +3.14%），但框架協議簽署前upside still intact。策略：等回調低吸科技，減持能源，持有BTC；FOMC前控制風險暴露，唔好過度集中。最大風險：Warsh轉鷹、以色列搗亂協議。"
     }
   ]
 }
