@@ -858,6 +858,97 @@
         "三央行同日議息 — 流動性風險疊加，波動率可能急升"
       ],
       "my_take": "BULLISH (short-term, driven by Iran deal risk-on rally), but CAUTIOUS (medium-term, waiting on Fed/BOJ/BOE and Iran deal durability).\n\n今日最緊要睇實：\n1. ES期貨能否守住+2%（若回落至+1%以下表示risk-on動力減弱）\n2. G7期間以色列反應——任何Iran deal破裂signal會立即逆轉今日漲幅\n3. Warsh言論——Fed前夕個倉位不要太重\n\n改變之前thesis的關鍵信號：\n- 伊朗和談超越預期達成協議——油價跌穿$80，全球貿易/運輸成本下降\n- VIX從22.22暴跌至16.72——市場恐慌完全消退\n- 日經+5%是亞洲risk-on的最強確認\n- 但M7資金流出+科技股週中崩盤（QQQ曾跌至686）顯示結構性weakness仍在"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-16",
+      "time": "08:09 HKT",
+      "status": "success",
+      "market_direction": "伊朗和平協議主導市場，風險資產全面risk-on。美股創新高(Dow record close)，SPX受惠能源成本下降。油價暴跌5%+、VIX急跌、美元走弱、債券rally。資金由能源流向科技+金融+消費。SpaceX IPO成最大焦點。聯儲預期按兵不動(Warsh era開始)，Iran deal = 通脹降溫 = 減息空間打開。",
+      "headlines": [
+        "ACTION: MU — MU: TD Cowen says has more room to run after +224% YTD, raised PT | AI記憶體週期結構性需求強勁。HBM3E ramp-up + DDR5 定價權。+224% YTD仍有上升空間，TD Cowen買入評級+目標價上調。Hynix同週期做佐參考。",
+        "ACTION: WDC — WDC: S&P 500 biggest gainer Monday, gross margin crossed 50%, revenue +45% YoY | AI存儲純標的，Sandisk分拆後成HDD純玩家。毛利率破50%、營收年增45%係里程碑。The AI storage trade nobody saw coming. 持續動能。",
+        "ACTION: RKLB — RKLB: KeyBanc says buy the dip on rocket stocks sold off on SpaceX IPO | SpaceX IPO後火箭股被錯殺。SpaceX $2T估值提振整個太空板塊。KeyBanc話買跌。RKLB有NASA合約+電子火箭重複使用，基本面具支撐。",
+        "ACTION: PAYX — PAYX: Citi sees 40% gain, likes big dividend payout | Citi目標價40%上行空間。Paychex受惠中小企就業市場韌性+股息率吸引。防禦+增長組合，市場輪動中具吸引力。",
+        "ACTION: COP — COP: Set to sign deal with Syria to revive gas production — first US major since civil war | 首間美國能源巨頭重返敘利亞。地緣政治風險但天然氣生產復甦潛力巨大。伊朗和平協議背景下中東穩定性改善，利好COP中東業務擴張。",
+        "ACTION: SPY/QQQ/DIA — US-Iran Peace Deal: Macro game-changer — oil down, stocks up, bonds rally | 宏觀層面最大催化劑。Hormuz重開=能源成本下降=通脹壓力降溫=聯儲減息空間擴大。JP Morgan話油價下跌係全球股市巨大順風。Trump考慮$300B Iran fund=$重建需求。市場risk-on模式開啟。",
+        "WATCH: NVDA — NVDA: Raises $20-25B in first bond sale since 2021 — AI borrowing frenzy | 史上最大AI債券發行之一。低成本融資用於AI基建擴張/回購潛力。但發債時機值得留意：係資本結構優化定signal stock係咪overvalued？等details。",
+        "WATCH: FOXA/ROKU — FOXA: Acquires Roku for $22B — streaming consolidation play | Roku $22B收購價合理但需監管審批。Fox向CTV轉型，Roku的OS+廣告技術有協同。等closing確定性。",
+        "WATCH: XLF/KBE/JPM/BAC — Bank Stocks (XLF/KBE): Momentum building for breakout — Katie Stockton | 技術分析顯示銀行股突破在即。利率長期higher for longer + 市場broadening beyond tech。伊朗和平利好全球貿易融資活動。等CPI/FOMC確認。",
+        "WATCH: CRM — CRM: Acquires AI customer service platform Fin for $3.6B | Agentforce擴張策略。Fin嘅AI客服技術與CRM現有平台整合。AI agent企業應用賽道。但$3.6B唔細，monitor integration execution。",
+        "WATCH: BTC/MSTR — BTC: Hits $65.5K+ on Iran peace deal — 'crypto spring' narrative | 伊朗和平協議 = 風險資產全面risk-on。BTC破$65K、XRP突破$1.20。Saylor再買1,587 BTC。CFTC批准perps登陸美國。結構性利好累積中。",
+        "WATCH: XLE/USO/OIH — Oil/XLE: SPR hits lowest since 1983, Iran deal to reopen Hormuz — oil -5% | 短期油價受壓(Hormuz重開)，但SPR處於41年低位。全球供應面仍然偏緊。伊朗deal細節未明(300B fund附帶條件)。油價跌係買入機會。",
+        "NOTE: RACE — RACE: Morgan Stanley says concerns overblown, shares should rise | 奢侈品需求韌性。Purosangue+新產品週期支撐。近期回調後估值吸引，MS睇好。市場awareness item。",
+        "NOTE: GLD/IAU — Gold: Holds gains as Iran deal reduces safe-haven demand but dollar weakens | 伊朗deal短期壓制避險需求，但美元弱勢+利率預期下調支撐金價。中長線央行購金趨勢不變。",
+        "NOTE: BNZL — BNZL: Elliott presses Bunzl for buybacks after building stake | Elliott activism catalyst。Bunzl分銷業務現金流強勁，回購空間大。但歐洲盤，留意Elliot持股披露。"
+      ],
+      "opportunities": [
+        "MU: AI記憶體超級週期未完。HBM3E獨供Nvidia + DDR5定價權。TD Cowen目標價上調，回調即買。",
+        "WDC: AI存儲新星。毛利率破50%係結構性改變唔係一次性。Sandisk分拆後價值釋放。Momentum trading friendly。",
+        "RKLB: SpaceX IPO效應外溢。火箭股被錯殺嘅買入窗口。NASA合約+電子火箭reusability。Space sector re-rating中。",
+        "PAYX: 中小企就業市場韌性+股息率=防禦性增長。Citi 40% upside明確目標。輪動市資金偏好value+dividend。",
+        "COP: 敘利亞天然氣+伊朗和平雙重催化。中東穩定性改善利好油企擴張。風險回報吸引。",
+        "XLF/KBE: 銀行股技術突破在即。利率居高不下+NIM擴張+資本回報。市場broadening嘅主要受惠者。",
+        "BTC/XRP: 'Crypto spring'。CFTC批准perps、Saylor持續買入、現貨ETF資金流入。伊朗和平觸發risk-on flow入crypto。"
+      ],
+      "analysis": "呢個session係典型嘅'peace dividend'交易。伊朗deal係game changer — 唔單止係地緣政治，而係直接影響能源成本->通脹->聯儲政策路徑嘅macro chain reaction。\n\n最大嘅投資主題有幾個：\n1) AI infrastucture spending繼續加速 — NVDA發$25B債、CRM買Fin、空間科技IPO全部指向AI capital expenditure超級週期。MU/WDC作為AI記憶體+存儲嘅supplier直接受惠。\n2) 市場rotation from tech到value/bank係真嘅 — VIX跌、油價跌、長債息跌都support bank stocks。Katie Stockton嘅技術分析信號值得重視。\n3) 'Crypto spring' narrative正在building — BTC上$65K、XRP breakout、CFTC監管框架推進。如果伊朗deal鞏固+聯儲轉鴿，crypto可能係下半年最大驚喜。\n\n我最鍾意嘅setup係MU同WDC — AI記憶體/存儲雙重暴露，估值未到頂。RKLB係更高風險但更高中期回報嘅space sector bet。\n\nWarning: Iran deal嘅60日MOU係最大變數。Details未出之前，油價嘅跌幅可能overdone。不要全倉追能源short。",
+      "risks": [
+        "伊朗和平協議執行風險：60-day MOU細節未明，以色列反對+國內共和黨分裂。任何breakdown => 油價V型反彈",
+        "聯儲6月FOMC：Warsh上任後首次會議，市場對減息預期可能太樂觀。如果hold + hawkish tone => 股市回調",
+        "NVDA $25B發債：超大規模融資或暗示stock overvalued/equity financing成本高。AI credit bubble風險",
+        "中國通縮+印尼鎳政策：全球增長風險仍然存在。China demand recovery唔確定",
+        "SpaceX IPO狂熱已推高估值至$2T+，若回調將拖累整體risk sentiment",
+        "日本BOJ利率決議：Yen short處於9年高位，BOJ意外加息 => carry trade unwind衝擊全球市場"
+      ],
+      "my_take": "呢個session係典型嘅'peace dividend'交易。伊朗deal係game changer — 唔單止係地緣政治，而係直接影響能源成本->通脹->聯儲政策路徑嘅macro chain reaction。\n\n最大嘅投資主題有幾個：\n1) AI infrastucture spending繼續加速 — NVDA發$25B債、CRM買Fin、空間科技IPO全部指向AI capital expenditure超級週期。MU/WDC作為AI記憶體+存儲嘅supplier直接受惠。\n2) 市場rotation from tech到value/bank係真嘅 — VIX跌、油價跌、長債息跌都support bank stocks。Katie Stockton嘅技術分析信號值得重視。\n3) 'Crypto spring' narrative正在building — BTC上$65K、XRP breakout、CFTC監管框架推進。如果伊朗deal鞏固+聯儲轉鴿，crypto可能係下半年最大驚喜。\n\n我最鍾意嘅setup係MU同WDC — AI記憶體/存儲雙重暴露，估值未到頂。RKLB係更高風險但更高中期回報嘅space sector bet。\n\nWarning: Iran deal嘅60日MOU係最大變數。Details未出之前，油價嘅跌幅可能overdone。不要全倉追能源short。",
+      "key_takeaways": [
+        "伊朗和平協議係宏觀最大催化劑，risk-on mode全面開啟",
+        "AI記憶體/存儲(MU/WDC)係最具retail+institutional雙重flow嘅板塊",
+        "銀行股(XLF)技術突破醞釀中，市場rotation結構性",
+        "Crypto spring：BTC破$65K、XRP突破、CFTC監管創新，結構性利好湊合",
+        "NVDA發$25B債係signal但唔一定negative，要睇融資用途",
+        "最大風險：Iran deal執行、FOMC tone、BOJ利率意外"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-16",
+      "time": "08:41 HKT",
+      "status": "success",
+      "market_direction": "🟢 Risk-On Surge — SPY +1.76%、QQQ +3.14%、SMH +4.38%；伊朗和平協議落實觸發全面risk-on，油價暴跌-4.1%至$81，VIX跌至16.20；半導體/科技領漲，能源受壓；BTC破$65K、XRP破$1.19 — 'Crypto Spring' narrative升溫",
+      "headlines": [
+        "📊 SPY $754.83 (+1.76%) — Iran peace deal triggers broad risk-on rally, highest close since June 5",
+        "💻 QQQ $744.00 (+3.14%) — Tech surges on oil cost relief + falling yields",
+        "🔌 SMH $647.10 (+4.38%) — Semis explode: MU $1,088 (+10.8%), WDC $653.53 (+16.1%), MRVL $308.88 (+10.4%)",
+        "🇮🇷🇮🇱 Iran peace MOU signed — 60-day framework, Hormuz Strait reopening. Trump deal 2-3 days ahead of schedule",
+        "🛢️ Oil crashes to $81.39 (-4.1%) — Hormuz reopening + Iran supply returning. XLE -3.47% worst sector",
+        "₿ BTC $65,710 (+3.4%), XRP $1.19 (+5.3%) — 'Crypto spring' narrative building fast",
+        "🏦 XLF $53.56 (+0.41%) — Financials grind higher; bank breakout momentum intact",
+        "😌 VIX 16.20 (-8.4%) — Fear gauge back below 17 for first time since June 5 panic",
+        "📉 10Y 4.47% (-2bp) — Rates declining; Breakeven inflation falling = rate cut optionality opening",
+        "🥇 Gold $4,329.50 (+2.7%) — Dollar weakness + falling real rates support precious metals"
+      ],
+      "opportunities": [
+        "MU: $1,088 (+10.8%) — AI memory supercycle intact. HBM3E exclusive Nvidia supply + DDR5 pricing power. TD Cowen PT upgrade. June 24 earnings catalyst. Pullback buy.",
+        "WDC: $653.53 (+16.1%) — AI storage new star. Gross margin >50% structural. Sandisk spin-off value unlock. Momentum-friendly. Best semi play this week.",
+        "MRVL: $308.88 (+10.4%) — S&P 500 addition + AI networking. Custom silicon threat overdone at $244 lows. Momentum building.",
+        "RKLB: $109.25 (+6.7%) — SpaceX IPO spillover. Space sector re-rating underway. NASA contracts + Electron reusability. High risk/high reward.",
+        "XLF/KBE: Financials grinding higher. Iran deal = global trade financing boost. Rate higher-for-longer + NIM expansion. Breakout imminent.",
+        "BTC/XRP: 'Crypto spring' — CFTC perps approval, Saylor buying, ETF inflows. Iran peace = risk-on flow into crypto. Structural bull building.",
+        "AMD: $547.26 (+7.0%) — GPU competitive positioning. SMH rally leader. Custom silicon story still strong.",
+        "NVDA: $212.45 (+3.5%) — $200 support held. Apple using NVDA GPUs for AI. $20-25B bond sale confirmed. Still best-in-class AI play."
+      ],
+      "analysis": "# 📊 Evening Review — 6月16日（星期二）HKT | 美股6月15日（星期一）收市\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📊 MARKET RECAP — 6月15日（星期一）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【今日主題：伊朗和平協議主導全面risk-on — SPY創6月5日以來最高收市】\n\n今日係2026年最顯著嘅risk-on session之一。伊朗-以色列停火MOU（60日框架）正式簽署，Trigger咗全面嘅「peace dividend」交易 — 股票大升、油價暴跌、VIX急跌、債息回落、crypto爆發。\n\n【指數表現】\n\n| 指數 | 收市價 | 日變幅 | 週變幅 | 備註 |\n|---|---|---|---|---|\n| **SPY** | $754.83 | **+1.76%** | +1.77% | 最高收市，開751.85高走全日 |\n| **QQQ** | $744.00 | **+3.14%** | +3.14% | 科技全面反彈 |\n| **DIA** | $518.44 | **+1.05%** | +1.05% | Dow破520關口後回 |\n| **^GSPC** | 7,554.29 | **+1.65%** | +1.65% | 距6/5高位7,584只差0.4% |\n| **IWM** | $294.64 | **+0.58%** | +0.58% | 小型股跟升但相對落後 |\n| **VIX** | 16.20 | **-8.37%** | -8.37% | 6/5高位21.51後持續回落 |\n\n【成交量分析】\n- SPY 45.1M — 低於正常56M平均，反映buyers conviction但未到panic buying\n- QQQ 46.0M — 高於正常41M，科技股有真金白銀流入\n- SMH 9.4M — 低於panic levels，反彈成交溫和確認\n- 總結：成交量未到極端，反彈可持續性較高\n\n【板塊表現 — 伊朗和平交易全面展開】\n\n| 板塊 | ETF | 日變幅 | 本週 | 分析 |\n|---|---|---|---|---|\n| 🟢 半導體 | SMH | **+4.38%** | +4.38% | 伊朗deal最大受惠 — 能源成本下降+通脹降溫利好AI估值 |\n| 🟢 科技 | XLK | **+3.78%** | +3.78% | Mega-cap全面反彈，META +4.67%領漲 |\n| 🟢 非必需消費 | XLY | **+1.69%** | +1.69% | 油價跌=消費者購買力提升 |\n| 🟢 工業 | XLI | **+1.42%** | +1.42% | 全球貿易活動預期升溫 |\n| 🟢 金融 | XLF | **+0.41%** | +0.41% | 持續grind higher，伊朗deal利好global trade financing |\n| 🟢 小型股 | IWM | **+0.58%** | +0.58% | 跟升但力度不足 |\n| 🟢 原材料 | XLB | **+0.61%** | +0.61% | 商品需求預期 |\n| 🟢 公用 | XLU | **+0.47%** | +0.47% | 利率回落支撐 |\n| 🔴 必需消費 | XLP | **-0.40%** | -0.40% | 資金從防禦轉向風險 |\n| 🔴 醫療保健 | XLV | **-0.60%** | -0.60% | 防禦板塊資金流出 |\n| 🔴 地產 | XLRE | **-0.82%** | -0.82% | 利率敏感但債息回落 |\n| 🔴 能源 | XLE | **-3.47%** | -3.47% | 油價暴跌$81，伊朗原油恢復出口憧憬 |\n\n【關鍵觀察】\n1. 資金明顯從防禦（XLV/XLP）流向週期/增長（SMH/XLK/XLY）— risk-on rotation confirmed\n2. XLE -3.47%係最大拖累，但SPR處於41年低位，油價跌幅可能overdone\n3. VIX回落至16.20，仍略高於comfort zone（15以下），但趨勢正面\n4. SPY今日高位$756.67，距6/5高位$757.09只差0.06% — 若突破將創新高\n5. 10Y債息回落至4.47%，breakeven通脹下降 = 減息空間打開\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥 NOTABLE MOVERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【最大贏家（>3%）】\n\n| 股票 | 收市價 | 變幅 | Catalyst |\n|---|---|---|---|\n| **WDC** | $653.53 | **+16.10%** | AI存儲新星！毛利率破50%結構性改變，Sandisk分拆價值釋放。伊朗deal = 科技股risk-on最直接受惠者。成交量9.4M（2x正常）|\n| **MU** | $1,087.99 | **+10.84%** | AI記憶體超級週期確認。HBM3E獨供Nvidia + DDR5定價權。TD Cowen目標價上調。盤中高見$1,097！|\n| **MRVL** | $308.88 | **+10.43%** | S&P 500納入效應持續。ByteDance ASIC驚嚇已被市場消化。Stifel維持買入。AI networking龍頭地位未動搖 |\n| **AMD** | $547.26 | **+7.00%** | GPU competition story alive. SMH反彈先鋒。伊朗deal = 半導體全面重估 |\n| **RKLB** | $109.25 | **+6.70%** | SpaceX IPO效應外溢。火箭股被錯殺後反彈。NASA合約+reusability story |\n| **META** | $593.48 | **+4.67%** | AI廣告收入持續增長。大盤risk-on + 半導體反彈雙重催化 |\n| **SMH** | $647.10 | **+4.38%** | 半導體全面反彈。從6/9低位554.66強力收復 |\n| **AVGO** | $393.94 | **+3.11%** | 上週跌20%後持續修復。Custom silicon恐慌減退 |\n| **AMZN** | $246.02 | **+3.13%** | AI基建+Prime Day催化 |\n| **NVDA** | $212.45 | **+3.54%** | $200支持位確認（6/9低$199.34）。Bond sale $20-25B不影響結構性AI story |\n\n【最大輸家】\n\n| 股票 | 收市價 | 變幅 | 原因 |\n|---|---|---|---|\n| **XLE** | $55.55 | **-3.47%** | 油價暴跌+伊朗deal=能源短期受壓。但SPR歷史低位，跌幅可能overdone |\n| **COP** | $112.26 | **-4.03%** | 油價$81衝擊。敘利亞天然氣+伊朗雙重催化短期失效。中期仍有價值 |\n| **SMCI** | $30.85 | **+1.28%** | 從6/10低位$29.14反彈，但$7B equity dilution仍在消化 |\n| **INTC** | $127.86 | **+2.64%** | 相對落後semi反彈。Turnaround story仍需業績驗證 |\n\n【Sector Rotation Signals】\n- 連續第二日：資金從能源流向科技+金融+消費\n- XLF連續第六日領先XLK？ — 不對，今日XLK +3.78% > XLF +0.41%，科技反彈更強\n- 但金融ETF $53.56距離歷史高位$54+只差一步，breakout imminent\n- Small cap (IWM +0.58%) 表現落後，反映資金偏好large cap quality\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📰 NEWS THAT MATTERED\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【Confirmed Catalysts】\n\n1. ✅🇮🇷🇮🇱 **伊朗-以色列和平MOU簽署（60日框架）** — 最大催化劑\n   - 特朗普表示協議2-3日內可簽，實際在週末完成\n   - Hormuz海峽重開在即，伊朗原油供應有望恢復\n   - 直接效果：油價暴跌至$81，VIX跌至16.20，風險偏好全面回升\n   - 中長期效果：能源成本下降→通脹降溫→聯儲減息空間打開\n\n2. ✅🛢️ **油價暴跌5%至$81.39** — 伊朗deal直接結果\n   - CL=F從6/10高位$90跌至$81 — 跌幅達-10%\n   - SPR處於41年低位，但市場focus喺伊朗供應回歸\n   - XLE -3.47%，COP -4.03%\n\n3. ✅🤖 **AI半導體全面反彈** — SMH +4.38%\n   - MU/WDC領漲（+10-16%），AI記憶體/存儲故事確認\n   - NVDA $200支持位成功測試\n   - MRVL S&P 500納入效應持續\n\n4. ✅₿ **Crypto Spring Narrative升溫**\n   - BTC $65,710 (+3.4%)，從6/9低位$59k反彈+11%\n   - XRP突破$1.19 (+5.3%)，CFTC批准perps\n   - Saylor持續買入，現貨ETF資金流入\n\n【News Curator Calls Review — 6/16 08:09 HKT Edition】\n✅ **BUY MU** — 今日+10.84%！AI memory supercycle完全在軌道上\n✅ **BUY WDC** — 今日+16.10%！最準嘅call。毛利率結構性改善\n✅ **BUY RKLB** — 今日+6.70%。SpaceX IPO halo effect\n✅ **BUY XLF/KBE** — 今日+0.41%，持續grind higher\n✅ **BUY BTC/XRP** — BTC $65.7K (+3.4%)，XRP $1.19 (+5.3%)\n⚠️ **BUY COP** — 今日-4.03%。Iran deal短期壓油價，但敘利亞天然氣催化仍在\n⚠️ **BUY PAYX** — 今日+0.27%。表現平穩但未爆發\n👀 **WATCH NVDA bond sale** — +3.54%，$25B發債未影響股價\n👀 **WATCH FOXA/ROKU** — No significant move yet\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🎯 OPPORTUNITIES CARRY FORWARD\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【High Conviction — 明日繼續留意】\n\n1. **MU ($1,087.99)** — AI記憶體超級週期確認\n   - HBM3E獨供Nvidia + DDR5定價權 = double catalyst\n   - 6/24 earnings前仍有上行催化\n   - TD Cowen目標價上調，回調即買\n   - 今日成交量44.3M，機構買盤積極\n   - 🎯 Next target: $1,100+\n\n2. **WDC ($653.53)** — 今日明星\n   - 毛利率破50%係結構性改變，唔係一次性\n   - Sandisk分拆後價值釋放\n   - Momentum trading最友好嘅setup\n   - 🎯 短期$700係合理目標\n\n3. **RKLB ($109.25)** — SpaceX IPO外溢效應\n   - 今日+6.7%但從$99.61低位反彈不足10%\n   - 如果SpaceX IPO成功（本週五），RKLB可能追落後\n   - NASA合約+電子火箭reusability\n   - ⚠️ 高風險 — space sector beta高\n\n4. **XLF/KBE** — Financials breakout imminent\n   - 今日+0.41%但連續多日累積升幅\n   - 伊朗deal利好global trade financing\n   - Rate higher-for-longer + NIM expansion\n   - 10Y 4.47%仍有支持\n   - 🎯 Breakout above $54 = 追入信號\n\n5. **AMD ($547.26)** — GPU競爭格局改善\n   - +7.0%今日，SMH反彈領先者\n   - Custom silicon story未死\n   - 🎯 Next resistance $560-570\n\n【After-hours / Pre-market Setup】\n- SpaceX IPO定價（6/12週五）— 可能延至本週，Musk最大賭注\n- BOJ利率決議（本週）— Yen carry trade risk\n- Fed stress test（6/24）— Bank stocks catalyst upcoming\n- 伊朗deal細節消化 — 60-day框架details未出\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ RISKS / WATCHLIST\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【Overnight Events to Watch】\n1. 🚨 伊朗和平協議執行風險 — 60-day MOU細節未明，以色列反對+美國共和黨分裂。任何breakdown => 油價V型反彈至$90+\n2. 🚨 聯儲6月FOMC — Warsh上任後首次會議，市場對減息預期可能太樂觀。如果hold + hawkish tone => 股市回調\n3. 🚨 NVDA $25B發債細節 — 超大規模融資或暗示stock overvalued/equity financing成本高。AI credit bubble risk\n\n【持倉風險】\n⚠️ 不作持倉假設 — 但提醒：如果持有能源倉位（XLE/XOM/CVX），伊朗deal短期逆風，但中期SPR低位+供應面偏緊，跌過度可能係買入機會\n⚠️ 如果持有科技/半導體長倉，今日嘅反彈係好消息，但VIX 16.20未到comfort zone，唔好過度槓桿\n\n【Macro Risk Matrix】\n| 風險 | 概率 | 影響 | 監察 |\n|---|---|---|---|\n| 伊朗deal breakdown | 中 | 極高（油價V型反彈） | 新聞feed |\n| Fed hawkish surprise | 中高 | 高（成長股估值壓縮） | 6/18 FOMC |\n| China deflation | 中 | 中 | CPI/PMI數據 |\n| BOJ rate hike | 低中 | 高（carry trade unwind） | 本週BOJ |\n| SpaceX IPO fail | 低 | 中 | 6/12定價 |\n| BTC correction | 中 | 中低 | $60K support |\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 MY TAKE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n今日係 fundamental regime shift day。伊朗和平協議唔單止係地緣政治事件，而係影响能源成本→通脹→聯儲政策路徑嘅macro chain reaction。2026年最大嘅不確定性正在移除。\n\n**我buy嘅敘事：**\n1. AI capital expenditure超級週期 — NVDA發$25B債、CRM買Fin$3.6B、SpaceX IPO = 資金洪水湧入AI基建。MU/WDC作為supplier直接受惠\n2. Market broadening — 從tech獨大到value/bank輪動係真嘅。XLF/KBE技術突破在即\n3. Crypto spring — BTC破$65K、XRP突破$1.19、CFTC監管框架推進。伊朗deal = risk-on flow入crypto\n\n**我最鍾意嘅setup：MU ($1,088) + WDC ($653) — AI memory/storage double exposure，6/24 earnings催化劑前仍有空間。RKLB ($109) 係更高risk/reward嘅space bet。\n\n**⚠️ 最大嘅caveat**：Iran deal 60-day MOU細節未出。油價今日跌-4%可能overdone — SPR處於41年低位，Hormuz重開需要時間。不要全倉追能源short。XLE -3.47%可能係buyable dip。\n\n**明日Bias：🟢 Bullish，但要睇SPY能否突破$757（6/5高位）。若突破 → 加速向上。若fail → range-bound consolidation。**\n",
+      "risks": [
+        "Iran deal 60-day MOU execution risk — Israel opposition + US Republican分裂. Any breakdown = oil V-shaped spike back to $90+",
+        "Fed June FOMC — Warsh first meeting. Market pricing rate cuts too optimistically. Hawkish dot plot = equity correction",
+        "NVDA $20-25B bond sale — Largest AI debt issuance. Capital structure optimization or signal stock overvalued? Credit bubble risk.",
+        "China deflation + Indonesia nickel policy — global growth risk persists. China demand recovery uncertain",
+        "SpaceX IPO mania — $2T+ valuation. If pulls back, drags entire risk sentiment",
+        "BOJ rate decision — Yen short at 9-year high. Surprise BOJ hike = carry trade unwind冲击",
+        "XLE (-3.47%) rebound risk — Oil oversold on deal euphoria. SPR at 41-year low. Supply still tight. Energy short squeeze potential"
+      ],
+      "my_take": "今日係2026年最重要嘅risk-on session之一。伊朗和平協議係game changer — 唔單止係地緣政治解除，而係直接影響能源成本→通脹→聯儲政策路徑嘅macro chain reaction。\n\n最大嘅投資主題：\n1) AI infrastructure spending繼續加速 — NVDA發$25B債、CRM買Fin、SpaceX IPO全部指向AI capital expenditure超級週期。MU/WDC作為AI記憶體+存儲嘅supplier直接受惠，今日+10-16%證明資金認同呢個敘事。\n2) 市場rotation from tech到value/bank係真嘅 — VIX跌、油價跌、長債息跌都support bank stocks。XLF連續多日跑贏。Katie Stockton嘅技術分析信號值得重視。\n3) 'Crypto spring' narrative正在building — BTC上$65K、XRP突破$1.19、CFTC監管框架推進。如果伊朗deal鞏固+聯儲轉鴿，crypto可能係下半年最大驚喜。\n\n我最鍾意嘅setup係MU同WDC — AI記憶體/存儲雙重暴露，估值未到頂。RKLB係更高風險但更高中期回報嘅space sector bet。\n\n⚠️ Warning: Iran deal嘅60日MOU係最大變數。Details未出之前，油價嘅跌幅可能overdone。XLE今日-3.47%可能係buyable dip。不要全倉追能源short。\n\nTomorrow bias: 🟢 Bullish — momentum carries, but watch for post-deal consolidation around SPY 755-760. CPI/FOMC afterglow + earnings season building."
     }
   ]
 }
