@@ -973,53 +973,6 @@
       "my_take": "Overall Bias: Bullish（伊朗和平協議推動risk-on），但本週FOMC+CPI係關鍵考驗。這波反彈最賺嘅一日已經過去（QQQ +3.14%），但框架協議簽署前upside still intact。策略：等回調低吸科技，減持能源，持有BTC；FOMC前控制風險暴露，唔好過度集中。最大風險：Warsh轉鷹、以色列搗亂協議。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-17",
-      "time": "08:12 HKT",
-      "status": "success",
-      "market_direction": "伊朗停火協議主導市場 — 油價跌破$80，航運風險溢價解除。Fed今日首次Warsh會議，市場預期偏鷹。科技股回調，SpaceX狂潮續燒。避險情緒降溫但未消散。",
-      "headlines": [
-        "ACTION: OIL — 油價跌破$80，伊朗協議重啟霍爾木茲海峽航運。但庫存連跌9週（52M桶），BofA建議買入能源巨頭。",
-        "ACTION: INTC — Intel 18A-P先進製程投產，Apple合作協議在望，翻身信號強烈。",
-        "ACTION: YUM — 出售Pizza Hut（$2.7B），集中資源發展KFC/Taco Bell，組合精簡利好。",
-        "ACTION: BMW — 大幅下調利潤指引至1-3%營運利潤率，伊朗戰爭+中國市場挑戰雙重打擊。",
-        "ACTION: SPACEX — 超越Amazon成第五大市值公司，$60B收購Cursor，期權上市引爆迷因股狂潮。",
-        "WATCH: SNAP — 推出$2,195 AR眼鏡Specs，進軍後智能手機時代，需觀察訂單量。",
-        "WATCH: RIVN — R2開始交付後裁員數百人，成本控制正面但需求信號偏弱。",
-        "WATCH: GLD — 黃金無視和平協議維持強勢，各國央行因安全考量收回黃金儲備。",
-        "WATCH: MBLY — Mobileye進軍美國Robotaxi市場，新收入來源，關注監管進展。",
-        "NOTE: FED — Warsh首次FOMC會議，市場預期偏鷹，不發布點陣圖。最大風險事件。",
-        "NOTE: DATABRICKS — 營收增80%但AI agent成本侵蝕利潤率。",
-        "NOTE: ADBE — Adobe業績反映軟體行業悲觀情緒，AI顛覆風險持續。",
-        "NOTE: JP EXPORTS — 日本出口三年最快增長，BOJ加息至1%。",
-        "NOTE: AI COMPUTE — AI算力期貨作為新資產類別，「新石油」敘事升溫。"
-      ],
-      "opportunities": [
-        "OIL: 油價因伊朗協議超賣。基本面庫存仍在下降，$80以下提供買入機會。BofA建議買XOM，Morgan Stanley看好派息能源股。戰後重建（$3000億基金）中期利好能源需求。",
-        "INTC: Intel 18A-P是多年來最明確的翻身催化劑。Apple如果簽約，將徹底改變市場對Intel的認知。目前股價仍在底部。",
-        "YUM: Pizza Hut出售簡化集團結構，市場未充分反映精簡後的成長潛力。KFC/Taco Bell國際擴張空間大。",
-        "BMW: 歐洲車廠全面受壓，伊朗戰爭+中國競爭雙重打擊。可考慮做空歐元區汽車板塊ETF。",
-        "GOLD: 央行持續買入+地緣風險溢價，金價回調即是買入機會。即便和平協議簽署，長期安全需求仍在。"
-      ],
-      "analysis": "今日市場主線清晰：伊朗停火協議引發油價暴跌（Brent跌破$80），航運股和軍工股同步受壓。同時，Fed今日首次Warsh會議是最大不確定因素 — 市場預期偏鷹但債券期權交易員分歧嚴重。\n\nSPACEX成為市場焦點中的焦點 — IPO後短短數日超越Amazon，$60B收購Cursor，期權交易「前所未見」。迷因股狂熱短期可能帶動其他太空/科技股。\n\nIntel 18A-P投產是技術面重大突破，尤其可能與Apple達成代工協議，這將是Intel代工業務的轉捩點。\n\n日本出口數據強勁+BOJ加息至1%值得關注 — 日圓套利交易正在改變，影響全球資金流動。\n\nAI算力期貨作為新資產類別的概念正在萌芽 — 長期看可能重塑AI投資邏輯。",
-      "risks": [
-        "Fed會議結果超預期鷹派 — Warsh可能暗示升息，觸發市場回調",
-        "伊朗協議執行風險 — 霍爾木茲海峽重新開放需時間，油價可能反彈",
-        "SPACEX估值泡沫 — $2.6T市值遠超基本面，Options市場狂熱可能突然逆轉",
-        "中國經濟放緩擴散 — BMW利潤警告只是開始，更多歐洲企業可能受影響",
-        "AI基礎設施成本問題 — Databricks利潤率收縮反映AI變現的結構性挑戰"
-      ],
-      "my_take": "今日最大主題係伊朗停火協議引發嘅市場重新定價，尤其係油價同地緣風險溢價。油價跌穿$80係短期超賣，中東局勢並未完全穩定（霍爾木茲海峽清理需時），加上美國原油庫存持續下降，油股反而係機會。Intel 18A-P係真正嘅game changer，Apple如果真係過檔，INTC可以翻倍。SPACEX狂潮好大機會蔓延到其他太空概念股，但要小心估值泡沫爆破。Fed今日會議係最大變數，Warsh首次亮相市場情緒敏感，做好避險準備。",
-      "key_takeaways": [
-        "伊朗停火 -> 油價暴跌 -> 能源股超賣機會",
-        "Intel 18A-P投產 + 可能Apple協議 = 翻身催化劑",
-        "SPACEX迷因狂潮蔓延，小心高處不勝寒",
-        "Fed Warsh首次會議，市場偏鷹預期已部分反映",
-        "各國央行搶黃金，避險需求結構性上升",
-        "日本加息至1%，日圓套利交易格局改變"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-17",
       "time": "08:37 HKT",
@@ -1052,6 +1005,83 @@
         "VIX 16.41 + 10Y 4.47%分岐 — 債市唔跟股市risk-on，係warning signal"
       ],
       "my_take": "今日最核心嘅敘事係板塊輪動確認加速 — Dow創歷史新高（XLF +1.48%、XLI +0.65%）vs QQQ -1.90%、SMH -4.80%。資金從半導體/科技流向金融/工業/道指成份股，呢個唔係一日行情，而係中期趨勢。\n\n最大嘅opportunity係INTC今日-8.45%嘅回調 — 18A-P+Apple合作敘事完全未變，\n15-117係值得入手嘅水平。SPACEX狂潮（.93T市值）好大機會蔓延到其他太空/AI概念股，\n但要小心FOMC前嘅獲利回吐。\n\n最大風險係FOMC（香港時間明晨2:00）。Warsh首次記者會係完全未知數 — \n市場偏鷹預期已部分priced in，但若Warsh比市場預期更鷹，科技股會再受壓。\n建議FOMC前控制半導體風險暴露，專注金融/工業板塊。\n\nShort-term bias: FOMC前中性（等待方向）。Medium-term bullish on financials/industrials rotation, \nbearish on semiconductors until FOMC clarity."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-17",
+      "time": "20:11 HKT",
+      "status": "success",
+      "market_direction": "FOMC會前市場謹慎，Warsh首秀主導情緒。伊朗油輪突破封鎖，油市結構性緊張。英國CPI穩定2.8%。地緣政治（伊朗/黎巴嫩）持續升溫。",
+      "headlines": [
+        "ACTION: BMW — BMW stock slumps to 5-year low as Iran war & China slowdown spark profit warning. At €60, market pricing in severe recession — if headwinds prove transient, this is a deep-value entry.",
+        "ACTION: OIL/XLE — First Iranian oil tanker moving past US blockade ahead of deal signing. Veteran trader buying energy stocks. Atlantic op-ed: 'Oil prices might not go back to normal anytime soon'.",
+        "ACTION: FOMC — Warsh's first Fed meeting today. Big question: will he release the dot plot? Market on edge with dollar elevated. Withholding dots = dovish surprise potential.",
+        "WATCH: CVNA/KMX — Carvana's new strategy turning dealership into 'playground' + CarMax beats Q1 estimates (GAAP EPS $1.31 vs $0.94 est). Used car market showing real strength.",
+        "WATCH: SPCX/SPACE — SpaceX valuation balloons to $2.6T, passes Amazon briefly. Burry 'tempted to bet against'. FT says buying Cursor could be SpaceX's 'Instagram moment'.",
+        "WATCH: BTC — Bitcoin setting up 'meaningful floors' in $60K-$70K range. Analyst warns of 'bearish reaction' to FOMC with $64K essential support. $8.6B in options OTM.",
+        "WATCH: LNG — Australian LNG strike ends boosting global gas. Qatar prepares LNG comeback ahead of Hormuz reopening. China betting on ultra-deep shale gas.",
+        "NOTE: UK CPI — UK inflation unexpectedly steady at 2.8%. Food price rises slowest in 18 months. Higher petrol offset by cheaper meat, dairy, vegetables.",
+        "NOTE: China Auto — China's gasoline car market crashing as fuel prices surge. EV penetration accelerating. Structural shift benefiting BYD, Li Auto, XPeng.",
+        "NOTE: ECB — ECB wage tracker shows stable negotiated wage pressures in 2026. Lane (ECB) speaking on euro area economic outlook.",
+        "NOTE: Snap — Snap unveils $2,195 Spectacles AR glasses shipping autumn 2026. Previous flops raise skepticism but AR race is real."
+      ],
+      "opportunities": [
+        "BMW, DAX: BMW at 5-year low. Iran war disrupting supply chains, China slowdown hitting demand. If you believe these are cyclical (not structural), current valuation offers asymmetric upside.",
+        "XLE, USO, OXY, COP: Supply tightness persists. Iranian oil returning is priced in. Real story: structural underinvestment in new supply. Energy sector positioning for Q3.",
+        "SPY, QQQ, TLT, DXY: Kevin Warsh's inaugural FOMC as Chair. Inflation still at 2.8% in UK, similar sticky pattern in US. Market pricing one cut. Any signal of pause or dot-plot change is macro-catalyst."
+      ],
+      "analysis": "今日焦點：Fed主席Warsh首個FOMC會議。市場關注會否公布dot plot——若 withheld 屬鴿派訊號。BMW跌至5年低點（伊朗戰爭+中國放緩雙重打擊），若認定為週期性而非結構性問題，現估值提供深度價值機會。伊朗油輪突破美國封鎖，但市場已部分price in；結構性供應不足才是油價真正支撐。CVNA/KMX業績雙雙beat，二手車市場回暖訊號。比特幣在$60-70K建底，FOMC是催化劑。宏觀層面：英國CPI 2.8%意外持平（食品通脹放緩抵消汽油），BOE維持利率環境。ECB薪資追蹤顯示工資壓力穩定，歐元區通脹前景改善。中國汽油車市場因油價飆升崩跌，電動車加速取代結構性趨勢。",
+      "risks": [
+        "FOMC鷹派意外（Warsh withhold dot但口徑偏鷹）引發risk-off",
+        "伊朗/以色列-黎巴嫩局勢升級影響油價波動",
+        "伊朗油輪通關後油價短期下行風險（賣預期買事實）",
+        "中國經濟放緩超預期影響全球需求"
+      ],
+      "my_take": "今日最大主題係FOMC同油市。Warsh嘅首秀有兩種可能性：1) withhold dot plot → 市場解讀為鴿派 → 風險資產上升；2) 公布鷹派dot → 美元強 + 債息升 → 股市受壓。我傾向第一種，因為Warsh需要時間建立共識。油市方面：伊朗供應回歸已被部分priced in，真正機會在能源股（XLE/OXY/COP）—結構性underinvestment嘅邏輯未變。BMW跌到€60係值得注意嘅entry point，用option做 downside protection 嘅話risk/reward吸引。CVNA業績確認二手車市場見底，但需觀察Q3持續性。BTC在FOMC前橫行，FOMC dovish可睇$75K。",
+      "key_takeaways": [
+        "FOMC Warsh首秀：重點睇dot plot會唔會 withheld",
+        "BMW 5年低點：週期性價值機會（歐洲汽車/工業板塊）",
+        "油市結構性緊張：能源股（XLE/OXY/COP）中線部署",
+        "CVNA/KMX業績beat：二手車市場回暖訊號",
+        "BTC $60-70K建底：FOMC後方向選擇",
+        "中國汽油車崩跌：EV產業鏈（BYD/LI/XPEV）結構性利好"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-17",
+      "time": "20:37 HKT",
+      "status": "success",
+      "market_direction": "Neutral / Cautiously Bullish — FOMC前期貨反彈但方向未明",
+      "headlines": [
+        "🏛️ FOMC DAY — Kevin Warsh首次主席會議，市場100%預期按兵不動",
+        "📉 SPY $750.33 (-0.60%) — 科技回吐，道指創新高",
+        "🚀 S&P Futures +0.98% / Nasdaq Futures +1.61% — 期貨反彈暗示今日高開",
+        "🛢️ 原油 $75.87 — 伊朗協議+Trump威脅矛盾，油價橫行",
+        "🇩🇪 BMW.DE 單日暴跌7%至€63.30（5年低位）— 全球經濟憂慮信號",
+        "₿ BTC $64,712 (-1.4%) — 三日連跌，$64K支持位成關鍵",
+        "🚀 SPCX $201.80 (+4.8%)但單日波幅$30 — Yahoo警告「one big catch」",
+        "🏦 XLF +1.47%跑贏 — 金融股FOMC前資金最愛"
+      ],
+      "focus": [
+        "FOMC（今晚/明早）— Warsh首秀，聲明措辭+dot plot+記者會",
+        "Trump伊朗威脅升級 — 影響星期一嘅risk-on反彈持續性",
+        "QQQ $729.86 -1.90% vs DIA $521.44 +0.58% — Growth-to-value rotation",
+        "BMW €63.30 — 5年低位，全球經濟憂慮晴雨表",
+        "SPCX狂潮 — Yahoo警告overbought，Burry想short",
+        "BTC $64K支持 — FOMC後方向取決"
+      ],
+      "analysis": "🌅 Morning Scan — 6月17日（星期三）\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🌍 隔夜市場\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【美股收市 — 6月16日（星期二）：FOMC前獲利回吐，科技股回吐一半反彈】\n• SPY: $750.33 (-0.60%) — 伊朗和平協議反彈後獲利回吐，成交6,701萬（高於平均）\n• QQQ: $729.86 (-1.90%) — 科技股全線回吐，星期一+3.14%的升幅吐返超過一半\n• DIA: $521.44 (+0.58%) — 道指創收市新高，傳統股繼續吸金\n• 關鍵信號：道指升 + 納指跌 = classic rotation from growth to value\n• 成交量放大：SPY 67M / QQQ 45M — 獲利盤有量支持，唔係散戶沽\n\n【期貨（6月17日上午） — 科技反彈 pre-market】\n• ES=F: 7,592 (+0.98%) — 期貨強勢反彈，暗示今日開市高開\n• NQ=F: 30,477 (+1.61%) — 科技期貨反彈更強，NVDA/半導體有望反攻\n• 期貨信號同昨晚現貨背離 — 市場可能已消化FOMC uncertainty\n\n【VIX恐慌指數：橫行等FOMC】\n• 6月15日：16.20 → 6月16日：16.41 (+1.3%) → 6月17日：16.37 (-0.2%)\n• VIX在16.4水平橫行，無明顯方向 — 市場等待FOMC結果\n• 16.4仍遠低於6月10日高位22.22，確認戰爭溢價已大部分消退\n• 關鍵位：若VIX跌破15.5 = 全面risk-on；若反彈上18+ = FOMC或伊朗變數\n\n【債券市場信號】\n• 10年期國債收益率（^TNX）：4.443%（6月17日）— 從6月12日4.487%回落\n• 5年期國債收益率（^FVX）：4.174% — 曲線正常\n• TLT（長債ETF）：$86.19 (+0.55%) — 債券繼續反彈，資金避險流入\n• HYG（高息企業債）：$80.03 (flat) — 信貸市場平穩無異常\n• 結論：債市pricing in FOMC按兵不動，但長債有避險買盤 — 唔係全面risk-on\n\n【商品/外匯】\n• 原油（CL=F）：$75.87 (-0.2%) — 伊朗和平協議+Trump威脅講法矛盾，油價在$75-76橫行，\n  日內低位$74.09。結構性underinvestment邏輯仍在，但短期戰爭溢價已完全蒸發\n• 黃金（GC=F）：$4,344.20 (+0.3%) — 金價堅挺，$4,300支持穩固\n• 美元（DXY）：99.63 (flat) — 美元無方向，FOMC前窄幅上落\n• 比特幣（BTC）：$64,712 (-1.4%) — 三日連跌，從$66,752回落到$64,712，\n  $64,000係關鍵支持（News Curator提及）\n\n【亞洲/歐洲隔夜】\n• 🇯🇵 日經225：69,902 (+0.72%) — 日本股市繼續從BOJ加息中反彈，科技股領漲\n• 🇭🇰 恒生指數：24,312 (-0.74%) — 三日連跌，中國經濟放緩憂慮持續\n• 🇪🇺 歐洲 Stoxx 50：6,279 (+0.35%) — 溫和反彈，能源股受壓\n• 🇩🇪 DAX：24,875 (-0.14%) — BMW暴跌7%拖累德國市場\n• 🇬🇧 FTSE 100：10,484 (flat) — 平穩，英國CPI 2.8%符合預期\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📡 今日重點事件（6月17日）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【🔥 FOMC DAY — Kevin Warsh首次主席會議】\n• 利率決議：週四凌晨02:00 HKT公布，市場100%預期按兵不動（Fed Funds維持3.62%）\n• 核心看點：\n  (1) 聲明措辭 — 會否移除「寬鬆傾向」？會否加入「通脹風險仍需關注」？\n  (2) Dot Plot / 經濟預測 — Warsh作為新主席會否公布最新dot plot？\n  (3) 記者會 — Warsh首次以主席身份面對傳媒，溝通風格係最大uncertainty\n• Market pricing: 全年1次減息（市場早已定價），問題係Warsh會修改路徑預測\n• 我的判斷：Warsh首秀傾向穩健，唔會過度鷹派或鴿派 — 但新主席效應意味波幅會增加\n\n【Trump伊朗威脅 — 協議非定局】\n• RSS headline: \"Dow Jones Futures: Techs Rebound, SpaceX Rises Despite Trump's Iran Threat\"\n• Trump再次就伊朗發表威脅言論，伊朗和平協議仍存在變數\n• 星期一嘅醞釀反彈可能部分priced in咗過多樂觀情緒\n• 投資者注意：伊朗協議係big catalyst，但一日未簽字（最快G7週末），一日有風險\n\n【SpaceX狂潮持續 — 但警告信號浮現】\n• SPCX：$201.80 (+4.8%)，盤中高見$225.64，但收市大幅回落到$201\n• Yahoo Finance headline: \"SpaceX's near $3 trillion rally comes with one big catch\"\n• 明顯嘅overbought信號 — IPO後從$150衝到$225，單日波動$30+\n• $2.6T市值超越Amazon，但「one big catch」暗示估值已脫離基本面\n\n【UK CPI — 通脹穩定2.8%】\n• 英國CPI意外持穩2.8%，食品價格升幅18個月最慢\n• 汽油價格上漲被肉類/乳製品/蔬菜價格下跌抵消\n• 對FOMC參考意義有限，但反映全球通脹粘性\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥 Sector Watch\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【有動能嘅板塊】\n• 🏦 金融（XLF +1.47%）：加息週期尾聲利差擴大，銀行股領漲。FOMC前資金最愛嘅板塊\n• 🏭 道指（DIA +0.58%創新高）：傳統股/價值股繼續跑贏，FOMC前資金穩健配置\n• 🚀 SpaceX/太空（SPCX +4.8%）：IPO狂潮持續但波動極大，單日振幅$30\n• 🪙 黃金（GC=F $4,344）：避險資金流入，地緣政治不確定性支撐金價\n\n【有風險嘅板塊】\n• ⚠️ 科技（QQQ -1.90%）：星期一升3.14%，星期二吐1.90% — 反彈持續性成疑。\n  期貨NQ+F +1.61%暗示今日可能反攻，但pattern係sell into strength\n• ⚠️ 能源（XLE -0.34%, OXY -1.4%, COP -0.8%）：油價$75.87持續受壓。\n  伊朗和平協議若落實，OPEC+增產壓力更大。但結構性underinvestment邏輯未變\n• ⚠️ 半導體（NVDA -2.37%）：由$212跌至$207，$25B債券融資嘅稀釋憂慮浮現\n• ⚠️ 小型股（IWM -0.87%）：risk-on反彈中追落後失敗，資金首選大型價值股\n• ⚠️ 比特幣（BTC -1.4%至$64,712）：三日連跌，$64,000係關鍵支持。\n  FOMC若鴿派可睇$70K+，若鷹派則有跌破$64K風險\n• ⚠️ 中國相關（HSI -0.74%三日連跌）：中國經濟放緩 + 汽油車市場崩潰\n\n【Rotation Signals】\n• 星期一：科技狂升（risk-on rotation from energy to tech）\n• 星期二：科技回吐（profit-taking, rotation back to value）\n• 今日期貨：科技反彈 — 方向未明，FOMC後先有clear signal\n• 最清晰嘅signal：XLF（金融）連續跑贏，FOMC前資金部署利率維持高位利好銀行\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🎯 Pre-market 機會（從News Curator Consolidate）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🎯 ACTION #1: BMW.DE — €63.30，單日暴跌7%，跌至5年低位\n• 今日德國BMW從€67.90暴跌至€63.30（日中低位€60.08！）\n• Catalyst：伊朗戰爭擾亂供應鏈 + 中國市場（汽油車）需求崩潰 + 歐洲關稅戰\n• 邏輯：如果你相信呢啲係週期性（唔係結構性）問題，€60附近嘅估值提供asymmetric upside\n• 部署：BMW PE處於歷史低位，用put做downside protection的話risk/reward吸引\n• 但注意：今日收€63.30（從€60反彈），可能有更多下跌空間 —\n  唔好撈底撈得太急，等穩定信號出現（成交量回落/RSI超賣反彈）\n• 跟進催化劑：伊朗協議簽署（利好全球供應鏈）+ 中國電動車補貼政策\n\n🎯 ACTION #2: 能源板塊（XLE/OXY/COP）— 供給緊張邏輯被priced out\n• OXY: $53.67 (-1.4%) / COP: $111.34 (-0.8%)\n• 油價$75.87 -> 伊朗供應回歸已被市場full priced in\n• 但結構性underinvestment嘅邏輯冇變 — 過去5年上游投資持續不足\n• 部署：唔好喺油價下跌時搏反彈。能源板塊short-term bearish，\n  但Q3 positioning為結構性做多嘅機會 — 等伊朗協議塵埃落定再入\n• 若油價跌穿$74（即今日低位），下一個支持係$72 — 屆時XLE可能出現超賣反彈機會\n\n🎯 ACTION #3: SPY/QQQ — FOMC前期貨反彈，但方向待確認\n• ES=F 7,592 (+0.98%) / NQ=F 30,477 (+1.61%)\n• 市場似乎在FOMC前先搶反彈 — 賭Warsh首秀鴿派\n• 部署：若FOMC聲明鴿派（withhold dot plot），SPY可睇$765-770\n• 若鷹派（hawkish dot/強調通脹風險），SPY支持$735-742\n• 策略：FOMC前減少方向性持倉，用option做跨式（straddle）捕捉波幅\n\n👀 WATCH #1: 伊朗協議 — Trump威脅言論升級\n• 伊朗和平協議過去係最大嘅risk-on催化劑，但Trump最新威脅令協議出現變數\n• 留意G7週末峰會進展 — 協議若簽署，第二波risk-on可推SPY上$770+\n• 若協議破裂，VIX隨時重返20+，所有risk assets受壓\n• 今日焦點：Trump會唔會喺FOMC同日再發表伊朗言論\n\n👀 WATCH #2: SpaceX（SPCX）— $2.6T狂潮背後嘅「one big catch」\n• SPCX從IPO $150升至日中高位$225，收市回落到$201\n• 單日波幅$30 — 極端overbought，技術形態似pump and dump\n• Yahoo headline暗示估值已脫離基本面：「one big catch」\n• Burry表示「tempted to bet against」— 呢個係significant red flag\n• 部署：唔好追SPCX，但可以留意生態系效應 — MSFT（Google每月$9.2億雲端收入）\n  同GOOGL間接受益於SpaceX嘅AI/infra故事\n• 真正嘅投資機會：SpaceX嘅Cursor AI收購可能係「Instagram moment」—\n  利好AI/ML領域，間接利好NVDA/AMD\n\n👀 WATCH #3: 二手車市場見底（CVNA/KMX）\n• KMX業績beat（GAAP EPS $1.31 vs $0.94預期）— 二手車市場確認回暖\n• CVNA新策略（dealership變「playground」）— 睇Q3持續性\n• CVNA: $68.90（星期一+7.5%），KMX: $52.11（星期二成交量750萬）\n• 部署：二手車週期見底係結構性故事，適合中長期布局\n• 催化劑：Q3業績 + 減息（降低汽車貸款成本）\n\n👀 WATCH #4: BTC — FOMC前$64K支持位\n• BTC $64,712，$8.6B options OTM，$64K係essential support\n• 若FOMC鴿派 => BTC可睇$70K-75K\n• 若FOMC鷹派 => 跌破$64K = 向$60K尋底\n• 部署：FOMC前減少BTC暴露，等結果再部署\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📋 Today's Agenda & Key Levels\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【本週Catalyst Schedule】\n• 週三（今日）：FOMC第二天會議，無重要經濟數據\n• 週四凌晨02:00 HKT：FOMC利率決議 + Kevin Warsh首次記者會（最大catalyst）\n• 週四：美國CPI數據公布 — 若核心CPI超預期，係重大鷹派風險\n• 週末：G7峰會 — 伊朗框架協議正式簽署窗口\n\n【SPY Key Levels】\n• Support 1: $742（前阻力轉支持，6月12日收盤位）\n• Support 2: $735（6月11日低位，伊朗協議前恐慌底）\n• Resistance 1: $755（6月15-16日高位區）\n• Resistance 2: $770（下一重要心理關口）\n• 當前$750，FOMC前短線區間$742-$755\n\n【QQQ Key Levels】\n• Support 1: $725（6月9日低位）— 若失守，下試$705\n• Support 2: $705（6月10日panic底）— 極端情況下嘅支持\n• Resistance 1: $745（剛突破但失守，需重新確認）\n• Resistance 2: $765（6月高位）\n• 期貨NQ+F +1.61%暗示今日可能挑戰$740-745\n\n【VIX Key Levels】\n• Current: 16.37 — 若跌破15.5，全面risk-on\n• 若反彈上18+，FOMC或伊朗出現負面意外\n\n【BTC Key Levels】\n• Support: $64,000（essential，$8.6B options集中）\n• Resistance: $67,000（6月15日高位）\n• 若跌穿$64K，下望$60K\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 My Take\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nOverall Bias: Neutral / Cautiously Bullish （FOMC前觀望，偏向正面）\n\n今日最大主題得一個：FOMC。其他一切都係噪音。\n\n我的判斷：\n(1) Warsh首秀傾向穩健，唔會出亂子。市場預期按兵不動，問題係佢點樣處理\ndot plot同通脹措辭。我傾向佢會withhold dot plot或者維持全年1次減息嘅預測 —\n即係dovish enough to not spook the market。若如此，SPY可反彈至$760-765。\n\n(2) 但最大風險係Trump伊朗威脅同FOMC夾擊。星期二嘅科技回吐（QQQ -1.90%）\n顯示市場開始對伊朗協議嘅持續性有懷疑。如果Warsh嘅聲明偏鷹+Trump繼續威脅伊朗，\nrisk assets可以雙重受壓。\n\n(3) 星期二最值得注意嘅signal係金融股（XLF +1.47%）跑贏科技（XLK -2.78%）。\n呢個rotation喺FOMC前係合理嘅—銀行股直接受益於利率維持高位。\n但若FOMC後呢個rotation持續，代表市場預期「higher for longer」—\n長遠不利成長股估值。\n\n(4) BMW今日暴跌7%係一個值得注意嘅risk signal。德國工業龍頭跌到5年低位，\n反映市場對全球經濟（尤其中國+歐洲）嘅憂慮遠未消散。\n伊朗和平協議嘅risk-on euphoria可能掩蓋了結構性增長放緩嘅事實。\n\n(5) SPY $750 / QQQ $730，期貨反彈但唔好過度興奮。\nFOMC前嘅期貨反彈可能只係short covering + positioning調整。\n真正方向要等FOMC之後先知。\n\n一句話：FOMC前輕倉觀望。技術上期貨反彈睇好，但Trump伊朗威脅同\nWarsh嘅不確定性令今日唔適合大規模部署。等FOMC結果先出手。",
+      "risks": [
+        "Warsh首秀鷹派 — 新主席可能比市場預期更鷹，移除寬鬆傾向",
+        "Trump伊朗威脅升級 — 星期一risk-on嘅最大風險",
+        "CPI（週四）超預期 — 若核心CPI反彈，加息預期再升溫",
+        "QQQ回吐後未能反彈 — 若期貨升幅未能持續，代表科技股弱勢確認",
+        "SpaceX/IPO狂潮回吐 — $2.6T估值若調整，拖累整個risk appetite",
+        "BOJ加息/日圓carry trade拆倉 — 長期資金流向逆轉風險",
+        "BMW/DAX 持續下跌 — 歐洲/中國經濟放緩信號"
+      ],
+      "my_take": "Overall Bias: Neutral / Cautiously Bullish\n\nFOMC前觀望，偏向正面。Warsh首秀傾向穩健，預期按兵不動+維持股指。最大變數係 (1) Trump伊朗威脅升級 — 將摧毀星期一嘅risk-on反彈 (2) Warsh嘅溝通風格 — 新主席效應可能引起波幅。星期二QQQ -1.90% vs DIA +0.58%嘅rotation係FOMC前嘅合理部署，但若持續至FOMC後，代表higher-for-longer預期。BMW暴跌7%係全球經濟憂慮嘅信號 — 伊朗euphoria掩蓋結構性放緩。策略：FOMC前減少方向性持倉，用option straddle捕捉波幅。今日期貨反彈（ES +0.98%, NQ +1.61%）短期睇好但勿過度進取。"
     }
   ]
 }
