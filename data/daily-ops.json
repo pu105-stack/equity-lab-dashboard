@@ -1082,6 +1082,86 @@
         "BMW/DAX 持續下跌 — 歐洲/中國經濟放緩信號"
       ],
       "my_take": "Overall Bias: Neutral / Cautiously Bullish\n\nFOMC前觀望，偏向正面。Warsh首秀傾向穩健，預期按兵不動+維持股指。最大變數係 (1) Trump伊朗威脅升級 — 將摧毀星期一嘅risk-on反彈 (2) Warsh嘅溝通風格 — 新主席效應可能引起波幅。星期二QQQ -1.90% vs DIA +0.58%嘅rotation係FOMC前嘅合理部署，但若持續至FOMC後，代表higher-for-longer預期。BMW暴跌7%係全球經濟憂慮嘅信號 — 伊朗euphoria掩蓋結構性放緩。策略：FOMC前減少方向性持倉，用option straddle捕捉波幅。今日期貨反彈（ES +0.98%, NQ +1.61%）短期睇好但勿過度進取。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-18",
+      "time": "08:17 HKT",
+      "status": "success",
+      "market_direction": "Warsh FOMC hawkish surprise引發債市/股市雙殺，ES/NQ全面轉熊；伊朗停火協議簽署但原油庫存極低限制油價下行空間，能源板塊維持結構性看好；BTC capitulation減弱提供技術反彈窗口；AI賽道Apple成本壓力+Anthropic出口管制雙重打擊但基礎設施需求不變",
+      "headlines": [
+        "ACTION: TLT/TBT/IEF — Warsh FOMC: 利率維持但轉鷹，dot plot暗示年內加息，Fed statement大幅改寫 'regime change'",
+        "ACTION: USO/XLE/CVX/XOM — 美伊停火協議簽署但全球原油庫存極低，Brent跌穿$80但供應緊縮風險未解除",
+        "ACTION: BTC/IBIT — Bitcoin capitulation減弱(realized losses-46%)，bid-side liquidity轉佳，技術性反彈機會",
+        "WATCH: AAPL/MU — Tim Cook稱RAM成本'unsustainable'，AI記憶體短缺迫使Apple加價，margin壓力",
+        "WATCH: AIBZ/CEG — AI能源危機來臨，Bitzero鎖定1GW+低價電源，GPU金融化$65B市場如2008年前兆",
+        "WATCH: TSLA — Elon可能推動SpaceX/Tesla合併，SpaceX市值暴漲後Cursor收購顯便宜",
+        "WATCH: MSFT/GOOGL — Anthropic遭出口管制強制斷服，白宮要求堵住jailbreak漏洞（可能不可能）",
+        "WATCH: COIN/MSTR — Fidelity加入穩定幣儲備管理大戰，傳統金融持續進軍crypto"
+      ],
+      "opportunities": [
+        "TLT/TBT: Warsh Fed regime change — short duration/long vol. Dot plot暗示年內加息，bond market selloff未完成，short TLT via TBT或put spread",
+        "USO/XLE: 伊朗停火看似利空能源但實際庫存極低，diesel demand shock未被定價。戰術性做多能源，止損設Brent $75以下",
+        "BTC: capitulation減弱+spot liquidity改善=short-term bounce setup。IBIT/ETH tactical long，risk size小",
+        "AIBZ: AI能源瓶頸的直接受益者。1GW+鎖定low-cost power，cash flow positive。早期階段但故事強",
+        "COIN: Fidelity加入+Coinbase轉型away from trading fees。Crypto bear中但機構採用持續推進，逢低long-term build"
+      ],
+      "analysis": "今日（6月18日）Asian/European session共掃描58條RSS feeds，獲取174篇新聞文章。核心驅動因素：\n\n(1) **Warsh FOMC Regime Change** — 新任主席Kevin Warsh主持首次FOMC會議。利率維持3.5-3.75%但statement大幅改寫，移除cutting bias。Dot plot median指向3.8%（暗示年內加息）。Gundlach: 'not easy money chairman'。市場即時反應：ES 8-0 bearish, NQ 6-1 bearish。\n\n(2) **美伊正式簽署和平協議** — 14點MoU：結束戰鬥、Hormuz重開、不准伊朗核武、$300B重建計劃。但oilprice.com警告：全球原油庫存已處於'minimum operational levels'，Carlyle's Currie之前預警7月將出現供應緊縮。Diesel demand shock未被市場定價。\n\n(3) **Bitcoin Capitulation減弱** — Glassnode數據顯示BTC realized losses下降46%，bid-side liquidity改善。但Cointelegraph指crypto market 'treads thin ice' after Warsh FOMC。\n\n(4) **AI供應鏈壓力** — Apple被迫加價（AI記憶體短缺），Anthropic遭出口管制強制下線旗艦模型，白宮要求堵住jailbreak。GPU金融化$65B市場令人聯想到2008。\n\n(5) **傳統金融加速進軍Crypto** — Fidelity加入穩定幣儲備管理，SpaceX/Tesla潛在合併，Coinbase轉型。",
+      "risks": [
+        "美伊和平協議若全面執行（Hormuz重開），油價可能進一步下跌，能源long stop loss必須嚴格",
+        "Warsh Fed若繼續轉鷹，risk assets全面受壓，crypto tactical bounce可能失敗",
+        "AI監管收緊（Anthropic案例）可能擴散至更多公司，影響AI sector sentiment",
+        "Apple加價可能影響iPhone demand，AAPL作為最大權重股若下跌將拖累大市"
+      ],
+      "my_take": "今日新聞最關鍵係Warsh FOMC嘅'regime change'信號。佢唔係市場期望嘅'easy money chairman'，而係要rewire整個Fed。Statement大幅改寫、cutting bias移除、dot plot顯示年內可能加息 — 呢個係bond market嘅game changer。Short duration係目前最清晰嘅戰術trade。\n\n伊朗停火協議表面上利空能源，但Oilprice.com和Carlyle's Currie都警告global oil inventories處於'minimum operational levels'。Hormuz重開不等於供應即時恢復。Diesel demand shock未被定價，能源板塊仍有上行風險。\n\nBTC capitulation數據改善係正面信號，但Warsh hawkishness可能壓制risk appetite。Tactical bounce機會存在但必須細size。\n\nAI方面，Apple成本壓力和Anthropic出口管制係short-term headwinds，但AI能源危機（Bitzero故事）和GPU金融化趨勢反映底層需求仍然強勁。Structural bullish on AI infra，但要小心估值和監管風險。\n\n策略：Short duration via TBT（主倉位）、戰術性做多能源、小注crypto bounce、逢低累積COIN/AIBZ。",
+      "key_takeaways": [
+        "Warsh Fed regime change = 利率風險重新定價，short duration最清晰戰術機會",
+        "伊朗停火=油價短期利空但庫存極低提供中期支撐，能源不宜全數清倉",
+        "BTC capitulation減弱但宏觀風險仍在，tactical only",
+        "AI能源需求瓶頸係被低估嘅結構性主題（AIBZ、CEG、VST係直接受益者）",
+        "Apple成本壓力+監管收緊短期壓制AI sentiment但底層需求不變"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-18",
+      "time": "08:44 HKT",
+      "status": "success",
+      "market_direction": "🔴 Warsh FOMC Shock — SPY -1.25%、QQQ -1.01%、VIX +12.37%至18.44；Warsh上任後首次FOMC鷹派surprise暗示年內加息可能，10Y 4.46%持平但DXY急升至100.33；半導體見relief bounce（SMH +1.29%），但消費/地產/醫療跌幅顯著；油價崩至$75.17，能源續跌；金銀礦業被美元強勢壓制",
+      "headlines": [
+        "📊 SPY $740.96 (-1.25%) — FOMC-driven sell-off; SPY 5D range $724-757",
+        "💻 QQQ $722.51 (-1.01%) — Tech mixed; semis bounce but mega-caps bleed",
+        "😨 VIX 18.44 (+12.37%) — Fear spike on Warsh hawkish FOMC surprise",
+        "🏛️ Warsh FOMC regime change — Dot plot暗示年內加息可能；Statement大幅改寫cutting bias移除",
+        "🔌 SMH $623.97 (+1.29%) — Semis relief bounce; AVGO +4.30%, MRVL +3.90% lead",
+        "🛢️ Oil crashes to $75.17 (-1.16%) — Iran peace deal + weak demand outlook; USO -11.33% in a week",
+        "💵 DXY 100.33 (+0.79%) — Dollar surge on hawkish Fed; UUP +0.90%",
+        "🥇 GLD $388.60 (-2.27%), SLV $60.61 (-4.39%) — Dollar strength crushes precious metals",
+        "📉 XLY -2.51%, XLP -2.23%, XLRE -2.51% — Consumer/real estate crushed by rate fear",
+        "₿ BTC $64,480 (-1.71%) — Crypto selling on dollar strength, but capitulation slowing",
+        "🏦 JPM $333.46 (+0.70%) — Financials resilient; XLF 5D +2.72% best sector",
+        "🐻 Mega-cap tech bloodbath: META -5.44%, MSFT -3.79%, AMZN -3.46%, CRM -4.14%",
+        "🇮🇷🇮🇱 Iran peace MOU signed — Hormuz reopening progress, but oil demand fears dominate"
+      ],
+      "opportunities": [
+        "AVGO: $392.90 (+4.30%) — Custom silicon fear fading. 5D +1.90%. Recovery from June lows continues. Fundamental AI story intact.",
+        "MRVL: $289.54 (+3.90%) — AI networking momentum building. S&P 500 inclusion afterglow. 5D +3.15%.",
+        "MU: $1,043.19 (+2.20%) — AI memory supercycle. 5D +4.75%. HBM3E exclusive Nvidia supply. Jun 24 earnings catalyst.",
+        "JPM/XLF: Financials resilient through FOMC shock. JPM 5D +6.37%. Higher-for-longer benefits banks. FOMC hawkish = NIM expansion.",
+        "INTC: $121.10 (+3.46%) — Turnaround story gaining traction. 5D +3.54%. Relative value in semis.",
+        "RKLB: $107.98 (+3.20%) — Space sector bouncing. SpaceX IPO catalyst still pending."
+      ],
+      "analysis": "# 📊 Evening Review — 6月18日（星期四）HKT | 美股6月17日（星期三）收市\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📊 MARKET RECAP — 6月17日（星期三）\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【今日主題：Warsh FOMC Regime Change — 鷹派surprise引發全面sell-off】\n\n今日係2026年最重要嘅macro event day — Warsh上任聯儲主席後首次FOMC會議。市場原本預期dovish continuation，但結果係全面鷹派surprise：statement大幅改寫、cutting bias移除、dot plot暗示年內可能加息。市場即時反應：股跌、債跌、美元升、商品跌。\n\n【指數表現】\n\n| 指數 | 收市價 | 日變幅 | 5日變幅 | 備註 |\n|---|---|---|---|---|\n| **SPY** | $740.96 | **-1.25%** | +0.43% | FOMC-driven sell-off，5D range $724-757 |\n| **QQQ** | $722.51 | **-1.01%** | +0.75% | Tech mixed；semis bounce抵銷mega-cap跌幅 |\n| **DIA** | $516.30 | **-0.99%** | +1.36% | Dow 5D最強但今日受壓 |\n| **IWM** | $289.88 | **-0.75%** | +0.05% | Small cap相對抗跌 |\n| **^VIX** | 18.44 | **+12.37%** | -5.14% | 從本週低位15.77反彈至18.44 — 恐慌重燃 |\n\n【成交量分析】\n- SPY 85.1M — 高於56M平均50%，confirm selling pressure\n- QQQ 45.9M — 接近正常水平，冇panic selling\n- SMH 10.6M — 略高於平均，semi bounce有成交支持\n- 總結：成交量中等偏高水平，sell-off有序但未到capitulation\n\n【板塊表現 — FOMC衝擊全面擴散】\n\n| 板塊 | ETF | 日變幅 | 5日變幅 | 分析 |\n|---|---|---|---|---|\n| 🔴 非必需消費 | XLY | **-2.51%** | -0.70% | Consumer weakest link；高利率侵蝕購買力 |\n| 🔴 地產 | XLRE | **-2.51%** | -1.90% | Rate fear最敏感板塊 |\n| 🔴 必需消費 | XLP | **-2.23%** | +0.42% | Defensive rotation failed today |\n| 🔴 醫療保健 | XLV | **-1.46%** | +0.81% | LLY -0.94%拖累；防禦板塊都跌 |\n| 🔴 原材料 | XLB | **-1.33%** | -1.14% | Commodity全面受壓 |\n| 🔴 能源 | XLE | **-1.25%** | -4.29% | Oil $75繼續跌；1W -6.94%係最差板塊 |\n| 🔴 SPY | — | **-1.25%** | +0.43% | 大市broad-based sell-off |\n| 🟡 公用 | XLU | **-1.33%** | +2.02% | Rate higher = utility壓縮 |\n| 🟡 科技 | XLK | **-0.34%** | +1.41% | Semis bounce buffered mega-cap losses |\n| 🟡 金融 | XLF | **-0.55%** | +2.72% | JPM +0.70%；銀行相對最強 |\n| 🟢 半導體 | SMH | **+1.29%** | +2.38% | Only green sector；relief bounce confirmed |\n\n【關鍵觀察】\n1. SMH +1.29%係今日唯一正回報板塊 — semis relief bounce但無法帶動大市\n2. XLF -0.55%但5D +2.72%係本週最強板塊 — 銀行股受惠higher-for-longer\n3. XLE -6.94% 1W係最大輸家 — oil crash至$75重創能源\n4. VIX 18.44從本週低位15.77大幅反彈 — 市場警戒級別重啟\n5. 10Y 4.46%冇大變 — 奇怪，但可能反映市場對growth放緩嘅擔憂抵消了利率上升預期\n6. DXY 100.33強勢 — Dollar surge係所有commodity跌嘅原因\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔥 NOTABLE MOVERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【最大贏家（今日）】\n\n| 股票 | 收市價 | 日變幅 | 5日變幅 | Catalyst |\n|---|---|---|---|---|\n| **AVGO** | $392.90 | **+4.30%** | +1.90% | Custom silicon恐慌持續消化。從$370修復至$393。上週跌20%後技術性反彈 |\n| **MRVL** | $289.54 | **+3.90%** | +3.15% | AI networking momentum。S&P 500納入效應。從$258低點持續修復 |\n| **INTC** | $121.10 | **+3.46%** | +3.54% | Turnaround story買盤湧現。相對價值吸引力。本週跑贏所有semi peers |\n| **RKLB** | $107.98 | **+3.20%** | -5.92% | SpaceX IPO憧憬支持下反彈。本週低位$99.61已確認支持 |\n| **MU** | $1,043.19 | **+2.20%** | +4.75% | AI memory supercycle。6/24 earnings前買盤持續 |\n\n【最大輸家（今日）】\n\n| 股票 | 收市價 | 日變幅 | 5日變幅 | 原因 |\n|---|---|---|---|---|\n| **META** | $567.58 | **-5.44%** | -0.06% | 大科技最大輸家。FOMC hawkish打擊高估值成長股。$605.81高點急挫至$556水平 |\n| **ADBE** | $196.28 | **-5.33%** | -10.24% | 連續下跌。軟體板塊弱勢。FOMC後growth stock遭拋售 |\n| **MSTR** | $116.56 | **-5.09%** | -9.96% | BTC跌+美元強=bitcoin proxy雙重打擊 |\n| **SMCI** | $27.78 | **-4.93%** | -17.85% | AI server競爭加劇+$7B dilution仍在消化。5D -17.85%係最大輸家 |\n| **CRM** | $155.02 | **-4.14%** | -3.04% | Software sector weakness。FOMC殺growth |\n| **MSFT** | $378.91 | **-3.79%** | -2.93% | 跌穿$380心理關口。5D從$402跌至$378 |\n| **AMZN** | $237.50 | **-3.46%** | -1.66% | Consumer weakness + rate fear雙重打壓 |\n\n【Sector Rotation Signals】\n- 本週最清晰嘅主題：資金從energy/consumer流向financials\n  - XLF +2.72% 5D vs XLE -6.94% 5D = 差距近10個百分點\n  - JPM +6.37% 5D — 銀行股全面跑出\n- Semis relief bounce（SMH +1.29%）但未能帶動科技全面轉強\n- Consumer （XLY -2.51%）同Real Estate（XLRE -2.51%）係最大受害者\n- Dollar surge（DXY 100.33）係commodity價格下殺嘅root cause\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📰 NEWS THAT MATTERED\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【Confirmed Catalysts】\n\n1. 🏛️🔥 **Warsh FOMC — 全面鷹派surprise** (最關鍵)\n   - 上任後首次FOMC會議\n   - 大幅改寫FOMC statement，移除cutting bias\n   - Dot plot暗示年內可能加息（vs市場預期減息）\n   - 市場即時反應：股債雙殺、美元飆升、商品暴跌\n   - VIX從15.77急升至18.44\n   - 呢個係2026年聯儲政策嘅'regime change' — 唔好假設Warsh會延續鮑威爾路線\n\n2. 🇮🇷🇮🇱 **伊朗-以色列和平MOU簽署**\n   - 60日框架協議，Hormuz重開進行中\n   - 原油供應恢復憧憬推跌油價\n   - Oil從$96（6月高點）暴跌至$75 — 跌幅達-22%\n   - USO 1W -11.33%，XLE 1W -6.94%\n   - 但SPR處於41年低位，油價可能overdone\n\n3. 🛢️ **Oil crash to $75**\n   - Iran peace deal + global demand concerns（FOMC hawkish=經濟放緩）\n   - CL=F從$90（6/10）跌至$75 — 6日跌-17%\n   - 係2026年最大嘅商品跌幅\n   - 能源股全面受壓：XLE -6.94% 1W\n\n4. 💵 **DXY美元指數急升至100.33**\n   - FOMC hawkish後美元全面走強\n   - UUP +0.90%單日\n   - 直接壓制商品價格：GLD -2.27%, SLV -4.39%, GDX -3.30%\n   - 新興市場受壓：FXI -2.63%\n\n【News Curator Calls Review — 6/18 08:17 HKT Edition】\n\nACTION Items:\n✅ **Short TLT via TBT / Short duration** — TLT $86.33 (+0.16%), TBT $35.08 (-0.31%)。Bond market反應溫和，但Warsh regime change support short duration thesis\n✅ **戰術性做多能源** — ❌ 今日XLE -1.25%, USO -1.07%。Oil crash完全壓制能源。止損要執行\n⚠️ **BTC tactical long** — BTC $64,480 (-1.71%)。Dollar surge壓制crypto。小注尚可但short-term受壓\n⚠️ **COIN long-term build** — COIN $164.91 (-2.57%)。跟BTC跌\n👀 **AIBZ** — AI能源故事仍在early stage，但market focus在FOMC\n👀 **AAPL/MU RAM成本** — AAPL $295.95 (-1.10%)，MU $1,043 (+2.20%)。MU繼續走強，AAPL受壓但相對抗跌\n\nWATCH Items:\n⚠️ **AAPL $295.95** — 跌穿$300後企穩$295。Tim Cook RAM成本comment持續影響margin sentiment\n⚠️ **ANTH出口管制/MSFT/GOOGL** — MSFT -3.79%, GOOGL -2.53%。AI監管風險持續\n⚠️ **TSLA $396.38** — SpaceX/Tesla合併憧憬。但TSLA 5D -0.69%表現平平\n⚠️ **COIN $164.91** — Fidelity加入穩定幣大戰利好但BTC跌壓制\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🎯 OPPORTUNITIES CARRY FORWARD\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【High Conviction — 明日繼續留意】\n\n1. **AVGO ($392.90)** — Custom silicon恐慌完全消退\n   - 上週-20%後已修復至$393\n   - AI revenue仍doubledigit growth\n   - 今日+4.30%係確認反彈signal\n   - 成交31.4M — 高於平均，真金白銀買入\n   - 🎯 Next resistance $400 → $420\n\n2. **MU ($1,043.19)** — AI memory supercycle\n   - HBM3E獨供Nvidia + DDR5定價權不變\n   - 6/24 earnings前仍有兩週時間\n   - 5D +4.75%，今日+2.20% — 穩定上行\n   - 🎯 6/24 earnings前可挑戰$1,100\n\n3. **JPM / XLF** — Financials = FOMC hawkish嘅最大受惠者\n   - JPM 5D +6.37%，距歷史高位$337僅差$4\n   - Higher-for-longer直接利好NIM\n   - XLF 5D +2.72%係本週最強板塊\n   - FOMC stress test 6/24 = 下一個銀行股催化劑\n   - 🎯 JPM突破$337 = 追入信號\n\n4. **INTC ($121.10)** — Turnaround story買盤確認\n   - 111M股成交 — 異常高，機構動作\n   - 5D +3.54%跑贏NVDA/AMD\n   - 相對估值吸引（vs其他semi peers）\n   - 🎯 Next resistance $130\n\n【After-hours / Pre-market Setup】\n- FOMC aftermath消化 — 市場需要2-3日repricing rate expectations\n- MU 6/24 earnings = 下一個semi催化劑\n- Fed stress test 6/24 = bank catalysts\n- Iran peace deal details — oil供應回歸時間線\n- Dollar strength持續性 — DXY能否守住100\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ RISKS / WATCHLIST\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【Overnight Events to Watch】\n1. 🚨 **Warsh FOMC aftermath（最關鍵）** — Dot plot暗示加息係最大嘅game changer。如果市場開始repricing加息1-2次，成長股估值將進一步壓縮。SPY $724 support係key level\n2. 🚨 **Dollar strength持續** — DXY 100.33。若DXY繼續向上，commodity同新興市場面臨更大壓力\n3. 🚨 **Oil $75能否企穩** — 伊朗deal定價已反映。若跌穿$70，XLE將再跌5-10%。但SPR 41年低位限制下行空間\n\n【持倉風險】\n⚠️ 不作持倉假設 — 但提醒：如果持有能源長倉（XLE/XOM/CVX），本週-6.94%係painful但SPR歷史低位+供應面偏緊，跌過度可能係buyable dip\n⚠️ 如果持有mega-cap tech長倉（MSFT/META/AMZN），FOMC hawkish + consumer weakness雙重打壓，需要評估止損位\n⚠️ 如果持有商品（GLD/SLV），DXY surge係最大短期逆風，但中長期de-dollarization趨勢未變\n\n【Macro Risk Matrix】\n| 風險 | 概率 | 影響 | 監察 |\n|---|---|---|---|\n| Warsh FOMC rate hike repricing | 中高 | 極高（成長股全面重估） | Fed speak / 經濟數據 |\n| Dollar surge持續 | 中高 | 高（commodity/EEM跌） | DXY 100 level |\n| Oil跌穿$70 | 中 | 高（能源股再跌） | CL=F價格 |\n| Iran deal breakdown | 低中 | 極高（油價V型反彈） | 新聞feed |\n| SPY $724 support失守 | 中 | 高（下試$710-715） | SPY price action |\n| MU earnings disappoint | 低 | 中（semi板塊回調） | 6/24 earnings |\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 MY TAKE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n今日係Warsh FOMC regime change day — 2026年最重要嘅macro event之一。市場一直假設Warsh係'easy money chairman'，但今日嘅statement完全推翻呢個敘事。\n\n**最大嘅投資主題轉變：**\n1. Short duration / long vol becomes the dominant trade — TLT橫行、TBT不跌、UUP急升，反映市場開始pricing in 'higher for longer'甚至加息\n2. Dollar strength kills everything — 金銀礦業今日跌幅顯著（SLV -4.39%、GDX -3.30%），因為美元走強+利率上升雙重打壓\n3. Consumer is cracking — XLY -2.51%、XLP -2.23%、WMT -2.40%、HD -2.85%。Walmart跌穿$120。高利率持續侵蝕消費購買力\n4. Semis relief bounce（SMH +1.29%）係今日唯一亮點 — AVGO/MRVL/MU走強但成交未到確認級別。6/24 MU earnings係真正test\n\n**我最睇好嘅setup：**\n- AVGO ($393) + MU ($1,043) — 半導體基本面冇變，FOMC shock係short-term noise\n- JPM/XLF — 銀行股係FOMC hawkish嘅最大direct beneficiary。Stress test 6/24係下一個催化劑\n\n**⚠️ 最大warning：**\nWarsh FOMC嘅hawkishness如果喺未來幾日持續發酵（更多Fed speak確認、market repricing rate expectations），SPY可能下試$720。今日VIX 18.44仲未到恐慌頂。保持cash彈性，唔好急於all-in。\n\n**Tomorrow bias: 🟡 Neutral-to-Bearish** — 市場需要時間消化Warsh regime change。焦點轉向6/24 MU earnings同下週經濟數據。短期防守為主。\n",
+      "risks": [
+        "🚨 Warsh FOMC regime change — 年內加息可能被市場低估。如果加息預期擴散至2次+，成長股/科技將進一步受壓",
+        "🚨 SPY $724 support — 本週低位測試中。若失守$724，下一個支持係$710-$715（前6月恐慌低點）",
+        "🚨 Dollar surge — DXY 100.33 +0.79%單日。若美元持續走強，新興市場/商品/ex-US股市受壓",
+        "🚨 Oil crash to $75 — 伊朗停火+需求憂慮。若油價跌穿$70，能源板塊/XLE將再跌5-10%",
+        "🚨 Mega-cap tech breakdown — MSFT跌至$378（-2.93% 5D）、META $567（-5.44%單日）。結構性弱勢未扭轉",
+        "🚨 Gold/silver crash — GLD -2.27%, SLV -4.39%。避險資產都唔避險，反映真實的美元流動性收緊",
+        "🚨 Consumer weakness — XLY -2.51%, WMT -2.40%, HD -2.85%。高利率+油價波動開始影響消費"
+      ],
+      "my_take": "今日係Warsh FOMC regime change day。市場一直假設Warsh係'easy money chairman'，但今日嘅statement完全推翻呢個敘事 — 大幅改寫、移除cutting bias、dot plot暗示年內可能加息。呢個係2026年最重要嘅macro event之一。\n\n最大嘅投資主題轉變：\n1) Short duration / long vol becomes the dominant trade — TLT橫行、TBT不跌、UUP急升，反映市場開始pricing in 'higher for longer'甚至'higher for longer + rate hike'。\n2) Dollar strength kills everything — 金銀礦業今日跌幅顯著（SLV -4.39%、GDX -3.30%），因為美元走強+利率上升雙重打壓。如果DXY持續在100以上，commodity超級週期可能暫停。\n3) Consumer is cracking — XLY -2.51%、XLP -2.23%、WMT -2.40%、HD -2.85%。Walmart跌穿$120重要心理關口。高利率持續侵蝕消費購買力。\n4) Semis relief bounce係false signal定真反彈？今日AVGO/MRVL/MU走強但成交未到確認級別。6/24 MU earnings係真正test。\n\n我最睇好嘅setup係AVGO同MU — 半導體基本面冇變，FOMC shock short-term noise。但整體策略要轉向defensive — 增加cash比例、short duration、reduce tech exposure。\n\n⚠️ 最大warning：如果Warsh FOMC嘅hawkishness喺未來幾日持續發酵（market repricing rate expectations），SPY可能下試$720。VIX 18.44仲未到恐慌頂，但趨勢唔靚。\n\nTomorrow bias: 🟡 Neutral-to-Bearish — 市場需要時間消化Warsh regime change。焦點轉向6/24 MU earnings同下週經濟數據。保持現金彈性。"
     }
   ]
 }
