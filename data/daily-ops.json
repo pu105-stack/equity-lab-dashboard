@@ -1175,48 +1175,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-19",
-      "time": "08:16 HKT",
-      "status": "success",
-      "market_direction": "US-Iran和平協議簽署解除海軍封鎖，Hormuz海峽交通恢復，油價面臨下行壓力；Fed新任主席Warsh大幅轉鷹，市場重新定價利率路徑；Intel暴升11%受Apple晶片合作消息帶動；OpenAI IPO準備加速推進；Moderna mRNA流感疫苗獲FDA一致推薦",
-      "headlines": [
-        "ACTION: USO/DAL/UAL — US-Iran和平協議簽署，Hormuz封鎖解除，油價下行利好運輸消費",
-        "ACTION: TLT/TBT — Warsh大幅轉鷹，利率路徑重新定價，short duration策略",
-        "ACTION: INTC — Intel暴升11%受Apple晶片合作消息帶動，turnaround narrative",
-        "WATCH: MSFT/NVDA — OpenAI IPO推進+最大改版，AI生態系統催化劑",
-        "WATCH: ACN — Accenture受伊朗戰爭影響下調展望，AI adoption慢於預期短期利空",
-        "WATCH: BTC/IBIT — Bitcoin與科技股脫鉤，分析師$60K目標，避險屬性上升",
-        "WATCH: MRNA — mRNA流感疫苗獲FDA一致推薦，$10B+市場機會",
-        "NOTE: CEG/SMR — 歐洲核能黃金時代來臨，AI算力需求驅動核電復興",
-        "NOTE: NVDA/AMD — Baseten籌$1.5B，Snap分拆AI影片Dotmo，AI infra投資火熱"
-      ],
-      "opportunities": [
-        "DAL/UAL: US-Iran和平協議解除Hormuz封鎖，油價下行+航運恢復，航空公司成本下降+需求回升，direct beneficiary",
-        "INTC: Apple晶片合作係turnaround關鍵信號，11% gap up後若回調可考慮position，foundry strategy漸見成效",
-        "TBT: Warsh hawkish turn係bond market game changer，short duration策略戰術long TBT對沖利率風險",
-        "MRNA: mRNA流感疫苗獲FDA unanimous approval，第一個mRNA flu vaccine打開$10B+市場，重大產品催化劑",
-        "BTC: 與tech decouple+中東局勢不確定性下non-sovereign asset吸引力上升，$60K目標有技術面支持"
-      ],
-      "analysis": "今日(2026-06-19)Asian/European session共掃描58條RSS feeds，獲取173篇新聞文章。核心驅動因素：(1) US-Iran和平協議 — Trump與伊朗達成初步協議，解除海軍封鎖，Hormuz海峽交通開始恢復，伊朗獲$6B解凍資金買美國貨，Vance強烈批評以色列反對聲音；(2) Fed轉鷹 — 新任主席Warsh大幅改寫Fed聲明，成立5個專案小組評估利率路徑，市場定價更加hawkish，Wolf Street稱'Powell dovish era is over'；(3) Intel + Apple — Intel暴升11%受Apple晶片合作消息帶動，為turnaround narrative提供催化劑；(4) OpenAI IPO — 招攬big guns為IPO做準備，最大規模ChatGPT改版醖釀中；(5) Moderna mRNA flu vaccine — FDA顧問委員會一致推薦，儘管agency內部有政治爭議仍過關。整體市場於US-Iran deal後risk-on情緒升溫但Fed hawkish turn限制上行空間。",
-      "risks": [
-        "US-Iran協議脆弱 — 以色列批評+國會兩黨反對，60日內最終協議可能破裂，Vance警告以色列",
-        "Warsh鷹派超預期 — 若Fed加息路徑比市場定價更鷹，risk assets全面下挫風險",
-        "OpenAI IPO估值泡沫 — $850B估值可能過高，上市後類似SpaceX'fade'風險",
-        "伊朗戰爭後遺症 — Accenture outlook已顯示企業受影響，更多公司盈利或受衝擊"
-      ],
-      "my_take": [
-        "今日新聞格局以US-Iran和平協議為核心變數。結束100日戰爭、解除Hormuz封鎖，短期利好risk assets（股市、運輸、消費），利空能源板塊。但協議仍脆弱 — Vance警告以色列、兩黨批評聲浪大，60日final deal存在不確定性。更值得留意係Warsh大幅轉鷹 — 呢個先係中長期最大變數。Fed regime change from dovish to hawkish將重新定價整個利率曲線，bond market selloff可能蔓延至equity。Intel嘅Apple deal係positive surprise，如果turnaround story work，INTC值得關注。Moderna mRNA flu vaccine獲批係big catalyst for biotech。策略上：short-term戰術long運輸/消費（油價下行受益），short duration exposure，留意AI/tech股高位獲利回吐風險。BTC脫鉤tech值得關注 — 如果中東局勢再有變數，crypto避險需求可能上升。"
-      ],
-      "key_takeaways": [
-        "US-Iran和平協議解除Hormuz封鎖 — 能源bearish，運輸/消費bullish",
-        "Warsh轉鷹係Fed regime change — 利率risk重新定價，short duration",
-        "Intel Apple deal係turnaround信號 — 但需確認是否可持續",
-        "Moderna mRNA flu vaccine獲FDA推薦 — 重大產品催化劑",
-        "OpenAI IPO推進 + AI infra投資火熱 — AI結構性主題不變"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-19",
       "time": "08:37 HKT",
@@ -1250,6 +1208,82 @@
         "🚨 Semis bounce持久性 — SMH +5.76%係relief定真反彈？星期五$650支持位係關鍵test"
       ],
       "my_take": "星期四係典型嘅「FOMC shock消化日」— 半導體（SMH +5.76%）做反彈領頭羊，INTC/MU/MRVL暴升確認semi係市場新leader。VIX急跌至16.40，恐慌情緒快速消退。但我對反彈有保留：(1) SPY收$746.74未能收復$750 — 力度不足；(2) JPM -2.47%全面獲利回吐 — 資金冇信心hold強勢股過夜；(3) T10Y2Y 0.27係最被忽視嘅熊信號 — 曲線扁平化暗示市場定價加息但對增長冇信心。星期五係三巫日，波幅加大但半導體動能有望持續。\n\nOverall bias: 🟡 Neutral — 半導體positive，但SPY $750未能收復前保持審慎。焦點：INTC/MU/MRVL momentum、Semi $650支持、SPY $750突破。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-19",
+      "time": "20:11 HKT",
+      "status": "success",
+      "market_direction": "Hawkish Fed regime shift dominates — Warsh's first meeting confirmed no rate cuts, Kalshi pricing rate HIKE risk. Iran deal progressing but talks postponed keeps oil volatile. Tech leading S&P recovery (+2%) but AI cost concerns weighing on consulting/IT services. Yen at 40-year lows.",
+      "headlines": [
+        "ACTION: NVDA — AI trade shifting back to semis. Apple price hikes confirm chip demand.",
+        "ACTION: GOLD — Goldman cuts target $500. Hawkish Fed + strong USD = bearish near-term.",
+        "ACTION: USO/OIL — Brent below $80 on Hormuz normalization. Jet fuel tumbling.",
+        "WATCH: ACN — Shares at 2017 lows on AI threat. Contagion to Indian IT.",
+        "WATCH: MU — Premarket mover. Memory cycle + AI demand tailwind.",
+        "WATCH: JPY — Yen at 161. $70B intervention failed. More pain ahead.",
+        "WATCH: Fed hike risk — Kalshi >50% odds of HIKE this year.",
+        "WATCH: INTC — Apple deal catalyst. Priced for perfection but upside potential.",
+        "WATCH: AAPL — Raising prices on AI chip costs. Confirms semi demand.",
+        "NOTE: Warsh Fed—hawkish shift upends global currency bets. Dollar strong.",
+        "NOTE: Iran deal—talks postponed, ships heading home, 80 mines to clear in Hormuz.",
+        "NOTE: UK gilts jump—Burnham win pressures Starmer. Political risk rising.",
+        "NOTE: SpaceX $20B bond deal. Stock volatile post-IPO.",
+        "NOTE: US tariff probe into German pharma pricing."
+      ],
+      "opportunities": [
+        "NVDA: AI rotation back into semis. S&P 500 chips led recovery (+2%). Apple's price hike confirms sustained AI chip demand. Watch for next week's inflation data as catalyst.",
+        "MU: Memory cycle still in upswing. Data center buildout from AI remains structural demand driver. Premarket mover — monitor for breakout.",
+        "USO/OIL: Near-term pressure from Hormuz normalization creates entry if geopolitical risk persists. Jet fuel tumbling signals structural shift."
+      ],
+      "analysis": "宏觀層面，Warsh Fed 嘅首個會議係本週最大事件。佢大幅改寫利率聲明、成立五個 task forces 推遲減息決定、Kalshi 甚至開始定價加息風險 >50%。美元走強、Goldman 削 gold target $500、日圓跌到 161 — 所有信號都指向一個 hawkish regime change。\n\n伊朗方面，peace deal 已簽但瑞士談判推遲。霍爾木茲海峽開始正常化，80枚水雷未清，油價跌穿 $80。航空燃油價格因海灣出口復甦而急跌。\n\n科技股方面，S&P 500 芯片板塊帶領反彈 (+2%)。NVDA 重新吸引資金輪轉。但 Accenture 跌到 2017 年低位，AI 成本壓力開始影響 IT 諮詢行業，印度 IT 股已跌 7%。Apple 因 AI 芯片成本加價，確認半導體需求持續強勁但消費者能否承受更高價格仍待觀察。\n\n英國政治風險升溫：Burnham 贏得補選，Starmer 領導地位受挑戰，英債孳息上升。",
+      "risks": [
+        "Fed rate hike risk >50% priced by Kalshi — 如果實現將重創 growth/tech 估值",
+        "伊朗談判進展不順 — talks postponed, 地緣風險未完全消退",
+        "Accenture 業績預警可能擴散到整個 IT 諮詢/服務行業",
+        "日圓繼續貶值可能引發亞洲貨幣競爭性貶值",
+        "英國政治不確定性 — Burnham 挑戰 Starmer 領導地位"
+      ],
+      "my_take": "本週嘅 macro regime change (Warsh hawkish Fed) 係最大嘅 game changer。市場由期待減息轉向 pricing 加息，對 growth/tech 估值構成壓力。但 NVDA 為首嘅半導體依然係 AI 需求嘅 direct beneficiary，回調反而係機會。油價受伊朗 deal 影響短期受壓，但中東局勢未完全穩定，不宜做空。最值得警惕係 ACN 引發嘅 IT 諮詢行業 downgrade cycle — 如果 AI 令 consulting demand 結構性萎縮，影響可能比市場想像更深遠。",
+      "key_takeaways": [
+        "Warsh Fed 轉鷹 — 加息風險 real，美元強勢回歸",
+        "NVDA 輪轉回歸 — AI semi 仍係最佳 structural play",
+        "ACN 暴跌 — AI 對 IT 服務行業嘅 disruptive impact 被低估",
+        "油價短期受壓 — 但地緣風險未消，不宜追沽",
+        "日圓 161 — 干預風險但趨勢難擋"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-19",
+      "time": "20:40 HKT",
+      "status": "success",
+      "market_direction": "中性偏牛 — AI semi 回歸，但 Warsh 鷹派陰影未散",
+      "headlines": [
+        "US-Iran MoU 簽署 — 油價急跌至 $75，舒緩通脹憂慮",
+        "NVDA +2.95% AI rotation 回歸，Forward PE 16.5x 合理",
+        "MU +8.7% 記憶體 upswing 確認，pre-market 續強",
+        "ACN -18% AI threat 引發 IT 服務行業 downgrade",
+        "INTC +10.6% Trump 發文撐 Intel，但基本面未變",
+        "VIX 回落至 16.4，恐慌情緒消退",
+        "DXY 100.8 美元強勢，日圓 161 續創低",
+        "恒指跌穿 24,000 連續四日下跌"
+      ],
+      "focus": [
+        "NVDA — $210 企穩確認 AI rotation",
+        "MU — $1,100 記憶體 upswing",
+        "ACN — IT 服務 AI disruption 蔓延風險"
+      ],
+      "analysis": "🌍 隔夜市場\n\nUS Market Close (6月18日) — 強勁反彈\n• SPY: $746.74 (+0.78%) — S&P 5,500 企穩喺 7,500 之上，收復咗 Warsh 言論後嘅跌幅\n• QQQ: $740.62 (+2.51%) — Tech 領漲，Nasdaq 100 升 2.48%\n• DOW: $51,564.70 (+0.14%) — 傳統股落後，rotation 訊號明顯\n• VIX: 16.40（昨日 17.23）— 恐慌消退，但未返去 15 以下嘅 complacency zone\n\n關鍵 driver：US-Iran 臨時和平協議簽署（MoU），油價暴跌舒緩通脹憂慮。12.5M 桶石油喺 Hormuz 恢復通行，Trump 高調唱好。\n\n債市信號\n• 10Y Yield: 4.45% — 微升，Warsh 鷹派效應持續\n• 2Y Yield: 4.20% — 短端上得快過長端\n• T10Y2Y Spread: 0.27 — 持續平坦化，市場 still pricing 加息風險\n• Dollar Index (DXY): 100.78 — 強勢回歸，一週內由 99.5 升到 100.8\n\n亞洲/歐洲 Overnight\n• 日經: 71,250 (+0.3%) — 跟隨 US 反彈，但 Yen 161 嘅弱勢壓抑本土投資者信心\n• 恒指: 23,925 (-1.6%) — 連續第四日下跌，25,000 失守後加速下行。中東局勢緩和未令港股受惠\n• Euro STOXX 50: 6,304 (-0.3%) — 歐洲輕微回吐，政治風險（Burnham 挑戰 Starmer）升溫\n\n商品\n• WTI Crude: $76.28 — Iran 協議後由 $82 急跌至 $75 低位，而家 slight bounce。結構性 shift：Hormuz 重新開放，但 80 枚水雷需時清理\n• Gold: $4,169 — 避險資金流出，由 $4,360 急跌至 $4,138 低位。美元強勢 + 地緣風險緩和 = 黃金冇運行\n• Yen: 161.25 — 40 年低位，$70B 干預失敗，下一站 165\n\n📡 今日重點事件（6月19日 星期五）\n\n• Econ Calendar: Triple Witching? 今日係 6月期權/期貨 triple witching — 巨大名義價值到期，可能加劇收市前 volatility\n• 冇 major US data release 今日\n• 伊朗協議 details 繼續消化 — 國會 briefing 進行中\n• 留意歐洲收市前嘅 positioning adjustments（Friday + options expiry）\n\n🔥 Sector Watch\n\n🥇 Semiconductors (領導者)\n• NVDA: $210.69 (+2.95%) — AI rotation 強勢回歸。Marketaux sentiment 0.33（bullish）。Forward PE 16.5x，analyst target $299（+42% upside）。Warsh 言論後嘅 selloff 已 fully recovered\n• MU: $1,133.99 (+8.70%!!!) — 記憶體週期 upswing + AI data center demand。但 Forward PE 得 9.9x，暗示市場對 memory cyclicality 有戒心。今日 pre-market 再爆上\n• INTC: $133.99 (+10.64%) — Trump 高調撐 Intel + Apple chip deal 傳聞。Marketaux sentiment 0.50（strong bullish）。但基本面未變 — 呢個係 policy/trade narrative 驅動\n\n🥇 Tech (整體)\n• AAPL: $298.01 (+0.70%) — 加價傳聞確認 chip demand 強勁。Marketaux sentiment 0.19（bullish）。股價穩步向 $300 推進\n• QQQ: $740.62 (+2.51%) — Tech 全面反彈，資金從 defensives 回流 growth\n\n⚠️ IT Services / Consulting (風險)\n• ACN: $127.98 (-17.97%) — 暴跌！AI threat 引發嘅結構性 downgrade。2017 年低位。如果 ACN 嘅 AI disruption thesis 成立，成個 IT 諮詢行業（印度 IT 股）會跟跌\n• 呢個可能係 AI trade 嘅暗面 — 有人贏就有人輸\n\n⚠️ 油股 / 能源\n• Oil collapsed from $82 to $75 呢個星期。Iran deal structural bearish for oil\n• USO/XLE 承受壓力\n\n🎯 Pre-market Opportunities（從 News Curator Consolidate）\n\n🎯 NVDA — 核心持倉級別\n今日點睇：AI semi 嘅 structural demand thesis intact。Apple 加價確認上游需求強勁。Forward PE 16.5x 對於 >50% earnings growth 嚟講係合理。$210 係 key level — 如果今日企穩 $210 以上，下週 target $220。\n風險：Warsh 如果再放鷹，growth 股估值會被壓縮。\n部署：Hold。回調係買入機會。\n\n🎯 MU — 週期性機會\n今日點睇：+8.7% 後 pre-market 繼續有買盤。Memory cycle upswing + AI data center 結構性需求。今日 triple witching，options 相關嘅 gamma 可能放大波動。\n風險：當年 dot-com bust 教訓 — memory 係高度 cyclical。\n部署：Monitor 今日能否企穩 $1,100。如果收喺 $1,100 以上，下星期有更大 upside。\n\n📡 INTC — Narrative Trade\nTrump 嘅 Truth Social post + Apple deal 傳聞令 INTC 一日爆升 10.6%。但基本面未變，呢個係 policy-driven trade 唔係 fundamental turn。\n今日點睇：睇實 $135 阻力。如果突破，下一個 level $140。\n風險：Policy 反轉嘅話會跌得急。\n\n📡 ACN — Contagion Risk\n17.97% 一日暴跌 — AI 對 IT 服務嘅 disruptive impact 被低估。如果呢個係結構性 shift，成個 sector 要重新定價。\n今日點睇：唔好撈底。等 $120 附近睇有冇 support。\n風險：抄底嘅 temptation 好大，但 trend is down。\n\n⚠️ 油價 — 不宜做空\n伊朗協議短期 bearish，但 talks postponed + 水雷清理需時 + 以色列未完全同意。不宜追沽。\n今日點睇：$74-76 係 short-term range。如果跌穿 $74，下一個 support $70。\n\n📋 Today's Agenda\n\n• Triple Witching（6月期權到期）— 通常會增加 volume 同 volatility，尤其係收市前\n• 冇 major econ data — 市場焦點喺伊朗協議細節同 Fed narrative\n• 留意下週二嘅 CPI 數據 — 呢個係下一個 major catalyst\n\nSPY Key Levels:\n• Support: $740（VIX 16-18 zone）\n• Resistance: $750（心理關口 + 前高位）\n• 如果今日收喺 $750 以上，下週 bullish bias\n\n💡 My Take\n\nOverall bias: 中性偏牛（Bullish-leaning Neutral）\n\n呢個星期嘅 macro regime 其實 mixed signal：\n1. Warsh Fed 轉鷹 — 加息風險 real → 壓 growth 估值 ❌\n2. US-Iran 協議 — 油價跌舒緩通脹 → 利好消費 + tech ✅\n3. Dollar 強勢 — 新興市場資金外流 → 利淡港股/亞洲 ❌\n4. AI demand 持續 — NVDA/MU earnings 確認結構性需求 ✅\n\nNet net：短期（1-2 星期）market 會喺「Warsh 鷹派」同「Iran 協議利好」之間拉鋸。但 AI semi 嘅 structural thesis 係最強嘅 conviction call。\n\n今日最緊要睇實：\n• Triple witching 嘅 volatility 會唔會引發異常 move\n• NVDA 能否企穩 $210（如果收低於 $205 就 weak）\n• MU 嘅 momentum 會唔會 fade\n\n改變我睇法嘅條件：\n• Warsh 出嚟再放鷹 → 轉中性\n• VIX 升穿 20 → 轉防守\n• NVDA 跌穿 $200 → reconsider AI thesis",
+      "risks": [
+        "Warsh Fed 加息風險 >50% priced by Kalshi — 如果實現將重創 growth/tech",
+        "ACN 暴跌可能擴散到整個 IT 諮詢行業（印度 IT 股）",
+        "Triple witching 今日 — options 到期相關嘅 volatility 異常",
+        "日圓 161 繼續貶值 — 干預風險但趨勢難擋",
+        "伊朗 talks postponed — 地緣風險未完全消退",
+        "英國政治不確定性 — Burnham 挑戰 Starmer"
+      ],
+      "my_take": "Overall bias: 中性偏牛。呢個星期嘅 macro 係 mixed signal — Warsh 鷹派壓 growth 估值，但 Iran 協議舒緩通脹利好消費 + tech。AI semi 嘅 structural demand thesis intact，NVDA/MU 嘅 momentum 回歸係最強嘅 conviction。今日 triple witching 令 volatility 上升，但 overall market tone 係 recovery mode。最緊要睇 NVDA $210 同 MU $1,100 能否企穩。"
     }
   ]
 }
