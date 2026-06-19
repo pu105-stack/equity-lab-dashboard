@@ -1284,6 +1284,30 @@
         "英國政治不確定性 — Burnham 挑戰 Starmer"
       ],
       "my_take": "Overall bias: 中性偏牛。呢個星期嘅 macro 係 mixed signal — Warsh 鷹派壓 growth 估值，但 Iran 協議舒緩通脹利好消費 + tech。AI semi 嘅 structural demand thesis intact，NVDA/MU 嘅 momentum 回歸係最強嘅 conviction。今日 triple witching 令 volatility 上升，但 overall market tone 係 recovery mode。最緊要睇 NVDA $210 同 MU $1,100 能否企穩。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-06-20",
+      "time": "06:14 HKT",
+      "status": "success",
+      "market_direction": "🔄 兩大regime change — Iran peace deal risk-on followed by Warsh hawkish Fed reset. Semis led recovery, energy crushed. Macro tension unresolved.",
+      "opportunities": [
+        "🎯 NVDA: AI rotation back into semis. Forward PE 16.5x for >50% earnings growth. Pullback = buy.",
+        "🎯 MU: Memory super-cycle. HBM3E + Apple shortage confirmation. PE 9.9x cheap for cycle.",
+        "🎯 INTC: Apple deal turnaround catalyst. 18A-P production real. Still below analyst targets."
+      ],
+      "risks": [
+        "⚠️ TLT: Warsh regime = bond bear market just started. Short duration trade.",
+        "⚠️ GLD: DXY breakout + hawkish Fed = $500 target cut by Goldman. No near-term catalyst."
+      ],
+      "analysis": "今個星期市場經歷兩大 macro regime change：\n1. US-Iran 和平協議（6月15日）— 油價由$82暴跌至$75，股市risk-on反彈，SPY觸及$756\n2. Kevin Warsh FOMC首秀轉鷹（6月17-18日）— 聲明改寫、cutting bias移除、dot plot暗示加息可能\n\n半導體成為最大贏家 — SMH +5.76%星期四，INTC +10.65%（Apple deal），MU +8.70%（memory cycle）。NVDA $210企穩，AI rotation back into semis confirmed。\n\n能源板塊係最大輸家 — XLE -7.23%全週。油價受伊朗deal結構性打壓，但SPR處於41年低位，供應面偏緊未被定價。\n\nWarsh regime change 係中長期最大變數 — bond market bearish，short duration係最清晰嘅戰術trade。Gold受強美元+鷹Fed雙重打壓。\n\nACN -17.97%引發AI對IT諮詢行業disruption憂慮，可能係結構性downcycle。",
+      "my_take": "今週最重要嘅信號係Warsh轉鷹，呢個改變咗成個macro backdrop。市場由期待減息轉向pricing加息，對growth/tech估值構成計算壓力。但NVDA/MU/INTC呢啲有structural demand支持嘅semi stock，回調反而係機會。\n\n能源板塊嘅伊朗deal selloff可能overdone。SPR 41年低位+結構性underinvestment = 油價向下空間有限。XLE係戰術性contra-position。\n\nACN嘅暴跌值得警惕 — 如果AI令IT consulting demand結構性萎縮，呢個唔係撈底，而係行業重組嘅開始。睇多一個季度確認。\n\n最大嘅不確定性係Warsh嘅政策路徑。如果真係加息，growth stock估值會進一步壓縮。保持靈活，唔好over-commit單一方向。",
+      "focus": [
+        "AI半導體: NVDA, MU, INTC",
+        "能源反彈: XLE",
+        "AI disruption: ACN",
+        "Macro: TLT, GLD"
+      ]
     }
   ]
 }
