@@ -1,13 +1,49 @@
 {
   "account": {
-    "equity": 100004.44,
-    "cash": 97660.0,
+    "equity": 99917.98,
+    "cash": 93110.68,
     "initial": 100000.0,
-    "pnl": 4.44,
-    "pnl_pct": 0.0,
-    "updated_at": "2026-06-13T10:54:53.847880+00:00"
+    "pnl": -82.02,
+    "pnl_pct": -0.08,
+    "updated_at": "2026-06-20T02:18:04.619766+00:00"
   },
   "positions": [
+    {
+      "id": 34,
+      "ticker": "GOOGL",
+      "direction": "LONG",
+      "quantity": 6,
+      "entry_price": 368.0,
+      "stop_loss": 345.07,
+      "take_profit": 436.78,
+      "opened_at": "2026-06-20T02:18:04.627768+00:00",
+      "live_price": 368.03,
+      "market_value": 2208.18,
+      "pnl": 0.18,
+      "pnl_pct": 0.01,
+      "dd_decision": "BUY",
+      "dd_fair_value": 430.0,
+      "dd_conviction": "High 8.5",
+      "dd_upside_pct": 19.5
+    },
+    {
+      "id": 33,
+      "ticker": "GLD",
+      "direction": "LONG",
+      "quantity": 6,
+      "entry_price": 390.22,
+      "stop_loss": 371.96,
+      "take_profit": 445.01,
+      "opened_at": "2026-06-18T15:18:09.656924+00:00",
+      "live_price": 387.12,
+      "market_value": 2322.72,
+      "pnl": -18.6,
+      "pnl_pct": -0.79,
+      "dd_decision": "BUY",
+      "dd_fair_value": 430.0,
+      "dd_conviction": "High 8.1",
+      "dd_upside_pct": 11.2
+    },
     {
       "id": 12,
       "ticker": "MSFT",
@@ -17,15 +53,15 @@
       "stop_loss": 364.68,
       "take_profit": 469.95,
       "opened_at": "2026-06-13T10:54:53.856029+00:00",
-      "live_price": 390.74,
-      "market_value": 2344.44,
-      "pnl": 4.44,
-      "pnl_pct": 0.19,
+      "live_price": 379.4,
+      "market_value": 2276.4,
+      "pnl": -63.6,
+      "pnl_pct": -2.72,
       "dd_decision": "WATCH",
       "dd_fair_value": 438.0,
       "dd_conviction": "Med-High",
       "dd_upside_pct": 12.3
     }
   ],
-  "last_synced": "2026-06-15T21:23:19.114497+08:00"
+  "last_synced": "2026-06-20T12:04:02.251415+08:00"
 }

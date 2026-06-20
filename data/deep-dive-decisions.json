@@ -29,20 +29,6 @@
       "source": "⚠️ 風險"
     },
     {
-      "ticker": "BTC",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "$64-67K range this week. 250K BTC accumulated in $59-67K zone (strong support). BlackRock Bitcoin income fund launch is institutional catalyst. Capitulation weakening (realized losses -46%). Bull: Crypto spring narrative building, CFTC perps approval, institutional adoption. Bear: DXY breakout is headwind, Warsh hawkishness suppresses risk appetite, historical pattern suggests possible crash to $48K. Two-sided with big swing potential.",
-      "source": "📡 值得關注"
-    },
-    {
-      "ticker": "BMW",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "€60 at 5-year low. Iran war disruption + China slowdown + EV transition costs = triple headwind. Profit warning cut guidance to 1-3% operating margin. Bear: European auto is structurally declining. Bull: If these headwinds prove cyclical (not structural), current price offers asymmetric upside. Well-capitalized, luxury brand moat, PHEV pivot strategy. High risk/high reward — options for downside protection.",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "WDC",
       "status": "deep_dive",
       "updated_at": "2026-06-19",
@@ -71,5 +57,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-20T06:14:07.994163+08:00"
+  "last_synced": "2026-06-20T12:04:05.600119+08:00"
 }
