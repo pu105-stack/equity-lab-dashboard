@@ -29,13 +29,6 @@
       "source": "🎯 機會"
     },
     {
-      "ticker": "MU",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "Memory super-cycle intact. HBM3E exclusive supplier to Nvidia + DDR5 pricing power. +8.70% on Thursday confirmed momentum. Apple CEO called RAM costs \"unsustainable\" — confirms memory shortage is real and structural. Forward PE 9.9x is cheap for this cycle. TD Cowen sees more room after +224% YTD.",
-      "source": "🎯 機會"
-    },
-    {
       "ticker": "NVDA",
       "status": "deep_dive",
       "updated_at": "2026-06-19",
@@ -43,5 +36,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-20T12:09:51.464524+08:00"
+  "last_synced": "2026-06-20T12:10:06.226980+08:00"
 }
