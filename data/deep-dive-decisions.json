@@ -22,13 +22,6 @@
       "source": "📡 值得關注"
     },
     {
-      "ticker": "INTC",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "Apple chip deal catalyst is the turnaround signal the market needed. 18A-P production of most-advanced node is real. +10.65% Thursday with massive volume. Stock at $133.99 still far from analyst targets ($299 on NVDA for comparison). If Apple deal materializes, INTC foundry narrative goes from \"struggling\" to \"credible alternative to TSMC\".",
-      "source": "🎯 機會"
-    },
-    {
       "ticker": "NVDA",
       "status": "deep_dive",
       "updated_at": "2026-06-19",
@@ -36,5 +29,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-20T12:10:06.226980+08:00"
+  "last_synced": "2026-06-20T12:10:36.483274+08:00"
 }
