@@ -1,11 +1,11 @@
 {
   "decisions": [
     {
-      "ticker": "ACN",
+      "ticker": "TLT",
       "status": "deep_dive",
       "updated_at": "2026-06-19",
-      "reasoning": "Shares at 2017 lows after -17.97%暴跌. AI threat to IT consulting is real — companies may need fewer consultants if AI can do the work. But bear case may be overdone: companies implementing AI will need MORE consulting, not less. Contrarian value play if AI increases consulting demand for implementation/integration. Deep value ($127.98 from $250+) vs value trap. Catalyst-driven wait-and-see.",
-      "source": "📡 值得關注"
+      "reasoning": "Warsh FOMC regime change = end of easy money. Statement rewritten, cutting bias removed, dot plot signals potential 2026 rate hike. Bond bear market just started. T10Y2Y spread flattened from 0.38 to 0.27 — market pricing rate hikes without growth confidence (stagflation setup). Kalshi sees >50% odds of hike this year. Short duration / long TBT is the trade.",
+      "source": "⚠️ 風險"
     },
     {
       "ticker": "XLE",
@@ -19,13 +19,6 @@
       "status": "deep_dive",
       "updated_at": "2026-06-19",
       "reasoning": "Gold from $4,360 to $4,138 this week (-5.1%). Goldman slashed target by $500. DXY breaking out (100.78 from 99.5) = strong dollar headwind. Warsh hawkish = no rate cuts = real yields stay elevated. Iran deal removed safe-haven bid. Until Fed pivot signal emerges or dollar weakens, gold has no catalyst to rally. Central bank buying provides floor but near-term downside dominates.",
-      "source": "⚠️ 風險"
-    },
-    {
-      "ticker": "TLT",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "Warsh FOMC regime change = end of easy money. Statement rewritten, cutting bias removed, dot plot signals potential 2026 rate hike. Bond bear market just started. T10Y2Y spread flattened from 0.38 to 0.27 — market pricing rate hikes without growth confidence (stagflation setup). Kalshi sees >50% odds of hike this year. Short duration / long TBT is the trade.",
       "source": "⚠️ 風險"
     },
     {
@@ -57,5 +50,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-20T12:04:05.600119+08:00"
+  "last_synced": "2026-06-20T12:06:01.210988+08:00"
 }
