@@ -39,10 +39,10 @@
       "market_value": 2322.72,
       "pnl": -18.6,
       "pnl_pct": -0.79,
-      "dd_decision": "BUY",
-      "dd_fair_value": 430.0,
-      "dd_conviction": "High 8.1",
-      "dd_upside_pct": 11.2
+      "dd_decision": "WATCH",
+      "dd_fair_value": 390.0,
+      "dd_conviction": "Medium 6.0",
+      "dd_upside_pct": 6.2
     },
     {
       "id": 12,
@@ -63,5 +63,5 @@
       "dd_upside_pct": 12.3
     }
   ],
-  "last_synced": "2026-06-20T12:06:01.210988+08:00"
+  "last_synced": "2026-06-20T12:09:51.464524+08:00"
 }

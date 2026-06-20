@@ -15,13 +15,6 @@
       "source": "📡 值得關注"
     },
     {
-      "ticker": "GLD",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "Gold from $4,360 to $4,138 this week (-5.1%). Goldman slashed target by $500. DXY breaking out (100.78 from 99.5) = strong dollar headwind. Warsh hawkish = no rate cuts = real yields stay elevated. Iran deal removed safe-haven bid. Until Fed pivot signal emerges or dollar weakens, gold has no catalyst to rally. Central bank buying provides floor but near-term downside dominates.",
-      "source": "⚠️ 風險"
-    },
-    {
       "ticker": "WDC",
       "status": "deep_dive",
       "updated_at": "2026-06-19",
@@ -50,5 +43,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-20T12:06:01.210988+08:00"
+  "last_synced": "2026-06-20T12:09:51.464524+08:00"
 }
