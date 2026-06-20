@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "TLT",
-      "status": "deep_dive",
-      "updated_at": "2026-06-19",
-      "reasoning": "Warsh FOMC regime change = end of easy money. Statement rewritten, cutting bias removed, dot plot signals potential 2026 rate hike. Bond bear market just started. T10Y2Y spread flattened from 0.38 to 0.27 — market pricing rate hikes without growth confidence (stagflation setup). Kalshi sees >50% odds of hike this year. Short duration / long TBT is the trade.",
-      "source": "⚠️ 風險"
-    },
-    {
       "ticker": "XLE",
       "status": "deep_dive",
       "updated_at": "2026-06-19",
@@ -22,5 +15,5 @@
       "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-06-20T12:14:55.739392+08:00"
+  "last_synced": "2026-06-20T12:15:38.662410+08:00"
 }
