@@ -1308,6 +1308,83 @@
         "AI disruption: ACN",
         "Macro: TLT, GLD"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-22",
+      "time": "08:17 HKT",
+      "status": "success",
+      "market_direction": "Bearish-leaning consolidation. Oil/Hormuz uncertainty dominates macro. US futures lower Sunday night. Warsh's Fed removing guidance creates bond market jitters. PCE data this week is the key catalyst.",
+      "headlines": [
+        "ACTION: Micron earnings June 24 — profit growth approaching 1,000%, make-or-break moment",
+        "ACTION: CRH nearing biggest-ever deal to buy Arcosa ($7bn market cap)",
+        "ACTION: Hormuz crisis: Iran says Strait shut again, oil rises $1+ on Trump strike threats",
+        "WATCH: Meta pullback creates attractive buying opportunity — veteran investor sees 46% upside",
+        "WATCH: AMD's H2 2026 inflection is bigger than AI GPUs",
+        "WATCH: Top value investor Carlisle says Adobe is 'very compelling' despite AI threat",
+        "WATCH: $12bn VC rush into defense tech — funding this year already surpassed 2025 total",
+        "WATCH: Amazon: Buying the free cash flow collapse — contrarian view",
+        "WATCH: Warsh axes Fed guidance — bond traders brace for more volatility",
+        "WATCH: Microsoft: market is missing the big picture on AI monetization",
+        "NOTE: Intel: levitating on AI hype — but government is the floor",
+        "NOTE: Carnival 40% upside scenario + Darden Q4 earnings this week",
+        "NOTE: Tesla Autopilot crash kills woman in Texas — regulatory risk",
+        "NOTE: Morningstar says SpaceX could be worth less than half its $1.75T IPO price",
+        "NOTE: XLV down 3% YTD vs S&P 500 — healthcare underperformance deepens",
+        "NOTE: Bitcoin near $64k, ETFs shed record $6.4B in 30 days",
+        "NOTE: Hormuz crisis disrupts global supply chains — shipping slows",
+        "NOTE: Lloyds Banking Group hiring 300 tech experts for AI"
+      ],
+      "opportunities": [
+        "MU: MU reports Jun 24. Profit growth ~1,000%, but stock crashed on weak guidance last time. AI memory demand + HBM3E ramp is the key variable. Either confirm supercycle or confirm peaking expectations.",
+        "CRH,ACA: Building materials mega-M&A. CRH acquiring Arcosa would be its largest deal ever. Synergy play in US infrastructure buildout. Watch for deal confirmation this week.",
+        "XLE,OIH,USO: Oil volatility spiking. Peace talks happening but Trump threatens fresh strikes. Hormuz carries ~20% of global oil/LNG. Oil stocks and tanker rates directly exposed. XLE/OIH near-term upside if Hormuz stays blocked."
+      ],
+      "analysis": "本週開局偏弱，主要受三個因素影響：\n1) 伊朗/霍爾木茲海峽危機 — 雖有和平談判但特朗普威脅新一輪打擊，油價反彈。油股短期利好但長期不確定性高。\n2) Warsh 聯儲局 — 新主席取消前瞻指引 (dot plot + forward guidance)，債市波動性增加。本週 PCE 數據是首個實質考驗。\n3) AI 板塊分化 — 超算中心股跑贏 (記憶體、半導體設備)，hyperscalers 跑輸。市場從 AI 基建升級轉向投資回報率評估。\n\n重點催化劑：MU 業績 (6/24) 是半導體板塊的關鍵考驗。若指引強勁，將確認 AI 記憶體超級週期；若遜預期，可能引發板塊回調。",
+      "risks": [
+        "霍爾木茲危機升級 — 若談判破裂，油價急升將影響通脹和聯儲局政策路徑",
+        "Warsh 聯儲局不確定性 — 取消前瞻指引令市場失去利率路線圖，波動性上升",
+        "AI 資本開支見頂擔憂 — 若 hyperscalers 指引保守，半導體板塊將受壓",
+        "比特幣 ETF 創紀錄流出 — 加密貨幣與風險資產情緒聯動，可能預示更廣泛的避險"
+      ],
+      "my_take": "> **Market:** 本週偏防守。油價不確定性 + 聯儲局不確定性嘅組合唔理想。PCE 數據同 MU 業績係兩大關鍵催化劑，決定 6 月尾嘅方向。\n> \n> **Opportunities:** MU 業績係首要關注 (ACTION)。如果佢嘅 HBM3E 需求指引強勁，半導體板塊會再起飛。CRH/Arcosa 嘅 M&A 係另一個催化劑。\n> \n> **Risk to watch:** 伊朗談判如果破裂，油價衝擊會影響成個市場。Warsh 聯儲局加劇債市波動性，TLT 持倉要小心。\n> \n> **Positioning:** 短期偏向能源 (XLE/OIH) 對沖地緣風險。等 MU 業績後才進取建倉 AI 半導體。防守性板塊 (XLV) 估值合理但催化劑有限。",
+      "key_takeaways": [
+        "MU Jun 24 業績係本週最重要事件 — AI 記憶體週期確認或逆轉",
+        "伊朗/霍爾木茲危機短期利好油股，但長期不確定性高",
+        "Warsh 聯儲局取消前瞻指引，PCE 數據本週公佈 — 債市波動性加劇",
+        "$12bn VC rush into defense tech — 長期國防板塊主題值得關注",
+        "BTC ETF 流出 $6.4B 但價格穩守 $64k，短期方向不明"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-21",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "中性偏牛 — SPY 收 46.74 (+1.04% 週四)，半導體反彈領先，但伊朗局勢周末再惡化",
+      "headlines": [
+        "📊 SPY 46.74 (+1.04% 週四) Juneteenth 短週收市，全週 -0.82%",
+        "🔌 SMH +1.97% 半導體全週領漲 — MU +8.7%、AVGO +4.7%、NVDA +2.95%",
+        "🏛️ Warsh 首次 FOMC 取消 dot plot + 前瞻指引 — 聯儲局溝通政策歷史性變革",
+        "🛢️ Iran MoU 週四簽署油價急跌至 5，週末破裂 Hormuz 再次關閉，CL=F 回升至 7.55",
+        "💀 ACN -18% / 週跌 -22.6% — AI threat 引發 IT 服務行業結構性 downgrade",
+        "🔮 MU 業績 Jun 24 本週最關鍵催化劑，PCE Jun 26 係 Warsh Fed 第一次 major test"
+      ],
+      "opportunities": [
+        "MU: Jun 24 業績。Profit growth ~1,000%。HBM3E 記憶體需求決定半導體板塊方向。Forward PE 9.9x 反映市場對 cyclicality 戒心，業績可消除疑慮",
+        "NVDA: 10 支持位多次測試企穩。Forward PE 16.5x，analyst target 99 (+42%)。AI supercycle intact",
+        "XLE/OIH: 伊朗談判破裂後油價反彈。Hormuz 承載全球 20% 石油運輸，短期供應干擾持續。XLE 全週 -3.20% 有反彈空間",
+        "SMH: 全週 +1.97% 跑贏大市。AVGO/MU/NVDA 三巨頭同時轉強係 positive signal"
+      ],
+      "analysis": "📊 收市回顧（6月18日）— Juneteenth 短週 + FOMC 混亂週\n\n───────────────\n📊 MARKET RECAP\n───────────────\n\n【指數】\n• SPY：46.74（+1.04% 週四），週跌 -0.82%\n• QQQ：40.62（+2.51% 週四），週跌 -0.45%\n• DIA：15.52（+0.14% 週四），週跌 -0.29%\n• IWM：95.59（+0.01% 週四），週升 +0.32% — 小型股相對強勢\n\n【VIX】週五升至 18.44（期貨定價），反映伊朗局勢周末惡化\n\n【10Y Yield】4.45% — 全週微跌，Warsh FOMC 後曲線平坦化\n\n【成交量】\n• SPY 80.9M（高於平均），典型FOMC週＋三巫日結算\n• 全週累計成交額處於高位\n\n───────────────\n🔥 NOTABLE MOVERS（週四單日）\n───────────────\n\n【贏家】\n1. MU：+8.70%（,133.99）— 記憶體 upswing 確認，HBM3E 需求憧憬\n2. MRVL：+7.27%（10.58）— AI networking 龍頭，Jensen 加持效應持續\n3. AMD：+4.86%（37.37）— MI400 路線圖 + CPU 份額增長\n4. AVGO：+4.70%（11.35）— 從 AVGO -12.6% 暴跌中反彈 35%\n5. INTC：+10.64%（33.99）— Trump 發文撐 Intel + Apple chip deal 傳聞\n6. NVDA：+2.95%（10.69）— AI rotation 回歸，10 支持位企穩\n7. QQQ：+2.51% — 科技全面反彈\n\n【輸家】\n1. ACN：-17.97%（27.98）— AI threat 引發 IT 服務行業結構性 downgrade\n2. XOM：-2.08%（37.81）— 油價暴跌拖累能源\n3. CVX：-2.22%（73.63）— 同受油價影響\n4. JPM：-2.47%（25.22）— 獲利回吐（全週仍 +1.82%）\n5. COST：-1.46%（51.45）— 消費防禦股回調\n\n───────────────\n📰 NEWS THAT MATTERED\n───────────────\n\n【FOMC Jun 16-17 — 本週核心事件】\n• Kevin Warsh 首次以聯儲局主席身份主持會議\n• 最大變革：取消 dot plot + 取消前瞻指引（forward guidance）\n• SEP（經濟預測摘要）仍有發布，但市場失去利率路線圖\n• 債市波動性急升 — TLT 全週 +1.20%，反映避險買盤而非加息預期降溫\n• 下次 FOMC：Jul 28-29（有 press conference）\n• 銀行壓力測試結果：Jun 24（本週三）\n\n【Iran 協議 — 週四短暫利好，週末急轉直下】\n• 週四 US-Iran 臨時和平 MoU 簽署，油價由 2 急跌至 5\n• Hormuz 海峽一度重開，12.5M 桶石油恢復通行\n• BUT 週末局勢惡化：伊朗稱海峽再次關閉，Trump 威脅新一輪打擊\n• 談判仍在進行，但 Hormuz 水雷清理進展緩慢\n• CL=F 週日回升至 7.55（較週四低位 +1.3%）\n• USO 全週 -5.23%，結構性仍受壓\n\n【ACN — 全週最大故事】\n• AI threat 引發 IT 服務行業 downgrade\n• 週跌 -22.61%，跌至 2017 年水平\n• 如果 ACN 嘅 AI disruption thesis 成立，印度 IT 股（INFY, WIT）會跟跌\n• 呢個係 AI trade 嘅 dark side — 有人贏（NVDA/MU）就有人輸\n\n【MU 業績前瞻 — Jun 24（本週三）】\n• Profit growth approaching 1,000%\n• HBM3E 記憶體需求係關鍵變數\n• 上季 guidance disappoint 引致暴跌，今次係 redemption / confirmation moment\n\n───────────────\n🎯 OPPORTUNITIES CARRY FORWARD\n───────────────\n\n🎯 MU（Jun 24 業績）— 本週最重要催化劑\n• 記憶體 upswing + AI data center demand 雙重驅動\n• Forward PE 9.9x — 市場對 cyclicality 有戒心，業績可消除疑慮\n• HBM3E 出貨量指引係 key swing factor\n• Bull case：HBM demand 持續超預期 → SMH 下一波升浪\n• Bear case：guidance disappoint → memory 板塊重挫\n• My view：正面 — 記憶體週期仍在 early upswing，data center demand 結構性\n\n🎯 NVDA — AI rotation 確認\n• 10 支持位已多次測試企穩\n• Forward PE 16.5x，analyst target 99（+42%）\n• AI supercycle thesis intact，Warsh selloff 後已完全 recover\n• 等 MU 業績確認 semi demand 後可加注\n\n🎯 SMH 半導體板塊\n• 全週 +1.97%，跑贏大市\n• AVGO/MU/NVDA 三巨頭同時轉強係 positive signal\n• AI networking（MRVL）+ memory（MU）+ GPU（NVDA）三位一體\n\n🎯 Energy（XLE/OIH）— Weekend 伊朗局勢升級\n• 週四油價暴跌係 noise，伊朗談判破裂後油價反彈\n• Hormuz 承載全球 20% 石油/LNG 運輸\n• XLE 全週 -3.20%，短線有反彈空間\n• 但要留意：如果伊朗談判真係達成協議，油價會再跌\n\n───────────────\n⚠️ RISKS / WATCHLIST\n───────────────\n\n⚠️ Warsh 聯儲局不確定性 — 最大宏觀風險\n• 取消前瞻指引 + dot plot 令市場失去利率路線圖\n• PCE 數據（本週五？）係第一次 major test\n• 10Y yield 如果突破 4.6% 會引發成長股估值壓縮\n• TLT 波動性將持續\n\n⚠️ Iran 談判雙向風險\n• 如果談判成功 → 油價再跌，能源/油股受壓\n• 如果談判破裂 → 油價急升，通脹預期升溫，聯儲局更鷹\n• Hormuz 水雷清理需要時間，短期供應干擾持續\n\n⚠️ ACN AI disruption 蔓延風險\n• 如果 IT 服務行業嘅 AI threat 被證實，可能蔓延至 consulting/BPO 行業\n• 影響：印度 IT 股、Accenture 供應鏈、企業軟體\n• 但 ACN -18% 可能係 overdone — value investor Carlisle 剛好話 ADBE compelling\n\n⚠️ BTC ETF 創紀錄流出\n• 30日流出 .4B，但 BTC 仍企穩 4K\n• 價格穩定性可疑 — analyst 指可能有 manipulation\n• 如果 risk-off 情緒蔓延，BTC 可能急跌至 4K\n\n⚠️ 半導體 positioning 過度擁擠\n• MU 業績前市場已 heavily positioned long semi\n• 如果 MU guidance disappoint，crowded unwind 會好痛苦\n• 保持 flexible，唔好 pre-commit 全部倉位\n\n───────────────\n🫙 MACRO CONTEXT — FED\n───────────────\n\n【FOMC Jun 16-17 總結】\n• 利率維持不變（市場共識）\n• Warsh 取消 dot plot — 歷史性變革，增加不確定性但減少 market dependency\n• SEP 仍有發布：GDP growth forecast 可能上修，通脹預期可能微升\n• Press conference：Warsh 嘅鷹派/鴿派傾向仍然 unclear\n\n【本週關鍵事件】\n• 週一（6/22）：無 major data，市場消化 weekend Iran 消息\n• 週二（6/23）：Consumer Confidence（Conference Board）\n• 週三（6/24）：MU 業績（after close）+ 銀行壓力測試結果（4pm ET）\n• 週四（6/25）：GDP 三讀 + Durable Goods + 每週失業救濟\n• 週五（6/26）：PCE 物價指數（核心）— 本月最重要數據！Warsh 取消前瞻指引後嘅第一次 major inflation read\n\n【Kevin Warsh 立場】\n• 目前信號：減少 Fed 對市場嘅干預（取消 dot plot/guidance）\n• 市場解讀：mixed — 鷹派（通脹未受控要加息）vs 中性（減少前瞻指引唔等於加息）\n• 需要更多 data points 先判斷真正 stance\n\n───────────────\n📡 NEWS CURATOR CALLS REVIEW\n───────────────\n\n📝 News Curation from Jun 19 20:40 & Jun 22 08:17：\n• MU Jun 24 業績（ACTION）— ✅ 確認。profit growth ~1,000%，HBM3E key\n• XLE/OIH 伊朗局勢（ACTION）— ✅ 周末確認。Hormuz 再次關閉，油價反彈\n• META pullback 買入機會（WATCH）— 週四 +1.70%，全週仍 -2.74%。有待確認\n• AMD H2 inflection（WATCH）— 週四 +4.86%，story 完整但未有催化劑\n• CRH/Arcosa M&A（ACTION）— 建築材料 mega-deal，留意本週確認\n• Warsh Fed 不確定性（WATCH）— ✅ 確認。最大宏觀變數\n• ADBE Carlisle 睇好（NOTE）— Value call，未有近催化劑\n• TLT bond 波動（WATCH）— ✅ 確認。Warsh + PCE 雙重不確定\n",
+      "risks": [
+        "Warsh Fed 政策不確定性 — 取消前瞻指引 + dot plot，PCE 數據係第一次 major test",
+        "伊朗談判雙向風險 — 成功則油價再跌，失敗則通脹升溫 Fed 更鷹",
+        "MU 業績 disappoint — 半導體 crowded positioning unwind 風險",
+        "ACN AI disruption 蔓延至 IT 服務 / consulting 行業",
+        "BTC ETF 創紀錄 .4B 流出，risk-off 蔓延風險"
+      ],
+      "my_take": "短週（Juneteenth）+ FOMC 混亂的一週總結：SPY 收 46.74，全週 -0.82%，但過程比結果更值得關注。\n\n最大結構性事件係 Warsh 取消 dot plot + forward guidance — 呢個係聯儲局幾十年來最大嘅溝通政策變革。短期增加波動，長期減少市場對 Fed 嘅 dependency，本質係健康嘅改變。PCE 數據（本週五）係第一次 major test。\n\n伊朗協議週四簽署、週末破裂嘅反轉，再次證明中東地緣政治係不可 trade 嘅 noise。油價先跌後反彈，能源股（XLE）全週 -3.20% 但週末局勢支持反彈。\n\n本週焦點完全在 MU 業績（Jun 24）同 PCE（Jun 26）。MU 係半導體 demand 嘅試金石 — HBM3E 記憶體需求決定 semi 板塊方向。PCE 決定 bond market 對 Warsh 新政嘅第一個 reaction。\n\n策略上：等 MU 業績後先 major reposition。短期傾向能源（XLE）對沖伊朗風險 + 半導體（SMH）等 catalyst。防守性板塊（XLV/XLP）催化劑有限，唔值得追。"
     }
   ]
 }
