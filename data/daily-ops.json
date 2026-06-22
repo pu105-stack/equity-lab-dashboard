@@ -1310,53 +1310,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-22",
-      "time": "08:17 HKT",
-      "status": "success",
-      "market_direction": "Bearish-leaning consolidation. Oil/Hormuz uncertainty dominates macro. US futures lower Sunday night. Warsh's Fed removing guidance creates bond market jitters. PCE data this week is the key catalyst.",
-      "headlines": [
-        "ACTION: Micron earnings June 24 — profit growth approaching 1,000%, make-or-break moment",
-        "ACTION: CRH nearing biggest-ever deal to buy Arcosa ($7bn market cap)",
-        "ACTION: Hormuz crisis: Iran says Strait shut again, oil rises $1+ on Trump strike threats",
-        "WATCH: Meta pullback creates attractive buying opportunity — veteran investor sees 46% upside",
-        "WATCH: AMD's H2 2026 inflection is bigger than AI GPUs",
-        "WATCH: Top value investor Carlisle says Adobe is 'very compelling' despite AI threat",
-        "WATCH: $12bn VC rush into defense tech — funding this year already surpassed 2025 total",
-        "WATCH: Amazon: Buying the free cash flow collapse — contrarian view",
-        "WATCH: Warsh axes Fed guidance — bond traders brace for more volatility",
-        "WATCH: Microsoft: market is missing the big picture on AI monetization",
-        "NOTE: Intel: levitating on AI hype — but government is the floor",
-        "NOTE: Carnival 40% upside scenario + Darden Q4 earnings this week",
-        "NOTE: Tesla Autopilot crash kills woman in Texas — regulatory risk",
-        "NOTE: Morningstar says SpaceX could be worth less than half its $1.75T IPO price",
-        "NOTE: XLV down 3% YTD vs S&P 500 — healthcare underperformance deepens",
-        "NOTE: Bitcoin near $64k, ETFs shed record $6.4B in 30 days",
-        "NOTE: Hormuz crisis disrupts global supply chains — shipping slows",
-        "NOTE: Lloyds Banking Group hiring 300 tech experts for AI"
-      ],
-      "opportunities": [
-        "MU: MU reports Jun 24. Profit growth ~1,000%, but stock crashed on weak guidance last time. AI memory demand + HBM3E ramp is the key variable. Either confirm supercycle or confirm peaking expectations.",
-        "CRH,ACA: Building materials mega-M&A. CRH acquiring Arcosa would be its largest deal ever. Synergy play in US infrastructure buildout. Watch for deal confirmation this week.",
-        "XLE,OIH,USO: Oil volatility spiking. Peace talks happening but Trump threatens fresh strikes. Hormuz carries ~20% of global oil/LNG. Oil stocks and tanker rates directly exposed. XLE/OIH near-term upside if Hormuz stays blocked."
-      ],
-      "analysis": "本週開局偏弱，主要受三個因素影響：\n1) 伊朗/霍爾木茲海峽危機 — 雖有和平談判但特朗普威脅新一輪打擊，油價反彈。油股短期利好但長期不確定性高。\n2) Warsh 聯儲局 — 新主席取消前瞻指引 (dot plot + forward guidance)，債市波動性增加。本週 PCE 數據是首個實質考驗。\n3) AI 板塊分化 — 超算中心股跑贏 (記憶體、半導體設備)，hyperscalers 跑輸。市場從 AI 基建升級轉向投資回報率評估。\n\n重點催化劑：MU 業績 (6/24) 是半導體板塊的關鍵考驗。若指引強勁，將確認 AI 記憶體超級週期；若遜預期，可能引發板塊回調。",
-      "risks": [
-        "霍爾木茲危機升級 — 若談判破裂，油價急升將影響通脹和聯儲局政策路徑",
-        "Warsh 聯儲局不確定性 — 取消前瞻指引令市場失去利率路線圖，波動性上升",
-        "AI 資本開支見頂擔憂 — 若 hyperscalers 指引保守，半導體板塊將受壓",
-        "比特幣 ETF 創紀錄流出 — 加密貨幣與風險資產情緒聯動，可能預示更廣泛的避險"
-      ],
-      "my_take": "> **Market:** 本週偏防守。油價不確定性 + 聯儲局不確定性嘅組合唔理想。PCE 數據同 MU 業績係兩大關鍵催化劑，決定 6 月尾嘅方向。\n> \n> **Opportunities:** MU 業績係首要關注 (ACTION)。如果佢嘅 HBM3E 需求指引強勁，半導體板塊會再起飛。CRH/Arcosa 嘅 M&A 係另一個催化劑。\n> \n> **Risk to watch:** 伊朗談判如果破裂，油價衝擊會影響成個市場。Warsh 聯儲局加劇債市波動性，TLT 持倉要小心。\n> \n> **Positioning:** 短期偏向能源 (XLE/OIH) 對沖地緣風險。等 MU 業績後才進取建倉 AI 半導體。防守性板塊 (XLV) 估值合理但催化劑有限。",
-      "key_takeaways": [
-        "MU Jun 24 業績係本週最重要事件 — AI 記憶體週期確認或逆轉",
-        "伊朗/霍爾木茲危機短期利好油股，但長期不確定性高",
-        "Warsh 聯儲局取消前瞻指引，PCE 數據本週公佈 — 債市波動性加劇",
-        "$12bn VC rush into defense tech — 長期國防板塊主題值得關注",
-        "BTC ETF 流出 $6.4B 但價格穩守 $64k，短期方向不明"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-21",
       "time": "08:33 HKT",
@@ -1385,6 +1338,88 @@
         "BTC ETF 創紀錄 .4B 流出，risk-off 蔓延風險"
       ],
       "my_take": "短週（Juneteenth）+ FOMC 混亂的一週總結：SPY 收 46.74，全週 -0.82%，但過程比結果更值得關注。\n\n最大結構性事件係 Warsh 取消 dot plot + forward guidance — 呢個係聯儲局幾十年來最大嘅溝通政策變革。短期增加波動，長期減少市場對 Fed 嘅 dependency，本質係健康嘅改變。PCE 數據（本週五）係第一次 major test。\n\n伊朗協議週四簽署、週末破裂嘅反轉，再次證明中東地緣政治係不可 trade 嘅 noise。油價先跌後反彈，能源股（XLE）全週 -3.20% 但週末局勢支持反彈。\n\n本週焦點完全在 MU 業績（Jun 24）同 PCE（Jun 26）。MU 係半導體 demand 嘅試金石 — HBM3E 記憶體需求決定 semi 板塊方向。PCE 決定 bond market 對 Warsh 新政嘅第一個 reaction。\n\n策略上：等 MU 業績後先 major reposition。短期傾向能源（XLE）對沖伊朗風險 + 半導體（SMH）等 catalyst。防守性板塊（XLV/XLP）催化劑有限，唔值得追。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-22",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "Hormuz talks progress driving oil lower; Warsh rate hike fears (July 29) looming; Qatar LNG explosion adding energy supply uncertainty. Mixed macro — defensive posture warranted.",
+      "headlines": [
+        "ACTION: US-Iran talks: Road map for final deal within 60 days — oil prices retreat — US and Iran agree to roadmap for final nuclear deal within 60 days. Mediators (Pakistan, Qatar) repo",
+        "ACTION: Qatar Ras Laffan LNG explosion — 54 injured, 18 unaccounted for — Explosion and fire at Ras Laffan — one of world's largest LNG facilities. Technical malfunction duri",
+        "ACTION: JPMorgan CIO: Warsh could raise rates July 29 — every Fed meeting now live for rate hike — JPMorgan Asset Management CIO Bob Michael says every Fed meeting is now live for a potential rate hi",
+        "ACTION: AbbVie buying Apogee Therapeutics (APGE) for $10.9B — eczema drug deal — AbbVie acquiring Apogee Therapeutics for ~$11B in all-cash deal. Developer of experimental atopic de",
+        "ACTION: Chevron to fuel massive Microsoft data center in Texas with natural gas — Chevron (CVX) supplying natural gas to power Microsoft (MSFT) data center in Texas. Major validation",
+        "ACTION: China tightens rare earth grip on US firms — threatening trade clash — China tightening rare earth restrictions targeting two US manufacturers central to Trump admin's dom",
+        "ACTION: Kuwait offers Gulf oil loadings as producers seek Hormuz outlet — Kuwait offering naphtha cargoes from Persian Gulf ports for first time in months — producers seeking",
+        "WATCH: Definium LSD therapy Phase 3 success for major depression — Definium Therapeutics LSD therapy (DT120) helped patients with major depression ",
+        "WATCH: Pharma M&A spending spree — AbbVie/APGE latest in wave of acquisitions — STAT: 'Pharma goes on a spending spree, snapping up biotechs in a hurry.' AbbVie",
+        "WATCH: MarketWatch: 40% market crash lurking in IPO pipeline — SpaceX/OpenAI could trigger — Prior records for US equity issuance came in 1929 and 2000. With SpaceX (up to $",
+        "WATCH: Oil prices fall as US-Iran talks show progress — war premium unwinding — Oil prices retreating on Iran talk progress. If Hormuz reopens, $5-10 of geopoli",
+        "WATCH: Bitcoin ETF outflow eases but new headwind gathers — dollar strength highest since May 2025 — Bitcoin ETF outflows slowing after record $6.4B exodus. BUT: US dollar strength ",
+        "WATCH: EasyJet rejects $4.7bn Castlelake bid — carrier says offer 'on the cheap' — US investment firm Castlelake goes public with £4.7bn bid for EasyJet after earl",
+        "NOTE: Bank of England eases stablecoin rules — £40B issuance cap in final policy draft — BOE softens stablecoin rules, drops strict holding limits, i",
+        "NOTE: Big Tech splitting into two AI camps — Alphabet/Microsoft the safer bet — MarketWatch analysis: Big Tech dividing into 'platform AI' (",
+        "NOTE: Alan Greenspan, former Fed chair, dies at 100 — Legendary Fed chair (1987-2006) passes away. Market reaction",
+        "NOTE: UK PM Starmer resigns — 7th PM in 10 years for UK — UK political turmoil continues with Starmer resignation. And"
+      ],
+      "opportunities": [
+        "USO, XLE, OIH, XOM, CVX: US and Iran agree to roadmap for final nuclear deal within 60 days. Mediators (Pakistan, Qatar) report 'major progress.' Oil prices falling on hope Hormuz could reopen. BUT: talks still ongoing, Lebanon fighting threatens deal. If Hormuz reopens, oil drops $10+; if talks collapse, oil spikes. This week's talks outcome is THE catalyst for energy positioning.",
+        "UNG, BOIL, EQNR, LNG: Explosion and fire at Ras Laffan — one of world's largest LNG facilities. Technical malfunction during start-up. If production is disrupted, nat gas prices (Henry Hub, TTF) could spike significantly. Already tight global LNG supply + Hormuz uncertainty = double supply risk.",
+        "TLT, IEF, SHY, TBT, JPM, GS, BAC: JPMorgan Asset Management CIO Bob Michael says every Fed meeting is now live for a potential rate hike, including July 29 — just 6 weeks away. New Fed Chair Warsh removing dot plot + forward guidance means markets have no rate path roadmap. If Warsh actually hikes, it's a regime change — bonds sell off, equities reprice, banks benefit.",
+        "ABBV, APGE: AbbVie acquiring Apogee Therapeutics for ~$11B in all-cash deal. Developer of experimental atopic dermatitis (eczema) drug. Validates pharma M&A wave thesis — STAT reports pharma on 'spending spree.' APGE shareholders get significant premium. Signals AbbVie's commitment to immunology pipeline beyond Humira.",
+        "CVX, MSFT, CEG, VST, ETR: Chevron (CVX) supplying natural gas to power Microsoft (MSFT) data center in Texas. Major validation of AI power demand thesis — hyperscalers willing to use fossil fuels to meet insatiable data center electricity needs. Nat gas as the 'bridge fuel' for AI infrastructure. Direct beneficiary: CVX, but also theme play for nat gas producers.",
+        "MP, LYSCF, UEC, REMX: China tightening rare earth restrictions targeting two US manufacturers central to Trump admin's domestic supply chain rebuild. Escalating tech/resource war. Rare earth prices likely to rise. US critical minerals stocks benefit from supply chain reshoring narrative.",
+        "USO, XLE, TNK, STNG, FRO: Kuwait offering naphtha cargoes from Persian Gulf ports for first time in months — producers seeking ways to ship around Hormuz disruption. Shows real supply chain adaptation, but also confirms Hormuz disruption is materially impacting Gulf oil flows. Oil tanker rates and alternative route plays."
+      ],
+      "analysis": "今期 Asian/European session 新聞覆蓋 58 個 RSS feeds，掃描 137 篇文章。\n\n【三大主題】\n1. 地緣政治雙線博弈 — US-Iran 談判有進展（60天 roadmap），油價回落；但 Qatar Ras Laffan LNG 爆炸造成 54 傷 18 失踪，能源供應雙重不確定性仍在。油價戰爭溢價開始消退，但 LNG 供應風險上升。\n\n2. Warsh 聯儲局新風險 — JPMorgan CIO 明確表示 July 29 FOMC 有可能加息。取消前瞻指引後，市場失去利率路線圖，每次會議都係「live meeting」。債市波動性將顯著上升。\n\n3. M&A 浪潮加速 — AbbVie $11B 收購 Apogee Therapeutics 印證製藥業 biotech 收購潮。Pharma 現金充裕，pipeline replenishment 需求驅動更多交易。\n\n【值得關注的催化劑】\n- Chevron/MSFT 天然氣供電數據中心：AI 能源需求故事獲現實驗證\n- 中國強化稀土管制：貿易戰升級，US 關鍵礦物供應鏈 stocks 受惠\n- Definium LSD 療法 Phase 3 成功：迷幻藥醫療化進程\n- MarketsWatch 警告 40% 股災：IPO 熱潮（SpaceX/OpenAI）歷史類比 1929/2000",
+      "risks": [
+        "US-Iran 談判破裂 → 油價急升，通脹壓力重燃",
+        "Warsh July 加息 → 債市暴跌， equities reprice",
+        "Qatar LNG 供應中斷確認 → 天然氣價格飆升",
+        "稀土管制升級 → 中美 trade war escalation",
+        "IPO 巨浪（SpaceX/OpenAI）→ 市場 liquidity drain"
+      ],
+      "my_take": "本週市場處於關鍵轉折點。US-Iran 談判進展係 positive 但未成定局，油價回落提供 tactical short 能源 trade 機會，但 LNG 爆炸事件限制下行空間。\n\n最大嘅 game changer 係 Warsh 加息可能性 — July 29 如果真係加息，會係 2026 年最大嘅 macro 事件。建議: 減低 duration exposure，short TLT / long banks 作為 hedge。\n\nM&A 方面，AbbVie/APGE 交易確認 Pharma 收購 thesis — 有 biotech 持股可以 hold 住等 premium。Chevron/MSFT partnership 係 AI infrastructure theme 嘅重要 validation。\n\n整體: 偏向防守，等 Iran 談判結果 + PCE data 先再進取。",
+      "key_takeaways": [
+        "US-Iran talks progress → oil war premium fading, but LNG explosion new supply risk",
+        "Warsh rate hike risk July 29 → reduce duration, hedge with bank longs",
+        "AbbVie buys APGE $11B → pharma M&A wave thesis confirmed",
+        "CVX/MSFT nat gas data center deal → AI energy theme validated",
+        "China rare earth restrictions escalating → trade war re-escalation risk"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-22",
+      "time": "20:36 HKT",
+      "status": "success",
+      "market_direction": "Neutral-Bullish — SPY新高但VIX背馳",
+      "headlines": [
+        "FOMC 維持利率 3.50-3.75% — Warsh 刪 forward guidance",
+        "QQQ +2.51% 領漲，Tech breakout 確認",
+        "US-Iran 談判：Road map 60天內達成協議 — 油價回 $74",
+        "Qatar LNG 爆炸 — 天然氣供應風險升溫",
+        "JPM CIO：Warsh July 29 可能加息 — 每場FOMC都live",
+        "ABBV $11B 收購APGE — Pharma M&A wave 確認"
+      ],
+      "focus": [
+        "QQQ/XLK — AI infra rally 有 width 支持，hold",
+        "USO/XLE — 油價雙向風險，short paired with UNG",
+        "TLT — 低配 duration，Warsh 加息 threat",
+        "ABBV/APGE — M&A wave，hold biotech for premium",
+        "MP/UEC — 稀土戰升溫，long-term watch"
+      ],
+      "analysis": "🌍 隔夜市場\n\nUS 上週五全面收高，QQQ tech 領漲 +2.51% 跑贏大市，AI 相關熱情持續燃燒。SPY +1.04% 創新高 746.74。細價股 IWM +1.97% 追落後 — 資金擴散信號正面。\nVIX 升至 17.20 (+4.88%)，同 equity rally 背馳 — 有 hedge flow 同時入場，暗示市場唔係 pure risk-on。\n\nAsia overnight: 日經 +1.55%，上證 +1.78% 續強。港股偏軟 -0.65%，受 UK PM resign + 中國稀土管制不確定性影響。歐洲小幅上升 (STOXX50E +0.25%, FTSE +0.52%)。\n\n10Y yield 4.45 (-0.27%)，債市上週五小幅反彈。油價回落至 $74.56 (-2.66%) — US-Iran 談判進展主導，但 Qatar LNG 爆炸限制下行。金價橫行 $4,228，美元指數偏弱 100.82。\n\n📡 今日重點事件\n\n【FOMC Statement Recap — 六月會議】\n上週 Fed 維持利率 3.50-3.75% 不變（12-0 一致通過），Warsh 任內第二份 statement 顯著改寫：\n• 刪除 forward guidance，不再提「further adjustments」\n• 提及「中東衝突帶來高度不確定性」\n• 生產力同 capital investment 評為「strong」\n• 通脹「仍然高於 2%」，歸因能源 supply shocks\n• 全文極短 — 冇 dot plot reference，冇 rate path暗示\n\n【關鍵日期：July 28-29 FOMC】\nJPMorgan CIO Bob Michael 話 every meeting now live for rate hike，July 29 尤其關鍵 — Warsh 可能上任後首次加息。Kalshi 賭盤顯示 >50% 今年內加息機會。\nNews Curator 確認：Warsh 緊縮信號持續升溫，bond market volatility 加劇。\n\n【US-Iran 談判】 路透報導 60 天內達成最終協議 — 係 positive 但未 confirmed。Hormuz 海峽重開嘅話，$5-10 地緣溢價會消失。\n\n【Qatar LNG 爆炸】 Ras Laffan 設施事故，54 傷 18 失蹤。如果確認長期中斷，Henry Hub 同 TTF 天然氣價格會急升。\n\n🔥 Sector Watch\n\nBULLISH:\n• Tech (XLK +3.04%) — 上週五 breakout leader。Chevron/MSFT data center deal 確認 AI infra demand 唔係吹水。QQQ 創新高。\n• Consumer Discretionary (XLY +1.45%) — 資金輪動痕跡，細價股追落後 signal。\n• Small Caps (IWM +1.97%) — 寬度改善，risk appetite 回暖。\n\nBEARISH:\n• Energy (XLE -1.65%) — US-Iran 談判進展壓低油價。短線仲有下行空間，但 LNG 爆炸係 upside risk。\n• Financials (XLF -0.89%) — Yield curve flattening + Warsh rate chop uncertainty 壓制銀行股。\n• Healthcare (XLV -0.87%) — Pharma M&A (ABBV/APGE) 利好唔夠抵消 sector rotation。\n\nNEUTRAL/WATCH:\n• Utilities (XLU +0.67%) vs Long Bonds (TLT +0.49%) — 防守板塊有資金流入，配合 VIX 上升嘅 hedge narrative。\n• Gold ($4,228) — Goldman Sachs 上週削 target $500，Warsh 緊縮環境不利黃金。\n\n🎯 Pre-market Opportunities\n\n從 News Curator 抽出高信心機會：\n\n1. 🎯 ABBV/APGE — Pharma M&A wave 確認\n   ABBV 以 ~$11B all-cash 收購 APGE（濕疹藥物開發商）。STAT 報導製藥業 M&A spending spree。\n   部署：如果有 biotech 持倉，hold for premium。留意下一單 M&A target（MRK, PFE 都需要 replenish pipeline）。\n\n2. 🎯 CVX/MSFT — AI infra 天然氣需求 validation\n   Chevron 為 Microsoft Texas data center 提供天然氣 — AI power demand theme 重大 validation。\n   部署：長期利好 UEC, CEG, VST, ETR 等 power infrastructure plays。\n\n3. 📡 USO/XLE — 油價 geopolitics 雙向風險\n   US-Iran 談判進展（正面）vs Qatar LNG 爆炸（負面）。Short energy 要小心 upside risk。\n   部署：short XLE 可考慮 paired with long UNG 做 hedge。\n\n4. 📡 TLT/IEF — Warsh 加息 threat\n   JPM CIO 話 July 加息 live。Bond market 未 fully price in。\n   部署：低配 duration，考慮 short TLT / long banks (JPM, GS, BAC) 做 hedge。\n\n5. 📡 MP/UEC/REMX — 稀土戰升溫\n   中國加強對美國企業稀土限制。Rare earth 價格預計上升，US critical minerals theme。\n   部署：留意 MP 同 UEC，但係 long-term play，唔好追高。\n\n6. ⚠️ SPY/QQQ — IPO 巨浪風險\n   MarketWatch: SpaceX ($2.44T) + OpenAI ($850B) IPO 可能觸發 record issuance。1929/2000 precedent 令人不安。\n   部署：中期 risk factor，唔係 immediate catalyst。但 awareness 要有。\n\n⚠️ Risks\n\n• Warsh July 加息 → 最大 macro risk。Bond mkt 未 repriced\n• US-Iran 談判破裂 → oil spike, inflation re-acceleration\n• Qatar LNG 供應確認中斷 → nat gas price surge\n• 中國稀土管制升級 → US critical mineral supply chain crisis\n• IPO 巨浪 → liquidity drain, 類似 2000 年情景\n\n📋 Today's Agenda\n\n• Mon Jun 22 — 冇 major economic data。Post-FOMC digestion week\n• Tue Jun 23 — 留意 any Fed speak\n• Wed Jun 24 — PCE data?\n• Thu-Fri — 季末 rebalancing flow 開始\n• 下個 major catalyst: Jul 1 PCE → Jul 28-29 FOMC\n• 本週重點：US-Iran 談判 update + Qatar LNG situation\n\n💡 My Take\n\nOverall bias: NEUTRAL-BULLISH, but with elevated caution.\n\n上週五嘅 rally 有 width（細價股 +2%，QQQ +2.5%，唔係 pure mega-cap liquidity grab）。AI theme 持續強勢，MSFT/CVX deal 確認 infra demand 實質化。Sector rotation 有信號。\n\n但 VIX 同 equity rally 背馳令我唔放心。17.2 嘅 VIX 配上新高 SPY 唔係典型 risk-on 組合 — 有人正在 hedge。\n\n最大嘅 unresolved variable 係 Warsh。FOMC statement 已經暗示「高度不確定性」，市場未 fully price in July 加息風險。如果 bond market 開始 repricing，equities 會有一輪 correction。\n\n本週策略：long tech（AI infra theme）+ 減低 duration + selective biotech（M&A wave）。Short energy 可以但要用 LNG 做 hedge。等 Iran 談判有明確結果先再加大風險敞口。\n\n整體：機會存在，但倉位唔好太大。VIX 17 仲有空間上，唔好 naked long equity。",
+      "risks": [
+        "Warsh July 加息 — 最大 macro risk，未fully priced",
+        "US-Iran 談判破裂 → oil spike",
+        "Qatar LNG 供應中斷 → gasp price surge",
+        "中國稀土管制升級",
+        "IPO巨浪(SPX/OpenAI) — 中期liquidity drain"
+      ],
+      "my_take": "Neutral-Bullish with elevated caution. QQQ/tech rally有width支持，但VIX背馳+Warsh加息風險令我不願加大風險敞口。本週long tech infra theme + hedge duration risk，等Iran談判+Qatar LNG confirmation先再進取。"
     }
   ]
 }
