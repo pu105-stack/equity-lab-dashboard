@@ -1472,6 +1472,45 @@
         "韓國 KOSPI 跌勢未完 → EM contagion"
       ],
       "my_take": "Neutral-bearish。Iran deal 打破 energy thesis，FOMC hawksih tone + VIX 19.66 限制 risk appetite。MU earnings 決定 AI trade 方向。Cash 係合理位置直到週三/週五結果出爐。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-24",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "US session爆出AI/晶片股恐慌式拋售 — SOXL單日-23%，Cerebras首份earnings後-10%，NPR/FT/Guardian全部leading with 'Is AI one big bubble?' debate。美伊和平談判矛盾升溫（Trump稱伊朗同意核檢查、伊朗否認），油價有反彈風險。Alphabet加入道指取代Verizon，指數層面結構性利好。SpaceX完成$25B債務融資（含$6.3B AI deal）。Fed's Warsh有望重塑聯儲局。整體市場處於AI sentiment極端悲觀vs基本面仍然穩健嘅矛盾格局。",
+      "headlines": [
+        "ACTION: SOXX/SMH/NVDA — AI/晶片股恐慌式拋售，SOXL -23%，Cerebras -10%，極端悲觀=潛在戰術性買入機會",
+        "ACTION: GOOGL — Alphabet加入道指取代Verizon，被動資金結構性買盤，短期利好",
+        "ACTION: USO/XLE/XOM — 美伊和平談判矛盾升溫，若核檢查爭議升級油價有反彈風險",
+        "WATCH: SPACE/NVDA — SpaceX $25B debt + $6.3B AI deal，股價IPO後跌9%，short seller關注",
+        "WATCH: META — 開發預測市場App 'Arena'，概念股受壓但長期validation利好行業",
+        "WATCH: TLT/QQQ — Fed's Warsh有望重塑聯儲局，rate narrative同tech sell-off互相強化",
+        "WATCH: EWU/COIN — UK Starmer-Burnham transition，Burnham對crypto友好信號",
+        "WATCH: ANTH/META — NSA失去Anthropic AI模型訪問權限，政府-AI tension升溫"
+      ],
+      "opportunities": [
+        "SOXX/SMH: AI恐慌式拋售創造戰術性買入機會。Cerebras margin worry係公司specific唔係行業-wide。SpaceX $6.3B AI deal確認需求仍然強勁。等SOXX stabilization後可小注long semi反彈。",
+        "GOOGL: Alphabet加入道指係被動資金流入催化劑。DJIA tracking funds需要rebalance。短期1-2週有結構性買盤。Alphabet嘅AI positioning（Waymo/DeepMind）被低估。",
+        "USO/XLE: 美伊和平談判嘅矛盾係油價upside risk。Short oil positions crowded after peace rally。若inspections dispute升級，油價有significant bounce空間。",
+        "META: Prediction market 'Arena' 如成功，係Meta嘅新收入source。短期壓制competitors但長期validation利好行業。"
+      ],
+      "analysis": "今日（2026-06-24）US session共掃描38條RSS feeds + 5個FMP endpoints，獲取426篇新聞文章（176 RSS + 250 FMP）。\n\n## 核心驅動因素\n\n### 1️⃣ AI/晶片股恐慌式拋售（最大主題）\nUS session爆出全面AI spending恐慌，多個媒體同步leading：\n- BBC Business: 'Tech stocks tumble on concerns over AI spending'\n- Financial Times: 'US chipmakers lead Wall Street slide on rate rise worries'\n- NPR: 'Is AI \"one big bubble\"? Behind the tech sell-off'\n- Guardian: 'US AI stock sell-off shakes markets from Wall Street to Asia'\n- DealBook: 'The Tech Sell-off Goes Global'\n- CNBC: 'Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO'\n- 247WallSt: 'SOXL's 23% Single-Day Collapse Exposes the Real Price of 3X Leverage'\n- FMP: 'Tech Stocks Retreat on Concerns over AI Spending, Valuations'\n- FMP: 'The 'Magnificent Seven' correction may actually be a sign of a healthy stock market'\n\n### 2️⃣ 美伊和平談判矛盾升級\n- CBS: 'Trump says Iran agreed to nuclear inspections, but Tehran denies'\n- NBC: 'Senate approves war powers resolution rebuking Trump on Iran'\n- NYT: 'U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions'\n- WaPo: 'Trump dismisses Iran's rejection of nuclear inspections'\n- NPR: 'U.S. lifts Iran oil sanctions'\n- OilPrice: 'US Crude Oil Inventories Continue to Falter'\n\n### 3️⃣ Alphabet加入道指\n- CNBC: 'Alphabet added to Dow Jones Industrial Average, replacing Verizon'\n- MarketWatch: 'pivoting index's industrial roots toward tech'\n\n### 4️⃣ SpaceX超大規模融資\n- CNBC: 'SpaceX raises $25 billion in debt sale less than two weeks after IPO'\n- MarketWatch: 'SpaceX pulls off one of the biggest AI debt deals yet'\n- FT: 'SpaceX pitches investors juicy yields in $25bn bond deal'\n- NYT: 'SpaceX Stock Price Is Slumping After Its Blockbuster IPO'\n\n### 5️⃣ Meta預測市場App 'Arena'\nNYT/CoinDesk/Cointelegraph/TechCrunch全部covering。CNBC: competitor stocks fell.\n\n### 6️⃣ Fed & Rate Narrative\nFT: 'Warsh has a chance to enact lasting reform at the Fed'\nFMP: 'Atlanta Fed pick emerges as key opportunity for Warsh'\n\n### 7️⃣ 其他關注\n- UK Politics: Starmer-Burnham transition\n- NSA vs Anthropic: NSA lost access to powerful AI model (NYT)\n- US presses Meta for AI Reviews (NYT)\n- Congress housing bill passed (bipartisan)\n- Roubini joins tokenization (ironic)\n- Oracle 21K layoffs for AI investments\n- Factory job cuts near financial crisis/Covid levels",
+      "risks": [
+        "AI恐慌蔓延 — 如果sell-off從sentiment-driven轉向fundamental-driven（capex cut），semi可能更深回調",
+        "美伊和平談判破裂 — 若Iran核檢查爭議升級，peace deal unravel，油價急彈+risk-off雙重打擊",
+        "Fed/rate risk — Warsh reform + rate rise worries持續壓制growth stock估值",
+        "Global同步sell-off — 如果Asia session延續AI賣壓，可能形成更深correction",
+        "Factory job cuts — 製造業裁員接近金融危機水平，經濟soft landing未確認"
+      ],
+      "my_take": "今日US session最清晰嘅信號係AI/科技股嘅sentiment極端化。SOXL -23%、Cerebras -10%、NPR headline 'Is AI one big bubble?' — 呢啲都係接近panic level嘅信號。但fundamentals睇：SpaceX剛剛簽咗$6.3B AI算力合約，S&P earnings 100% beat rate，AI capex仍然growing。呢個gap between sentiment同fundamentals係潛在機會，但唔係而家就要買 — 等SOXX stabilization確認先。\n\n美伊和平談判嘅矛盾係另一個key variable。市場已經priced in peace deal（油價跌至$74），但如果nuclear inspection dispute升溫，peace可能unravel。Short oil positions crowded → squeeze risk存在。\n\nAlphabet加入道指係低調但significant嘅event。Index rebalancing flow + DJIA tech weighting增加 = 中長期positive。\n\n策略上：戰術性關注AI panic買入機會（等信號）、guarded long oil（peace breakdown hedge）、長線持有GOOGL（Dow inclusion catalyst）。減少duration exposure（Warsh rate risk）。UK assets暫時觀望直至Burnham政策方向明確。",
+      "key_takeaways": [
+        "AI恐慌式拋售 — SOXL -23%，sentiment極端悲觀vs基本面仍然穩健，等stabilization信號",
+        "Alphabet加入道指 — 被動資金流入+指數tech weighting增加，短期利好",
+        "美伊和平矛盾 — Trump vs Iran衝突升溫，油價upside risk",
+        "SpaceX $25B debt — 確認AI infrastructure需求強勁，但IPO後股價受壓",
+        "Fed/Warsh reform — 利率風險持續壓制growth stock估值"
+      ]
     }
   ],
   "news_curator": [
