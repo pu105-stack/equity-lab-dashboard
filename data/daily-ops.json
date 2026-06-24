@@ -1511,6 +1511,38 @@
         "SpaceX $25B debt — 確認AI infrastructure需求強勁，但IPO後股價受壓",
         "Fed/Warsh reform — 利率風險持續壓制growth stock估值"
       ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-24",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "科技股恐慌下跌，防守板塊輪入",
+      "headlines": [
+        "SOXL -23% 單日暴跌，AI bubble debate 升溫",
+        "QQQ -3.3% vs DIA -0.09% — 經典 flight-to-safety",
+        "VIX 暴升至 19.49 (+12.8%)",
+        "SMH -7.01%, XLK -4.14% — 半導體重災區",
+        "GOOGL 加入道指取代 VZ — 結構性利好",
+        "美伊和平矛盾升溫 — 油價反彈風險",
+        "SpaceX $6.3B AI deal confirms demand",
+        "MSFT +1.80% 逆勢走強 — defensive tech rotation",
+        "XLP +1.87%, XLV +1.41% 避險資金流入"
+      ],
+      "opportunities": [
+        "NVDA/SMH/SOXX: AI panic 買入機會 — 等 stabilization signal 後小注 long semi 反彈。Key levels: SMH $600, NVDA $195",
+        "GOOGL: 加入道指結構性利好，dip 係 entry opportunity",
+        "USO/XLE: 美伊和平若 unravel，short oil squeeze risk → 戰術性長倉",
+        "MSFT: 今日逆勢 +1.80%，defensive tech rotation 受益者"
+      ],
+      "analysis": "📊 市場復盤（6月23日 US Session）\n─────────────────────\n\n大市：經典嘅 flight-to-safety 格局。QQQ (-3.30%) 同 SPY (-1.45%) 大幅跑輸 Dow (-0.09%)，VIX 暴升至 19.49 (+12.8%)。Volume 全面放大，SPY 65M vs 前日 47M，consistent with panic selling。\n\n板塊輪動極端清晰：\n• 避險贏家：XLP +1.87%, XLV +1.41%, XLRE +1.41%, XLU +0.78%\n• 重災區：SMH -7.01%, SOXX -7.88%, XLK -4.14%\n• 工業：XLI -2.01% (semi exposure via industrials)\n• 細價股：IWM -0.96%, MDY -1.01% (跟跌但冇科技股咁癲)\n• 金融/能源企穩：XLF +0.34%, XLE +0.74%\n\n🔥 焦點異動\n─────────────────────\n\n【AI/晶片恐慌 — SOXL -23%, Cerebras -10%】\n今日最大嘅故事。NPR/FT/Guardian 全部 leading with 'Is AI one big bubble?' debate。但注意：\n• NVDA 成交 152M (+25% vs 前日) → capitulation volume\n• SMH -7.01%, AMD -5.76%, AVGO -3.06%\n• ORCL -5.66%（裁員21K + debt-fueled AI 質疑）\n• MSFT +1.80%（逆勢走強 — 防禦性 mega-cap 資金輪入）\n\nBull case：SpaceX 簽咗 $6.3B AI 合約，S&P 100% beat rate，AI capex 仍然 growing。呢個 gap between sentiment and fundamentals 係 potential opportunity。\nBear case：如果 ada Lovelace 效應 / AI monetization concerns 持續，呢個 panic 可以 deeper。\n\n【Alphabet 加入道指（取代 VZ）】\n• GOOGL -1.02%（其實 relative strength 好強 given 大市跌）\n• DJIA tech weighting 增加 → 被動資金 structural buy\n• 1-2 週 rebalancing flow 係 positive catalyst\n\n【美伊和平矛盾升溫】\n• Trump: Iran agreed to nuclear inspections\n• Iran: denies\n• Senate passed war powers resolution rebuking Trump\n• Oil at ~$74 — short oil positions crowded → squeeze risk if peace unravels\n\n【Fed Context】\n• 上週 FOMC (Jun 16-17) 已出 SEP + press conference\n• 下次 FOMC: Jul 28-29\n• Kevin Warsh 成焦點 — Atlanta Fed pick 可能 reshape 聯儲局\n• Greenspan 离世（Jun 22）— 象徵性事件，對市場 direct impact 有限\n\n其他催化劑：\n• SpaceX $25B debt + $6.3B AI deal 確認需求\n• UK Starmer-Burnham transition (Burnham crypto-friendly)\n• 國會通過大型住房法案（bipartisan achievement）\n• Factory job cuts near financial crisis/Covid levels\n\n🎯 值得 carry forward 嘅機會\n─────────────────────\n\n1. AI/semi panic 買入機會 — sentiment 極端悲觀 vs fundamentals still solid。等 SOXX 搵到 support (今日 ~603)，stabilization signal 確認後可小注 long semi 反彈。Key level to watch: SMH $600/$580, NVDA $195/$188。\n\n2. GOOGL 加入道指 — structural buy。Index rebalancing 1-2 週內完成，dip 係 entry opportunity。\n\n3. 石油風險對沖 — 美伊和平若 unravel，short oil 倉位擠倉風險。XLE 今日企穩，peace breakdown 可 tactical long。\n\n4. MSFT relative strength 值得留意 — 今日 +1.80% 喺 mega-cap 中表現最好，資金輪入 defensive tech。\n\n⚠️ Risks / Watchlist\n─────────────────────\n\n• Overnight: AI bubble debate 會否持續到 Asian session？SOX futures direction\n• 美伊 nuclear inspection 更新 — 如果 disputa escalation，oil spike\n• 今晚 US after-hours 有冇 earnings 影響 theatre\n• Fed Warsh narrative 發展 — 政治任命進度\n\n💡 My Take\n─────────────────────\n\n呢個 session 係 classic panic selling in tech vs rotation into defensives。最關鍵係 AI/semi — sentiment 極端化到 NPR headline level，但 fundamental demand (SpaceX $6.3B, S&P beat rate) 仍然 intact。我睇呢個係 correction 唔係 structural breakdown，但短期要等 SOXX stabilization 先出手。GOOGL 係最 clean 嘅 catalyst — index inclusion + relative strength，呢個 dip 值得買。\n\nShort-term bias: cautiously defensive (XLV/XLP > XLK)\nTactical opportunity: semi panic buy (after stabilization confirm)\nStructural view: GOOGL accumulate on weakness",
+      "risks": [
+        "AI bubble debate 持續發酵 → further semi downside",
+        "美伊 nuclear inspection dispute escalation → oil spike",
+        "Fed Warsh 任命政治不確定性",
+        "Factory job cuts signal weakening economy"
+      ],
+      "my_take": "今日係 classic AI panic selloff — QQQ -3.3%, SMH -7%, SOXL -23%。Sentiment 極端悲觀但 fundamentals 仍然 intact (SpaceX $6.3B AI deal confirms demand)。等 SOXX stabilization 係 key。GOOGL DJIA inclusion 係最 clean 嘅 catalyst。Short-term defensive, tactical semi buy on confirmation."
     }
   ],
   "news_curator": [
