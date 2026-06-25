@@ -1620,6 +1620,64 @@
       "total_articles": 786,
       "curated_count": 16,
       "summary": "# News Curator #1 — Asia/Euro Session\n\nGlobal tech selloff intensifies — KOSPI -10%, Nasdaq -$1T. US-Iran deal biggest structural shift: energy risk premium unwinding. MU earnings tomorrow is key catalyst. Apollo private credit 17% redemptions flash warning."
+    },
+    {
+      "timestamp": "2026-06-25T20:10:33+08:00",
+      "period": "Asia/Euro session",
+      "type": "news-curator",
+      "source_count": "111 RSS + 5 FMP",
+      "total_articles": 1059,
+      "curated_count": 10,
+      "summary": "# 📡 News Curator #1 — Asia/European Session\n**Run time:** 2026-06-25T20:10:33+08:00\n**Sources:** 111 RSS feeds + 5 FMP endpoints\n**Scanned:** 1,059 articles (809 RSS + 250 FMP)\n**Curated:** 10 opportunities\n\n---\n\n## 📊 Session Theme Summary\n\n### 🔥 MU 主導全球反彈\n- **Micron (MU)** Q3 盈利暴增 15 倍，盤後 +18%，AI 記憶體需求推動 HBM 供不應求\n- **SK Hynix** 跟漲 +12%，計劃 $290 億 Nasdaq 上市\n- 晶片供應鏈高管表示供應緊張將持續 \"beyond 2027\"\n- MU 被稱為 \"tech's new margin king\"，利潤率超越 NVDA 和 META\n\n### 🤖 AI 持續擴散\n- **Qualcomm (QCOM)** 數據中心 pivot 繼續發酵，Meta 確認首個客戶，非手機收入指引翻倍\n- **Alphabet (GOOG)** Cloud $462B backlog，63% YoY 收入增長，AI 貨幣化多元\n- **IBM** 公布 \"block of flats\" 晶片設計突破，垂直堆疊大幅提升晶片密度\n- **Anthropic** 指控阿里巴巴非法提取 Claude AI 能力，並從 Orange 挖角 AI 主管擴張歐洲\n\n### 🛢️ 石油回歸戰前水平\n- 原油價格完全抹去伊朗戰爭溢價，35M 桶原油已通過霍爾木茲海峽\n- 伊朗威脅未經許可過境 \"不可接受且危險\"，但實際通行持續增加\n- Trump 指責大型石油公司價格欺詐，要求 DOJ 調查\n- OPEC 內部分裂：伊拉克在 UAE 退出後對配額制施加壓力\n\n### 🥇 黃金跌穿 $4,000\n- 黃金跌至 7 個月低位，白銀 $57 水平，\"debasement trade\" 全面 unwind\n- DXY 站上 101，市場定價美聯儲加息預期升溫\n- PCE 數據周五公布為關鍵催化劑\n\n### 🏦 銀行壓力測試通過\n- 聯儲局：大型銀行可承受 $7,080 億損失，JPM $500 億回購，GS 提高股息\n\n### 🔥 歐洲熱浪\n- 法國、英國、西班牙破紀錄高溫，空調/建築效率股上漲\n- 英國電網支付 £10M 額外電力以避免供電緊張\n\n---\n\n## 🎯 機會 (ACTION)\n\n### 1. MU — Micron Q3 盈利暴增 15 倍，AI 記憶體霸主地位確立\n\nMicron 公布 Q3 財報：利潤同比增 15 倍，HBM 記憶體需求推動數據中心業務成為主要增長引擎。盤後股價 +18%。管理層表示晶片供應將在 \"beyond 2027\" 前保持緊張。SK Hynix 跟漲 +12%。市場開始認識到 MU 才是 AI 基建中最關鍵的記憶體環節。\n\n| | |\n|---|---|\n| **Catalyst** | Q3 財報大幅超預期、HBM 定價能力持續、供應緊張至 2027+ |\n| **Timeline** | 短期（3-6 個月），記憶體上行週期清晰 |\n| **Verdict** | **跟進。** MU 是 AI trade 中最被低估的標的之一。HBM 需求結構性增長而非週期性。相比 GPU，記憶體環節競爭格局更集中（三星/SK/MU 寡頭）。 |\n\n**Rationale:** MU 從周期股被市場重新定價為 AI 增長股。15 倍利潤增長 + 供應緊張 narrative 為估值重估提供強勁基礎。管理層的 \"beyond 2027\" 指引遠超市場預期。\n\n---\n\n### 2. GOOGL — Alphabet：市場仍低估其多層 AI 貨幣化能力\n\nSeeking Alpha 深度分析指出 GOOGL 的 AI-driven Search、Cloud、TPU 貨幣化正在加速，即使在歷史性 capex 週期中仍推動營運收入增長。Google Cloud $462B backlog + 63% YoY 收入增長提供硬數據支撐。\n\n| | |\n|---|---|\n| **Catalyst** | Cloud backlog 持續增長、TPU 自家晶片降低成本、AI Overview 廣告變現 |\n| **Timeline** | 中期（6-12 個月），逐季財報驗證 |\n| **Verdict** | **適合持倉。** GOOGL 在 AI 多賽道佈局（Cloud、Search、TPU、DeepMind），相對純 GPU 玩家有分散優勢。估值仍相對合理。 |\n\n**Rationale:** GOOGL 的 AI narrative 不如 NVDA 集中，但這正是其優勢 — 多層次變現降低風險。Cloud backlog $462B 是市場最大未實現收入之一。\n\n---\n\n## 📡 值得關注 (WATCH)\n\n### 3. QCOM — 數據中心 pivot 持續發酵（延續昨日主題）\n\nQCOM 股價 +15%，非手機收入預測幾乎翻倍（2029 目標），Meta 確認為首個 Big Tech 客戶。市場將 QCOM 從成熟手機晶片商重新定價為 AI/數據中心玩家。\n\n| | |\n|---|---|\n| **Catalyst** | 2027 年數據中心收入實現、更多 hyperscaler 客戶確認 |\n| **Timeline** | 12-18 個月，2027 收入實現前為買入窗口 |\n| **Verdict** | **昨日已列為 ACTION，今日跟進確認。** 若數據中心 narrative 成立，QCOM 估值重估空間顯著（目前仍低於 AVGO/NVDA）。 |\n\n---\n\n### 4. 石油板塊 — 原油回歸戰前水平，能源股重新定價\n\n布蘭特原油完全抹去伊朗戰爭溢價，35M 桶通過霍爾木茲海峽。OPEC 內部分裂加劇（伊拉克威脅退出）。Trump 指責大型石油公司價格欺詐。市場正在將能源股從 \"戰爭溢價\" 重新定價為 \"供應正常化\"。\n\n| | |\n|---|---|\n| **Catalyst** | 霍爾木茲海峽通行持續正常化、OPEC 配額爭議、PCE 數據影響需求預期 |\n| **Timeline** | 短期（1-3 個月），油價可能在 $65-75 區間築底 |\n| **Verdict** | **兩面性。** Bull case: 油價回調提供買入機會，能源股估值已回落。Bear case: 供應正常化 + OPEC 內部分裂可能令油價進一步下行。觀望 PCE 後方向。 |\n\n---\n\n### 5. 黃金/白銀 — 跌穿關鍵心理關口，PCE 為關鍵轉折點\n\n黃金跌穿 $4,000 至 7 個月低位，白銀跌穿 $60。DXY 強勢 + 加息預期推動 \"debasement trade\" 全面 unwind。周五 PCE 數據若低於預期，可能觸發 snapback rally。\n\n| | |\n|---|---|\n| **Catalyst** | 周五 PCE 數據、DXY 走勢、美聯儲加息定價 |\n| **Timeline** | 周末前（PCE 為 immediate catalyst） |\n| **Verdict** | **PCE 前不宜追沽。** 市場已定價較多鷹派預期。若 PCE 低於預期，黃金可能快速反彈至 $4,100-4,200。若 PCE 高於預期，$3,860 為下一支持。 |\n\n---\n\n### 6. 國防股 — 德國海軍政策 U-turn 打擊歐洲軍工 narrative\n\n德國海軍政策轉向引發國防股持續下滑。同時美國導彈庫存因伊朗行動消耗，Trump 與國防 CEO 會面討論補給。歐洲 rearmament narrative 正在被重新審視。\n\n| | |\n|---|---|\n| **Catalyst** | 美國導彈補給合約、北約支出承諾 update |\n| **Timeline** | 中期（3-6 個月），國防預算週期 |\n| **Verdict** | **選擇性關注。** 美國國防股（LMT、RTX）因彈藥補給需求可能優於歐洲同業。德國 U-turn 主要影響歐洲船廠和海軍系統。 |\n\n---\n\n### 7. TECH (Bio-Techne) — Merck KGaA $11B 收購\n\nMerck KGaA 以 $73/share 現金收購 Bio-Techne，強化生命科學業務。股東調查正在進行（Halper Sadeh），但交易基本確定。\n\n| | |\n|---|---|\n| **Catalyst** | 交易完成（預期 2026 下半年）、潛在 rival bid |\n| **Timeline** | M&A 套利窗口（3-6 個月） |\n| **Verdict** | **M&A 套利。** $73 收購價 vs 當前交易價的 spread 為潛在回報。注意股東訴訟可能延遲但不太可能阻止交易。 |\n\n---\n\n## ⚠️ 備註 (NOTE)\n\n### 8. Bitcoin — 跌穿 $60,000，PCE 為關鍵\n\nBTC 在 $59K-$60K 掙扎，ETF 持續流出，衍生品市場恐慌信號。PCE 數據若弱於預期可能觸發 snapback（short squeeze），若強於預期可能進一步跌至 $55K。\"Debasement trade\" 資金從加密、黃金流出至 AI 股票趨勢持續。\n\n---\n\n### 9. 歐洲熱浪 — 空調/建築效率股\n\n歐洲破紀錄熱浪推動空調需求暴增，英國電網支付 £10M 避免供電緊張。Carrier (CARR)、Johnson Controls (JCI)、Trane (TT) 等可能受益。但此為季節性主題，持續性有限。\n\n---\n\n### 10. IBM — \"Block of flats\" 晶片設計突破\n\nIBM 公布垂直堆疊晶片設計 (\"block of flats\") 大幅提升晶體管密度，對 AI 和量子計算有深遠影響。但 IBM 本身非純晶片股，影響需時驗證。量子計算板塊（IONQ、QBTS）可能受情緒提振。\n\n---\n\n## 📋 完整 Ticker 清單\n\n| Ticker | 分類 | 催化劑 | 時間框架 |\n|--------|------|--------|----------|\n| MU | 🎯 ACTION | Q3 盈利 15x，供應緊張至 2027+ | 3-6 個月 |\n| GOOGL | 🎯 ACTION | Cloud backlog $462B，AI 多層貨幣化 | 6-12 個月 |\n| QCOM | 📡 WATCH | 數據中心 pivot，Meta 確認為客戶 | 12-18 個月 |\n| XLE/CVX/XOM | 📡 WATCH | 原油回歸戰前水平，OPEC 分裂 | 1-3 個月 |\n| GLD/XAU | 📡 WATCH | 跌穿 $4,000，PCE 為轉折 | 周末前 |\n| LMT/RTX | 📡 WATCH | 導彈補給需求，德國 U-turn | 3-6 個月 |\n| TECH | 📡 WATCH | Merck KGaA $73/sh 收購 | 3-6 個月 |\n| BTC | ⚠️ NOTE | $59K 掙扎，PCE 決定方向 | 周末前 |\n| CARR/JCI/TT | ⚠️ NOTE | 歐洲熱浪，季節性 | 1-2 個月 |\n| IBM/IONQ | ⚠️ NOTE | 晶片突破，量子情緒提振 | 6-12 個月 |\n\n---\n\n*News Curator #1 — 2026-06-25 20:00 HKT | 跟進 Oscar 指示*\n",
+      "action_items": [
+        {
+          "ticker": "MU",
+          "signal": "Q3 盈利暴增 15x，供應緊張至 2027+",
+          "action": "跟進"
+        },
+        {
+          "ticker": "GOOGL",
+          "signal": "Cloud backlog $462B，AI 多層貨幣化",
+          "action": "跟進"
+        },
+        {
+          "ticker": "QCOM",
+          "signal": "數據中心 pivot，Meta 首個客戶",
+          "action": "跟進確認"
+        },
+        {
+          "ticker": "OIL",
+          "signal": "原油回歸戰前水平，OPEC 分裂",
+          "action": "觀望"
+        },
+        {
+          "ticker": "GOLD",
+          "signal": "跌穿 $4,000，PCE 為關鍵轉折",
+          "action": "觀望"
+        },
+        {
+          "ticker": "DEFENSE",
+          "signal": "德國海軍 U-turn，導彈補給需求",
+          "action": "選擇性關注"
+        },
+        {
+          "ticker": "TECH",
+          "signal": "Merck KGaA $73/sh 收購",
+          "action": "M&A 套利"
+        },
+        {
+          "ticker": "BTC",
+          "signal": "$59K 掙扎，PCE 決定方向",
+          "action": "觀望"
+        }
+      ],
+      "top_themes": [
+        "MU Q3 盈利 15x，AI 記憶體霸主，SK Hynix +12%",
+        "GOOGL Cloud $462B backlog，AI 多層貨幣化被低估",
+        "QCOM 數據中心 pivot 持續，Meta 確認為首個客戶",
+        "原油回歸戰前水平，OPEC 分裂加劇",
+        "黃金跌穿 $4,000，PCE 周五為關鍵轉折"
+      ]
     }
   ],
   "news": [
@@ -1801,7 +1859,7 @@
       "curated_count": 16
     }
   ],
-  "updated_at": "2026-06-24 12:07:00 UTC",
+  "updated_at": "2026-06-25T20:10:33+08:00",
   "news_curator_2": {
     "run_time": "2026-06-25T00:07:06.452879+00:00",
     "source_count": "50 RSS feeds + 5 FMP endpoints",
@@ -1833,6 +1891,61 @@
         "ticker": "JPM",
         "signal": "$50B 回購",
         "action": "跟進"
+      }
+    ]
+  },
+  "news_curator_structured": {
+    "run_time": "2026-06-25T20:10:33+08:00",
+    "source_count": "111 RSS feeds + 5 FMP endpoints",
+    "total_scanned": 1059,
+    "curated_count": 10,
+    "top_themes": [
+      "MU Q3 盈利 15x，AI 記憶體霸主，SK Hynix +12%",
+      "GOOGL Cloud $462B backlog，AI 多層貨幣化被低估",
+      "QCOM 數據中心 pivot 持續，Meta 確認為首個客戶",
+      "原油回歸戰前水平，OPEC 分裂加劇",
+      "黃金跌穿 $4,000，PCE 周五為關鍵轉折"
+    ],
+    "action_items": [
+      {
+        "ticker": "MU",
+        "signal": "Q3 盈利暴增 15x，供應緊張至 2027+",
+        "action": "跟進"
+      },
+      {
+        "ticker": "GOOGL",
+        "signal": "Cloud backlog $462B，AI 多層貨幣化",
+        "action": "跟進"
+      },
+      {
+        "ticker": "QCOM",
+        "signal": "數據中心 pivot，Meta 首個客戶",
+        "action": "跟進確認"
+      },
+      {
+        "ticker": "OIL",
+        "signal": "原油回歸戰前水平，OPEC 分裂",
+        "action": "觀望"
+      },
+      {
+        "ticker": "GOLD",
+        "signal": "跌穿 $4,000，PCE 為關鍵轉折",
+        "action": "觀望"
+      },
+      {
+        "ticker": "DEFENSE",
+        "signal": "德國海軍 U-turn，導彈補給需求",
+        "action": "選擇性關注"
+      },
+      {
+        "ticker": "TECH",
+        "signal": "Merck KGaA $73/sh 收購",
+        "action": "M&A 套利"
+      },
+      {
+        "ticker": "BTC",
+        "signal": "$59K 掙扎，PCE 決定方向",
+        "action": "觀望"
       }
     ]
   }
