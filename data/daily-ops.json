@@ -1572,6 +1572,34 @@
         "DXY繼續強勢 → commodity/gold/crypto更受壓"
       ],
       "my_take": "Short-term bearish-neutral, medium-term bullish. MU tonight係方向決定性。中線NVDA FwdPE 15.7x唔貴，AI capex cycle未見頂（SK Hynix $29B listing confirms）。今日觀望為主，唔pre-position，MU after-hours後再決定。Short USD hedge繼續。"
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-25",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "🟡 分化 — Regular session AI續跌，After-hours QCOM+MU Catalyst逆轉",
+      "headlines": [
+        "QCOM +12.77% AH：Meta確認為數據中心晶片首個客戶，2027年收入指引數十億美元",
+        "MU +15.78% AH：Q3盈利暴增15倍，HBM記憶體需求推動AI業務爆發",
+        "Fed壓力測試全線通過：JPM $500億回購，GS提高股息",
+        "油價$70.07創新低 — 伊朗和平溢價蒸發，XLE -1.63%",
+        "BTC跌穿$61,000 — 資金從加密明確流向AI"
+      ],
+      "opportunities": [
+        "QCOM: Meta data center deal = 估值重估catalyst，forward PE ~13x有巨大upside",
+        "MU: HBM demand confirmed by Q3 earnings，AI基建中最被低估環節",
+        "JPM: $500億buyback（~7% float），壓力測試通過後執行",
+        "SOXL/NVDA/AMD: AI/semi報復性反彈setup — gap-up open幾乎guaranteed"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n本週關鍵 Fed 事件：6月24日聯儲局壓力測試結果公布 — 全部31間大型銀行通過，確認銀行體系「well positioned to weather a severe recession」。呢個直接引爆銀行股 buyback 潮（JPM $500億、GS 提高股息）。\n\n下次 FOMC：7月28-29日，距今仍有約一個月。目前市場處於 FOMC 真空期 — 冇 immediate rate catalyst。但 Kevin Warsh 上任後嘅鷹派 stance 仍在定價中，DXY 升至 101.63 反映市場逐漸接受 higher-for-even-longer。\n\n油價暴跌至 $70（伊朗和平溢價消退）為 macro 提供 disinflationary tailwind，部分抵消 DXY 強勢對風險資產嘅壓力。10Y yield 回落至 4.40%，債市信號並唔驚慌。\n\n---\n\n## 1. 📊 Market Recap — 6月24日\n\n| Index | Close | Change | Signal |\n|-------|-------|--------|--------|\n| SPY   | 733.24 | -0.05% | 橫行，低成交量 |\n| QQQ   | 710.62 | -0.42% | 科技繼續走弱 |\n| DIA   | 518.52 | +0.37% | Dow 輪入 |\n| IWM   | 296.69 | +0.46% | Small caps 連續第二日 outperformance |\n| VIX   | 18.63 | -0.86pt | 恐慌回落但仍偏高 |\n\nSPY 成交量 45.3M（僅20日均量嘅 76%）— 低 conviction 交易日。連續兩日 AI 拋售後，市場下午出現 stabilisation，但收市前冇明顯反彈。\n\n**Sector Rotation — 防守+週期性勝出：**\n\n| Sector | ETF | Change |\n|--------|-----|--------|\n| 🟢 工業 | XLI | +1.16% |\n| 🟢 消費週期 | XLY | +1.15% |\n| 🟢 公用 | XLU | +1.04% |\n| 🟢 醫療 | XLV | +0.77% |\n| 🔴 能源 | XLE | -1.63% |\n| 🔴 通訊 | XLC | -0.68% |\n| 🔴 科技 | XLK | -0.62% |\n\nRotation 極為清晰：資金從 energy + tech 流向 industrials + consumer discretionary + utilities。呢個係 classic 「risk-off within risk-on」— 唔係全面撤退，而係換馬。\n\n油價 $70.07 創近期新低（伊朗和平溢價完全蒸發），XLE 連續受壓。BTC 跌至 $60,823，crypto 資金持續流出。\n\n---\n\n## 2. 🔥 Notable Movers（Regular Session）\n\n| Ticker | Close | Change | Note |\n|--------|-------|--------|------|\n| RKLB | $85.41 | -10.21% | 最大跌幅，即使有 military contract 新聞 |\n| MSFT | $365.46 | -2.27% | 量子計算 credibility 受質疑 |\n| LMT | $491.64 | -2.39% | 國防板塊全線回調 |\n| QCOM | $197.41 | -3.29% | 收市前仍被拋售（收市後反轉！）|\n| NVDA | $199.00 | -0.52% | 連續第三日下跌，一度見 $196.58 |\n| MU | $1,048.51 | -0.31% | 收市前持平（收市後 earnings！）|\n\n**關鍵觀察：** Regular session 係 AI/semi 拋售嘅第二日延續。QCOM 跌 3.29%、NVDA 跌 0.52%、XLK 跌 0.62%。但收市後局面完全逆轉（見 Section 3）。\n\nRKLB -10.21% 值得特別注意：News Curator 嘅 military laser 合約 narrative 係真實嘅，但 high-beta names 喺 risk-off session 完全冇防守力。呢個係 volatility compression 後嘅 decompression — 極度 violent。\n\n---\n\n## 3. 📰 News That Mattered — After-Hours Game Changers\n\n### 🔥🔥🔥 QCOM +12.77% After-Hours: Meta 確認為數據中心晶片首個客戶\n\nQCOM 披露數據中心晶片將於 2027 年產生「數十億美元」收入，Meta 確認為首個 hyperscaler 客戶。Regular session 收 $197.41 後，after-hours 飆至 $222.62（+12.77%）。\n\n**Why this matters:** QCOM 一直被 market 定價為 mature 手機晶片商（forward PE ~13x pre-news）。數據中心 narrative 如果成立，估值重估空間極大 — 市場之前完全冇 price in 呢個可能性。Meta 嘅背書係最強 signal。\n\n**My take:** 呢個唔係 hype — Meta 係全球最大數據中心營運商之一，佢哋唔會隨便 confirm 一個 unproven supplier。QCOM 進入數據中心市場嘅 barrier 極高，但一旦入咗門，TAM 遠超手機市場。\n\n### 🔥🔥🔥 MU +15.78% After-Hours: Q3 Earnings — 盈利暴增 15 倍\n\nMU 公布 Q3 財報後 after-hours 飆至 $1,213.96（+15.78%）。HBM 記憶體需求推動數據中心業務成為主要增長引擎。盈利同比增長 7.7x，收入增長 1.96x。\n\n**Why this matters:** MU 係 AI 基建中最被低估嘅一環。GPU 要行得快，HBM 記憶體係 bottleneck。MU 嘅 earnings 確認 HBM 定價能力強勁、需求持續超過供應。\n\n**My take:** 有別於 NVDA 嘅「AI 霸權」narrative，MU 嘅故事更 grounded — 佢係 AI 基建中不可或缺嘅 supplier，但估值仍未反映呢個地位。Q3 earnings 提供咗 hard data 證明 AI demand 唔係 bubble。\n\n### 🏦 Fed 壓力測試：銀行股 Buyback 潮\n\nJPMorgan $500 億回購（約 7% float）、Goldman Sachs 提高股息。全部 31 間大銀行通過壓力測試。JPM 收 $333.45（-0.21%），GS 收 $1,076.91（-1.60%）— 市場今日未充分反應，但回購 catalyst 會喺未來幾個月持續發酵。\n\n### 🛢️ 油價 $70.07 — 伊朗和平溢價完全蒸發\n\n美伊和平談判取得突破，伊朗同意 IAEA 核檢查。油價從 war-premium $80+ 跌至 $70。XLE -1.63% 連續受壓。Disinflationary tailwind 對整體市場利好，但 energy sector 要避。\n\n### ₿ BTC $60,823 — Crypto 資金流向 AI\n\nBTC 跌至 20 個月低位，資金明確從 crypto 輪動至 AI。呢個 trend 短期內唔會逆轉 — AI fundamental catalysts（QCOM, MU）只會加速資金遷移。\n\n---\n\n## 4. 🎯 Opportunities Carry Forward\n\n### ⚡ 明日 AI/Semi 報復性反彈（Highest Conviction）\n\nQCOM +12.77% AH + MU +15.78% AH = 明日 AI/semi gap-up 基本上係 guaranteed。NVDA 在 regular session 一度跌至 $196.58，after-hours 已回升至 $200.69。\n\n**Setup:** 過去兩日 AI/semi 拋售係 sentiment-driven（「AI bubble」debate），唔係 fundamental-driven。QCOM 同 MU 嘅 after-hours catalyst 提供咗 fundamental rebuttal — AI demand 係 real。Short-covering + FOMO 可能推動明日大幅反彈。\n\n**What to watch:** SOXL（3x semi ETF）、NVDA、AMD、SMH。如果 SOXL recover 昨日 -23% 嘅一半，已經係 significant move。\n\n**Risk:** Gap-up 後 fade 係 classic pattern。如果 SPY open +1% 以上但 VIX 唔回落，要小心獲利回吐。\n\n### 🏦 JPM/GS — 回購 Catalyst 會慢慢發酵\n\nBank buyback 唔係一日 Trade — $500 億回購要 4 個季度執行。JPM 今日 -0.21% 反映 market 未 price in。適合 swing/position trade，唔係 day trade。\n\n### 🛡️ Defense Pullback = Opportunity?\n\nRKLB -10.21%、LMT -2.39% 嘅回調幅度過大。Military space laser 合約 narrative 仍然 intact。如果明日繼續跌，可能出現買入機會。但要等確認 support — RKLB 嘅 volatility 極高，唔好接刀。\n\n---\n\n## 5. ⚠️ Risks / Watchlist\n\n### 今晚要睇實：\n- **QCOM/MU after-hours 會唔會 hold：** Pre-market 價格係關鍵。如果 QCOM 跌返 below $210，代表市場對 data center narrative 仍有懷疑。如果 hold $215+，bull case intact。\n- **DXY 走勢：** 101.63 並持續上升。DXY 強勢對所有 risk assets 都係 headwind，可能限制明日反彈幅度。\n- **SOXL 開盤：** 如果 SOXL recover 到 $40+（昨日收 ~$35），代表 semi sentiment 真係反轉。\n\n### Overnight Risk：\n- 美伊和平談判可能有新進展（油價波動）\n- 今晚冇重大 earnings（MU 已出），macro calendar 安靜\n\n---\n\n## 6. 💡 My Take\n\n**Regular session 係 AI 拋售嘅第二日，但收市後嘅 QCOM+MU catalyst 改變咗整個 narrative。**\n\n今日嘅 session 本質上係一個「信心測試」：AI trade 喺連續兩日被質疑後，收市後出現兩個重磅 fundamental rebuttal — MU 嘅 HBM 盈利證實 AI demand 係爆燈級別，QCOM 嘅 Meta partnership 證實 hyperscaler 正在擴張供應鏈（而唔係削減開支）。\n\n我嘅 bias：明日 bullish for AI/semi。唔係因為 sentiment flip，而係因為 fundamental data 推翻咗「AI bubble」narrative。MU 嘅 15x 盈利增長唔係 hype — 係 hard number。\n\n但呢個唔代表 all-clear。DXY 強勢、VIX 仍近 19、連續兩日嘅拋售創傷需要時間修復。明日最大风险係 gap-up 後 fade — 如果開得太高而冇 follow-through，可能係 bull trap。\n\n**一句總結：AI trade 未死，但由 blind-bull 轉為 show-me mode。QCOM 同 MU 今晚 show 咗證據。明日市場投票。**\n\n**Tomorrow's bias: 🟢 Bullish（AI/Semi）→ 但要警惕 gap-up fade**",
+      "risks": [
+        "Gap-up fade風險 — QCOM/MU after-hours升幅可能唔hold，開太高冇follow-through = bull trap",
+        "DXY 101.63持續上升，對risk assets形成headwind",
+        "VIX仍近19 — 市場信心未完全恢復，連續兩日拋售創傷需時修復",
+        "RKLB -10.21%：high-beta names極度vulnerable，即使有好news都未必頂得住"
+      ],
+      "my_take": "Regular session 延續 AI 拋售（Day 2），但收市後 QCOM +12.77% AH（Meta 確認為數據中心客戶）+ MU +15.78% AH（Q3 盈利暴增 15x）提供 fundamental rebuttal 推翻「AI bubble」narrative。明日 AI/semi 報復性反彈概率極高，但需警惕 gap-up fade。Bullish bias。"
     }
   ],
   "news_curator": [
@@ -1773,5 +1801,39 @@
       "curated_count": 16
     }
   ],
-  "updated_at": "2026-06-24 12:07:00 UTC"
+  "updated_at": "2026-06-24 12:07:00 UTC",
+  "news_curator_2": {
+    "run_time": "2026-06-25T00:07:06.452879+00:00",
+    "source_count": "50 RSS feeds + 5 FMP endpoints",
+    "total_scanned": 982,
+    "curated_count": 8,
+    "top_themes": [
+      "AI/Chips：QCOM+15%, MU 15x profit, AVGO OpenAI chip",
+      "Bank Buybacks：JPM $50B buyback, GS dividend hike",
+      "BTC < $60K：資金輪動至 AI",
+      "Defense/Space：RKLB+LMT 參與 SpaceX 激光項目"
+    ],
+    "action_items": [
+      {
+        "ticker": "QCOM",
+        "signal": "數據中心 pivot，Meta 為首個客戶",
+        "action": "跟進"
+      },
+      {
+        "ticker": "MU",
+        "signal": "Q3 盈利暴增 15x",
+        "action": "跟進"
+      },
+      {
+        "ticker": "AVGO",
+        "signal": "OpenAI 定制晶片",
+        "action": "跟進"
+      },
+      {
+        "ticker": "JPM",
+        "signal": "$50B 回購",
+        "action": "跟進"
+      }
+    ]
+  }
 }
