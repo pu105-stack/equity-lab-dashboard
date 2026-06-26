@@ -1,4 +1,82 @@
 {
-  "decisions": [],
-  "last_synced": "2026-06-20T12:21:12.633231+08:00"
+  "decisions": [
+    {
+      "ticker": "QCOM",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "數據中心晶片pivot獲Meta確認為首個客戶，非手機收入指引翻倍（2029年目標）。股價+15%後仍低於AVGO/NVDA估值，市場正由\"成熟手機晶片商\"重新定價為\"AI/數據中心玩家\"。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "Q3盈利暴增15倍，HBM供應緊張至\"beyond 2027\"，市場正將MU由周期股重新定價為AI增長股。Forward PE僅9.9x，係AI半導體中最便宜之一。SK Hynix $29B Nasdaq上市確認AI memory demand結構性強勁。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "Bull: Cloud $462B backlog +63% YoY、加入道指被動資金流入、AI多層貨幣化。Bear: 單日$225B市值蒸發、AI人才流失、市場質疑Google在AI時代嘅dominance。短期DJIA rebalancing inflow利好，中期需要AI monetization proof。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "TLT",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "Warsh取消dot plot+forward guidance，BofA預測今年3次加息。核心PCE升至3年高位（4.1%年化），Goolsbee直言通脹\"太高\"。Duration risk極大——July 29 FOMC若加息將引發債市重定價。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "黃金跌穿$4,000至7個月低位，DXY年內高位（101+），Goldman下調目標$500。\"Debasement trade\"全面unwind。PCE數據若繼續偏高，$3,800為下一支持。美元強勢+加息預期雙重壓制。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "RKLB",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "Rocket Lab參與SpaceX軍事太空激光衛星項目，國防narrative成形。太空國防開支持續擴大，軍事合約利潤率高。但SpaceX IPO崩盤（$400B蒸發）嘅sentiment spillover可能拖累整個太空板塊。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "BTC",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "BTC跌至$58K創2026年新低，ETF錄$696M單日流出，Tether事件+多個hack打擊信心。但power-law model指向$58K為\"正常\"回調，極端悲觀情緒可能形成逆向機會。MSTR相關性高，BTC跌穿$55K將觸發更大去槓桿。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "XLE",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "Bull: 伊朗仍攻擊荷姆茲貨船、和平協議脆弱、short oil crowded→squeeze risk。Bear: 油價跌穿$70完全抹去戰爭溢價、OPEC內部分裂（伊拉克威脅退出、UAE已走）、供應正常化。雙向風險極大。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "Bull: AI需求強勁，Forward PE 16.55x低於半導體平均，$192技術位反彈。Bear: AVGO為OpenAI造定制晶片、大客戶自研趨勢加速、中國黑市風險。估值吸引但競爭格局正發生結構性變化。下季財報為關鍵驗證點。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "ON",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "$7B收購Synaptics押注physical AI，TAM由$30B擴大至$243B（2030年）。晶片M&A熱潮持續，physical AI係AI trade下一個前沿——由data center延伸至edge/robotics。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "CARR",
+      "status": "deep_dive",
+      "updated_at": "2026-06-26",
+      "reasoning": "歐洲破紀錄熱浪（法國36.7°C、英國電網£10M額外購電）推動HVAC結構性需求。CARR/TT/JCI全線上升，TT單日+4.2%。氣候變遷長期主題+季節性催化，最clean嘅non-AI trade。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-06-27T06:02:42.296803+08:00"
 }

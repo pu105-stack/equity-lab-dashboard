@@ -1732,6 +1732,32 @@
         "伊朗荷姆茲衝突升級 — 供應鏈中斷"
       ],
       "my_take": "短期Bearish-Neutral。Risk-off擴散中但非panic — VIX 19.78、DIA逆市升反映rotation而非crash。\n\n三個關鍵信號：(1) 科技股Rough Summer確認，NVDA跌穿$200；(2) HVAC係唯一有momentum嘅long idea；(3) 加密貨幣信心危機係最大tail risk — BTC $55K係關鍵防守線。\n\n策略：long HVAC (CARR/TT)，watch ON/INTC，avoid crypto names。如果VIX升穿25或BTC跌穿$55K → 轉全面防禦。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-06-27",
+      "time": "06:02 HKT",
+      "status": "success",
+      "market_direction": "本週risk-off主導：SPY -1.67%, QQQ -3.17%。US-Iran和平deal逆轉能源格局、Warsh鷹派升溫、AI earnings（MU暴增15x）驗證capex cycle但未能扭轉大市。資金由growth→defensive rotation加速。",
+      "opportunities": [
+        "🎯 MU: Q3盈利暴增15倍，HBM供應緊張至\"beyond 2027\"，市場正將MU由周期股重新定價為AI增長股。Forward PE僅9.9x，係AI半導體中最便宜之...",
+        "🎯 QCOM: 數據中心晶片pivot獲Meta確認為首個客戶，非手機收入指引翻倍（2029年目標）。股價+15%後仍低於AVGO/NVDA估值，市場正由\"成熟手機晶片商\"重新...",
+        "🎯 CARR: 歐洲破紀錄熱浪（法國36.7°C、英國電網£10M額外購電）推動HVAC結構性需求。CARR/TT/JCI全線上升，TT單日+4.2%。氣候變遷長期主題+季節性...",
+        "🎯 ON: $7B收購Synaptics押注physical AI，TAM由$30B擴大至$243B（2030年）。晶片M&A熱潮持續，physical AI係AI tra..."
+      ],
+      "risks": [
+        "⚠️ GLD: 黃金跌穿$4,000至7個月低位，DXY年內高位（101+），Goldman下調目標$500。\"Debasement trade\"全面unwind。PCE數據若...",
+        "⚠️ TLT: Warsh取消dot plot+forward guidance，BofA預測今年3次加息。核心PCE升至3年高位（4.1%年化），Goolsbee直言通脹\"太..."
+      ],
+      "analysis": "本週核心三條主線：① US-Iran和平deal——油價由戰爭溢價轉向和平折讓，能源板塊全面減倉信號；② AI earnings分化——MU 15x盈利增長+QCOM數據中心pivot確認AI需求結構性強勁，但NVDA面對定制晶片競爭加劇；③ Warsh鷹派升溫——PCE三年高位+BofA預測3次加息，duration assets（TLT/GLD/BTC）全面受壓。\n\n🎯機會集中在AI記憶體(MU)、數據中心轉型(QCOM)、氣候變遷HVAC(CARR)同physical AI M&A(ON)。📡觀望NVDA(GPU vs定制)、GOOGL(AI貨幣化待驗證)、XLE(油價雙向風險)、BTC(極端悲觀或成逆向機會)、RKLB(太空國防)。⚠️風險在GLD(去貶值交易瓦解)同TLT(Warsh duration衝擊)。\n\n板塊輪動信號明確：科技→value/defensive。等PCE數據+July 29 FOMC先有方向性催化。",
+      "my_take": "美伊和平deal係本週最大結構性轉變——我哋之前energy long thesis嘅基石（伊朗risk premium）已經消失。與此同時，AI板塊出現清晰嘅分化：MU同QCOM正被市場重新定價向上，而NVDA面對custom chip競爭嘅結構性威脅。Warsh regime下嘅duration risk係目前最大macro headwind——TLT/GLD/BTC全線受壓唔係偶然，而係regime change嘅信號。短期策略：long AI記憶體+HVAC，selective long data center pivot stories，减持duration敏感资产。",
+      "focus": [
+        "AI記憶體: MU",
+        "HVAC: CARR/TT",
+        "數據中心轉型: QCOM",
+        "Physical AI: ON",
+        "GPU vs 定制: NVDA"
+      ]
     }
   ],
   "news_curator": [
