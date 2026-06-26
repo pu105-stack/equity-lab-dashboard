@@ -1628,51 +1628,6 @@
       "my_take": "Cautiously Bullish — MU Q3盈利暴增15倍主導今日市場，資金從debasement trade（黃金、BTC）輪動至AI earnings growth。PCE前夕市場已定價較多鷹派，surprise potential偏向上行。MU能否守住$1,180為今日關鍵。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-26",
-      "time": "08:08 HKT",
-      "status": "success",
-      "market_direction": "謹慎偏淡 —— PCE通脹黏性超預期，Fed加息風險升溫；地緣政治（荷姆茲海峽）推高油價不確定性；BTC創年內新低反映risk-off情緒；但AI/晶片股M&A（ON/SYNA）提供結構性支撐",
-      "headlines": [
-        "ON Semiconductor 以$7B收購Synaptics，押注physical AI —— 晶片股重大M&A",
-        "Wendy's meme rally 第二日熄火 —— 散戶熱情未能延續，WEN轉跌",
-        "Eli Lilly 減肥藥出現「神秘事件」—— STAT News 調查報導，可能影響tirzepatide銷售",
-        "FedEx Freight 公布Q4業績 —— 貨運需求指標",
-        "Chemours 以$450M和解首宗聯邦PFAS訴訟 —— 化工監管風險定價",
-        "NVDA 技術分析：$192入場目標$260 —— TradingView busted head & shoulders setup",
-        "PLTR 從高位回落48.7%，但仍被認為估值偏高 —— 持續調整風險",
-        "Coinbase Base區塊鏈中斷兩小時後恢復 —— 可靠性疑慮再起",
-        "JPMorgan 高層大洗牌：Doug Petno & Troy Rohrbaugh 任co-presidents，Marianne Lake離職",
-        "Bitcoin 創2026年新低，power-law model指向$58K為「正常」回調",
-        "伊朗襲擊荷姆茲海峽貨船，航運中斷 + OPEC失控風險，油價或見$50以下",
-        "Fed加息風險升溫：核心PCE升至三年高位，Goolsbee稱通脹「太高」",
-        "歐洲熱浪破紀錄：36.7°C高溫，法國警告年輕人亦有健康風險 —— HVAC/冷氣需求"
-      ],
-      "opportunities": [
-        "🎯 ON/SYNA $7B收購 — physical AI戰略押注，晶片板塊M&A熱潮持續",
-        "📡 WEN meme rally — 散戶熱情Day 2熄火，但meme股波動性係Viper可trade",
-        "⚠️ LLY 減肥藥調查 — 若負面消息發酵，可能影響$30B+ franchise估值",
-        "⚠️ BTC $58K target — power-law指向更深回調，crypto sentiment脆弱",
-        "📡 荷姆茲海峽/OPEC — 油價雙向風險：供應中斷vs.OPEC定價權瓦解",
-        "🎯 歐洲熱浪 — HVAC plays (CARR/JCI/TT) 季節性利好，氣候變遷長期主題"
-      ],
-      "analysis": "本日scan 179篇RSS文章，篩選出13條有交易含義的 headlines。宏觀主導：PCE通脹黏性+ Fed加息風險壓制risk appetite。地緣政治升溫（荷姆茲海峽）。唯一亮點係AI/晶片M&A（ON/SYNA），顯示physical AI theme持續有資金追捧。Crypto弱勢（BTC新低），meme股（WEN）散戶熱情短暫。歐洲熱浪提供季節性HVAC trade。整體建議：defensive positioning，關注Fed講話及荷姆茲局勢發展。",
-      "risks": [
-        "Fed加息預期升溫 — PCE 3年高位，債券ETF資金湧入反映市場避險",
-        "BTC新低 + Coinbase中斷 — crypto生態系統脆弱性疊加",
-        "S&P 500 關鍵技術位 — MarketWatch指若跌破將引發更大跌幅",
-        "地緣風險 — 荷姆茲海峽緊張升級，伊朗直接攻擊貨船"
-      ],
-      "my_take": "今日市場被兩股力量拉扯：① macro headwind（PCE黏性、Fed加息風險）壓制大市；② structural AI demand（ON收購SYNA押注physical AI）提供底部支撐。荷姆茲海峽事件令油價出現雙向風險——供應中斷利多但OPEC定價權瓦解利空，XOM/CVX宜watch唔急trade。BTC創新低反映risk-off資金流出crypto，MSTR相關性增強但方向向下。WEN meme trade Day 2失敗證明散戶熱情短暫，Viper可以day trade但唔hold。歐洲熱浪係最clean嘅seasonal play：CARR/JCI/TT。",
-      "key_takeaways": [
-        "ON Semiconductor $7B收購Synaptics 係今日最大單一 catalyst — physical AI theme 值得Deep Dive",
-        "WEN meme trade Day 2失敗，但meme股波動性為Viper提供day trade機會",
-        "Fed加息風險係目前最大macro headwind，PCE數據黏性超預期",
-        "BTC創新低 + Coinbase outage — crypto板塊短期宜觀望",
-        "歐洲熱浪係季節性trade機會，HVAC供應鏈（CARR/JCI/TT）"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-26",
       "time": "08:34 HKT",
@@ -1701,6 +1656,82 @@
         "ON/SYNA deal skepticism — 市場未俾green light"
       ],
       "my_take": "PCE黏性超預期 dominate咗成個session——MU盈利暴增15倍都頂唔住。Defensive rotation全面確認：XLV +3.71% weekly、XLU +2.53%。短期內macro > micro，要等PCE塵埃落定先可以買tech dip。HVAC seasonality（TT +4.20%、CARR +2.62%）係最clean嘅non-correlated alpha。NVDA $192值得monitor但要等confirm。Crypto exposure繼續避開。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-26",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "亞洲/歐洲時段：科技股繼續受壓，韓國Kospi本週第三次熔斷。油價跌穿$70但荷姆茲海峽仍有伊朗攻擊貨船事件，市場定價矛盾（和平溢價消退 vs 供應風險仍在）。加密貨幣全線暴跌：BTC跌穿$60K、ETH $1.5K被Tether超越市值、ETF創6月最大流出。歐洲工業危機深化：VW裁員10萬人。美元升至年內高位。核心服務通脹急升（6M PCE 4.1%年化）。OpenAI IPO傳推遲。整體risk-off格局：資金從科技/加密轉向美元/債券。",
+      "headlines": [
+        "TECH: ON/SYNA — ON Semiconductor $7B收購Synaptics，押注physical AI，TAM擴大$30B",
+        "TECH: AAPL/MSFT — Apple加價近20%，Xbox跟隨，消費電子定價權測試",
+        "TECH: MSFT/NVDA — OpenAI IPO傳推遲至明年，SoftBank急跌；白宮要求減速GPT 5.6",
+        "TECH: INTC — Intel晶片業務復甦，Trump本土晶片製造核心",
+        "TECH: NVDA/AMD/BABA/BIDU — 中國AI追趕超預期，更便宜產品搶市場",
+        "TECH: SPY/QQQ/SMH — 亞洲科技股暴跌，韓國Kospi本週第三次熔斷",
+        "OIL: USO/XLE/XOM — 美油跌穿$70，伊朗攻擊貨船但油價照跌，中國原油進口2016年最低",
+        "CRYPTO: BTC/ETH/IBIT/COIN — BTC跌穿$60K，ETF流出$696M，Tether市值超越ETH，多個hack",
+        "MACRO: VWAGY/EZU — VW裁員10萬人關4廠，歐洲工業危機",
+        "MACRO: UUP — 美元年內高位，5大原因支撐",
+        "MACRO: TLT/SPY — 核心服務通脹急升4.1%，債券ETF資金湧入",
+        "MACRO: SPY/VIX — S&P波動率信號混亂，盈利樂觀情緒過度",
+        "CLIMATE: CARR/JCI/TT — 歐洲史上最嚴重熱浪，HVAC受惠",
+        "PRECIOUS_METALS: GLD/GDX — 黃金技術面偏淡，美元強勢壓制",
+        "MEME: WEN — meme rally一日遊，散戶熱度未能延續"
+      ],
+      "opportunities": [
+        "ON/SYNA: $7B physical AI收購 — ON Semiconductor擴大TAM至$243B，physical AI係下一個AI前沿。交易完成後協同效應顯著。",
+        "CARR/JCI/TT: 歐洲破紀錄熱浪 — 氣候變化加速，HVAC需求結構性增長。歐洲白天氣溫上升速度係全球平均3倍。",
+        "INTC: 復甦故事 — Trump本土晶片製造政策核心受惠者。如果turnaround確認，當前估值有上行空間。",
+        "UUP: 美元強勢 — 5大結構性原因支撐，海灣和平後避險需求不跌反升。如果科技股繼續受壓，美元可能進一步走高。",
+        "TLT: 債券ETF資金湧入 — BlackRock exec指'市場在嗅到某些東西'。如果risk-off持續，債券有避險需求。"
+      ],
+      "analysis": "今日（2026-06-26）Asian/European session共掃描58條RSS feeds，獲取178篇新聞文章（0 errors）。\n\n## 核心驅動因素\n\n### 1️⃣ 科技股risk-off擴散\n韓國Kospi本週第三次熔斷。Apple/Micron/OpenAI 'AI's Rough Summer'。OpenAI IPO傳推遲至明年、SoftBank急跌。白宮要求OpenAI減速發布GPT 5.6。中國AI追趕超預期（WaPo）。多重負面催化劑疊加。\n\n### 2️⃣ 加密貨幣信心危機\nBTC跌穿$60K（低見$58K）。ETF錄6月最大單日流出$696M。Tether市值超越ETH（$1.5K）。Polymarket被盜$2.9M。AscendEX提款投訴增加。Binance失去歐盟MiCA牌照。Strategy 6/30 ex-dividend。\n\n### 3️⃣ 油價矛盾信號\n伊朗攻擊阿曼灣貨船、UN暫停荷姆茲撤離行動。但油價照跌至$70以下 — 市場押注伊朗石油回歸。Qatar戰後首次招標原油。中國原油進口跌至2016年以來最低（6.4M bpd）。Kazakhstan減產因俄羅斯處理廠被無人機襲擊。荷姆茲航運信心仍然脆弱但交通量回升。\n\n### 4️⃣ 歐洲工業危機\nVW裁員10萬人（近六分一員工）、關閉4間德國工廠。為史上最大規模企業裁員之一。\n\n### 5️⃣ 宏觀：美元強勢 + 通脹頑固\n美元升至年內高位（5大原因）。核心服務PCE 6個月年化4.1%（2023年6月以來最差）。Goolsbee：通脹仍然太高。債券ETF資金湧入。S&P波動率信號混亂。\n\n### 6️⃣ 其他值得注意\n- ON Semiconductor $7B收購Synaptics（physical AI）\n- Apple加價近20%、Xbox跟隨\n- Intel晶片業務復甦跡象\n- 歐洲破紀錄熱浪（HVAC受惠）\n- JPMorgan新co-presidents（Dimon接班信號）\n- Wendy's meme rally一日遊",
+      "risks": [
+        "科技股拋售加速 — 韓國Kospi第三次熔斷，亞洲市場信心脆弱。如果美股跟隨，可能引發更大調整。",
+        "加密貨幣系統性風險 — BTC跌穿$60K、多個平台被hack（Polymarket $2.9M、AscendEX提款問題）、Binance失去MiCA牌照。如果BTC跌穿$55K可能觸發更大拋售。",
+        "荷姆茲海峽供應風險 — 雖然油價下跌，但伊朗仍在攻擊貨船。UN暫停撤離行動。任何升級都可能令油價急彈。",
+        "核心服務通脹頑固 — 6M PCE 4.1%年化，2023年6月以來最高。聯儲局減息空間受限。",
+        "VW裁員漣漪效應 — 歐洲最大僱主之一裁員10萬，可能引發歐洲消費/銀行系統連鎖反應。"
+      ],
+      "my_take": "今日Asian/European session嘅核心故事係「risk-off擴散」：科技股由美股蔓延至亞洲（韓國Kospi第三次熔斷），加密貨幣全面崩跌（BTC $58K、ETH被Tether超越、$696M ETF流出），資金轉向美元（年內高位）同債券。\n\n三個重點：\n1. **科技股進入'Rough Summer'** — Apple加價、OpenAI IPO推遲、中國AI競爭加劇、AI基建vs應用資金輪動。多個負面催化劑疊加，科技板塊短期難有起色。ON Semiconductor $7B收購Synaptics係少數亮點，押注physical AI可能係下一浪嘅方向。\n2. **油價矛盾信號** — 伊朗攻擊貨船但油價照跌至$70以下，市場定價緊'和平溢價消退'多過'供應風險'。但荷姆茲海峽仍然脆弱：UN暫停撤離、伊朗警告未跟隨航線船隻。如果衝突升級，油價可能快速反彈。目前係short oil有道理但需要tight stop。\n3. **加密貨幣信心危機** — 唔單止係價格下跌，仲有多個平台安全問題（Polymarket hack、AscendEX提款、Binance失去MiCA）。市場信心受創。但如果BTC守住$55-58K區間，可能出現技術性反彈。\n\n策略上：短期偏向防守 — long美元(UUP)、long HVAC(CARR/JCI/TT)、selective long ON。減持科技/加密/黃金。等科技股穩定後再搵入場點。",
+      "key_takeaways": [
+        "科技股risk-off擴散至亞洲 — 韓國Kospi第三次熔斷，AI's Rough Summer",
+        "加密貨幣全面崩跌 — BTC $58K、$696M ETF流出、多個hack",
+        "油價矛盾 — 伊朗攻擊貨船但油價照跌至$70以下，市場定價和平>供應風險",
+        "ON Semiconductor $7B物理AI收購 — 少數科技亮點",
+        "歐洲熱浪破紀錄 — HVAC結構性受惠（CARR/JCI/TT）",
+        "美元年內高位 — 5大結構性原因支撐",
+        "核心服務通脹急升4.1% — 減息空間受限"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-26",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bearish-Neutral — Risk-off擴散，科技股+加密貨幣領跌，資金轉向value/債券",
+      "headlines": [
+        "韓國Kospi本週第三次熔斷 — 科技股沽壓蔓延亞洲",
+        "BTC跌穿$60K、ETH跌穿$1,600 — 加密貨幣信心危機",
+        "NVDA跌穿$200、QQQ週跌3.2% — 科技股Rough Summer",
+        "CARR/TT逆市破頂 — HVAC結構性受惠歐洲熱浪",
+        "FOMC堅定鷹派：Warsh「will deliver price stability」"
+      ],
+      "focus": [
+        "HVAC (CARR/TT) — structural long",
+        "ON Semiconductor — $7B physical AI acquisition",
+        "INTC — 科技股拋售潮中唯一強勢semi"
+      ],
+      "analysis": "## 🌍 隔夜市場\n\n### 美股（6月25日收盤）\nSPY收734.30（+0.14%），但全日走勢極波動 — 開盤738.91後急插至729.60，尾市V型反彈。QQQ收716.38（+0.81%），同樣由705.30低位彈起。DOW（DIA）收519.26（+0.14%）相對穩健。\n\n板塊分化極明顯：科技連續第四日被沽售（NVDA -2.5%、MSTR -9.3%），但HVAC/工業（CARR +2.6%、TT +4.2%）逆市大升。資金由growth轉value/defensive嘅rotation正在加速。\n\n本週至今：SPY -1.67%，QQQ -3.17%，DIA +0.73%。科技股係跌市火車頭。\n\n### 亞洲時段（6月26日）\n韓國Kospi本週第三次觸發熔斷！科技股沽壓由美股蔓延至亞洲全面爆發。加密貨幣崩跌主導亞洲risk-off情緒。\n\n### VIX & 債市\nVIX升至19.78（6月26日亞洲時段），由週一低位17.28急升。雖然未到panic level（>25），但上升速度值得關注。10年期美債息跌至4.41%（由4.51%回落）— 資金湧入債市避險。10Y-2Y spread維持0.31%，未有倒掛警號。\n\n### 美元 & 商品\n美元（UUP 28.48）維持年內高位。黃金（GLD 369.46）本週跌4.6% — 美元強勢直接壓制。油價（USO 109.31）跌4.8%，WTI跌穿$70。XOM（137.55）同CVX（172.24）相對抗跌，但仍在下行趨勢。\n\n### 加密貨幣\nBTC（$59,626）本週由$63,952跌6.8%，盤中曾見$58,076。ETH（$1,548）跌幅更深（-10.3%），低見$1,520。COIN（$142.52，-12.7%）同MSTR（$85.33，-24.2%）災難級跌幅。多平台安全漏洞+ETF流出$696M雙重打擊。\n\n## 📡 今日重點事件\n\n### Fed Context\n**6月17日FOMC：** 利率維持3.50-3.75%，12-0全票通過。Statement key signals:\n- 經濟\"expanding at a solid pace\"但\"elevated uncertainty\"（中東衝突）\n- 通脹\"remains elevated\"，特別點名能源供應衝擊\n- 最關鍵句子：\"The Committee will deliver price stability\" — 鷹派承諾，暗示唔會因為中東不確定性而提早減息\n- Warsh主席風格：簡潔、強硬、唔俾市場幻想空間\n\n**下次FOMC：** 7月28-29日。預計繼續hold。市場定價9月先有機會減息。\n\n**其他Fed事件：**\n- 6月24日銀行壓力測試：大型銀行全部過關，可承受嚴重衰退\n- 6月22日Alan Greenspan逝世\n\n**Fed Funds effective rate:** 3.63%，FOMC後維持穩定。\n\n### 經濟日曆\n今日（6月26日週五）無重大美國經濟數據發布。下週關注：無特別high-impact events在calendar。\n\n### 業績日曆\n季度業績季節已過。今日無重大earnings。\n\n### 地緣政治\n伊朗在荷姆茲海峽持續攻擊貨船 — 供應風險仍在，但市場明顯定價「不會全面衝突」。\n\n## 🔥 Sector Watch\n\n### 🔴 科技 — UNDER PRESSURE\nNVDA跌穿$200心理關口（195.74），本週-7.1%。AMD相對強勢（532.57，全週僅-0.9%），可能反映市場認為AMD在中國AI競爭中定位較好。INTC（132.87）受Trump本土製造政策支持，表現優於peer。QQQ本週-3.17%領跌，科技股正式進入\"Rough Summer\"。\n\n### 🟢 HVAC/氣候 — STRUCTURAL STRENGTH\n歐洲破紀錄熱浪推動：CARR +5.8%（76.00），TT +4.1%（503.46），JCI +0.5%（145.49）。呢個唔係短期trade — 全球暖化令HVAC變成結構性增長story。\n\n### 🟡 能源 — 矛盾信號\n油價跌但供應風險未消。伊朗攻擊貨船但WTI照跌穿$70 — 市場定價demand concern > supply risk。XOM/CVX相對抗跌，但整個sector缺乏catalyst。呢個係「等」嘅sector，唔係「trade」嘅sector。\n\n### 🔴 加密貨幣 — 信心危機\nBTC跌穿$60K。ETH跌穿$1,600。COIN/MSTR崩跌。ETF流出+安全漏洞+hack事件同時爆發。短期內唯一bull case係技術性超賣反彈 — 唔係fundamental turnaround。\n\n### 🔴 貴金屬 — 美元壓制\nGLD跌4.6%。美元強勢冇減弱跡象。黃金短期冇catalyst。\n\n### 🟢 國防/價值 — ROTATION WINNER\nDIA本週+0.73%，資金由科技轉向價值/防禦。呢個rotation可能先啱啱開始。\n\n## 🎯 Pre-market Opportunities\n\n### 📡 ON Semiconductor (ON) — $118.74\n**Catalyst:** $7B收購Synaptics（SYNA），押注physical AI。TAM由$30B擴至$243B（2030年）。\n**Bull case:** 收購係戰略性押注，physical AI係下一個AI浪潮。ON曾升至131.55後回調，現價低於消息前水平。\n**Bear case:** SYNA股價（125.62）暴跌反映市場唔buy呢單deal。收購溢價+整合風險。\n**My take:** 📡 WATCH。回調提供更好入場點，但要等deal terms明朗化。如果ON跌至$110-115水平且SYNA穩定，先考慮。\n\n### 📡 Apple (AAPL) / Microsoft (MSFT) — 定價權測試\n**Catalyst:** Apple加價近20%，Xbox跟隨。\n**Bull case:** 加價證明定價權強勁，margin可維持。\n**Bear case:** 在risk-off環境加價，消費者可能抵制。科技股拋售潮下，定價權故事暫時冇人聽。\n**My take:** 📡 WATCH。長線睇好定價權，但短期科技股拋售潮下呢個故事冇用。等科技股穩定先。\n\n### 📡 Intel (INTC) — $132.87\n**Catalyst:** 晶片業務復甦跡象 + Trump本土製造政策核心。\n**Bull case:** 本週跌幅輕微（-0.8%），相對NVDA/AMD表現強勢。政策面支持。\n**Bear case:** 復甦故事需要時間驗證。科技股整體下跌遲早拖累。\n**My take:** 📡 WATCH。INTC係唯一可以喺科技股拋售潮中hold住嘅semi name。如果科技股繼續跌但INTC保持$130以上，確認強勢。\n\n### ⚠️ Crypto exposed names (COIN/MSTR/IBIT) — AVOID\nCOIN（$142.52，-12.7%）、MSTR（$85.33，-24.2%）— 災難級跌幅。加密貨幣信心危機未見底。\n**My take:** ❌ PASS。唔好接刀。等BTC穩定喺$55-58K以上先考慮。\n\n### 🟢 HVAC trio (CARR/TT/JCI) — STRUCTURAL LONG\n歐洲熱浪+全球暖化趨勢。CARR +5.8%、TT +4.1%。\n**Bull case:** 結構性需求，唔係cyclical。任何pullback都係買入機會。\n**Bear case:** 已經升咗一浸，追高風險。\n**My take:** 🎯 OPPORTUNITY。CARR同TT係少數喺risk-off環境中仲有momentum嘅names。Pullback 2-3%就accumulate。\n\n### ⚠️ Oil (XOM/CVX/USO) — CONTRADICTORY\n油價跌但供應風險在。矛盾信號 = 唔trade。\n**My take:** 📡 WATCH only。如果伊朗局勢升級先考慮。\n\n## 📋 Today's Agenda\n\n### 本週Catalyst Schedule\n- ✅ 週一：無重大事件\n- ✅ 週二：無重大事件\n- ✅ 週三：Fed壓力測試結果（全部過關）\n- ✅ 週四：美國市場正常交易\n- 📌 週五（今日）：無重大數據。留意亞洲市場熔斷後續+歐洲熱浪headlines\n\n### Key Levels to Watch\n- **SPY support:** 729（6月25日低位）→ 725（50-day MA estimate）\n- **SPY resistance:** 740（心理關口）→ 747（上週高位）\n- **QQQ support:** 705（昨日低位）→ 700（心理關口）\n- **VIX:** 如果升穿22 → risk-off加速警號\n\n### 下週Preview\n- 7月28-29日FOMC（下個月，唔係下週）\n- 下週暫無重大known catalyst\n- 重點睇科技股會唔會繼續擴散risk-off去其他sector\n\n## 💡 My Take\n\n**Overall bias: Bearish-Neutral（短期）**\n\n市場進入risk-off擴散階段。科技股沽壓由美股蔓延至亞洲（韓國熔斷），加密貨幣全面崩跌，資金湧入美元同債券。呢個唔係panic，而係有序嘅de-risking — VIX 19.78未到panic level。\n\n三個重點：\n\n1. **科技股「Rough Summer」確認。** NVDA跌穿$200、QQQ -3.17%本週、韓國熔斷。Warsh嘅鷹派Fed令growth stocks估值受壓。但AMD同INTC相對強勢，顯示市場在選擇性減持而非全面panic。\n\n2. **Rotation, not crash。** DIA逆市升、HVAC names破頂、資金轉向債券。呢個係sector rotation而唔係系統性風險。關鍵問題：rotation會唔會加速變成全面sell-off？\n\n3. **加密貨幣係最大風險。** BTC跌穿$60K、ETH跌穿$1,600、MSTR -24%。如果週末加密貨幣繼續跌，下週一美股開市可能引發margin call連鎖反應。\n\n**今日策略：**\n- 🟢 **Long:** HVAC（CARR/TT）— 唯一有momentum + structural story嘅sector\n- 📡 **Watch:** ON（等回調）、INTC（確認強勢）、XOM/CVX（等伊朗升級）\n- 🔴 **Avoid:** 加密貨幣exposed names、NVDA（等$185-190先考慮）、黃金\n- 💵 **防禦：** 美元現金 + 債券係最安全嘅parking spot\n\n**What changes my mind:**\n- VIX升穿25 → 全面risk-off，轉all-cash\n- BTC守唔住$55K → 加密貨幣危機可能傳染股市\n- 伊朗局勢升級 → 油價急升，能源股轉為opportunity",
+      "risks": [
+        "加密貨幣崩跌傳染股市 — BTC若失守$55K",
+        "VIX升穿22 → risk-off加速",
+        "科技股拋售擴散至value/defensive sectors",
+        "伊朗荷姆茲衝突升級 — 供應鏈中斷"
+      ],
+      "my_take": "短期Bearish-Neutral。Risk-off擴散中但非panic — VIX 19.78、DIA逆市升反映rotation而非crash。\n\n三個關鍵信號：(1) 科技股Rough Summer確認，NVDA跌穿$200；(2) HVAC係唯一有momentum嘅long idea；(3) 加密貨幣信心危機係最大tail risk — BTC $55K係關鍵防守線。\n\n策略：long HVAC (CARR/TT)，watch ON/INTC，avoid crypto names。如果VIX升穿25或BTC跌穿$55K → 轉全面防禦。"
     }
   ],
   "news_curator": [
