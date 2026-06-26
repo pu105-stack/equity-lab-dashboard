@@ -1626,6 +1626,81 @@
         "DXY持續強勢 → 新興市場及大宗商品進一步受壓"
       ],
       "my_take": "Cautiously Bullish — MU Q3盈利暴增15倍主導今日市場，資金從debasement trade（黃金、BTC）輪動至AI earnings growth。PCE前夕市場已定價較多鷹派，surprise potential偏向上行。MU能否守住$1,180為今日關鍵。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-26",
+      "time": "08:08 HKT",
+      "status": "success",
+      "market_direction": "謹慎偏淡 —— PCE通脹黏性超預期，Fed加息風險升溫；地緣政治（荷姆茲海峽）推高油價不確定性；BTC創年內新低反映risk-off情緒；但AI/晶片股M&A（ON/SYNA）提供結構性支撐",
+      "headlines": [
+        "ON Semiconductor 以$7B收購Synaptics，押注physical AI —— 晶片股重大M&A",
+        "Wendy's meme rally 第二日熄火 —— 散戶熱情未能延續，WEN轉跌",
+        "Eli Lilly 減肥藥出現「神秘事件」—— STAT News 調查報導，可能影響tirzepatide銷售",
+        "FedEx Freight 公布Q4業績 —— 貨運需求指標",
+        "Chemours 以$450M和解首宗聯邦PFAS訴訟 —— 化工監管風險定價",
+        "NVDA 技術分析：$192入場目標$260 —— TradingView busted head & shoulders setup",
+        "PLTR 從高位回落48.7%，但仍被認為估值偏高 —— 持續調整風險",
+        "Coinbase Base區塊鏈中斷兩小時後恢復 —— 可靠性疑慮再起",
+        "JPMorgan 高層大洗牌：Doug Petno & Troy Rohrbaugh 任co-presidents，Marianne Lake離職",
+        "Bitcoin 創2026年新低，power-law model指向$58K為「正常」回調",
+        "伊朗襲擊荷姆茲海峽貨船，航運中斷 + OPEC失控風險，油價或見$50以下",
+        "Fed加息風險升溫：核心PCE升至三年高位，Goolsbee稱通脹「太高」",
+        "歐洲熱浪破紀錄：36.7°C高溫，法國警告年輕人亦有健康風險 —— HVAC/冷氣需求"
+      ],
+      "opportunities": [
+        "🎯 ON/SYNA $7B收購 — physical AI戰略押注，晶片板塊M&A熱潮持續",
+        "📡 WEN meme rally — 散戶熱情Day 2熄火，但meme股波動性係Viper可trade",
+        "⚠️ LLY 減肥藥調查 — 若負面消息發酵，可能影響$30B+ franchise估值",
+        "⚠️ BTC $58K target — power-law指向更深回調，crypto sentiment脆弱",
+        "📡 荷姆茲海峽/OPEC — 油價雙向風險：供應中斷vs.OPEC定價權瓦解",
+        "🎯 歐洲熱浪 — HVAC plays (CARR/JCI/TT) 季節性利好，氣候變遷長期主題"
+      ],
+      "analysis": "本日scan 179篇RSS文章，篩選出13條有交易含義的 headlines。宏觀主導：PCE通脹黏性+ Fed加息風險壓制risk appetite。地緣政治升溫（荷姆茲海峽）。唯一亮點係AI/晶片M&A（ON/SYNA），顯示physical AI theme持續有資金追捧。Crypto弱勢（BTC新低），meme股（WEN）散戶熱情短暫。歐洲熱浪提供季節性HVAC trade。整體建議：defensive positioning，關注Fed講話及荷姆茲局勢發展。",
+      "risks": [
+        "Fed加息預期升溫 — PCE 3年高位，債券ETF資金湧入反映市場避險",
+        "BTC新低 + Coinbase中斷 — crypto生態系統脆弱性疊加",
+        "S&P 500 關鍵技術位 — MarketWatch指若跌破將引發更大跌幅",
+        "地緣風險 — 荷姆茲海峽緊張升級，伊朗直接攻擊貨船"
+      ],
+      "my_take": "今日市場被兩股力量拉扯：① macro headwind（PCE黏性、Fed加息風險）壓制大市；② structural AI demand（ON收購SYNA押注physical AI）提供底部支撐。荷姆茲海峽事件令油價出現雙向風險——供應中斷利多但OPEC定價權瓦解利空，XOM/CVX宜watch唔急trade。BTC創新低反映risk-off資金流出crypto，MSTR相關性增強但方向向下。WEN meme trade Day 2失敗證明散戶熱情短暫，Viper可以day trade但唔hold。歐洲熱浪係最clean嘅seasonal play：CARR/JCI/TT。",
+      "key_takeaways": [
+        "ON Semiconductor $7B收購Synaptics 係今日最大單一 catalyst — physical AI theme 值得Deep Dive",
+        "WEN meme trade Day 2失敗，但meme股波動性為Viper提供day trade機會",
+        "Fed加息風險係目前最大macro headwind，PCE數據黏性超預期",
+        "BTC創新低 + Coinbase outage — crypto板塊短期宜觀望",
+        "歐洲熱浪係季節性trade機會，HVAC供應鏈（CARR/JCI/TT）"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-26",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "🔴 謹慎偏淡 — PCE黏性超預期dominate session，defensive rotation全面確認，Tech/Semis被macro overshadowed",
+      "headlines": [
+        "PCE核心通脹三年高位：Goolsbee稱「太高」，打破MU/QCOM earnings樂觀情緒",
+        "MU +15.8%但盤中fade：盈利暴增15倍不敵macro headwind",
+        "QCOM +3.8%但日內-6.35%：Meta deal catalyst被完全overshadowed",
+        "MSTR -9.35%（一周-22%）：BTC創新低，crypto risk appetite崩潰",
+        "TT +4.20% CARR +2.62%：HVAC季節性主題完美兌現，歐洲熱浪破紀錄",
+        "Defensive rotation確立：XLV +3.71% weekly, XLU +2.53%, XLP +2.14%"
+      ],
+      "opportunities": [
+        "TT: HVAC leader突破$500，歐洲熱浪+氣候變遷tailwind，non-correlated alpha",
+        "CARR: HVAC追落後標的，$76相對TT仍有估值折讓",
+        "NVDA: $192 technical entry已touch，等macro calm down後monitor bounce",
+        "FDX: Q4 beat +3.98%，作macro health check indicator"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n本周宏觀焦點：6月25日公布嘅5月核心PCE升至三年高位，Goolsbee明言通脹「太高」。10Y yield Jun 24回落至4.41%（PCE公布前），但PCE數據公布後市場risk-off情緒明顯——defensive sectors全面跑贏。下次FOMC係7月28-29日，距今超過一個月，暫時冇即時加息風險，但hawkish rhetoric正在升溫。Fed stress test（Jun 24）全線通過冇驚喜，bank股反應平淡，JPM盤中+2.5%但收市打回原形。\n\n## 📊 Market Recap\n\nSPY -0.62%（734.30）、QQQ -1.31%（716.38）、DIA -0.37%（519.26）。VIX收18.89，盤中一度觸及19.95。S&P 500一周跌1.54%，Nasdaq 100一周跌2.92%，唯獨Dow一周微升0.42%。\n\n關鍵係盤中走勢：三大指數全部高開（MU/QCOM earnings euphoria延續AH升勢），但PCE數據公布後全線回落。SMH半導體ETF由開盤649.48直插至613.93日低，收636.88（日內-1.94%）。\n\n**Sector rotation極度明確——defense全面接管：**\n- 🟢 XLV +1.09%（一周+3.71%）— Healthcare全面領漲\n- 🟢 XLU +0.42%（一周+2.53%）— Utilities資金避險\n- 🟢 XLE +1.67% — 荷姆茲海峽推高能源，但一周僅+0.06%\n- 🟢 XLI +1.03%（一周+1.28%）— Industrials韌性\n- 🔴 XLK -1.90%（一周-3.94%）— Tech被PCE重創\n- 🔴 SMH -1.94%（一周-4.79%）— 半導體成重災區\n- 🔴 XLY -1.13%（一周-1.38%）— Consumer Discretionary沽壓\n\nBreadth signal：IWM -0.20%（一周+0.24%），small caps相對平穩，唔係全面panic，而係targeted tech selloff。\n\n## 🔥 Notable Movers\n\n**MU $1213.56（日-1.60%，但較前收+15.8%）**：Q3盈利暴增15倍、HBM sold out至2027+，盤前gap up +17.6%，但PCE數據後全線fade。AH嘅+18%升幅喺regular session被蠶食近半——呢個係macro over micro嘅教科書級案例。基本面冇問題，但valuation已經反映晒。\n\n**QCOM $204.90（日-6.35%，較前收僅+3.8%）**：Meta data center deal確認，盤前gap up +10.8%到$218.80，然後全日單邊向下。一周跌7.66%。Meta catalyst被PCE overshadowed——市場唔肯俾premium。\n\n**MSTR $85.33（日-9.35%，一周-22.04%）**：Crypto exposure全面潰敗。BTC創2026新低，MSTR由6月18日$112.53直插至$85.33——13個交易日跌24%。呢個唔止係crypto問題，係risk appetite indicator。\n\n**NVDA $195.74（日-1.64%，一周-6.19%）**：日低$192.13，剛好touch News Curator提嘅$192 technical entry。一周由$208.65跌落嚟。Busted head & shoulders setup仍然喺度，但要PCE塵埃落定先有機會反彈。\n\n**PLTR $107.27（日-5.49%，一周-10.23%）**：由高位回落超過50%，估值仍然被質疑。Defense/AI thematic冇辦法抵擋macro selloff。\n\n**TT $503.46（日+4.20%）**：HVAC leader連續兩日強勢，歐洲熱浪主題最直接受益者。CARR +2.62%、JCI +1.86%同步。呢個係最clean嘅non-tech alpha。\n\n**JPM $335.12（日+0.52%，盤中高見$343.45）**：Stress test過關 + 高層大洗牌（Petno & Rohrbaugh任co-presidents，Marianne Lake離職）。盤中+2.5%後fade——management shakeup嘅uncertainty offset咗stress test利好。\n\n**FDX $329.44（日+3.98%）**：Q4 earnings beat，貨運需求指標正面。值得monitor作macro health check。\n\n**ON $118.74（日-1.86%）/ SYNA $125.62（日-8.29%）**：$7B收購案市場用腳投票——ON開+4.5%後轉跌，SYNA開+5.3%後倒插8.3%。Physical AI story未能說服市場，price tag被質疑。\n\n## 📰 News That Mattered\n\n**PCE通脹黏性超預期**：今日最大catalyst。核心PCE三年高位，即時打破咗MU/QCOM earnings帶嚟嘅樂觀情緒。Goolsbee「通脹太高」言論確認Fed hawkish stance。呢個改變咗short-term narrative：由「AI earnings beat」轉為「rates going higher for longer」。\n\n**Fed Stress Test全線通過**：理論上利好，但市場消化晒。JPM $500億回購、GS提高股息——但bank股反應克制。\n\n**伊朗襲擊荷姆茲海峽貨船**：XLE +1.67%係今日表現最佳sector。但油價bid並非一面倒——OPEC內部分裂風險同時存在，News Curator指出「油價或見$50以下」嘅可能性。雙向risk，XOM/CVX唔適合大注。\n\n**BTC創新低+Coinbase中斷**：Crypto ecosystem vulnerability疊加。Base區塊鏈中斷兩小時後恢復，但信任已受損。\n\n**News Curator call review：**\n- ✅ 歐洲熱浪HVAC play — 完美命中（CARR +2.62%, TT +4.20%）\n- ✅ WEN meme Day 2熄火 — 完美命中（WEN -6.74%）\n- ✅ BTC弱勢 — 命中（MSTR -9.35%）\n- ⚠️ ON/SYNA M&A — 判斷偏樂觀，市場反應負面\n- ⚠️ LLY調查 — 暫冇影響（LLY +0.06%，整周+2.32%）\n\n## 🎯 Opportunities Carry Forward\n\n**TT/CARR/JCI — HVAC季節性主題**：歐洲熱浪破紀錄（36.7°C），法國警告健康風險。氣候變遷係長期tailwind，唔係一次性event。TT今日+4.20%突破$500心理關口，momentum強勁。CARR +2.62%相對落後，有追落後空間。呢個theme唔受PCE影響——係pure non-correlated alpha。\n\n**NVDA $192 level watch**：已經touch咗TradingView嘅busted H&S entry target。如果下星期PCE塵埃落定、冇新hawkish surprise，呢個位有bounce潛力。但要等confirm——唔好急。\n\n**FDX macro health check**：Q4 earnings beat +3.98%，freight demand係real economy indicator。如果FDX繼續強勢，會削弱hard landing narrative。\n\n**Defensive rotation monitor**：XLV/XLP/XLU連續跑贏唔係random——係機構資金rotate out of tech。呢個trend值得respect，直至PCE data出現轉機。\n\n## ⚠️ Risks / Watchlist\n\n**PCE aftermath**：今晚到下周初，PCE數據會繼續被消化。如果周一開市繼續sell，tech可能會加速下跌。關鍵係有冇Fed speaker出嚟降溫。\n\n**周末地緣風險**：荷姆茲海峽局勢隨時升級。伊朗若封鎖海峽，油價會spike——但OPEC內部分裂可能limit upside。Brent crude雙向tail risk。\n\n**Crypto weekend risk**：BTC周末流動性低，容易出現flash crash。MSTR周一可能gap down。\n\n**QCOM/MU fade risk**：兩個earnings catalyst都被PCE overshadowed。如果macro繼續惡化，呢兩隻嘅「earnings beat」溢價可能會完全蒸發——QCOM已經由盤前高位跌超過6%。\n\n**ON/SYNA deal risk**：市場冇俾green light。如果下星期繼續跌，可能反映市場質疑deal會唔會close。\n\n## 💡 My Take\n\n今日個市係教科書級嘅「macro over micro」——MU Q3盈利暴增15倍、QCOM confirm Meta deal，兩個structural AI catalyst都頂唔住一個PCE data point。呢個信號好清楚：短期內macro係dominant factor，stock-picking要等PCE塵埃落定。\n\nDefensive rotation唔係noise——XLV +3.71% weekly、XLU +2.53%、XLP +2.14%，係機構資金嘅明確方向。與其對抗呢個trend，不如lean into it：HVAC seasonality（TT/CARR/JCI）係同時有defensive屬性又有growth catalyst嘅sweet spot。\n\nNVDA $192係值得monitor嘅entry位，但要等macro calm down先action。Crypto exposure（MSTR）係最危險嘅value trap——BTC創新低疊加Coinbase infrastructure風險，呢個sector暫時係no-touch zone。\n\nOverall bias：短期謹慎偏淡，直至PCE被市場完全消化。Opportunity集中喺non-tech、non-crypto、defensive-growth交界（HVAC、select healthcare）。Tech/semis等待capitulation signal先入場。",
+      "risks": [
+        "PCE aftermath — 下周初若繼續sell，tech加速下跌",
+        "周末荷姆茲海峽升級風險 — 油價雙向tail risk",
+        "Crypto weekend flash crash risk — MSTR周一gap down",
+        "QCOM/MU fade risk — earnings溢價可能完全蒸發",
+        "ON/SYNA deal skepticism — 市場未俾green light"
+      ],
+      "my_take": "PCE黏性超預期 dominate咗成個session——MU盈利暴增15倍都頂唔住。Defensive rotation全面確認：XLV +3.71% weekly、XLU +2.53%。短期內macro > micro，要等PCE塵埃落定先可以買tech dip。HVAC seasonality（TT +4.20%、CARR +2.62%）係最clean嘅non-correlated alpha。NVDA $192值得monitor但要等confirm。Crypto exposure繼續避開。"
     }
   ],
   "news_curator": [
