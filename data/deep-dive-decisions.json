@@ -6,14 +6,7 @@
       "updated_at": "2026-06-26",
       "reasoning": "Warsh取消dot plot+forward guidance，BofA預測今年3次加息。核心PCE升至3年高位（4.1%年化），Goolsbee直言通脹\"太高\"。Duration risk極大——July 29 FOMC若加息將引發債市重定價。",
       "source": "⚠️ 風險"
-    },
-    {
-      "ticker": "XLE",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "Bull: 伊朗仍攻擊荷姆茲貨船、和平協議脆弱、short oil crowded→squeeze risk。Bear: 油價跌穿$70完全抹去戰爭溢價、OPEC內部分裂（伊拉克威脅退出、UAE已走）、供應正常化。雙向風險極大。",
-      "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-06-27T12:20:28.040882+08:00"
+  "last_synced": "2026-06-27T12:25:27.738133+08:00"
 }
