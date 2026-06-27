@@ -1,12 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "TLT",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "Warsh取消dot plot+forward guidance，BofA預測今年3次加息。核心PCE升至3年高位（4.1%年化），Goolsbee直言通脹\"太高\"。Duration risk極大——July 29 FOMC若加息將引發債市重定價。",
-      "source": "⚠️ 風險"
-    }
-  ],
-  "last_synced": "2026-06-27T12:25:27.738133+08:00"
+  "decisions": [],
+  "last_synced": "2026-06-27T12:27:24.096295+08:00"
 }
