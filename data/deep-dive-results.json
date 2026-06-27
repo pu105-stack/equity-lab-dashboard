@@ -255,14 +255,14 @@
     {
       "ticker": "MU",
       "verdict": "BUY",
-      "conviction": "High7.5/10",
-      "upside": "+31.3%",
+      "conviction": "High",
+      "upside": "+32.5%",
       "status": "done",
-      "completed_at": "2026-06-20 12:10:00",
-      "analysis": "AI記憶體超級週期核心標的：美光HBM3E獨家供應NVIDIA，營收成長196%、ROE 39.8%，但Forward PE僅9.9x/PEG 0.36為全AI半導體最低。毛利率從FY2023 -9.1%結構性升至74.4%，淨現金$31億。催化劑密集(Q3財報/DDR5價格/NVIDIA量產)。機率加權公平價值$1,489，潛在上漲31%。核心風險為記憶體週期反轉，但極低估值提供安全邊際。",
-      "catalyst": "Q3 FY2026財報（預估EPS $20.05，可能大幅超越預期）— 2026年6-7月, Forward PE 9.9x估值重估至15-18x — 潛在50-100%倍數擴張, NVIDIA Blackwell/GB300全面量產 — 每顆GPU需6-8顆HBM3E, DDR5價格持續攀升 — Apple CEO背書記憶體短缺結構性, HBM4路線圖公告（2026下半年）— 鞏固技術領導地位, FY2027財年展望（2026年9-10月）— 分析師初估EPS $117.95, 新hyperscaler Design Win — Google TPU/Amazon Trainium/Microsoft Maia",
+      "completed_at": "2026-06-27 12:05:27",
+      "analysis": "買入 | 信心度：高 | 公允價值,500 (+32.5%) | Forward PE僅7.6x為AI半導體最便宜 | HBM供應緊張至beyond 2027 | FY2026 Q3單季淨利8.24B超越FY2025全年",
+      "catalyst": "FY2026 Q4財報(2026年9月), HBM3E 12-hi量產, NVIDIA Rubin平台HBM4規格確認, SK Hynix Nasdaq上市, 分析師目標價上調",
       "risk_reward": "",
-      "rationale": "AI記憶體超級週期核心標的：美光HBM3E獨家供應NVIDIA，營收成長196%、ROE 39.8%，但Forward PE僅9.9x/PEG 0.36為全AI半導體最低。毛利率從FY2023 -9.1%結構性升至74.4%，淨現金$31億。催化劑密集(Q3財報/DDR5價格/NVIDIA量產)。機率加權公平價值$1,489，潛在上漲31%。核心風險為記憶體週期反轉，但極低估值提供安全邊際。"
+      "rationale": "買入 | 信心度：高 | 公允價值,500 (+32.5%) | Forward PE僅7.6x為AI半導體最便宜 | HBM供應緊張至beyond 2027 | FY2026 Q3單季淨利8.24B超越FY2025全年"
     },
     {
       "ticker": "NEE",
@@ -291,14 +291,14 @@
     {
       "ticker": "NVDA",
       "verdict": "BUY",
-      "conviction": "High8.5/10",
-      "upside": "+34.8%",
+      "conviction": "High",
+      "upside": "+28.6%",
       "status": "done",
-      "completed_at": "2026-06-20 12:14:49",
-      "analysis": "AI時代核心壟斷者：NVIDIA以CUDA生態鎖定500萬+開發者，AI GPU市佔>90%，一年一代產品節奏確保競爭差距持續擴大。營收成長85%、EPS成長215%、淨利率63%、ROE 114%、FCF $967億、淨現金$528億 — 史上最優質財務檔案。但市場以Forward PE 16.55x/PEG 0.65錯誤定價（遠低於同業AMD 41x/MRVL 50x）。機率加權公平價值$284，潛在上漲35%。核心風險為AI Capex放緩，但目前無證據 — hyperscaler Capex指引持續上修。Blackwell量產、Vera/Rubin路線圖、AI筆電新市場、回購加速構成多重催化。建議核心倉位8-12%。",
-      "catalyst": "Q2 FY2027財報（2026年8月）— 預估營收$91.73B、EPS $2.08，可能連續第5季超預期, Blackwell Ultra (B300/B200 Ultra) 發布 — 2026年下半年，記憶體和頻寬升級鞏固技術領先, Forward PE 16.55x估值重估至20-25x — 潛在50%+估值倍數擴張空間, Vera/Rubin下一代架構路線圖公告 — 延伸技術領先能見度至2029-2030, NVIDIA AI筆電計劃（MediaTek合作）— 開闢$300-500億新TAM, FY2028分析師預估EPS $12.73 — 若實際達$15-18，Forward PE將降至11.7-14.0x, Sovereign AI國家級AI基礎建設需求 — 日本、新加坡、印度、中東等, 股份回購加速 — FY2026 $400億，FY2027可能達$800-1000億+",
+      "completed_at": "2026-06-27 12:06:04",
+      "analysis": "NVDA是全球最優質的AI基礎設施壟斷者，Forward P/E 15.1x被嚴重低估。儘管面臨客戶自研晶片和AI CapEx週期見頂風險，4.1:1風險回報比和CUDA護城河使$192價位具極大安全邊際。公允價值區間$240-$280。",
+      "catalyst": "FY2026 Q1財報（2026年8月）— 最關鍵短期催化劑, FOMC 7月28-29日會議 — 利率路徑信號, Blackwell Ultra (B300) 量產爬坡 — H2 2026, Rubin架構發布 — 2027年初, SIGGRAPH 2026 (8月) — 新產品展示, 主權AI項目持續落地（日本/新加坡/中東）, 企業AI採用從hyperscaler擴散至Fortune 500",
       "risk_reward": "",
-      "rationale": "AI時代核心壟斷者：NVIDIA以CUDA生態鎖定500萬+開發者，AI GPU市佔>90%，一年一代產品節奏確保競爭差距持續擴大。營收成長85%、EPS成長215%、淨利率63%、ROE 114%、FCF $967億、淨現金$528億 — 史上最優質財務檔案。但市場以Forward PE 16.55x/PEG 0.65錯誤定價（遠低於同業AMD 41x/MRVL 50x）。機率加權公平價值$284，潛在上漲35%。核心風險為AI Capex放緩，但目前無證據 — hyperscaler Capex指引持續上修。Blackwell量產、Vera/Rubin路線圖、AI筆電新市場、回購加速構成多重催化。建議核心倉位8-12%。"
+      "rationale": "NVDA是全球最優質的AI基礎設施壟斷者，Forward P/E 15.1x被嚴重低估。儘管面臨客戶自研晶片和AI CapEx週期見頂風險，4.1:1風險回報比和CUDA護城河使$192價位具極大安全邊際。公允價值區間$240-$280。"
     },
     {
       "ticker": "ORCL",
@@ -397,5 +397,5 @@
       "rationale": "\n═══════════════════════════════════════════════════════════════════════════════\n   🛢️ XLE (Energy Select Sector SPDR ETF) 深度分析 — 美國能源板塊\n   日期：2026-06-19 ｜ 分析師：Hermes Agent 深度分析引擎\n   當前XLE股價：$53.77 ｜ WTI原油：$76.54/桶 ｜ 本週變動：-1.6%（從$54.67跌至$53.77）\n   AUM：~$387億 ｜ PE(TTM)：20.09 ｜ 股息率：2.65%\n   決策：WATCH（觀望）— 短期伊朗逆風 vs 長期結構性供應約束\n   觸發事件：伊朗和平協議→WTI暴跌$7 + SPR回補需求 + 能源深度價值\n═══════════════════════════════════════════════════════════════════════════════\n\n╔════════════════════════════════════════════════════"
     }
   ],
-  "last_synced": "2026-06-27T06:02:42.296803+08:00"
+  "last_synced": "2026-06-27T12:06:07.668638+08:00"
 }
