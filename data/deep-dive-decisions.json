@@ -29,13 +29,6 @@
       "source": "⚠️ 風險"
     },
     {
-      "ticker": "GLD",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "黃金跌穿$4,000至7個月低位，DXY年內高位（101+），Goldman下調目標$500。\"Debasement trade\"全面unwind。PCE數據若繼續偏高，$3,800為下一支持。美元強勢+加息預期雙重壓制。",
-      "source": "⚠️ 風險"
-    },
-    {
       "ticker": "BTC",
       "status": "deep_dive",
       "updated_at": "2026-06-26",
@@ -57,5 +50,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-27T12:07:20.365804+08:00"
+  "last_synced": "2026-06-27T12:10:57.723962+08:00"
 }
