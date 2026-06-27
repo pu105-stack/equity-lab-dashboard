@@ -8,13 +8,6 @@
       "source": "🎯 機會"
     },
     {
-      "ticker": "RKLB",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "Rocket Lab參與SpaceX軍事太空激光衛星項目，國防narrative成形。太空國防開支持續擴大，軍事合約利潤率高。但SpaceX IPO崩盤（$400B蒸發）嘅sentiment spillover可能拖累整個太空板塊。",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "TLT",
       "status": "deep_dive",
       "updated_at": "2026-06-26",
@@ -22,10 +15,10 @@
       "source": "⚠️ 風險"
     },
     {
-      "ticker": "BTC",
+      "ticker": "RKLB",
       "status": "deep_dive",
       "updated_at": "2026-06-26",
-      "reasoning": "BTC跌至$58K創2026年新低，ETF錄$696M單日流出，Tether事件+多個hack打擊信心。但power-law model指向$58K為\"正常\"回調，極端悲觀情緒可能形成逆向機會。MSTR相關性高，BTC跌穿$55K將觸發更大去槓桿。",
+      "reasoning": "Rocket Lab參與SpaceX軍事太空激光衛星項目，國防narrative成形。太空國防開支持續擴大，軍事合約利潤率高。但SpaceX IPO崩盤（$400B蒸發）嘅sentiment spillover可能拖累整個太空板塊。",
       "source": "📡 值得關注"
     },
     {
@@ -43,5 +36,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-27T12:11:43.813273+08:00"
+  "last_synced": "2026-06-27T12:13:03.836091+08:00"
 }
