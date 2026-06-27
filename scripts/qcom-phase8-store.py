@@ -76,11 +76,8 @@ print(f"  ✅ deep_dive_results INSERTED")
 print(f"\n📊 Inserting into pipeline_reports for {ticker}...")
 try:
     cur.execute("""
-        INSERT INTO pipeline_reports (ticker, full_analysis, embedding, created_at)
+        INSERT INTO pipeline_reports (ticker, content, embedding, created_at)
         VALUES (%s, %s, %s, %s)
-        ON CONFLICT (ticker, created_at) DO UPDATE SET
-            full_analysis = EXCLUDED.full_analysis,
-            embedding = EXCLUDED.embedding
     """, (ticker, full_analysis, embedding_list, NOW))
     print(f"  ✅ pipeline_reports INSERTED")
 except Exception as e:
@@ -88,7 +85,7 @@ except Exception as e:
     print(f"  ⚠️ First attempt failed: {e}")
     try:
         cur.execute("""
-            INSERT INTO pipeline_reports (ticker, full_analysis, embedding, created_at)
+            INSERT INTO pipeline_reports (ticker, content, embedding, created_at)
             VALUES (%s, %s, %s, %s)
         """, (ticker, full_analysis, embedding_list, NOW))
         print(f"  ✅ pipeline_reports INSERTED (no conflict clause)")

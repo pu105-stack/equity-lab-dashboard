@@ -15,13 +15,6 @@
       "source": "⚠️ 風險"
     },
     {
-      "ticker": "RKLB",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "Rocket Lab參與SpaceX軍事太空激光衛星項目，國防narrative成形。太空國防開支持續擴大，軍事合約利潤率高。但SpaceX IPO崩盤（$400B蒸發）嘅sentiment spillover可能拖累整個太空板塊。",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "XLE",
       "status": "deep_dive",
       "updated_at": "2026-06-26",
@@ -29,5 +22,5 @@
       "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-06-27T12:18:52.270846+08:00"
+  "last_synced": "2026-06-27T12:19:12.343112+08:00"
 }
