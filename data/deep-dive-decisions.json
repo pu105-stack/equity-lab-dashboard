@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "CARR",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "歐洲破紀錄熱浪（法國36.7°C、英國電網£10M額外購電）推動HVAC結構性需求。CARR/TT/JCI全線上升，TT單日+4.2%。氣候變遷長期主題+季節性催化，最clean嘅non-AI trade。",
-      "source": "🎯 機會"
-    },
-    {
       "ticker": "QCOM",
       "status": "deep_dive",
       "updated_at": "2026-06-26",
@@ -50,5 +43,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-06-27T12:10:57.723962+08:00"
+  "last_synced": "2026-06-27T12:11:43.813273+08:00"
 }
