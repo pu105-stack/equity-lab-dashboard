@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "QCOM",
-      "status": "deep_dive",
-      "updated_at": "2026-06-26",
-      "reasoning": "數據中心晶片pivot獲Meta確認為首個客戶，非手機收入指引翻倍（2029年目標）。股價+15%後仍低於AVGO/NVDA估值，市場正由\"成熟手機晶片商\"重新定價為\"AI/數據中心玩家\"。",
-      "source": "🎯 機會"
-    },
-    {
       "ticker": "TLT",
       "status": "deep_dive",
       "updated_at": "2026-06-26",
@@ -22,5 +15,5 @@
       "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-06-27T12:19:12.343112+08:00"
+  "last_synced": "2026-06-27T12:20:28.040882+08:00"
 }

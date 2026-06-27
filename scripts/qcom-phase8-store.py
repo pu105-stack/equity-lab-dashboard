@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
 Phase 8: Store QCOM deep dive results into DB + sync JSON files.
+Fixed: commit after each operation to prevent rollback cascade.
 """
 import json, sys, os
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date
 
 HKT = timezone(timedelta(hours=8))
 NOW = datetime.now(HKT)
+TODAY = NOW.date()
 
 # ── The complete analysis ──
 with open('/workspace/docker-data/equity-lab-dashboard/data/qcom-deep-dive-analysis.txt', 'r') as f:
@@ -15,7 +17,7 @@ with open('/workspace/docker-data/equity-lab-dashboard/data/qcom-deep-dive-analy
 # ── Data to store ──
 ticker = 'QCOM'
 decision = 'BUY'
-conviction = 'Med-Hi 7.0'  # varchar(10) limit
+conviction = 'Med-Hi 7.0'
 fair_value = 195.52
 upside_pct = 3.2
 verdict_summary = """BUY — 中等偏高信心 (7.0/10)。Qualcomm正經歷從「成熟手機晶片商」到「AI基礎設施公司」的歷史性重新定價。
@@ -43,65 +45,68 @@ key_catalysts = [
 print("Generating 384-dim embedding with fastembed...")
 from fastembed import TextEmbedding
 embed_model = TextEmbedding(model_name="BAAI/bge-small-en-v1.5")
-embedding = list(embed_model.embed([full_analysis[:8000]]))[0]  # truncate to 8000 chars
+embedding = list(embed_model.embed([full_analysis[:8000]]))[0]
 embedding_list = [float(x) for x in embedding]
 print(f"  ✅ Embedding generated: {len(embedding_list)} dimensions")
 
-# ── Connect to DB ──
 import psycopg2
-conn = psycopg2.connect(
-    host="host.docker.internal", port=5432,
-    dbname="equity-db", user="tradus371",
-    password="QuantLab2026!"
-)
-cur = conn.cursor()
 
-# 1. INSERT into deep_dive_results
-print(f"\n📊 Inserting into deep_dive_results for {ticker}...")
-cur.execute("""
-    INSERT INTO deep_dive_results (ticker, decision, conviction, verdict, 
-        fair_value, upside_pct, key_catalysts, completed_at)
-    VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-    ON CONFLICT (ticker, completed_at) DO UPDATE SET
-        decision = EXCLUDED.decision,
-        conviction = EXCLUDED.conviction,
-        verdict = EXCLUDED.verdict,
-        fair_value = EXCLUDED.fair_value,
-        upside_pct = EXCLUDED.upside_pct,
-        key_catalysts = EXCLUDED.key_catalysts
-""", (ticker, decision, conviction, verdict_summary, fair_value, upside_pct, key_catalysts, NOW))
-print(f"  ✅ deep_dive_results INSERTED")
+def get_conn():
+    return psycopg2.connect(
+        host="host.docker.internal", port=5432,
+        dbname="equity-db", user="tradus371",
+        password="QuantLab2026!"
+    )
 
-# 2. INSERT into pipeline_reports
-print(f"\n📊 Inserting into pipeline_reports for {ticker}...")
+# ── 1. INSERT into deep_dive_results ──
+print(f"\n📊 [1/3] Inserting into deep_dive_results for {ticker}...")
 try:
+    conn = get_conn()
+    cur = conn.cursor()
     cur.execute("""
-        INSERT INTO pipeline_reports (ticker, content, embedding, created_at)
-        VALUES (%s, %s, %s, %s)
-    """, (ticker, full_analysis, embedding_list, NOW))
+        INSERT INTO deep_dive_results 
+        (ticker, decision, conviction, verdict, full_analysis, fair_value, upside_pct, key_catalysts, completed_at)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+    """, (ticker, decision, conviction, verdict_summary, full_analysis, fair_value, upside_pct, key_catalysts, NOW))
+    conn.commit()
+    cur.close()
+    conn.close()
+    print(f"  ✅ deep_dive_results INSERTED")
+except Exception as e:
+    print(f"  ❌ deep_dive_results FAILED: {e}")
+
+# ── 2. INSERT into pipeline_reports ──
+print(f"\n📊 [2/3] Inserting into pipeline_reports for {ticker}...")
+try:
+    conn = get_conn()
+    cur = conn.cursor()
+    cur.execute("""
+        INSERT INTO pipeline_reports (ticker, pipeline, date, content, embedding, created_at)
+        VALUES (%s, %s, %s, %s, %s, %s)
+    """, (ticker, 'deep-dive', TODAY, full_analysis, embedding_list, NOW))
+    conn.commit()
+    cur.close()
+    conn.close()
     print(f"  ✅ pipeline_reports INSERTED")
 except Exception as e:
-    # Try without ON CONFLICT
-    print(f"  ⚠️ First attempt failed: {e}")
-    try:
-        cur.execute("""
-            INSERT INTO pipeline_reports (ticker, content, embedding, created_at)
-            VALUES (%s, %s, %s, %s)
-        """, (ticker, full_analysis, embedding_list, NOW))
-        print(f"  ✅ pipeline_reports INSERTED (no conflict clause)")
-    except Exception as e2:
-        print(f"  ⚠️ pipeline_reports insert failed: {e2}")
+    print(f"  ❌ pipeline_reports FAILED: {e}")
 
-# 3. UPDATE weekly_screen
-print(f"\n📊 Updating weekly_screen for {ticker}...")
-cur.execute("""
-    UPDATE weekly_screen
-    SET deep_dive_status = 'done', done_at = %s
-    WHERE ticker = %s AND deep_dive_status = 'deep_dive'
-""", (NOW, ticker))
-print(f"  ✅ weekly_screen UPDATED ({cur.rowcount} rows)")
+# ── 3. UPDATE weekly_screen ──
+print(f"\n📊 [3/3] Updating weekly_screen for {ticker}...")
+try:
+    conn = get_conn()
+    cur = conn.cursor()
+    cur.execute("""
+        UPDATE weekly_screen
+        SET deep_dive_status = 'done', done_at = %s
+        WHERE ticker = %s
+    """, (NOW, ticker))
+    updated = cur.rowcount
+    conn.commit()
+    cur.close()
+    conn.close()
+    print(f"  ✅ weekly_screen UPDATED ({updated} rows)")
+except Exception as e:
+    print(f"  ❌ weekly_screen FAILED: {e}")
 
-conn.commit()
-cur.close()
-conn.close()
 print(f"\n✅ Phase 8 storage complete for {ticker} at {NOW.isoformat()}")
