@@ -1766,53 +1766,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-06-29",
-      "time": "08:06 HKT",
-      "status": "success",
-      "market_direction": "美伊停火協議破裂 — 第四日互相空襲，伊朗攻擊巴林美軍基地及科威特空軍基地，Trump威脅'annihilation'。荷姆茲海峽緊張重燃，油價攀升。同時間歐洲+美國雙重熱浪（歐洲1,300人死亡、德國41.7°C破紀錄），美國heat dome進入7/4週末。BIS警告AI投資狂熱可能以'lengthy investment bust'收場。Micron(MU)被華爾街稱為'下一個NVDA'。Crypto面臨EU監管收緊。市場處於多重macro event交疊狀態。",
-      "headlines": [
-        "OIL: USO/XLE/XOM/CVX — 美伊第四日互相空襲，荷姆茲海峽緊張，油價攀升，short-term energy long",
-        "DEFENSE: LMT/RTX/NOC/GD — 美伊軍事衝突升級直接利好國防承包商",
-        "TECH: MU — Micron將成美國僅次NVDA/GOOGL最賺錢公司，AI記憶體需求爆發",
-        "CLIMATE: CARR/JCI/TT — 歐洲+美國雙重熱浪，HVAC需求爆發",
-        "CRYPTO: MSTR/COIN — Saylor持續買BTC，bitcoin bottom signal?",
-        "TECH: LLY/NVO — Medicare 7/1起覆蓋減肥藥，landmark coverage shift",
-        "TECH: NVDA — BIS警告AI exuberance可能導致長期投資泡沫",
-        "OIL: USO — 沙地煉油廠附近直升機墜毀14死，供應風險",
-        "MEME: Polymarket insider trading疑雲 — 軍事行動賭注贏率異常高",
-        "MACRO: 中國去美元化 — CNBC分析：北京已在全球貨幣戰爭中取勝",
-        "MACRO: GM/F/TSLA — 美國汽車市場2040年前大幅萎縮",
-        "MACRO: EWU — 英國能源成本飆升13%，Burnham新政府面臨挑戰",
-        "CRYPTO: Binance被踢出EU — MiCA監管收緊",
-        "TECH: Ford重新僱用退休工程師 — AI在製造業表現不如預期"
-      ],
-      "opportunities": [
-        "USO/XLE/XOM/CVX: 美伊第四日互相空襲，荷姆茲海峽風險未消。油價有短期催化劑向上但停火談判仍在進行中（ABC: talks still planned），需靈活管理倉位。",
-        "LMT/RTX/NOC: 美伊軍事衝突升級直接利好國防承包商。CENTCOM確認美軍空襲伊朗目標。短期催化劑明確。",
-        "MU: 多個來源（MarketWatch+TechCrunch）確認Micron profitability將超越NVDA/GOOGL以外所有美國公司。HBM記憶體供需極度緊張。AI基建trade嘅新寵。",
-        "CARR/JCI/TT: 歐洲1,300人死於熱浪+德國41.7°C+美國heat dome。歐洲AC滲透率低，氣候變化驅動結構性HVAC需求增長。",
-        "LLY/NVO: Medicare 7/1起覆蓋減肥藥，一旦awareness擴散，GLP-1需求可能再爆發。但短期需觀察uptake rate。"
-      ],
-      "analysis": "今日（2026-06-29）Asian/European session共掃描58條RSS feeds，獲取135篇新聞文章（0 errors）。\n\n## 核心驅動因素\n\n### 1️⃣ 美伊衝突升級（最大變數）\n第四日互相空襲。伊朗攻擊巴林美軍基地+科威特空軍基地（CBS/NYT/NPR/BBC/ABC/CNBC/Washington Post全覆蓋）。Trump威脅'annihilation'。CENTCOM確認美軍空襲伊朗目標。荷姆茲海峽封鎖風險升溫。但ABC報導：'Talks still planned despite strikes, US official says' — 外交窗口未完全關閉。\n\n- NYT: Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait\n- CBS: Iran launches drone, missile attacks targeting Bahrain, Kuwait\n- NPR: U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire\n- Yahoo Finance: Oil climbs following renewed US, Iran strikes in Middle East\n- MarketWatch: Oil prices rise as U.S. and Iran trade more airstrikes, Strait of Hormuz fears renewed\n\n### 2️⃣ 雙重熱浪（歐洲+美國）\n- WHO: Europe heatwave linked to 1,300 deaths, Germany hits record 41.7°C\n- NPR: A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend\n- The Atlantic: The Overlooked Reason Europe Doesn't Have AC\n- BBC: Temperatures to drop this week but relief from heat may be short-lived\n\n### 3️⃣ Micron — AI記憶體爆發\n- MarketWatch: Micron is about to be more profitable than any U.S. company except Nvidia and Google\n- TechCrunch: Why Wall Street thinks US memory maker Micron is the next Nvidia\n- Big Tech paying 'astronomical prices' for AI memory components\n\n### 4️⃣ AI投資風險\n- FT: AI 'exuberance' risks ending in lengthy investment bust, BIS warns\n- FT: Google caps Meta's Gemini use as AI demand strains capacity\n- FT: Robots, not chatbots, will realise AI's potential\n\n### 5️⃣ Crypto監管加速\n- CoinDesk: Saylor teases more bitcoin buying even as Strategy stock falls\n- Cointelegraph: Binance booted from EU, EthLabs rises up to save Ethereum\n- EU watchdog EBA details big crypto fines as MiCA laws bite\n- CZ wants to make the U.S. the 'capital of crypto'\n\n### 6️⃣ Medicare減肥藥覆蓋\n- CNBC: Seniors in Medicare about to get landmark obesity drug coverage — July 1 start\n- Limited advertising from government or Eli Lilly/Novo — awareness gap\n\n### 7️⃣ 其他值得注意\n- CBS: High win rate of bets on military operations a likely sign of insider trading (Polymarket)\n- NYT: Helicopter crash near major Saudi oil refinery kills 14\n- CNBC: China doesn't need to dethrone USD — already winning global currency war\n- CNBC: 'Perfect storm' for much smaller US auto market by 2040\n- Guardian: UK homes face 13% energy bill surge under new Burnham government",
-      "risks": [
-        "美伊衝突升級風險 — 若荷姆茲海峽被封鎖，油價可能急升並觸發全球risk-off",
-        "BIS警告AI投資泡沫 — 若科技資金急剎，NVDA等半導體股面臨顯著回調",
-        "Polymarket insider trading scandal — 可能trigger prediction market regulatory crackdown",
-        "US auto market結構性萎縮 — GM/F/TSLA長期銷量壓力",
-        "UK energy cost crisis — 13% bill surge可能影響消費者支出及UK equities"
-      ],
-      "my_take": "今日（6月29日）新聞格局由三個主導事件驅動：（1）美伊衝突升級係最大變數 — 第四日互相空襲，荷姆茲海峽風險重燃。短期利好能源+國防板塊，但需留意ABC報導稱'talks still planned despite strikes'，衝突仍有外交解決空間。油價trade要有靈活性。（2）Micron(MU)係今日最強single-stock catalyst — MarketWatch+TechCrunch同時確認其HBM記憶體盈利能力將僅次NVDA/GOOGL。如果相信AI基建故事仲有下半場，MU係NVDA以外最直接嘅AI memory play。（3）雙重熱浪（歐洲+美國）係氣候變化嘅結構性催化劑 — HVAC/空調需求非短期trade，而係多年滲透率提升故事。風險方面：BIS警告AI exuberance可能以investment bust收場+ Polymarket insider trading scandal可能影響prediction market合法性。策略上：short-term偏向long energy/defense（美伊衝突）+ long MU（AI memory cycle）+ long HVAC（heatwave demand）。NVDA需謹慎 — AI基建資金可能開始輪動。Crypto mixed signal — Saylor accumulation bullish但EU regulatory headwinds bearish。",
-      "key_takeaways": [
-        "美伊第四日互相空襲 — 荷姆茲海峽風險重燃，利好能源(XLE/USO)+國防(LMT/RTX)",
-        "Micron(MU)將成美國第三賺錢公司 — AI記憶體需求爆發，Wall Street視為'下一個NVDA'",
-        "歐洲+美國雙重熱浪 — 1,300人死亡，HVAC需求結構性增長(CARR/JCI/TT)",
-        "Medicare 7/1起覆蓋減肥藥 — GLP-1需求可能再爆發(LLY/NVO)",
-        "BIS警告AI投資狂熱 — 可能以'lengthy investment bust'收場，NVDA風險升溫",
-        "Binance被踢出EU — MiCA監管收緊，利好合規交易所(COIN)"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-06-29",
       "time": "08:30 HKT",
@@ -1839,6 +1792,77 @@
         "BTC $55K 防守線 — 跌穿觸發 crypto contagion"
       ],
       "my_take": "Rotation confirmed, now add geopolitical wildcard。科技股全面退潮（XLK -5.75%）vs 防守性資產跑贏（XLV +6.85%），係 orderly rotation 而唔係 panic。Weekend Iran escalation 改變星期一格局 — Energy + Defense gap up 必然。Short-term overweight energy/defense，但要有 exit discipline。NVDA $190 係全市場最關鍵嘅防守線。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-29",
+      "time": "20:03 HKT",
+      "status": "success",
+      "market_direction": "美伊互相空襲後同意'stand down'，特朗普稱將在卡塔爾重啟談判。霍爾木茲海峽油輪通行放緩但未中斷。油價因地緣溢價持續攀升。Comcast宣佈分拆NBCUniversal+Sky成兩間獨立公司，股價飆升23%創18年最大單日漲幅。SpaceX確認7月7日加入Nasdaq-100，$25B債券發行需求火爆。南韓推出$880B晶片/AI投資計劃。BTC徘徊$60K以下，歐洲MiCA deadline逼近。Morgan Stanley Wilson發出晶片板塊rare bearish signal。整體市場：地緣政治risk-on/off主導，corporate action（Comcast spin-off）係今日最大alpha driver。半導體/晶片板塊出現技術性警告信號，需謹慎。航空/國防因美伊衝突受關注。",
+      "headlines": [
+        "🎯 CMCSA +23%: Comcast分拆NBCUniversal+Sky，18年最大單日漲幅，媒體資產價值釋放",
+        "🎯 SPACE: 7月7日加入Nasdaq-100 + $25B債券火爆，index inclusion catalyst",
+        "🎯 SSNLF/MU: 南韓$880B晶片/AI投資計劃，記憶體/HBM供應鏈重大利好",
+        "🎯 USO/XLE: 美伊stand down但談判重啟，油價地緣溢價持續，Strait of Hormuz緊張",
+        "🎯 AXON: Trump購入$5M股票後ICE尋求$220M Taser合約，event-driven catalyst",
+        "📡 MU/NVDA: Micron被譽為'下一個Nvidia'，HBM需求爆炸性增長",
+        "📡 VWAGY/POAHY: VW殘酷裁員可能出售皇冠明珠資產，德國工業危機",
+        "📡 F: Ford重新僱用人類工程師取代AI品質檢查，AI automation narrative受質疑",
+        "📡 COIN/MSTR: 歐洲MiCA deadline令未合規交易所面臨wipeout，合規平台受惠",
+        "📡 SMH/NVDA: Morgan Stanley Wilson發出晶片bearish signal，67% chance bear market",
+        "📡 BTC-USD: BTC徘徊$60K以下，crypto迎來關鍵一周"
+      ],
+      "opportunities": [
+        "CMCSA: 分拆spin-off係最強corporate action catalyst。+23%已大幅priced in但分拆後兩間公司分別估值可能更高。如果回調至分拆前水平，係入場機會。",
+        "SPACE: Index inclusion + bond demand = 雙重catalyst。7月7日前被動資金流入係確定性事件。但估值已高，需設止蝕。",
+        "MU: HBM係AI infrastructure嘅關鍵瓶頸。南韓$880B計劃確認需求但增加競爭。MU positioning係'AI基建第二浪'，相對NVDA有catch-up潛力。",
+        "AXON: Trump/Ice controversy可能引發國會調查，但同時ICE合約係實質revenue。Event-driven trade需tight risk management。"
+      ],
+      "analysis": "今日（2026-06-29）Asian/European session共掃描58條RSS feeds，獲取152篇新聞文章（0 errors）。\n\n## 核心驅動因素\n\n### 1️⃣ 美伊衝突反覆（最大地緣變數）\n美國同伊朗互相空襲後同意'stand down'。特朗普：將在卡塔爾重啟談判。Time: 'U.S. and Iran Agree to Stand Down, Resume Talks After Days of Hostilities'。BBC: 'US says it has agreed to stand down after exchange of strikes with Iran'。但霍爾木茲海峽油輪通行已明顯放緩。OilPrice: 'Strait of Hormuz Tanker Traffic Slows After Fresh U.S.-Iran Strikes'。'Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency'。中東石油產量回升至15M bpd。\n\nNPR: 'U.S.-Iran peace talks in question after weekend attacks in the Gulf'。NYT: 'Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait'。局勢極度脆弱。\n\n### 2️⃣ Comcast分拆（今日最大alpha driver）\nComcast宣佈將NBCUniversal同Sky分拆成兩間獨立上市公司。CNBC: +23%, 'best day in 18 years'。MarketWatch/FT/CBS/NBC/ABC全部頭條報導。The Verge: 'Comcast is splitting in two'。釋放hidden media asset value。\n\n### 3️⃣ 南韓$880B晶片/AI大計\nBBC: 'South Korea unveils $880bn chip and AI investment plan'。呢個規模前所未有。SK Hynix (HBM領導者) + Samsung直接受惠。同時TechCrunch指Wall Street認為Micron係'下一個Nvidia'。MarketWatch: Apple轉向中國採購記憶體但可能無法解決晶片危機。\n\n### 4️⃣ 晶片板塊技術警告\nMarketWatch: Morgan Stanley Wilson指晶片trade出現rare bearish signal — 類似silver historical pattern。'67% chance stocks will suffer a bear market when this signal flashes'。呢個同南韓bullish催化劑形成矛盾，需要仔細判斷。\n\n### 5️⃣ SpaceX Index Inclusion\nSpaceX將於7月7日正式加入Nasdaq-100。CNBC: '$25 billion bond sale drives huge demand — and a potential headache for investors'。被動資金流入確定性catalyst但估值可能過高。\n\n### 6️⃣ Crypto關鍵周\nBTC徘徊$60K以下。CoinDesk: 'Bitcoin hovers below $60,000 as crypto braces for a pivotal week'。Cointelegraph: 'BTC price RSI prints key 2026 signal'。歐洲MiCA deadline：未合規交易所面臨'wipeout'。Germany leads MiCA authorization race。\n\n### 7️⃣ 歐洲工業壓力\nFT: VW brutal jobs cull sparks prospect of sale of crown jewels。BAT裁員9,000人。Ford重新僱用人類工程師取代AI品質檢查。歐洲製造業面對多重壓力。\n\n### 8️⃣ 其他值得關注\n- Trump購入最多$5M Axon股票→ICE尋求$220M Taser合約（利益衝突故事）\n- Putin承認燃料短缺→俄羅斯能源基建壓力\n- EU對中國小包裹引入€3關稅\n- Sword Health取得全國AI物理治療合約",
+      "risks": [
+        "美伊衝突升級風險 — stand down可能只係暫時，雙方仍有深層矛盾。若談判破裂油價急升。",
+        "Morgan Stanley Wilson晶片bearish signal — 如果history repeats，半導體可能面臨significant correction。",
+        "BTC $58K關鍵支持位 — 如果跌破可能加速下行至$50K區域。MiCA regulatory overhang。",
+        "Comcast分拆執行風險 — spin-off過程複雜，可能遇到監管或市場阻力。",
+        "中國經濟回暖可持續性 — 如果美中關係因伊朗問題緊張，出口反彈可能短暫。"
+      ],
+      "my_take": "今日Asian/European session新聞有三條主線：\n\n1. **美伊局勢反覆** — 互相空襲後又stand down，特朗普稱將在卡塔爾重啟談判。油價因地緣溢價持續攀升但局勢極度不穩定。短期trade油價方向難度大，更適合defensive positioning而非directional bet。航空/國防板塊可留意但需快速反應。\n\n2. **Comcast spin-off係今日最大alpha driver** — +23%反映市場認為NBCUniversal+Sky被低估。分拆後各自估值可能更高，但短期已大幅priced in。等回調後再睇。\n\n3. **晶片板塊出現分歧** — 南韓$880B計劃+Micron bullish versus Morgan Stanley Wilson bearish signal。呢個係典型嘅'good news meets technical warning' — 需要分辨邊個signal更強。我傾向短期謹慎對待半導體，等Wilson signal確認或消退後再action。\n\n策略上：Comcast等回調、SpaceX等index inclusion前嘅dip、MU長線story但短期要忍手。Crypto處於關鍵技術位，MiCA deadline可能係catalyst — 向上向下都有可能，等方向確認。整體偏向defensive，等宏觀/地緣不確定性消退。",
+      "key_takeaways": [
+        "Comcast +23% spin-off — 今日最大alpha driver，但已大幅priced in",
+        "美伊衝突反覆 — stand down後重啟談判，油價地緣溢價持續但不穩定",
+        "晶片板塊分歧 — 南韓$880B bullish vs Wilson bearish signal",
+        "SpaceX Nasdaq-100 inclusion — 7月7日前被動資金流入確定性catalyst",
+        "Crypto關鍵周 — BTC $60K以下，MiCA deadline，RSI關鍵信號",
+        "歐洲製造業壓力 — VW裁員+潛在資產出售，德國工業危機深化"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-06-29",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Defensive — Rotation out of tech/semis into value/bonds",
+      "headlines": [
+        "SMH -8.6% WoW：半導體板塊出現Wilson rare bearish signal",
+        "美伊stand down但油價跌6.4% — 市場price in談判成功",
+        "CMCSA分拆NBCUniversal+Sky獲+23%市場熱烈反應",
+        "資金明確rotation：QQQ-4.3% vs IWM+0.6% vs TLT+1.5%",
+        "本周五非農係最大catalyst — 決定risk-on/off方向"
+      ],
+      "focus": [
+        "SMH/NVDA — PASS等企穩",
+        "CMCSA — WATCH等回調",
+        "AXON — WATCH等ICE合約",
+        "BTC — WATCH等方向"
+      ],
+      "analysis": "## 🌍 隔夜市場\n\n### 美股上周五（6月26日）\nSPY收728.99（-0.72%），全日極波動 — 開728.95後插至716.58（day low），尾市V型反彈收窄跌幅。QQQ收706.52（-1.38%），大型科技股持續受壓。DIA收517.75（-0.29%），IWM收299.83（+0.31%）。\n\n**上周整周表現：**\n| 指數 | 收盤 | WoW | 訊號 |\n|------|------|-----|------|\n| SPY | 728.99 | -2.1% | Defensive |\n| QQQ | 706.52 | -4.3% | Tech selloff |\n| DIA | 517.75 | +0.1% | Value rotation |\n| IWM | 299.83 | +0.6% | Small cap bid |\n| SMH | 611.61 | -8.6% | Semi rout |\n| XLE | 53.84 | -0.4% | Flat |\n\n### 亞洲時段（周一）\n日經225收69,468，從盤中low 67,997反彈 — 基本上收復周五失地。恆指升1.6%至23,026，中國經濟回暖新聞+潛在刺激政策帶動。歐洲Stoxx 50微升至6,229，動能偏弱。\n\n### 風險指標\n- **VIX:** 18.29（上周五收18.41）— 持續企喺18以上，市場緊繃但未恐慌。18-20區間係\"alert but not panicking\"\n- **10Y Yield:** 4.40%（從周一4.51%回落）— 資金流入債市\n- **2Y-10Y Spread:** +0.31% — 仍然正息差，冇衰退信號\n- **TLT:** +1.5% WoW — 明確flight to safety\n- **GLD:** -2.9% WoW至373.63 — 金價反而跌，資金prefer bonds over gold\n- **USO:** -6.4% WoW至105.48 — **油價大跌！即使美伊衝突持續**\n\n### 關鍵市場訊號\n1. **Rotation, not crash.** 資金從high-beta tech/semis流出，轉向value/small caps/bonds。唔係panic liquidation。\n2. **Semiconductor係災區.** SMH一周-8.6%，NVDA-7.7%。Wilson嘅bearish signal正在被real-time驗證。\n3. **油價 paradox.** 美伊互相空襲但油價跌6.4% — 市場price in\"stand down\"/卡塔爾談判，唔信會升級到霍爾木茲海峽封鎖。\n4. **Bonds bid.** TLT +1.5%，10Y yield跌11bp — 避險情緒真實存在。\n\n---\n\n## 🏦 Fed Context\n\n**最新FOMC會議：6月16-17日（已開完）**\n- 維持利率不變。冇dot plot（3月嗰次有）。\n- 銀行壓力測試：6月24日結果顯示大型銀行資本充足，可抵禦嚴重衰退。\n\n**下次FOMC：7月28-29日**\n- 距離仲有約4星期。冇dot plot，冇press conference schedule標記（意味可能係\"minimal\" meeting）。\n- 7月加息概率接近零。市場預期9月先有機會減息。\n\n**Alan Greenspan逝世（6月22日）** — 象徵性事件，冇市場影響。\n\n**聯儲語境總結：** 宏觀政策面處於\"觀望模式\"。Powell等緊更多通脹/就業數據。Fed唔係今日嘅market mover — 地緣政治同sector rotation先係。\n\n---\n\n## 📡 今日重點事件\n\n### Economic Calendar（周一）\n- **冇重要經濟數據發布** — 周一通常係calendar最淡嘅日子\n- 本周重點：周四ISM製造業PMI、周五就業報告（非農）— 呢兩樣先係potential catalyst\n\n### Earnings Calendar\n- **冇重大earnings今日** — 季報season基本上完結，Q2 earnings 7月中先開始\n\n### Geopolitical\n- **美伊：** 互相空襲後同意\"stand down\"，特朗普稱將在卡塔爾重啟談判。霍爾木茲海峽油輪通行放緩但未中斷。局勢極不穩定 — 隨時可以再升級。\n- **南韓：** 推出$880B晶片/AI投資計劃 — Samsung/SK Hynix重大政策利好，但市場未充分反應（因為semis被宏觀rotation壓制）\n- **歐洲MiCA crypto regulation：** Deadline逼近，未獲牌照嘅加密企業面臨\"wipeout\"\n\n---\n\n## 🔥 Sector Watch\n\n### 🚨 半導體 — 最大風險區\nSMH上周-8.6%，跌穿50MA。Morgan Stanley Wilson發出rare bearish signal（比擬silver pattern）。但同時有南韓$880B政策利好同Micron bullish upgrade。**呢個係\"good news meets technical breakdown\"嘅經典矛盾。** 我傾向尊重technical signal — semis短期要避。等SMH企穩620以上先再睇。\n\n### 🛡️ 國防/航空 — 地緣溢價\n美伊衝突令航空/國防板塊受關注。AXON因為Trump買入+ICE合約嘅消息有catalyst。但呢個trade好依賴中東局勢演變 — 快入快出嘅style，唔係hold。\n\n### 🏦 能源 — 反直覺弱勢\n油價跌6.4%完全無視中東衝突。市場price in談判成功。如果卡塔爾談判破裂，油價會急速反彈 — 但呢個係binary outcome，唔值得pre-position。等news-driven catalyst先action。\n\n### 💰 價值/防禦 — Rotation受益者\nDIA持平、IWM微升、TLT bid — 資金正流入value/defensive。Dow components同small caps係避險choice。CVS被Magic Formula選為retirees首選亦反映defensive偏好。\n\n### 🏢 Comcast Spin-off — 今日最大alpha driver\nCMCSA宣布分拆NBCUniversal同Sky成兩間獨立上市公司。周五+2.1%，累計上周+3.8%。News Curator話+23%係單日爆升（可能係pre-market或盤後）。分拆後hidden value釋放係real catalyst。但要小心\"buy the rumor, sell the news\" — 大幅priced in後追入風險高。\n\n### ₿ Crypto — 關鍵技術位\nBTC徘徊$60K以下，RSI出現2026年關鍵信號。MiCA deadline可能係catalyst — 向上定向下要等方向確認。呢個位唔適合pre-position。\n\n---\n\n## 🎯 Pre-market Opportunities（From News Curator Consolidation）\n\n### 📡 值得關注（Signal present but needs confirmation）\n\n**SMH / NVDA / AMD — 半導體板塊**\n- Bull: 南韓$880B計劃、Micron被譽為\"下一個Nvidia\"\n- Bear: Wilson bearish signal、SMH-8.6% WoW、NVDA跌穿$200\n- My view: **短期PASS** — technical damage太大，等SMH重返620以上或Wilson signal消退\n- What changes my mind: SMH連兩日收620以上 → 轉WATCH\n\n**USO / XLE — 能源**\n- Bull: 美伊衝突、霍爾木茲海峽風險、Putin承認燃料短缺\n- Bear: 油價-6.4% WoW、市場price in談判成功\n- My view: **PASS** — 方向太依賴binary geopolitical outcome，風險回報唔attractive\n- What changes my mind: 卡塔爾談判破裂新聞 → 轉WATCH\n\n**CMCSA — Comcast**\n- Bull: 分拆NBCUniversal+Sky釋放hidden value、+23%市場熱烈反應\n- Bear: 可能已經大幅priced in、short-term overbought\n- My view: **WATCH** — catalyst真實但入場位好重要，等pullback to $22.50-22.80區間先考慮\n- What changes my mind: 回調後企穩$22.50以上 → 轉ACTION\n\n**AXON**\n- Bull: Trump購入最多$5M股票、ICE尋求$220M Taser合約\n- Bear: 單一合約唔改變fundamental picture\n- My view: **WATCH** — event-driven play，留意ICE合約進展\n- What changes my mind: ICE合約正式awarded → 轉ACTION\n\n### 🎯 機會（Ready to action）\n\n**今日冇直接ACTION items。**\n所有signal都處於\"需要確認\"階段。最接近action嘅係CMCSA pullback同AXON ICE合約進展。今日應該係觀察日，唔係action日。\n\n---\n\n## 📋 Today's Agenda\n\n- **本周catalyst schedule:**\n  - Mon: 冇重要數據\n  - Thu: ISM製造業PMI（consensus: 48.5，如果跌破48會trigger risk-off）\n  - Fri: 6月非農就業（本周最大事件）— consensus ~180K，失業率預期4.0%\n- **Key levels:**\n  - SPY support: 716（上周五low），跌破會試700\n  - SPY resistance: 735（上周五high / 50MA附近）\n  - SMH critical: 620（要收復先確認企穩）、600（心理關口）\n- **BTC critical:** $60K — 連續企唔上會觸發更大selloff\n\n---\n\n## 💡 My Take\n\n**Overall bias: Defensive with rotation awareness.**\n\n上周嘅market action講咗一個好清晰嘅故事：唔係panic，係rotation。資金有條不紊地從high-beta tech/semis撤出，轉入value/small caps/bonds。呢個pattern似係institutional rebalancing多過retail panic。\n\n三個要點：\n\n1. **Semis係no-touch zone。** SMH-8.6%唔係\"buy the dip\"機會 — Wilson嘅rare bearish signal值得尊重。南韓$880B政策係long-term positive，但short-term technical damage主導。等technical企穩先入場，唔好接刀。\n\n2. **Oil paradox反映市場唔信war escalation。** 美伊互相空襲但油價跌6.4% — 呢個係市場嘅collective judgment：雙方都唔想full-scale conflict，卡塔爾談判會成功。如果呢個判斷錯咗，油價會急速修正 — 但pre-position嘅成本太高。與其估binary geopolitical outcome，不如等news-driven catalyst出現先react。\n\n3. **本周最緊要係周五非農。** 如果數據強過預期（>200K），市場會轉向\"no landing\" narrative — 可能trigger risk-on reversal。如果弱過預期（<150K），recession fear會加劇rotation。周四ISM PMI係preview。呢兩個數據會決定下周方向。\n\n**今日操作原則：** 觀察為主。等CMCSA回調、等非農方向、等semis企穩。唔好因為\"驚錯過\"而入場 — 6月最後一周嘅market俾咗好多signal，俾啲時間消化。\n\n最緊要睇實：SPY 716防守位、SMH會唔會再插穿600、油價會唔會因為中東新發展而急彈。",
+      "risks": [
+        "半導體持續bleed — SMH跌穿600會觸發更大selloff",
+        "美伊談判破裂 — 油價急速反彈會打擊consumer/discretionary",
+        "非農數據極端（>250K或<100K）會trigger劇烈reaction",
+        "BTC跌穿$58K可能觸發cascade liquidation"
+      ],
+      "my_take": "Defensive stance。上周market講咗一個清晰rotation故事 — tech/semis資金流向value/bonds。Semis係no-touch zone（SMH-8.6%+Wilson bearish signal）。Oil paradox（衝突但油價跌）反映市場price in de-escalation。本周最關鍵係周五非農 — 決定risk-on定risk-off。今日觀察為主，等CMCSA回調、等semis企穩、等macro catalyst。唔好接刀。"
     }
   ],
   "news_curator": [
