@@ -1764,6 +1764,81 @@
         "10Y yield declining (4.46%), curve flattening — bond market cautious",
         "Portfolio heavily AI-exposed — watch BTC contagion and 750 SPY support"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-29",
+      "time": "08:06 HKT",
+      "status": "success",
+      "market_direction": "美伊停火協議破裂 — 第四日互相空襲，伊朗攻擊巴林美軍基地及科威特空軍基地，Trump威脅'annihilation'。荷姆茲海峽緊張重燃，油價攀升。同時間歐洲+美國雙重熱浪（歐洲1,300人死亡、德國41.7°C破紀錄），美國heat dome進入7/4週末。BIS警告AI投資狂熱可能以'lengthy investment bust'收場。Micron(MU)被華爾街稱為'下一個NVDA'。Crypto面臨EU監管收緊。市場處於多重macro event交疊狀態。",
+      "headlines": [
+        "OIL: USO/XLE/XOM/CVX — 美伊第四日互相空襲，荷姆茲海峽緊張，油價攀升，short-term energy long",
+        "DEFENSE: LMT/RTX/NOC/GD — 美伊軍事衝突升級直接利好國防承包商",
+        "TECH: MU — Micron將成美國僅次NVDA/GOOGL最賺錢公司，AI記憶體需求爆發",
+        "CLIMATE: CARR/JCI/TT — 歐洲+美國雙重熱浪，HVAC需求爆發",
+        "CRYPTO: MSTR/COIN — Saylor持續買BTC，bitcoin bottom signal?",
+        "TECH: LLY/NVO — Medicare 7/1起覆蓋減肥藥，landmark coverage shift",
+        "TECH: NVDA — BIS警告AI exuberance可能導致長期投資泡沫",
+        "OIL: USO — 沙地煉油廠附近直升機墜毀14死，供應風險",
+        "MEME: Polymarket insider trading疑雲 — 軍事行動賭注贏率異常高",
+        "MACRO: 中國去美元化 — CNBC分析：北京已在全球貨幣戰爭中取勝",
+        "MACRO: GM/F/TSLA — 美國汽車市場2040年前大幅萎縮",
+        "MACRO: EWU — 英國能源成本飆升13%，Burnham新政府面臨挑戰",
+        "CRYPTO: Binance被踢出EU — MiCA監管收緊",
+        "TECH: Ford重新僱用退休工程師 — AI在製造業表現不如預期"
+      ],
+      "opportunities": [
+        "USO/XLE/XOM/CVX: 美伊第四日互相空襲，荷姆茲海峽風險未消。油價有短期催化劑向上但停火談判仍在進行中（ABC: talks still planned），需靈活管理倉位。",
+        "LMT/RTX/NOC: 美伊軍事衝突升級直接利好國防承包商。CENTCOM確認美軍空襲伊朗目標。短期催化劑明確。",
+        "MU: 多個來源（MarketWatch+TechCrunch）確認Micron profitability將超越NVDA/GOOGL以外所有美國公司。HBM記憶體供需極度緊張。AI基建trade嘅新寵。",
+        "CARR/JCI/TT: 歐洲1,300人死於熱浪+德國41.7°C+美國heat dome。歐洲AC滲透率低，氣候變化驅動結構性HVAC需求增長。",
+        "LLY/NVO: Medicare 7/1起覆蓋減肥藥，一旦awareness擴散，GLP-1需求可能再爆發。但短期需觀察uptake rate。"
+      ],
+      "analysis": "今日（2026-06-29）Asian/European session共掃描58條RSS feeds，獲取135篇新聞文章（0 errors）。\n\n## 核心驅動因素\n\n### 1️⃣ 美伊衝突升級（最大變數）\n第四日互相空襲。伊朗攻擊巴林美軍基地+科威特空軍基地（CBS/NYT/NPR/BBC/ABC/CNBC/Washington Post全覆蓋）。Trump威脅'annihilation'。CENTCOM確認美軍空襲伊朗目標。荷姆茲海峽封鎖風險升溫。但ABC報導：'Talks still planned despite strikes, US official says' — 外交窗口未完全關閉。\n\n- NYT: Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait\n- CBS: Iran launches drone, missile attacks targeting Bahrain, Kuwait\n- NPR: U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire\n- Yahoo Finance: Oil climbs following renewed US, Iran strikes in Middle East\n- MarketWatch: Oil prices rise as U.S. and Iran trade more airstrikes, Strait of Hormuz fears renewed\n\n### 2️⃣ 雙重熱浪（歐洲+美國）\n- WHO: Europe heatwave linked to 1,300 deaths, Germany hits record 41.7°C\n- NPR: A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend\n- The Atlantic: The Overlooked Reason Europe Doesn't Have AC\n- BBC: Temperatures to drop this week but relief from heat may be short-lived\n\n### 3️⃣ Micron — AI記憶體爆發\n- MarketWatch: Micron is about to be more profitable than any U.S. company except Nvidia and Google\n- TechCrunch: Why Wall Street thinks US memory maker Micron is the next Nvidia\n- Big Tech paying 'astronomical prices' for AI memory components\n\n### 4️⃣ AI投資風險\n- FT: AI 'exuberance' risks ending in lengthy investment bust, BIS warns\n- FT: Google caps Meta's Gemini use as AI demand strains capacity\n- FT: Robots, not chatbots, will realise AI's potential\n\n### 5️⃣ Crypto監管加速\n- CoinDesk: Saylor teases more bitcoin buying even as Strategy stock falls\n- Cointelegraph: Binance booted from EU, EthLabs rises up to save Ethereum\n- EU watchdog EBA details big crypto fines as MiCA laws bite\n- CZ wants to make the U.S. the 'capital of crypto'\n\n### 6️⃣ Medicare減肥藥覆蓋\n- CNBC: Seniors in Medicare about to get landmark obesity drug coverage — July 1 start\n- Limited advertising from government or Eli Lilly/Novo — awareness gap\n\n### 7️⃣ 其他值得注意\n- CBS: High win rate of bets on military operations a likely sign of insider trading (Polymarket)\n- NYT: Helicopter crash near major Saudi oil refinery kills 14\n- CNBC: China doesn't need to dethrone USD — already winning global currency war\n- CNBC: 'Perfect storm' for much smaller US auto market by 2040\n- Guardian: UK homes face 13% energy bill surge under new Burnham government",
+      "risks": [
+        "美伊衝突升級風險 — 若荷姆茲海峽被封鎖，油價可能急升並觸發全球risk-off",
+        "BIS警告AI投資泡沫 — 若科技資金急剎，NVDA等半導體股面臨顯著回調",
+        "Polymarket insider trading scandal — 可能trigger prediction market regulatory crackdown",
+        "US auto market結構性萎縮 — GM/F/TSLA長期銷量壓力",
+        "UK energy cost crisis — 13% bill surge可能影響消費者支出及UK equities"
+      ],
+      "my_take": "今日（6月29日）新聞格局由三個主導事件驅動：（1）美伊衝突升級係最大變數 — 第四日互相空襲，荷姆茲海峽風險重燃。短期利好能源+國防板塊，但需留意ABC報導稱'talks still planned despite strikes'，衝突仍有外交解決空間。油價trade要有靈活性。（2）Micron(MU)係今日最強single-stock catalyst — MarketWatch+TechCrunch同時確認其HBM記憶體盈利能力將僅次NVDA/GOOGL。如果相信AI基建故事仲有下半場，MU係NVDA以外最直接嘅AI memory play。（3）雙重熱浪（歐洲+美國）係氣候變化嘅結構性催化劑 — HVAC/空調需求非短期trade，而係多年滲透率提升故事。風險方面：BIS警告AI exuberance可能以investment bust收場+ Polymarket insider trading scandal可能影響prediction market合法性。策略上：short-term偏向long energy/defense（美伊衝突）+ long MU（AI memory cycle）+ long HVAC（heatwave demand）。NVDA需謹慎 — AI基建資金可能開始輪動。Crypto mixed signal — Saylor accumulation bullish但EU regulatory headwinds bearish。",
+      "key_takeaways": [
+        "美伊第四日互相空襲 — 荷姆茲海峽風險重燃，利好能源(XLE/USO)+國防(LMT/RTX)",
+        "Micron(MU)將成美國第三賺錢公司 — AI記憶體需求爆發，Wall Street視為'下一個NVDA'",
+        "歐洲+美國雙重熱浪 — 1,300人死亡，HVAC需求結構性增長(CARR/JCI/TT)",
+        "Medicare 7/1起覆蓋減肥藥 — GLP-1需求可能再爆發(LLY/NVO)",
+        "BIS警告AI投資狂熱 — 可能以'lengthy investment bust'收場，NVDA風險升溫",
+        "Binance被踢出EU — MiCA監管收緊，利好合規交易所(COIN)"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-29",
+      "time": "08:30 HKT",
+      "status": "success",
+      "market_direction": "Bearish-Neutral — Risk-off rotation confirmed (XLK -5.75% vs XLV +6.85%)，Weekend Iran escalation adds geopolitical wildcard",
+      "headlines": [
+        "📉 SPY -2.07%／QQQ -4.26% 週跌 — 科技股全面退潮，DIA +0.13% 確認 rotation",
+        "💊 LLY +9.6% 週漲 — Medicare 7/1 覆蓋減肥藥，結構性 catalyst 已有人 pre-position",
+        "🇮🇷🇺🇸 美伊停火破裂 — Weekend 伊朗攻擊巴林+科威特美軍基地，能源+國防星期一 gap up",
+        "🧠 BIS 警告 AI exuberance → lengthy investment bust — NVDA 跌穿 $200",
+        "🏦 10Y yield -11bp 至 4.40% — 資金湧入債市避險"
+      ],
+      "opportunities": [
+        "USO/XLE: Iran escalation + Hormuz risk — USO 週五 $105 oversold，短線 momentum 向上",
+        "LMT/RTX: 美伊軍事衝突升級 — LMT 週五已 +2.6%，weekend news 確認 catalyst",
+        "LLY/NVO: Medicare 7/1 GLP-1 coverage — 結構性 bullish 但已 front-run，等 pullback",
+        "CARR/TT: Heatwave catalyst intact 但週五 profit-taking — 等回調再入"
+      ],
+      "analysis": "📊 美股收市回顧 — 6月27日（星期五）\n\n────────────────────────────\n🏦 Fed Context — Macro Backdrop\n────────────────────────────\n\n本週聯儲局無重大政策變動。最值得注意嘅係：\n• 6/24 銀行壓力測試結果 — 全部大型銀行通過，確認有能力應對 severe recession。呢個結果理論上 supportive，但市場喺 risk-off mode 下冇反應。\n• Alan Greenspan 逝世（6/22）— 象徵意義大於市場影響。\n• 下次 FOMC：7月28-29日 — 距離而家仲有4星期，市場進入「無 Fed catalyst」真空期。\n• Kevin Warsh（現任 Fed Chair）本週無新講話 — 6月 FOMC 嘅 hawkish hold 基調仍然主導利率預期。\n• 10Y yield 從 4.51% 跌至 4.40%（-11bp）— 資金湧入債市避險，反映市場對科技股 + 地緣風險嘅憂慮。\n\n呢個 macro backdrop 解釋咗點解 XLU/XLP/XLRE 全面跑贏 — 唔係因為呢啲 sector 有 catalyst，而係因為資金要搵地方躲。\n\n────────────────────────────\n📊 Market Recap\n────────────────────────────\n\nSPY: $728.99（-2.07% 週跌）— 週五盤中低見 $716.58 後反彈，但反彈無力。全週下行結構未變。\nQQQ: $706.52（-4.26% 週跌）— 科技股血流成河，NVDA/MU/MSFT 領跌。連續4日收陰燭。\nDIA: $517.75（+0.13% 週）— 幾乎持平，相對強勢。資金從 growth → value 嘅 rotation 訊號明確。\nVIX: 18.41 — 週初 17.28 飆至週二高位 20.72，週五回落至 18.41。恐慌未散但未失控。\n\nSector 表現（全週）：\n\n  🟢 贏家：\n  • XLV（Healthcare）+6.85% — LLY Medicare catalyst 帶動整個 sector\n  • XLU（Utilities）+3.31% — 避險資金流入\n  • XLP（Staples）+3.08% — 防守性 rotation\n  • XLRE（Real Estate）+2.77% — 債息回落利好 REITs\n\n  🔴 輸家：\n  • XLK（Technology）-5.75% — AI trade 全面退潮，NVDA -7.7%、MU -6.5%\n  • XLY（Consumer Disc）-0.50% — 消費疲弱\n  • XLE（Energy）-0.40% — 油價回落但 weekend news 會改變呢個\n\n一句總結：純粹嘅 risk-off rotation — 唔係 crash，而係資金從超買嘅科技板塊輪動至防守性資產。DIA 持平 + XLU/XLP 急升 = 經典嘅「risk-off without panic」。\n\n────────────────────────────\n🔥 Notable Movers\n────────────────────────────\n\n🚀 LLY +9.6%（週）／+7.1%（週五單日）：收 $1,208.12\n   Medicare 7月1日起覆蓋減肥藥 — 呢個係 landmark policy shift。週五成交量 7.7M（平時 ~3M），明顯有資金 pre-position。\n   NVO 同步 +4.8%，確認唔係 single-stock move 而係 sector catalyst。\n\n📉 NVDA -7.7%（週）：收 $192.53\n   跌穿 $200 心理關口。成交量持續高位（週五 179M），sell pressure 明顯。BIS AI exuberance 警告加重咗市場對 AI capex ROI 嘅質疑。\n\n📉 MU -6.5%（週）：收 $1,132.33\n   極端波動 — 週一 $1,211 → 週三 $991 → 週四 $1,213 → 週五 $1,132。HBM memory story 仍然 intact（Wall Street 稱之為「下一個 NVDA」），但價格行為顯示市場喺重新定價 AI 價值鏈。成交 86M（歷史新高附近）。\n\n🛡️ LMT +2.8%、RTX +3.4%：Defense 股 quietly creeping up\n   週五 LMT 盤中高見 $518.24（+2.6% day）。當時未有 Iran escalation news，市場可能已 pre-position。而家 weekend news 確認 escalation，星期一有望 gap up。\n\n❄️ CARR +2.4%（週）但週五 -3.2%；TT -2.8%（週）、週五 -5.1%\n   HVAC heatwave trade 週四創新高後週五全面回吐。Profit-taking signal — 但 underlying heatwave catalyst 未變。等 pullback 再入。\n\n────────────────────────────\n📰 News That Mattered\n────────────────────────────\n\n1. 🇮🇷🇺🇸 美伊停火破裂 — 第四日互相空襲（WEEKEND BREAKING）\n   伊朗攻擊巴林美軍基地 + 科威特空軍基地。Trump 威脅 \"annihilation\"。荷姆茲海峽緊張重燃。\n   → 呢個係自週五收市後最大嘅 new information。USO 週五收 $105.48（週跌 -6.4%），嚴重 oversold。星期一能源 + 國防板塊必然 gap up。\n   → ABC 報導稱 \"talks still planned despite strikes\" — 外交窗口未完全關閉，但市場會先 price in worst case。\n\n2. 💊 Medicare 7/1 起覆蓋減肥藥\n   LLY/NVO — GLP-1 需求可能再爆發。LLY 週五已經有人 pre-position。呢個係結構性 catalyst，唔係 one-off。\n\n3. 🧠 BIS 警告 AI \"exuberance\" 可能導致 lengthy investment bust\n   直接打擊 NVDA/GOOGL/META/MSFT。BIS 係 central bank of central banks —  credibility 高。市場開始 question AI capex 嘅回報期。\n   → 呢個同我哋之前嘅 \"Rough Summer for tech\" thesis 吻合。\n\n4. 🏦 Fed 銀行壓力測試：全部大型銀行通過（6/24）\n   理應 bullish for banks，但 XLF 全週 -0.2%，市場完全忽略。Risk-off mode 下好消息被 discount。\n\n5. ₿ Crypto 監管收緊 — Binance 被踢出 EU，MiCA 加速\n   COIN 可能受惠（合規交易所），但整體 crypto sentiment 偏弱。\n\n────────────────────────────\n🔮 週五 Morning Scan Thesis Check\n────────────────────────────\n\n上週五 Morning Scan 判斷：「Bearish-Neutral，Risk-off 擴散，科技股+加密貨幣領跌，long HVAC + short tech」\n\n✅ 正確：\n• Risk-off direction 完全正確\n• NVDA 跌穿 $200 確認\n• Tech 繼續跑輸大市\n• Crypto 信心危機持續\n\n⚠️ 偏差：\n• HVAC 週五大幅回吐（CARR -3.2%、TT -5.1%）— 週四見頂後 profit-taking 比我預期更快\n• 冇預見到 weekend Iran escalation — 呢個係新變數\n\n────────────────────────────\n🎯 Opportunities Carry Forward\n────────────────────────────\n\n1. 🛢️ Energy（USO, XLE, XOM, CVX, OIH）\n   美伊衝突升級係本週末最大 new information。USO 週五收 $105.48，週跌 -6.4%，已極度 oversold。荷姆茲海峽風險重燃 + 沙地煉油廠直升機墜毀 = supply disruption premium 必然回歸。\n   Bull case：伊朗攻擊巴林+科威特基地 = 衝突升級至多國層面，油價有 structural floor\n   Bear case：ABC 報導 talks still planned = 外交解決可能性仍在，oil spike 可能 short-lived\n   我的看法：🎯 機會 — 短線 momentum 確定向上。USO $105→$110+ 係合理預期。但要有 exit plan — 一旦停火 signal 出現要即刻走。\n\n2. 🛡️ Defense（LMT, RTX, NOC, GD, LHX）\n   同上邏輯。LMT 週五已 +2.6%，確認有資金 pre-position。伊朗攻擊美軍基地係 defense spending 嘅最強 catalyst。\n   我的看法：🎯 機會 — 同 energy 一樣，short-term momentum play。LMT $507→$520-530 可期。\n\n3. 💊 GLP-1（LLY, NVO）\n   Medicare 7/1 coverage 係結構性 catalyst。LLY 週五 +7.1% 已有人 front-run，但 catalyst 仲未兌現（7/1 先開始）。\n   Bull case：Medicare coverage = millions of new patients = multi-year demand tailwind\n   Bear case：LLY 已 run +9.6%，short-term overbought。週五成交量 2.5x normal = 可能係 climax buying\n   我的看法：📡 值得關注 — Long-term bullish 但 short-term 已 price in 大部分好消息。等 pullback 至 $1,150-1,170 再考慮。\n\n4. 🧠 MU（Micron）\n   MarketWatch + TechCrunch 同時確認 HBM 盈利能力將僅次 NVDA/GOOGL。但 price action 極度波动。\n   我的看法：📡 值得關注 — AI memory cycle story intact，但需要 confirmation。如果星期一能守住 $1,100 以上，可以考慮。\n\n5. ❄️ HVAC（CARR, TT, JCI, WSO）\n   歐洲+美國雙重熱浪係真實 catalyst。但週五 profit-taking signal 明確。\n   我的看法：📡 值得關注 — 等 pullback。CARR $71-72、TT $460-470 先考慮。\n\n────────────────────────────\n⚠️ Risks / Watchlist\n────────────────────────────\n\n1. 🛢️ 油價飆升 risk — 如果 Iran conflict 持續升級 + 荷姆茲海峽受阻，油價可能 spike 至 $110+。呢個會 trigger stagflation fear，打擊整體市場。\n\n2. 🤖 NVDA $190 防守線 — 如果跌穿 $190（前低），下一站係 $180。NVDA 係全市場 sentiment barometer。\n\n3. 🏦 本週無重大 Fed event — 市場喺「無 Fed put」狀態下自行消化風險。任何 negative surprise 都冇央行救。\n\n4. 📊 7/4 週末前夕 — 成交量可能開始縮。thin market = higher volatility。\n\n5. ₿ Crypto tail risk — BTC $55K 防守線如果跌穿，MSTR/COIN 會有連鎖反應。\n\n────────────────────────────\n💡 My Take\n────────────────────────────\n\n「Rotation confirmed, now add geopolitical wildcard」\n\n今個星期嘅 theme 係 risk-off rotation — 科技股全面退潮（XLK -5.75%）、防守性資產全面跑贏（XLV +6.85%、XLU +3.31%）。呢個唔係 panic，而係 orderly rotation。但 weekend Iran escalation 將 geopolitics 重新放上檯面，改變咗星期一嘅格局。\n\n星期一嘅 opening 會係：Energy + Defense gap up（Iran escalation）、Tech 繼續弱（BIS AI warning + NVDA <$200）、Healthcare 可能繼續強（Medicare 7/1 pre-positioning）。\n\n最大嘅 opportunity 係 energy/defense 嘅 short-term momentum — 但要有 exit discipline，因為外交解決嘅可能性仍然存在。最大嘅 risk 係油價飆升觸發 stagflation fear，將 orderly rotation 變成 disorderly sell-off。\n\n策略上：short-term overweight energy + defense，underweight tech。LLY 已 front-run 太多，等 pullback。NVDA $190 係關鍵防守線 — 如果跌穿，整個 AI trade 會有第二波拋售。",
+      "risks": [
+        "油價飆升 → stagflation fear → disorderly sell-off",
+        "NVDA $190 防守線 — 跌穿將觸發第二波 AI 拋售",
+        "7/4 週末前夕 thin market — higher volatility",
+        "BTC $55K 防守線 — 跌穿觸發 crypto contagion"
+      ],
+      "my_take": "Rotation confirmed, now add geopolitical wildcard。科技股全面退潮（XLK -5.75%）vs 防守性資產跑贏（XLV +6.85%），係 orderly rotation 而唔係 panic。Weekend Iran escalation 改變星期一格局 — Energy + Defense gap up 必然。Short-term overweight energy/defense，但要有 exit discipline。NVDA $190 係全市場最關鍵嘅防守線。"
     }
   ],
   "news_curator": [
