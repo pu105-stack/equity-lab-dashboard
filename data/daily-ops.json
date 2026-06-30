@@ -1929,33 +1929,79 @@
       ]
     },
     {
+      "pipeline": "新聞分析-NewsCurator-Asia",
+      "date": "2026-06-30",
+      "time": "20:45 HKT",
+      "status": "success",
+      "enriched_articles_count": 1529,
+      "curated_count": 15,
+      "market_direction": "Q2季末 — 美股高位爭持，NVDA弱勢但AI memory supercycle confirmed；油價Q2大屠殺；BTC $59K掙扎；USD/JPY 40年低位引發干預風險；Comcast拆骨+FOXA吞ROKU主導media consolidation theme。",
+      "headlines": [
+        "Comcast 拆骨 — NBCUniversal/Sky 分拆上市，十年來首次獲 Buy rating",
+        "Rocket Lab 吞 Iridium — 太空股整合潮，SA 由 Sell 轉 Strong Buy",
+        "MU 記憶體超級週期確認 — Cook鬧Micron加價 = demand爆燈",
+        "Fox Corp $22B吞Roku — 媒體consolidation加速",
+        "NVDA 短期弱勢但黃仁勳放長線愿景 — AI超級電腦入屋",
+        "Bitcoin $4.4B supply overhang + Strategy授權賣 $1.25B BTC — 加密市場壓力",
+        "美伊談判+MS降Brent預測至$75 — 油價Q2大屠殺",
+        "USD/JPY 40年低位 — 日本干預警報 + carry trade unwind風險",
+        "黃金Q2 2013年以來最差季度 — 散戶狂熱退潮",
+        "UK CMA 瞄準 AAPL/GOOGL 手機app store雙頭壟斷",
+        "Supreme Court裁決：Trump不能撤換Fed governor Lisa Cook，維持Fed獨立性",
+        "S&P 500 H1回顧：Mag 7分化，semi stocks跑出，Mike Santoli質疑rally integrity",
+        "🔥 MEME: SOL celebrity token trend + tokenized stock boom — 18% rally",
+        "🔥 MEME: $200M crypto liquidation short squeeze — altcoins outperforming BTC",
+        "🔥 MEME: DOGE history repeating? Founder move + Strategy BTC drama"
+      ],
+      "opportunities": [
+        "CMCSA spin-off unlock — 十年來首獲Buy rating",
+        "RKLB吞Iridium — SA Sell→Strong Buy",
+        "MU記憶體supercycle — Apple加價印證demand",
+        "FOXA $22B吞ROKU — media consolidation"
+      ],
+      "analysis": "Q2最後一個交易日。主要theme：① Media consolidation加速（CMCSA分拆+FOXA-Roku+Paramount/WBD）；② AI memory supercycle MU earnings確認，NVDA短期弱但長線story intact；③ Crypto市場BTC受$4.4B overhang+MSTR sell authorization雙重打擊，altcoins反而short squeeze outperforming；④ Gold heading for worst quarter since 2013，Fed repricing壓力持續；⑤ 美伊Qatar談判，油價Q2大屠殺但Hormuz風險仍在。Meme方面SOL celebrity token trend + short squeeze liquidations feeding momentum。",
+      "risks": [
+        "USDJPY 40年低位 → BOJ干預風險 → carry trade unwind → 跨資產波動",
+        "BTC $4.4B supply overhang + MSTR賣BTC → 加密市場進一步下行",
+        "Gold $4,000 support若break → $3,600 target",
+        "美伊談判破裂 → Hormuz Strait風險重燃",
+        "NVDA弱勢若持續 → AI trade信心動搖"
+      ],
+      "my_take": "Q2季末signal偏mixed。Media consolidation theme最清晰（CMCSA、FOXA）。AI memory play有earnings backing（MU）係相對安全嘅growth exposure。BTC/ETH/gold全部weak — risk-off signal明顯。USDJPY係最大macro risk catalyst。Meme方面SOL/altcoins有momentum但要小心volume exhaustion。整體建議：focus on spin-off/special situation + memory supercycle，避免追逐weak macro assets。留意7月4th of July holiday week volumes thinning。",
+      "key_takeaways": [
+        "CMCSA分拆係2026下半年最大spin-off play",
+        "MU memory supercycle有earnings+Apple price hike雙重確認",
+        "BTC $59K關鍵 — MSTR sell authorization可能觸發breakdown",
+        "USDJPY干預風險 = 跨資產volatility catalyst",
+        "SOL meme momentum要快入快出"
+      ]
+    },
+    {
       "pipeline": "開市掃瞄",
       "date": "2026-06-30",
-      "time": "20:33 HKT",
+      "time": "20:49 HKT",
       "status": "success",
-      "market_direction": "Bullish — pre-market全面反彈(SPY+1.65%)但靠伊朗停火+就業樂觀支撐，脆弱",
+      "market_direction": "Cautiously Bullish — Q2季末 window dressing 利好科技股，但周末就業報告前不宜進取",
       "headlines": [
-        "SPY pre-market +1.65%收復周一跌幅，QQQ +2.49%領漲",
-        "FOMC 6月維持利率3.50-3.75%一致通過，statement偏鷹點名中東風險",
-        "伊朗停火談判進展推動risk-on rotation，油價回落、避險需求降",
-        "TSLA Q2交付報告本周公布，consensus ~450K，為本周首個real catalyst",
-        "SMCI台灣辦公室遭搜查跌8%，半導體板塊risk未完全消化"
+        "QQQ +2.49% 科技股領漲，Q2季末window dressing全面啟動",
+        "CMCSA +4.53% — 分拆NBCUniversal/Sky，2026下半年最大spin-off play",
+        "RKLB +15.93% — 收購Iridium，太空經濟整合潮",
+        "BTC失守$59K — $4.4B overhang + MSTR sell authorization壓制",
+        "USD/JPY 162.42 — 40年低位，BOJ干預風險升級"
       ],
       "focus": [
-        "🎯 CMCSA — 分拆解鎖價值，event-driven catalyst短期upside明確",
-        "🎯 RKLB — $1B收購Iridium，太空板塊momentum",
-        "🎯 AVAV — 國防雙催化(業績+英國國防預算)，backlog強勁",
-        "📡 TSLA — Q2交付報告本周公布，ARKK成敗關鍵",
-        "⚠️ SMCI — 台灣搜查，AI硬件供應鏈tail risk"
+        "CMCSA — spin-off value unlock",
+        "MU/NVDA — AI memory supercycle",
+        "USDJPY — macro risk catalyst"
       ],
-      "analysis": "## 🌍 隔夜市場\n\n### 美股周一（6月29日）\nSPY收728.99（-0.72%），QQQ收706.52（-1.38%），DOW收517.75（-0.41%）。全日走勢先跌後回穩，科技股領跌，伊朗停火談判進展推動資金從避險資產回流股市，但整體成交量偏淡，市場等緊本周就業報告+TSLA交付數據。\n\nVIX收17.65（-0.76 from 18.41），避險情緒回落但仍在年內偏高區間。\n\n### 亞洲/歐洲 Overnight\n恒指+0.3%，日經+0.8%。歐洲Stoxx 600 +0.6%。伊朗停火談判進展係全晚主導 macro driver，risk-on across the board。\n\n### Pre-market（截至8:30am ET）\n- **SPY: 741.00 (+1.65%)** — 強勁反彈，完全收復周一跌幅\n- **QQQ: 724.08 (+2.49%)** — 科技大幅反彈，SMCI搜查陰霾未擴散\n- **DIA: 521.68 (+0.76%)** — 溫和跟隨\n\n### Bond Market\n- 10Y yield: 4.38%（穩定，上周五收4.38%）\n- 2Y yield: 4.07%\n- 10Y-2Y spread: +31bp — 曲線維持正向，recession signal 未觸發\n- 市場定價：下次FOMC（7月28-29日）維持利率概率 ~85%\n\n### Dollar / Commodity\n- UUP（美元proxy）: 28.37，美元偏弱有利風險資產\n- Gold（GC=F）: $4,035，守住$4,000關口但上行動力不足 — 避險需求被風險偏好回暖+利率預期蓋過\n- Oil（CL=F）: $71.28 — 伊朗停火談判推低油價，Hormuz risk premium 正在消退\n\n---\n\n## 🏦 Fed Context\n\n### June 16-17 FOMC — 利率維持不變（12-0一致通過）\n聯邦基金利率維持 **3.50-3.75%**。Statement 重點：\n- **經濟評估**：活動以「solid pace」擴張，但地緣不確定性（直接點名中東衝突）構成風險\n- **就業市場**：job gains 跟得上 workforce growth，失業率變化不大\n- **通脹判斷**：「remains elevated relative to 2% goal」，部分反映供給衝擊（點名能源價格）\n- **政策立場重申**：維持充足儲備金制度，dual mandate 持續\n\n### 解讀\nStatement 比市場預期略鷹 — 冇 hint cut signal。通脹措辭用 \"remains elevated\" 顯示 Fed仍對 premature easing 保持警惕。中東風險被直接寫入 statement 係新信號，意味如果伊朗談判失敗、油價抽升，Fed 可能更難 justify cut。\n\n### Warsh Fed\nKevin Warsh 時代嘅 Fed 正經歷一場靜默改革。NYT：「How Warsh Has Begun to Change the Fed」— 內部 governance 調整、更重視 supply-side 分析、減少 forward guidance 依賴。本周有 Warsh 演講+June Jobs Report，關注佢對就業數據嘅 reaction。\n\n### Next FOMC\n**7月28-29日** — 距離而家 ~4周。中間有 June CPI（7月15日估）、June Jobs（本周）、Q2 GDP advance。Cut timeline 仍然係 data-dependent。\n\n---\n\n## 📡 今日重點事件\n\n- **TSLA Q2 交付報告** — 預期本周公布（通常7月2日左右），共識 ~45萬輛。交付數據將直接影響ARKK權重+市場對EV需求嘅判斷。\n- **June Jobs Report** — 本周五（7月3日）。市場預期 nonfarm payrolls +180K，失業率維持 ~4.2%。如果數據大幅低於預期 → cut narrative 重燃。\n- **Kevin Warsh Speech** — 本周，日期未定。市場關注佢對就業/inflation嘅最新評估。\n- **伊朗停火談判** — 進展中但未完全落實。Hormuz海峽流量恢復中，油價 risk premium 正在消退。但如果談判破裂 → rapid reversal risk。\n\n---\n\n## 🔥 Sector Watch\n\n| Sector | Signal | 分析 |\n|--------|--------|------|\n| 🚀 **Semis (SMH)** | +3.33% | SMCI搜查影響被消化，NVDA/AVGO帶動反彈。但SMCI本身仍然係risk — 如果搜查擴散至其他AI硬件股，呢個sector最脆弱 |\n| 🚀 **Consumer Disc (XLY)** | +2.40% | TSLA交付前反彈 + 伊朗停火推高consumer sentiment |\n| 🚀 **Tech (XLK)** | +2.37% | MSFT/AAPL帶動，Michael Burry大手買MSFT signal |\n| 📡 **Industrials (XLI)** | +0.86% | 國防支出+基礎設施仍然支撐，AVAV 受惠 |\n| 📡 **Energy (XLE)** | -0.48% | 唯一下跌sector — 伊朗停火推低油價。MU downgrade 都可能拖累 |\n| 📡 **Financials (XLF)** | +0.28% | 溫和，等Jobs report先有方向 |\n\n**Rotation signal:** 資金從能源/避險回流至科技+consumer discretionary — 典型 risk-on rotation。\n\n---\n\n## 🎯 Pre-market Opportunities\n\n### 🎯 ACTION Items\n\n**CMCSA — 分拆 catalyst**\n- 分拆解鎖價值方案推進中，監管風險可控\n- 市場重新定價 media assets，短期 event-driven upside 明確\n- 今日部署：pre-market 反彈環境有利 M&A/restructuring plays，關注正式公告時間表\n- Bull case: 分拆後 sum-of-parts 估值上調 20-30%\n- Bear case: 執行風險、分拆 timeline 推遲\n- **My view:** 🎯 機會 — event-driven catalyst 係最不受 macro noise 影響嘅 trade\n\n**RKLB — 太空板塊 momentum**\n- $1B收購Iridium，直接建立 Starlink competitor position\n- 英國國防開支增加 + 太空板塊整體 momentum\n- 今日部署：pre-market 反彈環境 supportive，關注 deal closing details\n- **My view:** 🎯 機會 — M&A催化短期明確，但 valuation 已反映大部分upside，需要跟進整合進度\n\n**AVAV — 國防雙催化**\n- 無人機需求因英國國防預算+全球軍事現代化而加速\n- Backlog 強勁，業績有 upside surprise 潛力\n- 今日部署：XLI 板塊溫和向好，國防股受惠於地緣政治溢價\n- **My view:** 🎯 機會 — 國防 spending 係 structural，唔係 cyclical\n\n### 📡 WATCH Items\n\n**TSLA — 交付報告本周**\n- Pre-market 反彈強勁（QQQ +2.49%），TSLA 作為ARKK 10%權重核心，交付數據決定短期方向\n- 今日部署：等交付數字 — consensus ~450K，任何大偏差都會 trigger 重大變動\n- Bull: >460K → 可能 push toward all-time highs\n- Bear: <440K → 需求憂慮重燃，拖累成個EV/consumer discretionary\n- **My view:** 📡 值得關注 — catalyst imminent，唔好猜方向，等數據\n\n**SMCI — 台灣辦公室搜查**\n- 涉及AI晶片走私指控，上周跌8%\n- 今日 SMH +3.33% 顯示市場認為 risk contained\n- 但如果搜查擴散至其他供應鏈公司 → rapid sector-wide contagion\n- 今日部署：觀察蔓延跡象，尤其係台灣相關嘅AI硬件供應鏈\n- **My view:** ⚠️ 風險 — tail risk 未消化完，對AI硬件板塊係 potential landmine\n\n**BTC-USD — 周期底部**\n- Put-call ratio 一年新高，極度悲觀\n- 技術指標開始對齊歷史底部信號（歷史準確率100%，但樣本量細）\n- $60K保衛戰進行中\n- 今日部署：market-wide risk-on 環境理論上利好 crypto，但 BTC 嘅 correlation 最近唔穩定\n- **My view:** 📡 值得關注 — 確認信號出現但需要validation，唔急於行動\n\n**MRVL — AI infra beneficiary**\n- NVIDIA endorsement + data center demand\n- 但SMCI風險可能波及 — 同屬AI硬件生態\n- **My view:** 📡 值得關注 — 等等睇SMCI發展\n\n**SNOW — Double upgrade**\n- AI data play 重獲青睞，分析師 double upgrade\n- 今日部署：pre-market 反彈環境 supportive for beaten-down tech\n- **My view:** 📡 值得關注 — upgrade catalyst有短期momentum，但fundamentals需要驗證\n\n---\n\n## 📋 Today's Agenda\n\n- **本周 catalyst schedule:**\n  - 今日（周二）：TSLA交付報告隨時公布\n  - 周三（7/1）：ISM Manufacturing PMI\n  - 周四（7/2）：Fed Minutes（April 28-29）+ initial jobless claims\n  - 周五（7/3）：June Jobs Report（nonfarm payrolls, unemployment, wage growth）\n- **SPY key levels:** support 729（周一low）/ resistance 742（pre-market high），如果突破742 → next target 750\n- **伊朗談判** — 持續關注，任何破裂會立即改變 risk appetite\n\n---\n\n## 💡 My Take\n\n**市場方向：Bullish，但係 fragile rally。**\n\n今日 pre-market 全面反彈（SPY +1.65%, QQQ +2.49%）表面睇係 risk-on，但背後係靠兩個脆弱支柱：① 伊朗停火希望（隨時可逆轉）、② 對本周就業數據嘅樂觀預期（仲未公布）。\n\nFOMC 6月 statement 講咗一個關鍵嘢：通脹「仍然偏高」，而且直接點名中東衝突為不確定性來源。換言之，如果伊朗談判破裂、油價抽升，Fed 嘅 narrative 會瞬間由「data-dependent cut」變成「inflation vigilance hold」。呢個係 tail risk 但唔係 base case。\n\n**今日最緊要睇實：**\n1. TSLA 交付數字 — 係本周第一個 real catalyst，決定 consumer discretionary + ARKK 方向\n2. 伊朗談判進展 — 油價企穩但 risk premium 未完全消退\n3. SMCI 後續 — 如果搜查冇擴散，semis rally 可以持續；如果有新 development → contagion\n\n**改變 thesis 嘅 overnight signal:** 伊朗談判出現任何破裂跡象 → 立即轉 defensive。SMCI 搜查擴散至第二間公司 → AI硬件板塊要全面重新評估。",
+      "analysis": "## 🌍 隔夜市場\n\n### 美股周一（6月29日）— 科技股強勢反彈，Q2季末window dressing啟動\nSPY收741.00（+1.65%），QQQ收724.08（+2.49%），DOW收521.68（+0.76%），IWM收298.97（-0.29%）。科技股領漲全場，QQQ強勢反彈2.49%幾乎收復上周跌幅。細價股IWM獨弱，反映資金回流large cap tech做季末window dressing。VIX收17.74（+0.09），維持年內偏高區間但未見panic。\n\n**債市：** 10Y yield 4.39%，30Y 4.88% — 長債利率穩定，市場消化Fed按兵不動+通脹數據。\n**美元：** DXY 101.37，weak dollar有利risk assets。\n**黃金：** $4,030/oz（+0.19%），守住$4,000關口但Q2整體仍係2013年以來最差季度。\n\n### 亞洲（6月30日）\nNikkei 70,062（+0.86%）— 日股再創新高，日圓弱勢推動出口股。KOSPI 8,476（+0.97%）。恒生22,881（-0.63%）— 唯一紅盤，中港資金觀望政治局會議+中美關係。整體risk-on sentiment傳導至亞洲。\n\n### 歐洲\nStoxx50 6,288（+0.90%）、DAX 24,907（+1.14%）領漲，FTSE 10,564（+0.76%）。歐洲全面跟隨美股反彈，無重大macro逆風。\n\n### Commodities & Crypto\n- WTI $70.93（+0.25%），伊朗談判進行中但未破裂，油價Q2創2020年以來最大季度跌幅\n- BTC $58,622（-2.52%），$59K關口失守，$4.4B supply overhang + MSTR sell authorization持續壓制。SOL急跌3.65%，DOGE跌4.82% — crypto整體疲弱\n- USD/JPY 162.42（+0.39%）— 40年低位持續，BOJ干預風險升級\n\n---\n\n## 📡 今日重點事件\n\n### 今日（6月30日 Tue）\n- **Q2季度最後交易日** — Window dressing效應，基金經理調整持倉。大型科技股通常受益。\n- **無重大economic data** — 今日係暴風雨前嘅平靜\n- **中國PMI已公佈** — 6月官方製造業PMI 49.8（低於50，連續第3個月收縮），非製造業PMI 50.6\n\n### 本週重點（7月第一週）\n- **Wed Jul 1:** ISM Manufacturing PMI（預期49.2）— 若重回50以上會係重大surprise\n- **Thu Jul 2:** ISM Services PMI、JOLTS Job Openings、FOMC Minutes（Jun 16-17會議）\n- **Fri Jul 3:** June Jobs Report（Nonfarm Payrolls 預期150K，失業率4.3%預計持平）、July 4 Independence Day holiday（early close）\n- **Sat Jul 4:** US Independence Day — 市場休市。下週一（Jul 6）恢復交易但成交量預期偏低\n\n### Earnings Today\n- 無重大earnings。季報season未開始，Q2 earnings season將於7月中啟動。\n\n---\n\n## 🏦 Fed Context\n\n**FOMC最新（Jun 16-17）：** Rate維持3.50%-3.75%，12-0一致通過。Statement指經濟「solid pace despite elevated uncertainty」，通脹進展「modest」。點陣圖顯示年內仲有機會減息，但數據dependent。\n\n**下次FOMC：Jul 28-29** — 約4星期後。此前有2次CPI、1次NFP、1次GDP。\n\n**最高法院裁決（Jun 30）：** 裁定Trump不能撤換Fed governor Lisa Cook，維持Fed獨立性。呢個係結構性正面 — 消除市場對Fed政治化嘅擔憂。但同一裁決容許Trump fire其他independent agency heads，整體不確定性仍在。\n\n**Market Implication：** Fed on hold但市場price in咗9月減息。如果本週就業數據好過預期 → 減息預期降溫 → 短債yield上升 → tech可能受壓。如果就業弱 → 減息預期升溫 → risk-on但可能引發衰退擔憂。最理想scenario係：就業軟著陸（NFP ~150K）+ ISM企穩。\n\n---\n\n## 🔥 Sector Watch\n\n### 🟢 Media Consolidation — 今日最強theme\nCMCSA $24.22（+4.53%）— Comcast宣布分拆NBCUniversal/Sky，Seeking Alpha 10年來首次轉Buy。經典spin-off value unlock play。FOXA $50.39（+0.58%）吞噬ROKU $136.53（+0.83%）— $22B deal主導media consolidation。整個sector有M&A catalyst，值得持續關注。\n\n### 🟢 Space Economy — RKLB爆升\nRKLB $98.01（+15.93%）— 收購Iridium Communications獲市場極度正面反應。SA由Sell轉Strong Buy。太空經濟由發射到衛星營運全鏈條整合。但15%單日升幅過後，追入風險偏高 — 等pullback再部署。\n\n### 🟡 Semiconductors — AI memory supercycle confirmed, NVDA回穩\nNVDA $194.97（+1.27%）— 連續弱勢後首日反彈。MU $1,145.28（+1.14%）— Tim Cook/Micron口水戰確認memory supercycle。半導體整體有earnings backing，係相對安全growth exposure。但NVDA仍未收復$200心理關口。\n\n### 🔴 Crypto — 全面疲弱\nBTC $58,622（-2.52%）失守$59K，$4.4B supply overhang持續壓制。MSTR授權賣$1.25B BTC引發市場對「永不賣出」narrative嘅質疑。SOL/DOGE跌幅更深（-3.65%/-4.82%）。$55K係下個BTC support。\n\n### 🟡 Oil — Q2大屠殺後可能見底？\nWTI $70.93企穩，Brent $74.24（+1.49%）。伊朗談判未有破裂跡象，但MS將Brent預測降至$75已經接近現價。Q2大跌過後，short cover可能推動反彈。但overall trend仍係down。\n\n---\n\n## 🎯 Pre-market Opportunities\n\n### 🎯 CMCSA — 分拆Play，今日跟進\n**Catalyst：** NBCUniversal/Sky分拆上市，SA買入rating。Spin-off通常解鎖value — 歷史數據顯示分拆後12個月母公司+子公司總回報平均跑贏S&P 15-20%。今日+4.53%反映初步認同但未完全price in。\n**部署：** 分拆時間表係關鍵 — 如果Q3/Q4執行，price discovery過程會持續推升。留意CMCSA管理層進一步detail。\n\n### 📡 MU — AI Memory Supercycle，WATCH\n**Catalyst：** Tim Cook公開指責Micron加價 → demand遠超supply。MU Q3 results確認stars aligned。AI memory cycle可能比預期更長。\n**部署：** MU $1,145 already pricing in supercycle。如果要入，等NVDA下個季度指引確認AI capex trajectory。現價risk/reward中性。\n\n### 📡 NVDA — 反彈確認定係dead cat bounce？\n**Catalyst：** +1.27%首日反彈。黃仁勳AI超級電腦願景長線正面。但$200心理關口未收復。\n**部署：** 如果本週守住$192 support → 可考慮入第一注。如果break below $190 → 等$180-$185。關鍵係本週五就業數據+下週earnings season前positioning。\n\n### 📡 RKLB — 爆升後觀望\n**Catalyst：** Iridium收購+SA Strong Buy。+15.93%單日。\n**部署：** 升幅太大，追入風險高。Pullback to $85-$90先考慮。太空經濟長期story intact但短期overbought。\n\n### ⚠️ BTC — $59K失守，risk-off\n**Catalyst：** $4.4B overhang + MSTR sell authorization + USDJPY carry unwind risk。\n**部署：** Avoid。$55K係下個support。如果跌破 → $50K。除非MSTR收回sell authorization，否則短期冇catalyst。\n\n### ⚠️ USD/JPY — 40年低位，干預風險\n**部署：** 呢個唔係tradeable setup — 係macro risk to monitor。如果BOJ出手，carry trade unwind會引發跨資產波動，特別係equities同crypto。\n\n---\n\n## 📋 Today's Agenda\n\n- **Q2 季度結算** — Window dressing推動科技股尾盤走勢\n- **無重大經濟數據** — 平靜日，市場聚焦週五就業報告\n- **留意**：CMCSA/RKLB post-announcement follow-through\n- **Crypto weakness** — BTC $59K以下是否引發更多liquidations\n- **USD/JPY** — 162.50以上每1個pip都可能觸發BOJ\n\n## Key Levels\n- SPY support: 728-730（上周五低位），resistance: 745（上周高位）\n- QQQ support: 700-705，resistance: 732-735\n- NVDA watch: $192 support / $200 resistance",
       "risks": [
-        "伊朗停火談判破裂 — 油價急升、risk-off reversal",
-        "SMCI搜查擴散至其他AI硬件供應鏈 — 板塊contagion",
-        "TSLA交付大幅miss — consumer discretionary+ARKK雙重打擊",
-        "本周五Jobs report如果超強 — rate cut narrative崩潰，risk assets承壓"
+        "USD/JPY 162+ → BOJ干預 → carry unwind → 跨資產波動",
+        "BTC跌破$59K → 加速下跌風險 → crypto spillover",
+        "週五NFP若大幅偏離預期 → 波動率急升",
+        "IWM獨弱 — market width狹窄，rally integrity存疑"
       ],
-      "my_take": "Pre-market全面反彈但脆弱 — 伊朗停火+就業樂觀情緒支撐，但兩個pillar都未確認。Fed 6月statement鷹派底色未變（通脹\"remains elevated\"，直接點名中東風險），意味任何地緣逆轉都會trigger rapid repricing。\n\n核心策略：聚焦 event-driven plays（CMCSA分拆、RKLB M&A、AVAV國防）因為呢啲唔受macro noise影響。TSLA交付數據係本周第一個real catalyst — 等數字，唔好猜方向。SMCI風險要持續monitor — 如果冇擴散，semis rally可以繼續；有擴散就係systemic risk。"
+      "my_take": "Q2最後交易日，window dressing效應利好科技股。今日無重大data，預計range-bound with upward bias。Media consolidation theme最清晰（CMCSA spin-off），AI memory play有earnings backing（MU），但要小心crypto同USDJPY嘅tail risk。\n\n**Bull case：** 科技股momentum延續，window dressing + 就業數據預期推動新高。亞洲/歐洲全面跟升確認risk-on。\n\n**Bear case：** VIX仍然偏高（17.74），BTC weakness、USDJPY干預風險、Q3流動性下降（夏季+holiday week）。市場width窄 — IWM獨弱。\n\n**我嘅bias：** Cautiously bullish for today。Q2季末window dressing + 無重大catalyst = 偏向upside。但唔會加倉 — 週五NFP係真正risk event。Focus on special situations（CMCSA）over broad market beta。\n\n**今日最緊要睇實：**\n1. NVDA能否收復$200 — 如果得，AI trade信心恢復\n2. BTC $59K以下會否加速下跌 — crypto spillover risk\n3. USD/JPY 162.50以上 — 每1 pip都可能觸發BOJ\n4. IWM能否轉正 — market width indicator"
     }
   ],
   "news_curator": [
