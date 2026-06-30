@@ -1863,6 +1863,74 @@
         "BTC跌穿$58K可能觸發cascade liquidation"
       ],
       "my_take": "Defensive stance。上周market講咗一個清晰rotation故事 — tech/semis資金流向value/bonds。Semis係no-touch zone（SMH-8.6%+Wilson bearish signal）。Oil paradox（衝突但油價跌）反映市場price in de-escalation。本周最關鍵係周五非農 — 決定risk-on定risk-off。今日觀察為主，等CMCSA回調、等semis企穩、等macro catalyst。唔好接刀。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-06-30",
+      "time": "08:38 HKT",
+      "status": "success",
+      "market_direction": "US-Iran 停火推升風險資產，科技股領漲。CMCSA/RKLB 大型交易主導個股行情。BTC ETF 最差月份但 crypto weakness 可能係 quarter-end window dressing。Fed 維持耐性，市場聚焦週五 NFP。",
+      "headlines": [
+        "US-Iran 達成停火協議，股市全面反彈",
+        "Comcast 分拆 NBCUniversal+Sky，股價 +9%",
+        "Rocket Lab $8B 收購 Iridium，挑戰 SpaceX Starlink",
+        "Microsoft 迎來 2000 年以來最差單月",
+        "Strategy 啟動 $2B buyback + BTC monetization",
+        "Robinhood 6月成交量創紀錄，Truist Buy",
+        "BTC ETF 經歷史上最差月份",
+        "BlackRock 深化 DeFi 佈局 (Ethena)",
+        "Micron 被稱為「下一個 NVDA」",
+        "半導體 SOXX 技術面 breakdown"
+      ],
+      "opportunities": [
+        "CMCSA — 分拆 catalyst，潛在更多 M&A，9% pop 後仍有上行空間",
+        "RKLB — $8B 收購 Iridium 打造太空通訊壟斷，12% pop，momentum 強勁",
+        "MU — 華爾街 consensus bullish，\"next NVDA\" narrative，估值重估進行中",
+        "US-Iran 停火 — 地緣 risk premium 消退，risk-on 環境利好 SPY/QQQ"
+      ],
+      "analysis": "本日主線：地緣政治降溫（US-Iran 停火）推動全面 risk-on。宏觀方面，Fed 維持耐性、市場等待週五 NFP。個股最大故事係 CMCSA 分拆（+9%）同 RKLB 衛星收購（+12%），兩個都係結構性 catalyst。MU 繼續強勢，華爾街 Consensus 將其定位為「下個 NVDA」。負面方面：MSFT 本月累跌幅度為 2000 年以來最差（$530B rout），需要判斷係超賣定係更深回調。BTC ETF 史上最差月份，但 Tom Lee 指係 quarter-end window dressing，7月可能反彈。",
+      "risks": [
+        "MSFT $530B 市值蒸發 — 如果大型科技股繼續 weakness，可能拖累大市",
+        "BTC ETF 最差月份 — crypto weakness 可能蔓延至 COIN/HOOD/MSTR",
+        "SOXX 半導體技術面 breakdown — 如果 NVDA/MU/AVGO 未能守穩關鍵位",
+        "US-Iran 停火可能反覆 — 地緣 risk 未完全消退"
+      ],
+      "my_take": "今日係 risk-on day，US-Iran 停火 + 大型 M&A deal flow 推升情緒。CMCSA 同 RKLB 係最 actionable 嘅 catalyst-driven plays — 分拆同收購都係長期 value unlock 嘅開始。MU 嘅 \"next NVDA\" narrative 有基本面支持（HBM 需求），但估值已 run 咗好多，要等 pullback 先 entry。MSFT 嘅 weakness 反而值得留意 — 如果係 quarter-end rebalancing 造成嘅超賣，7月開局可能有反彈機會。Crypto weakness 睇嚟係短期 — quarter-end window dressing + 季节性，7月 historically strong。整體而言，保持 bullish bias，但等 NFP 出爐先加大倉位。",
+      "key_takeaways": [
+        "US-Iran 停火 = risk-on 環境，利好 equities",
+        "CMCSA 分拆同 RKLB 收購係最大 catalyst plays",
+        "MSFT 超賣有反彈機會，但要確認唔係結構性問題",
+        "MU \"next NVDA\" narrative 強但估值已偏高",
+        "Crypto weakness 可能係短期 — Q3 開局 historically bullish"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-06-30",
+      "time": "08:43 HKT",
+      "status": "success",
+      "market_direction": "Risk-On — US-Iran停火推動科技股/半導體強勢反彈，但breadth狹窄（IWM-0.3%、防禦板塊全跌），反彈可持續性待確認",
+      "headlines": [
+        "US-Iran停火：SPY+1.7%、QQQ+2.5%、VIX跌至17.65",
+        "Semis resurrection：SOXX+4.1%、SMH+3.3%，由上周-8.6%強勢反彈",
+        "RKLB+16%：$8B收購Iridium直接挑戰Starlink，盤後再+3%至$101",
+        "MSFT續跌1.2%至$368：全市反彈唯獨MSFT受傷，$530B市值蒸發",
+        "IWM-0.3%不跟升：反彈breadth不足，小型股缺席"
+      ],
+      "opportunities": [
+        "🎯 RKLB: $8B Iridium收購game-changer，等回調$92-95",
+        "🎯 CMCSA: 分拆value unlock持續，pullback至$23以下先睇",
+        "📡 MSFT: Quarter-end超賣？$360-380 range trade，跌穿$360 structure break",
+        "📡 NVDA: $200爭奪戰關鍵，升穿+成交配合=bullish signal"
+      ],
+      "analysis": "## 🌍 美股收市回顧 — 6月29日（星期一）\n\n### Fed Context — Macro Backdrop\nFOMC最新會議（6月16-17日）：利率維持3.50-3.75%，12-0全票通過。Warsh statement核心訊息：「The Committee will deliver price stability」— 鷹派承諾，唔俾市場幻想空間。下次FOMC：7月28-29日，預期繼續hold。本周無Fed speeches影響市場，焦點全在周五NFP（7月3日）。\n\n銀行壓力測試（6月24日）：大型銀行全部過關。市場對銀行體系信心穩固。\n\nUS-Iran停火協議係本周最大macro catalyst — Trump聲稱雙方將在Doha談判，雖然伊朗否認，但市場price in de-escalation。這個轉變直接逆轉了上周risk-off格局。\n\n## 1. 📊 Market Recap\n\n**主要指數：**\n| 指數 | 收市 | 日變幅 | 上周五收市 | 低位 |\n|------|------|--------|-----------|------|\n| SPY | 741.00 | +1.65% | 728.99 | 732.11 |\n| QQQ | 724.08 | +2.49% | 706.52 | 705.17 |\n| DIA | 521.68 | +0.76% | 517.75 | 519.42 |\n| IWM | 298.97 | -0.29% | 299.83 | 294.68 |\n\n**VIX：** 17.65（-4.1%）— 由上周18.41急跌，risk appetite全面回歸。VIX已回到6月初level。\n\n**債市：** TLT 87.45（+0.10%）— 債券平穩，資金無大規模流出避險資產。\n\n**美元：** UUP 28.37（-0.32%）— 美元由年內高位回落，支持risk assets。\n\n**油價：** USO 107.08（+1.52%）— 油價小幅反彈但能源股（XLE -0.48%）繼續受壓。市場price in伊朗石油回歸。\n\n**成交量：** SPY 56.8M shares — 低於上周平均（~62M），反彈日量能未見放大，略嫌可疑。\n\n## 🔥 Sector Performance — 清晰Rotation逆轉\n\n| 板塊 | ETF | 日變幅 | 上周趨勢 |\n|------|-----|--------|----------|\n| 🟢 半導體 | SOXX | +4.14% | 上周-8.6% |\n| 🟢 半導體 | SMH | +3.33% | 上周-8.6% |\n| 🟢 Consumer Disc | XLY | +2.40% | 科技反彈 |\n| 🟢 科技 | XLK | +2.37% | 上周領跌 |\n| 🟡 工業 | XLI | +0.86% | 平穩 |\n| 🟡 金融 | XLF | +0.28% | 平穩 |\n| 🟡 醫療 | XLV | +0.25% | 平穩 |\n| 🔴 能源 | XLE | -0.48% | 繼續跌 |\n| 🔴 原材料 | XLB | -1.82% | 大跌 |\n| 🔴 地產 | XLRE | -0.71% | 跌 |\n| 🔴 公用 | XLU | -0.39% | 跌 |\n| 🔴 必需消費 | XLP | -0.40% | 跌 |\n\n**關鍵信號：** 上周嘅rotation（tech→value/defensive）今日完全逆轉。Semis由最弱變成最強（SOXX +4.14% vs 上周 -8.6%）。但breadth好窄 — 升勢集中在科技/半導體/消費周期，防禦板塊全線下跌。IWM唔跟升（-0.29%）係最大警號 — 小型股無參與反彈。\n\n**25隻主要股票breadth：** 13升/9跌/3平 — 唔算強勢breadth。\n\n## 2. 🔥 Notable Movers\n\n**🚀 大升（>3%）：**\n- **RKLB +15.93% → $98.01**：$8B收購Iridium衛星網絡，直接挑戰SpaceX Starlink。盤後再+3.2%至$101。呢個唔係short squeeze — 係genuine catalyst-driven re-rating。市值已由pre-deal ~$5B升至~$12B+，市場定價緊「下一個Starlink」。\n- **MSTR +12.60% → $92.68**：加密貨幣回升帶動，但本周仍-10.75%。$2B buyback + BTC出售計劃signal混雜。呢個係dead cat bounce定真反轉？我傾向係前者 — crypto weakness結構性未改。\n- **TSLA +8.46%**：Mega-cap反彈龍頭，無特別catalyst，純粹oversold bounce。\n- **GOOGL +4.82%**：上周被AI competition narrative打壓後反彈。\n- **CMCSA +4.53% → $24.22**：分拆NBCU+Sky持續發酵，成交量1.34億股（異常高）。盤後再+0.66%。呢個唔係一日story — 分拆通常需要6-12個月先反映full value。\n\n**📉 大跌：**\n- **MSFT -1.18% → $368.57**：唯一大型科技股繼續跌。上周五收$372.97，今日再跌至$368.57。$530B市值蒸發。2000年以來最差單月表現。盤後微彈+0.77%至$371.39，但整體trend仍然向下。呢個已經唔可以用「rotation」解釋 — 係company-specific嘅問題（AI monetization concern？OpenAI IPO delay？quarter-end rebalancing？）。\n- **BLK -1.51% → $950.17**：資產管理股weakness，可能反映IBIT投資者虧損（40%虧損）+ DeFi擴張的結構性威脅。\n- **UNH -1.89%**：醫療巨頭逆市跌，無明顯catalyst。\n- **XLB -1.82%**：原材料全線weakness，可能係美元強勢+中國需求擔憂。\n\n**其他值得注意：**\n- **NVDA +1.27% → $194.97**：企穩$192-195區間但未收復$200。成交量1.47億正常。仍在修正中，$200係關鍵心理關口。\n- **MU +1.14% → $1,145.28**：守住$1,100+但上行動力減弱。\"下一個NVDA\"narrative仍在但需要新catalyst。\n- **CARR -0.22% → $73.43**：HVAC龍頭高位整固，歐洲熱浪narrative intact但短線已run咗好多。\n\n## 3. 📰 News That Mattered\n\n**✅ US-Iran停火 — 今日最大Catalyst**\nTrump宣稱US同Iran將在Doha談判。雖然伊朗否認，但市場明顯price in de-escalation。這個係上周risk-off格局嘅「off switch」— 油價溢價消退、VIX回落、科技股反彈。\n\n**✅ 上周News Curator calls — 中咗乜：**\n- 🎯 CMCSA分拆 — 繼續中（+4.5%今日，累計+23%自announcement）\n- 🎯 RKLB收購Iridium — massive hit（+16%今日）\n- 📡 MSFT weakness — 繼續中，但未見catalyst逆轉\n- 📡 Crypto bounce — MSTR +12.6%、BTC $59.6K企穩 — quarter-end window dressing narrative partly validated\n\n**❌ Morning Scan thesis — 邊度錯：**\nMorning Scan話\"semis no-touch zone\"、\"defensive stance\"、\"唔好接刀\" — semis今日+4.1%，接刀嘅人贏咗（至少今日）。但呢個係hindsight bias — 企喺Friday低位冇人知US-Iran ceasefire會weekend爆出。Morning Scan嘅保守係合理嘅，只係catalyst direction意外逆轉。\n\n**📌 Overnight developments：**\n- Iran否認Trump Doha meeting claim — 停火仍然脆弱\n- 本周五NFP（7月3日）— 本周最重要macro event\n\n## 4. 🎯 Opportunities Carry Forward\n\n**🎯 RKLB — 最actionable catalyst play**\n$8B Iridium acquisition係genuine game-changer。直接挑戰Starlink嘅衛星通訊市場。AH繼續升（+3.2% to $101）。但已由$84→$101（+20%），短線overextended。等回調至$92-95先考慮。呢個係multi-month story，唔急。\n\n**🎯 CMCSA — 分拆value unlock進行中**\nNBCU+Sky分拆係長期value catalyst。累計+23%但分拆通常需要6-12個月先反映full value。$24水平仍有upside，但短線已反映大部分announcement pop。pullback至$23以下先睇。\n\n**📡 Semis反彈的可持續性**\nSOXX +4.1%係強勢反彈，但breadth不足（IWM -0.29%）。問題：呢個係genuine reversal定係short covering + oversold bounce？我傾向係後者 — 等待：(1) 連續兩日收高、(2) IWM確認參與、(3) NVDA收復$200。在此之前，semis仍然係「trade the bounce, don't marry it」。\n\n**📡 MSFT weakness — 逆向機會？**\n連續7日下跌，$530B市值蒸發。如果係quarter-end rebalancing造成嘅超賣，7月開局（明日）可能出現強勁反彈。但如果係fundamental問題（AI monetization、OpenAI延遲），仲有下跌空間。我嘅base case：technical oversold + quarter-end effect，7月頭1-2日應有relief rally。$360係關鍵支持，$380係阻力。\n\n**📡 NVDA $200爭奪戰**\n$194.97，連續兩日企穩$192但未能收復$200。如果聽日升穿$200+成交配合，係bullish signal。否則繼續range trade $190-200。\n\n## 5. ⚠️ Risks / Watchlist\n\n**⚠️ 今晚要睇實：**\n- **US-Iran談判真偽** — Iran否認Doha meeting，如果確認係Trump單方面聲明，停火溢價可能迅速蒸發\n- **RKLB AH延續升勢** — 已到$101，小心\"buy the rumor, sell the news\"\n- **MSFT是否見底** — $360係關鍵支持，跌穿意味更深回調\n\n**⚠️ Overnight risk：**\n- 本周五NFP（7月3日）— 市場最大catalyst。如果數據強勁（>200K jobs），Warsh鷹派narrative加強 → duration assets受壓\n- Quarter-end window dressing今日結束 — 明日7月1日開局，可能見到資金重新配置\n- Crypto仍然脆弱 — BTC $59.6K，如果跌穿$55K會觸發新一輪panic\n\n**⚠️ Structure risk：**\n- Semis反彈breadth不足 — 如果係short covering而非genuine buying，反彈可能2-3日內耗盡\n- MSFT $530B市值蒸發 — 如果呢個唔係quarter-end effect而係structural，可能拖累整個科技板塊\n- Dollar reversal — UUP由年內高位回落，如果美元確認見頂，利好emerging markets同commodities但不利defensive\n\n## 6. 💡 My Take\n\n今日係「和平反彈日」— US-Iran ceasefire catalyze咗risk-on rotation，但升勢集中喺過去一周跌得最慘嘅科技/半導體。Breadth不足（IWM唔升、防禦板塊全線跌）係最大隱憂。\n\n三個forward-looking takeaways：\n\n**1. Semis反彈係trade，唔係investment。** SOXX +4.1%係強勢但單日反彈未能確認趨勢逆轉。需要見到：(a) 連續兩日收高、(b) breadth擴散至小型股、(c) NVDA收復$200。如果呢三個條件未能滿足，semis仍然係sell on rally。\n\n**2. MSFT嘅weakness係最大alpha opportunity。** 全市場反彈唯獨MSFT繼續跌 — 呢個極端divergence要麼係結構性問題（咁仲有得跌），要麼係quarter-end distortion（咁7月頭會有大反彈）。我偏向後者，但需要睇明日（7月1日）開局先confirm。$360買、$380賣係simple range trade，但如果跌穿$360就係structure break。\n\n**3. Peace dividend有保質期。** US-Iran停火推動今日反彈，但Iran已否認Doha meeting。如果談判破裂，溢價可以迅速蒸發。NFP係下一個catalyst — 如果數據強勁，市場焦點會由「peace trade」轉向「Warsh hawkish trade」，可能再次壓制duration assets。\n\n**明日Bias：Cautiously bullish。** Quarter-end過後7月開局通常有new money inflow。MSFT同NVDA嘅表現係關鍵 — 如果兩個都強勢反彈，確認tech bottom。如果MSFT繼續跌，即使大市升都要保持警惕。\n\n**策略建議：** 唔好追semis反彈（已run太多），等RKLB/CMCSA回調先考慮。留意MSFT $360-380 range。等NFP出爐先加大倉位。",
+      "risks": [
+        "US-Iran停火脆弱：Iran否認Doha meeting，溢價可迅速蒸發",
+        "Semis反彈breadth不足：可能只係short covering，2-3日內耗盡",
+        "MSFT $530B市值蒸發：如果唔係quarter-end effect而係structural，拖累科技板塊",
+        "本周五NFP：強勁數據→Warsh hawkish→duration assets受壓"
+      ],
+      "my_take": "US-Iran ceasefire catalyzed risk-on reversal，但breadth不足（IWM -0.29%、防禦板塊全線跌）。Semis反彈(+4.1%)係trade而非investment — 需要連續確認先相信。MSFT weakness ($368, -1.2%)係最大alpha opportunity：如果係quarter-end distortion，7月開局應有強勁relief rally。等NFP出爐先加大倉位。明日bias：cautiously bullish。"
     }
   ],
   "news_curator": [
