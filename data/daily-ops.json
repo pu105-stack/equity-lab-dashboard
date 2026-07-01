@@ -2002,6 +2002,80 @@
         "IWM獨弱 — market width狹窄，rally integrity存疑"
       ],
       "my_take": "Q2最後交易日，window dressing效應利好科技股。今日無重大data，預計range-bound with upward bias。Media consolidation theme最清晰（CMCSA spin-off），AI memory play有earnings backing（MU），但要小心crypto同USDJPY嘅tail risk。\n\n**Bull case：** 科技股momentum延續，window dressing + 就業數據預期推動新高。亞洲/歐洲全面跟升確認risk-on。\n\n**Bear case：** VIX仍然偏高（17.74），BTC weakness、USDJPY干預風險、Q3流動性下降（夏季+holiday week）。市場width窄 — IWM獨弱。\n\n**我嘅bias：** Cautiously bullish for today。Q2季末window dressing + 無重大catalyst = 偏向upside。但唔會加倉 — 週五NFP係真正risk event。Focus on special situations（CMCSA）over broad market beta。\n\n**今日最緊要睇實：**\n1. NVDA能否收復$200 — 如果得，AI trade信心恢復\n2. BTC $59K以下會否加速下跌 — crypto spillover risk\n3. USD/JPY 162.50以上 — 每1 pip都可能觸發BOJ\n4. IWM能否轉正 — market width indicator"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-01",
+      "time": "08:07 HKT",
+      "status": "success",
+      "market_direction": "季末埋單 — 納指 Q2 漲 ~20% 創 record highs，但 S&P 500 進入 premium zone。黃金/白銀/石油全線大跌（gold worst quarter since 2013、oil biggest quarterly drop since pandemic），反映 dollar 強勢 + 通脹交易退潮。Crypto 受 MSTR BTC 銷售計劃震散。Defense 係唯一全線 bullish 嘅 sector。",
+      "headlines": [
+        "🎯 AVAV — 軍用無人機王者 +28%，業績爆發性超預期，國防支出潮中最直接受益",
+        "🎯 CMCSA — Comcast 拆分媒體同科技業務，股價大升，「和平分手」釋放價值",
+        "🎯 PLTR — Palantir 連簽 NVDA + Surf Air 兩大deal，回應投資者最大疑問",
+        "📡 MSTR — Strategy 授權出售 $1.25B BTC，震散加密市場，BTC連跌12個月之中11個月",
+        "📡 NVDA — 增長故事強勁但風險加速累積，Jensen Huang 預言 AI 超級電腦入屋",
+        "📡 MSFT — 年跌26% 被稱為「no-brainer buy」，但不確定性下連 attractive valuation 都唔夠",
+        "📡 GLD/SLV — 黃金創2013年以來最差季度，白銀創2011年以來最差月份，散戶狂熱退潮",
+        "📡 USO — 油價創 pandemic 以來最大季度跌幅，Morgan Stanley 削 Brent 預測至 $75",
+        "🔥 XLM — 200 SMA 係最後防線，short squeeze 上 $0.22 定 flush 去 $0.16 今週決定",
+        "🔥 Altcoins Short Squeeze — $200M 清算推升 altcoins，BTC dominance 受壓",
+        "📌 FOMC — 最高法院阻止 Trump 炒 Fed Governor Lisa Cook，市場觀望 Friday labor data",
+        "📌 納指 Q2 漲 ~20%，季末埋單在 record highs，但 S&P 500 喺 premium zone 有 selloff 風險",
+        "📌 AAPL/GOOGL — UK competition watchdog 鎖定 app store duopoly，iPhone 18 供應鏈洩密",
+        "📌 國防支出超級週期 — UK £105B、Honeywell Aerospace 獨立上市、JPMorgan 都要加入軍工",
+        "📌 META — Zuckerberg 傳計劃進軍 prediction markets 挑戰 Kalshi/Polymarket"
+      ],
+      "opportunities": [
+        "AVAV: 軍用無人機業績爆發 +28%，國防支出超級週期最直接受益。Risk: 法律 investigation。",
+        "CMCSA: 拆分媒體/科技釋放價值，華爾街分析師齊看好。",
+        "PLTR: NVDA + Surf Air 雙 deal 回應增長質疑，post-crash 有 upside。"
+      ],
+      "analysis": "今期最強 signal 係 defense sector — AVAV 28% single-day pop on earnings double beat，加上 UK £105B pledge、Honeywell Aerospace 獨立、JPMorgan 都要參軍，成個 sector 進入支出超級週期。\n\nCrypto 方面，Strategy (MSTR) 授權出售 $1.25B BTC 係 systemically important event — 直接 trigger BTC 下跌 + altcoin short squeeze。Peter Schiff + Ripple CEO 齊聲批評 Saylor。MSTR heading for 11th losing month in 12。\n\nTech 有分歧：NVDA growth story 強但 risk 累積中；MSFT -26% YTD 有人叫買有人叫等；PLTR 兩個 deals 可能係轉折點。\n\nCommodities 全面 weakness：gold worst quarter since 2013、silver worst month since 2011、oil biggest quarterly drop since pandemic。Dollar 強勢係核心原因。",
+      "risks": [
+        "MSTR BTC sales plan 可能引發 crypto 連鎖下跌",
+        "S&P 500 premium zone — quant funds 已出現今年最大 rout",
+        "Quarter-end window dressing 後可能有回調",
+        "Gold/silver/oil 全線破位下跌，macro 訊號偏 negative",
+        "Fed/Trump 對峙持續 — 政治干預聯儲風險未解除"
+      ],
+      "my_take": "Q2 埋單睇落靚（Nasdaq +20%），但 underneath 嘅 sector rotation 好激烈。Defense 一枝獨秀、Tech 內部分化、Commodities 全面崩塌、Crypto 面臨 MSTR 結構性賣壓。\n\n今次最 actionable 嘅係 AVAV — 但 28% single-day pop 後追入要小心。CMCSA 分拆係 classic value unlock play，值得等 pullback 入。PLTR 兩個 deals 係 signal，但需要確認 revenue impact 先可以俾 conviction。\n\nCrypto 方面：MSTR sell plan 係 overhang，但 altcoin short squeeze 俾咗 Viper 短炒機會。XLM 嘅 200 SMA setup 最 concrete。\n\nOverall：季末後要小心回調，defense 係唯一 macro tailwind 清晰嘅 sector。",
+      "key_takeaways": [
+        "AVAV +28%: defense drone pure play，國防支出超級週期",
+        "MSTR $1.25B BTC sales plan: crypto market structure event",
+        "CMCSA 分拆: 釋放價值 catalyst",
+        "Gold/oil 大跌: macro 防禦訊號",
+        "Nasdaq Q2 +20%: 季末 window dressing 後要小心"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-01",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Selective Risk-On — Tech/Semis/Defense 領漲，Defensives/Crypto 受壓，季末 Window Dressing",
+      "headlines": [
+        "AVAV +18.76%：軍用無人機業績爆發，News Curator Bullseye",
+        "MSTR -6.20%：BTC 銷售計劃震散加密，BTC 跌至 $58K",
+        "SMH +3.78%：半導體全線爆發，AMD +7.68% INTC +6.01%",
+        "QQQ Q2 +26.17%：納指創紀錄季度，但 Jun 29-30 反彈有 Window Dressing 味",
+        "VIX 16.45：極低波動率，市場 complacency 偏高"
+      ],
+      "opportunities": [
+        "AVAV: Defense drone supercycle — 等 pullback 5-8% 入，法律 risk 要 monitor",
+        "INTC: +6% on 115M vol — 可能係 institutional accumulation，值得 Deep Dive",
+        "CMCSA: 分拆 value unlock play，等回到 $23-24 accumulate",
+        "Defense Sector (ITA/NOC): 唯一 macro tailwind 清晰嘅 sector, buy on dips"
+      ],
+      "analysis": "## Fed Context — 宏觀背景\n\n下次 FOMC：7月28-29日（距離約4星期）。6月16-17日 FOMC 剛過兩星期，市場已基本消化。6月24日 bank stress test 確認大型銀行資本充足、有能力渡過 severe recession — 呢個消除咗一個潛在 tail risk。\n\n未來4星期係 FOMC 之間嘅「真空期」— 冇 dot plot、冇 press conference。Kevin Warsh 嘅 stance 短期內冇新 signal，Fed/Trump 對峙暫時進入靜默。呢個對 risk assets 係 mildly supportive，因為冇政策意外風險。\n\n但值得留意：S&P 500 已進入 News Curator 所指嘅「premium zone」，quant funds 出現今年最大 rout — 市場已經 price in 咗好多 good news。Q2 GDP 數據（4月底出）同 Q2 earnings season（7月中開始）會係下一個 macro catalyst。\n\n---\n\n## 📊 Market Recap — 6月30日\n\n季末埋單日，全線造好。科技股領漲、防禦板塊被拋售，典型 risk-on rotation。\n\n| 指數 | Close | 日變幅 | 5-Day | Q2 表現 |\n|------|-------|--------|-------|---------|\n| SPY | 746.77 | **+0.78%** | +1.85% | **+14.26%** |\n| QQQ | 736.40 | **+1.70%** | +3.63% | **+26.17%** |\n| DIA | 522.39 | +0.14% | — | +12.64% |\n| IWM | 300.45 | +0.50% | +1.27% | +20.68% |\n| VIX | 16.45 | **-6.80%** | — | -32.97% |\n\n**板塊表現（Jun 30）：**\n\n| 🟢 贏家 | 變幅 | | 🔴 輸家 | 變幅 |\n|----------|------|-|---------|------|\n| 半導體 SMH | **+3.78%** | | 房地產 XLRE | -1.98% |\n| 科技 XLK | **+2.76%** | | 必需消費 XLP | -1.54% |\n| 國防航空 ITA | +1.38% | | 公用事業 XLU | -1.48% |\n| 工業 XLI | +1.35% | | 醫療保健 XLV | -1.29% |\n\n**關鍵觀察：**\n- 科技+半導體係唯一有 conviction 嘅 bid — SMH +3.78%、XLK +2.76%，好明顯嘅 sector leadership\n- 國防連續強勢（ITA +1.38%），確認 News Curator 嘅「唯一全線 bullish sector」call\n- 防禦性板塊全線被沽：REITs -1.98%、Staples -1.54%、Utilities -1.48%、Healthcare -1.29% — 資金從 safety 輪出，risk appetite 好高\n- VIX 跌到 16.45（-6.80%）— 已經接近 2026 年低位，反映市場極度 complacent\n\n**但係要小心：** Jun 23-26 跌咗4日（QQQ 從 740 跌到 706，-4.6%），然後 Jun 29-30 兩日急彈返晒（QQQ +4.2%）。呢個 pattern 有強烈 quarter-end window dressing 味道。7月頭兩個交易日會話俾我哋知呢個 bounce 係真定係 cosmetic。\n\n---\n\n## 🔥 Notable Movers\n\n| Ticker | 變幅 | 原因 | 重要性 |\n|--------|------|------|--------|\n| **AVAV** | **+18.76%** | ✅ 軍用無人機業績爆發，News Curator 命中 | ⭐⭐⭐ 國防 supercycle 最 pure play |\n| **AMD** | **+7.68%** | 半導體全線炒上，33M 成交量 | ⭐⭐ Sector momentum |\n| **INTC** | **+6.01%** | 大成交量 115M，可能係 turnaround narrative | ⭐ 值得跟進 |\n| **MSTR** | **-6.20%** | ✅ BTC 銷售計劃震散，News Curator 命中 | ⭐⭐⭐ Crypto overhang |\n| **UBER** | **-4.42%** | 冇明顯 catalyst — 可能係獲利回吐 | ⭐ 觀察 |\n| **COIN** | **-3.60%** | Crypto 弱勢延伸 | ⭐⭐ MSTR 連鎖效應 |\n| **NFLX** | **-3.23%** | 消費股 weakness | ⭐ 可能係 rotation signal |\n| **NVDA** | **+2.63%** | 163M 超巨量，AI 龍頭帶動 | ⭐⭐ 龍頭確認 |\n| **AAPL** | **+2.70%** | 大型科技跟漲 | ⭐ |\n| **TSLA** | **+2.13%** | 反彈 | ⭐ |\n\n**AVAV +18.76%**：呢個係 News Curator 嘅 headline call，完全命中。軍用無人機業績爆發，反映 Defense 支出超級週期嘅最直接受益。但 Q2 整體 AVAV 仍然 -10.04%，即係話今日一日就收復咗 Q2 大部分失地。Risk：法律 investigation 仲喺度，同埋 single-day 18% pop 後好難追。\n\n**AMD +7.68% / INTC +6.01%**：半導體全線爆發，但 catalyst 唔清晰。可能係 AI 溢出效應 + 季末 window dressing。INTC 115M volume 值得留意 — 如果係 institutional accumulation，可能會係一個 turnaround signal。\n\n**MSTR -6.20%**：BTC 銷售計劃係 genuine negative catalyst。Crypto 全線受累（BTC -2.91%、COIN -3.60%），$200M liquidations 令情況更複雜。但 altcoin short squeeze 同時發生，反映資金從 BTC 輪出嘅敘事。\n\n---\n\n## 📰 News That Mattered — Curator 回顧\n\n**News Curator 今朝嘅 calls，命中率好高：**\n\n| Curator Call | 結果 | 判決 |\n|-------------|------|------|\n| AVAV 軍用無人機爆發 | +18.76% | ✅ **Bullseye** |\n| MSTR BTC sales 震散加密 | MSTR -6.20%, BTC -2.91%, COIN -3.60% | ✅ **Bullseye** |\n| Defense 全線 bullish | ITA +1.38%, NOC +2.68% | ✅ **確認** |\n| Commodities 全線崩塌 | GLD -0.05%, USO -0.60% | ✅ **趨勢延續** |\n| S&P 500 premium zone | Jun 23-26 跌完 Jun 29-30 彈返 | ⚠️ **待確認** — window dressing or real? |\n| CMCSA 分拆釋放價值 | +1.36% | 🟡 **初步確認，需更多催化** |\n| PLTR deals 回應增長質疑 | +0.84% | 🟡 **未有爆發，但冇再跌** |\n\n**CMCSA**：+1.36% 唔算好勁，但係 classic value unlock play — 呢類故事通常需要時間發酵。值得等 pullback 入，而唔係追。\n\n**PLTR**：+0.84%，post-crash 企穩。兩個 deals（NVDA + Surf Air）俾咗 signal，但市場仲等緊 concrete revenue impact。Q2 -20.36%，需要確認 reversal 先可以俾 conviction。\n\n---\n\n## 🎯 Opportunities Carry Forward\n\n### 1. AVAV — 國防無人機 Supercycle（Pullback 等入）\n今日 +18.76% 後追入太 aggressive。但 thesis 係 genuine：軍用無人機 demand 係結構性增長，唔係一次性。如果 Jul 1-2 回調 5-8%，會係一個好嘅 entry point。Risk：法律 investigation — 要留意後續發展。\n\n### 2. INTC — Turnaround Signal？（值得 Deep Dive）\n+6.01% 加 115M volume 唔係散戶可以做到。如果係 institutional accumulation，INTC 可能係下半場最被低估嘅 semis play。值得 Maya 安排 Deep Dive：check insider buying、institutional flows、foundry roadmap。\n\n### 3. Defense Sector — 持倉方向清晰\nITA +1.38%、NOC +2.68%、AVAV +18.76% — defense 係唯一 macro tailwind 唔受質疑嘅 sector。Top picks：NOC（stable）、AVAV（high beta growth）。唔好追 Day 1，等 pullback。\n\n### 4. CMCSA 分拆 — Value Unlock Play\n+1.36% 溫和但方向正確。分拆媒體/科技資產嘅 catalyst 係真實嘅。如果回到 $23-24 範圍，係 accumulate 嘅好位。時間 frame：幾個月，唔係幾日。\n\n### 5. Crypto Altcoin Squeeze — Viper 短炒機會\nBTC 弱、alts 強嘅格局，Viper 值得 scan SOL、XRP、XLM 嘅 unusual volume + price spike setup。$200M liquidations 創造 volatility，day trade 有 edge。但要小心 MSTR overhang — BTC 再跌會拖累全個 crypto complex。\n\n---\n\n## ⚠️ Risks / Watchlist\n\n### 今晚要睇實：\n- **AVAV after-hours**：有冇 follow-through 定已經見頂？法律 investigation 有冇新 developments？\n- **MSTR / BTC**：$58K 係 BTC 嘅關鍵支持。如果跌穿，crypto 全線可能加速下跌。\n- **亞洲市場**：Japan/China 對 US quarter-end rally 嘅反應，會影響今晚美股開局。\n\n### 呢個星期嘅 macro risks：\n- **Post quarter-end hangover**：Jun 29-30 反彈有 window dressing 味道。Jul 1-2 如果回吐，確認係 cosmetic bounce。\n- **S&P 500 premium zone**：Quant funds rout 可能未結束。如果 Jul 頭出現 distribution，幅度可以好大。\n- **Commodities crash 延伸**：Gold worst quarter since 2013、Oil biggest quarterly drop since pandemic — 呢啲 macro signals 不能忽視。\n- **Fed/Trump 對峙**：雖然而家靜默，但隨時可以 escalate。\n\n### Overnight risk：\n- 冇 known major earnings after close\n- Crypto 係 biggest overnight risk — BTC $58K 係 critical level\n\n---\n\n## 💡 My Take\n\n**今日最重要嘅 takeaway：** Q2 埋單靚到唔真實（Nasdaq +26% Q2），但 underneath 嘅 rotation 好激烈。Defense + Semis 係真正 strength，Defensives 被拋售、Crypto 被 MSTR 壓住、Commodities 全面崩潰。呢個 market 唔係 everything rally — 係 very selective risk-on。\n\n**明日 bias：Cautious / Neutral。** Jun 29-30 嘅 bounce 有 strong window dressing 味道。Q3 頭兩個交易日會 confirm 定否定呢個 thesis。AVAV 係最 concrete 嘅 opportunity，但要等 pullback。Defense sector 係唯一可以 confidently buy on dips 嘅 area。\n\n**一句總結：** 季末煙花好靚，但7月頭要睇清楚係咪真金白銀。AVAV、Defense、INTC 係最值得跟進嘅方向，Crypto/Commodities 繼續避開。",
+      "risks": [
+        "Post quarter-end hangover: Jun 29-30 bounce 可能係 window dressing",
+        "S&P 500 premium zone: Quant funds rout 可能未結束",
+        "BTC $58K critical support: 跌穿會拖累整個 crypto complex",
+        "Commodities crash (Gold/Oil) macro signal 偏 negative",
+        "Fed/Trump 對峙隨即可 escalate"
+      ],
+      "my_take": "Q2 埋單 Nasdaq +26%，但 under the hood 係 selective risk-on：Defense + Semis 真強、Defensives 被沽、Crypto 被 MSTR 壓住。Jun 29-30 bounce 有 window dressing 味，Q3 頭兩日決定真假。AVAV pullback 等入、Defense buy on dips、INTC 值得 deep dive。Crypto/Commodities 繼續避。"
     }
   ],
   "news_curator": [
