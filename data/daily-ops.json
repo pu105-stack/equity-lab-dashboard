@@ -2004,51 +2004,6 @@
       "my_take": "Q2最後交易日，window dressing效應利好科技股。今日無重大data，預計range-bound with upward bias。Media consolidation theme最清晰（CMCSA spin-off），AI memory play有earnings backing（MU），但要小心crypto同USDJPY嘅tail risk。\n\n**Bull case：** 科技股momentum延續，window dressing + 就業數據預期推動新高。亞洲/歐洲全面跟升確認risk-on。\n\n**Bear case：** VIX仍然偏高（17.74），BTC weakness、USDJPY干預風險、Q3流動性下降（夏季+holiday week）。市場width窄 — IWM獨弱。\n\n**我嘅bias：** Cautiously bullish for today。Q2季末window dressing + 無重大catalyst = 偏向upside。但唔會加倉 — 週五NFP係真正risk event。Focus on special situations（CMCSA）over broad market beta。\n\n**今日最緊要睇實：**\n1. NVDA能否收復$200 — 如果得，AI trade信心恢復\n2. BTC $59K以下會否加速下跌 — crypto spillover risk\n3. USD/JPY 162.50以上 — 每1 pip都可能觸發BOJ\n4. IWM能否轉正 — market width indicator"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-01",
-      "time": "08:07 HKT",
-      "status": "success",
-      "market_direction": "季末埋單 — 納指 Q2 漲 ~20% 創 record highs，但 S&P 500 進入 premium zone。黃金/白銀/石油全線大跌（gold worst quarter since 2013、oil biggest quarterly drop since pandemic），反映 dollar 強勢 + 通脹交易退潮。Crypto 受 MSTR BTC 銷售計劃震散。Defense 係唯一全線 bullish 嘅 sector。",
-      "headlines": [
-        "🎯 AVAV — 軍用無人機王者 +28%，業績爆發性超預期，國防支出潮中最直接受益",
-        "🎯 CMCSA — Comcast 拆分媒體同科技業務，股價大升，「和平分手」釋放價值",
-        "🎯 PLTR — Palantir 連簽 NVDA + Surf Air 兩大deal，回應投資者最大疑問",
-        "📡 MSTR — Strategy 授權出售 $1.25B BTC，震散加密市場，BTC連跌12個月之中11個月",
-        "📡 NVDA — 增長故事強勁但風險加速累積，Jensen Huang 預言 AI 超級電腦入屋",
-        "📡 MSFT — 年跌26% 被稱為「no-brainer buy」，但不確定性下連 attractive valuation 都唔夠",
-        "📡 GLD/SLV — 黃金創2013年以來最差季度，白銀創2011年以來最差月份，散戶狂熱退潮",
-        "📡 USO — 油價創 pandemic 以來最大季度跌幅，Morgan Stanley 削 Brent 預測至 $75",
-        "🔥 XLM — 200 SMA 係最後防線，short squeeze 上 $0.22 定 flush 去 $0.16 今週決定",
-        "🔥 Altcoins Short Squeeze — $200M 清算推升 altcoins，BTC dominance 受壓",
-        "📌 FOMC — 最高法院阻止 Trump 炒 Fed Governor Lisa Cook，市場觀望 Friday labor data",
-        "📌 納指 Q2 漲 ~20%，季末埋單在 record highs，但 S&P 500 喺 premium zone 有 selloff 風險",
-        "📌 AAPL/GOOGL — UK competition watchdog 鎖定 app store duopoly，iPhone 18 供應鏈洩密",
-        "📌 國防支出超級週期 — UK £105B、Honeywell Aerospace 獨立上市、JPMorgan 都要加入軍工",
-        "📌 META — Zuckerberg 傳計劃進軍 prediction markets 挑戰 Kalshi/Polymarket"
-      ],
-      "opportunities": [
-        "AVAV: 軍用無人機業績爆發 +28%，國防支出超級週期最直接受益。Risk: 法律 investigation。",
-        "CMCSA: 拆分媒體/科技釋放價值，華爾街分析師齊看好。",
-        "PLTR: NVDA + Surf Air 雙 deal 回應增長質疑，post-crash 有 upside。"
-      ],
-      "analysis": "今期最強 signal 係 defense sector — AVAV 28% single-day pop on earnings double beat，加上 UK £105B pledge、Honeywell Aerospace 獨立、JPMorgan 都要參軍，成個 sector 進入支出超級週期。\n\nCrypto 方面，Strategy (MSTR) 授權出售 $1.25B BTC 係 systemically important event — 直接 trigger BTC 下跌 + altcoin short squeeze。Peter Schiff + Ripple CEO 齊聲批評 Saylor。MSTR heading for 11th losing month in 12。\n\nTech 有分歧：NVDA growth story 強但 risk 累積中；MSFT -26% YTD 有人叫買有人叫等；PLTR 兩個 deals 可能係轉折點。\n\nCommodities 全面 weakness：gold worst quarter since 2013、silver worst month since 2011、oil biggest quarterly drop since pandemic。Dollar 強勢係核心原因。",
-      "risks": [
-        "MSTR BTC sales plan 可能引發 crypto 連鎖下跌",
-        "S&P 500 premium zone — quant funds 已出現今年最大 rout",
-        "Quarter-end window dressing 後可能有回調",
-        "Gold/silver/oil 全線破位下跌，macro 訊號偏 negative",
-        "Fed/Trump 對峙持續 — 政治干預聯儲風險未解除"
-      ],
-      "my_take": "Q2 埋單睇落靚（Nasdaq +20%），但 underneath 嘅 sector rotation 好激烈。Defense 一枝獨秀、Tech 內部分化、Commodities 全面崩塌、Crypto 面臨 MSTR 結構性賣壓。\n\n今次最 actionable 嘅係 AVAV — 但 28% single-day pop 後追入要小心。CMCSA 分拆係 classic value unlock play，值得等 pullback 入。PLTR 兩個 deals 係 signal，但需要確認 revenue impact 先可以俾 conviction。\n\nCrypto 方面：MSTR sell plan 係 overhang，但 altcoin short squeeze 俾咗 Viper 短炒機會。XLM 嘅 200 SMA setup 最 concrete。\n\nOverall：季末後要小心回調，defense 係唯一 macro tailwind 清晰嘅 sector。",
-      "key_takeaways": [
-        "AVAV +28%: defense drone pure play，國防支出超級週期",
-        "MSTR $1.25B BTC sales plan: crypto market structure event",
-        "CMCSA 分拆: 釋放價值 catalyst",
-        "Gold/oil 大跌: macro 防禦訊號",
-        "Nasdaq Q2 +20%: 季末 window dressing 後要小心"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-01",
       "time": "08:33 HKT",
@@ -2076,6 +2031,74 @@
         "Fed/Trump 對峙隨即可 escalate"
       ],
       "my_take": "Q2 埋單 Nasdaq +26%，但 under the hood 係 selective risk-on：Defense + Semis 真強、Defensives 被沽、Crypto 被 MSTR 壓住。Jun 29-30 bounce 有 window dressing 味，Q3 頭兩日決定真假。AVAV pullback 等入、Defense buy on dips、INTC 值得 deep dive。Crypto/Commodities 繼續避。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-01",
+      "time": "20:10 HKT",
+      "status": "success",
+      "market_direction": "季末埋單日，Mag 7 .3T市值蒸發但晶片股企穩。油價Q2 pandemic以來最差，貴金屬多季最劣。防務支出係最確定主題。亞洲時段觀望周五NFP。",
+      "headlines": [
+        "SEDG/ENPH +8% — Solar借AI數據中心電力需求反彈",
+        "AVGO — 新晶片+分析師上調PT，半導體繼續跑贏",
+        "HON Aerospace 獨立上市 — spinoff解鎖價值",
+        "ADBE — SaaSpocalypse恐懼可能過度，Firefly Foundry進軍enterprise AI",
+        "UBER — Phoenix與Waymo分手，自駕narrative受壓",
+        "IBM 0.7nm突破 — 全球首發，利好晶片產業鏈",
+        "TGT收入加速 — 消費韌性信號",
+        "油價Q2 pandemic以來最差季度",
+        "黃金/白銀創多年最差季度/月份",
+        "Altcoins 00M short squeeze — 極端超賣區"
+      ],
+      "opportunities": [
+        "🎯 SEDG/ENPH — Solar+AI data center crossover narrative，+8%，值得追蹤持續性",
+        "🎯 AVGO — 新晶片消息+PT上調，晶片股相對Mag 7更穩",
+        "📡 HON Aerospace — spinoff通常解鎖價值，純航太軍工play",
+        "📡 ADBE — contrarian play，Firefly Foundry product係real catalyst"
+      ],
+      "analysis": "季末最後交易日，市場主旋律係重新定價AI spending。Mag 7合共蒸發.3T市值，但資金未有全面撤離 — 晶片股(AVGO, NVDA)仍然有買盤支持。PLTR連續簽下NVDA+Surf Air兩大deal，係少數能夠回答「AI點變現」疑問嘅公司。\n\n油價Q2創pandemic以來最大跌幅，MS削Brent預測至5。美伊同時進行空襲+談判，供應溢價極度壓縮。對亞洲而言，低油價利好進口國（日中韓），但能源股受壓。\n\n國防支出超級週期持續確認：AVAV +28%、HON Aerospace獨立上市、JPMorgan都要加入軍工融資。呢個theme最確定。\n\nSolar+AI data center crossover (SEDG/ENPH) 係新narrative — AI數據中心需要大量電力，solar作為清潔能源受惠。但數據中心係24/7用電，solar嘅intermittency係根本限制，天然氣+核能先係真正解決方案。所以呢個trade有narrative support但基本面有疑問。\n\n加密貨幣極端超賣，altcoins 00M liquidation觸發short squeeze。BTC dominance受壓，altcoins season可能醞釀中 — 但需要 catalyst 確認。\n\n亞洲時段焦點：日經、恒指對美股季末表現嘅反應。周五NFP係下一個macro catalyst。",
+      "risks": [
+        "⚠️ NFP Friday — 勞動市場數據可能觸發新一輪rate expectations調整",
+        "⚠️ 美伊局勢 — 同時空襲+談判，任何一邊失控都觸發油價spike",
+        "⚠️ 季末window dressing完結後，7月可能出現reverse — 過去兩個月嘅贏家(AI/defense)可能獲利回吐",
+        "⚠️ Crypto altcoins — short squeeze可能只係dead cat bounce，trend仍然係down"
+      ],
+      "my_take": "季末repositioning提供嘅信號：資金由Mag 7流向晶片股同防守性主題。PLTR係AI板塊中少數能證明revenue conversion嘅公司。國防支出係最確定嘅macro tailwind。油價低迷利好亞洲進口國但對energy sector係headwind。Solar+AI narrative值得追蹤但唔好高估 — 數據中心真正需要嘅係baseload power。Crypto altcoins處於極端超賣，contrarian traders可以留意，但trend following仍然係short。",
+      "key_takeaways": [
+        "Mag 7 .3T蒸發但晶片股未死 — 資金輪動唔係全面撤離",
+        "PLTR連續簽約證明AI變現能力 — 係AI板塊中的quality name",
+        "國防支出超級週期係最確定macro theme — AVAV, HON, LMT",
+        "油價Q2大屠殺 — 利好亞洲進口國，利淡energy sector",
+        "Solar+AI data center narrative — 有想像空間但基本面要睇真",
+        "Crypto altcoins極端超賣 — contrarian setup形成中",
+        "周五NFP係下一個macro catalyst"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-01",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bullish — Semis 領漲，Q3 開局強勢，但 VIX 極低反映 complacency",
+      "headlines": [
+        "SMH +3.78% 半導體爆發 — Q3 開局最強 signal",
+        "AVAV +18.76% 國防 super-cycle 持續加速",
+        "SEDG +5.56% Solar+AI data center narrative 發酵",
+        "UBER -4.42% Waymo 分手 — AV narrative 受挫",
+        "VIX 16.71 極低 — NFP 前 complacency 風險"
+      ],
+      "focus": [
+        "AVGO — Semi leadership name，相對 NVDA 更 defensive",
+        "國防 Super-Cycle (AVAV, HON) — Structural demand，唔受 macro 影響",
+        "SEDG/ENPH — Solar+AI narrative 追蹤，等 PPA catalyst"
+      ],
+      "analysis": "# Morning Scan — 2026年7月1日（星期三）\n\n## 🌍 隔夜市場\n\n### 美國收市（6月30日 — Q2最後交易日）\n- **SPY** 746.77 (+0.78%) | Q2季末強勢收高，全周 +1.85%\n- **QQQ** 736.40 (+1.70%) | 科技股領漲，全周 +3.63% — 明顯跑贏\n- **DIA** 522.39 (+0.14%) | Dow 幾乎平收，資金集中科技\n- **IWM** 300.45 (+0.50%) | 中小型股溫和上升，但明顯落後大市\n- **VIX** 16.71 | 極度低迷，市場幾乎冇 fear premium\n\n### 債市\n- **10Y Yield** 4.37% (-2bp) | 債息微跌，但 TLT -1.18% 反映市場仍在 price out rate cuts\n- **5Y** 4.13% (-3bp) / **3M** 3.66% (-2bp)\n- 市場對「Fed cut」嘅定價持續收縮 — 「A Wave of Fed Interest Rate Cuts That May Never Come」(RealClearMarkets) 呢個 headline 講出咗心聲\n\n### 亞洲時段（7月1日）\n- **台灣 EWT +2.67%** | 半導體帶動，台積電供應鏈強勢\n- **南韓 EWY +2.23%** | 同樣係晶片+AI theme\n- **中國 FXI -0.38%** | 表現落後，資金未回流中資股\n- **印度 INDA +0.43%** | 平穩\n\n### 商品\n- **黃金 GLD** 368.38 (-0.05%) | 橫行，Q2 整體表現係2013年以來最差季度\n- **原油 USO** 106.44 (-0.60%) | 繼續走弱，Q2 pandemic以來最大季度跌幅。MS 削 Brent 預測至 $55\n\n---\n\n## 📡 今日重點事件\n\n### Macro\n- **周五 NFP**（7月3日）— 本周最大 catalyst\n  - 強勁就業 → delay rate cuts → risk-off\n  - 疲弱就業 → rate cut hope → risk-on\n  - 周四會有 ADP 就業數據做 preview\n- **Fed 觀察:** 最高法院阻止 Trump 炒 Fed Governor Lisa Cook，維護咗 Fed 獨立性。市場暫時鬆一口氣，但政治干預風險未消除。\n- **下次 FOMC:** 7月28-29日。目前冇 dot plot / press conference scheduled，係相對 quiet 嘅 meeting。\n\n### Earnings\n- 今日冇重大 earnings。Q2 earnings season 7月中先正式開始。\n\n### Geopolitical\n- 美伊同時進行空襲+談判 — 矛盾信號。油價已經 price in 談判成功，任何破裂都會 trigger oil spike。\n\n---\n\n## 🔥 Sector Watch\n\n### 🚀 領漲 Sectors\n| Sector | ETF | Day Chg | Week Chg | Signal |\n|--------|-----|---------|----------|--------|\n| **半導體** | SMH | **+3.78%** | +5.97% | 🔥🔥🔥 最強板塊 |\n| **科技** | XLK | +2.76% | +4.08% | 🔥🔥 QQQ outperformance |\n| **工業** | XLI | +1.35% | +2.79% | 🔥 國防+基建 theme |\n| **生技** | XBI | -0.04% | +5.70% | 📡 周表現強但日內回吐 |\n\n### 📉 落後 Sectors\n| Sector | ETF | Day Chg | Signal |\n|--------|-----|---------|--------|\n| **能源** | XLE | -0.88% | ⚠️ 油價持續走弱 |\n| **金融** | XLF | -0.20% | 橫行，冇方向 |\n| **消費者** | XLY | +0.14% | 平穩，冇特別 |\n\n### 🔄 Rotation Signal\nQ2季末 window dressing 完結後，7月開局見到明確 rotation pattern：\n- **資金從 Mag 7 擴散到 broader tech（semis）** — SMH +3.78% vs QQQ +1.70%\n- **國防工業持續強勢** — AVAV +18.76%, HON Aerospace spinoff\n- **能源持續被拋售** — 油價 Q2 pandemic以來最差\n- **呢個唔係 risk-off rotation，係 theme rotation** — 錢冇走，只係轉咗去新主題\n\n---\n\n## 🎯 Pre-market Opportunities\n\n### 🎯 ACTION — 高信心機會\n\n**AVGO** (377.75, +1.42%)\n- 新晶片消息 + 分析師上調 PT\n- Networking/AI chip portfolio 係 data center 基建核心\n- 相對 NVDA 較 defensive（業務多元化），係 semi exposure 中較穩嘅選擇\n- **今日部署:** Pullback to 370-372 可考慮。Semi momentum 強勁，AVGO 係 leadership name。\n\n**國防 Super-Cycle** — AVAV, HON\n- AVAV +18.76% single day — 呢個唔係 noise，係 structural demand\n- HON Aerospace spinoff 獨立上市在即\n- JPMorgan 都入場食軍工餅 — 銀行巨頭確認 defense super-cycle\n- **今日部署:** AVAV 已經 extended，追高風險大。等 pullback to ~150-155。HON spinoff 係中期 catalyst，可以開始 accummulate。\n\n### 📡 WATCH — 值得追蹤\n\n**Semis broadly** (NVDA 200.09 +2.63%, SMH 655.89 +3.78%)\n- SMH 單日 +3.78% 係今季最強 signal\n- NVDA 企穩 $200 心理關口\n- **Bull case:** AI capex 持續，Blackwell demand 強勁，semi cycle 未結束\n- **Bear case:** 估值已高，NFP 如果強勁 = rate cut delay = growth stocks pressure\n- **My view:** Semi momentum 係真嘅，但 VIX 16.71 反映極度 complacency。NFP 前唔好 chase。等 pullback。\n\n**SEDG/ENPH — Solar + AI Data Center Crossover**\n- SEDG +5.56% day, +17.49% week — 明顯有資金流入\n- Narrative: AI 數據中心用電量預計2030年翻倍，solar 係最快部署嘅清潔能源\n- **Bull case:** 如果有 utility-scale solar + battery storage 專為 data center 嘅 PPA 簽約，呢個 theme 會爆炸\n- **Bear case:** Solar intermittent，天然氣+核能先係真正 baseload solution\n- **My view:** Narrative 有想像空間，但基本面有根本限制。追蹤 PPA 簽約情況。未有 concrete deal 之前唔 action。\n\n**ADBE** (205.02, -0.68%)\n- 「SaaSpocalypse」恐懼下股價大幅回調，但估值已回落至合理水平\n- Firefly Foundry 進軍 enterprise AI model 定製係 real product catalyst\n- **My view:** Contrarian opportunity，但等 technical confirmation。需要見到 volume + price 同時 reversal.\n\n### ⚠️ 風險關注\n\n**UBER** (72.16, -4.42%)\n- Phoenix 結束與 Waymo 嘅自動駕駛合作\n- Waymo 係最領先嘅 AV 玩家，失去佢 = 失去最快嘅 AV deployment path\n- **Risk:** 如果其他城市都跟隨 Phoenix 分手，UBER 嘅 AV narrative 會崩潰\n- **Verdict:** PASS — 等 AV strategy clarity\n\n**TGT** (130.61, -2.47%)\n- 雖然有收入增長加速消息，但股價反應負面\n- 可能係 consumer health 嘅 mixed signal\n- **Verdict:** 等周五 NFP 確認 consumer strength\n\n---\n\n## 📋 Today's Agenda\n\n- **今日:** 7月開局，新季度資金配置開始流入。觀察 semis 能否持續\n- **周四:** ADP Employment（NFP preview）\n- **周五:** NFP — week's biggest catalyst\n- **Key SPY Levels:** Support 735-740 / Resistance 748-750 (all-time high zone)\n- **Key QQQ Levels:** Support 720-725 / Resistance 737 (ATH test)\n\n---\n\n## 💡 My Take\n\n**Market Bias: Bullish with caution**\n\nQ2 以強勢收場，7月開局見到幾個 constructive signals：\n\n1. **Semis 係真領袖** — SMH +3.78% 唔係 dead cat bounce，係確認 AI/晶片 theme 仍然係市場核心。AVGO、NVDA 都有實質買盤支持。\n\n2. **資金輪動，唔係撤離** — Mag 7 冇崩，只係資金從 concentrated Mag 7 擴散到 broader tech + defense。呢個係 healthy rotation。\n\n3. **國防係最確定 macro theme** — AVAV +18.76%, HON spinoff, JPMorgan 入場。呢個 trend 唔受 NFP/Fed 影響，係 structural。\n\n4. **但 VIX 16.71 係最大風險** — 市場極度 complacent。NFP 任何 surprise（太強或太弱）都會 trigger volatility spike。Position sizing 要謹慎。\n\n5. **周五 NFP 前嘅策略:** 唔好 chase semis 嘅 momentum。等 NFP 出咗先決定方向。如果 NFP 疲弱 → rate cut hope → growth/tech 繼續升。如果 NFP 強勁 → rate cut delay → 可能觸發 pullback，到時先買。\n\n**今日最緊要睇實:**\n- Semis 能否持續 momentum（SMH 650+ 係關鍵）\n- 美伊談判進展（油價 signal）\n- 亞洲時段半導體供應鏈表現（台韓已經強勢）\n\n**改變我 thesis 嘅嘢:**\n- NFP >> 所有 consensus → Bearish reversal\n- 美伊談判破裂 + 油價 spike → Inflation fear returns\n- SMH 跌穿 620 → Semi momentum fakeout",
+      "risks": [
+        "VIX 16.71 — NFP 任何 surprise 都會 trigger volatility spike",
+        "UBER AV strategy 不確定性",
+        "美伊談判破裂風險 — 油價可能 spike"
+      ],
+      "my_take": "Bullish with caution. Semis (+3.78%) 確認 AI/晶片 theme 仍然係市場核心，資金輪動健康。國防 super-cycle 係最確定 macro theme。但 VIX 16.71 反映極度 complacency，周五 NFP 係本周最大 catalyst — 唔好 chase momentum，等 NFP 後先決定方向。"
     }
   ],
   "news_curator": [
