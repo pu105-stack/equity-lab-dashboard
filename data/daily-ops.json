@@ -2101,56 +2101,6 @@
       "my_take": "Bullish with caution. Semis (+3.78%) 確認 AI/晶片 theme 仍然係市場核心，資金輪動健康。國防 super-cycle 係最確定 macro theme。但 VIX 16.71 反映極度 complacency，周五 NFP 係本周最大 catalyst — 唔好 chase momentum，等 NFP 後先決定方向。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-02",
-      "time": "08:09 HKT",
-      "status": "success",
-      "market_direction": "美股週三表現分化 — Dow 創新高後回落，Nasdaq 受晶片股拖累下跌。市場出現明顯 rotation：資金從 semiconductor/AI 流出轉向銀行、cyclical。Warsh ECB 論壇講話避談利率，市場解讀為鴿派。油價因伊朗談判進展創新低。USMCA 不獲續約，貿易政策不確定性升溫。整體方向：rotation not selloff，但 AI/tech 壓力值得關注。",
-      "headlines": [
-        "Dow 創新高後回落，Nasdaq 受晶片拋售拖累 — 資金由 AI/半導體輪動至銀行及周期性股份",
-        "Fed 主席 Warsh ECB 論壇避談利率，市場解讀偏鴿 — FOMC 會議紀要本週公布",
-        "Trump 稱 Micron 為「全球最熱公司」，市場反應冷淡反跌 10% — 政治背書 vs 基本面擔憂",
-        "美國不續簽 USMCA，開啟與加拿大、墨西哥重新談判大門 — 貿易政策不確定性升溫",
-        "Meta 承認「過剩算力」，Michael Burry 做空 AI — AI capex 見頂 narrative 加劇",
-        "石油創近期新低 — Trump 稱伊朗談判有進展，美伊即將進行間接會談",
-        "零售交易者創紀錄參與市場 — 「dumb money」指標顯示散戶信心達高位",
-        "CoreWeave、Nebius 股價大跌 — Meta 可能成為 neocloud 新威脅",
-        "Morgan Stanley 宣布 $20B 回購 + 增加股息 — 財富管理巨頭價值回歸信號",
-        "日圓跌至 40 年新低 — carry trade 重現，資金流向風險資產",
-        "FT 報導全球併購交易創紀錄 $2.8tn — dealmaking boom",
-        "Space/Defense 板塊被評為「一代人最佳買入時機」— 分析師看好",
-        "Tesla Semi 發生首宗致命車禍 — 電動卡車安全 narrative 受考驗",
-        "Bending Spoons IPO 首日飆升 40% — SaaS 市場信心信號",
-        "美國 6 月就業報告即將公布 — Goldman 估計 World Cup 可能增加 4 萬職位"
-      ],
-      "opportunities": [
-        "🎯 MU — Trump 背書 + 急跌 10%，政治溢價 vs AI 過剩風險",
-        "🔥 HOOD — 零售交易創紀錄 + crypto 回暖，完美 momentum setup",
-        "🎯 MS — $20B 回購 + 股息上調，銀行股 rotation 贏家",
-        "🎯 Space/Defense —「一代人最佳買入時機」，中東衝突+太空競賽雙催化",
-        "🎯 OIL SHORT — 伊朗談判進展 + 油價創新低，momentum short 機會"
-      ],
-      "analysis": "🎯 MU — Trump 背書 + 急跌 10%，政治溢價 vs AI 過剩風險\nMicron 獲 Trump 公開稱為「全球最熱公司」，但當日反而下跌 10%。\nBull: Trump 背書暗示政策支持，Micron 喺美國本土製造 HBM 記憶體有戰略地位。若跌穿支持位可能係入場機會。\nBear: 市場用腳投票 — Meta 承認「過剩算力」+ Burry 做空 AI，memory 需求前景有陰影。政治背書唔等於盈利。\nMy view: 📡 WATCH — 急跌後等 stabilization signal。如果企穩 $90 以上可以考慮。但如果 AI capex narrative 繼續惡化，MU 係其中一個最直接受影響嘅標的。\n🔥 HOOD — 零售交易創紀錄 + crypto 回暖，完美 momentum setup\nRobinhood 推出專注 RWA 嘅新 blockchain，同時零售交易者參與度創歷史新高。\n散戶資金流入係 HOOD 核心 revenue driver。加上 Bitcoin bear market \"可能進入尾聲\"（Cantor 分析），crypto 交易量回暖利好 HOOD + COIN。\nViper 適用：intraday momentum play，散戶熱度 + crypto correlation。留意阻力位。\n🎯 MS — $20B 回購 + 股息上調，銀行股 rotation 贏家\nMorgan Stanley paired dividend hike with $20B buyback。\n銀行股正受惠於市場 rotation（chips → banks）。MS 嘅 wealth management franchise 提供穩定 fee income，唔依賴 IB/交易收入。\nBull: Rotation 趨勢 + capital return story + 估值合理。\nBear: 如果市場全面回調，銀行股唔會免疫。Warsh 若轉鷹會打擊。\nMy view: 🎯 機會 — rotation trend 有 momentum，MS 係銀行股中質素最高之一。\n🎯 Space/Defense —「一代人最佳買入時機」，中東衝突+太空競賽雙催化\nMarketWatch 引述分析師指 space + defense 係「best time in a generation」。\nCatalysts: 伊朗衝突持續 + Trump 太空政策 + FCC 主席稱「太空創新黃金時代」+ Anduril 火箭測試站爆炸（顯示行業 active）。\nBull: 地緣政治風險結構性上升，defense spending 長期趨勢。\nBear: 部分 defense 股已 run up，估值要留意。\nMy view: 🎯 機會 — RTX/LMT/NOC 可作 swing trade，GE 涉足國防+航天。\n🎯 OIL SHORT — 伊朗談判進展 + 油價創新低，momentum short 機會\nWTI/Brent 測試新低，Trump 稱伊朗談判有進展，美伊即將間接會談。\nMorgan Stanley 此前已下調 Brent 預測。Q2 油價創 pandemic 以來最大季度跌幅。\nBull (contrarian): 若談判破裂會急速反彈，但 probability 較低。\nBear: Supply 正常化 + 需求擔憂 = 下行趨勢未結束。\nMy view: 🎯 機會（short bias）— 油氣股 short 或 avoid long。HAL/SLB 等 oil service 最直接受影響。\n📡 NVDA/AI Chips — Meta 過剩算力 + Burry 做空，AI capex peak narrative 加強\nAI 板塊面臨多重逆風：\n1. Meta 承認「excess compute capacity」— 如果最大 hyperscaler 之一都話過剩，咁其他公司好可能跟隨\n2. Michael Burry 以 AI short 押注，稱「beginning of the end」\n3. CoreWeave/Nebius 股價大跌，Meta 被指可能成為 neocloud 威脅\n4. 全球頂尖經濟學家對 AI 發出警告\nBull: AI 長期趨勢 intact，短期調整可能係買入機會\nBear: 如果 hyperscaler 集體縮減 capex，NVDA 收入 growth 會受直接衝擊\nMy view: 📡 WATCH — 呢個唔係 noise，係結構性 narrative shift。而家唔係買入時機，但都未到 panic。密切留意下輪 earnings。\n📡 USMCA/Politics — 貿易協議不續約，關稅不確定性回歸\n美國不續簽 USMCA（美墨加貿易協議），開啟重新談判。\nTrump 曾稱 USMCA 係佢嘅「brainchild」，而家變成 dead deal。\nImpact: 汽車供應鏈（GM/F 喺墨西哥有大量產能）、農業、製造業面臨關稅不確定性。\nMy view: 📡 WATCH — 目前係談判籌碼階段，但如果升級成新一輪關稅戰，cyclical/value stocks 會受壓。\n📡 CMCSA 分拆 — 媒體+科技一分為二，spinoff 解鎖價值？\nComcast 正式討論將媒體及科技業務分拆為兩間上市公司。\nSpinoff 通常解鎖 hidden value — 市場傾向給予純業務更高估值。\nMy view: 📡 WATCH — spinoff catalyst 係正面的，但執行時間表未定。等更多 detail 先判斷。\n📡 IWM/Russell 2000 — 創新高但可能後勁不繼\nRussell 2000 創新高，small cap rotation 持續。\n但 MarketWatch 警告 rally may soon lose steam。\nBull: Rotation from mega-cap → small cap 趨勢 intact\nBear: 如果經濟放緩，small cap 首當其衝。6 月就業報告係關鍵催化。\nMy view: 📡 WATCH — 等就業數據確認經濟韌性先判斷。\n📡 TSLA Semi Crash — 首宗電動卡車致命事故，安全 narrative 風險\nTesla Semi 發生首宗致命車禍。\nTesla 嘅 FSD/Autopilot 一直有安全爭議，而家延伸到 Semi 產品線。\n影響：若調查顯示系統性問題，監管風險升溫 + 客戶信心受損。\nMy view: 📡 WATCH — 單一事故未必改變大局，但如果係 autonomous system 故障，會係重大風險。\n📡 Yen Carry Trade — 日圓 40 年新低，資金流向風險資產\n日圓跌至 40 年新低，JGB 收益率升至 30 年高。\nYen carry trade 回歸：借平錢 yen → 買高息資產。\nBull: Carry trade 提供流動性，支撐 risk assets。\nBear: 如果日本央行介入（干預匯市或加息），carry trade unwind 會觸發劇烈波動（參考 2024 年 8 月）。\nMy view: 📡 WATCH — 目前利好 risk assets，但要警惕 unwind risk。\n📌 Bending Spoons IPO 首日 +40% — SaaS 市場信心回暖信號\n意大利 SaaS 公司 Bending Spoons IPO $18B，首日飆 40%。\nSaaS 經歷 2022-25 嘅估值壓縮後，呢個可能係 sector 回暖信號。\nMy view: 📌 NOTE — 唔直接 trade IPO，但係 SaaS sector sentiment 嘅 useful barometer。\n📌 $2.8tn 全球併購創紀錄 — dealmaking boom 反映 corporate confidence\nFT 報導全球 mega takeovers 推動併購交易創 $2.8tn 紀錄。\nM&A boom 利好 investment banks（GS/MS/JPM），反映 corporate confidence。\nMy view: 📌 NOTE — 長期利好 IB franchise，但唔係 immediate catalyst。\n📌 Solar → Solar+Storage pivot — Wall Street 資金轉向儲能\nOilPrice 報導 Wall Street 資金由 pure solar 轉向 solar plus storage。\n反映 solar 行業成熟化 + storage 成為差異化競爭優勢。\nMy view: 📌 NOTE — SEDG/ENPH 受壓但長期有 storage pivot。未有 immediate catalyst。\n📌 6 月就業報告即將出爐 — Goldman：World Cup 可能增加 4 萬職位\nJOLTS 顯示 7.6M 職位空缺。6 月 payrolls 週四公布。\nGoldman 估計 FIFA World Cup 可能為報告增加 40K 臨時職位。\nMy view: 📌 NOTE — 呢個係一次性因素，market 可能 overreact。要 adjust expectation。",
-      "risks": [
-        "AI capex 見頂風險（Meta 過剩算力 + Burry 做空）",
-        "USMCA 談判不確定性",
-        "Yen carry trade unwind risk",
-        "6 月就業數據可能令市場 overreact"
-      ],
-      "my_take": "今日市場核心 narrative：rotation not selloff。\n\n資金由 AI/semiconductor 流向銀行+cyclical，Dow 創新高後回落，Nasdaq 受壓。呢個唔係 panic，係 healthy rotation。\n\n兩個最主要嘅 actionable 機會：\n1. 🎯 銀行股（MS 領頭）— rotation beneficiary + capital return story\n2. 🎯 Space/Defense — 地緣政治催化 + 分析師 bullish call\n3. 🎯 Oil short — 伊朗談判進展令供應風險溢價消失\n\n最大風險仍然係 AI capex peak narrative。Meta 承認「excess compute capacity」+ Michael Burry 做空 AI + neocloud 股大跌，形成一個越來越 convincing 嘅 bear case。呢個唔係暫時性噪音，係結構性 narrative shift。NVDA/SMCI/DELL 等 AI hardware 股要謹慎。\n\n🔥 Viper 適用：HOOD — 零售交易創紀錄 + crypto 回暖 + 新 blockchain launch。intraday momentum play。\n",
-      "key_takeaways": [
-        "市場 rotation：chips → banks/cyclical，Dow 創新高後回落",
-        "AI narrative shift：Meta 過剩算力 + Burry 做空，NVDA 產業鏈風險升溫",
-        "MS $20B buyback + dividend hike — rotation winner",
-        "Space/Defense 被評為「一代人最佳買入時機」",
-        "Oil 創新低 — 伊朗談判進展令供應緊張緩解",
-        "HOOD — 零售交易創紀錄 + crypto tailwind + 新 blockchain",
-        "USMCA 不獲續約 — 貿易政策不確定性回歸",
-        "Yen carry trade 回歸 — 日圓 40 年新低",
-        "6 月就業報告週四公布 — World Cup 可能增加 40K 臨時職位"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-02",
       "time": "08:32 HKT",
@@ -2177,6 +2127,74 @@
         "Yen carry trade unwind: 低概率但高 impact"
       ],
       "my_take": "Rotation confirmed 但 AI 崩盤 severity 超預期。資金明確棄 AI/semis 轉向 banks/defense。AI capex peak narrative 已成主流共識，MU -10.6% 嘅 Trump endorsement paradox 係今日最 telling signal。明日 focus：就業報告（不要淨睇 headline）+ 有冇其他 hyperscaler 跟 Meta 發表算力過剩言論。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-02",
+      "time": "20:02 HKT",
+      "status": "success",
+      "enriched_articles_count": 2191,
+      "curated_count": 15,
+      "market_direction": "亞洲時段風險偏好偏弱 — AI 晶片股遭拋售（Meta 雲端威脅），日元疑似干預推高避險情緒，黃金受惠 Warsh 鴿派言論反彈，石油續跌。Bitcoin 反彈至 $61K 以上帶動 crypto 情緒改善。",
+      "headlines": [
+        "Meta 進軍雲端基建引爆 AI 產能過剩恐慌，晶片股全線下跌",
+        "Google 最終上訴失敗，€4.1B 歐盟罰款鎖定",
+        "Nvidia 回調被分析師視為買入機會",
+        "CoreWeave -17%、Nebius 暴跌，Neocloud 面臨生存危機",
+        "日元疑似干預，USD/JPY 急跌 0.5%",
+        "黄金延續升勢，Warsh 淡化加息預期",
+        "Bitcoin 突破 $61K，長期持有者恢復累積"
+      ],
+      "opportunities": [
+        "🎯 META — 進軍雲端基建，股價逆市 +9%。呢個係 structural shift，唔係短期 trade。",
+        "🎯 NVDA — 回調 = 機會？Palantir 主權 AI 交易係新催化劑。等 NFP 後確認方向。",
+        "🎯 GLD — Warsh 淡化加息 + Double Bottom 技術支撐。NFP 前夕避險配置。"
+      ],
+      "analysis": "## 2026-07-02 亞洲/歐洲時段新聞分析\n\n### 核心主題：AI 產能過剩恐慌 + 日元干預\n\n**1. Meta 引爆 AI 晶片股拋售**\n今朝最大新聞：Meta 承認有「excess compute capacity」並宣布進軍雲端基建，直接衝擊 CoreWeave、Nebius 等 Neocloud 公司。CRWV 單日跌 17%，NBIS 同步暴跌。NVDA、AMD、AVGO 等晶片股全線受壓。\n→ Bull case: META 用自己嘅 infrastructure，反而證明 AI demand 仍然強勁（只係 internalized）\n→ Bear case: AI capex cycle 見頂訊號，產能過剩會壓低整個 industry 嘅 pricing power\n→ My view: META 嘅 move 係 structural positive for META itself，但對純 AI infra plays (CRWV, NBIS) 係 existential threat。NVDA 嘅影響較 indirect — 就算 client 由 Neocloud 轉去 META，GPU demand 未必跌。\n\n**2. 日元疑似干預**\nUSD/JPY 急跌 0.5%，市場傳出日本央行干預。NFP 聽日公布，若數據強勁可能會再推高美元，加大干預壓力。\n→ 關注: JPY carry trade unwind risk\n\n**3. Google 歐盟罰款塵埃落定**\n8 年官司終結。€4.1B 一次性罰款對 GOOGL 財務影響有限（現金 $100B+），但 regulatory overhang 確認。\n→ 中性偏淡：罰款本身唔大，但反映 EU 持續施壓 Big Tech\n\n**4. 黄金 & Crypto 反彈**\nWarsh 淡化加息預期 → 黄金延續升勢，Bitcoin 突破 $61K。\nMeme coin 活動回歸（Solana token launches 創 80 日新高）。\n→ 風險偏好兩極化：股票避險，crypto 反而 risk-on\n\n**5. 石油弱勢**\n霍爾木茲海峽重開、伊朗談判進展、供應過剩 — 油價連跌四周。\n→ Geopolitical risk premium 消退中",
+      "risks": [
+        "⚠️ AI 產能過剩 — Meta cloud entry 可能令整個 AI infra space 重新定價",
+        "⚠️ NFP 明日公布 — 若數據強勁，加息預期回升，股債雙殺風險",
+        "⚠️ 日元干預 — Carry trade unwind 可能觸發跨資產波動",
+        "⚠️ 油價續跌 — 若跌破關鍵支撐，能源板塊可能加速下行"
+      ],
+      "my_take": "今日市況一句講晒：**AI trade 進入 phase 2 — 贏家同輸家開始分化。**\n\nMeta 嘅 cloud move 係分水嶺。之前市場 assumption 係 AI capex 會無限量增長，所有 infrastructure plays 都受惠。而家 Meta 話：「我哋自己搞得掂，仲有多餘 capacity 賣返出嚟。」呢個改變咗個 narrative。\n\n對於 trading desk：\n- **META 係新嘅 AI winner** — 唔只 social media，而家仲係 cloud infra player。9% 升幅反映市場認同。\n- **NVDA 回調係 WATCH，唔係即時 ACTION** — 等 NFP 同埋下星期嘅 market digestion 先決定。\n- **CRWV/NBIS 係 PASS** — existential threat，唔好接刀。\n- **GLD 係 defensive hedge** — NFP 前夕 + Warsh 鴿派 + Double Bottom，risk/reward 合理。\n- **USD/JPY 警戒** — 干預風險升級，carry trade positions 要留意。\n\n一句講：trade META strength，避開 AI pure-plays，hedge with gold。",
+      "key_takeaways": [
+        "Meta 進軍雲端 = AI infra landscape 重新洗牌",
+        "NVDA 回調 ≠ 災難，但等 catalyst 確認先出手",
+        "Neocloud (CRWV/NBIS) = existential risk，避開",
+        "黃金 = NFP 前夕最佳 hedge",
+        "日元干預風險升級，留意跨資產 contagion",
+        "Crypto 反彈但信心未穩，Meme coin 活動回歸值得留意"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-02",
+      "time": "20:36 HKT",
+      "status": "success",
+      "market_direction": "Neutral with defensive bias — NFP前夕，AI分化，避險優先",
+      "headlines": [
+        "ADP 98K極弱 — NFP前夕市場戒備",
+        "META +8.81% — 雲端基建story改變AI landscape",
+        "NVDA -1.25% — AI產能過剩恐慌，Neocloud暴跌",
+        "Gold 5連升 — Warsh鴿派+NFP避險",
+        "USD/JPY疑似干預 — carry trade警戒",
+        "FOMC Jun statement 12-0 hawkish hold 首次被Morning Scan覆蓋"
+      ],
+      "focus": [
+        "META — structural long on cloud infra pivot",
+        "GLD — NFP hedge with Double Bottom support",
+        "NVDA — WATCH only, 等NFP後clarity",
+        "USD/JPY — intervention risk ahead of NFP"
+      ],
+      "analysis": "# Morning Scan — 2026年7月2日（星期四）\n\n## Fed Context — Jun FOMC Statement + Warsh\n\n### 6月16-17日 FOMC Statement（首次 Morning Scan 覆蓋）\n上期 FOMC statement **從未被 Morning Scan 完整分析**，今朝補返：\n\n- **利率**：維持 3.50-3.75%，12-0 全票通過\n- **經濟評估**：\"expanding at a solid pace\" — 正面，但同時標註 \"elevated uncertainty\"（中東衝突）\n- **就業**：\"job gains have kept pace with the workforce, unemployment rate has changed little\" — 勞動市場平衡\n- **通脹**：\"remains elevated relative to 2% goal\" — 特別指出 \"supply shocks\" 包括能源價格\n- **最關鍵一句**：\"The Committee will deliver price stability.\" — 呢句比上次 statement 更 hawkish，強調決心\n\n### Kevin Warsh（新任 Fed Chair）最新信號\n- Warsh 近期公開淡化加息預期，市場 interpret 為 dovish\n- 但 FOMC statement 仍然係 12-0 hawkish hold — Warsh 個人言論 vs committee consensus 之間有 tension\n- **Takeaway**：Warsh 想 calm market，但 statement 冇讓步。7月28-29日下次 FOMC 前，Warsh 每一句公開發言都要睇實\n\n### Macro 意義\n- 利率維持 3.50-3.75%，yield curve 仍然 positive（10Y-2Y = 0.31%），冇 recession signal\n- 但 ADP 98K（vs expected ~150K）係明顯 weakness signal — 聽日 NFP 極關鍵\n- 如果 NFP 同樣弱，market 會加速 price-in 減息，對股市有利但對 dollar 不利\n\n---\n\n## 隔夜市場\n\n### 美國收市（7月1日）\n- **SPY** 745.76（-0.14%）— 窄幅波動，全周仍 +1.6%，Q2 強勢收尾後第一個交易日偏謹慎\n- **QQQ** 725.17（-1.53%）— AI 晶片股遭拋售，Meta 雲端消息觸發板塊輪動\n- **DIA** — 持平，資金從科技轉向價值/防禦\n- **IWM** — 微跌，small cap 未有方向\n\n### 債市\n- **10Y yield** 4.44%（Jun 30）— 由上周 4.38% 回升，ADP 弱 + NFP 前夕有避險買盤\n- **2Y yield** 4.14% — yield curve 維持正 0.31%，冇倒掛\n- 債市正在 price-in ADP weakness — 聽日 NFP 係關鍵 catalyst\n\n### 原物料 & FX\n- **WTI Oil** $67.18（-2.04%）— 連跌三日，$70 關口失守，需求憂慮 + 中東停火談判壓低油價\n- **Gold** $4,078.80（+0.62%）— 5日連升，Warsh 鴿派 + NFP 前夕避險 + Double Bottom 技術支撐\n- **USD/JPY** 161.02（-0.99%）— 疑似央行干預急跌 0.5%，NFP 前夕 carry trade 警戒\n- **BTC** $61,357（+2.25%）— 反彈至 $61K 以上，crypto 情緒改善\n\n### VIX\n- **16.49**，由上周 18.41 持續回落。VIX 極低 = market complacency？定係真正 calm before NFP storm？\n\n---\n\n## 今日重點事件\n\n### NFP Eve — 聽日（7月3日）非農就業報告\n- **ADP 私營就業**：98K（極弱，預期 ~150K）\n- 聽日 NFP consensus 估計會下調，market 已經開始 price-in weakness\n- **Scenario 1**：NFP 低過 100K — 避險升溫，gold bid，dollar sell，股市可能先跌後彈（減息預期）\n- **Scenario 2**：NFP 150-200K — 市場鬆一口氣，risk-on，AI/tech 反彈\n- **Scenario 3**：NFP 高過 250K — 減息預期降溫，可能短線利淡，但好過 recession fear\n\n### 其他\n- **USD/JPY intervention watch** — 161 水平疑似央行干預，如果明日 NFP 觸發進一步日元升值，carry trade unwind 風險要留意\n- **中東局勢** — 停火談判有進展，油價回落反映市場樂觀，但任何破裂都會觸發油價急彈\n\n---\n\n## Sector Watch\n\n### AI / Semi（分化加劇）\n- **Bull side**：META +8.81% — 進軍雲端基建，市場 buy 呢個 structural shift。META 由 social media stock 變身 AI infra play\n- **Bear side**：NVDA -1.25%，CRWV -17%，NBIS 暴跌 — AI 產能過剩恐慌。Meta 自己做 cloud 意味第三方 Neocloud 需求被蠶食\n- **判決**：AI trade 進入 Phase 2。Winners（META, hyperscalers）vs Losers（pure-play Neocloud, second-tier chip stocks）。唔好撈底 NVDA 住，等 NFP 後確認\n\n### 貴金屬（Defensive）\n- Gold 5連升，Warsh 淡化加息 + Double Bottom 技術形態 + NFP 前夕避險\n- GLD $370.60（+0.60%），risk/reward 喺 NFP 前夕合理\n\n### 能源（Weak）\n- Oil 跌穿 $68，三日跌幅 ~5%。短期需求憂慮主導\n- 如果 NFP 弱 — oil 進一步受壓（demand fear）\n- 如果中東停火確定 — oil 再跌\n\n### Crypto（Recovering）\n- BTC $61,357，由上周 $58K 低位反彈 ~5%\n- 情緒改善但未確認趨勢，等 $63K 突破先考慮\n\n---\n\n## Pre-market Opportunities\n\n### ACTION\n- **META** — 雲端基建故事係 structural catalyst，唔係一日行情。+9% 之後等 pullback 先入，但方向明確。今日如果回到 $600 以下係更好 entry。NFP 前唔好追高\n- **GLD** — Warsh 鴿派 + NFP hedge + Double Bottom。position sizing 要細（NFP 前夕），但方向係 long\n\n### WATCH\n- **NVDA** — 回調係健康，但未到買入時機。$193-195 係關鍵 support。等 NFP 後 + 等 AI overcapacity narrative 消化完先決定。唔好撈底\n- **USD/JPY** — 干預風險升級。如果 NFP 弱 + BOJ 出手 — USD/JPY 可能急跌至 158。carry trade 相關持倉要警覺\n- **CRWV/NBIS** — PASS。Neocloud existential threat，等塵埃落定先\n\n### 風險\n- **NFP asymmetric risk** — 聽日數據可以 trigger 2%+ move，今日唔適宜開大倉\n- **AI sector rotation** — META 贏 = 其他 AI pure-plays 輸，唔好以為全個 sector 一齊升\n\n---\n\n## Today's Agenda\n\n- **今日**：NFP Eve — 市場消化 ADP 98K weakness、Meta cloud 消息、日元干預\n- **明日（7月3日）**：NFP 就業報告 — 本月最重要 macro event\n- **下星期**：Q2 earnings season 預熱，TSLA 交付數據\n- **7月28-29日**：下次 FOMC — 3.5 星期後\n\n### Key Levels\n- **SPY support**：740（前低），735（Jun 26 low），阻力：750（昨日 high）\n- **QQQ support**：720（心理關口），705（Jun 26 low），阻力：737（前高）\n- **NVDA support**：$193-195（關鍵），跌破就见 $185\n- **Gold**：$4,000 support，阻力 $4,100\n\n---\n\n## My Take\n\n**一句總結：NFP 前夕，AI trade 分化，defensive positioning 優先。**\n\n今日係暴風雨前嘅平靜。ADP 98K 係明顯 weakness signal，聽日 NFP 無論結果如何都會 trigger 大 moves。\n\n**Bull case**：Warsh 鴿派言論 + ADP weakness — 市場加速 price-in 減息 — 股市受惠（尤其利率敏感 growth stocks）\n\n**Bear case**：AI overcapacity narrative 擴散 — 晶片股繼續出血 — 拖低 QQQ — 如果再加 NFP 極弱 — recession fear 大過 rate cut hope\n\n**我嘅 positioning bias**：\n- NFP 前夕唔開大倉，最多 light hedge（GLD）\n- META 係 best structural long，但等 pullback（NFP後 $590-600 range）\n- NVDA 係 WATCH，唔係 ACTION — AI narrative 正在轉變，等 clarity\n- Defensive 為主：GLD、cash、避開 AI pure-plays\n- 留意 USD/JPY intervention — 如果明日 NFP 後日元急升，可能觸發 broader risk-off\n\n**What changes my mind**：\n- NFP > 200K + wage growth moderate — 轉 bullish，re-enter AI/tech\n- NFP < 75K — recession trade，full defensive\n- Meta 回調 < $580 — 表示市場消化完畢，可以考慮加倉",
+      "risks": [
+        "NFP asymmetric risk — 明日數據可trigger 2%+ move",
+        "AI sector rotation — winners vs losers分化加劇",
+        "USD/JPY carry trade unwind — 干預風險升級",
+        "中東停火談判破裂風險 — 油價急彈"
+      ],
+      "my_take": "NFP 前夕，ADP 98K 極弱，市場處於暴風雨前嘅平靜。\n\nBull case：弱數據 lead to 減息預期升溫 lead to 股市受惠（Goldilocks）\nBear case：AI overcapacity + NFP shock lead to recession fear 大過 rate cut hope\n\n策略：defensive positioning。GLD 做 NFP hedge，META pullback 後係 best structural long，NVDA 繼續 WATCH 等 clarity。USD/JPY 干預風險要警覺。唔好喺 NFP 前夕開大倉。"
     }
   ],
   "news_curator": [
