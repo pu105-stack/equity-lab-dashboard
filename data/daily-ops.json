@@ -2099,6 +2099,84 @@
         "美伊談判破裂風險 — 油價可能 spike"
       ],
       "my_take": "Bullish with caution. Semis (+3.78%) 確認 AI/晶片 theme 仍然係市場核心，資金輪動健康。國防 super-cycle 係最確定 macro theme。但 VIX 16.71 反映極度 complacency，周五 NFP 係本周最大 catalyst — 唔好 chase momentum，等 NFP 後先決定方向。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-02",
+      "time": "08:09 HKT",
+      "status": "success",
+      "market_direction": "美股週三表現分化 — Dow 創新高後回落，Nasdaq 受晶片股拖累下跌。市場出現明顯 rotation：資金從 semiconductor/AI 流出轉向銀行、cyclical。Warsh ECB 論壇講話避談利率，市場解讀為鴿派。油價因伊朗談判進展創新低。USMCA 不獲續約，貿易政策不確定性升溫。整體方向：rotation not selloff，但 AI/tech 壓力值得關注。",
+      "headlines": [
+        "Dow 創新高後回落，Nasdaq 受晶片拋售拖累 — 資金由 AI/半導體輪動至銀行及周期性股份",
+        "Fed 主席 Warsh ECB 論壇避談利率，市場解讀偏鴿 — FOMC 會議紀要本週公布",
+        "Trump 稱 Micron 為「全球最熱公司」，市場反應冷淡反跌 10% — 政治背書 vs 基本面擔憂",
+        "美國不續簽 USMCA，開啟與加拿大、墨西哥重新談判大門 — 貿易政策不確定性升溫",
+        "Meta 承認「過剩算力」，Michael Burry 做空 AI — AI capex 見頂 narrative 加劇",
+        "石油創近期新低 — Trump 稱伊朗談判有進展，美伊即將進行間接會談",
+        "零售交易者創紀錄參與市場 — 「dumb money」指標顯示散戶信心達高位",
+        "CoreWeave、Nebius 股價大跌 — Meta 可能成為 neocloud 新威脅",
+        "Morgan Stanley 宣布 $20B 回購 + 增加股息 — 財富管理巨頭價值回歸信號",
+        "日圓跌至 40 年新低 — carry trade 重現，資金流向風險資產",
+        "FT 報導全球併購交易創紀錄 $2.8tn — dealmaking boom",
+        "Space/Defense 板塊被評為「一代人最佳買入時機」— 分析師看好",
+        "Tesla Semi 發生首宗致命車禍 — 電動卡車安全 narrative 受考驗",
+        "Bending Spoons IPO 首日飆升 40% — SaaS 市場信心信號",
+        "美國 6 月就業報告即將公布 — Goldman 估計 World Cup 可能增加 4 萬職位"
+      ],
+      "opportunities": [
+        "🎯 MU — Trump 背書 + 急跌 10%，政治溢價 vs AI 過剩風險",
+        "🔥 HOOD — 零售交易創紀錄 + crypto 回暖，完美 momentum setup",
+        "🎯 MS — $20B 回購 + 股息上調，銀行股 rotation 贏家",
+        "🎯 Space/Defense —「一代人最佳買入時機」，中東衝突+太空競賽雙催化",
+        "🎯 OIL SHORT — 伊朗談判進展 + 油價創新低，momentum short 機會"
+      ],
+      "analysis": "🎯 MU — Trump 背書 + 急跌 10%，政治溢價 vs AI 過剩風險\nMicron 獲 Trump 公開稱為「全球最熱公司」，但當日反而下跌 10%。\nBull: Trump 背書暗示政策支持，Micron 喺美國本土製造 HBM 記憶體有戰略地位。若跌穿支持位可能係入場機會。\nBear: 市場用腳投票 — Meta 承認「過剩算力」+ Burry 做空 AI，memory 需求前景有陰影。政治背書唔等於盈利。\nMy view: 📡 WATCH — 急跌後等 stabilization signal。如果企穩 $90 以上可以考慮。但如果 AI capex narrative 繼續惡化，MU 係其中一個最直接受影響嘅標的。\n🔥 HOOD — 零售交易創紀錄 + crypto 回暖，完美 momentum setup\nRobinhood 推出專注 RWA 嘅新 blockchain，同時零售交易者參與度創歷史新高。\n散戶資金流入係 HOOD 核心 revenue driver。加上 Bitcoin bear market \"可能進入尾聲\"（Cantor 分析），crypto 交易量回暖利好 HOOD + COIN。\nViper 適用：intraday momentum play，散戶熱度 + crypto correlation。留意阻力位。\n🎯 MS — $20B 回購 + 股息上調，銀行股 rotation 贏家\nMorgan Stanley paired dividend hike with $20B buyback。\n銀行股正受惠於市場 rotation（chips → banks）。MS 嘅 wealth management franchise 提供穩定 fee income，唔依賴 IB/交易收入。\nBull: Rotation 趨勢 + capital return story + 估值合理。\nBear: 如果市場全面回調，銀行股唔會免疫。Warsh 若轉鷹會打擊。\nMy view: 🎯 機會 — rotation trend 有 momentum，MS 係銀行股中質素最高之一。\n🎯 Space/Defense —「一代人最佳買入時機」，中東衝突+太空競賽雙催化\nMarketWatch 引述分析師指 space + defense 係「best time in a generation」。\nCatalysts: 伊朗衝突持續 + Trump 太空政策 + FCC 主席稱「太空創新黃金時代」+ Anduril 火箭測試站爆炸（顯示行業 active）。\nBull: 地緣政治風險結構性上升，defense spending 長期趨勢。\nBear: 部分 defense 股已 run up，估值要留意。\nMy view: 🎯 機會 — RTX/LMT/NOC 可作 swing trade，GE 涉足國防+航天。\n🎯 OIL SHORT — 伊朗談判進展 + 油價創新低，momentum short 機會\nWTI/Brent 測試新低，Trump 稱伊朗談判有進展，美伊即將間接會談。\nMorgan Stanley 此前已下調 Brent 預測。Q2 油價創 pandemic 以來最大季度跌幅。\nBull (contrarian): 若談判破裂會急速反彈，但 probability 較低。\nBear: Supply 正常化 + 需求擔憂 = 下行趨勢未結束。\nMy view: 🎯 機會（short bias）— 油氣股 short 或 avoid long。HAL/SLB 等 oil service 最直接受影響。\n📡 NVDA/AI Chips — Meta 過剩算力 + Burry 做空，AI capex peak narrative 加強\nAI 板塊面臨多重逆風：\n1. Meta 承認「excess compute capacity」— 如果最大 hyperscaler 之一都話過剩，咁其他公司好可能跟隨\n2. Michael Burry 以 AI short 押注，稱「beginning of the end」\n3. CoreWeave/Nebius 股價大跌，Meta 被指可能成為 neocloud 威脅\n4. 全球頂尖經濟學家對 AI 發出警告\nBull: AI 長期趨勢 intact，短期調整可能係買入機會\nBear: 如果 hyperscaler 集體縮減 capex，NVDA 收入 growth 會受直接衝擊\nMy view: 📡 WATCH — 呢個唔係 noise，係結構性 narrative shift。而家唔係買入時機，但都未到 panic。密切留意下輪 earnings。\n📡 USMCA/Politics — 貿易協議不續約，關稅不確定性回歸\n美國不續簽 USMCA（美墨加貿易協議），開啟重新談判。\nTrump 曾稱 USMCA 係佢嘅「brainchild」，而家變成 dead deal。\nImpact: 汽車供應鏈（GM/F 喺墨西哥有大量產能）、農業、製造業面臨關稅不確定性。\nMy view: 📡 WATCH — 目前係談判籌碼階段，但如果升級成新一輪關稅戰，cyclical/value stocks 會受壓。\n📡 CMCSA 分拆 — 媒體+科技一分為二，spinoff 解鎖價值？\nComcast 正式討論將媒體及科技業務分拆為兩間上市公司。\nSpinoff 通常解鎖 hidden value — 市場傾向給予純業務更高估值。\nMy view: 📡 WATCH — spinoff catalyst 係正面的，但執行時間表未定。等更多 detail 先判斷。\n📡 IWM/Russell 2000 — 創新高但可能後勁不繼\nRussell 2000 創新高，small cap rotation 持續。\n但 MarketWatch 警告 rally may soon lose steam。\nBull: Rotation from mega-cap → small cap 趨勢 intact\nBear: 如果經濟放緩，small cap 首當其衝。6 月就業報告係關鍵催化。\nMy view: 📡 WATCH — 等就業數據確認經濟韌性先判斷。\n📡 TSLA Semi Crash — 首宗電動卡車致命事故，安全 narrative 風險\nTesla Semi 發生首宗致命車禍。\nTesla 嘅 FSD/Autopilot 一直有安全爭議，而家延伸到 Semi 產品線。\n影響：若調查顯示系統性問題，監管風險升溫 + 客戶信心受損。\nMy view: 📡 WATCH — 單一事故未必改變大局，但如果係 autonomous system 故障，會係重大風險。\n📡 Yen Carry Trade — 日圓 40 年新低，資金流向風險資產\n日圓跌至 40 年新低，JGB 收益率升至 30 年高。\nYen carry trade 回歸：借平錢 yen → 買高息資產。\nBull: Carry trade 提供流動性，支撐 risk assets。\nBear: 如果日本央行介入（干預匯市或加息），carry trade unwind 會觸發劇烈波動（參考 2024 年 8 月）。\nMy view: 📡 WATCH — 目前利好 risk assets，但要警惕 unwind risk。\n📌 Bending Spoons IPO 首日 +40% — SaaS 市場信心回暖信號\n意大利 SaaS 公司 Bending Spoons IPO $18B，首日飆 40%。\nSaaS 經歷 2022-25 嘅估值壓縮後，呢個可能係 sector 回暖信號。\nMy view: 📌 NOTE — 唔直接 trade IPO，但係 SaaS sector sentiment 嘅 useful barometer。\n📌 $2.8tn 全球併購創紀錄 — dealmaking boom 反映 corporate confidence\nFT 報導全球 mega takeovers 推動併購交易創 $2.8tn 紀錄。\nM&A boom 利好 investment banks（GS/MS/JPM），反映 corporate confidence。\nMy view: 📌 NOTE — 長期利好 IB franchise，但唔係 immediate catalyst。\n📌 Solar → Solar+Storage pivot — Wall Street 資金轉向儲能\nOilPrice 報導 Wall Street 資金由 pure solar 轉向 solar plus storage。\n反映 solar 行業成熟化 + storage 成為差異化競爭優勢。\nMy view: 📌 NOTE — SEDG/ENPH 受壓但長期有 storage pivot。未有 immediate catalyst。\n📌 6 月就業報告即將出爐 — Goldman：World Cup 可能增加 4 萬職位\nJOLTS 顯示 7.6M 職位空缺。6 月 payrolls 週四公布。\nGoldman 估計 FIFA World Cup 可能為報告增加 40K 臨時職位。\nMy view: 📌 NOTE — 呢個係一次性因素，market 可能 overreact。要 adjust expectation。",
+      "risks": [
+        "AI capex 見頂風險（Meta 過剩算力 + Burry 做空）",
+        "USMCA 談判不確定性",
+        "Yen carry trade unwind risk",
+        "6 月就業數據可能令市場 overreact"
+      ],
+      "my_take": "今日市場核心 narrative：rotation not selloff。\n\n資金由 AI/semiconductor 流向銀行+cyclical，Dow 創新高後回落，Nasdaq 受壓。呢個唔係 panic，係 healthy rotation。\n\n兩個最主要嘅 actionable 機會：\n1. 🎯 銀行股（MS 領頭）— rotation beneficiary + capital return story\n2. 🎯 Space/Defense — 地緣政治催化 + 分析師 bullish call\n3. 🎯 Oil short — 伊朗談判進展令供應風險溢價消失\n\n最大風險仍然係 AI capex peak narrative。Meta 承認「excess compute capacity」+ Michael Burry 做空 AI + neocloud 股大跌，形成一個越來越 convincing 嘅 bear case。呢個唔係暫時性噪音，係結構性 narrative shift。NVDA/SMCI/DELL 等 AI hardware 股要謹慎。\n\n🔥 Viper 適用：HOOD — 零售交易創紀錄 + crypto 回暖 + 新 blockchain launch。intraday momentum play。\n",
+      "key_takeaways": [
+        "市場 rotation：chips → banks/cyclical，Dow 創新高後回落",
+        "AI narrative shift：Meta 過剩算力 + Burry 做空，NVDA 產業鏈風險升溫",
+        "MS $20B buyback + dividend hike — rotation winner",
+        "Space/Defense 被評為「一代人最佳買入時機」",
+        "Oil 創新低 — 伊朗談判進展令供應緊張緩解",
+        "HOOD — 零售交易創紀錄 + crypto tailwind + 新 blockchain",
+        "USMCA 不獲續約 — 貿易政策不確定性回歸",
+        "Yen carry trade 回歸 — 日圓 40 年新低",
+        "6 月就業報告週四公布 — World Cup 可能增加 40K 臨時職位"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-02",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "Rotation confirmed — semis 崩盤 (-5.4%), banks/defense 領漲",
+      "headlines": [
+        "SMH -5.4%：AI capex peak narrative 升級為結構性 re-rating",
+        "MU -10.6%：Trump 背書反跌，memory 股成 AI 疑慮最大受害者",
+        "XLF +2.2%：銀行股 rotation 全面啟動，MS +1.4%",
+        "Defense 全面走強：LMT +2.4%, NOC +2.1%, RTX +1.1%",
+        "HOOD +8.4%, COIN +8.9%：散戶熱度 + crypto 回暖雙催化"
+      ],
+      "opportunities": [
+        "MS/XLF: rotation momentum intact, capital return story",
+        "RTX/LMT/NOC: structural defense bid, geopolitical catalysts",
+        "HAL/SLB: oil short trend intact, Iranian deal progress",
+        "HOOD/COIN: momentum play, wait for pullback entry"
+      ],
+      "analysis": "## Fed Context\n\n下次 FOMC 係 Jul 28-29，距離而家約 4 星期。Kevin Warsh 呢個星期喺 ECB Forum 嘅講話刻意避開利率議題，市場普遍解讀為鴿派 — Fed 維持觀望態度，未有 imminent hike 嘅信號。\n\n今個星期冇重大 Fed press release 影響市場（最新只係 routine enforcement actions + payments study）。FOMC 前嘅 blackout period 尚未開始，但 Warsh 表態冇新 signal，macro backdrop 相對平靜。對市場嚟講，焦點已由 Fed 轉向就業數據同微觀 catalyst。\n\n值得注意：FOMC Schedule 2026 顯示今年已完成 Jan、Mar、Apr、Jun 四次會議，Jul 28-29 係第五次。利率期貨定價反映市場預期全年維持不變 — 但如果就業數據持續強勁（例如今個星期嘅 6 月 payrolls），hawkish risk 會重新浮現。\n\n---\n\n## 1. 📊 Market Recap\n\n美股週三（Jul 1）表現明顯分化，confirm 咗 News Curator 嘅「rotation not selloff」判斷：\n\n| 指數 | 收市 | 日變幅 | 5日 |\n|------|------|--------|-----|\n| SPY | 745.76 | -0.14% | +1.56% |\n| QQQ | 725.17 | **-1.52%** | +1.23% |\n| DIA | 522.40 | flat | +0.60% |\n| IWM | 299.32 | -0.38% | +0.14% |\n| VIX | 16.59 | +0.85% | — |\n\nSector performance 極度分化：\n- 🟢 **XLF (Financials): +2.18%** — rotation 最大贏家，銀行股全面走強\n- 🟢 XLV (Healthcare): +0.55% — defensive bid\n- 🟢 XLY (Consumer Disc): +0.69% — TSLA/HOOD 帶動\n- 🔴 **SMH (Semis): -5.40%** — 災難級跌幅，AI chip narrative 急劇惡化\n- 🔴 **XLK (Tech): -2.57%** — broad tech selloff\n- 🔴 XLI (Industrials): -1.01%\n- 🔴 XLE (Energy): -0.56% — 油價新低拖累\n\nVIX 只係 16.59（+0.85%）— 恐怖指數未跟隨 semis 崩盤，印證呢個係 sector rotation 而唔係 broad market panic。但 SMH -5.4% 係今年少見嘅單日跌幅，值得警惕。\n\nBreadth: DIA 曾經創新高後回落，IWM 接近平收，Nasdaq 明顯跑輸。資金明確由 growth/AI 轉向 value/financials/defense。\n\n---\n\n## 2. 🔥 Notable Movers\n\n### 🔴 災難級\n\n**MU (-10.57%)** — 今日最大新聞。Trump 公開稱 Micron 為「全球最熱公司」，但市場用腳投票，逆勢暴跌超過 10%。呢個 paradoxical reaction 非常 telling：政治溢價完全被 AI 需求疑慮淹沒。Meta 嘅「excess compute capacity」+ Burry 做空 AI 形成嘅 narrative 壓力，memory 股首當其衝。MU 5 日累跌近 15%，$1,032 收市。\n\n**AMD (-6.89%)** — AI chip 二哥跟隨 SMH 暴跌。雖然跌幅冇 MU 咁極端，但 -6.89% 反映市場對整個 AI semiconductor value chain 嘅重新定價。$540 收市，接近當日低位。\n\n**SMCI (-5.73%)** — AI server/infra 股繼續被重創。CoreWeave/Nebius 大跌嘅 contagion 蔓延到 SMCI。$27.65 收市，5 日跌近 13%。AI neocloud 生態系統全面受壓。\n\n**SMH (-5.40%)** — 半導體 ETF 錄得今年最大單日跌幅之一。呢個唔係普通 pullback，係結構性 repositioning。\n\n### 🟢 大贏家\n\n**COIN (+8.93%)** — Crypto 回暖 + retail trading 狂熱嘅 double beneficiary。Cantor 分析指 Bitcoin bear market「可能進入尾聲」，疊加散戶參與度創新高。Coinbase 係最直接嘅 proxy。\n\n**HOOD (+8.35%)** — Retail trading 紀錄 + 新 RWA blockchain launch + crypto 回暖。3 個 catalyst 疊加，momentum 極強。$108.65 收市，盤中高見 $109.53。\n\n**LMT (+2.43%), NOC (+2.09%), RTX (+1.08%)** — Defense trio 全面走強。地緣政治 tension（伊朗衝突 + 太空競賽）+ 分析師 bullish call 推升整個 sector。Defense 正成為 rotation destination。\n\n**MS (+1.35%)** — 銀行股 rotation 贏家之一。$20B buyback + dividend hike 嘅 capital return story 得到市場認可。$211.86 收市。\n\n### 🟡 值得注意\n\n**TSLA (+1.12%)** — Semi 首宗致命車禍竟然冇影響股價，反而升 1.12%。市場似乎認為單一事故唔會改變 Tesla 嘅 structural story。$425.30 收市，5 日升 13.38%。\n\n**HAL (-2.77%), SLB (-3.01%)** — Oil service 股繼續被 Iranian deal + 油價新低打壓。Oil short thesis 正在 play out，確認 News Curator 嘅判斷。\n\n---\n\n## 3. 📰 News That Mattered\n\n### ✅ News Curator calls 驗證\n\n| Curator Call | 結果 |\n|-------------|------|\n| 🎯 MS 銀行股 rotation 贏家 | ✅ MS +1.35%, XLF +2.18% |\n| 🎯 Space/Defense 買入時機 | ✅ LMT +2.43%, NOC +2.09%, RTX +1.08% |\n| 🎯 Oil short (HAL/SLB) | ✅ HAL -2.77%, SLB -3.01% |\n| 📡 NVDA/AI capex peak risk | ✅ SMH -5.40%, AMD -6.89%, MU -10.57% |\n| 🔥 HOOD momentum play | ✅ HOOD +8.35%, COIN +8.93% |\n| 📡 MU 政治溢價 vs AI 過剩 | ✅ MU -10.57% — bear case 勝出 |\n\n今次 News Curator 命中率極高 — 全部 actionable calls 都 play out 咗。尤其 AI capex peak narrative 嘅 warning 非常 prescient。\n\n### 🆕 今日新催化\n\n- **Meta excess compute capacity** — 如果最大 hyperscaler 之一都話算力過剩，NVDA/AMD/MU 嘅 demand forecast 要重新審視\n- **Michael Burry AI short** — 雖然 Burry 唔一定啱（佢之前多次 premature calls），但 timing 上佢嘅「beginning of the end」narrative 加強咗市場恐慌\n- **Iran 談判進展** — Trump 確認美伊即將間接會談，supply risk premium 蒸發，油價創新低\n- **USMCA 不續約** — 貿易協議重啟談判，但市場暫時未全面定價呢個風險\n\n---\n\n## 4. 🎯 Opportunities Carry Forward\n\n### 🎯 銀行股 rotation — 短期 momentum intact\n**Tickers: MS, XLF**\n\nXLF +2.18%，連續跑贏大市。MS 嘅 capital return story（$20B buyback + dividend hike）提供額外 upside。Rotation trend 有基本面支持：higher-for-longer rate environment 利好 net interest margin，M&A boom（$2.8tn 紀錄）利好 IB revenue。\n\n**明日重點：** 睇 XLF 係咪可以守住 $54 以上。MS 嘅 $211 support level。如果 rotation 持續，銀行股可以繼續 carry。\n\n### 🎯 Space/Defense — structural bid 唔會短期消失\n**Tickers: RTX, LMT, NOC**\n\n地緣政治風險結構性上升 + 太空競賽加速 + 分析師稱「一代人最佳買入時機」。Defense sector 正成為 rotation destination — 資金由 growth/AI 出嚟需要落腳點，defense 提供 stability + growth。\n\n**明日重點：** LMT 企穩 $520、NOC 企穩 $515 以上可以繼續持有。留意中東局勢會唔會升級。\n\n### 🎯 Oil short — trend still intact\n**Tickers: HAL, SLB, OXY, XLE**\n\nIran 談判進展持續打壓油價。HAL -2.77%、SLB -3.01%、XLE -2.37%（5日）。WTI/Brent 測試新低，冇 immediate catalyst for reversal。\n\n**明日重點：** 如果 Iranian deal 有具體協議公布，oil service 可能再跌一浸。但如果談判突然破裂，會急速反彈 — 要 set stop。\n\n### 🔥 HOOD/COIN — momentum play carry forward\n**Tickers: HOOD, COIN**\n\n散戶熱度 + crypto 回暖雙催化。HOOD 新 blockchain launch 提供 narrative fuel。COIN 係 crypto proxy。\n\n**Viper 適用：** Intraday momentum play。但已經 run 咗好多（HOOD 5日 +16%），chasing here risky。等 pullback to $100-105（HOOD）先入。\n\n---\n\n## 5. ⚠️ Risks / Watchlist\n\n### 🔴 AI Capex Peak — 結構性風險升級\n今日 SMH -5.4% 唔係 noise。Meta「excess compute capacity」+ Burry short 令 AI overinvestment narrative 由 fringe 變成 mainstream。如果 NVDA 嘅 hyperscaler customers 集體縮減 capex，成條 AI value chain 都會受壓。\n\n**今晚要 monitor：** 有冇其他 hyperscaler（MSFT/GOOG/AMZN）跟隨 Meta 發表類似言論。任何 confirmation 都會 trigger 另一輪 selloff。\n\n### 🟡 6 月就業報告（週四公布）\nGoldman 警告 World Cup 可能令 payrolls 增加 40K 臨時職位 — 市場可能 overreact to headline number。如果數據超強 → rate hike fear → 打擊 growth stocks。如果數據弱 → recession fear → 打擊 cyclicals。\n\n關鍵係睇 wage growth 同 participation rate，唔好淨係睇 headline NFP。\n\n### 🟡 USMCA 談判不確定性\n雖然今日市場未全面定價，但如果談判惡化成新一輪關稅戰，GM/F/TSM/DE 等有跨境供應鏈嘅公司會受直接衝擊。暫時係 tail risk，但要留意。\n\n### 🟡 Yen Carry Trade Unwind Risk\n日圓 40 年新低利好風險資產，但如果日本央行突然介入（干預匯市或加息），carry trade unwind 可以 trigger 類似 2024 年 8 月嘅 volatility spike。目前機率低但 impact 大。\n\n---\n\n## 6. 💡 My Take\n\n**一句總結：** Rotation confirmed，但 AI 崩盤嘅 severity 超出預期 — 呢個唔再係健康輪動，半導體正經歷結構性 re-rating。\n\n今日最重要嘅 takeaway：市場明確表態 — 寧願俾 2% 買銀行股（XLF），都唔要 -5.4% 嘅半導體。AI capex peak narrative 由 fringe theory 變成 consensus concern，呢個轉變嘅速度比任何人預期都快。\n\n**明日 bias: Cautious on tech, constructive on financials/defense。**\n\n🎯 可以 action 嘅方向：\n1. 銀行股繼續跟（MS/Xlf）— rotation momentum intact\n2. Defense 可以加（RTX/LMT/NOC）— structural bid\n3. Oil short 繼續（HAL/SLB）— trend intact\n4. AI/Semis 不要撈底（NVDA/AMD/MU/SMCI）— 等 stabilization signal\n5. HOOD/COIN 等 pullback — 已經 run 太多\n\n最大嘅未知數：聽日嘅 6 月就業報告。如果數據 heat → rate hike fear → growth 再跌。如果數據 cold → recession fear → cyclicals 回調。Goldilocks（~200K + stable wage growth）先係最理想嘅 outcome。",
+      "risks": [
+        "AI capex peak: Meta 過剩算力 + Burry short — NVDA/AMD/MU/SMCI 勿撈底",
+        "6月就業報告: World Cup 可能扭曲 headline, 市場或 overreact",
+        "USMCA 談判: 關稅不確定性為 tail risk",
+        "Yen carry trade unwind: 低概率但高 impact"
+      ],
+      "my_take": "Rotation confirmed 但 AI 崩盤 severity 超預期。資金明確棄 AI/semis 轉向 banks/defense。AI capex peak narrative 已成主流共識，MU -10.6% 嘅 Trump endorsement paradox 係今日最 telling signal。明日 focus：就業報告（不要淨睇 headline）+ 有冇其他 hyperscaler 跟 Meta 發表算力過剩言論。"
     }
   ],
   "news_curator": [
