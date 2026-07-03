@@ -2197,55 +2197,6 @@
       "my_take": "NFP 前夕，ADP 98K 極弱，市場處於暴風雨前嘅平靜。\n\nBull case：弱數據 lead to 減息預期升溫 lead to 股市受惠（Goldilocks）\nBear case：AI overcapacity + NFP shock lead to recession fear 大過 rate cut hope\n\n策略：defensive positioning。GLD 做 NFP hedge，META pullback 後係 best structural long，NVDA 繼續 WATCH 等 clarity。USD/JPY 干預風險要警覺。唔好喺 NFP 前夕開大倉。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-03",
-      "time": "08:08 HKT",
-      "status": "success",
-      "enriched_articles_count": 1962,
-      "curated_count": 13,
-      "market_direction": "Dow創收市新高(+600點)，但Nasdaq因晶片股全線受壓而下跌。6月非農僅+57K遠遜預期(估~150K)，失業率升至4.2%，市場解讀為加息風險消退，債息下跌，資金由科技股輪動至價值/周期股。",
-      "headlines": [
-        "TSLA Q2交付48萬輛(+25% YoY)遠超預期但股價反跌7% — 基本面粉碎",
-        "RIVN上調2026交付指引，EV板塊唯一贏家",
-        "MSFT斥$2.5B成立AI部署公司，押注企業AI落地",
-        "NVDA推AI startup revenue-sharing + 機器人賽道佈局",
-        "PLTR獲D.A. Davidson叫買dip",
-        "HOOD被Mizuho譽為「首家hyperscaler券商」",
-        "霍爾木茲海峽重開，油價連跌3日",
-        "黃金跌穿$4,100後機構叫買dip",
-        "GOOGL歐盟€4.1B反壟斷上訴敗訴",
-        "CoreWeave垃圾債暴跌，AI基建信心動搖",
-        "6月非農+57K，加息預期急降",
-        "BTC礦企集體轉型AI數據中心",
-        "GME散戶nostalgia — Sony停產實體碟觸發trade-in潮"
-      ],
-      "opportunities": [
-        "🎯 TSLA: 交付beat 74K輛但股價反跌7%，係近期最大基本面/價格脫節。如果守住近期低位，可能係short squeeze反轉機會。",
-        "🎯 RIVN: 上調交付指引 +5%，vs LCID miss + F跌10%，EV板塊唯一有momentum嘅選擇。",
-        "🎯 MSFT: $2.5B AI部署公司係目前最大單一企業AI押注，signal極強。",
-        "📡 NVDA: revenue-sharing新模式 + 機器人賽道，但半導體短期受壓，等板塊回穩再入。",
-        "📡 PLTR: D.A. Davidson叫買dip，AI軍備競賽下估值合理，但要等技術面確認。",
-        "🔥 HOOD: 散戶+AI agent雙重催化劑，Mizuho target implied upside可觀。Viper可睇day trade機會。"
-      ],
-      "analysis": "今次news cycle最大主題係「宏觀轉向」+「TSLA paradoxical signal」。非農數據大幅miss令加息預期急降，Dow創新高但資金明顯由高估值科技/半導體撤出，輪動至價值股。TSLA係最paradoxical嘅case：交付數據係近年最強，但股價反映市場擔心fuel price逆轉、Musk backlash持續、同Burry做空。RIVN相對clean — 交付指引上調反映執行力改善，而對手F/LCID雙雙miss。MSFT嘅$2.5B AI部署公司係極強signal，顯示企業AI需求由「trial」進入「deployment」階段。HOOD作為散戶proxy + AI agent platform，有momentum潛力。油價方面，Hormuz供應風險溢價近乎清零，US-Iran談判進展令供應前景改善，油價短期偏弱。黃金在$4,100以下有買盤支持，加息預期降利好。",
-      "risks": [
-        "⚠️ 半導體/科技股資金外流可能持續 — NASDAQ technical setup bearish",
-        "⚠️ TSLA: Burry做空 + fuel price若回落將削弱歐洲EV需求邏輯",
-        "⚠️ GOOGL: 歐盟罰款雖一次性，但全球監管risk premium在升溫",
-        "⚠️ CRWV垃圾債暴跌可能蔓延至其他AI基建股"
-      ],
-      "my_take": "今個cycle有三條主線：(1) 非農miss → 加息風險清零 → risk-on但資金輪動，唔係全面升市；(2) TSLA嘅基本面/價格paradox — 如果「buy the rumor sell the fact」已經發生，呢個位可能係中期底部，但要等確認；(3) 企業AI由hype轉execution — MSFT行先，NVDA/PLTR跟尾，CRWV反映市場開始揀winner/loser。我認為最 actionable 嘅係 RIVN（clean execution story）同 HOOD（retail momentum + AI catalyst）。TSLA係最大機會亦係最大風險 — 如果confirm reversal會係最肥嘅trade，但要等price action confirm先出手。",
-      "key_takeaways": [
-        "非農+57K vs 預期~150K → 加息off the table → Dow新高，Nasdaq跌",
-        "TSLA: 交付beat但股價跌7% → 基本面/價格重大脫節，等確認反轉",
-        "RIVN: 唯一EV贏家，上調指引",
-        "MSFT: $2.5B AI部署公司，企業AI進入execution phase",
-        "HOOD: 散戶momentum + AI agent催化劑",
-        "油價3連跌：Hormuz供應風險溢價清零",
-        "黃金$4,100以下有買盤，加息預期降利好貴金屬"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-03",
       "time": "08:35 HKT",
@@ -2275,6 +2226,87 @@
         "Fed hawkish speak可能trigger reversal"
       ],
       "my_take": "非農+57K觸發教科書級rotation：資金由overcrowded growth/tech（SMH -4.54%）轉向value/defensive（XLV +2.63%）。三條主線：(1) Rotation持續性 — 如果科技連跌可能觸發deleveraging；(2) RIVN最clean long idea；(3) TSLA基本面/價格脫節 — 最大機會亦最大風險。長周末前不建議chase任何方向，等volume回復正常。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-03",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "軟就業數據打壓加息預期，黃金/ crypto 反彈，科技/半導體資金流出。油價第四周下跌。歐洲創新高，美股資金大規模外流。大市方向：risk-off 情緒主導但 rate-sensitive assets（黃金/BTC）受惠。",
+      "headlines": [
+        "🎯 Gold (GLD/XAUUSD) — 軟就業數據摧毀加息預期，黃金突破在即",
+        "🎯 Tesla (TSLA) — Q2交付出色(+25%)但股價暴挫7%，背離有操作空間",
+        "🎯 原油 (USO/XLE) — 第四周下跌，Hormuz流量恢復至戰前水平，Citi睇$60 Brent",
+        "🎯 Rocket Lab (RKLB) — 「Iridium交易改變一切」，太空/國防催化劑",
+        "📡 Micron (MU) — Burry做空 vs Trump讚「最熱公司」vs 股票跌10%，極度波動",
+        "📡 Bitcoin (BTC) — 突破$62K，ETF淨流入$200M+（5月以來首次），short squeeze 信號",
+        "📡 Nasdaq/QQQ — 技術面「Continuation Sells」，半導體失動能，資金輪動中",
+        "📡 CAVA — Fair Value警告後暴跌45%，超賣反彈定繼續跌？",
+        "📡 MarineMax (HZO) — 單日飆升65%，動能爆發，散戶關注度急升",
+        "📡 Rivian (RIVN) — Falling Wedge突破，目標$26，上調全年交付展望",
+        "📌 歐洲股市創歷史新高 — 與美股科技板塊弱勢形成分歧",
+        "📌 美股錄得3個月最大資金外流（BofA數據）— 避險情緒升溫",
+        "📌 美國極端熱浪威脅電網 + 7月4日出行 — DUK/SO等公用股受關注",
+        "📌 美國6月非農僅+57K（遠低預期），失業率4.2% — 加息預期全面降溫",
+        "🔥 Crypto Short Squeeze — BTC $62K + ETH/SOL 反彈，$200M ETF流入觸發散戶FOMO",
+        "🔥 GME — Sony結束光碟時代，GameStop實體碟換購潮，散戶關注回升"
+      ],
+      "opportunities": [
+        "🎯 Gold (GLD/XAUUSD) — 軟就業數據摧毀加息預期，黃金突破在即",
+        "🎯 Tesla (TSLA) — Q2交付出色(+25%)但股價暴挫7%，背離有操作空間",
+        "🎯 原油 (USO/XLE) — 第四周下跌，Hormuz流量恢復至戰前水平，Citi睇$60 Brent",
+        "🎯 Rocket Lab (RKLB) — 「Iridium交易改變一切」，太空/國防催化劑",
+        "📡 Micron (MU) — Burry做空 vs Trump讚「最熱公司」vs 股票跌10%，極度波動",
+        "📡 Bitcoin (BTC) — 突破$62K，ETF淨流入$200M+（5月以來首次），short squeeze 信號",
+        "📡 Nasdaq/QQQ — 技術面「Continuation Sells」，半導體失動能，資金輪動中",
+        "📡 CAVA — Fair Value警告後暴跌45%，超賣反彈定繼續跌？",
+        "📡 MarineMax (HZO) — 單日飆升65%，動能爆發，散戶關注度急升",
+        "📡 Rivian (RIVN) — Falling Wedge突破，目標$26，上調全年交付展望"
+      ],
+      "analysis": "6月非農僅+57K大幅低於預期，聯儲加息壓力全面降溫。市場重新定價：美元急跌、黃金突破、BTC重回$62K。與此同時，科技/半導體板塊出現明顯資金輪出——NVDA/QQQ技術面轉弱，MU被Burry做空+Trump加持後反跌10%。TSLA Q2交付出色(+25% beat)但股價反跌7%，反映市場對 Musk/估值溢價重新定價。原油連跌四周，Hormuz流量恢復至戰前水平，Citi睇$60 Brent。宏觀環境利好貴金屬+利率敏感資產，利淡原油+高估值科技。",
+      "risks": [
+        "伊朗最高領袖葬禮期間地緣風險未完全消除",
+        "極端熱浪威脅美國電網+出行",
+        "美股資金外流為3個月最大，若加速將觸發更大回調"
+      ],
+      "my_take": "今個亞洲/歐洲時段最核心信號係：加息恐懼退潮。非農大幅miss令市場由「驚加息」轉向「賭停加息」甚至「賭減息」。呢個轉向令黃金同crypto即刻受惠。但另一個信號係資金正由科技/半導體輪出——NVDA、MU、QQQ都見沽壓。TSLA delivery beat但股票跌7%係最有趣嘅背離，可能係買入機會。油價睇跌、黃金睇升係今個星期最清晰嘅方向。",
+      "key_takeaways": [
+        "非農+57K大幅miss → 加息預期崩潰 → 黃金/crypto利好",
+        "油價第四周下跌，Hormuz流量恢復 → Citi目標$60 Brent",
+        "科技/半導體資金輪出 → QQQ/NVDA/MU技術面轉弱",
+        "TSLA Q2交付出色但股價暴挫7% → 背離可操作",
+        "歐洲股市創新高 vs 美股3個月最大資金外流 → 資金地域輪動"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-03",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-Bearish on Tech, Bullish on Gold & Defensive",
+      "headlines": [
+        "NFP +57K massive miss — 加息預期崩潰，黃金/crypto 受惠",
+        "TSLA Q2交付出色但股價暴挫7.49% — 罕見背離",
+        "Nasdaq/QQQ Continuation Sells信號，SMH -3.16% 5日",
+        "MU -13.84% 5日 — Burry做空 vs Trump讚好，極端波動",
+        "歐洲股市創新高 vs 美股3個月最大資金外流",
+        "伊朗最高領袖葬禮開始 — 地緣政治風險",
+        "BTC突破$62K，ETF淨流入$200M+ (5月首次)"
+      ],
+      "focus": [
+        "Gold/GLD — 最直接NFP beneficiary，$380突破確認",
+        "TSLA — Delivery beat vs -7.5% drop 背離",
+        "Tech/Semis rotation OUT — SMH/MU/NVDA weakness",
+        "Oil short — Hormuz流量恢復，Citi $60 Brent target"
+      ],
+      "analysis": "# Morning Scan — 2026年7月3日（星期五）\n\n## Fed Context — 6月 FOMC + 軟就業數據重塑加息預期\n\n### 6月16-17日 FOMC Statement（12-0 全票通過）\n- **利率維持 3.50-3.75%**，符合市場預期\n- 委員會描述經濟「以穩健步伐擴張」，儘管中東衝突帶來「高度不確定性」\n- 通脹「仍高於2%目標」，部分反映供應衝擊（能源價格）\n- 關鍵措辭：「The Committee will deliver price stability」— 鷹派基調未變\n- 生產力增長和資本投資被評為「強勁」\n\n### 最新非農數據徹底改變局面\n- **6月非農僅 +57K（預期 ~180K），失業率升至 4.2%**\n- 呢個係 2026 年最弱嘅就業數據，徹底打壓加息預期\n- 市場由「驚加息」急速轉向「賭停加息」甚至「賭減息」\n- 10Y yield 由 4.51%（Jun 22）跌至 4.37%（Jun 26），最新非農後可能進一步走低\n\n### 下次 FOMC：7月28-29日\n- 距離而家仲有 25 日 — 期間仲有 6月 CPI、6月 PPI、Q2 GDP advance\n- 關鍵問題：通脹數據會唔會跟住就業數據一齊轉弱？\n- Kevin Warsh 作為新任 Fed Chair 嘅鷹派立場 vs 疲弱數據 — 7月會議將係首次真正考驗\n\n**Fed Context 對今日嘅影響：利率敏感資產（黃金、加密貨幣、長期國債）直接受惠。美元走弱（UUP -0.53%）利好大宗商品及新興市場。科技/高估值股份面臨雙重壓力 — 資金輪出 + 利率敏感度下降。**\n\n---\n\n## 📰 今日重點頭條\n\n按 market impact 排序：\n\n1. **⚡ 美國6月非農僅+57K，遠低預期** — 加息預期全面崩潰，市場重新定價 Fed path（NC: ACTION）\n2. **🥇 黃金突破在即** — GLD +2.03%，軟就業數據 + 美元走弱雙重催化（TradingView: XAUUSD bullish setup）\n3. **📉 Nasdaq/QQQ「Continuation Sells」信號** — 技術面轉弱，半導體失動能（TradingView: NAS100 sell signal）\n4. **🚗 TSLA Q2交付出色但股價暴挫7.49%** — 73M成交量，罕見背離（NC: ACTION）\n5. **💾 MU -13.84%（5日）** — Burry 做空 vs Trump 讚好 vs 股價崩跌，極端波動（NC: WATCH）\n6. **🛢️ 原油第四周下跌** — Hormuz流量恢復至戰前水平，Citi 睇 $60 Brent（NC: ACTION）\n7. **₿ BTC 突破 $62K** — ETF 淨流入 $200M+（5月以來首次），short squeeze 信號（CoinDesk: options market cautious）\n8. **🇪🇺 歐洲股市創歷史新高 vs 美股3個月最大資金外流（BofA）** — 地域輪動清晰\n9. **🇮🇷 伊朗最高領袖葬禮開始，盟國集結** — 地緣政治風險（NYT）\n10. **🔥 美國極端熱浪威脅電網 + 7月4日出行** — 公用股/能源需求關注（CBS News）\n\n---\n\n## 🌍 隔夜市場\n\n### 美股收盤（Jul 2）\n| 指數 | 收盤 | 變動 | 信號 |\n|------|------|------|------|\n| SPY | $744.78 | -0.13% | 持平但近週高，5日區間 $716-$751 |\n| QQQ | $712.60 | **-1.73%** | 科技明顯跑輸，近週低 |\n| DIA | $527.88 | **+1.05%** | 資金輪入價值股，5日 +2.2% |\n| VIX | 15.96 | -1.18% | 低波幅 — 市場未恐慌，有序輪動 |\n| 10Y Yield | ~4.37% | ↓ | 非農後可能進一步走低 |\n\n### 關鍵市場信號\n- **美元走弱**：UUP -0.53%，DXY 出現「Breakout Retest」結構（TradingView）\n- **黃金突破**：GLD $378.13 (+2.03%)，5日範圍 $367-$380，挑戰 resistance\n- **原油第四周跌**：USO $103.98，週高 $108.15 — Citi target $60 Brent\n- **BTC $61,883**：+0.63%，但 CoinDesk 指 options market 未 fully buy the bounce\n- **歐洲創新高**：資金地域輪動，美股錄3個月最大流出（BofA）\n- **英國服務業收縮**：伊朗戰爭干擾 + 熱浪雙重打擊（Guardian）\n\n### 亞洲/歐洲 overnight\n- 歐洲股市繼續強勢，Stoxx 600 創歷史新高\n- 亞洲時段：日本/香港跟隨美股期貨，預期 risk-off 情緒主導\n- 中國市場：無重大事件\n\n---\n\n## 📡 今日重點事件\n\n### Economic Calendar（7月3日星期五）\n- **ISM Services PMI（6月）** — 預期 52.5，前值 52.9。如果跟非農一樣大幅 miss，risk-off 情緒可能加深\n- **7月4日長週末前夕** — 美股正常交易但流動性偏低，午後可能 thinning out\n- 無重大 Fed speech scheduled\n\n### Earnings Calendar\n- 今日無重大 earnings report\n- 下週開始 Q2 earnings season（銀行股打頭陣：JPM, C, WFC — 7月14日當週）\n\n### Geopolitical\n- **伊朗最高領袖葬禮** — 中東局勢進入新階段，關注油價反應\n- 熱浪襲美 — 7月4日假期電網壓力\n\n---\n\n## 🔥 Sector Watch\n\n### 📈 資金流入（5日表現）\n| Sector | ETF | 5d Change | Driver |\n|--------|-----|-----------|--------|\n| 🏦 金融 | XLF | **+3.83%** | 利率見頂利好銀行，價值輪動 |\n| 🛒 非必需消費 | XLY | **+2.40%** | TSLA 成份帶動 + 消費者韌性 |\n| 🏥 醫療保健 | XLV | **+2.12%** | 防守性輪動，資金避險 |\n| 🏭 工業 | XLI | **+1.50%** | 經濟穩健 + 基建主題 |\n\n### 📉 資金流出\n| Sector | ETF | 5d Change | Driver |\n|--------|-----|-----------|--------|\n| 🔧 半導體 | SMH | **-3.16%** | 資金大規模輪出，NVDA/MU 拖累 |\n| 🏢 房地產 | XLRE | **-1.24%** | 利率敏感但資金未有流入 |\n| 🛢️ 能源 | XLE | **-1.15%** | 油價第四周跌，Hormuz 風險消退 |\n| ⚡ 公用 | XLU | **-0.95%** | 熱浪預期 vs 資金流出 |\n\n### Rotation Signal\n**清晰嘅「Growth → Value」輪動正在發生。** 科技/半導體嘅資金正流向金融、醫療、工業。呢個唔係 panic selling，而係 orderly rotation（VIX 15.96 確認）。留意呢個趨勢會唔會喺非農數據後加速。\n\n---\n\n## 🎯 Pre-market Opportunities\n\n> 以下機會從 News Curator #1（20:05 HKT）嘅 ACTION/WATCH items 整合，結合最新 market data 同 raw headlines 做 verification。\n\n### 🎯 ACTION\n\n**1. 黃金 (GLD) / Gold**\n- **催化劑**：非農 +57K miss → 加息預期崩潰 → 美元走弱 → 黃金突破\n- **技術面**：GLD $378.13，5日區間 $367-$380，挑戰上方 resistance\n- **News Curator 評級**：🎯 ACTION —「軟就業數據摧毀加息預期，黃金突破在即」\n- **我的看法**：Bullish。非農 miss 嘅規模（+57K vs 預期 ~180K）係今年最大 surprise。10Y yield 已由 4.51% 跌至 ~4.37%，仲有下行空間。黃金係最直接嘅 beneficiary。\n- **今日點跟**：GLD 突破 $380 確認 breakout。支持位 $375。若 ISM Services 都 miss，黃金可能加速上行。\n- **風險**：如果 ISM Services 意外強勁，可能部分逆轉加息預期降溫。\n\n**2. Tesla (TSLA)**\n- **催化劑**：Q2 交付出色（+25%）但股價暴挫 -7.49% → 罕見背離\n- **技術面**：$393.45，成交 73M（遠高於平均），5日仍 +3.62%\n- **News Curator 評級**：🎯 ACTION —「背離有操作空間」\n- **我的看法**：Cautiously Bullish。7.49% 嘅跌幅配合 73M 成交量顯示好大沽壓，唔係普通 profit-taking。可能原因：（1）市場擔心 Q2 margin compression；（2）整體 tech rotation 拖累；（3）Elon 政治爭議。但 delivery beat 係 hard data，唔會消失。\n- **今日點跟**：等企穩 $390 先考慮。如果跌破 $380 → 轉 WATCH。如果反彈至 $410+ → 背離交易確認。\n- **風險**：整體 market rotation out of tech 可能持續拖累 TSLA，唔理基本面。\n\n**3. Rocket Lab (RKLB)**\n- **催化劑**：「Iridium 交易改變一切」+ 太空/國防 catalyst\n- **技術面**：$100.46，5日 +18.83%，強勁 momentum\n- **News Curator 評級**：🎯 ACTION\n- **我的看法**：Bullish but extended。+18.83% 5日升幅已反映大部分 catalyst。Iridium 交易係 game-changer，但入場 timing 要謹慎。\n- **今日點跟**：等 pullback 至 $95-$97 範圍先考慮。7月4日前流動性低，small cap 波動會放大。\n- **風險**：估值已高，任何 profit-taking 可能觸發 -10%+ correction。\n\n**4. 原油 (USO) — Short bias**\n- **催化劑**：第四周下跌，Hormuz 流量恢復戰前水平，Citi 睇 $60 Brent\n- **技術面**：USO $103.98，週高 $108.15，下行趨勢確立\n- **News Curator 評級**：🎯 ACTION\n- **我的看法**：Bearish。伊朗最高領袖葬禮可能帶嚟短暫 supply fear bid，但 Hormuz 流量恢復係 structural bearish。Citi $60 Brent target 如果實現，USO 仲有 20%+ downside。\n- **今日點跟**：反彈至 $105+ 係 short 機會。支持位 $100（心理關口）。\n- **風險**：伊朗葬禮期間地緣政治升溫可能 trigger short squeeze。\n\n### 📡 WATCH\n\n**5. Micron (MU)** — 極端波動\n- $975.56，1日 -5.49%，5日 -13.84%\n- Burry 做空 vs Trump 讚「最熱公司」\n- 維持 WATCH — 唔好接刀，等企穩 $950+ 先評估\n\n**6. Bitcoin (BTC)** — Short squeeze 信號但 options market 謹慎\n- $61,883，5日由 $57.7K 反彈至 $62.1K\n- ETF 淨流入 $200M+（5月以來首次）\n- CoinDesk：options market「not fully buying the bounce」\n- 維持 WATCH — 需要 confirm $62K 以上先確認 breakout\n\n**7. Rivian (RIVN)** — Falling Wedge 突破 + 上調交付展望\n- $18.63，1日 +8.44%，5日 +19.19%\n- 成交 78M — 強勁 momentum\n- WATCH 轉 ACTION 條件：企穩 $19+ 並持續放量\n\n**8. CAVA** — Fair Value 警告後續跌\n- $76.88，5日 -7.82%\n- 未有底部信號，繼續 WATCH 唔好掂\n\n---\n\n## 📋 Today's Agenda\n\n### 本週剩餘 Catalyst\n- ✅ 6月非農（7月2日）— **已公佈：+57K，massive miss**\n- 🔜 ISM Services PMI（7月3日）— 今日焦點\n- 🔜 7月4日獨立日長週末 — 週五半日市 or 正常？\n\n### Key Levels to Watch\n| 指數 | Support | Resistance | 備註 |\n|------|---------|------------|------|\n| SPY | $735 | $752 | 週高 $751.31，突破需要 catalyst |\n| QQQ | $700 | $730 | $700 係心理關口 + 技術支持 |\n| GLD | $375 | $380 | 突破 $380 確認 gold breakout |\n| USO | $100 | $105 | $100 心理關口，$105 反彈阻力 |\n| BTC | $60K | $62.5K | 需要 confirm above $62K |\n\n### 下週 Preview\n- Q2 earnings season 正式開始（7月14日當週）\n- 6月 CPI（7月15日）— 可能係比非農更重要嘅 catalyst\n- Fed 7月28-29日 FOMC 前嘅關鍵數據週\n\n---\n\n## 💡 My Take\n\n### Overall Bias：**Neutral-Bearish on Tech，Bullish on Gold & Defensive**\n\n今日嘅核心 narrative 係 **「加息恐懼退潮」**。+57K NFP 係今年最大嘅 macro surprise，徹底改寫咗市場對 Fed path 嘅預期。但呢個唔係簡單嘅「risk-on」— 資金正進行有序輪動，唔係全面買入。\n\n**三個最清晰嘅方向：**\n\n1. **黃金睇升** — 最直接嘅 NFP miss beneficiary。美元走弱 + 10Y yield 下跌 = gold breakout。GLD 突破 $380 確認。呢個 trade 嘅 risk/reward 係今日最靚。\n\n2. **半導體/科技睇跌或觀望** — SMH -3.16% 5日、MU -13.84%、QQQ Continuation Sells 信號。呢個唔係「驚加息」嘅 weakness，而係更深層嘅 rotation。NVDA $194 失守 $200 心理關口值得警惕。\n\n3. **TSLA 背離最有趣** — Delivery beat 但 -7.49% 係 textbook divergence。如果係 rotation 拖累（而唔係 TSLA-specific），呢個係機會而唔係風險。但要等 confirm — 今日企穩 $390+ 先算。\n\n**今日最緊要睇實：**\n- ISM Services PMI — 如果又 miss，黃金/crypto 會加速，科技可能進一步受壓\n- 7月4日前流動性 — 午後 thinning out，small cap 波動會放大\n- VIX 維持在 16 以下 — orderly rotation 而唔係 panic，呢個係健康信號\n\n**改變 thesis 嘅 overnight signals：無。**\n非農 miss 嘅方向同 News Curator 嘅分析完全一致。今朝嘅 signal 係 reinforcement，唔係 reversal。唯一要注意係伊朗葬禮會唔會 trigger 地緣政治 escalation — 概率低但影響大。",
+      "risks": [
+        "ISM Services若意外強勁可能逆轉加息預期降溫",
+        "伊朗葬禮期間地緣政治升溫",
+        "7月4日前流動性低，small cap波動放大",
+        "TSLA若續跌穿$380則背離交易失效"
+      ],
+      "my_take": "Neutral-Bearish on Tech, Bullish on Gold & Defensive。+57K NFP 徹底改寫加息預期 — 黃金突破係今日最清晰方向（GLD +2%），科技/半導體資金繼續輪出（SMH -3.16% 5日），TSLA delivery beat 但暴挫 7.5% 係最有趣背離。今日睇實 ISM Services PMI 同 7月4日前流動性變化。"
     }
   ],
   "news_curator": [
