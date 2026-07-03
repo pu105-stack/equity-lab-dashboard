@@ -2307,6 +2307,36 @@
         "TSLA若續跌穿$380則背離交易失效"
       ],
       "my_take": "Neutral-Bearish on Tech, Bullish on Gold & Defensive。+57K NFP 徹底改寫加息預期 — 黃金突破係今日最清晰方向（GLD +2%），科技/半導體資金繼續輪出（SMH -3.16% 5日），TSLA delivery beat 但暴挫 7.5% 係最有趣背離。今日睇實 ISM Services PMI 同 7月4日前流動性變化。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-07-04",
+      "time": "06:05 HKT",
+      "status": "success",
+      "market_direction": "非農miss觸發macro regime shift — 加息預期崩潰，資金由科技/半導體輪出至價值/周期/黃金",
+      "opportunities": [
+        "🎯 GLD: 加息恐懼退潮，黃金Double Bottom突破在即",
+        "🎯 RKLB: $8B吞Iridium，直接挑戰Starlink",
+        "🎯 RTX: 國防支出超級週期，一代人最佳買入時機（LMT/NOC同受惠）",
+        "🎯 HOOD: 散戶交易創紀錄+crypto回暖+AI催化劑",
+        "🎯 RIVN: EV板塊唯一贏家，上調交付指引",
+        "🎯 CMCSA: NBCUniversal分拆，經典spin-off value unlock",
+        "📡 TSLA: 交付beat但股價跌7%，2026年最大基本面/價格脫節",
+        "📡 MU: 記憶體超級週期 vs Burry做空，極度波動",
+        "📡 NVDA: Revenue-sharing新模式 vs AI capex peak narrative"
+      ],
+      "risks": [
+        "⚠️ USO: 伊朗停火談判+Citi $60 Brent，供應溢價清零（XLE同受拖累）"
+      ],
+      "analysis": "今個星期市場由非農miss主導（+57K vs 預期~180K），觸發macro regime shift：加息預期全面崩潰，資金由科技/半導體輪出至價值/周期/黃金。三條主線：(1) Defense係最乾淨macro tailwind — 美伊衝突+國防支出超級週期；(2) AI trade進入Phase 2 — winner/loser開始分化（META逆市+9%，neocloud崩潰）；(3) 黃金係最直接rate-sensitive play。TSLA嘅基本面/價格脫節係最具爭議嘅contrarian setup；MU嘅記憶體超級週期vs Burry做空係最極端嘅多空對決。",
+      "my_take": "核心觀點：加息恐懼已死。非農+57K徹底改變市場定價 — 由「驚加息」轉向「賭停加息」甚至「賭減息」。呢個regime shift利好黃金、不利美元、利好rate-sensitive assets。但唔係全面risk-on — 資金正由AI/半導體輪出，呢個係healthy rotation而非panic。Defense係唯一macro+micro都bullish嘅sector。AI trade要揀winner避loser — META係新贏家，neocloud係輸家。TSLA嘅delivery beat vs stock drop背離值得放入watchlist密切關注 — 如果確認反轉會係最肥嘅trade，但要等price action confirm。",
+      "focus": [
+        "Defense Super-Cycle: RTX/LMT/NOC",
+        "Rate-Sensitive: GLD",
+        "Space M&A: RKLB",
+        "EV Winner: RIVN",
+        "Contrarian Setup: TSLA"
+      ]
     }
   ],
   "news_curator": [

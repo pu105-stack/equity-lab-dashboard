@@ -1,4 +1,75 @@
 {
-  "decisions": [],
-  "last_synced": "2026-06-27T15:17:36.436445+08:00"
+  "decisions": [
+    {
+      "ticker": "USO",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "伊朗停火談判進展+Citi睇$60 Brent+Hormuz海峽流量恢復至戰前水平。Q2創pandemic以來最大季度跌幅。Morgan Stanley下調Brent預測至$75。供應溢價清零。XLE同受拖累。",
+      "source": "RISK"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "Revenue-sharing新模式+機器人賽道+Jensen Huang預言AI超級電腦入屋，但半導體資金大規模輪出（SMH -4.54%）、Meta承認「過剩算力」、AI capex peak narrative加強。唔係panic但係結構性narrative shift。",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "記憶體超級週期確認（Tim Cook鬧Micron加價$300證明demand爆燈），但Michael Burry做空+股價跌10%+Seeking Alpha downgrade。Trump稱「全球最熱公司」但市場用腳投票。極度波動，等stabilization。",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "TSLA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "Q2交付74K輛beat預期（+25% YoY），但股價反跌7.5% — 2026年最大基本面/價格脫節。Bull: buy the rumor sell the fact已完成，超賣反轉機會。Bear: Burry做空+Semi致命事故+FSD監管風險。等price action確認。",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "CMCSA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "宣布分拆NBCUniversal+Sky做獨立上市公司，SA分析師10年來首次轉Buy。經典spin-off value unlock — 分拆後通常市值總和>合併市值。已+23%，等pullback入。",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "RIVN",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "EV板塊唯一贏家：上調全年交付指引+5%，vs LCID miss+F跌10%。Falling Wedge技術突破，目標$26。Clean execution story。",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "HOOD",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "散戶交易創紀錄+crypto回暖+BTC突破$62K（ETF淨流入$200M+）+新blockchain專注RWA。Mizuho target implied upside可觀。完美momentum setup。",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "RTX",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "國防支出超級週期 — MarketWatch引述分析師指「一代人最佳買入時機」。美伊衝突+英國國防預算增加+JPMorgan進軍軍工融資。LMT/NOC同樣受惠。",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "RKLB",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "$8B收購Iridium衛星網絡，直接挑戰SpaceX Starlink，SA分析師由Sell直接轉Strong Buy。太空/國防雙催化，股價+12%後仍有upside。",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-07-03",
+      "reasoning": "非農+57K大幅miss摧毀加息預期，Warsh ECB論壇避談利率（鴿派信號），技術面Double Bottom支撐。加息恐懼退潮 = 黃金結構性利好。",
+      "source": "OPPORTUNITY"
+    }
+  ],
+  "last_synced": "2026-07-04T06:05:33.404957+08:00"
 }
