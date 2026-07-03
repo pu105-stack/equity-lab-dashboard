@@ -2195,6 +2195,86 @@
         "中東停火談判破裂風險 — 油價急彈"
       ],
       "my_take": "NFP 前夕，ADP 98K 極弱，市場處於暴風雨前嘅平靜。\n\nBull case：弱數據 lead to 減息預期升溫 lead to 股市受惠（Goldilocks）\nBear case：AI overcapacity + NFP shock lead to recession fear 大過 rate cut hope\n\n策略：defensive positioning。GLD 做 NFP hedge，META pullback 後係 best structural long，NVDA 繼續 WATCH 等 clarity。USD/JPY 干預風險要警覺。唔好喺 NFP 前夕開大倉。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-03",
+      "time": "08:08 HKT",
+      "status": "success",
+      "enriched_articles_count": 1962,
+      "curated_count": 13,
+      "market_direction": "Dow創收市新高(+600點)，但Nasdaq因晶片股全線受壓而下跌。6月非農僅+57K遠遜預期(估~150K)，失業率升至4.2%，市場解讀為加息風險消退，債息下跌，資金由科技股輪動至價值/周期股。",
+      "headlines": [
+        "TSLA Q2交付48萬輛(+25% YoY)遠超預期但股價反跌7% — 基本面粉碎",
+        "RIVN上調2026交付指引，EV板塊唯一贏家",
+        "MSFT斥$2.5B成立AI部署公司，押注企業AI落地",
+        "NVDA推AI startup revenue-sharing + 機器人賽道佈局",
+        "PLTR獲D.A. Davidson叫買dip",
+        "HOOD被Mizuho譽為「首家hyperscaler券商」",
+        "霍爾木茲海峽重開，油價連跌3日",
+        "黃金跌穿$4,100後機構叫買dip",
+        "GOOGL歐盟€4.1B反壟斷上訴敗訴",
+        "CoreWeave垃圾債暴跌，AI基建信心動搖",
+        "6月非農+57K，加息預期急降",
+        "BTC礦企集體轉型AI數據中心",
+        "GME散戶nostalgia — Sony停產實體碟觸發trade-in潮"
+      ],
+      "opportunities": [
+        "🎯 TSLA: 交付beat 74K輛但股價反跌7%，係近期最大基本面/價格脫節。如果守住近期低位，可能係short squeeze反轉機會。",
+        "🎯 RIVN: 上調交付指引 +5%，vs LCID miss + F跌10%，EV板塊唯一有momentum嘅選擇。",
+        "🎯 MSFT: $2.5B AI部署公司係目前最大單一企業AI押注，signal極強。",
+        "📡 NVDA: revenue-sharing新模式 + 機器人賽道，但半導體短期受壓，等板塊回穩再入。",
+        "📡 PLTR: D.A. Davidson叫買dip，AI軍備競賽下估值合理，但要等技術面確認。",
+        "🔥 HOOD: 散戶+AI agent雙重催化劑，Mizuho target implied upside可觀。Viper可睇day trade機會。"
+      ],
+      "analysis": "今次news cycle最大主題係「宏觀轉向」+「TSLA paradoxical signal」。非農數據大幅miss令加息預期急降，Dow創新高但資金明顯由高估值科技/半導體撤出，輪動至價值股。TSLA係最paradoxical嘅case：交付數據係近年最強，但股價反映市場擔心fuel price逆轉、Musk backlash持續、同Burry做空。RIVN相對clean — 交付指引上調反映執行力改善，而對手F/LCID雙雙miss。MSFT嘅$2.5B AI部署公司係極強signal，顯示企業AI需求由「trial」進入「deployment」階段。HOOD作為散戶proxy + AI agent platform，有momentum潛力。油價方面，Hormuz供應風險溢價近乎清零，US-Iran談判進展令供應前景改善，油價短期偏弱。黃金在$4,100以下有買盤支持，加息預期降利好。",
+      "risks": [
+        "⚠️ 半導體/科技股資金外流可能持續 — NASDAQ technical setup bearish",
+        "⚠️ TSLA: Burry做空 + fuel price若回落將削弱歐洲EV需求邏輯",
+        "⚠️ GOOGL: 歐盟罰款雖一次性，但全球監管risk premium在升溫",
+        "⚠️ CRWV垃圾債暴跌可能蔓延至其他AI基建股"
+      ],
+      "my_take": "今個cycle有三條主線：(1) 非農miss → 加息風險清零 → risk-on但資金輪動，唔係全面升市；(2) TSLA嘅基本面/價格paradox — 如果「buy the rumor sell the fact」已經發生，呢個位可能係中期底部，但要等確認；(3) 企業AI由hype轉execution — MSFT行先，NVDA/PLTR跟尾，CRWV反映市場開始揀winner/loser。我認為最 actionable 嘅係 RIVN（clean execution story）同 HOOD（retail momentum + AI catalyst）。TSLA係最大機會亦係最大風險 — 如果confirm reversal會係最肥嘅trade，但要等price action confirm先出手。",
+      "key_takeaways": [
+        "非農+57K vs 預期~150K → 加息off the table → Dow新高，Nasdaq跌",
+        "TSLA: 交付beat但股價跌7% → 基本面/價格重大脫節，等確認反轉",
+        "RIVN: 唯一EV贏家，上調指引",
+        "MSFT: $2.5B AI部署公司，企業AI進入execution phase",
+        "HOOD: 散戶momentum + AI agent催化劑",
+        "油價3連跌：Hormuz供應風險溢價清零",
+        "黃金$4,100以下有買盤，加息預期降利好貴金屬"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-03",
+      "time": "08:35 HKT",
+      "status": "success",
+      "market_direction": "SPY -0.13%表面上橫行，但內部rotation劇烈：Dow新高(+1.05%) vs Nasdaq跌(-1.73%)，SMH -4.54% vs XLV +2.63%",
+      "headlines": [
+        "非農+57K遠遜預期→加息off the table→rotation to value",
+        "TSLA -7.49%：交付beat但sell-the-news，基本面/價格最大脫節",
+        "RIVN +8.44%：上調交付指引，EV唯一贏家",
+        "SMH -4.54%：半導體今年最大單日跌幅",
+        "META -4.90%：科技股廣泛拋售",
+        "黃金$4,152：加息預期降推動貴金屬",
+        "MSFT $2.5B AI部署：企業AI進入execution phase",
+        "伊朗核談判進展：Hormuz risk溢價清零"
+      ],
+      "opportunities": [
+        "RIVN: 最clean execution story，但要等長周末後confirm",
+        "HOOD: retail momentum + AI catalyst",
+        "TSLA: 基本面/價格脫節，等confirm reversal後最大機會",
+        "MSFT: AI deployment signal極強，等板塊回穩"
+      ],
+      "analysis": "## 美股收市回顧 — 2026年7月2日\n\n### 📰 今日重點頭條\n\n**NC 捕捉到的關鍵 headlines：**\n- 🎯 6月非農僅+57K，遠遜預期~150K，失業率升至4.2% — 今日最大 macro catalyst\n- 🎯 TSLA Q2交付74K輛 beat 預期，但股價反跌7.5% — 基本面/價格重大脫節\n- 🎯 RIVN上調全年交付指引+5%，EV板塊唯一贏家\n- 📡 MSFT宣布$2.5B AI部署 — 目前最大單一企業AI押注\n- ⚠️ CRWV垃圾債暴跌，AI基建股資金鏈風險浮現\n\n**Raw headlines 補充（NC 未捕捉）：**\n- META -4.9% — 科技股廣泛拋售中被拖低，無獨立catalyst\n- AMD -4.26%、AVGO -2.41%、SMH -4.54% — 半導體全面受壓\n- GOLD +3.43%、金價衝上$4,152 — 加息預期消退推動貴金屬\n- HOOD +3.76% — Mizuho bullish call + retail momentum\n- PLTR +2.84% — D.A. Davidson叫買dip，但半導體板塊拖累AI整體sentiment\n\n### 📊 Market Recap\n\n**指數表現：**\n| 指數 | 收市 | 變動 | 信號 |\n|------|------|------|------|\n| SPY | 744.78 | -0.13% | 橫行，但內部rotating hard |\n| QQQ | 712.60 | **-1.73%** | Big Tech全面受壓 |\n| DIA | 527.88 | **+1.05%** | Dow新高，資金輪動到價值股 |\n| IWM | 297.58 | -0.58% | 小型股跟跌 |\n| VIX | 16.15 | -2.65% | 表面上平靜，但sector dispersion極大 |\n\n**Sector Rotation — 今日真正故事：**\n- 🟢 贏家：XLV +2.63%（醫療）、XLU +2.21%（公用）、XLB +1.94%（物料）、XLF +1.53%（金融）、XLE +0.78%（能源）\n- 🔴 輸家：SMH **-4.54%**（半導體）、XLK -2.71%（科技）、KRE -1.52%（地區銀行）、XLY -0.82%（消費）\n\n呢個唔係普通rotation — 係**攻擊性rotation**。資金唔只係defensive，而係主動由growth轉value/cyclical。SMH單日-4.54%係今年最大單日跌幅之一。\n\n**Macro backdrop：**\n- 10Y yield：4.48%（+2.58%）— 非農miss後yield反而升，反映市場解讀為「衰退風險清零、但通脹仍在」嘅goldilocks lite\n- 黃金：$4,152.90（+2.08%）— 加息預期消退 + 避險需求\n- 油價：$68.42（-0.23%）— Hormuz risk溢價清零，三連跌\n\n### 🔥 Notable Movers\n\n**🟢 大贏家（>3%）：**\n- **RIVN +8.44% @ $18.63** — 上調交付指引，EV板塊唯一有execution momentum嘅公司。成交量7,778萬，明顯institutional flow。值得跟進。\n- **HOOD +3.76% @ $112.73** — Mizuho bullish call + retail momentum + AI agent催化劑。散戶回歸嘅proxy play。\n- **GOLD +3.43% @ $43.99** — 金價突破$4,150，加息預期降 + 地緣政治避險。\n- **PLTR +2.84% @ $129.30** — D.A. Davidson叫買dip，在科技股廣泛拋售中逆市上升，相對強度明顯。\n\n**🔴 大輸家（<-3%）：**\n- **TSLA -7.49% @ $393.45** — 交付beat但股價反跌，成交量7,201萬。典型「buy the rumor, sell the fact」。NC標記為「基本面/價格最大脫節」— 如果守住$380-390區間，可能係中期底部。\n- **LCID -8.30% @ $6.08** — 交付miss，與RIVN形成強烈對比。EV板塊正在進行殘酷篩選。\n- **META -4.90% @ $582.90** — 無獨立catalyst，純粹tech selloff中被拖低。\n- **AMD -4.26% @ $517.82** — 半導體板塊全面潰敗，SMH -4.54%。\n- **CRWV -4.60% @ $81.75** — AI基建垃圾債暴跌，市場開始區分AI winner/loser。\n\n### 📰 News That Mattered\n\n**Confirmed catalysts：**\n1. **非農+57K vs 預期~150K** — 今日最強catalyst。市場即時反應：rate hike off the table → rotation to value/cyclical → tech/growth selloff。NC correctly identified this。\n2. **TSLA交付beat但股價跌** — NC嘅「基本面/價格脫節」thesis一日內confirmed。典型sell-the-news pattern。\n3. **RIVN上調指引** — NC correctly flagged RIVN as EV winner。+8.44% confirmed。\n\n**NC misses / Raw news discoveries：**\n- NC冇預測到半導體跌幅會咁深（SMH -4.54%）。NVDA只係-1.39%相對強，但AMD/AVGO被重創。\n- META -4.9%係tech sympathy sell，唔係獨立story — 但要留意會唔會係 algo-driven deleveraging。\n- Gold +3.43%幅度比NC預期更大 — 貴金屬可能進入新一波升浪。\n\n**Overnight developments：**\n- 今晚係7月4日長周末前最後一個交易日（週五半天市）。假期前通常volume thin + position squaring。\n- 伊朗核談判有進展（CBS報導），Hormuz risk溢價進一步消退。\n\n### 🎯 Opportunities Carry Forward\n\n**高信心：**\n- **RIVN** — execution story乾淨，delivery beat + guidance raise。係目前EV板塊唯一值得跟進嘅ticker。但要留意$20 resistance + 長周末前profit-taking風險。\n- **HOOD** — retail momentum + AI catalyst雙重驅動。散戶回歸proxy，Mizuho target implied upside可觀。Viper可睇day trade breakouts。\n\n**值得觀察：**\n- **TSLA** — 如果$380-390守住，呢個「基本面/價格脫節」可能產生最肥嘅反轉trade。但必須等price action confirm — 未確認前唔好撈底。\n- **MSFT** — $2.5B AI部署係極強signal，+1.62%逆市上升證明市場認同。但要等科技板塊整體回穩先部署。\n- **NVDA** — 相對SMH強（只係-1.39% vs SMH -4.54%），revenue-sharing新模式 + 機器人故事支撐。等板塊回穩後係首選。\n- **GOLD** — 加息預期降 + 金價突破$4,150。如果$4,200阻力位被突破，可能會加速。\n\n### ⚠️ Risks / Watchlist\n\n**今晚要睇實：**\n- 🇺🇸 7月3日（週五）半天市 — thin volume, potential volatility。長周末前position squaring。\n- 🏦 Fed — 下次FOMC Jul 28-29，尚有4週。目前利率預期已經price in「no hike」，但如果有hawkish Fed speak可能trigger reversal。\n- 🛢️ Hormuz — 伊朗核談判進展，油價supply risk溢價清零。但如果談判破裂，油價會快速反彈。\n- 📉 半導體 — SMH -4.54%係重大technical damage。如果連NVDA都開始跟跌，會觸發更大規模deleveraging。\n\n**結構性風險：**\n- 科技股資金外流可能持續 — 今日rotation唔似一日行情\n- CRWV垃圾債暴跌可能係AI基建板塊嘅canary in coal mine\n- 長周末期間可能出現geo-political surprise\n\n### 💡 My Take\n\n今日係教科書級別嘅rotation day：非農miss觸發利率預期reset，資金由overcrowded growth/tech轉向value/defensive。SPY表面上只係-0.13%，但底下嘅sector dispersion極端（SMH -4.54% vs XLV +2.63%）。\n\n三條主線carry forward到下一週：(1) Rotation會唔會持續？如果科技股連跌2-3日，可能觸發更大規模deleveraging；(2) RIVN係目前最clean嘅long idea — execution story無可挑剔，但要等長周末後confirm；(3) TSLA嘅基本面/價格paradox係最大機會亦係最大風險 — 呢個位如果reverse會好肥，但如果繼續跌就係value trap。\n\n今個長周末我會建議：唔好chase rotation（value/defensive已經行咗一段），亦唔好撈科技底（未confirm reversal）。等7月7日（週一）返嚟，volume回復正常，再根據price action決定方向。",
+      "risks": [
+        "半導體資金外流可能持續",
+        "CRWV垃圾債暴跌→AI基建canary in coal mine",
+        "長周末geo-political surprise risk",
+        "Fed hawkish speak可能trigger reversal"
+      ],
+      "my_take": "非農+57K觸發教科書級rotation：資金由overcrowded growth/tech（SMH -4.54%）轉向value/defensive（XLV +2.63%）。三條主線：(1) Rotation持續性 — 如果科技連跌可能觸發deleveraging；(2) RIVN最clean long idea；(3) TSLA基本面/價格脫節 — 最大機會亦最大風險。長周末前不建議chase任何方向，等volume回復正常。"
     }
   ],
   "news_curator": [
