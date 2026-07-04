@@ -15,13 +15,6 @@
       "source": "WATCH"
     },
     {
-      "ticker": "RIVN",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "EV板塊唯一贏家：上調全年交付指引+5%，vs LCID miss+F跌10%。Falling Wedge技術突破，目標$26。Clean execution story。",
-      "source": "OPPORTUNITY"
-    },
-    {
       "ticker": "RTX",
       "status": "deep_dive",
       "updated_at": "2026-07-03",
@@ -36,5 +29,5 @@
       "source": "OPPORTUNITY"
     }
   ],
-  "last_synced": "2026-07-04T12:15:54.701254+08:00"
+  "last_synced": "2026-07-04T12:16:03.075599+08:00"
 }
