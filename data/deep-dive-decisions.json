@@ -1,11 +1,11 @@
 {
   "decisions": [
     {
-      "ticker": "NVDA",
+      "ticker": "USO",
       "status": "deep_dive",
       "updated_at": "2026-07-03",
-      "reasoning": "Revenue-sharing新模式+機器人賽道+Jensen Huang預言AI超級電腦入屋，但半導體資金大規模輪出（SMH -4.54%）、Meta承認「過剩算力」、AI capex peak narrative加強。唔係panic但係結構性narrative shift。",
-      "source": "WATCH"
+      "reasoning": "伊朗停火談判進展+Citi睇$60 Brent+Hormuz海峽流量恢復至戰前水平。Q2創pandemic以來最大季度跌幅。Morgan Stanley下調Brent預測至$75。供應溢價清零。XLE同受拖累。",
+      "source": "RISK"
     },
     {
       "ticker": "TSLA",
@@ -34,14 +34,7 @@
       "updated_at": "2026-07-03",
       "reasoning": "$8B收購Iridium衛星網絡，直接挑戰SpaceX Starlink，SA分析師由Sell直接轉Strong Buy。太空/國防雙催化，股價+12%後仍有upside。",
       "source": "OPPORTUNITY"
-    },
-    {
-      "ticker": "USO",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "伊朗停火談判進展+Citi睇$60 Brent+Hormuz海峽流量恢復至戰前水平。Q2創pandemic以來最大季度跌幅。Morgan Stanley下調Brent預測至$75。供應溢價清零。XLE同受拖累。",
-      "source": "RISK"
     }
   ],
-  "last_synced": "2026-07-04T12:15:29.162295+08:00"
+  "last_synced": "2026-07-04T12:15:54.701254+08:00"
 }
