@@ -22,13 +22,6 @@
       "source": "WATCH"
     },
     {
-      "ticker": "CMCSA",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "宣布分拆NBCUniversal+Sky做獨立上市公司，SA分析師10年來首次轉Buy。經典spin-off value unlock — 分拆後通常市值總和>合併市值。已+23%，等pullback入。",
-      "source": "OPPORTUNITY"
-    },
-    {
       "ticker": "RIVN",
       "status": "deep_dive",
       "updated_at": "2026-07-03",
@@ -57,5 +50,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-07-04T12:06:19.913759+08:00"
+  "last_synced": "2026-07-04T12:09:40.629918+08:00"
 }
