@@ -8,13 +8,6 @@
       "source": "WATCH"
     },
     {
-      "ticker": "MU",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "記憶體超級週期確認（Tim Cook鬧Micron加價$300證明demand爆燈），但Michael Burry做空+股價跌10%+Seeking Alpha downgrade。Trump稱「全球最熱公司」但市場用腳投票。極度波動，等stabilization。",
-      "source": "WATCH"
-    },
-    {
       "ticker": "TSLA",
       "status": "deep_dive",
       "updated_at": "2026-07-03",
@@ -50,5 +43,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-07-04T12:09:40.629918+08:00"
+  "last_synced": "2026-07-04T12:15:29.162295+08:00"
 }
