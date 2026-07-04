@@ -8,13 +8,6 @@
       "source": "RISK"
     },
     {
-      "ticker": "TSLA",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "Q2交付74K輛beat預期（+25% YoY），但股價反跌7.5% — 2026年最大基本面/價格脫節。Bull: buy the rumor sell the fact已完成，超賣反轉機會。Bear: Burry做空+Semi致命事故+FSD監管風險。等price action確認。",
-      "source": "WATCH"
-    },
-    {
       "ticker": "RTX",
       "status": "deep_dive",
       "updated_at": "2026-07-03",
@@ -22,5 +15,5 @@
       "source": "OPPORTUNITY"
     }
   ],
-  "last_synced": "2026-07-04T12:22:03.556223+08:00"
+  "last_synced": "2026-07-04T12:24:46.815562+08:00"
 }
