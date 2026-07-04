@@ -36,13 +36,6 @@
       "source": "OPPORTUNITY"
     },
     {
-      "ticker": "HOOD",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "散戶交易創紀錄+crypto回暖+BTC突破$62K（ETF淨流入$200M+）+新blockchain專注RWA。Mizuho target implied upside可觀。完美momentum setup。",
-      "source": "OPPORTUNITY"
-    },
-    {
       "ticker": "RTX",
       "status": "deep_dive",
       "updated_at": "2026-07-03",
@@ -64,5 +57,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-07-04T12:05:33.787687+08:00"
+  "last_synced": "2026-07-04T12:06:19.913759+08:00"
 }
