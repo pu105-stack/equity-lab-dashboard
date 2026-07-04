@@ -1,12 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "USO",
-      "status": "deep_dive",
-      "updated_at": "2026-07-03",
-      "reasoning": "伊朗停火談判進展+Citi睇$60 Brent+Hormuz海峽流量恢復至戰前水平。Q2創pandemic以來最大季度跌幅。Morgan Stanley下調Brent預測至$75。供應溢價清零。XLE同受拖累。",
-      "source": "RISK"
-    }
-  ],
-  "last_synced": "2026-07-04T12:26:00.632802+08:00"
+  "decisions": [],
+  "last_synced": "2026-07-04T12:32:55.595271+08:00"
 }
