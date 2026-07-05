@@ -1,6 +1,6 @@
-#!/docker-data/hermes-venv/bin/python3
+#!/usr/bin/env python3
 """Earnings Calendar Briefing — fetch next 30 days from Nasdaq API, filter notable events, deliver to Oscar."""
-import urllib.request, json, ssl
+import urllib.request, json, ssl, pathlib
 from datetime import datetime, timedelta, timezone
 from collections import defaultdict, Counter
 
@@ -119,11 +119,12 @@ next_dates = [datetime.strptime(d, '%Y-%m-%d').strftime('%b %d') for d, _ in bus
 lines.append(f"\n_Data: Nasdaq API_ · _Next: {'; '.join(next_dates)}_")
 
 # ── Write to common-financial-data for other agents ──
-import os, pathlib
-output_dir = pathlib.Path('/docker-data/common-financial-data')
+if pathlib.Path('/Users/oscary/docker-data').exists():
+    output_dir = pathlib.Path('/Users/oscary/docker-data/common-financial-data')
+else:
+    output_dir = pathlib.Path('/docker-data/common-financial-data')
 output_dir.mkdir(parents=True, exist_ok=True)
 
-# Full dataset (all results, not just notable) + metadata
 minimal = []
 for r in results:
     minimal.append({
