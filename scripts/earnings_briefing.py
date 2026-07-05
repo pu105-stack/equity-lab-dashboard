@@ -118,4 +118,34 @@ lines.append("```")
 next_dates = [datetime.strptime(d, '%Y-%m-%d').strftime('%b %d') for d, _ in busy_days[:3]]
 lines.append(f"\n_Data: Nasdaq API_ · _Next: {'; '.join(next_dates)}_")
 
+# ── Write to common-financial-data for other agents ──
+import os, pathlib
+output_dir = pathlib.Path('/docker-data/common-financial-data')
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Full dataset (all results, not just notable) + metadata
+minimal = []
+for r in results:
+    minimal.append({
+        'date': r['date'],
+        'symbol': r['symbol'],
+        'name': r['name'],
+        'mcap': r['mcap'],
+        'eps_est': r['eps'],
+        'time': r['time'],
+        'notable': r in notable_events
+    })
+
+calendar_data = {
+    'generated_at': today.isoformat(),
+    'generated_by': 'earnings_briefing.py',
+    'total_events': len(results),
+    'notable_events': len(notable_events),
+    'tracked_count': tracked_count,
+    'events': minimal
+}
+
+with open(output_dir / 'earnings_calendar.json', 'w') as f:
+    json.dump(calendar_data, f, indent=2)
+
 print('\n'.join(lines))
