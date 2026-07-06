@@ -2367,6 +2367,85 @@
         "科技股繼續資金流出—QQQ測試700關口"
       ],
       "my_take": "加息結束但 rotation 持續。Dow > Nasdaq，Europe > US，Gold > Equities。TSLA 背離係本周最大機會但要等 catalyst。CPI 決定一切。Selective bullish on gold/crypto，cautious on tech/semis。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-06",
+      "time": "08:12 HKT",
+      "status": "success",
+      "market_direction": "OPEC+無視油價暴跌繼續增產，Iran浮動庫存創紀錄，Hormuz海峽出口恢復 — 原油供應全面氾濫。6個月Treasury Yield升至4%，bond market直接定價加息。$350B流動性收縮今夏來襲，momentum trade unwind風險升溫。半導體板塊因AI spending concerns全面下滑，NVDA -13%一個月。Crypto retail sentiment冰點 — BTC $63.5K徘徊，Binance $1.2B資金外流。UK首相Starmer辭職，Burnham接任。NATO峰會本周舉行，Trump出席。EasyJet £5.5B收購確認航空業價值。整體市場處於risk-off轉向 — 油價崩+加息預期+流動性收縮三重壓力。",
+      "headlines": [
+        "ACTION: USO/XLE/XOM — OPEC+增產+Iran浮動庫存創紀錄+Hormuz恢復，油價崩跌趨勢清晰，short energy",
+        "ACTION: AAL/UAL/DAL/JETS — 油價暴跌直接利好航空，EasyJet £5.5B收購確認行業價值",
+        "ACTION: TLT/TBT — 6M Treasury Yield 4%，bond market定價加息，short bonds",
+        "ACTION: NVDA/SMH/SOXX — Semi stocks slide amid AI spending concerns，資金輪動出AI基建",
+        "WATCH: SPY/QQQ/VIX — $350B流動性收縮+Momentum unwind雙重風險",
+        "WATCH: BTC/ETH/IBIT — Crypto retail capitulation，Terrible Monday警告",
+        "WATCH: MU — SA $1,750 base case vs Burry short，分歧極大",
+        "WATCH: EWU/FXB — UK首相換屆，energy policy轉向",
+        "WATCH: LMT/RTX/NOC — NATO Summit geopolitical risk"
+      ],
+      "opportunities": [
+        "USO/XLE short: OPEC+連續增產+Iran浮動庫存+Hormuz恢復。FT Poll顯示美國人厭倦伊朗戰爭。油價供需基本面全面bearish。",
+        "AAL/UAL/DAL long: 油價每跌$10航空業利潤增~$1.5B。EasyJet £5.5B收購溢價顯示PE認為航空股被低估。加埋旺季需求。",
+        "TLT short / TBT long: Bond market已price in加息但股票未。Fed minutes本周可能觸發repricing。",
+        "NVDA/SMH short: AI spending concerns + momentum unwind風險。AMD/Intel已在H1跑贏NVDA。資金明顯輪動。",
+        "BTC超賣反彈: Retail全面capitulation（Trump memecoin -$3.8B + Binance $1.2B outflow）。Contrarian signal但timing tricky。"
+      ],
+      "analysis": "今日（2026-07-06）Asian/European session共掃描58條RSS feeds + 25條FMP news，獲取184篇新聞文章。\n\n## 核心驅動因素\n\n### 1️⃣ 原油供應氾濫（最大變數）\nOPEC+ approves further output increase despite tumbling crude prices. Iran's floating oil hoard swells to record levels. Strait of Hormuz exports recovering. FMP headline: \"Sudden Glut of Oil Threatens to Weaken Iran's Hand in Talks.\"\n\n- FT Poll: US voters say Trump's Iran war \"not worth the cost\"\n- FMP: Mid-Year 2026 Market Outlook — Oil, Gold, And Copper\n- OilPrice: Five Energy Stocks Riding Texas's Data Center Power Boom\n\n**油價已由戰爭溢價轉向供應過剩折讓。** 航空/消費/運輸直接受惠。\n\n### 2️⃣ Bond Market定價加息\nWolf Street: Six-Month Treasury Yield rises to 4%. \"Bond Market Tells the Fed to Get on with the Rate Hikes.\"\n\n- FMP: Kevin Warsh Must Explain That The Fed Simply Cannot Fight Inflation\n- FMP: A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer\n- Fed minutes本周公布\n\n### 3️⃣ 半導體/AI資金輪動\n- FMP: Semiconductor Stocks Slide Amid AI Spending Concerns\n- NVDA down 13% over last month. AMD and Intel crushed Nvidia in H1 2026.\n- Big Tech's $3 Trillion Struggle to Secure Enough Electricity\n- MarketWatch + FMP: momentum trade headed for \"violent unwind\"\n\n### 4️⃣ Crypto Retail Capitulation\n- BTC near $63.5K, trader warns of \"terrible Monday\"\n- Binance outflows triple to $1.2B, ETH withdrawals hit 3-year high\n- TechCrunch: Trump memecoin investors lost $3.8 billion\n- South Africa proposes crypto tax guidance\n\n### 5️⃣ UK政治換屆\n- Starmer resigns, Burnham becomes new PM (7th in 10 years)\n- OilPrice: \"What Changes for UK Energy Policy?\"\n- Guardian: \"New direction, same old problems\"\n\n### 6️⃣ NATO Summit + Geopolitics\n- NATO annual summit with Trump attending\n- Turkey sees rising status in NATO\n- Red Sea cargo vessel attacked\n- Super Typhoon Bavi threatens Guam/Pacific\n\n### 7️⃣ Corporate / M&A\n- EasyJet £5.5B takeover agreement in principle\n- Bending Spoons $23B tech empire, now public\n- Goldman Sachs earnings preview\n- Zoetis 60% decline — finally buyable (SA)\n- Hybrids overtake EVs in US car market",
+      "risks": [
+        "Momentum unwind可能觸發broad market sell-off而非rotation — $350B流動性收縮+加息預期雙重打擊",
+        "NATO峰會若出現escalation（Red Sea/Hormuz/Ukraine），geopolitical risk溢價急升",
+        "BTC若跌破$62K可能trigger更大規模crypto sell-off，波及risk assets",
+        "Fed minutes若hawkish超預期，bond/equity同時受壓",
+        "Super Typhoon Bavi可能造成重大傷亡，insurance/reinsurance sector受衝擊",
+        "UK政治過渡期不確定性 — 7th PM in 10 years，institutional instability"
+      ],
+      "my_take": "今日Asia/Europe session有四個重點：（1）原油供應氾濫 — 呢個係最大嘅macro driver。OPEC+無視價格信號繼續增產、Iran浮動庫存創新高、Hormuz通道恢復正常。油價崩跌趨勢清晰，利好航空/消費/運輸，利空能源板塊。（2）Bond market已定價加息 — 6M Treasury at 4%係一個強烈信號。加埋$350B流動性收縮，市場流動性環境正在收緊。股市嘅momentum trade unwind風險不容忽視。（3）AI基建資金輪動 — Semi全面下滑，NVDA -13%。資金從AI硬件轉向應用層/value plays。呢個rotation如果加速，QQQ/Tech heavy portfolio會受壓。（4）Crypto retail capitulation — Trump memecoin $3.8B losses + Binance $1.2B outflow。Retail徹底投降通常係contrarian買入信號，但timing好難把握。策略上：short energy + short bonds + short semi，long airlines。Defensive positioning為主。Crypto方面等BTC RSI超賣信號先action。",
+      "key_takeaways": [
+        "油價崩跌: OPEC+增產+Iran浮動庫存+Hormuz恢復，供應氾濫，short energy",
+        "Bond market定價加息: 6M Treasury 4%，$350B流動性收縮，short TLT",
+        "Semi slide: NVDA -13%，AI spending concerns，資金輪動出AI基建",
+        "Crypto retail capitulation: BTC $63.5K，Binance $1.2B outflow，contrarian watch",
+        "航空股受惠油價: EasyJet £5.5B收購+燃油成本暴跌，long airlines",
+        "NATO Summit + UK換屆: geopolitical risk but overshadowed by oil glut"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-06",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish Selective — rotation favoring defensives/financials/gold over tech/semis",
+      "headlines": [
+        "SMH -4.54%: Semi massacre as AI spending concerns + Burry short MU trigger panic",
+        "TSLA -7.49% despite delivery beat: Hybrids overtake EVs narrative crushing sentiment",
+        "GLD +2.03%, Gold $4,190: NFP-driven rate-hike-end narrative fuels gold breakout",
+        "AAPL +4.84%: Quality rotation — money fleeing high-beta semis into safe compounders",
+        "XLF +3.83% 5d: Bank earnings season starts, financials leading rotation",
+        "MSTR +22.43% 5d: Crypto proxy divergence — institutional accumulation despite retail capitulation",
+        "Defense rally: LMT +4.62%, RTX +3.9% ahead of NATO Summit",
+        "Futures point up: NQ +1.38%, ES +0.50% — long weekend bounce expected",
+        "Oil continues slide: CL at $68.52, OPEC+ supply glut narrative building",
+        "VIX 16.15: Extreme complacency entering holiday weekend"
+      ],
+      "opportunities": [
+        "Short Semi / Long Quality pair trade (SMH vs AAPL/MSFT)",
+        "GLD: Gold continuation — add on dips, target $390",
+        "BTC/IBIT: Crypto contrarian — watch $65K break for confirmation",
+        "XLF: Bank earnings pre-positioning — but watch guidance",
+        "TSLA: Backwardation play — wait for catalyst at $380 support"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n上周四 NFP +57K 徹底改寫加息預期。市場由「驚加息」轉為「加息結束」，Goldilocks narrative 回歸。10-Year Treasury Yield 收 4.49%，6個月 Treasury Yield 已到 4% — bond market 定價更緊嘅 monetary policy，但 equities 選擇性忽略。VIX 收 16.15，complacency 水平。\n\nFOMC Schedule: 下次 FOMC 會議 July 29-30。本周重點係 Fed Minutes（July 2 嗰次會議紀錄）+ Bank earnings season 啟動。\n\nKevin Warsh 嘅 Fed 並冇急於表態，但 $350B 流動性收縮今夏來襲呢個風險仍然存在。市場暫時選擇性 focus on NFP-driven Goldilocks，但債市 signal 同股市脫節。\n\n## 📰 今日重頭條（Raw Headlines）\n\n1. **[July 2] NFP +57K vs ADP 98K** — 極弱 ADP 但 NFP 意外強，市場先 panic 後 rally。Gold 突破 $4,190。\n   → 📡 NC captured: Gold breakout call 完全命中\n\n2. **[July 2] SMH -4.54% — Semi Massacre** — AI spending concerns + Burry shorts MU + NVDA -13% 一個月。資金大規模輪出半導體。\n   → 🎯 NC captured: Short semi ACTION call 精準命中\n\n3. **[July 2] TSLA -7.49% despite delivery beat** — Q2 deliveries +25% beat，但 hybrids overtake EVs 嘅 narrative 沉重打壓。背離係本周最大機會但 timing 難。\n   → 🎯 NC captured: WATCH call 命中，但尚未出現 reversal catalyst\n\n4. **[July 2] AAPL +4.84%** — Mega-cap quality rotation。資金避開 risk-on semi，躲入 quality compounder。\n   → ❌ NC missed: 冇 capture 到 AAPL 強勢（focus on short semi 但忽略 long quality 嘅 pair trade）\n\n5. **[July 2] GLD +2.03%, Gold $4,190** — 加息結束 narrative 下黃金突破。連續兩周上升。\n   → 🎯 NC captured: Gold breakout call 完美命中\n\n6. **[July 2] Defense: LMT +4.62%, RTX +3.9%** — NATO Summit 本周舉行 + geopolitical risk premium\n   → 📡 NC captured: WATCH call (但標記為「被 oil glut overshadow」— 實際上冇被蓋過)\n\n7. **[Weekend] U.S. stock futures rise** — NQ futures +1.38%, ES futures +0.50%。Long weekend 後預期高開。\n   → ❌ NC missed: 冇預見到 tech 反彈（NC 嘅 thesis 係 short semi/tech）\n\n8. **[July 2] Oil: USO -1.42% 5d, CL at $68.52** — OPEC+ supply glut narrative，但 XLE 當日反而 +0.78%。Short energy call 短期未兌現。\n   → ⚠️ NC partially captured: direction correct but timing off\n\n9. **[Weekend] MSTR +22.43% 5d, COIN +11%** — Crypto proxy stocks 大幅跑贏 BTC (+3.19%)。Retail capitulation narrative 反而 trigger 咗 contrarian rally。\n   → 📡 NC captured: Crypto contrarian watch (但冇預見到呢個幅度)\n\n10. **[July 2] XLF +1.53%, +3.83% 5d** — Bank earnings season 本周啟動，financial sector leading rotation。\n    → 📝 NC captured: NOTE call on GS/JPM/XLF\n\n## 1. 📊 Market Recap — July 2 Session (Pre-July 4th Weekend)\n\n| Index | Close | Day Chg | 5-Day | Signal |\n|-------|-------|---------|-------|--------|\n| SPY | $744.78 | -0.13% | +2.17% | Banner week, slight Thurs dip |\n| QQQ | $712.60 | -1.73% | +0.86% | Tech underperformance clear |\n| DIA | $527.88 | +1.05% | +1.96% | Value rotation leader |\n| IWM | $297.58 | -0.58% | -0.75% | Small caps lagging |\n\n**Sector Performance (Thu Jul 2):**\n- 🟢 Winners: XLV +2.63%, XBI +2.50%, XLU +2.21%, GLD +2.03%, XLF +1.53%\n- 🔴 Losers: SMH -4.54%, XLK -2.71%, QQQ -1.73%\n\n**Key Signals:**\n- **Rotation is real.** 資金從 Tech/Semis → Healthcare/Financials/Utilities。呢個唔係一日半日嘅 noise。\n- **VIX 16.15** — 極低。July 4 weekend 前市場異常 calm。Complacency risk。\n- **Volume:** SMH 21.3M vs avg ~12M — 係 panic selling，唔係 orderly rotation。\n- **Bond market diverging:** TLT -1.76% 5d (yields up)，但 equities 當 Goldilocks 炒。呢個 divergence 係 risk。\n\n## 2. 🔥 Notable Movers\n\n### TSLA: -7.49% — 最有趣嘅背離\nDelivery beat (+25% QoQ) 但股價暴挫 7.5%。理由：hybrids overtake EVs narrative + Musk 政治風險 + AI 估值 premium 蒸發。TSLA 由 growth stock 被重新定價為 auto stock。背離大，但 catalyst 未出現 — 等 CPI 或 delivery 修正先諗。\n\n**My view:** WATCH，唔係 ACTION。背離係 opportunity 但 timing 難。TSLA 需要一個 catalyst（CPI 利好、Musk 正面新聞、或 technical support bounce）先值得 action。\n\n### SMH: -4.54% — Semi Capitulation\n呢個唔係普通 sell-off。5日跌 3.16%，NVDA 跌 1.39%（相對強），MU 跌 5.49%（-13.84% 5d）。Burry short MU 係 catalyst，但更深層係 AI infrastructure overbuild 嘅 fear。資金從「AI基建」 → 「AI應用」輪動。\n\n**My view:** Short semi call 已兌現大半，但 momentum 未盡。SMH 下一 support ~$570。Short position 可以繼續但 tighten stop。\n\n### AAPL: +4.84% — Quality Rotation Winner\n最被低估嘅 move。AAPL +8.76% 5d，創新高。呢個唔係 AI trade — 係 safety trade。資金由 high-beta semi 轉入 quality compounder。AAPL 有 services revenue growth + buyback + safe haven status。\n\n**My view:** Long AAPL 係最安全嘅 pair trade against short semi。但要小心 — AAPL 已經 extended。\n\n### MSTR: +7.9% Day, +22.43% 5d — Crypto Proxy Divergence\nBTC 只係 +3.19%，但 MSTR +22.43%，COIN +11%。Retail capitulation? 唔似。呢個係 institutional accumulation through proxies。BTC $63.5K 水平有強 support。\n\n**My view:** Crypto contrarian signal 正在發酵。等 BTC break $65K 確認 trend change。\n\n### Defense: LMT +4.62%, RTX +3.9%\nNATO Summit catalyst 疊加 geopolitical risk premium。但 defense 係 event-driven，唔係 structural trend。\n\n**My view:** NATO Summit 後 take profit。唔係 long-term hold。\n\n## 3. 📰 News That Mattered — NC Call Assessment\n\n| NC Call | Result | Hit/Miss |\n|---------|--------|----------|\n| Short Energy (USO/XLE) | XLE +0.78% on day, USO -1.42% 5d | ⚠️ Direction correct, timing off |\n| Long Airlines (JETS) | JETS -0.09% | ❌ Oil drop 未傳導到 airlines |\n| Short Bonds / Long Inverse (TLT) | TLT -1.76% 5d | 🎯 Hit |\n| Short Semi (SMH) | SMH -4.54% | 🎯 Perfect hit |\n| Gold Breakout (GLD) | GLD +2.03% | 🎯 Perfect hit |\n| Crypto Contrarian Watch | MSTR +22.43%, BTC +3.19% | 📡 Partial — direction right, magnitude missed |\n| MU Watch (分歧大) | MU -5.49%, -13.84% 5d | 🎯 Bear case winning |\n| NATO/Defense Watch | LMT +4.62%, RTX +3.9% | 🎯 Hit (NC said \"被 oil glut overshadow\" — 實際上冇) |\n\n**NC hit rate: 6/8 actionable calls on the right side.** 兩個 miss: airlines 未受惠、energy 短期反彈。\n\n## 4. 🎯 Opportunities Carry Forward\n\n### ① Short Semi / Long Quality — The Pair Trade (High Conviction)\nSMH weakness 未結束。AI infrastructure overbuild 嘅 narrative 會持續。但唔好 naked short — pair with long AAPL/MSFT/quality。\n\n**Trade:** Short SMH / Long AAPL（或 XLK pair）。Risk: tech broadly reverses。What changes my mind: NVDA break $205 with volume。\n\n### ② Gold Continuation (High Conviction)\nGLD $378，gold futures $4,190。加息結束 narrative 疊加 DXY weakness (100.87) 支撐金價。NFP 後 momentum 強。\n\n**Trade:** Long GLD。Add on dip to $375。Target $390。Risk: CPI next week surprises hot。\n\n### ③ Crypto Contrarian (Medium Conviction)\nMSTR +22.43%, COIN +11% 已經領先。BTC still below $65K — 突破確認 trend change。Retail 仲係 capitulation mode — 呢個係 bullish contrarian signal。\n\n**Trade:** Watch BTC $65K break。如果確認，long IBIT/MSTR。Risk: binance $1.2B outflow 代表結構性問題。\n\n### ④ Bank Earnings Pre-Positioning (Medium Conviction)\nXLF +3.83% 5d。Bank earnings (GS, JPM) 本周啟動。如果 NFP-driven Goldilocks narrative 持續，financials 應該繼續跑贏。\n\n**Trade:** Long XLF into earnings。但要小心 — 如果 guidance 轉弱，即刻反轉。\n\n### ⑤ TSLA Backwardation Play (Low Conviction, Wait for Catalyst)\nTSLA -7.49% 背離 delivery beat。一旦出現 reversal catalyst（CPI 利好、Musk 好消息、技術面超賣反彈），呢個 move 可以好快。\n\n**Trade:** 唔好 pre-empt。等 catalyst。Set alert at $380 support。\n\n## 5. ⚠️ Risks / Watchlist\n\n### Tonight (Monday US Session):\n- **Futures pointing up:** NQ +1.38%, ES +0.50%。Long weekend 後可能 gap up。如果 gap up 後 fade（especially tech），confirm distribution。\n- **Bank earnings preview:** GS, JPM 等可能會 pre-announce 或 leak guidance。留意 financial sector。\n- **Oil:** CL at $68.52, still trending down。如果 break $67，energy sector 會加速下跌。\n- **Bond market:** 10Y at 4.49%。如果 break 4.55%，TLT 會再跌，equities 可能跟。\n\n### This Week:\n- **Fed Minutes (Wed):** 市場會 scrutinize 每個字。任何 hawkish surprise → tech sell-off。\n- **NATO Summit:** Defense stocks 已經 priced in。Event 後可能 sell the news。\n- **Bank Earnings (GS, JPM, etc.):** If guidance 弱 → 整個 rotation thesis 會動搖。\n\n### Structural Risks:\n- **$350B liquidity drain** — 市場暫時 ignore 咗。當 liquidity 真係收縮，small caps + high-beta 會最傷。\n- **Bond/Equity divergence** — TLT -1.76%，但 stocks 當 Goldilocks。呢個 gap 一定要 close — 問題係邊邊讓步。\n\n## 6. 💡 My Take\n\n**今日最重要嘅 takeaway：Rotation is real and accelerating。** 周四嘅 session 係 textbook rotation — Semis -4.54%、Healthcare +2.63%、Financials +1.53%。呢個唔係一日行情。\n\n**Tomorrow's bias: Cautiously bullish but selective。** Futures pointing up (+0.5-1.4%)，long weekend 後通常有 positive drift。但 tech bounce 可能係 distribution，唔係 accumulation。Selective long quality/defensive，avoid semis，add gold exposure。\n\n**The uncomfortable truth:** VIX 16.15 係極低水平，反映市場對 NFP Goldilocks narrative 過度樂觀。10Y yield 4.49% 同 equities 嘅脫節係個 risk。星期一 gap up 後如果 fade，小心係 bull trap。\n\n**What I'm watching tonight:** \n1. NQ futures gap up 會唔會 hold\n2. SMH 會唔會繼續弱（confirm trend）定反彈（bear trap）\n3. Oil < $68 會唔會 accelerate energy downside\n4. GLD 會唔會 break $380",
+      "risks": [
+        "Bond/Equity divergence: TLT -1.76% but equities rallying — gap must close",
+        "$350B liquidity drain ignored by market — small caps most vulnerable",
+        "VIX 16.15 complacency — any negative surprise triggers violent reversal",
+        "Fed Minutes this week: Hawkish surprise = tech sell-off resumes",
+        "NATO Summit: Defense stocks priced in, sell-the-news risk",
+        "Gap up fade risk: NQ +1.38% futures, if it fades = distribution signal"
+      ],
+      "my_take": "Rotation is real — Semis -4.54%, Healthcare +2.63%, Financials +1.53%。Long weekend 後 futures pointing up (+0.5-1.4%)，但 tech bounce 可能係 distribution。Cautiously bullish selective — long GLD/quality，avoid semis，watch TSLA reversal。VIX 16.15 過度 complacent，bond/equity divergence 係 hidden risk。"
     }
   ],
   "news_curator": [
