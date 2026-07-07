@@ -2405,47 +2405,6 @@
       "my_take": "Rotation is real — Semis -4.54%, Healthcare +2.63%, Financials +1.53%。Long weekend 後 futures pointing up (+0.5-1.4%)，但 tech bounce 可能係 distribution。Cautiously bullish selective — long GLD/quality，avoid semis，watch TSLA reversal。VIX 16.15 過度 complacent，bond/equity divergence 係 hidden risk。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-06",
-      "time": "20:08 HKT",
-      "status": "success",
-      "market_direction": "美股期貨上升，Wall Street 延續 rally。但債市定價更鷹（6M yield 4%），疊加伊朗危機升溫 + OPEC+ 增產，宏觀訊號混雜。整體偏向 risk-on but cautious。",
-      "headlines": [
-        "OPEC+ 不顧油價下跌繼續增產 — 原油供過於求壓力加大",
-        "6個月美債息升至4% — 債市向聯儲局施壓加息",
-        "Texas 數據中心用電潮 — 能源基建 x AI 結構性機遇",
-        "美國廉價天然氣時代或告終",
-        "EasyJet £5.5bn 收購 — M&A catalyst",
-        "BTC $63.5K 周收 + Binance $1.2B 資金外流",
-        "伊朗最高領袖被暗殺 — 中東風險溢價急升"
-      ],
-      "opportunities": [
-        "🎯 能源基建 + Data Center: VST, NRG, CEG — AI 用電需求結構性增長",
-        "🎯 天然氣: UNG, EQT — 廉價天然氣時代結束，結構性轉變",
-        "🎯 黃金: GLD 折讓區 4,040-4,080 — 伊朗避險 + 降息預期",
-        "🎯 EasyJet: EZJ — £5.5bn 收購 catalyst",
-        "📡 國防: LMT, RTX, PPA — NATO 峰會 + 伊朗危機",
-        "📡 原油下行: USO/XLE short — OPEC+ 增產壓力",
-        "🔥 MEME: TRUMP coin 崩盤後反彈機會 / Polymarket 熱潮"
-      ],
-      "analysis": "亞洲/歐洲時段主要新聞：OPEC+ 無視油價下跌繼續增產，油市供過於求壓力加大。債市方面，6M T-bill yield 升至 4%，市場定價聯儲局需更鷹派加息。伊朗最高領袖 Khamenei 被暗殺，中東局勢急劇升溫，黃金避險需求增加。美股期貨保持升勢但 momentum trade 有拆倉風險。\n\n能源板塊出現結構性機會：數據中心用電需求爆發 + 天然氣出口增長 = 能源基建股受惠。Gold 技術面顯示 4,040-4,080 為折讓買入區，配合地緣政治風險溢價。\n\nCrypto 方面，BTC $63.5K 周收但 Binance 錄得 $1.2B 資金外流、ETH 提幣量達 3 年高。交易員警告周一亞洲盤或有波動。Trump memecoin 投資者虧損 $3.8B，MEME 板塊需留意是否有反彈 trade。",
-      "risks": [
-        "伊朗危機升級 → 油價 spike risk（如果霍爾木茲海峽受威脅）",
-        "債市加息定價 → 股市估值承壓，尤其高 growth/tech",
-        "Crypto 資金外流加速 → BTC/ETH 下行風險",
-        "Momentum trade 七月季節性拆倉 → 全市場波動"
-      ],
-      "my_take": "今個 session 最 interesting 嘅 theme 係能源基建 x AI crossover。Big Tech 要 $3T 去 secure electricity，係一個長線結構性 story。同時伊朗危機係最大 wildcard — 如果中東衝突擴大，油 + 金 + 國防都會爆。短線我會 keep an eye on 能源基建 long + 黃金避險 + crypto 下行風險。聽朝美股開市前要睇實 futures 同亞洲時段 BTC 反應。",
-      "key_takeaways": [
-        "OPEC+ 增產 = 油價短線壓力，能源基建反而受惠於 data center 需求",
-        "6M yield 4% = 債市定價加息，TLT 短線受壓，金融股受惠",
-        "伊朗暗殺事件 = 地緣政治 risk premium，黃金/國防睇高一線",
-        "Crypto 資金外流加速 — BTC/ETH 周一亞洲盤可能要捱打",
-        "Momentum unwind 風險真實 — 留意 SPY/QQQ 7月 seasonality",
-        "能源基建 (VST/NRG/CEG) + 天然氣 (UNG/EQT) 係今期重點關注"
-      ]
-    },
-    {
       "pipeline": "開市掃瞄",
       "date": "2026-07-06",
       "time": "20:34 HKT",
@@ -2475,6 +2434,105 @@
         "Momentum trade 七月季節性拆倉 → 全市場波動"
       ],
       "my_take": "Bullish with rotation bias。ES futures +1.5% 指向高開，但上週四 rotation signal（DIA +1% vs QQQ -1.7%）反映資金從高估值 tech 流向 value/financials。Energy infra（VST, CEG）+ gold（GLD）係最清晰嘅機會。Iran 危機係最大 wildcard。Bond yield 上行（10Y 4.48%）對 tech 估值有壓力。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-06",
+      "time": "20:59 HKT",
+      "status": "success",
+      "market_direction": "美股期貨假期後溫和上升，rally延續預期。Iran/Khamenei事件進入葬禮階段，地緣溢價已消退。",
+      "headlines": [
+        "⏪ 🎯 Iran: Khamenei葬禮第5日 — 地緣風險溢價已消退，CORRECTION to NC #1",
+        "🆕 🎯 Red Sea貨船遇襲 — 航運disruption風險重燃",
+        "📅 🎯 NATO Summit本週舉行 — 國防支出主題持續",
+        "📅 📡 UK能源政策轉向 — Starmer下台Burnham上台",
+        "📅 📡 Marine Le Pen上訴判決 — 法國政治風險",
+        "📅 📡 Goldman Sachs業績預覽 — 銀行股業績季開鑼"
+      ],
+      "opportunities": [
+        "NATO Summit: LMT/RTX/PPA 最後一浸但risk/reward一般",
+        "Bank earnings: GS/JPM catalyst，7月中業績季開鑼",
+        "Red Sea: 等確認襲擊來源，若升級航運股有短線trade"
+      ],
+      "analysis": "US session相對quiet（July 4th長周末後）。最重要correction：NC #1將Iran/Khamenei framed為「被暗殺→中東升溫」，現實係葬禮第5日、油價第四週下跌、OPEC+增產。Defense/oil run-up唔應該再被視為fresh catalyst。",
+      "risks": [
+        "Momentum trade unwind — NC #1已flagged，7月季節性風險",
+        "Iran若局勢緩和 → defense/oil可能回調",
+        "化學安全deregulation → DOW/LYB tail risk"
+      ],
+      "my_take": "本週focus：NATO Summit（國防支出數字）、銀行股業績季（GS/JPM）、Red Sea局勢。Iran/Khamenei事件已消化，唔好追高defense/oil。",
+      "key_takeaways": [
+        "CORRECTION: Iran/Khamenei係葬禮階段，非新鮮catalyst — defense/oil已反映",
+        "NATO Summit係本週最大event — 國防支出承諾係 catalyst",
+        "銀行股業績季7月中開鑼 — GS/JPM portfolio holdings",
+        "Red Sea新襲擊 — 等確認，短線only"
+      ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-07",
+      "time": "08:17 HKT",
+      "status": "success",
+      "market_direction": "Dow首次突破53,000，AI半導體訊號分歧，Fed Warsh改革前瞻指引增加macro不確定性",
+      "headlines": [
+        "[NEW] ACTION: MU,SMH — Samsung AI記憶體利潤暴增1,800%",
+        "[NEW] ACTION: MSFT — 裁員4,800人，Xbox分拆",
+        "[NEW] ACTION: JPM,BAC,FI — 大行聯手Fiserv顛覆支付",
+        "[NEW] WATCH: MACRO — Fed Warsh改革前瞻指引",
+        "[NEW] WATCH: RIVN — 7,500萬股dilution",
+        "[NEW] WATCH: INTC,HXSCL — AI晶片IPO pipeline",
+        "[續報] WATCH: USO,XLE — 沙特劈價擴大供應過剩",
+        "[續報] WATCH: LMT,RTX — 加拿大潛艇合約",
+        "[NEW] WATCH: EV Sector — LG Energy利潤大跌77%",
+        "[NEW] NOTE: SPY,QQQ — Dow 53,000 milestone",
+        "[NEW] NOTE: AMD,KTOS — ARK沽AMD換Defense",
+        "[NEW] NOTE: BABA — 禁Anthropic AI"
+      ],
+      "opportunities": [
+        "MU: Samsung確認AI記憶體需求爆發，MU係最直接美國上市beneficiary",
+        "MSFT: 大規模重組通常positive catalyst，跟進Xbox分拆details",
+        "FI: 銀行聯手挑戰V/MA duopoly，FI係直接受惠者"
+      ],
+      "analysis": "US session主旋律：AI memory boom confirmed (Samsung +1,800% profit) + macro uncertainty rising (Warsh改革前瞻指引)。銀行挑戰支付duopoly係新structural theme。油市+EV弱勢互相確認。",
+      "risks": [
+        "Fed Warsh減少forward guidance = macro波動率上升",
+        "DRAM價格peak risk（SA警告3年內跌80-90%）",
+        "RIVN dilution + EV需求疲弱 = sector headwind"
+      ],
+      "my_take": "Samsung 1,800% profit surge係最強signal — AI記憶體需求real。Fed Warsh改革前瞻指引係underrated macro risk。MSFT restructuring值得跟進。銀行挑戰Visa/Mastercard係長期theme但短期execution risk高。",
+      "key_takeaways": [
+        "AI記憶體需求real — Samsung profit +1,800%確認",
+        "Fed Warsh減少forward guidance = 數據波動直接hit市場",
+        "油市供過於求加速 — 沙特劈價escalation",
+        "銀行支付disruption — JPM/BAC聯手Fiserv",
+        "EV需求疲弱確認 — LG Energy -77% profit"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-07",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "🟢 Tech-led rally, Dow 53,000 milestone, VIX 15.57 complacency",
+      "headlines": [
+        "Samsung AI記憶體利潤暴增1,800%點燃半導體全面rally (SMH +2.03%, AMD +6.61%)",
+        "Dow首次收於53,000以上，心理關口突破",
+        "JPM/BAC聯手Fiserv顛覆支付網絡 — V -1.35%, MA -1.17% vs BAC +1.99%",
+        "TSLA +6.69% 逆LG Energy利潤大跌77%而升 — EV sector paradox",
+        "RIVN +8.11% 逆dilution news大升，需要解釋",
+        "VIX跌至15.57 — 2026年低位，市場極度complacent"
+      ],
+      "opportunities": [
+        "SMH: AI memory demand confirmed, diversified semi plays (AVGO/AMD) preferred over pure memory (MU)"
+      ],
+      "analysis": "## 📰 今日重頭條\n\n> ⚠️ news_summary DB 嘅 raw headlines 過去 24 小時為零 — 今日分析主要依賴 News Curator #2 嘅 curated output + 價格 action。\n\n從今日 market action reverse-engineer 嘅主要 headlines：\n\n1. **[TSLA +6.69%]** 逆 LG Energy 利潤大跌而升 — Tesla 正在 EV 弱市中贏得 market share，或另有 catalyst（可能係 robotaxi/AI 相關消息）\n2. **[AMD +6.61%, SMH +2.03%]** Samsung AI 記憶體利潤暴增 1,800% 點燃半導體全面 rally — 但 MU 只係 +0.94%，反映 DRAM cycle peak 憂慮\n3. **[Dow 53,000 milestone]** 道指首次收於 53,000 以上，心理關口突破但期貨 flat，冇追價買盤\n4. **[V -1.35%, MA -1.17% vs BAC +1.99%, JPM +0.97%]** JPM/BAC 聯手 Fiserv 顛覆支付網絡嘅消息令 V/MA 受壓 — 市場視之為 credible threat\n5. **[RIVN +8.11%]** 逆 dilution news 大升 — dilution 7,500萬股理應 negative，但市場似乎睇到其他 catalyst（可能係 DOE loan approval itself 被視為正面）\n6. **[MSFT -0.96%]** 裁員 4,800 人 + Xbox 分拆 — 市場對 restructuring 持審慎態度，等細節\n7. **[XLE -0.17%, XOM -0.47%, CVX -0.65%]** 沙特劈價 + 油市第四週下跌 — energy sector 繼續 out of favor\n8. **[NFLX -2.10%]** 少數 big tech loser — 冇明顯新聞，可能係 profit-taking 或 rotation out of streaming\n\n## 1. 📊 Market Recap\n\n| Index | Close | Day Chg | 5-Day | Signal |\n|-------|-------|---------|-------|--------|\n| SPY | 751.28 | +0.87% | +1.39% | 🟢 Broad bid |\n| QQQ | 722.82 | +1.43% | -0.17% | 🟢 Tech leading |\n| DIA | 530.09 | +0.42% | +1.61% | 🟢 Dow milestone |\n| IWM | 298.90 | +0.44% | -0.02% | 🟡 Small caps lag |\n| VIX | 15.57 | -3.59% | -5.35% | ⚠️ Complacency |\n\n**Sector Performance:**\n- 🟢 **Winners:** SMH +2.03%, XLK +1.65%, XLF +0.93%, XLI +0.90%\n- 🔴 **Losers:** XLV -1.09%, XLP -1.05%, XLU -1.01%, XLRE -0.87%\n\n**Key observation:** Complete reversal of the late-June defensive rotation。11 日前 Evening Review 話 XLV +3.71% weekly、defensive 全面確認，今日 XLV -1.09% 係最大 loser。Growth/Tech 強勢回歸，semis 領軍。\n\nVIX 跌到 15.57 — 呢個水平係 2026 年低位，市場極度 complacent。10Y yield 4.48% 穩定，冇俾股市壓力。\n\n## 2. 🔥 Notable Movers\n\n| Ticker | Day Chg | Catalyst | Verdict |\n|--------|---------|----------|---------|\n| **TSLA** | **+6.69%** | EV sentiment shift / 可能 robotaxi catalyst | 🎯 Follow — massive move needs explanation |\n| **AMD** | **+6.61%** | Samsung AI memory read-through + semis bid | 🎯 Legitimate — AI semis momentum |\n| **RIVN** | **+8.11%** | 逆 dilution news 大升 — 可能 DOE loan approval viewed positively | 📡 Watch — move contradicts NC thesis |\n| **AVGO** | **+3.73%** | Semis rally broad-based | 📡 Part of sector wave |\n| **META** | **+2.98%** | Big tech bid | 📡 Steady rally |\n| **NFLX** | **-2.10%** | No obvious catalyst, outlier weakness | ⚠️ Possible rotation out |\n| **V** | **-1.35%** | Payment duopoly threat from bank consortium | ⚠️ Structure threat credible |\n| **MA** | **-1.17%** | Same as V | ⚠️ Same |\n\n**AMD +6.61%:** Cathie Wood 沽 AMD 買 Kratos Defense 嘅消息完全被 ignore。ARK flows 對呢個市值級別嘅股票冇影響力 — NC 正確地標為 NOTE 而非 ACTION。AMD 嘅 move 係純 sector bid。\n\n**RIVN +8.11%:** 呢個係今日最反直覺嘅 move。NC 標為 WATCH（因為 dilution），但市場反向而行。可能原因：DOE loan approval 本身被視為 validation、short squeeze、或者 market 認為 dilution 定價好過預期。值得聽日跟進。\n\n## 3. 📰 News That Mattered — NC Calls Assessment\n\n### ✅ NC 命中：\n- **Samsung AI memory → semis rally (SMH +2.03%):** Direction 正確。但 MU 只係 +0.94%，反映 market 對 DRAM cycle peak risk 有保留（SA 分析警告 3 年內跌 80-90%）\n- **Payment network disruption → V -1.35%, MA -1.17% vs BAC +1.99%:** 方向完全正確。銀行聯手打 payment duopoly 嘅 threat 被市場 take seriously\n- **Oil weakness confirmed:** XLE -0.17%, XOM/CVX 全線下跌 — 沙特劈價 escalation\n\n### ❌ NC 失準：\n- **RIVN dilution → 應該跌但升 +8.11%:** NC 嘅 bearish call 完全錯方向\n- **MSFT restructuring → -0.96%:** NC 話 \"通常係 positive catalyst\"，但市場反應審慎，可能擔心 gaming 分拆嘅 implication\n\n### 🔮 NC 未定論（需時觀察）:\n- **Fed Warsh 改革前瞻指引:** VIX 跌到 15.57，market 完全未 price in macro 波動率上升。呢個係 sleeping risk\n- **EV sector divergence:** LG Energy 利潤 -77% vs TSLA +6.69% — Tesla 在弱 EV market 中贏，但 supply chain 受壓\n\n## 4. 🎯 Opportunities Carry Forward\n\n1. **🎯 SMH / Semis momentum — 但選股要精準**\n   Samsung AI memory demand confirmation 係 real catalyst。但唔係所有 semis 平等：MU 受制於 DRAM cycle peak risk，反而 AVGO/AMD 嘅 diversified AI exposure 更 attractive。SMH 突破 $600 值得跟進。\n\n2. **🎯 TSLA follow-through**\n   +6.69% 嘅 move 需要解釋。如果係 robotaxi/AI 相關，可能有 follow-through。聽日 pre-market 要睇實。但 LG Energy 數據確認 EV demand 弱，所以 TSLA 嘅 strength 可能係 company-specific 而唔係 sector-wide。\n\n3. **📡 JPM/BAC vs V/MA — 結構性 trade 浮現**\n   支付網絡 disruption 係 long-term theme，短期 V/MA 可能繼續 underperform。但要記住銀行聯手歷史成功率低（Zelle 嘅 limited success 係前車之鑑）。呢個 trade 需要 patience，唔係一日反轉。\n\n4. **📡 RIVN follow-up**\n   逆 dilution 升 8% 需要解釋。聽日如果有 analyst upgrade 或 DOE 相關 positive news，可能仲有上行空間。但如果係 pure short squeeze，sustainability 存疑。\n\n## 5. ⚠️ Risks / Watchlist\n\n- **⚠️ VIX at 15.57 — extreme complacency:** 市場喺 Dow 53,000 milestone + Fed Warsh uncertainty 之下仲咁 calm，係 contrarian warning。任何 negative surprise（CPI、geopolitical）都可以觸發 spike。\n- **⚠️ Defensive rotation reversal 可持續性:** 11 日前 XLV 領漲，今日 XLV 領跌。呢個 rotation 太快 — 可能係 noise 而非 trend。如果聽日 XLV 又彈返，確認 choppy market。\n- **⚠️ Overnight risk:** 冇重大 earnings after close，但 NATO Summit 本週舉行，defense sector 可能波動。LMT -1.45% 今日已見 profit-taking。\n- **⚠️ EV sector paradox:** LG Energy profit -77% vs TSLA +6.69% — 呢個 divergence 不可持續。要睇邊個 signal 最終贏出。\n\n## 6. 💡 My Take\n\n今日係 \"buy everything tech, ignore macro risks\" 嘅 session。Dow 53,000 milestone 係 bullish，但 VIX 15.57 令人不安。\n\n最重要嘅 takeaway：**Samsung AI memory demand confirmation 係 real，但唔好 chase MU 而忽略 DRAM cycle risk。Semi exposure 要揀 diversified AI plays（AVGO、AMD）而唔係 pure memory plays。**\n\nNC #2 嘅 payment network thesis 今日初步確認（V/MA underperforming banks），值得繼續跟進。RIVN 嘅 counter-intuitive rally 需要聽日搵解釋。Fed Warsh risk 完全未被 price in — 呢個係 7 月 CPI 前嘅最大 macro risk。\n\n**Tomorrow's bias: Cautiously bullish — momentum favors tech/semis，但 VIX complacency + Fed uncertainty 令我不願意 chase。等 pullback 先加。**\n\nBull case: AI capex theme 持續 drive semis higher，Dow 53,000 突破吸引 FOMO\nBear case: VIX at 15.57 = 市場太舒服，Warsh 改革前瞻指引令 7 月 CPI 成為 event risk\nMy view: 短期 momentum bullish 但 risk/reward 不對稱。唔 chase，等 dip。",
+      "risks": [
+        "VIX 15.57 extreme complacency — any CPI/geopolitical surprise triggers spike",
+        "Defensive rotation reversal may be noise not trend",
+        "EV sector paradox (TSLA up vs LGES profit -77%) unsustainable",
+        "Fed Warsh改革前瞻指引 — sleeping macro risk for July CPI"
+      ],
+      "my_take": "Buy everything tech, ignore macro risks — 但 VIX 15.57 complacency + Fed Warsh uncertainty 係 sleeping risk。Samsung 確認 AI memory demand real，但 semis 要揀 diversified plays（AVGO/AMD）而唔係 pure memory（MU）。Payment network disruption theme 初步確認，V/MA underperform。TSLA +6.69% vs LG Energy -77% 嘅 paradox 需要解釋。短期 momentum bullish 但唔 chase，等 pullback。"
     }
   ],
   "news_curator": [
