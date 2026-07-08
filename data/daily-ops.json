@@ -2564,77 +2564,6 @@
       "my_take": "Bullish with rotation. Market 喺 textbook bull market rotation：semis → financials/defense。Gold/debasement trade 係最強 macro signal — NFP miss + Warsh dovish tilt = Fed 冇得 hawkish。Financials rotation 有 fundamental backing（bank earnings 下星期 + yield supportive）。Semis 回調 healthy 但未到買入點 — 等 TSM earnings Jul 16 做 catalyst。VIX 15.6 極低，冇 risk-off signal。"
     },
     {
-      "pipeline": "開市掃瞄",
-      "date": "2026-07-08",
-      "time": "00:15 HKT",
-      "status": "success",
-      "market_direction": "Neutral — Defensive lean，rotation out of tech into financials/defensive",
-      "headlines": [
-        "SMH -11.58% 5d — Semi bloodbath despite Samsung 1,800% profit surge",
-        "JPM/BAC/FI 聯手挑戰 V/MA 支付 duopoly（WSJ）",
-        "MSFT 裁員4,800人 + Xbox 分拆（CNBC）",
-        "Fed 高層支持 Warsh 改革前瞻指引，macro vol 升級（FT）",
-        "沙特劈價擴大供應過剩，油市第四週下跌（Bloomberg）",
-        "Dow 首次突破 53,000 但 momentum unwind 風險增（CNBC）",
-        "Rivian 發7,500萬新股 + LG Energy profit -77% — EV weakness",
-        "NATO Summit 本周 — defense sector catalyst",
-        "Cathie Wood ARK 沽 AMD 轉 Kratos Defense — rotation signal",
-        "銀行股 earnings Jul 14 開波 — JPM/BAC/GS/WFC/C 🎯"
-      ],
-      "focus": [
-        "SMH/MU — AI memory demand confirmed but timing not right",
-        "XLF — Bank earnings preview trade ahead of Jul 14",
-        "MSFT — Restructuring catalyst watch",
-        "Defense — NATO Summit catalyst"
-      ],
-      "analysis": "## Fed Context — Macro Backdrop\n\n### FOMC Status\n- **最新 FOMC：6月16-17日會議** — 已經在前幾次 Morning Scan 詳細分析。利率維持不變，statement 強調 data-dependent approach。\n- **下次 FOMC：7月28-29日** — 距離而家約3星期。今次會議有 press conference，但冇 dot plot（下個 dot plot 係9月）。\n- **本週焦點：Warsh 改革前瞻指引獲 Fed 高層背書**（FT, Jul 6）。Fed 高層支持減少 forward guidance — 意味市場要逐個 data point trade。7月CPI（7月15日）同 NFP（8月7日）嘅 market impact 會比以前更大。\n- **Implication：** Macro 波動率結構性上升。Warsh 減少 Fed put = 市場 downside protection 減弱。呢個係 underrated tail risk。\n\n### 10-Year Yield & Dollar\n- 10Y yield：4.52%，穩定偏高。冇突破 4.60% 但維持喺 elevated level。\n- DXY：100.97，美元穩定。EUR/USD 1.14。\n\n---\n\n## 📰 今日重點頭條\n\n> 註：news_summary DB 嘅 raw RSS feed 喺過去24小時更新較少（主要係7月6日 batch）。以下整合 DB raw headlines + News Curator #2（07/07 08:17 HKT）嘅 curated items，按 market impact 排序：\n\n1. **🏦 [JPM/BAC/FI/V/MA] 華爾街大行聯手 Fiserv 顛覆支付網絡**（WSJ, Jul 6）\n   — JPMorgan、Bank of America 等大行聯手 Fiserv 探討挑戰 Visa/Mastercard duopoly。結構性 threat，但銀行聯手歷史成功率偏低。\n\n2. **🤖 [MU/SMH] Samsung AI 記憶體利潤暴增1,800%**（Bloomberg/BBC, Jul 6-7）\n   — AI 記憶體需求確認唔係泡沫。MU 係最直接美國上市 beneficiary。但 Samsung 股價亞洲回落 — profit-taking signal。\n\n3. **💼 [MSFT] 裁員4,800人，Xbox 部門擬分拆4間遊戲工作室**（CNBC, Jul 6）\n   — 大規模重組通常係 efficiency catalyst。但 gaming 分拆 signal 模糊，要睇 details。\n\n4. **🏛️ [MACRO] Fed 高層支持 Warsh 改革前瞻指引**（FT, Jul 6）\n   — 數據依賴度升級。7月 CPI/NFP market impact 會比以往更大。\n\n5. **🛢️ [USO/XLE] 沙特劈價擴大供應過剩憂慮，油市第四週下跌**（Bloomberg, Jul 6）\n   — OPEC+ 增產 + 沙特罕有 discount。WTI $70.43 反彈中但 trend 仍然 bearish。\n\n6. **🔋 [RIVN/EV] Rivian 發行7,500萬股 + LG Energy Q2利潤大跌77%**（Bloomberg, Jul 6）\n   — EV demand weakness 由 LGES 確認。Rivian dilution 增加 supply。EV sector 全面受壓。\n\n7. **🛡️ [LMT/RTX] 加拿大揀德國 TKMS 造潛艇，NATO 國防支出持續**（FT, Jul 6）\n   — $60B+ 合約。NATO Summit 本週舉行，catalyst 在前。\n\n8. **📊 [SPY/QQQ] Dow 首次突破 53,000，但 momentum unwind 風險增加**（CNBC, Jul 6）\n   — 心理關口突破係 bullish，但 futures flat，冇 follow-through。\n\n9. **🔄 [AMD/KTOS] Cathie Wood ARK 沽 AMD 轉 Kratos Defense**（Investing.com, Jul 7）\n   — Retail sentiment indicator：rotation away from semis into defense。\n\n10. **🇨🇳 [BABA] 阿里巴巴禁止員工用 Anthropic AI**（CNBC, Jul 6）\n    — 中美 AI 信任危機升級。影響 GOOGL/AMZN（Anthropic 投資者），BABA 直接影響微。\n\n---\n\n## 🌍 隔夜市場\n\n| 指數 | 最新 | 日變動 | 5日趨勢 |\n|------|------|--------|---------|\n| SPY | 747.91 | -0.45% | 740-752 range |\n| QQQ | 710.57 | **-1.69%** | 明顯 underperform |\n| DIA | 528.18 | -0.36% | 創53,000新高後回 |\n| VIX | 16.17 | **+3.85%** | 仍然偏低但回升中 |\n| Euro Stoxx 50 | 6,319.86 | -1.22% | 跟隨美股回調 |\n| HSI | 23,616 | flat | 區間上落 |\n| Nikkei | 69,738 | flat | 高位整固 |\n\n**Bond Market：** 10Y yield 4.52%，TLT -0.71% → bond market 未有避險信號，但亦冇追 risk。\n\n**Commodities：**\n- WTI Crude：$70.43（+2.70% 5d）— 反彈中但 trend 仍然向下\n- Gold (GLD)：379.87（-0.59%）— 高位整固\n\n**關鍵信號：QQQ/SPY ratio 5日跌3.63%！** Tech 大幅 underperform，rotation signal 強烈。\n\n---\n\n## 📡 今日重點事件\n\n- **冇重大 US economic data release** — 今日係 quiet day。\n- **NATO Summit 本週舉行** — Defense sector catalyst。LMT/RTX 值得關注。\n- **星期五 (Jul 10)：DAL earnings** BMO — transportation/airline sector 嘅先行指標。油價下跌利好航空股。\n- **下星期二 (Jul 14)：銀行股 earnings 開波！** JPM/BAC/GS/WFC/C 🎯 — 呢個係今季最重要嘅 earnings week 開始。\n- **Red Sea 地緣風險：** 貨船喺紅海報稱受襲（CNBC, Jul 6）— shipping/energy risk。\n\n---\n\n## 🔥 Sector Watch\n\n### 📉 Under Pressure — Semis & Tech\n- **SMH -11.58% 5d** — 半導體 bloodbath。Samsung 1,800% profit surge 竟然未能提振，反映 market 已 price in AI memory boom，開始擔心 peak。\n- **XLK -5.69% 5d** — Tech broad selloff。Cathie Wood 沽 AMD 轉 defense 係 retail sentiment 轉向嘅 microcosm。\n- **QQQ/SPY ratio 急跌** — institutional rotation out of growth。\n\n### 📈 Leading — Financials & Defensive\n- **XLF +4.80% 5d** — 銀行股領先。JPM/BAC earnings next week + payments disruption story 增加 sector attention。\n- **XLV +3.82% 5d** — Healthcare defensive bid。\n- **XLU/XLP/XLRE all positive** — classic risk-off rotation into staples/utilities/REITs。\n\n### ⚡ Mixed — Energy\n- **XLE +1.50% 5d** — 反彈但油價 trend bearish。沙特劈價 + OPEC+ 增產 = supply glut。WTI 雖然反彈到 $70，但第四週下跌 trend 未破。\n- **My call：Avoid energy** — 供需雙殺。Airline/transport 受惠（油價跌 = cost down）。\n\n---\n\n## 🎯 Pre-market Opportunities（從 News Curator Consolidate + Raw Headlines）\n\n### 📡 值得關注\n\n**📡 MU / SMH — AI 記憶體需求確認但 semi sentiment 疲弱**\n- **Bull：** Samsung 1,800% profit surge = AI memory demand real。MU $1,750 base case per SA。\n- **Bear：** SMH -11.58% 5d = market 已 price in。DRAM cycle peak risk（SA 警告3年內跌80-90%）。Samsung 股價回落 = profit-taking signal。\n- **My view：WATCH —** AI memory thesis intact 但 momentum 完全 against。等 semi selloff 穩定先考慮。MU 係 premier play，但 timing 未到。\n- **Catalyst：** MU earnings（已過）、DRAM pricing data、TSM earnings Jul 16。\n\n**📡 MSFT — 大規模重組：efficiency catalyst 定 hidden problem？**\n- **Bull：** 4,800人裁員 = efficiency drive。歷史顯示大規模重組通常係 positive catalyst。\n- **Bear：** Xbox 分拆 signal 模糊 — 係 gaming 業務問題定 strategic pivot？Gaming 係 MSFT 第二大 consumer business。\n- **My view：WATCH —** Positive lean。MSFT 管理層 execution track record 強。但等更多 details 先判斷。\n- **Catalyst：** Spin-off details、MSFT earnings（7月尾）。\n\n**📡 JPM / BAC / FI — 銀行挑戰支付 duopoly**\n- **Bull：** 成功的話，FI 係 direct beneficiary。銀行有 massive distribution network。\n- **Bear：** V/MA moat 極深。銀行聯手歷史成功率低（Zelle limited success）。Execution risk 高。\n- **My view：WATCH —** 長期 theme 但短期 execution uncertainty 高。FI 值得放入 watchlist，V/MA 唔需要 panic sell。\n- **Catalyst：** Deal announcement details、regulatory response。\n\n**📡 LMT / RTX — NATO Summit catalyst**\n- **Bull：** Canada $60B+ submarine contract + NATO Summit 本周 = defense spending momentum。\n- **Bear：** Sector 已經 run up。Cathie Wood 轉 defense = contrarian signal（ARK 通常係 late to the trade）。\n- **My view：WATCH —** NATO Summit 係 short-term catalyst，但要小心 buy the rumor, sell the news。\n- **Catalyst：** NATO Summit this week。\n\n### ⚠️ 風險\n\n**⚠️ MACRO — Warsh 改革前瞻指引 = 更高波動率**\n- 市場習慣 Powell 時代嘅 Fed put。Warsh 減少 forward guidance 意味數據 surprise 會直接 hit market。\n- 7月15日 CPI 係第一個重大 test。\n- **Action：** 唔需要 hedge，但要 aware — position sizing 要考慮 higher macro vol regime。\n\n**⚠️ SMH / XLK — Tech rotation 加速風險**\n- SMH -11.58% in 5 days 唔係正常 pullback — 係 sector rotation。\n- 銀行股 earnings next week 可能加速 rotation into value。\n- **Action：** 減少 tech exposure，等 rotation 穩定。\n\n**⚠️ USO / XLE — 油市供過於求確認**\n- 沙特劈價 + OPEC+ 增產 + EV demand weakness。\n- WTI $70 反彈可能係 dead cat bounce。\n- **Action：** Avoid energy。Airline/transport beneficiary。\n\n---\n\n## 📅 未來一個月業績重點\n\n### 今個星期（Jul 7-13）\n| 日期 | Ticker | 市值 | Est EPS | 時間 | 備註 |\n|------|--------|------|---------|------|------|\n| Thu Jul 9 | PEP | $197B | $2.19 | BMO | Consumer staple bellwether |\n| Fri Jul 10 | DAL | $61B | $1.46 | BMO | 航空股先行指標，油價跌利好 |\n\n### 下個星期（Jul 14-20）— ⚠️ 銀行股 earnings 開波！\n| 日期 | Ticker | 市值 | Est EPS | 時間 | 備註 |\n|------|--------|------|---------|------|------|\n| **Tue Jul 14** | **JPM** | **$896B** | **$5.49** | **BMO** | **金融股龍頭，set the tone** |\n| Tue Jul 14 | BAC | $417B | $1.11 | BMO | Consumer banking health check |\n| Tue Jul 14 | GS | $301B | $14.01 | BMO | IB/trading revenue focus |\n| Tue Jul 14 | WFC | $262B | $1.73 | BMO | Asset cap removal catalyst |\n| **Tue Jul 14** | **C 🎯** | **$239B** | **$2.65** | **BMO** | **Tracked ticker** |\n| Wed Jul 15 | ASML | $682B | $7.98 | BMO | Semi equipment bellwether |\n| Wed Jul 15 | JNJ | $633B | $2.83 | BMO | Healthcare defensive |\n| Wed Jul 15 | MS | $337B | $2.78 | BMO | Wealth management focus |\n| **Thu Jul 16** | **TSM** | **$2,252B** | **$3.77** | **BMO** | **Semi king — 影響成個 sector** |\n| Thu Jul 16 | NFLX | $327B | $0.79 | AMC | Streaming sub growth |\n| Thu Jul 16 | GE | $394B | $1.86 | BMO | Industrial recovery play |\n| Thu Jul 16 | UNH | $386B | $4.84 | BMO | Healthcare giant |\n\n**重點：** Jul 14 銀行股 earnings 係今季最重要嘅 catalyst week。JPM 會 set the tone for 成個 financial sector + macro outlook。TSM（Jul 16）會直接影響 SMH/SOX 方向。\n\n---\n\n## 📋 Today's Agenda\n\n- **今日 catalyst：** Quiet day — 冇 major economic data。Market 會繼續消化上星期嘅 rotation signal。\n- **本週 catalyst：**\n  - NATO Summit（本週）→ Defense sector\n  - DAL earnings（Fri Jul 10）→ Airline/transport\n  - 銀行股 earnings preview trade（ahead of Jul 14）\n- **SPY Key Levels：**\n  - Resistance：752（近期高位）、755（心理關口）\n  - Support：740（SMA20）、735（近期低位）、717（1-month low）\n  - SPY 目前 747.91，處於 range upper end。Risk/reward favors pullback to SMA20。\n\n---\n\n## 💡 My Take\n\n**Overall Bias：Neutral with defensive lean**\n\n今朝嘅最大 signal 唔係任何一條 headline — 係 **sector rotation 嘅速度同深度**。\n\nSMH 5日跌11.58%、QQQ/SPY ratio 跌3.63% — 呢個唔係 normal pullback，係 institutional rotation。Money 由 growth/tech 流向 financials/defensive。銀行股 earnings next week 可能加速呢個 trend。\n\n**三個最緊要嘅 takeaways：**\n\n1. **Semi selloff 係 opportunity in waiting** — Samsung 1,800% profit surge 確認 AI memory demand real。但 timing 未到。SMH 要穩定先考慮 MU。唔好接刀。\n\n2. **銀行股 earnings week（Jul 14）係今季最重要嘅 event** — JPM set the tone。如果銀行股 earnings beat + guidance strong，financial sector rotation 會加速。C 🎯 係 tracked ticker，值得 preview。\n\n3. **Warsh 改革前瞻指引係 underrated macro risk** — 市場未充分 price in higher macro vol regime。7月15日 CPI 係第一個 test。減少 position size、準備好 volatility。\n\n**今日最緊要睇實：**\n- Semi sector 有冇 stabilization signal（SMH 守住 570）\n- XLF 係咪繼續 outperform（銀行股 preview trade）\n- VIX 會唔會突破 18（risk-off acceleration）\n\n**改變 thesis 嘅 overnight signal：** 冇。所有 signal 延續上星期嘅 trend — rotation out of tech, into value/defensive。呢個 trend 短期內唔似會逆轉。",
-      "risks": [
-        "Tech rotation accelerating — SMH -11.58% 5d",
-        "Warsh forward guidance reform = higher macro vol",
-        "Oil supply glut + Saudi price cut",
-        "EV demand weakness confirmed by LG Energy"
-      ],
-      "my_take": "Neutral with defensive lean. Semi selloff（SMH -11.58% 5d）+ QQQ/SPY ratio 急跌3.63% 確認 institutional rotation out of tech into financials/defensive。Samsung 1,800% profit surge 未能提振 semi — market 已 price in AI memory boom，開始擔心 peak。銀行股 earnings（Jul 14 JPM/BAC/C）係今季最重要 catalyst。Warsh 改革前瞻指引 = higher macro vol regime incoming。今日 quiet day，重點觀察 semi stabilization signal 同 XLF 能否持續 outperform。"
-    },
-    {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-08",
-      "time": "08:15 HKT",
-      "status": "success",
-      "market_direction": "伊朗危機升級：美軍打擊＋撤銷石油豁免→原油供應中斷風險。晶片股遭雙重打擊。NATO防務項目落地。El-Erian轉鴿。多重催化拉鋸",
-      "headlines": [
-        "[NEW] ACTION: XOM,CVX,XLE,USO — 美國軍事打擊伊朗＋撤銷石油豁免，原油供應中斷風險急升",
-        "[NEW] ACTION: NVDA,SMH,SOXX — NVDA Kyber延遲至2028＋Samsung業績miss雙重打擊",
-        "[NEW] ACTION: META — Muse AI圖像模型面世 vs $1.4T法律風險",
-        "[NEW] WATCH: LMT,RTX,NOC,GD — NATO峰會啟動具體防務項目＋伊朗打擊",
-        "[NEW] WATCH: GME — 股東批准新股發行＋計劃收購eBay",
-        "[NEW] WATCH: MACRO — El-Erian轉鴿＋債市重定價加息預期",
-        "[NEW] NOTE: AMZN — $25B債券發行",
-        "[NEW] NOTE: NET — Deutsche Bank升級Cloudflare",
-        "[NEW] NOTE: JPM — Q2業績預覽"
-      ],
-      "opportunities": [
-        "XOM/CVX: 伊朗危機係real catalyst，油市由供應過剩全面反轉為供應中斷風險",
-        "NVDA/SMH: 雙重打擊令短期sentiment極差，但NVDA dispute + trader賭反彈 = potential bounce",
-        "META: Muse產品catalyst正面但$1.4T法律風險係重大tail risk",
-        "GME: 收購eBay narrative有meme爆發潛力 — Viper feed"
-      ],
-      "analysis": "伊朗危機急劇升級（美軍打擊+撤銷石油豁免）完全反轉48小時前「油市供應過剩」narrative。晶片股遭Samsung miss + NVDA Kyber延遲雙重打擊但trader開始bet反彈。NATO峰會啟動具體防務項目對抗俄中。El-Erian轉鴿令rate expectations出現shift。最有趣divergence：伊朗危機升溫但黃金跌 — 市場被rate主導多過geopolitical fear。",
-      "risks": [
-        "伊朗局勢進一步升級可能令oil spike並拖累整體股市",
-        "NVDA Kyber延遲若被confirm（非dispute）可能引發更大chip selloff",
-        "META $1.4T法律風險若市場開始priced in可能大幅拖低股價"
-      ],
-      "my_take": "Oil/Defense升、Chips跌、Gold/rates拉鋸。多重催化令risk-on/risk-off界線模糊。最大narrative flip係油市：48小時內由供應過剩轉供應中斷。晶片股恐慌可能過度（NVDA dispute + trader賭反彈）。呢個moment最值錢嘅係識別邊個narrative會主導下一個session。",
-      "key_takeaways": [
-        "伊朗危機係今個session最大催化 — 油市narrative完全反轉",
-        "晶片股雙重打擊但可能過度恐慌 — NVDA dispute SemiAnalysis報告",
-        "El-Erian轉鴿可能係更大macro shift — 黃金跌反映rate主導市場",
-        "NATO防務項目落地＋伊朗打擊＝防務雙重催化",
-        "GME收購eBay narrative有meme爆發潛力"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-08",
       "time": "08:36 HKT",
@@ -2662,6 +2591,73 @@
         "債息走勢影響 growth/tech valuation"
       ],
       "my_take": "Narrative collision day：伊朗危機推高油市（XOM +3.85%），晶片股遭 Samsung+Kyber 雙重打擊（INTC -9.66%）。NVDA 逆市轉正係最強 signal，GLD 跌反映 rate narrative 壓過 geopolitical fear。聽日關鍵：伊朗會否 retaliate？NVDA relative strength 能否持續？"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-08",
+      "time": "20:10 HKT",
+      "status": "success",
+      "market_direction": "伊朗停火崩潰主導全球市場。油價飆6% Dow futures -500。Warsh終止Fed scripting加劇volatility。",
+      "headlines": [
+        "[續報] ACTION: XOM,CVX,XLE — Iran ceasefire collapse, oil +6%, 63M barrels stuck",
+        "[NEW] ACTION: LMT,RTX,NOC — NATO £37bn missile project + Hormuz defense demand",
+        "[NEW] WATCH: MACRO — Warsh to stop Fed scripting, minutes show family fight",
+        "[NEW] WATCH: NVDA,COHR,NOW — Semi selloff contrarian signals emerging",
+        "[NEW] WATCH: GLD,IAU — Gold逆Iran危機下跌，罕見divergence",
+        "[NEW] WATCH: AAPL — Testing CXMT chips for China, supply chain shift"
+      ],
+      "opportunities": [
+        "XOM/CVX/XLE: Iran ceasefire collapse = supply disruption catalyst, oil +6%",
+        "LMT/RTX/NOC: NATO £37bn missile project + Hormuz naval demand double catalyst"
+      ],
+      "analysis": "Iran停火崩潰由risk升級為crisis。最有趣係divergence signals：Oil up 6%但Gold/BTC跌 — risk-off assets失靈。Warsh policy shift + Iran = double volatility trigger。Semi contrarian signals emerging但需要earnings驗證。",
+      "risks": [
+        "Hormuz全面封鎖可能kill global economy (tail risk)",
+        "Warsh終止forward guidance令rate path更難predict",
+        "Q2 earnings expectations可能too lofty — Goldman警告",
+        "South Korea熊市可能拖累亞洲科技sentiment"
+      ],
+      "my_take": "唔係chase oil/defense（已run up），而係identify市場錯誤定價嘅narrative。Gold/BTC weakness可能係機會（如果Iran真的升級）。Semi contrarian calls需要verified。Warsh policy shift係underappreciated catalyst。",
+      "key_takeaways": [
+        "Iran ceasefire崩潰 = 實質供應中斷risk，唔止geopolitical premium",
+        "Warsh終止Fed scripting = structural volatility increase",
+        "Gold/BTC逆Iran下跌 = 罕見divergence，rate narrative主導一切",
+        "NATO £37bn + Hormuz = defense double catalyst",
+        "Semi contrarian signals accumulating but selectivity critical"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-08",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bearish-leaning — Iran crisis + Warsh policy shift double volatility trigger",
+      "headlines": [
+        "Iran停火崩潰：Oil +7.4%, Hormuz 63M barrels stuck",
+        "FOMC Minutes今日釋出：CNBC報導\"family fight\" over rates",
+        "Kevin Warsh終止Fed forward guidance — 市場重新學習定價",
+        "SOXS(3x short semis)全市場most active — semis成重災區",
+        "Gold逆Iran危機下跌$4,080 — safe-haven asset divergence",
+        "NATO £37bn導彈計劃 — defense stocks catalyst",
+        "Dow futures -500+：VIX升至17.53",
+        "Q2 earnings expectations \"too lofty\" — Goldman警告"
+      ],
+      "focus": [
+        "FOMC Minutes — 今日最重要catalyst",
+        "XOM/CVX/XLE — Iran supply disruption",
+        "LMT/RTX/NOC — NATO funding + Hormuz defense",
+        "NVDA/SMH — semis contrarian signals",
+        "GLD — safe-haven divergence"
+      ],
+      "analysis": "🌅 Morning Scan — 7月9日 (星期三)\n\n## Fed Context — 6月 FOMC Minutes 今日釋出＋Warsh 政策轉向\n\n今個星期最大 macro catalyst：**6月 FOMC minutes 今日（7/8 ET）釋出**。CNBC 形容為「family fight over rates」— 市場最關注嘅唔係利率決定本身（pause 係共識），而係內部 disagreement 有幾深。Kevin Warsh 同時宣布計劃終止 Fed forward guidance（唔再預先 scripting 下一步），意味市場要重新學習如何定價利率路徑。\n\n**下次 FOMC：7月28-29日**（有 press conference）。目前市場已經 price in 緊 pause，但如果今日 minutes 顯示更多 hawkish dissent，市場要重新定價。\n\n**影響：** Warsh 政策轉向 + Iran 危機 = 雙重 volatility trigger。Bond market 10Y 維持 4.53%，冇因為危機大幅回落 — 反映市場擔心嘅唔係即時 recession risk，而係 stagflationary shock（oil up + growth concern）。\n\n## 📰 今日重點頭條\n\n1. 🚨 **Iran 停火崩潰：Trump 宣布 ceasefire \"over\"** — 63M barrels stuck at Hormuz, LNG tankers U-turn, India 尋求安全通道。Oil 兩日飆 +7.4% 至 $73.60。呢個係實質供應中斷，唔係 pure sentiment。\n   → Tickers: XOM, CVX, XLE, USO, LMT, RTX, NOC, GD\n\n2. 📋 **Fed minutes 今日釋出：「family fight」over rates** — CNBC 獨家。市場等待內部 dissent 有幾深。Warsh 終止 forward guidance 嘅決定可能喺 minutes 搵到線索。\n   → Tickers: SPY, QQQ, TLT, VIX\n\n3. 🛡️ **NATO £37bn 導彈計劃＋Hormuz 防務需求急升** — Northrup, Lockheed, 其他 defense stocks 全線上升。LMT 雖微跌但係 Iran 升級嘅直接 beneficiary。\n   → Tickers: LMT, RTX, NOC, GD\n\n4. 📉 **Dow futures 跌 500+ 點，VIX 跳升至 17.53** — Barrons：「Stocks at a sensitive point」。SOXS（3x short semis）係 most active — semis 成重災區。\n   → Tickers: SPY, QQQ, SMH, SOXS, NVDA\n\n5. 🥇 **黃金逆 Iran 危機下跌：$4,080，兩日跌 -1.8%** — Chinese profit-taking 觸發 record gold ETF outflows。Risk-off 資產喺地緣危機中失靈，罕見 divergence。\n   → Tickers: GLD, IAU, GC=F\n\n6. ⚡ **NVDA / Semi contrarian signals** — COHR 被稱為 \"massive opportunity\"，NOW \"bear case falling apart\"。但 SambaNova $11B 估值挑戰 NVDA 地位。SMH 兩日跌 -3.8%。\n   → Tickers: NVDA, COHR, NOW, SMH\n\n7. 🚀 **Blue Origin 估值 $130B** — NYT DealBook：首次外部融資，space sector 估值持續膨脹。\n   → Tickers: (private), RKLB 關聯\n\n8. 🇨🇳 **BABA 10個月新高，但南韓進入熊市** — China tech 反彈 vs Asia 全線 risk-off。分化嚴重。\n   → Tickers: BABA, EWY\n\n9. 💰 **Q2 earnings expectations \"too lofty\" — Goldman** — 下星期開始 bank earnings，市場預期過高係 risk。\n   → Tickers: JPM, BAC, GS, WFC, C\n\n10. 🚗 **RIVN 跌 — 75M share offering** — dilution concern，但對整體 market 影響有限。\n    → Tickers: RIVN\n\n## 🌍 隔夜市場\n\n| 指數 | 價格 | 變動 |\n|------|------|------|\n| SPY | $747.71 | -0.48% |\n| QQQ | $709.43 | **-1.85%** |\n| DIA | $528.45 | -0.31% |\n| VIX | 17.53 | +8.7% (2日) |\n| 10Y | 4.53% | steady |\n| Oil (CL) | $73.60 | **+7.4% (2日)** |\n| Gold (GC) | $4,080 | -1.8% (2日) |\n\n- **US 昨日（7/8）收市全面偏弱**，QQQ 跌近 2%，大型科技股領跌。SPY 跌穿 750，但守住 745 day low。\n- **VIX 由 15.57 跳升至 17.53** — 兩日 +12.6%，但仍然未到恐慌區（>20）。市場 nervous 但未 panic。\n- **Oil 係最大 mover** — $68.55 → $73.60，兩日 +7.4%，反映 Hormuz 供應中斷 risk 正在被 price in。\n- **Gold 罕見逆地緣危機下跌** — $4,155 → $4,080。如果呢個 divergence 持續，代表 market 正在 reprice gold 嘅 safe-haven status。\n- **10Y 企穩 4.53%** — bond market 冇因為 Iran 危機而大幅 bid bonds。市場睇嘅係 stagflation risk（oil up = inflation up），而唔係 pure flight to safety。\n\n## 📈 昨日市場爆升／暴跌榜\n\n**📈 Top Gainers：**\n| Symbol | 名稱 | 變動 |\n|--------|------|------|\n| CRNX | Crinetics Pharmaceuticals | +98.74% |\n| CLRO | ClearOne | +97.71% |\n| TVRD | Tvardi Therapeutics | +54.23% |\n| SKIN | Beauty Health | +47.04% |\n| AKTX | Akari Therapeutics | +42.02% |\n\n→ 全部係 small-cap biotech / micro-cap。Single-event driven（FDA approval, trial data），冇 macro theme。CRNX 可能係 FDA approval catalyst。**唔值得 chase。**\n\n**📉 Top Losers：**\n| Symbol | 名稱 | 變動 |\n|--------|------|------|\n| RVNL | 2x Long RIVN ETF | -36.85% |\n| WFF | WF Holding | -31.65% |\n| KIDZ | KIDZ AI | -29.90% |\n\n→ RIVN 嘅 75M share offering 拖垮槓桿 ETF。Small-cap weakness。**冇 macro signal。**\n\n**📊 Most Active（關鍵！）：**\n| Symbol | 名稱 | 變動 |\n|--------|------|------|\n| **SOXS** | **3x Short Semis** | **+15.25%** |\n| CPOP | Pop Culture Group | +10.40% |\n| BITO | Bitcoin ETF | +0.06% |\n| TZA | 3x Short Small Caps | +2.85% |\n\n→ **SOXS 係最大 signal**：3x short semis ETF 係全市場 most active — 呢個代表 **semiconductor sector 正在被 aggressively shorted**。SMH 兩日跌 -3.8%，但 SOXS 升 15.25%（3x leverage），反映資金用槓桿工具大舉做淡。**唔係 pure rotation，係 active bearish positioning。**\n\n## 📡 今日重點事件\n\n- 🔴 **FOMC Minutes（6月會議）** — 今日釋出（ET 下午2點）。「Family fight」over rates。Warsh 終止 forward guidance 嘅線索。\n- 🔴 **Iran crisis escalation** — Hormuz 63M barrels stuck。India 尋求安全通道。任何軍事升級都會再推 oil。\n- 🟡 **Fed Warsh policy shift** — 終止 forward guidance 嘅 implementation 細節值得關注。\n- 🟢 **Earnings season 倒數** — PEP 星期四（7/9）、DAL 星期五（7/10）、下星期二 bank earnings 正式開鑼。\n\n## 🔥 Sector Watch\n\n| Sector (NASDAQ) | 變動 | Signal |\n|-----------------|------|--------|\n| 🏢 Real Estate | +2.60% | 意外強勁 — rotation 定係 yield play？|\n| 🛢️ Energy | +0.35% | 油價飆但 sector 溫和 — 已 price in 好多 |\n| 📡 Comm Services | +0.14% | flat |\n| 💻 Technology | +0.07% | flat，但 semis 內部大屠殺 |\n| 🏥 Healthcare | -0.56% | mild weakness |\n| 🏦 Financials | -0.65% | pre-earnings jitters |\n| ⚡ Utilities | -0.84% | rate sensitive |\n| 🏭 Industrials | **-3.41%** | **最差 sector — Iran 衝擊供應鏈 fear** |\n| 🛒 Consumer Def | -1.88% | defensive 失靈 |\n| 🚗 Consumer Cyc | -1.66% | recession fear creeping in |\n\n**Key takeaway：** Industrials -3.41% 係最大 red flag。如果 Iran crisis 衝擊 global supply chain（Hormuz = 20% global oil transit），industrial stocks 首當其衝。Energy 只係 +0.35%，反映 market 認為 oil move 可能係 spike 而唔係 sustained — 但 XLE 同 USO 嘅 price action 顯示呢個 move 仲有 room to run（USO 仲喺 $108，未到 panic level）。\n\n## 🎯 Pre-market Opportunities\n\n### Action Items（來自 News Curator）：\n\n**🛢️ XOM, CVX, XLE, USO — Iran 停火崩潰：油價 supply disruption**\n- **My take：ACTION 維持。** Oil 兩日 +7.4%，但 energy sector 只係 +0.35%。呢個 divergence 代表 market 仲未 fully price in Hormuz 風險。如果今日再有軍事升級，XLE 仲有 upside。\n- **Catalyst：** 今日任何 Iran/Hormuz headline。India 安全通道 negotiation 結果。\n- **Risk：** 停火重啟（低概率）會導致 oil 急回。Warsh policy shift 可能推高美元，壓 commodity。\n- **部署：** 唔好 chase opening gap — oil 已 run up。等 pullback to $72 先考慮。\n\n**🛡️ LMT, RTX, NOC, GD — NATO £37bn 導彈計劃＋Hormuz**\n- **My take：ACTION 維持，但調整 priority。** NATO funding 係具體 catalyst（唔係 sentiment），但 defense stocks 嘅 price action 顯示市場反應溫和（LMT 昨日仲微跌）。可能係因為 defense 之前已經 run up。\n- **Catalyst：** NATO 計劃進一步細節。Hormuz naval deployment。\n- **Risk：** Defense 已經唔平，multiple expansion 空間有限。\n- **部署：** LMT $535 水平值得關注。如果跌穿 $530 就 wait。\n\n### Watch Items：\n\n**⚠️ MACRO — Warsh 終止 forward guidance + Fed minutes**\n- **My take：WATCH 升級至 HIGH。** 今日 minutes 係 catalyst。如果 minutes 顯示 deep dissent（3+ dissents），市場要 reprice rate path — bonds sell off，stocks volatile。\n- **Signal to watch：** 10Y yield 會唔會 break above 4.60%？如果會，tech/growth stocks 有更大 downside。\n\n**⚠️ NVDA, COHR, NOW — Semi contrarian signals**\n- **My take：WATCH。** SOXS 係 most active = semis 被 aggressive shorting。NVDA 嘅 challenger narrative（SambaNova $11B）累積中。但 contrarian calls on COHR/NOW 值得留意。\n- **Catalyst：** Fed minutes 直接影響 growth/tech valuation。TSM earnings 7/16。\n- **部署：** 呢個時候唔適宜撈底 semis。等 TSM earnings 確認 AI demand 先考慮。\n\n**⚠️ GLD, IAU — 黃金逆危機下跌**\n- **My take：WATCH — 結構性 shift。** 黃金喺 Iran 危機 + equity selloff 嘅情況下竟然跌 1.8%。如果呢個 trend 持續，代表 gold 嘅 safe-haven premium 正在被 reprice。可能原因：Chinese profit-taking + crypto stealing safe-haven flows。\n- **Catalyst：** 今日如果 equity 再跌但 gold 繼續跌 → confirmed divergence。如果 gold 反彈 → 只係 temporary anomaly。\n- **部署：** 唔好撈 gold 住。等確認 direction。\n\n## 📅 未來一個月業績重點\n\n**呢個星期（Jul 9-13）：**\n- **Thu Jul 9 | PEP | $196B** — consumer defensive bellwether。指引比 EPS 更重要。\n- **Fri Jul 10 | DAL | $60B** — airline sector。Iran crisis 直接影響 fuel cost。\n\n**下星期（Jul 14-18）— Bank Earnings 開鑼：**\n- **Tue Jul 14 | JPM $909B, BAC $425B, GS $308B, WFC $267B, C $240B 🎯** — 呢個係 Q2 earnings season 正式開場。Bank earnings 反映 consumer health + credit quality + investment banking recovery。\n- **Wed Jul 15 | ASML $673B, JNJ $643B, MS $350B** — ASML 係 semi equipment bellwether。ASML 嘅 guidance 會直接影響成個 semi sector 嘅 Q3 outlook。\n- **Thu Jul 16 | TSM $2,244B, NFLX $321B, UNH $389B** — TSM 係成個 AI trade 最重要嘅 earnings 之一。NFLX 反映 consumer discretionary spending。\n\n**再下星期（Jul 21-25）— Mega-cap Tech：**\n- **Tue Jul 21 | SCHW $177B, DHR $137B**\n- **Wed Jul 22 | GOOGL $4,447B 🎯, TSLA $1,513B, GEV $310B, IBM $282B, NEE $182B 🎯** — GOOGL + TSLA 同日！呢個係成個 Q2 season 最重要嘅一日。GOOGL 嘅 AI monetization progress、TSLA 嘅 delivery + margin。\n\n**重點：** Q2 earnings expectations \"too lofty\"（Goldman）。意味住即使 beat，guidance 唔夠強都會被罰。Risk-off backdrop 令到 earnings season 更 volatile。\n\n## 📋 Today's Agenda\n\n- **🔴 首要：Fed minutes（ET 2pm / HKT 2am）** — dissent level + Warsh 政策方向嘅線索\n- **🔴 Iran headline risk** — 任何 military escalation 或 diplomatic breakthrough\n- **🟡 Pre-market futures** — Dow futures 已跌 500+。開市前會唔會 stabilize？\n- **🟡 SPY key levels** — support $745（昨日 day low），resistance $752（previous close area）\n- **🟢 PEP earnings preview** — 聽日業績，consumer staples 嘅 pricing power 同 volume trend\n\n## 💡 My Take\n\n**方向：Bearish-leaning，但唔係 panic。**\n\n今日係「雙重風暴眼」— Iran crisis（supply shock）+ Warsh policy shift（uncertainty shock）。但有趣嘅係，market 反應有序而唔係 panic：VIX 17.53 仍然低、bond market 冇大幅 bid、gold 竟然跌。\n\n三個關鍵 divergence 值得留意：\n1. **Oil +7.4% 但 energy sector 只係 +0.35%** → market 認為 oil spike 短暫，但呢個 assumption 可能錯。\n2. **Gold 跌 during geopolitical crisis** → safe-haven 地位被 reprice？定係 crypto/BTC 取代？\n3. **Semis 被 aggressive shorting（SOXS most active）但個別 contrarian calls** → AI trade 未死，但 market 喺 TSM/ASML earnings 之前 de-risk。\n\n**今日最緊要睇實：Fed minutes。** 如果 minutes 顯示 3+ hawkish dissents，combined with Warsh ending forward guidance，market 要面對一個新現實：Fed put 不再 guarantee。呢個比 Iran crisis 更 fundamental。\n\n**Earnings season 前嘅 positioning：** 唔好 chase oil/defense（已 run up），唔好撈 semis（要等 TSM/ASML），等 bank earnings 確認 macro health。Cash is a position。",
+      "risks": [
+        "Iran military escalation → oil spike + equity selloff",
+        "Fed minutes hawkish dissent >3 → repricing of rate path",
+        "Warsh ending forward guidance → sustained volatility regime",
+        "Semis further downside into TSM/ASML earnings",
+        "Gold structural safe-haven repricing"
+      ],
+      "my_take": "Bearish-leaning。Iran crisis + Warsh policy shift 雙重風暴眼。三個 divergence 值得關注：oil vs energy sector、gold 逆危機下跌、semis aggressive shorting 但 contrarian calls。今日關鍵係 Fed minutes — 如果 dissent deep，market 要重新定價冇 Fed put 嘅世界。Earnings season 前保持 defensive，等 catalyst。"
     }
   ],
   "news_curator": [
