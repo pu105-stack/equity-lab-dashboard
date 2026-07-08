@@ -2595,6 +2595,73 @@
         "EV demand weakness confirmed by LG Energy"
       ],
       "my_take": "Neutral with defensive lean. Semi selloff（SMH -11.58% 5d）+ QQQ/SPY ratio 急跌3.63% 確認 institutional rotation out of tech into financials/defensive。Samsung 1,800% profit surge 未能提振 semi — market 已 price in AI memory boom，開始擔心 peak。銀行股 earnings（Jul 14 JPM/BAC/C）係今季最重要 catalyst。Warsh 改革前瞻指引 = higher macro vol regime incoming。今日 quiet day，重點觀察 semi stabilization signal 同 XLF 能否持續 outperform。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-08",
+      "time": "08:15 HKT",
+      "status": "success",
+      "market_direction": "伊朗危機升級：美軍打擊＋撤銷石油豁免→原油供應中斷風險。晶片股遭雙重打擊。NATO防務項目落地。El-Erian轉鴿。多重催化拉鋸",
+      "headlines": [
+        "[NEW] ACTION: XOM,CVX,XLE,USO — 美國軍事打擊伊朗＋撤銷石油豁免，原油供應中斷風險急升",
+        "[NEW] ACTION: NVDA,SMH,SOXX — NVDA Kyber延遲至2028＋Samsung業績miss雙重打擊",
+        "[NEW] ACTION: META — Muse AI圖像模型面世 vs $1.4T法律風險",
+        "[NEW] WATCH: LMT,RTX,NOC,GD — NATO峰會啟動具體防務項目＋伊朗打擊",
+        "[NEW] WATCH: GME — 股東批准新股發行＋計劃收購eBay",
+        "[NEW] WATCH: MACRO — El-Erian轉鴿＋債市重定價加息預期",
+        "[NEW] NOTE: AMZN — $25B債券發行",
+        "[NEW] NOTE: NET — Deutsche Bank升級Cloudflare",
+        "[NEW] NOTE: JPM — Q2業績預覽"
+      ],
+      "opportunities": [
+        "XOM/CVX: 伊朗危機係real catalyst，油市由供應過剩全面反轉為供應中斷風險",
+        "NVDA/SMH: 雙重打擊令短期sentiment極差，但NVDA dispute + trader賭反彈 = potential bounce",
+        "META: Muse產品catalyst正面但$1.4T法律風險係重大tail risk",
+        "GME: 收購eBay narrative有meme爆發潛力 — Viper feed"
+      ],
+      "analysis": "伊朗危機急劇升級（美軍打擊+撤銷石油豁免）完全反轉48小時前「油市供應過剩」narrative。晶片股遭Samsung miss + NVDA Kyber延遲雙重打擊但trader開始bet反彈。NATO峰會啟動具體防務項目對抗俄中。El-Erian轉鴿令rate expectations出現shift。最有趣divergence：伊朗危機升溫但黃金跌 — 市場被rate主導多過geopolitical fear。",
+      "risks": [
+        "伊朗局勢進一步升級可能令oil spike並拖累整體股市",
+        "NVDA Kyber延遲若被confirm（非dispute）可能引發更大chip selloff",
+        "META $1.4T法律風險若市場開始priced in可能大幅拖低股價"
+      ],
+      "my_take": "Oil/Defense升、Chips跌、Gold/rates拉鋸。多重催化令risk-on/risk-off界線模糊。最大narrative flip係油市：48小時內由供應過剩轉供應中斷。晶片股恐慌可能過度（NVDA dispute + trader賭反彈）。呢個moment最值錢嘅係識別邊個narrative會主導下一個session。",
+      "key_takeaways": [
+        "伊朗危機係今個session最大催化 — 油市narrative完全反轉",
+        "晶片股雙重打擊但可能過度恐慌 — NVDA dispute SemiAnalysis報告",
+        "El-Erian轉鴿可能係更大macro shift — 黃金跌反映rate主導市場",
+        "NATO防務項目落地＋伊朗打擊＝防務雙重催化",
+        "GME收購eBay narrative有meme爆發潛力"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-08",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "Risk-on/off 分裂 — Energy/Defense bid vs Tech selloff. Defensive rotation 明顯但非 panic.",
+      "headlines": [
+        "伊朗危機升級：美軍打擊＋撤銷石油豁免，油價急升",
+        "晶片屠殺：INTC -9.66%, AMD -6.51%, MU -4.71% — Samsung miss + NVDA Kyber 延遲",
+        "NVDA 逆市 +0.71%：dispute SemiAnalysis，trader 賭反彈",
+        "NET +8.60%：DB 升級 AI edge",
+        "El-Erian 轉鴿：黃金跌 1.21%，rate narrative 主導",
+        "防務股 flat：NATO+伊朗催化已 priced in"
+      ],
+      "opportunities": [
+        "XOM/CVX/XLE/USO: 伊朗局勢 fluid，developing macro theme",
+        "NVDA: 逆市轉正，semis 中 relative strength leader",
+        "NET: +8.6% on DB upgrade，AI edge narrative 值得深挖",
+        "INTC: -9.66% capitulation 級別，可能 technical bounce"
+      ],
+      "analysis": "## 📰 今日重點頭條\n\n**伊朗危機全面升級（NC捕捉 ✅）**\n美軍對伊朗發動新一輪打擊，同時撤銷伊朗石油豁免權，回應霍爾木茲海峽油輪遇襲事件。FT/Bloomberg/CNBC 多個 sources 確認。油價即時跳升，XOM 預估 profit surge $3.7B。48 小時前 NC 仲寫緊「油市第四週下跌、地緣風險溢價已消退」，now complete narrative flip。呢個係今日最重要嘅 macro catalyst。\n\n**晶片股雙重打擊（NC捕捉 ✅）**\nSamsung 業績 miss AI 高期望 → 股價 -7%。SemiAnalysis 報告 NVDA Kyber NVL144 延遲至 2028（因 PCB 問題）。兩者疊加引發半導體板塊全面拋售。但 NVDA 公開 dispute SemiAnalysis 報告，股價最終轉正 +0.71%。\n\n**META Muse 圖像模型面世 vs $1.4T 法律風險（NC捕捉 ✅）**\nMeta 推出 Muse AI 圖像模型（Zuckerberg AI 改革後首個產品），廣泛報導但隱私爭議大。同日 FT 報導 $1.4T 法律戰升級。META +2.55% — 市場暂时傾向 product catalyst。\n\n**NATO 峰會啟動具體防務項目（NC捕捉 ✅）**\nAnkara NATO summit（Jul 7-8）正式啟動針對俄羅斯同中國嘅防務項目。Trump 施壓盟友增加開支。但防務股 LMT/RTX/NOC/GD 普遍 flat — 市場已消化？\n\n**El-Erian 轉鴿（NC捕捉 ✅）**\n重量級 macro voice El-Erian 稱「最差嘅通脹已過去，Fed 應該 wait-and-see」。債市開始 hedge less hawkish Fed。黃金逆勢跌 1.21% → 利率 narrative 壓過避險需求。\n\n**其他 raw headline：**\n- NET +8.60% — Deutsche Bank 升級，AI edge narrative\n- INTC -9.66% — Samsung miss 拖累 + 自身 execution issues\n- TSLA -4.02% — 晶片 contagion + macro pressure\n- AMZN 發行 $25B 債券 — 用途未明\n- GME -2.46% — 股東批准新股發行＋eBay 收購計劃，但市場未有即時反應\n\n---\n\n## 1. 📊 Market Recap — 2026-07-07（星期一）\n\n### 主要指數\n| 指數 | 收市 | 變動 | 評註 |\n|------|------|------|------|\n| SPY | 747.71 | -0.48% | 溫和下跌，defensive rotation 明顯 |\n| QQQ | 709.43 | **-1.85%** | Tech heavy，晶片股屠殺主導 |\n| DIA | 528.45 | -0.31% | 相對平穩，old economy 避開 semis 風波 |\n| IWM | 296.19 | -0.91% | Small caps 跟跌 |\n| VIX | 16.13 | **+3.60%** | 升但未恐慌，仍低於 20 |\n\n### Sector Flow — 清晰 defensive rotation\n**🟢 贏家：**\n- XLE +2.84%（伊朗 catalyst，油價急升）\n- XLV +1.53%（defensive + healthcare）\n- XLRE +1.35%（rate 敏感，El-Erian 鴿派訊號利好）\n- XLU/XLP ~+0.9%（經典 risk-off 避風港）\n\n**🔴 輸家：**\n- SMH **-3.78%**（半導體屠殺，Samsung + NVDA Kyber 雙重打擊）\n- XLK -2.39%（科技全面被沽）\n- XLI -1.71%（工業跟跌）\n\n**關鍵訊號：** Risk-on/risk-off 分裂 — energy/defense 嘅 geopolitical bid 同 tech 嘅 fundamental fear 並存。唔係典型 macro risk-off（否則黃金會升），而係 sector-specific rotation。\n\n---\n\n## 2. 🔥 Notable Movers — 今日最大波動\n\n### 🚀 上升（有 catalyst）\n| Ticker | Change | Catalyst |\n|--------|--------|----------|\n| NET | **+8.60%** | Deutsche Bank 升級，AI edge potential |\n| XOM | **+3.85%** | 伊朗打擊 → 油價跳升，profit surge 預估 |\n| CVX | **+3.52%** | 同上，energy sector bid |\n| META | **+2.55%** | Muse AI 模型推出（雖有隱私爭議） |\n| USO | **+4.38%** | 原油 ETF，直接受惠伊朗供應中斷風險 |\n\n### 📉 下跌（有 catalyst）\n| Ticker | Change | Catalyst |\n|--------|--------|----------|\n| INTC | **-9.66%** | Samsung miss 拖累 + 自身 execution concern，成交 1.39 億股 |\n| AMD | **-6.51%** | 晶片 contagion，全線被沽 |\n| MU | **-4.71%** | 記憶體相關，Samsung 業績直接打擊（分析師仍睇 $1,750 base） |\n| TSLA | **-4.02%** | 晶片 supply chain fear + macro pressure |\n| SMH | **-3.78%** | 半導體 ETF，broad-based sell |\n\n### 🔍 Divergence 值得留意\n- **NVDA +0.71%** — 全個 semis sector 跌但 NVDA 逆市轉正。SemiAnalysis Kyber 延遲報告被 NVDA dispute，trader 趁低吸納。呢個係今日最 interesting 嘅 single-stock signal：市場暫時相信 NVDA 多過 SemiAnalysis。\n- **GLD -1.21%** — 伊朗危機升溫但黃金跌。El-Erian 鴿派言論推升債息，rate 主導 gold price 多過 geopolitical fear。罕見 divergence。\n\n---\n\n## 3. 📰 News That Mattered — 今日 catalyst review\n\n### NC calls 命中率評估\n\n| NC Call | 方向 | 結果 | 評分 |\n|---------|------|------|------|\n| 🎯 XOM/CVX/XLE/USO — 伊朗石油 catalyst | Bullish | ✅ XOM +3.85%, CVX +3.52%, USO +4.38% | 🎯 Hit |\n| 🎯 NVDA/SMH — Kyber 延遲+ Samsung miss | Bearish/WATCH | ✅ SMH -3.78%, MU -4.71%, 但 NVDA 逆轉 +0.71% | 🎯 Partially correct |\n| 🎯 META — Muse vs $1.4T legal | Two-sided | ✅ META +2.55%, 市場暫時 favor product | 🎯 Correct lean |\n| ⚠️ LMT/RTX — NATO + 伊朗防務 | Bullish | ❌ 防務股 flat（LMT -0.49%, RTX -0.26%, NOC +0.24%） | ❌ 已 priced in |\n| ⚠️ GME — 股東批准新股+eBay | Meme potential | ❌ GME -2.46%, 無 meme 爆發 | ❌ 未有反應 |\n| ⚠️ MACRO — El-Erian 轉鴿 | Dovish signal | ✅ 債市反應，GLD 跌印證 rate narrative | 🎯 Hit |\n| 📌 NET — DB 升級 | Bullish note | ✅ NET +8.60%, 遠超 NC 嘅 \"唔係核心持倉\" 評估 | 🎯 Underestimated |\n\n**Overall NC accuracy: 5/7 correct direction，1 underestimated（NET），1 miss（防務已 priced in）**\n\n### 今日 NC 冇 cover 到嘅 major moves\n- **INTC -9.66%** — 最大單日跌幅。Samsung miss 嘅 collateral damage 加上 Intel 自身 execution issues。呢個值得跟進 — Intel 係咪有其他負面消息？\n- **TSLA -4.02%** — 晶片 supply chain fear 蔓延到 EV。未見 TSLA-specific catalyst。\n- **AMD -6.51%** — 同 INTC 一樣係 collateral damage，但 AMD 跌幅接近 INTC 但冇 INTC 嘅 execution baggage。\n\n---\n\n## 4. 🎯 Opportunities Carry Forward — 明天值得跟進\n\n### 🎯 Energy/Oil（XOM, CVX, XLE, USO）\n伊朗局勢仍然 fluid — 美軍打擊係一次性定係升級？石油豁免撤銷嘅影響未完全定價。如果今晚有 further escalation（伊朗報復、海峽封鎖），energy sector 會再推高一浸。**呢個唔係 one-day trade，係 developing macro theme。**\n\n### 🎯 NVDA 反彈 trade\nNVDA 今日逆市轉正係 strong signal。如果聽朝 premarket 確認 institutional buying，NVDA 可能成為 semis sector 嘅相對強勢股。但要小心：Kyber 延遲 narrative 未完全消化 — NVDA dispute 唔等於解決咗問題。\n\n### 📡 NET — 值得追蹤\nNET +8.6% 係今日最強 single-stock performer。Deutsche Bank 嘅 AI edge thesis 值得深挖。如果呢個升級有進一步 analyst coverage，可能持續跑贏。\n\n### 📡 INTC — 係咪見底？\n-9.66% 嘅跌幅通常伴隨 capitulation。1.39 億股成交量係 massive。如果聽朝冇 further bad news，可能出現 technical bounce。但要小心 catching a falling knife — Intel 嘅 fundamental issues 唔係一日解決到。\n\n---\n\n## 5. ⚠️ Risks / Watchlist — 今晚要睇實\n\n### 🌍 Geopolitical Risk\n- **伊朗回應** — 美軍打擊後伊朗會點回應？Hormuz 海峽會唔會有事？任何 escalation 會直接衝擊 oil & shipping\n- **NATO 峰會 Day 2（Jul 8 Ankara）** — 更多具體防務項目公佈可能\n\n### 📊 Overnight Earnings / Events\n- **Asia markets reaction** — 香港/東京開市對 semis selloff 嘅反應\n- **Oil futures overnight** — 亞洲時段油價走勢反映市場點消化伊朗新聞\n\n### 💡 Macro\n- **債息走勢** — El-Erian 鴿派言論後債市點走？如果 10Y 跌穿關鍵位，growth stocks 可能反彈\n- **下次 FOMC Jul 28-29** — 仲有 3 星期，市場有足夠時間重新定價 rate expectations\n\n---\n\n## 6. 💡 My Take\n\n**今日個市係一個 classic「narrative collision」day。**\n\n一邊係伊朗危機令油市由 supply glut 定價急轉為 supply disruption 定價，energy/defense bid 好強。另一邊係 Samsung + NVDA Kyber 雙重打擊令晶片股全面被沽，INTC -9.66% 係恐慌級別。中間仲有 El-Erian 轉鴿令 rate narrative 軟化。\n\n但最講到今日市場心理嘅，係兩個 divergence：\n\n1. **NVDA +0.71% vs SMH -3.78%** — 市場選擇性相信 NVDA 嘅 dispute 多過 SemiAnalysis。呢個唔係 rational，係 positioning-driven。Trader 賭 NVDA 反彈嘅意欲好強。\n2. **GLD -1.21% vs USO +4.38%** — 伊朗危機應該同時利好黃金同石油，但黃金逆市跌。市場被 rate narrative 主導，geopolitical fear 未擴散到 broad risk-off。\n\n**聽日要睇：** 伊朗會唔會 retaliate？晶片股有冇 follow-through selling？NVDA 可唔可以延續今日嘅 relative strength？\n\n**Directional bias：** Neutral with bullish lean on energy/defense，bearish on semis ex-NVDA。但如果伊朗局勢冷卻 + 債息回落，可能觸發 broad relief rally — 尤其是被 oversold 嘅 semis。\n\nBottom line：呢個 moment 最值錢嘅係識別邊個 narrative 會 dominate 下一個 session — geopolitical fear 定 rate relief。目前兩邊都未有 definitive edge。",
+      "risks": [
+        "伊朗 retaliation risk — Hormuz 海峽",
+        "Semis follow-through selling — INTC/AMD 是否見底",
+        "NATO 峰會 Day 2 新公佈",
+        "債息走勢影響 growth/tech valuation"
+      ],
+      "my_take": "Narrative collision day：伊朗危機推高油市（XOM +3.85%），晶片股遭 Samsung+Kyber 雙重打擊（INTC -9.66%）。NVDA 逆市轉正係最強 signal，GLD 跌反映 rate narrative 壓過 geopolitical fear。聽日關鍵：伊朗會否 retaliate？NVDA relative strength 能否持續？"
     }
   ],
   "news_curator": [
