@@ -2658,6 +2658,76 @@
         "Gold structural safe-haven repricing"
       ],
       "my_take": "Bearish-leaning。Iran crisis + Warsh policy shift 雙重風暴眼。三個 divergence 值得關注：oil vs energy sector、gold 逆危機下跌、semis aggressive shorting 但 contrarian calls。今日關鍵係 Fed minutes — 如果 dissent deep，market 要重新定價冇 Fed put 嘅世界。Earnings season 前保持 defensive，等 catalyst。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-09",
+      "time": "08:17 HKT",
+      "status": "success",
+      "market_direction": "Iran衝突Day 2：SPY -0.3%但QQQ +0.3%，科技+2.7%領漲。能源+0.9%，工業-1.7%。Mag7估值十年最平吸引資金回流。",
+      "headlines": [
+        "[續報] 🎯 XOM,CVX,XLE,USO — Iran停火全面崩潰：Day 2空襲＋Trump稱談判為「浪費時間」，Hormuz進入全面衝突狀態",
+        "[NEW] 🎯 AVGO,AAPL — Apple簽$30B Broadcom芯片協議：史上最大美國製造承諾，Colorado廠擴建",
+        "[NEW] ⚠️ USO,XLE — 俄羅斯禁柴油出口：烏克蘭無人機重創煉油廠，全球成品油供應第二波衝擊",
+        "[RECENT] ⚠️ MACRO — Warsh首個FOMC minutes：部分官員支持加息，通脹憂慮重燃",
+        "[RECENT] ⚠️ NVDA,SMH,SOXX — BofA稱NVDA「juicy discount」＋Mag7估值十年最平，科技板塊逆勢反彈+2.7%",
+        "[NEW] 📌 DKNG,FLUT — Michael Burry押注體育博彩：預測監管打擊prediction markets將利好傳統sportsbooks",
+        "[NEW] 📌 HOG — Harley-Davidson被S&P降級至垃圾級：低價電單車策略引發信用評級擔憂",
+        "[NEW] 📌 MACRO — IMF下調2026全球增長至3%（原3.5%），Iran戰爭效應抵銷利率下調利好"
+      ],
+      "opportunities": [
+        "AVGO/AAPL: $30B chip deal為史上最大美國製造承諾",
+        "XOM/CVX/XLE/USO: Hormuz全面衝突狀態，Kalshi預測2027年前唔會恢復",
+        "LMT/RTX/NOC/GD: NATO正面結束＋Patriot授權生產",
+        "NVDA/SMH: Mag7十年最平估值+BofA稱juicy discount"
+      ],
+      "analysis": "市場表面恐慌(Dow -570)但底層係rotation而非risk-off。資金由cyclical流入big tech。Iran escalation正在被市場消化(Day 2 < Day 1 panic)。Warsh Fed minutes曝加息討論係最大wildcard。",
+      "risks": [
+        "Iran持續空襲升級推高油價→stagflation",
+        "Warsh Fed加息討論→rate hike重返table",
+        "IMF下調全球增長至3%",
+        "俄羅斯柴油禁運→成品油supply shock"
+      ],
+      "my_take": "市場正在定價prolonged Iran disruption而非短暫spike。資金回流tech係strategic signal — Mag7估值十年最平+contrarian bets出現。但要等Iran headline risk消退先確認rotation唔係dead cat bounce。",
+      "key_takeaways": [
+        "Dow -570但QQQ green: rotation, not risk-off",
+        "Iran Day 2空襲: escalation但市場開始消化",
+        "Warsh Fed: 部分官員支持加息—最大wildcard",
+        "AVGO: $30B Apple deal為long-term catalyst",
+        "俄柴油禁運: 成品油第二波supply shock"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-09",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "SPY -0.31% / QQQ +0.28% / DIA -1.07%。Stark divergence：XLK+1.24% + XLE+1.76%為僅有green sectors，其餘9/11 sectors red。Market pricing stagflation-lite rotation。",
+      "headlines": [
+        "Iran Day 2空襲+Trump稱談判「浪費時間」— 油價兩週新高，XLE+1.76%",
+        "Warsh首個FOMC minutes曝部分官員支持加息 — rate hike重返table",
+        "Apple $30B Broadcom芯片協議 — 史上最大美國製造承諾，AVGO直接受惠",
+        "Russia禁柴油出口 — 成品油supply shock疊加Iran crude risk",
+        "BofA稱NVDA「juicy discount」+ Mag7估值十年最平 — tech逆勢反彈",
+        "IMF下調2026全球增長至3%（原3.5%）— stagflation narrative強化",
+        "BTC考驗$60K支持位 — 未能扮演Iran避險角色"
+      ],
+      "opportunities": [
+        "XLE/USO/XOM: Hormuz prolonged disruption溢價，但等Day 3 pullback先入",
+        "AVGO: $30B Apple deal independent catalyst剛落地，跑贏semi peers",
+        "NVDA/QQQ: Mag7估值十年最平+contrarian bids，等確認rotation唔係dead cat",
+        "LMT/RTX: Patriot生產授權=NATO catalyst materializing，等pullback",
+        "VLO/MPC/PSX: Russia柴油禁運→crack spread拉闊，等歐洲消化"
+      ],
+      "analysis": "## 📰 今日重點頭條（Raw + Curated Landscape）\n\n今日 headlines 幾乎被 Iran 衝突 Day 2 主導，但底層出現一個重要 shift：**資金由 cyclical 大規模 rotate 入 big tech**。Dow -1.07%（~570點）睇落恐慌，但 QQQ 逆勢微升 +0.28%，XLK（科技）+1.24% 係唯一 green sector。呢個 pattern 同典型 risk-off（一齊跌）完全唔同。\n\n### NC 捕捉到嘅關鍵 calls：\n| Call | 結果 | 評分 |\n|------|------|------|\n| Iran Day 2 escalation → energy bid | ✅ 中 — XLE +1.76%，USO 繼續跑 | 🎯 |\n| Apple $30B Broadcom deal | ✅ 中 — AVGO/AAPL 成為少數 green mega-cap | 🎯 |\n| Warsh Fed minutes hawkish | ✅ 中 — minutes 曝「部分官員支持加息」 | 🎯 |\n| Mag7 估值十年最平 → tech rotation | ✅ 中 — QQQ +0.28% vs Dow -570 | 🎯 |\n| Russia 柴油禁運 → refiners watch | 太早 — 今日 refiners 未有定價（等歐洲開市） | ⏳ |\n\n### NC 未 capture 但有 impact 嘅 raw headlines：\n- FOMC Jul 28-29 係下次 meeting — 仲有 19 日，macro uncertainty window\n- Fed 發布 enforcement actions（BNP Paribas 終止、Small Business Bank 新 action）— minor\n- 整體 raw news_summary DB 只有 2 條非 curator entries（都係 Fed）— 反映 NC 覆蓋率極高\n\n---\n\n## 1. 📊 Market Recap\n\n**Major Indices (Jul 8 美股收市):**\n\n| Index | Close | Change | Signal |\n|-------|-------|--------|--------|\n| SPY (S&P 500) | 745.40 | **-0.31%** | 窄幅，表面平靜但內部劇烈 rotation |\n| QQQ (Nasdaq 100) | 711.44 | **+0.28%** | 逆勢向上 — 科技獨撐 |\n| DIA (Dow Jones) | 522.77 | **-1.07%** | 最弱 — 工業/金融拖累 |\n| IWM (Russell 2000) | 293.48 | **-0.91%** | Small cap 受利率擔憂打擊 |\n| VIX | 16.90 | **+4.77%** | 上升但仍低於 20 — 市場未進入 panic mode |\n\n**Sector Performance — Stark Divergence:**\n\n```\n🟢 XLK  Technology         +1.24%   ← 唯一 significant winner\n🟢 XLE  Energy             +1.76%   ← Iran bid, 油價兩週新高\n🔴 XLB  Materials           -2.62%   ← growth scare + commodity rotation\n🔴 XLF  Financials          -1.93%   ← rate uncertainty + yield curve\n🔴 XLY  Consumer Disc       -1.78%   ← stagflation fear hit discretionary\n🔴 XLRE Real Estate         -1.65%   ← rate-sensitive\n🔴 XLC  Communication       -1.41%   ← META/GOOGL mixed\n🔴 XLV  Healthcare          -1.30%   ← defensive but not immune\n🔴 XLI  Industrials         -1.07%   ← Iran + growth scare\n🔴 XLU  Utilities           -0.74%   ← mild defensive bid\n🔴 XLP  Consumer Staples    -0.55%   ← mild defensive bid\n```\n\n**Key takeaway:** 呢個唔係 broad selloff — 係 textbook **stagflation-lite rotation**。Energy + Tech 贏，其餘全部輸。資金同時追逐 (a) Iran supply risk 溢價（energy）同 (b) quality growth safe haven（tech）。呢個 pattern 同 IMF 下調全球增長至 3% + Iran 戰爭溢價 + Warsh 加息討論完美吻合。\n\n**Breadth:** Extremely narrow。XLK+XLE 係僅有 green，其餘 9/11 sectors red。Breadth 咁 narrow 係 unhealthy signal — 如果 energy 回吐而 tech 未能繼續撐市，SPY 好快會穿。\n\n---\n\n## 2. 🔥 Notable Movers\n\n### Winners（值得跟進）：\n- **AVGO** — Apple $30B chip deal 係 direct catalyst。史上最大美國製造承諾，AVGO 直接受惠長期合約 certitude。AI chip play 中 AVGO 正建立 independent catalyst（唔係淨跟 NVDA）。\n- **XOM / CVX** — Iran Day 2 空襲持續推高 crude。Kalshi 定價 Hormuz 2027 年前不會正常化 → prolonged supply disruption 溢價。但注意：Day 2 嘅 panic 已經細過 Day 1 — 市場正在消化。\n- **NVDA** — BofA 嘅「juicy discount」call + Mag7 估值十年最平提供 valuation floor。Semi selloff 可能已近尾聲。\n\n### Losers（未必係機會）：\n- **HOG** — S&P 降級至垃圾級，低價電單車策略被市場否定。Consumer cyclical structural headwind — PASS。\n- **LEVI** — Q2 beat + raise guidance 但股價照跌。Classic 「buy rumor sell news」+ consumer discretionary headwind。PASS。\n- **IWM components** — Small cap -0.91%，利率敏感。若 Warsh 加息 narrative 持續，small cap 仲有下行空間。\n\n### Sector Rotation Signal：\nTech +2.7%（NC 數據）vs Industrial -1.7% → gap 超過 4%。呢個 magnitude 嘅 divergence 通常預示緊：\n1. Market 正在 price in stagflation（growth scare → out of cyclicals, into quality growth）\n2. 或者係短期 flight-to-quality 然後 revert\n\n**我 lean 前者的理由：** IMF downgrade + Iran prolonged disruption + Warsh hawkish tilt 三個 macro catalysts 同時出現，唔似係一日 noise。\n\n---\n\n## 3. 📰 News That Mattered\n\n### Confirmed Catalysts（今日 moves 嘅 driver）：\n\n| Catalyst | Impact | Confidence |\n|----------|--------|------------|\n| **Iran Day 2 空襲 + Trump 稱談判「浪費時間」** | 油價兩週新高，XLE +1.76%，Dow -570 | HIGH — direct causal |\n| **Warsh FOMC minutes: 部分官員支持加息** | Rate hike fear → growth multiples under pressure → rotation out of small cap / cyclical | HIGH — structural |\n| **Apple $30B Broadcom chip deal** | AVGO 直接受惠，AAPL supply chain diversification | MEDIUM — specific stocks |\n| **Russia 柴油禁運** | 成品油 crack spread 拉闊，但今日主要反映 crude 而非 refined products | MEDIUM — 等歐洲消化 |\n| **BofA: NVDA juicy discount + Mag7 最平** | Contrarian bid 支持 tech | MEDIUM — sentiment-driven |\n| **IMF 下調全球增長至 3%** | Stagflation narrative cementing | MEDIUM — confirms macro backdrop |\n\n### NC Calls 評分卡：\n\n| NC Call | 方向 | 準確度 | 備註 |\n|---------|------|--------|------|\n| Iran energy bid | 🟢 Long energy | ✅ Bullseye | Core thesis holding |\n| AVGO/AAPL deal | 🟢 Bullish | ✅ | Catalyst landed |\n| Defense (LMT/RTX) | 🟢 Watch | ⏳ | NATO catalyst materializing but not yet fully priced |\n| NVDA/Semi contrarian | 🟢 Watch | ✅ | BofA call supportive |\n| Warsh hawkish risk | 🔴 Bearish macro | ✅ | Minutes confirmed |\n| Russia diesel ban | 🟡 Refiners watch | ⏳ | Too early, European session digesting |\n| DKNG/FLUT Burry bet | 🟡 Contrarian | ⏳ | Interesting but no price catalyst yet |\n\n### What NC Missed:\n- **Yield curve movement** — 冇 cover 到 2Y/10Y spread 變化。加息討論下 yield curve 動態對 financials 同 growth stocks 好關鍵。\n- **BTC $60K defense** — NC 有 note 但冇深入。Bitcoin 未能扮演 Iran 避險角色係重要 signal：market 將 inflation fear 解讀為 rate hike risk 而非 debasement trade。\n\n---\n\n## 4. 🎯 Opportunities Carry Forward\n\n### 🔥 High Conviction Carry:\n\n**1. Energy Complex (XLE, XOM, CVX, USO) — 續持但注意 pullback risk**\n- Thesis: Iran Hormuz disruption prolonged（Kalshi: 2027年前不恢復）。Russia diesel ban 疊加成品油 supply shock。\n- Risk: Day 3 若無新空襲，油價可能回吐 Day 2 panic premium。今晚亞洲/歐洲時段係關鍵。\n- Action: 現有持倉 hold，新入場等 pullback to 5-day MA。唔好 chase Day 2 spike。\n\n**2. AVGO — $30B Apple deal catalyst 剛落地**\n- Thesis: 史上最大美國芯片製造承諾，AVGO 有 independent catalyst（唔跟 NVDA）。AI + 國防雙主題。\n- Risk: Iran headline 若惡化，macro 會 override stock-specific catalyst。\n- Action: WATCH for confirmation above today's high。若 Iran 憂慮稍退，AVGO 應跑贏 semi peers。\n\n**3. Tech Rotation (QQQ, XLK, NVDA) — 剛開始，值得跟進**\n- Thesis: Mag7 估值十年最平 + BofA contrarian call + IMF stagflation 令資金流入 quality growth。\n- Risk: Warsh 加息 narrative 係 structural headwind for growth multiples。若 10Y yield spike above 4.5%，tech rotation 可能逆轉。\n- Action: WATCH。等確認 (a) Iran headlines 退潮 + (b) rotation 唔係 dead cat bounce。NVDA 若 hold 近期低點係 entry signal。\n\n### ⏳ Developing:\n\n**4. Defense (LMT, RTX, NOC, GD) — NATO catalyst materializing**\n- Patriot 生產授權令 defense 由一次性軍購變長期 recurring revenue。\n- 但 sector 已 run up — 等 pullback 先考慮。\n\n**5. Refiners (VLO, MPC, PSX) — Russia diesel ban play**\n- 柴油禁運拉闊 crack spread。但呢個 theme 需要歐洲市場消化先見到 price action。\n- 等下星期歐洲開市反應先判斷。\n\n---\n\n## 5. ⚠️ Risks / Watchlist\n\n### Tonight's Watch:\n| Risk | Severity | Trigger |\n|------|----------|---------|\n| **Iran Day 3 escalation** | 🔴 HIGH | 若有新一輪空襲 → oil spike → equity selloff |\n| **Iran de-escalation** | 🟡 MEDIUM | 若停火討論重啟 → oil pullback → energy sector reversal |\n| **Warsh / Fed speeches** | 🟡 MEDIUM | 任何 Fed official 跟進 minutes hawkish tone → rate expectations shift |\n| **European market open** | 🟡 MEDIUM | Europe 如何消化 Russia diesel ban + Iran — 會影響 US pre-market |\n\n### Structural Risks:\n- **Warsh Fed paradigm shift:** June minutes 確認 Warsh leadership 下 Fed 更數據依賴、更 hawkish。加息 option 重返 table。若 Jul 28-29 FOMC 前 oil-driven inflation 持續上升，市場將重新定價 terminal rate → growth stocks multiple compression。\n- **Stagflation cementing:** IMF downgrade + Iran supply shock + Warsh hawkish = textbook stagflation setup。呢個組合對 equity 最不利：earnings growth slowing + discount rate rising。\n- **Narrow breadth:** 只有 2/11 sectors green。若 energy 回吐而 tech 未能接力，SPY 可能快速測試 730 水平。\n\n### 勿作持倉假設：\n我哋唔知實際持倉。以上分析係 sector/thematic level — 唔係針對任何 existing position。\n\n---\n\n## 6. 💡 My Take\n\n**今日個市嘅核心故事：Dow -570 唔係 panic，而係 rotation。** 資金正在 price in stagflation-lite — 離開 cyclical/industrial，湧入 energy（supply risk premium）同 big tech（quality growth safe haven）。呢個 pattern 同 IMF downgrade + Iran escalation + Warsh hawkish 三個 macro catalysts 完美吻合。\n\n**最重要嘅 takeaway：Warsh Fed 係更大嘅 risk 而唔係 Iran。** Iran 係 supply shock — 市場識定價。但 Warsh 嘅加息討論係 structural regime change — 如果 oil-driven inflation 將 rate hike 推返上 table，成個 growth stock valuation framework 要重寫。Jul 28-29 FOMC 係真正嘅 showdown。\n\n**明日 bias：Cautious but selective。** Energy 係 momentum play 但要小心 Day 3 pullback。Tech rotation 係 contrarian opportunity 但要等確認。Defense 同 refiners 係 developing themes — 唔急。整體市場方向取決於今晚有冇新一輪 Iran 空襲。若無，預計 oil 回吐、tech 繼續反彈。若有，全面 risk-off 重啟。\n\n**一句講晒：Market is pricing stagflation, not Armageddon. Energy + Tech is the pair trade. Watch Warsh, not just Iran.**",
+      "risks": [
+        "Iran Day 3 escalation → oil再spike → equity全面selloff",
+        "Iran de-escalation → oil pullback → energy sector reversal",
+        "Warsh Fed加息narrative → growth multiples structural compression",
+        "Narrow breadth: 得2/11 sectors green → 若energy回吐+tech唔接力，SPY穿730",
+        "Jul 28-29 FOMC前19日macro uncertainty window"
+      ],
+      "my_take": "Dow -570唔係panic而係rotation。資金price in stagflation-lite：離開cyclical湧入energy+big tech。Warsh Fed加息討論係更大risk而唔係Iran。Jul 28-29 FOMC係真正showdown。明日cautious but selective — energy momentum但要小心Day 3 pullback，tech rotation係contrarian opp但要等確認。"
     }
   ],
   "news_curator": [
