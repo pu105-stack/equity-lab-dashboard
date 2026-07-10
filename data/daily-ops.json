@@ -2754,6 +2754,80 @@
         "Earnings season — Bank earnings + mega-cap tech密集，任何miss會trigger sector-wide selloff"
       ],
       "my_take": "FOMC minutes hawkish但市場已消化；CPI anxiety主導；Mag7內部rotation進行中（NVDA強 vs MSFT/META弱）；Iran外交信號令oil risk premium見頂；保持defensive posture等CPI clarify方向。AZN trial failure dip值得monitor但未到action point。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-10",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "Risk-on：晶片股領漲，無視Iran-US交火。油價下跌、股市上升。黃金弱勢、資金流向AI/科技。",
+      "headlines": [
+        "[NEW] 🎯 AVGO,NVDA,AMD,MU — SK Hynix $26.5B Nasdaq IPO 引爆半導體板塊",
+        "[NEW] 🎯 META — 自研AI晶片9月投產 + ARK加倉 + Muse Spark 1.1編碼AI",
+        "[NEW] 🎯 JPM — JPMorgan AI Agents 打敗60/40投資組合（回測），金融AI加速落地",
+        "[NEW] 🎯 AI基礎設施 — Carlyle以$2.6B出售數據中心電力部門予EQT（5倍回報）",
+        "[RECENT] ⚠️ XLE,USO,XOM,CVX — Iran-US續報：Khamenei葬禮+交火第3日，但油價下跌——市場已定價de-escalation",
+        "[NEW] ⚠️ MACRO — Fed Warsh任命改革班底：Marc Andreessen + 前BoE King + Walmart McMillon，AI擁抱+50%加息概率",
+        "[NEW] ⚠️ MSFT — OpenAI Fidji Simo離職(AGI部署CEO)+GPT-5.6同步推出：領導層震盪vs產品動能",
+        "[RECENT] ⚠️ AZN,IONS — 續報：AstraZeneca Wainua心臟藥trial失敗，市值蒸發$27B，IONS同跌30%+",
+        "[NEW] ⚠️ GLD,IAU — 黃金創2013年來最差季度 + 中國投資者6月創紀錄撤資$2.22B，死亡交叉逼近",
+        "[NEW] ⚠️ NVDA,AMD,AVGO — 晶片股無視Iran強勢反彈：Dow +139點，亞洲股市跟升",
+        "[NEW] 📌 VWAGY — Volkswagen中國銷售暴跌，被迫減產，德國汽車業寒冬",
+        "[RECENT] 📌 PANW — Palo Alto Networks月升28%，CEO Arora：AI token成本需跌90%",
+        "[NEW] 📌 CARR,JCI,TT — 歐洲熱浪：英國35°C，Uniqlo銷售受壓，HVAC板塊受惠",
+        "[NEW] 📌 BTC-USD,COIN — Bitcoin升穿$63K，油價回落推高風險偏好，但情緒仍然極度悲觀"
+      ],
+      "opportunities": [
+        "SK Hynix $26.5B IPO — semi sector validation, HBM demand thesis confirmed",
+        "META AI chips Sept + ARK buying + Muse Spark 1.1 — triple catalyst",
+        "JPM AI agents beat 60/40 — financial AI going mainstream",
+        "Carlyle $2.6B data center power sale (5x) — AI infra validated"
+      ],
+      "analysis": "市場完全無視Iran-US交火。油價跌2-4%、晶片股領漲。War premium蒸發中。SK Hynix IPO係最大催化。Fed Warsh改革班底(Andreessen+King+McMillon)將重塑2026下半年macro landscape。黃金失去避險功能，2013年來最差季度。",
+      "risks": [
+        "Iran-US交火升級至Hormuz關閉（目前概率低但影響極大）",
+        "黃金跌穿$4,000=重大技術面惡化",
+        "AZN $27B wipeout後續影響",
+        "OpenAI高層震盪如果擴大"
+      ],
+      "my_take": "市場已經完全無視Iran-US conflict。資金由防禦性資產（黃金、石油）流向增長型資產（AI晶片、科技股）。SK Hynix IPO、Fed Warsh改革、META自研晶片係本周三大主題。最大風險：市場對Iran過度樂觀。",
+      "key_takeaways": [
+        "SK Hynix $26.5B Nasdaq IPO — 半導體板塊最強催化劑",
+        "Fed Warsh改革班底出爐 — Andreessen+King+McMillon組合預示AI-friendly Fed",
+        "黃金失去避險功能 — 2013年來最差季度，中國$2.22B創紀錄流出",
+        "晶片股無視Iran交火全面反彈 — risk-on情緒主導",
+        "META三重催化 — 自研晶片+ARK加倉+AI coding"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-10",
+      "time": "08:35 HKT",
+      "status": "success",
+      "market_direction": "Risk-On — 晶片股領漲，Iran war premium全面蒸發，VIX跌至15.84",
+      "headlines": [
+        "SK Hynix $26.5B Nasdaq IPO引爆晶片股全面反彈：AMD+5.66%、MU+4.52%、AVGO+3.20%",
+        "META+4.70%三重催化：自研AI晶片+ARK加倉+Muse Spark編碼AI",
+        "WTI原油-2.2%至$71.87，Iran war premium全面蒸發，防禦/能源股被沽",
+        "Fed Warsh任命改革班底：Andreessen+King+McMillon，AI進入貨幣政策核心",
+        "PANW+5.53%月升28%，Cyber security momentum持續但估值已高",
+        "COST-4.21%領跌消費股，資金由防禦全面轉向增長",
+        "VIX 15.84 — complacency risk，CPI Jul 14最大risk event"
+      ],
+      "opportunities": [
+        "AMD/AVGO/MU: Semi sector momentum follow-through",
+        "META: 守住$620以上=swing setup成立",
+        "PANW: Pullback to $320-325先係entry",
+        "XLF: Pre-bank earnings positioning"
+      ],
+      "analysis": "## 🌙 美股收市回顧 — 2026年7月9日（星期四）\n\n### 📰 今日重點頭條\n\n1. **SK Hynix $26.5B Nasdaq IPO 引爆晶片股全面反彈** [NC✅捕捉] — 唔止係一隻IPO，係成個AI semi sector嘅validation。HBM需求real。AMD +5.66%、MU +4.52%、AVGO +3.20%、QCOM +2.44%，連INTC都+2.09%。NVDA逆市微跌-0.66%但純粹係profit-taking——前日+3.7%，今日守住$200以上。\n\n2. **META +4.70%：三重催化齊發** [NC✅捕捉] — 自研AI晶片9月投產 + ARK加倉沽AMD買META + Muse Spark編碼AI。市場終於願意俾META credit for AI自主化strategy。值得留意：META嘅AI capex唔再係純支出，開始有product output。\n\n3. **WTI原油 -2.2%至$71.87，Iran war premium全面蒸發** [NC✅捕捉] — US-Iran交火第3日，但油價不升反跌。市場完全定價containment/de-escalation。防禦股NOC -2.36%、能源股XOM -2.60%、OXY -2.41%、HAL -2.43%全面下跌。War premium gone。\n\n4. **Fed Warsh任命改革班底：Andreessen + King + McMillon** [NC✅捕捉] — FT獨家+Fed press release確認。呢個組合前所未有：VC大佬+前BoE chief+Walmart CEO。Signal非常明確：Fed要tech-forward、business-friendly、less academic。Kalshi而家50%概率2026加息，但Warsh改革可能令Fed更responsive to market。\n\n5. **AZN -5.70% / IONS -23.90%：Wainua trial failure後續** [NC✅捕捉] — 市值蒸發$27B。IONS接近崩盤，AZN相對抗跌因為portfolio diversification。但呢單嘢對biotech sector係警示：late-stage trial risk依然real。\n\n6. **PANW +5.53%：Cyber security 月升28%** [NC✅捕捉] — CEO Arora話AI token成本需跌90%先可以scale。PANW momentum極強但估值已高，追入要小心。\n\n7. **COST -4.21%：消費股weakness** — XLP -1.41%最差sector。COST大跌可能係profit-taking（高位回落），但consumer staples weakness值得關注——資金明確由防禦轉向增長。\n\n8. **PLTR -2.41%、CRM -2.45%：軟件股mixed** — 唔係所有tech都升。PLTR/CRM weakness反映資金選擇性流入——晶片>網絡安全>軟件。\n\n### 📊 Market Recap\n\n| 指數 | 收市 | 變動 | 備註 |\n|------|------|------|------|\n| S&P 500 | 7,544 | +0.82% | 開7492→高7547→收7544，近乎day high收 |\n| SPY | 751.71 | +0.85% | Risk-on全面回歸 |\n| QQQ | 723.28 | +1.66% | Tech領漲，晶片+Megacap雙引擎 |\n| DOW | 524.19 | +0.27% | 最弱指數，defense+energy拖累 |\n| IWM | 297.24 | +1.28% | 細價股強勢，breadth好轉 |\n| VIX | 15.84 | -6.27% | 跌穿16，極低水平——complacency risk |\n\n**Sector Performance（贏家→輸家）：**\n- 🟢 XLK (科技) +2.18% — 晶片+硬件主導\n- 🟢 XLY (非必需消費) +1.34% — TSLA+3.17%拉動\n- 🟢 XLF (金融) +1.04% — JPM+GS帶領\n- 🟢 XLC (通訊) +0.96% — META+4.70%主導\n- 🟢 XLI (工業) +0.38%\n- ⚪ XLB (原料) +0.20%\n- ⚪ XLRE (房地產) +0.18%\n- ⚪ XLV (醫療) -0.08% — AZN/IONS拖累\n- 🔴 XLU (公用) -0.51% — 防禦資金流出\n- 🔴 XLE (能源) -1.40% — 油價下跌+war premium蒸發\n- 🔴 XLP (必需消費) -1.41% — COST -4.21%拖累，防禦全面失寵\n\n**Macro Snapshot：**\n- 10Y Yield: 4.54%（由4.57%回落）— 債市同步risk-on\n- WTI原油: $71.87（-2.2%）— 兩日由$73.52跌至$71.87\n- 黃金: $4,131（+1.5%反彈但仍在$4,070-$4,155 range掙扎）\n- Bitcoin: $63,024（+1.23%）— 跟隨risk-on但未突破\n\n### 🔥 Notable Movers\n\n**🚀 最大升幅（>3%）：**\n- PANW +5.53% — cyber安全momentum持續，月升28%\n- AMD +5.66% — SK Hynix IPO催化+AI晶片需求\n- META +4.70% — 自研AI晶片+ARK加倉+coding AI\n- MU +4.52% — HBM memory demand thesis\n- AVGO +3.20% — AI networking+chip rally\n- TSLA +3.17% — 跟隨risk-on+可能嘅FSD catalyst\n- GS +2.56% — 金融sector strength\n\n**📉 最大跌幅（<-2%）：**\n- IONS -23.90% — Wainua trial failure，接近崩盤\n- AZN -5.70% — trial failure fallout\n- COST -4.21% — consumer staples rotation out\n- XOM -2.60% — oil decline + war premium蒸發\n- CRM -2.45% — software selective selling\n- OXY -2.41% — energy weakness\n- HAL -2.43% — oil services weakness\n- PLTR -2.41% — software rotation out\n- NOC -2.36% — defense de-rating on Iran de-escalation\n\n### 📰 News That Mattered — NC Calls Review\n\n**Morning Scan Jul 9 Thesis：「Cautiously Bullish — CPI anxiety + FOMC hawkish + Iran risk premium fading」**\n\n| NC Call | 結果 | 評價 |\n|---------|------|------|\n| SK Hynix IPO引爆semi sector | ✅ HIT | AMD+5.66%, MU+4.52%, AVGO+3.20% |\n| META三重催化 | ✅ HIT | +4.70%，ARK+晶片+coding AI全部兌現 |\n| Iran de-escalation → oil跌 | ✅ HIT | WTI -2.2%, XLE -1.40%, defense stocks down |\n| 晶片股無視Iran全面反彈 | ✅ HIT | Semi全面green，NVDA微跌但守住$200 |\n| Warsh改革班底深遠影響 | ✅ 方向正確 | 市場未有即時反應但長線macro重要 |\n| 黃金失去避險功能 | ⚠️ Mixed | 金價+1.5%反彈但仍在weak trend |\n| AZN/IONS trial failure | ✅ HIT | 繼續發酵，IONS -23.90% |\n| Bitcoin $63K risk-on | ✅ HIT | BTC +1.23%，$63K守住 |\n\n**Morning Scan Risks Review：**\n- ⚠️ CPI Jul 14 — 仍然係最大risk，尚未發生\n- ❌ Iran ceasefire collapse — 冇發生，市場反而走得更加risk-on\n- ⚠️ Mag7 concentration risk — 今日breadth好轉（IWM+1.28%），但依然要monitor\n- ⚠️ Earnings season — 就快到，未發生\n\n### 🎯 Opportunities Carry Forward\n\n1. **📡 Semi sector momentum** — SK Hynix IPO narrative仲有排玩。AMD、AVGO、MU全部breakout。值得monitor聽日會唔會follow-through。NVDA如果突破$207（前日高位）會係重大signal。\n\n2. **📡 META — 多催化疊加** — 晶片+ARK+coding AI。$631已突破近期range。如果守住$620以上，swing trade setup成立。\n\n3. **📡 PANW — Cyber security theme** — 月升28%但估值已高。如果pullback到$320-$325會係更好嘅entry。目前不宜追高。\n\n4. **📡 Financial sector (XLF +1.04%)** — JPM AI agents story + GS strength。Bank earnings下星期開始，pre-earnings positioning值得留意。\n\n5. **⚠️ 能源股oversold？** — XLE -1.40%連續弱勢。如果Iran交火意外升級，能源股會係最大beneficiary。Contrarian play但要等catalyst。\n\n6. **📡 Bitcoin $63K** — 守住$63K以上。周五$1.4B期權到期後可能會有方向性突破。CryptoQuant熊市反彈warning要留意。\n\n### ⚠️ Risks / Watchlist\n\n**今晚要睇實（從macro_calendar.json）：**\n- 今晚冇HIGH/MEDIUM importance USD events scheduled。安靜嘅macro夜晚。\n\n**Overnight / 近期風險：**\n- 🔴 **CPI Jul 14（下星期一）** — 呢個係未來一星期最大嘅risk event。Morning Scan已flag：如果core MoM >0.3%，rate hike narrative全面回歸。市場而家VIX 15.84 = 完全冇price-in inflation surprise risk。\n- 🔴 **FOMC Jul 28-29** — 雖然仲有2.5星期，但Warsh改革班底公布後，市場會開始price-in更hawkish嘅Fed stance。\n- 🟡 **Iran交火持續但市場已price-out** — 最大tail risk：如果Hormuz真正受威脅，油價可以一日爆升$10-15。但目前為止市場完全無視呢個風險。\n- 🟡 **Earnings season** — 下星期bank earnings開始。JPM、GS、BAC等打頭陣。任何miss會trigger sector-wide selloff。\n- 🟡 **VIX 15.84極低** — Complacency risk。2018年volmageddon前VIX都係呢個level。市場太舒服係risk in itself。\n\n### 💡 My Take\n\n**今日嘅market action confirm咗一個簡單嘅thesis：Market has moved on from Iran.**\n\n油價跌、VIX跌、晶片爆升、防禦股全面被沽——呢個唔係一個擔心war嘅市場。資金由defense/energy/staples rotated into chips/tech/financials。SK Hynix IPO成為點燃semi sector嘅火柴。\n\n但有一個矛盾值得深思：**VIX 15.84 + CPI下星期一 = 市場可能underprice inflation risk。** Morning Scan已經flag咗CPI係最大risk event，但今日market action完全冇hedging意圖。如果CPI >0.3% MoM core，下星期一會係bloodbath。\n\n**Tomorrow's bias: Cautiously Bullish**\n- Short-term momentum強勁（chip breakout + META catalyst）\n- 但VIX太低、CPI太近，risk/reward開始傾斜\n- 如果聽日follow-through（chip stocks繼續升），可以add exposure\n- 但星期五唔會開新large position ahead of Monday CPI\n\n**最重要嘅takeaway：** 呢個market嘅risk appetite回到pre-Iran水平。如果CPI唔出意外，earnings season可以drive another leg up。但如果CPI爆雷，而家嘅positioning係極度vulnerable。Stay nimble.",
+      "risks": [
+        "CPI Jul 14 — core MoM >0.3% = rate hike narrative全面回歸",
+        "VIX 15.84 極低 — complacency risk，market underpricing inflation surprise",
+        "Iran tail risk — Hormuz關閉可以一日推高油價$10-15",
+        "Earnings season next week — bank earnings打頭陣"
+      ],
+      "my_take": "Market完全無視Iran-US交火，risk-on全面回歸。晶片股爆升（AMD +5.66%、MU +4.52%、AVGO +3.20%），防禦股被全面沽售。VIX跌至15.84反映極度complacency。但CPI下星期一係重大risk event——市場似乎underprice咗inflation surprise風險。Short-term momentum bullish但要極度小心CPI。"
     }
   ],
   "news_curator": [
