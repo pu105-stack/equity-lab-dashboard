@@ -1,4 +1,75 @@
 {
-  "decisions": [],
-  "last_synced": "2026-07-04T12:32:55.595271+08:00"
+  "decisions": [
+    {
+      "ticker": "JPM",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "JPMorgan AI Agents打敗60/40傳統投資組合 — 金融AI由概念到落地。Warsh Fed利率環境利好銀行net interest margin。銀行業績季7月中啟動，JPM係bellwether。Fiserv支付網絡挑戰V/MA係額外upside optionality。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "DAL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "Record revenue + profit beat但股價因fuel cost fears下跌。IEA預測2020年來首次石油需求下降+GS稱中國石油需求可能永不恢復+Hormuz de-escalation。油價回落＝航空股最大成本壓力消失。Divergence buy opportunity。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "AVGO",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "Apple $30B美國製造芯片長期合約鎖定earnings certainty。SK Hynix $26.5B Nasdaq IPO驗證AI記憶體/HBM需求強勁，AVGO作為NVDA之後最強AI chip play直接受惠。Broadcom嘅networking/AI ASIC業務係AI基建核心。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "META",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "三重催化齊發：自研AI晶片9月投產（減少NVDA依賴）、ARK加倉沽AMD買META、Muse Spark編碼AI新產品。市場終於俾META credit for AI自主化strategy，唔再只睇capex支出。EU DSA罰款風險存在但buy-the-dip sentiment明確。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "2013年來最差季度+中國創紀錄$2.22B流出黃金ETF+死亡交叉逼近。即使Iran-US交火第3日都推唔起金價 — 避險功能結構性失效。跌穿$4,000會係重大technical breakdown。黃金嘅store of value narrative正被AI-driven productivity growth取代。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "XLE",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "IEA預測2020年來首次石油需求下降+Goldman Sachs稱中國石油需求可能永不恢復+UAE產量創紀錄。結構性bearish thesis正在成形。但Hormuz ceasefire仍未確認 — 若衝突升級油價可單日升$10-15。Oil war premium蒸發中但未完全消失。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "Seeking Alpha $1,750 base case vs Michael Burry做空。Forward PE僅6.5x — 極端便宜。Samsung AI memory profit +1,800%確認HBM需求real。但DRAM價格cycle peak risk + semi sector輪動沽壓。估值安全邊際極強但momentum negative。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "MSFT",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "跌至1年低位$383，分析師稱「you'll regret not loading up」。Azure growth deceleration+AI capex concern主導，但「Buy Chips Sell Software」trade崩解＝software可能準備反彈。估值開始attractive但momentum仍negative。等Azure stabilization signal。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "BofA稱「juicy discount」，Forward PE僅15x。SK Hynix IPO+AVGO催化劑帶動semi反彈，NVDA守住$200但Kyber延遲爭議+AI spending concern未消。TradingView sentiment仍skeptical。等$205以上+volume confirm。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "ESYJY",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "EasyJet M&A bidding war：Apollo £5.7B vs Castlelake £5.5B。歐洲航空業整合加速，加埋油價回落（燃油係航空公司最大成本），雙重tailwind。Short-term M&A arbitrage play。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-07-11T06:05:38.058963+08:00"
 }

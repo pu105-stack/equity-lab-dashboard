@@ -2851,6 +2851,38 @@
         "Insider selling at record levels into buyback boom"
       ],
       "my_take": "Cautiously Bullish with Hawkish Fed Overhang。FOMC minutes 揭示內部加息討論 + 刪除 easing bias — 市場 VIX 15.81 完全未 price in。Next week CPI + Warsh testimony 係 2026 年最大 macro event risk。Short-term: AI earnings（TSM/GOOGL）+ chips rebound（SMH）+ oil collapse 提供 upside。Medium-term: Fed framework review + sticky inflation = volatility。SPY $720-760 range into late July FOMC。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-07-11",
+      "time": "06:05 HKT",
+      "status": "success",
+      "market_direction": "本週市場經歷完整Iran衝突narrative arc：panic（Jul 6-7）→ escalation（Jul 8）→ de-escalation（Jul 9）→ market indifference（Jul 10）。最終risk-on全面回歸，晶片股領漲、油價回落、黃金失去避險功能。Warsh Fed改革班底曝光（Andreessen+King+McMillon），AI+金融融合加速。Dow首次突破53,000後整固，Mag7十年最平估值吸引資金回流。",
+      "opportunities": [
+        "🎯 META: 三重催化齊發：自研AI晶片9月投產（減少NVDA依賴）、ARK加倉沽AMD買META、Muse Spark編碼AI新產品。市場終於俾META credit fo...",
+        "🎯 AVGO: Apple $30B美國製造芯片長期合約鎖定earnings certainty。SK Hynix $26.5B Nasdaq IPO驗證AI記憶體/HBM需求...",
+        "🎯 DAL: Record revenue + profit beat但股價因fuel cost fears下跌。IEA預測2020年來首次石油需求下降+GS稱中國石油需求可...",
+        "🎯 JPM: JPMorgan AI Agents打敗60/40傳統投資組合 — 金融AI由概念到落地。Warsh Fed利率環境利好銀行net interest margi...",
+        "🎯 ESYJY: EasyJet M&A bidding war：Apollo £5.7B vs Castlelake £5.5B。歐洲航空業整合加速，加埋油價回落（燃油係航空公..."
+      ],
+      "watches": [
+        "📡 NVDA: BofA稱「juicy discount」，Forward PE僅15x。SK Hynix IPO+AVGO催化劑帶動semi反彈，NVDA守住$200但Kyb...",
+        "📡 MSFT: 跌至1年低位$383，分析師稱「you'll regret not loading up」。Azure growth deceleration+AI capex...",
+        "📡 MU: Seeking Alpha $1,750 base case vs Michael Burry做空。Forward PE僅6.5x — 極端便宜。Samsung...",
+        "📡 XLE: IEA預測2020年來首次石油需求下降+Goldman Sachs稱中國石油需求可能永不恢復+UAE產量創紀錄。結構性bearish thesis正在成形。但H..."
+      ],
+      "risks": [
+        "⚠️ GLD: 2013年來最差季度+中國創紀錄$2.22B流出黃金ETF+死亡交叉逼近。即使Iran-US交火第3日都推唔起金價 — 避險功能結構性失效。跌穿$4,000會係..."
+      ],
+      "analysis": "本週最重要嘅takeaway：市場已經完全無視Iran-US conflict。油價跌2-4%、晶片股領漲、Dow +139 — war premium正在蒸發，資金由防禦性資產（黃金、石油）流向增長型資產（AI晶片、科技股）。\n\n三個結構性主題浮現：\n1. AI半導體需求real — SK Hynix $26.5B IPO唔止係一隻股票，係成個sector嘅validation。AVGO Apple $30B合約+NVDA守住$200+META自研晶片，AI基建投資進入第二階段。\n2. 石油需求見頂 — IEA+Goldman Sachs雙重確認結構性轉變。航空股(DAL/EasyJet)係最直接受益者。\n3. 黃金避險功能失效 — 即使Iran交火都推唔起金價。中國資金創紀錄流出，死亡交叉逼近。AI-driven productivity growth正在取代gold嘅store of value narrative。\n\n最大risk：市場對Iran過度樂觀。如果交火升級到Hormuz真正關閉，油價可以一日升$10-15。但目前market is voting with its feet — and it's voting risk-on。",
+      "my_take": "呢個星期嘅narrative arc非常清晰：Iran panic → escalation → de-escalation → market indifference。最令我印象深刻嘅唔係衝突本身，而係市場消化衝突嘅速度 — 由Day 1 panic到Day 3 completely ignore，只係72小時。\n\n呢個反映一個更深層嘅結構性轉變：地緣風險對市場嘅影響力正在下降，AI-driven growth narrative嘅吸力遠大於geopolitical fear。呢個唔係complacency，而係paradigm shift。\n\n本週screening嘅核心邏輯：long AI infrastructure beneficiaries (META/AVGO/NVDA/MU)，long oil decline beneficiaries (DAL/ESYJY)，long financial AI adoption (JPM)，avoid gold (GLD)，watch oil complex for structural short (XLE)。",
+      "focus": [
+        "AI半導體: META, AVGO, NVDA, MU",
+        "油價回落受益: DAL, ESYJY",
+        "金融AI: JPM",
+        "結構性避開: GLD",
+        "石油轉弱: XLE"
+      ]
     }
   ],
   "news_curator": [
