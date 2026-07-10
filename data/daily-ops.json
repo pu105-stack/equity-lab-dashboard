@@ -2756,50 +2756,6 @@
       "my_take": "FOMC minutes hawkish但市場已消化；CPI anxiety主導；Mag7內部rotation進行中（NVDA強 vs MSFT/META弱）；Iran外交信號令oil risk premium見頂；保持defensive posture等CPI clarify方向。AZN trial failure dip值得monitor但未到action point。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-10",
-      "time": "08:16 HKT",
-      "status": "success",
-      "market_direction": "Risk-on：晶片股領漲，無視Iran-US交火。油價下跌、股市上升。黃金弱勢、資金流向AI/科技。",
-      "headlines": [
-        "[NEW] 🎯 AVGO,NVDA,AMD,MU — SK Hynix $26.5B Nasdaq IPO 引爆半導體板塊",
-        "[NEW] 🎯 META — 自研AI晶片9月投產 + ARK加倉 + Muse Spark 1.1編碼AI",
-        "[NEW] 🎯 JPM — JPMorgan AI Agents 打敗60/40投資組合（回測），金融AI加速落地",
-        "[NEW] 🎯 AI基礎設施 — Carlyle以$2.6B出售數據中心電力部門予EQT（5倍回報）",
-        "[RECENT] ⚠️ XLE,USO,XOM,CVX — Iran-US續報：Khamenei葬禮+交火第3日，但油價下跌——市場已定價de-escalation",
-        "[NEW] ⚠️ MACRO — Fed Warsh任命改革班底：Marc Andreessen + 前BoE King + Walmart McMillon，AI擁抱+50%加息概率",
-        "[NEW] ⚠️ MSFT — OpenAI Fidji Simo離職(AGI部署CEO)+GPT-5.6同步推出：領導層震盪vs產品動能",
-        "[RECENT] ⚠️ AZN,IONS — 續報：AstraZeneca Wainua心臟藥trial失敗，市值蒸發$27B，IONS同跌30%+",
-        "[NEW] ⚠️ GLD,IAU — 黃金創2013年來最差季度 + 中國投資者6月創紀錄撤資$2.22B，死亡交叉逼近",
-        "[NEW] ⚠️ NVDA,AMD,AVGO — 晶片股無視Iran強勢反彈：Dow +139點，亞洲股市跟升",
-        "[NEW] 📌 VWAGY — Volkswagen中國銷售暴跌，被迫減產，德國汽車業寒冬",
-        "[RECENT] 📌 PANW — Palo Alto Networks月升28%，CEO Arora：AI token成本需跌90%",
-        "[NEW] 📌 CARR,JCI,TT — 歐洲熱浪：英國35°C，Uniqlo銷售受壓，HVAC板塊受惠",
-        "[NEW] 📌 BTC-USD,COIN — Bitcoin升穿$63K，油價回落推高風險偏好，但情緒仍然極度悲觀"
-      ],
-      "opportunities": [
-        "SK Hynix $26.5B IPO — semi sector validation, HBM demand thesis confirmed",
-        "META AI chips Sept + ARK buying + Muse Spark 1.1 — triple catalyst",
-        "JPM AI agents beat 60/40 — financial AI going mainstream",
-        "Carlyle $2.6B data center power sale (5x) — AI infra validated"
-      ],
-      "analysis": "市場完全無視Iran-US交火。油價跌2-4%、晶片股領漲。War premium蒸發中。SK Hynix IPO係最大催化。Fed Warsh改革班底(Andreessen+King+McMillon)將重塑2026下半年macro landscape。黃金失去避險功能，2013年來最差季度。",
-      "risks": [
-        "Iran-US交火升級至Hormuz關閉（目前概率低但影響極大）",
-        "黃金跌穿$4,000=重大技術面惡化",
-        "AZN $27B wipeout後續影響",
-        "OpenAI高層震盪如果擴大"
-      ],
-      "my_take": "市場已經完全無視Iran-US conflict。資金由防禦性資產（黃金、石油）流向增長型資產（AI晶片、科技股）。SK Hynix IPO、Fed Warsh改革、META自研晶片係本周三大主題。最大風險：市場對Iran過度樂觀。",
-      "key_takeaways": [
-        "SK Hynix $26.5B Nasdaq IPO — 半導體板塊最強催化劑",
-        "Fed Warsh改革班底出爐 — Andreessen+King+McMillon組合預示AI-friendly Fed",
-        "黃金失去避險功能 — 2013年來最差季度，中國$2.22B創紀錄流出",
-        "晶片股無視Iran交火全面反彈 — risk-on情緒主導",
-        "META三重催化 — 自研晶片+ARK加倉+AI coding"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-10",
       "time": "08:35 HKT",
@@ -2828,6 +2784,73 @@
         "Earnings season next week — bank earnings打頭陣"
       ],
       "my_take": "Market完全無視Iran-US交火，risk-on全面回歸。晶片股爆升（AMD +5.66%、MU +4.52%、AVGO +3.20%），防禦股被全面沽售。VIX跌至15.84反映極度complacency。但CPI下星期一係重大risk event——市場似乎underprice咗inflation surprise風險。Short-term momentum bullish但要極度小心CPI。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-10",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "S&P futures flat, heading for winning week. Chips rebound (SK Hynix IPO). Oil retreating on IEA demand warning + Hormuz de-escalation.",
+      "headlines": [
+        "🎯 ESYJY — EasyJet M&A競標戰：Apollo £5.7B vs Castlelake，董事會接受Apollo",
+        "🎯 DAL — 盈利beat但股價反跌：燃料成本創歷史新高，CEO話高票價會持續",
+        "⚠️ XLE,USO — 油價三連擊：IEA需求warning + GS中國見頂論 + UAE創紀錄供應",
+        "⚠️ META — EU DSA enforcement升級：autoplay/infinite scroll被裁定違法",
+        "📌 VOD — Xavier Niel £4.4B入股16%，分析師預期推動cost cuts",
+        "📌 CRCL — OCC final approval for national trust bank charter，crypto regulatory milestone",
+        "📌 CHVKF — 萬科虧損$2.2B，中國房地產risk持續"
+      ],
+      "opportunities": [
+        "ESYJY: Apollo £5.7B takeover, bidding war with Castlelake → M&A arb",
+        "DAL: Record revenue + profit beat, shares sliding on fuel costs → divergence buy"
+      ],
+      "analysis": "Supplementary run covering Asia/Europe morning session. NC #2 (US) already ran at 08:16.",
+      "risks": [
+        "Oil demand structural decline (IEA + GS warnings)",
+        "META EU DSA enforcement (up to $10B fine)",
+        "China property crisis deepening (Vanke $2.2B loss)"
+      ],
+      "my_take": "Three actionable themes: EasyJet M&A bidding war (event-driven), Delta earnings divergence (buy oil pullback beneficiary), IEA/GS oil demand bearish thesis (structural shift, not just trade). If Hormuz ceasefire confirmed, oil drops → airlines win, energy loses.",
+      "key_takeaways": [
+        "EasyJet bidding war: Apollo £5.7B accepted, Castlelake may counter",
+        "Delta: buy the earnings beat, sell the fuel panic",
+        "IEA: first annual oil demand decline since 2020 — structural",
+        "META EU DSA: headline risk but AI catalysts offset",
+        "CRCL OCC approval: crypto regulatory milestone"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-10",
+      "time": "20:36 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish — AI + chips rebound vs hawkish Fed overhang",
+      "headlines": [
+        "FOMC Minutes: internal rate hike discussion, easing bias deleted — hawkish pivot underway",
+        "Hormuz shipping near halt but backchannel de-escalation progressing — oil getting crushed",
+        "IEA: first annual oil demand decline since 2020 — structural bearish for energy",
+        "EasyJet accepts Apollo £5.7B takeover, Castlelake may counter-bid",
+        "Delta record revenue + profit beat, fuel cost surge creates divergence opportunity",
+        "EU orders Meta to alter addictive design under DSA — potential $10B fine, market ignores",
+        "Fed Warsh announces five monetary policy task forces — framework review begins",
+        "Next week: CPI (Tue) + Warsh testimony (Tue) = biggest macro event risk of 2026"
+      ],
+      "focus": [
+        "DAL earnings BMO — record revenue, fuel cost guidance is key",
+        "Chips rebound (SMH +2.48%) — TSM earnings Jul 16 as sector catalyst",
+        "Oil complex — structural bearish (IEA+GS) but Hormuz ceasefire not confirmed yet",
+        "META — EU regulatory risk ignored by market, buy dip strategy",
+        "Next week CPI + Warsh testimony positioning — today is the day to prepare"
+      ],
+      "analysis": "🌅 Morning Scan — 7月10日（週四）\n\n## Fed Context — Macro Backdrop\n\n### 🔴 FOMC Minutes (Jun 16-17) 新鮮出爐 — Jul 8 發布\n\n今次 minutes 係近期最重要嘅一份。幾個關鍵 takeaways：\n\n**1. 利率決定：全票 12-0 維持 3.50-3.75%，但內部分裂浮面**\n- \"A few participants\" 想加息 — 雖然最後支持 hold，但加息聲音重返 FOMC table\n- \"Many\" 睇年尾利率要 **above** current（鷹）\n- \"Many\" 睇年尾利率 at or slightly below current（鴿）\n- 核心矛盾：AI 投資推高需求 → 通脹壓力 vs 生產力提升 → 通脹降溫，FOMC 內部未有共識\n\n**2. 刪除 easing bias — 訊號明確**\n- Statement 不再暗示減息方向，改為 \"The Committee will deliver price stability\"\n- 呢個係 Warsh 嘅 signature move — 唔會再 pre-commit direction\n- Market 未充分消化呢個改變\n\n**3. 通脹正在加速，唔係減速**\n- Headline PCE: 3.8% (Apr) → est 4.1% (May)\n- Core PCE: 3.3% (Apr) → est 3.4% (May)  \n- Driver: 關稅 + 伊朗衝突能源成本 + **AI 基建需求推高 tech products / electricity 價格**\n- Staff: inflation risks skewed to UPSIDE\n\n**4. AI 雙面刃 — 同時推動增長同通脹**\n- SPX +6% during intermeeting，完全由 tech earnings + AI optimism 驅動\n- AI 投資推高 data center / high-tech equipment / software 需求 → GDP 增長\n- 但同時推高 technology products + electricity 價格 → 通脹\n- Productivity gains from AI adoption \"would take time to materialize\"\n\n**5. Hormuz 接近解決 — 油價壓力緩解但未消失**\n- \"Agreement had been reached\" near end of intermeeting period\n- 但 shipping 仍然 disrupted（今朝 headline: \"Tanker traffic slows in Strait of Hormuz after US and Iran clashes\"）\n- 市場正在 price in 全面解決，但現實仍有摩擦\n\n**6. Kevin Warsh 宣布五個 task forces — 貨幣政策框架檢討**\n- Jul 9 正式公布 leadership + objectives\n- Warsh: \"The U.S. economy has changed significantly over the last generation, and never more so than right now\"\n- 外部顧問參與，independent mandate\n- 呢個 framework review 可能改寫 Fed 嘅 reaction function — 係 2026 年最重要嘅 Fed development\n\n**7. Next FOMC: Jul 28-29**\n- 下次會議前有兩次 CPI + 一次 PPI — 數據將決定 Warsh 嘅第一個重大決定\n\n**Bottom line:** Fed 比市場想像中更 hawkish。Minutes 明確顯示內部討論加息，statement 刪除 easing bias。市場 VIX 15.81 反映完全未 price in 加息風險。Next week CPI + Warsh testimony 係 catalyst — 如果 CPI 再 acceleration（4.1% estimate），市場可能被迫 repricing。\n\n---\n\n### 📰 今日重點頭條\n\n| # | Headline | Source | Related |\n|---|----------|--------|---------|\n| 1 | **Hormuz Shipping Grinds to Near Halt After US, Iran Strikes** — 但同時 backchannel de-escalation 進行中 | WSJ/General | XLE, USO, DAL |\n| 2 | **IEA: First Annual Oil Demand Decline Since 2020** + GS says China oil demand may never fully recover | NC | XLE, XOM, CVX |\n| 3 | **EasyJet Accepts Apollo £5.7B Takeover, Bidding War With Castlelake** — stock +13% | NC | ESYJY |\n| 4 | **Delta Record Revenue + Profit Beat, But Fuel Costs Surge** — divergence trade | NC | DAL |\n| 5 | **EU Formally Orders Meta to Alter \"Addictive Design\" Under DSA** — potential $10B fine | FMP | META |\n| 6 | **Circle Receives OCC National Trust Bank Charter** — crypto regulatory milestone | NC/FMP | BTC, COIN |\n| 7 | **Fed Task Forces to Advance Monetary Policy** — Warsh framework review正式啟動 | Fed | macro |\n| 8 | **Slumping AI Stocks Could Be Really Good News for Nontech** — rotation narrative emerging | FMP | IWM, XLF |\n| 9 | **Why the Next Three Weeks Will Decide the Stock Market's Second-Half Fate** — earnings season + CPI + FOMC | FMP | SPY |\n| 10 | **Corporate America Pumping $1 Trillion Into Buybacks — But Look What Insiders Are Doing** | FMP | broad market |\n\n---\n\n### 🌍 隔夜市場\n\n**US Close（7月9日週三）：**\n| Index | Price | Change |\n|-------|-------|--------|\n| SPY | $751.71 | **+0.85%** |\n| QQQ | $723.28 | **+1.66%** |\n| DIA | $524.19 | +0.27% |\n| IWM | $297.24 | +1.28% |\n\n- **Tech leads, chips rebound** — SMH +2.48%, META +4.70%（完全無視 EU 監管！）\n- **VIX 15.81** — extremely complacent，遠低於 historical median\n- **10Y yield 4.539%** — still elevated, +50bp since Iran conflict start\n- **USD strengthening** — rate differential widening vs AFEs\n- **Gold +1.00% at $378** — 避險需求仍在（Hormuz uncertainty + inflation hedge）\n- **Oil getting crushed**: USO -2.85%, XLE -1.40%, XOM -2.60%\n\n**關鍵 macro signal：Oil 暴跌 + Gold 上升 = 市場同時 pricing in Hormuz 解決（bearish oil）同 inflation concern（bullish gold）— 兩個 narratives 並行，有一個會錯。**\n\n---\n\n### 📈 昨日市場極端波動\n\n**📈 Top Gainers (Jul 9 session):**\n| Ticker | Name | Change |\n|--------|------|--------|\n| JLHL | Julong Holding | +317.97% |\n| VRAX | Virax Biolabs | +100.00% |\n| FBRX | Forte Biosciences | +78.33% |\n| TRAX | First Tracks Biotherapeutics | +55.99% |\n| CIRC | Circle8 Group | +53.40% |\n\n→ 全部係 small-cap biotech / SPAC names，冇 institutional follow-through。Not actionable。\n\n**📉 Top Losers:**\n| Ticker | Name | Change |\n|--------|------|--------|\n| AFJK | Aimei Health Tech | -51.70% |\n| BYRN | Byrna Technologies | -33.67% |\n| RXT | Rackspace Technology | -33.59% |\n\n→ Rackspace (RXT) -33.59% 值得望 — cloud services，可能係 earnings miss 或 guidance cut。但低市值唔適合 swing trade。\n\n**📊 Most Active:**\n| Ticker | Name | Change |\n|--------|------|--------|\n| SOXS | Direxion Daily Semis Bear 3X | **-9.56%** |\n| BITO | ProShares Bitcoin ETF | +1.54% |\n| TZA | Direxion Small Cap Bear 3X | -3.44% |\n\n→ **SOXS -9.56% tells the real story：semis 大反彈**，inverse ETF 被屠殺。BITO active = crypto interest returning（Circle bank charter catalyst）。TZA selling = small cap rotation happening。\n\n---\n\n### 📡 今日重點事件\n\n**Today (Jul 10):** 冇重大 macro events — 相對 quiet day，market 會 focus on earnings + Hormuz headlines。\n\n**⚠️ Next Week = 2026年最重要嘅 macro week：**\n\n| Date (HKT) | Event | Importance |\n|------------|-------|-----------|\n| **Tue Jul 14, 8:30PM** | **CPI YoY (Jun)** — consensus est around 4.1% headline | 🔴 CRITICAL |\n| **Tue Jul 14, 8:30PM** | **Core CPI YoY (Jun)** — est ~3.4% | 🔴 CRITICAL |\n| **Tue Jul 14, 10:00PM** | **Fed Chair Warsh Testimony** — first major public appearance since task force announcement | 🔴 CRITICAL |\n| Wed Jul 15, 8:30PM | PPI MoM (Jun) | 🔴 |\n| Thu Jul 16, 8:30PM | Retail Sales MoM (Jun) | 🔴 |\n| Fri Jul 17, 8:30PM | Housing Starts + Building Permits | 🔴 |\n| Fri Jul 17, 10:00PM | Michigan Consumer Sentiment Prel (Jul) | 🔴 |\n\n**CPI + Warsh testimony back-to-back on Tuesday 係今年最大嘅 macro event risk day。** 如果 CPI print 4.1%+ 再加 Warsh hawkish tone，市場會有大波動。FOMC minutes 已經鋪墊咗 hawkish pivot 嘅基礎。\n\n---\n\n### 🔥 Sector Watch\n\n**🔥 Leading (NASDAQ):**\n- **Communication Services +3.77%** — META (+4.70%) 係主要 driver，完全無視 EU DSA 監管風險。Market 睇 AI catalyst > regulatory risk\n- **Consumer Cyclical +2.73%** — broad strength，可能係 rotation from defensives\n- **Financial Services +1.41%** — next week bank earnings（JPM, BAC, GS, WFC, C all on Tuesday）係 catalyst\n\n**❄️ Lagging (NASDAQ):**\n- **Consumer Defensive -1.43%** — rotation out of safety trade\n- **Energy -1.12%** — IEA demand decline + Hormuz de-escalation + UAE record output = perfect storm\n- **Healthcare -0.35%** — quiet, no catalyst\n\n**🔄 Rotation signal:**\nDefensives → Cyclicals + Tech。IWM +1.28% vs DIA +0.27%，small cap outperforming Dow — 呢個係 risk-on rotation，同 VIX 15.81 嘅 complacency 一致。\n\n---\n\n### 🎯 Pre-market Opportunities（News Curator Consolidated）\n\n**🎯 ACTION — High Conviction:**\n\n1. **DAL (Delta Air Lines) — Earnings Divergence Play**\n   - Record revenue + profit beat，但股價受 fuel cost surge 拖累\n   - 如果 Hormuz ceasefire 成真 + IEA demand decline → oil 跌 → DAL 嘅 fuel cost headwind 消失\n   - 今日 DAL 業績日正式出（BMO），post-earnings dip 可能係 buy opportunity\n   - **Catalyst:** Hormuz ceasefire confirmation + oil pullback\n   - **Risk:** Iran/US 再升溫推高油價\n\n2. **ESYJY (EasyJet) — M&A Bidding War**\n   - Apollo £5.7B 已被接受，Castlelake 可能 counter-bid\n   - Straightforward event-driven trade — 等第二個 bidder 出價\n   - **Risk:** 單一 bidder，冇 bidding war 就 limited upside\n\n**📡 WATCH — Need Catalyst:**\n\n3. **XLE / XOM / CVX (Oil Complex) — Structural Bearish**\n   - IEA 預測今年係 2020 年以來首次 annual demand decline\n   - GS: China oil demand may never fully recover\n   - UAE output at record high\n   - 但 Hormuz 仍然 disrupted， ceasefire 未 confirmed\n   - **Strategy:** 等 Iran ceasefire 正式 announcement → short XLE/XOM。而家太早，ceasefire 未落地嘅 headline risk 仍然存在\n\n4. **META — Regulatory Risk vs AI Momentum**\n   - EU DSA 要求改 \"addictive design\"，最高罰款 $10B（6% global revenue）\n   - 但 market 完全 ignore：META +4.70%\n   - In-house AI chip September + ARK buying\n   - **Strategy:** Buy dip if -3-5% on negative EU headline。而家 chasing +4.7% 太 aggressive\n\n5. **Chips Rebound — SOXS -9.56%**\n   - Semis 大幅反彈，SMH +2.48%\n   - SK Hynix $26.5B Nasdaq IPO 係 catalyst\n   - NVDA 只係 -0.66%（lagging SMH）— 可能補漲\n   - **Strategy:** 下星期 TSM earnings (Thu Jul 16) 係 sector catalyst — 之前可以考慮加入\n\n**📌 NOTE — Background:**\n\n6. **Circle (CRCL) Bank Charter** — crypto regulatory milestone，BTC + COIN positive spillover\n7. **Vanke H1 Loss $2.2B** — confirms China property + consumer weakness，但 macro impact limited to Asia/commodity exposed names\n\n---\n\n### 📅 未來一個月業績重點\n\n**THIS WEEK (Jul 10-17) — Banks + Megacap Tech Wave 1:**\n\n| Date | Ticker | Market Cap | Estimate | Notes |\n|------|--------|-----------|----------|-------|\n| **Fri Jul 10** | **DAL** | $57B | $1.51 BMO | 今日！Record revenue，focus on fuel cost guidance |\n| Tue Jul 14 | **JPM** | $886B | $5.52 BMO | Bank earnings kickoff — NII guidance key |\n| Tue Jul 14 | **BAC** | $414B | $1.13 BMO | Consumer credit quality watch |\n| Tue Jul 14 | **GS** | $304B | $14.47 BMO | Trading revenue + IB pipeline |\n| Tue Jul 14 | **WFC** | $262B | $1.73 BMO | Asset cap removal progress? |\n| Tue Jul 14 | **C 🎯** | $234B | $2.72 BMO | Tracked ticker — services pivot |\n| Wed Jul 15 | **ASML** | $682B | $7.98 BMO | **Semis bellwether** — China export restrictions impact |\n| Wed Jul 15 | **JNJ** | $634B | $2.85 BMO | Healthcare defensive |\n| Wed Jul 15 | **MS** | $344B | $2.89 BMO | Wealth management + IB |\n| Thu Jul 16 | **TSM** | **$2.27T** | $3.80 BMO | **最重要嘅 earnings** — AI demand + capacity |\n| Thu Jul 16 | **UNH** | $387B | $4.84 BMO | Healthcare leader |\n| Thu Jul 16 | **NFLX** | $318B | $0.79 AMC | Streaming — subscriber growth |\n| Fri Jul 17 | Various regionals | — | — | Quiet day |\n\n**NEXT WEEK (Jul 21-25) — Megacap Tech Wave 2:**\n\n| Date | Ticker | Market Cap | Estimate | Notes |\n|------|--------|-----------|----------|-------|\n| Tue Jul 21 | SCHW | $177B | $1.50 | Brokerage — trading activity |\n| **Wed Jul 22** | **GOOGL 🎯** | **$4.35T** | $2.86 AMC | **AI search monetization + Cloud** — tracked |\n| Wed Jul 22 | TSLA | $1.53T | $0.28 AMC | Margins + FSD progress |\n| Wed Jul 22 | NEE 🎯 | $182B | $1.08 | Tracked — utility/AI power demand |\n| **Thu Jul 23** | **INTC 🎯** | $554B | $0.10 AMC | **Foundry progress + 18A update** — tracked |\n| Thu Jul 23 | BX 🎯 | $88B | $1.34 BMO | Tracked — private credit exposure watch（FOMC flagged BDC stress!） |\n| Fri Jul 24 | AXP | $237B | $4.41 BMO | Consumer spending proxy |\n\n**🔑 Key Earnings Themes:**\n- **Bank earnings (Jul 14-15):** NII compression? Credit quality? Trading revenue? 直接影響 XLF\n- **TSM (Jul 16):** AI demand signal — 如果 guidance beat → semis rally continues。如果 miss → 成個 AI trade 被 question\n- **GOOGL (Jul 22):** Cloud + AI search monetization — $4.35T valuation 需要完美 execution\n- **INTC (Jul 23):** 18A node + foundry customer announcements — 係 turnaround thesis 嘅關鍵 test\n- **BX (Jul 23):** FOMC minutes flagged BDC redemption acceleration + private credit slowdown — BX 係最大嘅 private credit player，earnings 會 reveal stress level\n\n---\n\n### 📋 Today's Agenda\n\n- **DAL earnings BMO** — 今日最重要 catalyst。Record revenue expected，fuel cost guidance 係 focus\n- **Hormuz headlines** — \"Shipping Grinds to Near Halt\" vs backchannel de-escalation。油價方向取決於邊個 narrative dominate\n- **FOMC minutes digestion** — market 可能今朝先開始消化 hawkish minutes（尋日先出），睇實 bond market reaction\n- **Positioning for next week** — CPI + Warsh testimony Tuesday = 今年最大 macro event risk。今日係最後嘅 positioning day\n\n**Key Levels:**\n- SPY support: $740 (50-day MA), resistance: $760 (ATH)\n- QQQ support: $714 (50-day MA), resistance: $749 (ATH)\n- 10Y yield: 4.54% — 如果 break above 4.60% → risk-off trigger\n\n---\n\n### 💡 My Take\n\n**Overall bias: Cautiously Bullish with a Hawkish Fed Overhang**\n\n今日 market 嘅表面 calm（VIX 15.81, SPX near ATH）掩蓋咗底層嘅 tension：\n\n**Bull case:**\n- AI investment supercycle intact — TSM earnings next week likely reinforce\n- Chips rebounding（SMH +2.48%）, rotation from defensives to cyclicals\n- Hormuz de-escalation progressing（ceasefire backchannel）\n- Oil collapsing = tailwind for consumers + airlines + transports\n- Earnings season starting strong（DAL record revenue）\n\n**Bear case:**\n- **FOMC minutes 係 hawkish bomb** — \"a few\" wanted hike, \"many\" see year-end above current, easing bias deleted\n- **CPI next week est 4.1%** — if print confirms acceleration, market forced to reprice\n- **Warsh framework review** signals potential policy shift — market hasn't priced this\n- **Oil-Hormuz situation unresolved** — \"grinds to near halt\" contradicts de-escalation narrative\n- **Insiders selling into buyback boom** — smart money distributing\n- **10Y at 4.54%** — elevated yields ultimately compete with equities\n\n**今日最緊要睇實：**\n1. **DAL earnings + guidance** — fuel cost outlook 直接影響航空股同 oil thesis\n2. **Hormuz headlines** — \"grinds to halt\" vs backchannel：邊個贏決定油價方向\n3. **Bond market** — 10Y 會唔會因為 hawkish minutes break above 4.60%？\n4. **META** — 可唔可以 hold +4.70% gain？EU 監管 risk 會唔會 hit after-hours？\n\n**Positioning advice for Oscar:**\n- 今日係 quiet day，最適合做 positioning for next week's macro onslaught\n- 如果睇 bull：add to semis（SMH/NVDA）ahead of TSM earnings + add DAL on post-earnings dip\n- 如果睇 bear/hedge：next week CPI + Warsh testimony 係巨大 event risk — consider VIX calls or reducing exposure\n- 油 related positions：hold off until Hormuz clarity emerges\n- META：don't chase +4.7%，等 EU headline dip\n\n**我嘅 base case：** 市場喺未來兩星期會經歷 increased volatility。FOMC minutes 嘅 hawkish signal + CPI acceleration + Warsh testimony = 完美風暴。但 AI earnings（TSM, GOOGL）可能提供足夠嘅 fundamental support 去抵消 macro headwind。Net: range-bound with higher volatility，SPY $720-760 range into late July FOMC。",
+      "risks": [
+        "CPI Jul 14 est 4.1% — acceleration confirms FOMC hawkish fears",
+        "Hormuz ceasefire fails — oil spikes, reverses current thesis",
+        "10Y yield breaks above 4.60% — risk-off trigger",
+        "FOMC framework review outcome more hawkish than market expects",
+        "Insider selling at record levels into buyback boom"
+      ],
+      "my_take": "Cautiously Bullish with Hawkish Fed Overhang。FOMC minutes 揭示內部加息討論 + 刪除 easing bias — 市場 VIX 15.81 完全未 price in。Next week CPI + Warsh testimony 係 2026 年最大 macro event risk。Short-term: AI earnings（TSM/GOOGL）+ chips rebound（SMH）+ oil collapse 提供 upside。Medium-term: Fed framework review + sticky inflation = volatility。SPY $720-760 range into late July FOMC。"
     }
   ],
   "news_curator": [
