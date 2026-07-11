@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "GLD",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "2013年來最差季度+中國創紀錄$2.22B流出黃金ETF+死亡交叉逼近。即使Iran-US交火第3日都推唔起金價 — 避險功能結構性失效。跌穿$4,000會係重大technical breakdown。黃金嘅store of value narrative正被AI-driven productivity growth取代。",
-      "source": "⚠️ 風險"
-    },
-    {
       "ticker": "XLE",
       "status": "deep_dive",
       "updated_at": "2026-07-10",
@@ -29,5 +22,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-07-11T12:34:51.290005+08:00"
+  "last_synced": "2026-07-11T12:35:32.705183+08:00"
 }
