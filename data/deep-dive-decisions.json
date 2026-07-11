@@ -1,26 +1,12 @@
 {
   "decisions": [
     {
-      "ticker": "XLE",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "IEA預測2020年來首次石油需求下降+Goldman Sachs稱中國石油需求可能永不恢復+UAE產量創紀錄。結構性bearish thesis正在成形。但Hormuz ceasefire仍未確認 — 若衝突升級油價可單日升$10-15。Oil war premium蒸發中但未完全消失。",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "ESYJY",
       "status": "deep_dive",
       "updated_at": "2026-07-10",
       "reasoning": "EasyJet M&A bidding war：Apollo £5.7B vs Castlelake £5.5B。歐洲航空業整合加速，加埋油價回落（燃油係航空公司最大成本），雙重tailwind。Short-term M&A arbitrage play。",
       "source": "🎯 機會"
-    },
-    {
-      "ticker": "DAL",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "Record revenue + profit beat但股價因fuel cost fears下跌。IEA預測2020年來首次石油需求下降+GS稱中國石油需求可能永不恢復+Hormuz de-escalation。油價回落＝航空股最大成本壓力消失。Divergence buy opportunity。",
-      "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-07-11T12:35:32.705183+08:00"
+  "last_synced": "2026-07-11T12:41:41.523012+08:00"
 }
