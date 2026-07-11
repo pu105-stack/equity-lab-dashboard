@@ -1,12 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "ESYJY",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "EasyJet M&A bidding war：Apollo £5.7B vs Castlelake £5.5B。歐洲航空業整合加速，加埋油價回落（燃油係航空公司最大成本），雙重tailwind。Short-term M&A arbitrage play。",
-      "source": "🎯 機會"
-    }
-  ],
-  "last_synced": "2026-07-11T12:41:47.119095+08:00"
+  "decisions": [],
+  "last_synced": "2026-07-11T12:47:39.456254+08:00"
 }
