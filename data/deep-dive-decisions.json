@@ -1,6 +1,13 @@
 {
   "decisions": [
     {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-07-10",
+      "reasoning": "Seeking Alpha $1,750 base case vs Michael Burry做空。Forward PE僅6.5x — 極端便宜。Samsung AI memory profit +1,800%確認HBM需求real。但DRAM價格cycle peak risk + semi sector輪動沽壓。估值安全邊際極強但momentum negative。",
+      "source": "📡 值得關注"
+    },
+    {
       "ticker": "ESYJY",
       "status": "deep_dive",
       "updated_at": "2026-07-10",
@@ -22,13 +29,6 @@
       "source": "🎯 機會"
     },
     {
-      "ticker": "META",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "三重催化齊發：自研AI晶片9月投產（減少NVDA依賴）、ARK加倉沽AMD買META、Muse Spark編碼AI新產品。市場終於俾META credit for AI自主化strategy，唔再只睇capex支出。EU DSA罰款風險存在但buy-the-dip sentiment明確。",
-      "source": "🎯 機會"
-    },
-    {
       "ticker": "GLD",
       "status": "deep_dive",
       "updated_at": "2026-07-10",
@@ -41,14 +41,7 @@
       "updated_at": "2026-07-10",
       "reasoning": "IEA預測2020年來首次石油需求下降+Goldman Sachs稱中國石油需求可能永不恢復+UAE產量創紀錄。結構性bearish thesis正在成形。但Hormuz ceasefire仍未確認 — 若衝突升級油價可單日升$10-15。Oil war premium蒸發中但未完全消失。",
       "source": "📡 值得關注"
-    },
-    {
-      "ticker": "MU",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "Seeking Alpha $1,750 base case vs Michael Burry做空。Forward PE僅6.5x — 極端便宜。Samsung AI memory profit +1,800%確認HBM需求real。但DRAM價格cycle peak risk + semi sector輪動沽壓。估值安全邊際極強但momentum negative。",
-      "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-07-11T12:24:51.025346+08:00"
+  "last_synced": "2026-07-11T12:29:46.717763+08:00"
 }
