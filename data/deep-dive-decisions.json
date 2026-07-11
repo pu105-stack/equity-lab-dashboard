@@ -48,14 +48,7 @@
       "updated_at": "2026-07-10",
       "reasoning": "Seeking Alpha $1,750 base case vs Michael Burry做空。Forward PE僅6.5x — 極端便宜。Samsung AI memory profit +1,800%確認HBM需求real。但DRAM價格cycle peak risk + semi sector輪動沽壓。估值安全邊際極強但momentum negative。",
       "source": "📡 值得關注"
-    },
-    {
-      "ticker": "MSFT",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "跌至1年低位$383，分析師稱「you'll regret not loading up」。Azure growth deceleration+AI capex concern主導，但「Buy Chips Sell Software」trade崩解＝software可能準備反彈。估值開始attractive但momentum仍negative。等Azure stabilization signal。",
-      "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-07-11T12:23:03.348899+08:00"
+  "last_synced": "2026-07-11T12:24:51.025346+08:00"
 }
