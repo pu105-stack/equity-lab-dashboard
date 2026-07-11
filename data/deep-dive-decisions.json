@@ -1,10 +1,10 @@
 {
   "decisions": [
     {
-      "ticker": "MU",
+      "ticker": "XLE",
       "status": "deep_dive",
       "updated_at": "2026-07-10",
-      "reasoning": "Seeking Alpha $1,750 base case vs Michael Burry做空。Forward PE僅6.5x — 極端便宜。Samsung AI memory profit +1,800%確認HBM需求real。但DRAM價格cycle peak risk + semi sector輪動沽壓。估值安全邊際極強但momentum negative。",
+      "reasoning": "IEA預測2020年來首次石油需求下降+Goldman Sachs稱中國石油需求可能永不恢復+UAE產量創紀錄。結構性bearish thesis正在成形。但Hormuz ceasefire仍未確認 — 若衝突升級油價可單日升$10-15。Oil war premium蒸發中但未完全消失。",
       "source": "📡 值得關注"
     },
     {
@@ -34,14 +34,7 @@
       "updated_at": "2026-07-10",
       "reasoning": "2013年來最差季度+中國創紀錄$2.22B流出黃金ETF+死亡交叉逼近。即使Iran-US交火第3日都推唔起金價 — 避險功能結構性失效。跌穿$4,000會係重大technical breakdown。黃金嘅store of value narrative正被AI-driven productivity growth取代。",
       "source": "⚠️ 風險"
-    },
-    {
-      "ticker": "XLE",
-      "status": "deep_dive",
-      "updated_at": "2026-07-10",
-      "reasoning": "IEA預測2020年來首次石油需求下降+Goldman Sachs稱中國石油需求可能永不恢復+UAE產量創紀錄。結構性bearish thesis正在成形。但Hormuz ceasefire仍未確認 — 若衝突升級油價可單日升$10-15。Oil war premium蒸發中但未完全消失。",
-      "source": "📡 值得關注"
     }
   ],
-  "last_synced": "2026-07-11T12:29:46.717763+08:00"
+  "last_synced": "2026-07-11T12:30:20.479197+08:00"
 }
