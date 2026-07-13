@@ -2883,6 +2883,77 @@
         "結構性避開: GLD",
         "石油轉弱: XLE"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-13",
+      "time": "08:18 HKT",
+      "status": "success",
+      "market_direction": "美伊週末互相空襲升級，Hormuz爭議令油價跳升3%+，美股期貨承壓。Q2財報週開跑(JPM/NFLX)+週二CPI。AI回調討論升溫，BTC穩守$64K。",
+      "headlines": [
+        "[NEW] ACTION: OIL/USO — 美伊新一輪空襲，Hormuz爭議，油價+3%",
+        "[NEW] ACTION: NVDA — AI回調抄底討論，7年首現技術買入信號",
+        "[NEW] WATCH: JPM/NFLX/BAC/WFC/GS — Q2財報週+CPI，數據密集週",
+        "[NEW] WATCH: DEFENSE — 美伊空襲+NATO峰會",
+        "[RECENT] WATCH: AAPL — vs OpenAI法律戰",
+        "[RECENT] WATCH: GOOGL — 自研晶片威脅NVDA",
+        "[RECENT] WATCH: MSFT — 自研AI削減OpenAI依賴",
+        "[NEW] WATCH: BTC-USD — 地緣混亂中穩守$64K，ETF inflow逆轉",
+        "[RECENT] WATCH: GLD — 油價推高通脹預期，黃金受壓",
+        "[RECENT] WATCH: MU — GS SpaceX AI預測最大贏家",
+        "[RECENT] WATCH: AMZN — $25B震撼消息+裁員"
+      ],
+      "opportunities": [
+        "OIL/USO: 美伊空襲升級，Hormuz爭議，但Bloomberg指市場已pricing in resilience",
+        "NVDA: 回調後7年首現技術買入信號，等Q2 earnings確認",
+        "MU: GS點名AI memory最大贏家，$22B長期供應合約鎖定"
+      ],
+      "analysis": "本週關鍵詞：Geopolitics + Earnings + CPI三連擊。美伊衝突係最fresh catalyst但oil已反映一浸，唔建議追。AI回調有冇見底要等Q2 earnings確認。BTC穩守$64K+ETF inflow逆轉係interesting signal。最大風險係earnings season — 如果Q2 guidance唔夠強，AI股可能再有5-10% correction。",
+      "risks": [
+        "Q2 earnings如果miss，AI股可能加深回調",
+        "CPI意外上升令Fed Warsh轉hawkish",
+        "Hormuz真係關閉會令油價spike + 通脹升溫",
+        "AI信貸市場警告泡沫風險(Seeking Alpha)"
+      ],
+      "my_take": "等CPI+首批銀行業績出咗先make significant move。短期：DEFENSE sector留意NATO峰會催化，OIL唔好追(已反映)，NVDA回調等earnings確認。BTC ETF inflow逆轉係bullish但stablecoin outflow係bearish divergence。",
+      "key_takeaways": [
+        "美伊衝突升級但非新鮮故事，OIL已反映",
+        "NVDA 7年首現技術買入信號，但等earnings確認",
+        "Q2財報週+CPI = data-heavy week，建議觀望",
+        "BTC ETF inflow逆轉($292M)，但stablecoin跌$10B",
+        "DEFENSE sector: NATO峰會可能係未反映催化劑"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-13",
+      "time": "08:38 HKT",
+      "status": "success",
+      "market_direction": "SPY +0.43% 週五溫和上升，但週末美伊衝突升級令今晚gap risk增加。VIX 15.03偏低，未反映geopolitical risk。",
+      "headlines": [
+        "美伊週末互相空襲升級，Hormuz爭議升溫，油價跳升3%+",
+        "Lindsey Graham逝世 + McConnell肺炎昏迷，參議院權力真空",
+        "Q2財報週開跑 — JPM/NFLX/BAC/WFC/GS 本週報告 + 週二CPI",
+        "NVDA 7年首現技術買入信號，週五+4.03%，但信貸市場警告AI泡沫",
+        "Apple起訴OpenAI商業秘密 + Musk vs Altman X平台交火",
+        "BlackRock BTC ETF $292M流入逆轉8週流出趨勢",
+        "Fed Chair Warsh週二CPI同日testimony — 市場定價關鍵"
+      ],
+      "opportunities": [
+        "NVDA: 技術反彈信號 + Q2 earnings preview，等CPI確認macro backdrop",
+        "DEFENSE: NATO峰會 + 美伊新空襲，留意RTX/LMT/NOC",
+        "JPM/BAC/WFC/GS: 銀行財報作macro proxy — loan growth + provisions關鍵",
+        "BTC-USD: ETF inflow逆轉 + 地緣政治中穩守$64K"
+      ],
+      "analysis": "📊 Evening Review — 7月13日（週一）| 回顧上週五 + 週末發展\n\n## 📰 今日重點頭條（週末 + 週一亞洲早段）\n\n以下係過去24h最關鍵嘅 headlines，結合 News Curator #2 curated 同 raw news 一齊睇：\n\n### 🔴 地緣政治主導\n• [NC] 美伊週末互相空襲升級，伊朗宣稱Hormuz關閉但美國否認 — Oil 期貨跳升3%+（Bloomberg/FT/NYT, Jul 12）\n• [RAW: al_jazeera] US launches new wave of strikes against Iran aimed at 'degrading' military\n• [RAW: marketwatch] Oil prices rise, stock futures dip after latest flare-up\n• [RAW: bloomberg] Gold Declines as Renewed US-Iran Strikes Raise Rate-Hike Bets\n\n### 🔴 政治震盪\n• [NC] Lindsey Graham 逝世(71歲,主動脈剝離) + McConnell 跌倒肺炎昏迷 — 參議院權力真空\n\n### 🟡 Q2 財報週開跑\n• [NC] JPM/NFLX/BAC/WFC/GS 本週報告 + 週二 CPI（CNBC, Jul 12）\n• 銀行業績係宏觀經濟晴雨表，CPI 決定利率路徑\n\n### 🟡 AI 股\n• [NC] NVDA 7年首現技術買入信號 vs 信貸市場警告 AI 泡沫\n• [NC] Apple 起訴 OpenAI 商業秘密竊取 + Musk vs Altman X 平台交火\n• [NC] Google 自研晶片策略或威脅 NVDA 長期主導地位\n• [NC] MSFT 押注自研 AI 模型，削減對 OpenAI 依賴\n• [NC] MU — Goldman 稱 SpaceX AI 預測中 Micron 係最大贏家\n\n### 🟢 Crypto\n• [NC] BlackRock BTC ETF $292M 流入逆轉 8 週流出趨勢，BTC 穩守 $64K\n\n### ⚪ 雜項\n• [RAW: cnbc] Khosla family 買 Seahawks $9.6B — 不影響市場\n• [RAW: investing] BOJ 可能上調增長預測 — 留意 JPY carry trade unwinding\n\n---\n\n## 📊 Market Recap — 7月10日（週五）\n\n| 指數 | 收盤 | 變動 | 訊號 |\n|------|------|------|------|\n| SPY | 754.95 | +0.43% | 溫和上升，守穩 |\n| QQQ | 725.51 | +0.31% | Tech 溫和，NVDA 領漲 |\n| DIA | 525.78 | +0.30% | Dow 跟升 |\n| IWM | 295.99 | -0.42% | Small cap 落後 — risk-off 訊號 |\n| VIX | 15.03 | -5.11% | 恐慌下降，VIX 已低於 16 |\n\n**Sector Performance（週五）：**\n| 🟢 最佳 | 🔴 最差 |\n|----------|----------|\n| XLB +1.25% (Materials) | XLV -0.82% (Healthcare) |\n| XLP +1.11% (Staples) | IWM -0.42% (Small Caps) |\n| XLU +0.62% (Utilities) | |\n| XLE +0.47% (Energy) | |\n\n**Key observations:**\n- Defensive rotation 明顯 — Staples + Utilities 跑贏，但 Materials 跑最前（或反映基建/關稅預期）\n- Energy 週五只 +0.47% — 市場未預期週末空襲升級。今日（週一亞洲）油期貨跳 3%+，今晚 USO 開市會大幅 gap up\n- Healthcare 係唯一明顯下跌 sector — 可能 rotation out of defensive healthcare into cyclicals\n- VIX 跌到 15.03 — 市場未 pricing in 週末 geopolitical risk。今晚 VIX 幾乎肯定會 spike\n\n---\n\n## 🔥 Notable Movers（週五）\n\n### 🟢 Big Winners\n| Ticker | Chg | Note |\n|--------|-----|------|\n| NVDA | +4.03% | 最強 bounce，148M volume — 7 年首次技術買入信號開始發酵 |\n| XLB | +1.25% | Materials 全面走強，可能反映基建/關稅 protectionism trade |\n| XLP | +1.11% | Defensive rotation |\n\n### 🔴 Big Losers\n| Ticker | Chg | Note |\n|--------|-----|------|\n| NFLX | -2.78% | 大成交量 46.6M — 財報前拋售？定係 growth 擔憂？ |\n| MU | -1.24% | Semi 回調，但 Goldman 話佢係 SpaceX AI 最大贏家 |\n| AMZN | -0.69% | $25B announcement 細節未明，市場等緊 |\n| GOOGL | -0.48% | 自研晶片消息未推升股價，可能擔心 capex |\n\n---\n\n## 📰 News That Mattered — NC 回測\n\nNC #2 嘅主要 CALL 同週末發展對比：\n\n| NC Call | 命中？ | 評價 |\n|---------|--------|------|\n| 🎯 OIL/USO — 美伊空襲 | ✅ 命中 | 週末確實升級。但 NC 建議唔好追（\"已反映一浸\"）- 正確。油期貨跳 3% 但 Bloomberg 已出 resilience pricing |\n| 🎯 NVDA 技術買入 | ✅ 命中 | 週五 NVDA +4.03%。但 NC 建議等 Q2 earnings — 合理 |\n| ⚠️ JPM/NFLX 財報週 | ⏳ 待觀察 | 本週關鍵。NC 正確標記 |\n| ⚠️ DEFENSE | ✅ 命中 | 週末空襲升級 + NATO 峰會本週 — 國防股 catalyst 仍然 active |\n| ⚠️ AAPL/OpenAI | 📡 發酵中 | 訴訟持續但市場反應冷靜，NC 判斷 \"唔 actionable\" 正確 |\n| ⚠️ GLD | 📡 矛盾 | Gold 被 rate-hike bets 打壓 － NC 正確指出邏輯矛盾 |\n| ⚠️ BTC-USD | ✅ 命中 | ETF inflow 逆轉確實係 bullish signal |\n\n**NC 整體表現：** 7/9 calls relevant。最主要 missed 係 Graham/McConnell 政治新聞 — 但 NC 有 capture（放 NOTE），判斷 \"短期 market impact 不大\" 係合理嘅。\n\n---\n\n## 🎯 Opportunities Carry Forward\n\n### 1. 📡 NVDA — 技術反彈有跟進價值\n- 週五 +4.03%，148M vol（>avg），7 年首次技術買入 signal\n- Bull: 回調後估值更合理，Blackwell 需求 intact，Q2 earnings 可能 confirm\n- Bear: 信貸市場警告 AI 泡沫，GOOGL/MSFT 自研晶片長期風險，semi sector 整體仍弱（MU -1.24%）\n- **My call:** WATCH closely。如果今晚 NVDA 可以 hold 住 $210+ 兼且 volume 持續，係 bullish signal。但等週二 CPI + 週三 JPM earnings 確認 macro backdrop 先行動\n\n### 2. 📡 DEFENSE stocks — NATO 峰會 + 新空襲\n- 美伊衝突升級係 real catalyst，NATO 峰會本週開\n- Defense sector 已 run up，但新空襲 + NATO 支出承諾可能再推\n- **My call:** 追蹤 RTX/LMT/NOC/HII — 如果 NATO 峰會有具體 2% GDP defence spending mandate，會係強 catalyst\n\n### 3. 📡 XLE/USO — 油價 gap up 點玩？\n- 週末空襲後油期貨跳 3%+，今晚開市 USO 會 gap up\n- Bloomberg 話 \"market pricing in Hormuz resilience\" — 即係市場相信全面封鎖機會低\n- **My call:** 唔好追。gap up 後好大機會 fade。但如果 Hormuz 真係有供應中斷（insurance cost spike, tanker re-routing），先考慮\n\n### 4. 📡 JPM/BAC/WFC/GS — 財報作為 macro proxy\n- 本週銀行股打頭陣。銀行業績係經濟晴雨表\n- Key question: loan growth, credit provisions, NII guidance\n- **My call:** 如果 loan growth slowdown + provisions 上升 → macro warning signal。如果全部 beat → cyclicals 可能追落後\n\n### 5. 📡 BTC-USD — 逆勢穩守值得留意\n- BTC 無視地緣政治混亂，穩守 $64K\n- BlackRock ETF $292M inflow 逆轉 8 週流出\n- Bearish divergence: stablecoin market cap 跌 $10B\n- **My call:** 留意 BTC 係咪開始 decouple from risk assets。如果 CPI 後 BTC 繼續穩守，係 significant signal\n\n---\n\n## ⚠️ Risks / Watchlist\n\n### 🔴 今晚（7月13日 週一 US session）關鍵 events\n| 時間 HKT | 事件 | 重要性 |\n|-----------|------|--------|\n| 17:25 | Fed Bowman Speech | 🟡 MEDIUM |\n| 00:30 (Tue) | Fed Waller Speech | 🟡 MEDIUM |\n| 02:00 (Tue) | Monthly Budget Statement (Jun) | 🟡 MEDIUM |\n\n### 🔴 明日（7月14日 週二）— 超級風險日\n| 時間 HKT | 事件 | 重要性 |\n|-----------|------|--------|\n| 20:30 | **Core Inflation Rate YoY (Jun)** | 🔴 HIGH |\n| 20:30 | **Inflation Rate YoY (Jun)** | 🔴 HIGH |\n| 20:30 | **Core Inflation Rate MoM (Jun)** | 🔴 HIGH |\n| 20:30 | **Inflation Rate MoM (Jun)** | 🔴 HIGH |\n| 22:00 | **Fed Chair Warsh Testimony** | 🔴 HIGH |\n| 00:40+ | Fed Barr/Bowman/Cook/Goolsbee speeches | 🟡 MEDIUM |\n\n**CPI 背景：**\n- Previous Core CPI YoY: 2.9%, forecast: 2.9% — consensus 睇 flat\n- Previous Headline YoY: 4.2%, forecast MoM: -0.1% — consensus 睇 headline 改善\n- 但如果 oil spike 3%+ 開始滲入 CPI → 可能 upward surprise\n- Warsh testimony 同日 — 佢會 comment on CPI data real-time，雙重波動\n\n### ⚠️ Overnight Risks\n- **美伊衝突升級：** 如果 Hormuz 真係有供應中斷，油價可以 spike 10%+ — 推高通脹預期，打擊 equities\n- **Fed speakers 密集：** 今日 Bowman/Waller，明日 Warsh/Barr/Bowman/Cook/Goolsbee — 任何一個轉 hawk 都可以 trigger sell-off\n- **Q2 earnings 預期過高：** Mag7 set high bar，miss 會 trigger broad sell-off\n- **JPM 週三打頭陣：** earnings miss 會係 macro warning\n- **USD/JPY carry trade:** BOJ 可能上調增長預測 — 如果暗示加息，carry unwind 會 trigger risk-off\n\n---\n\n## 💡 My Take\n\n**週末地緣政治升級令到本來已經 data-heavy 嘅一週更加複雜。**\n\n上週五市場 close 嘅時候仲係 relatively calm — SPY +0.43%, VIX 跌到 15。但過去 48 小時發生咗美伊新一輪空襲、Hormuz 爭議、Graham/McConnell 政治震盪。今晚開市 VIX 幾乎肯定 spike。\n\n**但 macro 先係真正主菜。** 週二 CPI + Warsh testimony 係本週最重要嘅 6 小時。市場 consensus 係 CPI flat-to-improving，但如果 energy-driven upward surprise，配合 Warsh 嘅 hawkish tone，AI 股回調可能加速。\n\n**NVDA 週五 +4% 係正面 signal，但一次 bounce 唔代表見底。** Q2 earnings 先係真正 trial。JPM 星期三打頭陣 — 銀行業績會 set the tone for 整體 earnings season。\n\n**我嘅 bias：本週 neutral-to-cautious。** Geopolitical risk premium 增加 + data-heavy week + earnings season uncertainty。喺 CPI/Warsh 出爐之前，唔值得增加風險。DEFENSE 同 OIL 有 catalyst 但 OIL 已反映一浸 — 唔好追 gap。NVDA 嘅技術信號值得跟進，但等 macro catalyst 確認方向先。\n\n**一句總結：本週等 CPI 指路。在此之前，stay nimble。**",
+      "risks": [
+        "週二CPI + Warsh testimony — 本週最重要risk event，任何upward surprise會trigger sell-off",
+        "美伊Hormuz爭議 — 如果供應中斷，油價可spike 10%+，推高通脹預期",
+        "Fed speakers密集(Bowman/Waller/Warsh/Barr/Cook/Goolsbee) — hawkish tilt risk",
+        "Q2 earnings預期過高 — Mag7 set high bar，miss會broad sell-off",
+        "BOJ可能上調增長預測 — JPY carry trade unwind risk"
+      ],
+      "my_take": "週末美伊衝突升級 + 本週 CPI + Warsh testimony + Q2 財報季三連擊。週五 NVDA +4% 技術反彈係正面，但 macro uncertainty 仍然高。等週二 CPI 指路先決定方向。短期 DEFENSE 有 catalyst，OIL 唔好追 gap。Stay nimble。"
     }
   ],
   "news_curator": [
