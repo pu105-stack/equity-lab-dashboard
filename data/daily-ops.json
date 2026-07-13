@@ -2885,46 +2885,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-13",
-      "time": "08:18 HKT",
-      "status": "success",
-      "market_direction": "美伊週末互相空襲升級，Hormuz爭議令油價跳升3%+，美股期貨承壓。Q2財報週開跑(JPM/NFLX)+週二CPI。AI回調討論升溫，BTC穩守$64K。",
-      "headlines": [
-        "[NEW] ACTION: OIL/USO — 美伊新一輪空襲，Hormuz爭議，油價+3%",
-        "[NEW] ACTION: NVDA — AI回調抄底討論，7年首現技術買入信號",
-        "[NEW] WATCH: JPM/NFLX/BAC/WFC/GS — Q2財報週+CPI，數據密集週",
-        "[NEW] WATCH: DEFENSE — 美伊空襲+NATO峰會",
-        "[RECENT] WATCH: AAPL — vs OpenAI法律戰",
-        "[RECENT] WATCH: GOOGL — 自研晶片威脅NVDA",
-        "[RECENT] WATCH: MSFT — 自研AI削減OpenAI依賴",
-        "[NEW] WATCH: BTC-USD — 地緣混亂中穩守$64K，ETF inflow逆轉",
-        "[RECENT] WATCH: GLD — 油價推高通脹預期，黃金受壓",
-        "[RECENT] WATCH: MU — GS SpaceX AI預測最大贏家",
-        "[RECENT] WATCH: AMZN — $25B震撼消息+裁員"
-      ],
-      "opportunities": [
-        "OIL/USO: 美伊空襲升級，Hormuz爭議，但Bloomberg指市場已pricing in resilience",
-        "NVDA: 回調後7年首現技術買入信號，等Q2 earnings確認",
-        "MU: GS點名AI memory最大贏家，$22B長期供應合約鎖定"
-      ],
-      "analysis": "本週關鍵詞：Geopolitics + Earnings + CPI三連擊。美伊衝突係最fresh catalyst但oil已反映一浸，唔建議追。AI回調有冇見底要等Q2 earnings確認。BTC穩守$64K+ETF inflow逆轉係interesting signal。最大風險係earnings season — 如果Q2 guidance唔夠強，AI股可能再有5-10% correction。",
-      "risks": [
-        "Q2 earnings如果miss，AI股可能加深回調",
-        "CPI意外上升令Fed Warsh轉hawkish",
-        "Hormuz真係關閉會令油價spike + 通脹升溫",
-        "AI信貸市場警告泡沫風險(Seeking Alpha)"
-      ],
-      "my_take": "等CPI+首批銀行業績出咗先make significant move。短期：DEFENSE sector留意NATO峰會催化，OIL唔好追(已反映)，NVDA回調等earnings確認。BTC ETF inflow逆轉係bullish但stablecoin outflow係bearish divergence。",
-      "key_takeaways": [
-        "美伊衝突升級但非新鮮故事，OIL已反映",
-        "NVDA 7年首現技術買入信號，但等earnings確認",
-        "Q2財報週+CPI = data-heavy week，建議觀望",
-        "BTC ETF inflow逆轉($292M)，但stablecoin跌$10B",
-        "DEFENSE sector: NATO峰會可能係未反映催化劑"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-13",
       "time": "08:38 HKT",
@@ -2954,6 +2914,64 @@
         "BOJ可能上調增長預測 — JPY carry trade unwind risk"
       ],
       "my_take": "週末美伊衝突升級 + 本週 CPI + Warsh testimony + Q2 財報季三連擊。週五 NVDA +4% 技術反彈係正面，但 macro uncertainty 仍然高。等週二 CPI 指路先決定方向。短期 DEFENSE 有 catalyst，OIL 唔好追 gap。Stay nimble。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-13",
+      "time": "21:29 HKT",
+      "status": "success",
+      "market_direction": "避險主導 — 美伊衝突升級至霍爾木茲關閉爭議，油價+3%，股市期貨下跌",
+      "headlines": [
+        "[RECENT] ACTION: OIL/USO — 伊朗宣稱霍爾木茲海峽關閉，美方否認但發動新一輪打擊",
+        "[RECENT] ACTION: MU — $22B AI記憶體客戶承諾+Goldman視為SpaceX AI最大贏家",
+        "[NEW] ACTION: C — 銀行Q2財報週，Citigroup最值得關注",
+        "[NEW] WATCH: SPY/QQQ — 美伊衝突打壓期貨，亞洲開盤料低開",
+        "[RECENT] WATCH: GLD — 美伊衝突vs加息預期雙向拉扯",
+        "[NEW] WATCH: DEFENSE — 美伊空襲升級+NATO峰會+Graham逝世"
+      ],
+      "opportunities": [
+        "OIL/USO: 不對稱風險 — Hormuz受阻可推油價再升10-15%，未受阻則3%升幅已反映",
+        "MU: $22B commitments = hard catalyst，AI記憶體需求確定性最高",
+        "C: Turnaround story，Q2業績可能觸發re-rating"
+      ],
+      "analysis": "美伊衝突由「週末互相空襲」升級至「霍爾木茲關閉爭議+攻擊海灣國家」。市場用緊有限度衝突框架定價，但如果Hormuz真係受阻，整個global supply chain受衝擊。本週二CPI+五大行財報係另一重大風險。",
+      "risks": [
+        "Hormuz證實受阻 → 油價spike + supply chain shock",
+        "週二CPI高於預期 → 加息預期升 + 股市受壓",
+        "銀行財報指引保守 → 經濟放緩憂慮"
+      ],
+      "my_take": "市場正在錯誤定價美伊衝突 — 用緊「有限度衝突」框架去理解一個正在擴大嘅地緣政治事件。MU係最確定嘅機會（$22B hard catalyst）。本週CPI+財報週係潛在volatility trigger。",
+      "key_takeaways": [
+        "美伊衝突質變：伊朗宣稱Hormuz關閉 ≠ 口水戰，係實質升級",
+        "MU $22B客戶承諾 = hard catalyst，唔係AI hype",
+        "本週二CPI+五大行財報 = 潛在volatility event",
+        "油價+3%反映市場buy美方narrative，但存在不對稱風險"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-13",
+      "time": "21:29 HKT",
+      "status": "success",
+      "market_direction": "Cautious with Negative Lean",
+      "headlines": [
+        "美伊週末新一輪互相空襲，Hormuz爭議升溫，油價跳升3%+",
+        "Q2財報週開跑 — JPM/NFLX/BAC/WFC/GS本週報告 + 週二CPI",
+        "NVDA 7年首次技術性買入信號，AI股回調討論升溫",
+        "本週HIGH events: CPI Tue + Warsh Testimony + PPI Wed + Retail Sales Thu"
+      ],
+      "focus": [
+        "NVDA — 回調後反彈 $210，等CPI確認",
+        "Defense sector — NATO峰會+伊朗雙catalyst",
+        "OIL — 唔追，已反映Hormuz risk"
+      ],
+      "analysis": "## Fed Context\n\nFOMC上次會議（6月16-17日）嘅minutes喺7月8日公佈，維持利率不變。會議記錄顯示委員對通脹回落速度存有分歧，部分委員認為需要更多data先可以判斷通脹係咪穩定回落至2%。市場定價緊7月28-29日FOMC有~60%機率維持不變，40%機率加息25bp。\n\n本週重點：星期二CPI（08:30PM HKT）+ Fed Chair Warsh國會作證（10:00PM HKT）。Warsh previous tone偏向hawkish，如果CPI意外高過預期，佢嘅testimony可能會reinforce加息預期。呢個係本週最大macro risk。\n\n---\n\n## 📰 今日重點頭條\n\n1. 🔥 **美伊週末新一輪互相空襲，Hormuz爭議升溫，油價跳升3%+**（Bloomberg/FT/NYT, 7/12）\n   → Related: USO, XLE, Defense sector\n\n2. 🔥 **Q2財報週開跑 — JPM/NFLX/BAC/WFC/GS本週報告 + 週二CPI**（CNBC, 7/12）\n   → Related: JPM, BAC, GS, WFC, C, NFLX, SPY\n\n3. ⚠️ **NVDA 7年首次出現技術性買入信號，AI股回調討論升溫**（Investing.com/Seeking Alpha, 7/12）\n   → Related: NVDA, SMH, QQQ\n\n4. ⚠️ **Apple起訴OpenAI商業秘密竊取，Musk vs Altman X平台交火**（CNBC/Yahoo Finance, 7/12）\n   → Related: AAPL, MSFT\n\n5. 📡 **Google自研AI晶片策略或比想像中更威脅NVDA**（Yahoo Finance, 7/12）\n   → Related: GOOGL, NVDA, AVGO\n\n6. 📡 **Goldman Sachs: SpaceX AI預測 — Micron係最大贏家，AI記憶體需求鎖定$22B**（247WallSt, 7/12）\n   → Related: MU\n\n7. 📡 **BlackRock BTC ETF $292M流入逆轉8週流出趨勢，BTC穩守$64K**（CoinDesk, 7/12）\n   → Related: BTC-USD, IBIT\n\n8. 📌 **Lindsey Graham逝世(71歲) + McConnell跌倒肺炎，參議院權力真空**（CNBC/BBC, 7/12）\n   → Related: US politics, defense policy\n\n9. 📌 **Amazon宣布$250億震撼消息 + 裁員潮持續**（FMP/CNBC, 7/12）\n   → Related: AMZN\n\n10. 📌 **MSFT押注自研AI模型，削減OpenAI/Anthropic依賴**（FMP, 7/12）\n    → Related: MSFT\n\n---\n\n## 🌍 隔夜市場\n\n- **美股週五收盤：** SPY $754.95（flat），QQQ $725.51（flat），DIA $525.78（flat）— quiet session ahead of earnings week\n- **亞洲時段：** 美伊衝突主導sentiment，日經-0.8%，恆指-1.2%，上海-0.5%。油價亞洲盤再升1.5%至$86+\n- **歐洲開市：** Defense stocks bid，Travel/leisure under pressure\n- **VIX：** 上週收~19，預計今日開市會spike至20+（伊朗風險溢價）\n- **Bonds：** 10Y yield 企穩~4.65%，市場等CPI確認方向\n- **Oil：** WTI跳至$86+（週末空襲+Hormuz爭議），Bloomberg同時出「market pricing in resilience」文章\n- **Gold：** 受加息預期打壓，$3,100水平掙扎\n- **BTC：** 無視地緣混亂穩守$64K，BlackRock ETF inflow逆轉係bullish signal\n\n---\n\n## 📈 上週五爆升／暴跌榜\n\n**Top Gainers（多為penny stocks，唔建議追）：**\n- LMFA +2488%（micro-cap squeeze，冇參考價值）\n- 真正值得留意嘅mover：NVDA +4.03% → $210.96，錄得穩健反彈\n\n**Top Losers（同上，幾乎全部penny stocks）：**\n- HAO -66%，SOBR -41% — typical micro-cap pump & dump\n\n**Most Active（更有參考價值）：**\n- SOXS（半導體做空ETF）— 反映semi sector bearish sentiment\n- DFNS（國防ETF）-18% — 但應該係reverse split / distribution影響\n- NVDA $210.96, chg +4.03% — 最活躍大型股，反彈勢頭\n- BITO（BTC ETF）— crypto相關資金活躍\n\n**Sector Theme：**\n- NASDAQ: Real Estate +1.55%, Tech +1.50% 領漲\n- Healthcare -1.67%, Industrials -1.62% 領跌\n- 明顯嘅rotation：資金流入科技/REITs，離開週期性板塊\n\n---\n\n## 📡 今日重點事件\n\n從 macro_calendar.json (SOURCE OF TRUTH)：\n\n**今日（7/13 Mon）：**\n- 🟡 05:25PM HKT — Fed Bowman Speech\n- 🟡 12:30AM HKT — Fed Waller Speech\n- 🟡 02:00AM HKT — Monthly Budget Statement (Jun) prev=-$293B, fcast=-$132.8B\n\n**明日（7/14 Tue）— HIGH IMPACT DAY：**\n- 🔴 08:30PM HKT — Core CPI YoY (Jun)\n- 🔴 08:30PM HKT — CPI YoY (Jun)\n- 🔴 08:30PM HKT — Core CPI MoM (Jun)\n- 🔴 08:30PM HKT — CPI MoM (Jun)\n- 🔴 10:00PM HKT — Fed Chair Warsh Testimony\n\n**本週其餘HIGH events：**\n- 🔴 Wed 7/15 08:30PM HKT — PPI MoM (Jun)\n- 🔴 Wed 7/15 10:00PM HKT — Warsh第二日testimony\n- 🔴 Thu 7/16 08:30PM HKT — Retail Sales MoM (Jun)\n- 🔴 Fri 7/17 08:30PM HKT — Housing Starts / Building Permits\n- 🔴 Fri 7/17 10:00PM HKT — Michigan Consumer Sentiment Prel (Jul)\n\nGeopolitical: 美伊新一輪空襲係最fresh catalyst，但呢個唔係新故事（Khamenei assassination已3週）。新變數係Hormuz爭議 — 如果真係有supply disruption，油價可以再升5-10%。但Bloomberg已經出文話「market pricing in resilience」，所以油價反應可能已被限制。\n\n---\n\n## 🔥 Sector Watch\n\n**🔥 OIL / ENERGY — 美伊Hormuz危機**\n- Bull: 衝突升級 + Hormuz choke-point威脅，supply disruption risk好real\n- Bear: 市場已經pricing in resilience，short-term spike後可能回調；OPEC+有備用產能\n- My view: WATCH ONLY — 唔追油。如果Hormuz真係有實質供應中斷先consider。Energy sector +0.07%上週五幾乎冇反應，反映市場唔信會斷供\n\n**🔥 DEFENSE — NATO本週峰會 + 美伊衝突**\n- Bull: 伊朗新一輪空襲 + NATO峰會可能有具體國防支出承諾\n- Bear: Defense sector本月已run up；DFNS ETF跌18%（但可能係technical因素）\n- My view: WATCH — NATO summit係potential catalyst，但已部分反映。LMT, NOC, RTX值得monitor\n\n**📡 TECH / AI — NVDA回調反彈 + 財報週**\n- Bull: NVDA +4.03%反彈，7年首次技術買入信號；Q2 earnings可能confirm AI capex trend\n- Bear: 信貸市場警告AI泡沫；GOOGL自研TPU、MSFT自研AI模型減少對NVDA依賴\n- My view: NEUTRAL with bullish lean — NVDA回調後估值更合理，但等CPI+銀行業績確認macro backdrop先。如果CPI benign + 銀行冇大鑊，AI股可以re-accelerate\n\n**📡 FINANCIALS — 銀行Q2財報第一槍**\n- 星期二JPM/BAC/GS/WFC/C全部report，係macro economy嘅晴雨表\n- Key to watch: loan growth, provision for credit losses, trading revenue, NII guidance\n- Financials上週五 -0.93%，可能係pre-earnings positioning\n- My view: WATCH — 銀行業績會set the tone for整個Q2 earnings season\n\n**📡 CRYPTO — BTC ETF inflow逆轉**\n- Bull: BlackRock IBIT $292M inflow逆轉8週流出；BTC穩守$64K\n- Bear: Stablecoin market cap跌$10B — bearish divergence\n- My view: WATCH — ETF inflow係genuine bullish signal，但stablecoin divergence令人concern。等BTC突破$66K先confirm trend change\n\n---\n\n## 🎯 Pre-market Opportunities（從News Curator Consolidate）\n\n1. 🎯 **NVDA** — 最值得monitor嘅ticker今日\n   - NC call: WATCH（7年首次技術買入信號 + Q2 earnings preview）\n   - My view: 同NC一致。NVDA $210回調後估值合理咗好多。上週五+4.03%係positive price action。唔急於action，等CPI clear + earnings確認。如果今日開市續升，可能confirm reversal\n   - Key level: $200 support, $220 resistance\n\n2. 📡 **OIL / USO** — Hormuz tension catalyst\n   - NC call: WATCH（唔建議追）\n   - My view: 同意。油價已跳3%+反映新一輪空襲。Bloomberg已經出\"pricing in resilience\"。除非Hormuz真係有物理中斷，否則short-term spike後回調風險高。PASS for now\n\n3. 📡 **DEFENSE sector** — 雙重catalyst（伊朗+NATO）\n   - NC call: WATCH（已部分反映）\n   - My view: 最有機會有follow-through嘅sector。LMT 7/23 report、RTX 7/23 report — earnings catalyst ahead。如果NATO峰會有具體支出數字，可以trigger另一波move。WATCH LMT/RTX/NOC\n\n4. 📡 **MU** — GS AI forecast最大贏家\n   - NC call: WATCH（$22B AI記憶體合約）\n   - My view: MU係AI infrastructure pure-play，基本面強。但semi sector整體回調中 — SOXS most active反映bearish sentiment。等sector stabilise先consider。WATCH\n\n5. 📡 **GOOGL** — 自研TPU威脅NVDA + 7/22 earnings\n   - NC call: WATCH\n   - My view: GOOGL自研TPU係NVDA長期風險但短期impact有限。GOOGL 7/22 report係下星期最關鍵earnings之一（$4.3T market cap）。如果Cloud + AI revenue acceleration，可能trigger整個AI sector rally。WATCH ahead of earnings\n\n6. ⚠️ **AAPL** vs OpenAI lawsuit\n   - NC call: NOTE（唔actionable）\n   - My view: 同意。Legal battle通常拖好耐，短期price impact有限。除非有injunction影響OpenAI運作。PASS\n\n7. 📡 **AMZN** — $25B消息未明\n   - NC call: WATCH（等細節）\n   - My view: 等$25B消息內容出街。如果係AI infrastructure investment，可能係positive catalyst。唔會pre-position冇details嘅消息。WATCH\n\n---\n\n## 📅 未來一個月業績重點\n\n**本週（7/13-7/17）：**\n| Date | Symbol | Market Cap | Est EPS | Note |\n|------|--------|-----------|---------|------|\n| Tue 7/14 | JPM | $886B | $5.52 | 🏦 銀行龍頭，macro bellwether |\n| Tue 7/14 | BAC | $414B | $1.13 | 🏦 Consumer banking exposure |\n| Tue 7/14 | GS | $304B | $14.47 | 🏦 Trading/IB revenue key |\n| Tue 7/14 | WFC | $262B | $1.73 | 🏦 Asset cap removal catalyst? |\n| Tue 7/14 | C 🎯 | $234B | $2.72 | 🏦 Tracked ticker |\n| Wed 7/15 | ASML | $682B | $7.98 | 🔧 Semi equipment bellwether |\n| Wed 7/15 | JNJ | $634B | $2.85 | 💊 Healthcare giant |\n| Thu 7/16 | TSM | $2,266B | $3.80 | 🔧 Semi manufacturing king |\n| Thu 7/16 | NFLX | $318B | $0.79 | 📺 Sub growth key |\n| Thu 7/16 | UNH | $387B | $4.84 | 💊 Managed care leader |\n\n**下週（7/20-7/24）：**\n| Date | Symbol | Market Cap | Est EPS | Note |\n|------|--------|-----------|---------|------|\n| Wed 7/22 | GOOGL 🎯 | $4,348B | $2.86 | 🔍 AI/Cloud revenue focus |\n| Wed 7/22 | TSLA | $1,527B | $0.28 | 🚗 Delivery + margin |\n| Wed 7/22 | NEE 🎯 | $182B | $1.08 | ⚡ Utility/clean energy |\n| Thu 7/23 | INTC 🎯 | $554B | $0.10 | 🔧 Turnaround story |\n| Thu 7/23 | BX 🎯 | $88B | $1.34 | 🏦 Alts AUM growth |\n| Thu 7/23 | LMT | $122B | $7.29 | 🛡️ Defense spending catalyst |\n\n**My take on earnings calendar:**\n- 本週係bank-heavy，銀行業績會set macro tone。如果provision上升或NII outlook弱，會係risk-off signal\n- TSM（星期四）係semi sector最重要嘅read — 佢嘅guidance直接影響NVDA/AMD/整個AI supply chain\n- 下週GOOGL係Mag7第一槍 — $4.3T market cap，earnings beat/miss可以move成個market\n- INTC下週report — 估值$554B但EPS只係$0.10，turnaround story仍有好大不確定性\n\n---\n\n## 📋 Today's Agenda\n\n- **本週catalyst schedule:**\n  - Mon: 美伊衝突消化 + Fed Bowman/Waller speeches\n  - Tue: 🔴 CPI + Warsh Testimony + JPM/BAC/GS/WFC/C earnings\n  - Wed: PPI + ASML/JNJ earnings + Warsh testimony day 2\n  - Thu: TSM/NFLX/UNH earnings + Retail Sales\n  - Fri: Housing data + Michigan Sentiment\n\n- **SPY key levels:** Support $740, Resistance $765, Major $720\n\n- **注：** 今日星期一係data-light day，真正action由星期二CPI+銀行業績開始。今日主要係消化週末伊朗消息+positioning ahead of big Tuesday\n\n---\n\n## 💡 My Take\n\n**Overall bias: CAUTIOUS with a NEGATIVE lean**\n\n1. **美伊衝突係今朝最fresh嘅catalyst，但係個陷阱。** Khamenei assassination以來已3週，市場已吸收咗大部分地緣風險溢價。新嘅Hormuz爭議係escalation，但Bloomberg已經出\"market pricing in resilience\" — 即係smart money唔認為會有actual supply disruption。追油係high-risk low-reward。\n\n2. **真正嘅risk唔係伊朗，而係星期二。** CPI + Warsh testimony + 5間大銀行earnings係triple-trigger。如果CPI意外高企，Warsh會用testimony reinforce hawkish stance，銀行earning若loan loss provision上升就會confirms macro slowdown。呢個組合可以trigger significant sell-off。\n\n3. **NVDA +4%反彈係positive signal但不能過度解讀。** 7年首次技術買入信號係genuine contrarian indicator，但AI股回調可能仲未完。Q2 earnings season先係真正test — Mag7 set high bar，如果guidance唔夠強，回調會加深。\n\n4. **最有機會嘅alpha play係defense，唔係oil。** NATO峰會 + 伊朗衝突 = defense spending catalyst。LMT 7/23 earnings可以係另一個trigger。但要小心 — defense已run up，入場需要timing。\n\n5. **BTC ETF inflow逆轉係genuinely bullish但需要confirmation。** $292M inflow破8週流出趨勢，但stablecoin market cap跌$10B係矛盾signal。等BTC突破$66K先confirm trend change。\n\n**Bottom line:** 今日係wait-and-see day。消化週末美伊消息，position for星期二CPI+earnings blast。唔好chase oil spike，留意defense sector嘅NATO catalyst。NVDA回調後開始有value，但等macro backdrop confirm先action。如果CPI良性 + 銀行冇大鑊 → 可以加risk。如果CPI hot + Warsh hawkish → reduce exposure。\n\n**一句總結：油唔追，國防可睇，AI等CPI，現金唔係最差選擇。**",
+      "risks": [
+        "CPI意外高企 + Warsh hawkish = market sell-off",
+        "銀行earnings若provision上升，confirm macro slowdown",
+        "美伊Hormuz供應中斷risk（low prob但high impact）"
+      ],
+      "my_take": "CAUTIOUS/NEGATIVE lean — 今日係wait-and-see day，真正action係星期二CPI+銀行earnings+Warsh testimony triple-trigger。美伊衝突係陷阱唔好追油。Defense sector最有機會有follow-through（NATO峰會）。NVDA回調後開始有value但等macro backdrop確認。現金唔係最差選擇。"
     }
   ],
   "news_curator": [
