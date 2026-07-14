@@ -2972,6 +2972,71 @@
         "美伊Hormuz供應中斷risk（low prob但high impact）"
       ],
       "my_take": "CAUTIOUS/NEGATIVE lean — 今日係wait-and-see day，真正action係星期二CPI+銀行earnings+Warsh testimony triple-trigger。美伊衝突係陷阱唔好追油。Defense sector最有機會有follow-through（NATO峰會）。NVDA回調後開始有value但等macro backdrop確認。現金唔係最差選擇。"
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-07-14",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "Stagflation-lite risk-off: oil surges past $80 (+9%), stocks+bonds both drop, gold falls below $4,000 on rate hike fears, USD surges. Waller warns of near-term hike if CPI/PPI hot.",
+      "headlines": [
+        "[RECENT] ACTION: USO/XLE - Trump reimposes Iran blockade + 20% Hormuz toll, ceasefire collapses, oil past $80",
+        "[NEW] ACTION: NVDA/AMD - TSMC sales +36% vs memory plunge, AI designers benefit from divergence",
+        "[NEW] ACTION: LMT - $100B backlog + Golden Dome satellites + 3rd night of strikes",
+        "[RECENT] WATCH: SPY/QQQ/TLT - Waller explicit hike warning, this week CPI is binary event",
+        "[RECENT] WATCH: GLD - Drops below $4,000, rate hike fears overwhelm safe-haven demand"
+      ],
+      "opportunities": [
+        "USO/XLE: Hormuz 20% toll structurally changes global shipping costs, but 9% move largely priced in, wait for pullback",
+        "NVDA/AMD: TSMC foundry demand strong is leading indicator for AI chips, structural positive",
+        "LMT: $100B backlog provides multi-year visibility, buy on pullbacks"
+      ],
+      "analysis": "US session theme is Stagflation-lite risk-off. Oil +9% + Waller hike threat caused stocks, bonds, and gold to all sell off. Trump escalated Hormuz to economic warfare (20% toll). This week CPI/PPI is most important macro data of 2026. Defensive posture, wait for data.",
+      "risks": [
+        "CPI/PPI hot => Waller delivers hike threat => broad market sell-off",
+        "Hormuz conflict escalates further => oil could spike to $90+",
+        "Bank earnings miss + CPI hot = double hit to financials"
+      ],
+      "my_take": "Macro-driven week. Waller made CPI a binary event. Energy + Defense have macro tailwinds but already run up. Wait for CPI/PPI before deciding direction. TSMC confirms AI structural demand but drowned out by macro. AAPL is the only quality rotation winner.",
+      "key_takeaways": [
+        "Trump Hormuz 20% toll = structural change to global shipping costs",
+        "Waller explicit hike threat = this week CPI is 2026 most important data point",
+        "TSMC +36% = AI demand intact, but memory stocks dragging sentiment",
+        "Gold below $4K + stocks/bonds both down = rare correlation breakdown",
+        "Defensive posture: wait for CPI/PPI. Energy + Defense only tailwind sectors"
+      ]
+    },
+    {
+      "pipeline": "Evening Review",
+      "date": "2026-07-14",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "Stagflation-lite risk-off: SPY -0.77%, QQQ -1.9%, GLD -2.6%, USO +8.4%. Waller hike warning + Hormuz conflict double hit. VIX +14% to 17.16.",
+      "headlines": [
+        "Trump restores Iran Hormuz blockade + 20% cargo toll, USO +8.4%, oil breaks $80",
+        "Waller: if this week CPI hot again, need near-term rate hike, GLD below $4K",
+        "Nasdaq -1.9%: SK Hynix drags memory/semis, QQQ leads decline",
+        "TSMC sales +36% YoY confirms AI foundry demand strong",
+        "Iran warns regional countries: cooperation with US = war",
+        "LMT $100B backlog + Golden Dome satellites accelerating",
+        "California + 12 states sue to block PARA-WBD $110B merger",
+        "ANET CEO sells $45.6M shares at ATHs"
+      ],
+      "opportunities": [
+        "DEFENSE (LMT/XLE): structural long - Hormuz conflict + Golden Dome multi-year catalyst, wait for pullback",
+        "OIL (USO): momentum strong but +9% priced in, wait for $112-114 pullback",
+        "AAPL: safest Mag7, Siri AI rollout + rotation tailwind, wait for CPI directional clarity",
+        "C/JPM: Q2 earnings play, must wait post-CPI - pre-CPI positioning too speculative"
+      ],
+      "analysis": "Evening Review - 7/13 (Mon)\n\nFed Context\nThis week is macro super-week: today CPI + Warsh testimony, tomorrow PPI + Warsh testimony Day 2. Waller explicitly stated \"if core CPI is hot again this week, need to consider rate hike in near term\" -- turning CPI from ordinary data into a binary event. Fed announced monetary policy task forces on Jul 9 (inflation target range 1.5-2.5%?). Warsh testimony today may reveal more framework reform direction. Next FOMC: Jul 28-29.\n\nToday's Top Headlines\n\n1. CRITICAL: Trump orders Hormuz blockade + 20% cargo toll\n   Trump on Truth Social: \"Hormuz Strait is open and will remain open with or without Iran. Reinstating Iranian blockade. USA will be 'Guardian of Hormuz Strait' but reimbursed at 20% on all cargo shipped.\" CENTCOM confirmed effective Jul 14. Iran's top military command: \"Any US attempt to transit without Iran authorization will be strongly confronted.\" USO +8.36%, XLE +3.01%.\n   Source: Benzinga/Reuters/BBC - NC captured\n\n2. CRITICAL: Waller hike warning rattles markets\n   \"If I get another higher inflation reading, I'll treat that as signal, not noise\" + \"need to consider rate hike in near term.\" GLD -2.62%, TLT -0.6%, USD +0.4%.\n   Source: Benzinga/Wolf Street - NC captured\n\n3. Nasdaq leads decline, SK Hynix drags semis\n   SK Hynix Nasdaq debut followed by memory oversupply fears. XLK -2.42%, QQQ -1.90%.\n   Source: Yahoo/SeekingAlpha - NC captured\n\n4. TSMC sales +36% YoY, AI foundry demand strong\n   But memory stocks plunging creates divergence. NVDA/AMD as fabless designers structurally benefit.\n   Source: 247WallSt - NC captured\n\n5. Iran warns regional countries: cooperation with US = war against Iran\n   Iran's top joint military command statement. Escalation risk very high.\n   Source: Reuters - NC raw news\n\n6. Big banks Q2 earnings this week\n   C/JPM/WFC reporting. Mayo names Citi as top pick.\n   Source: Bloomberg - NC captured\n\n7. LMT $100B backlog + Golden Dome satellites acceleration\n   L3Harris + Sierra Space awarded 36 tracking satellites.\n   Source: 247WallSt - NC captured\n\n8. California leads 12 states in lawsuit to block PARA-WBD $110B merger\n   Antitrust risk moves from rumor to actual legal action.\n   Source: Benzinga - NC captured\n\n1. Market Recap\n\nSPY 749.17 (-0.77%) | QQQ 711.74 (-1.90%) | DIA 524.47 (-0.25%) | VIX 17.16 (+14.2%)\n\nSector Performance (vs Jul 10):\n  Winners: USO +8.36% (biggest single-day oil jump since 2020), XLE +3.01%, XLU +0.68% (defensive rotation)\n  Losers: GLD -2.62% (gold below $4,000), XLK -2.42% (SK Hynix + rate hike fears), XLY -1.02%, IWM -0.85%\n\n5-Day Winners: USO +8.14%, XLE +3.84%, XLK +1.17% (but Friday gains fully reversed)\n5-Day Losers: GLD -2.74%, XLV -1.84%, XLB -1.81%\n\nVolume slightly elevated (SPY 43.4M vs avg ~41M) but not panic selling.\n\n2. Notable Movers\n\nStagflation-lite correlation confirmed: Stocks down, Bonds down, Gold down, USD up, Oil up -- rare simultaneous sell-off across all traditional safe havens. Waller's hike warning overwhelmed geopolitical safe-haven demand.\n\nNasdaq -1.9% vs Dow -0.25%: Clear rotation out of tech into defensives + energy.\nGLD below $4,000: $367.13 GLD = spot ~$3,870. Hot CPI next stop $3,800; cool CPI could see fast rebound.\nVIX spiked from 15.03 to 17.16: +14% single day but still below 20 \"fear\" threshold. Market not yet fully pricing Iran escalation.\nANET CEO sells $45.6M shares: Probably 10b5-1 but timing at ATHs + size notable. Watch for more insider selling.\nORCL near 52-week low: $134 support test.\n\n3. News Curator Call Accuracy\n\nHIT: USO/XLE - Iran blockade + Hormuz toll -> USO +8.36%, XLE +3.01%\nHIT: SPY/QQQ/TLT - Waller hike warning, CPI binary -> QQQ -1.9%, TLT -0.6%, GLD -2.6%\nHIT: GLD - gold below $4K -> GLD $367.13\nPARTIAL: NVDA/AMD - TSMC +36% benefit -> AI demand confirmed but macro headwind dominant\nHIT: AAPL - safe haven -> AAPL relatively stable in risk-off\nHIT: LMT - $100B backlog, defense catalyst -> defense sector strength confirmed\nNEW: ANET CEO sells $45.6M -> market still digesting\n\nNC missed / uncovered:\n- Iran \"cooperation = war\" warning to regional states - escalation beyond NC initial assessment\n- Dubai plans new port to bypass Hormuz - long-term structural response worth tracking\n- FCC cutting satellite approval lag - positive for LMT/satellite plays\n\n4. Opportunities Carry Forward\n\nDEFENSE (LMT, XLE) - structural long, buy dips\nHormuz conflict is not a one-off event. Trump \"Guardian of Hormuz\" rhetoric + 20% toll = permanent shift in global shipping cost structure. Golden Dome satellite acceleration = multi-year procurement cycle. LMT $100B backlog = earnings visibility through 2030s. Strategy: wait for pullback (XLE already +3%, USO +8.4%), do not chase. Hot CPI = broad sell-off = better entry.\n\nOIL (USO, XLE) - momentum strong but wait\n9% single-day move is hard to sustain. But Hormuz 20% toll if implemented = shipping cost doubling = structural change. OPEC lowered 2026 demand forecast to 780K bpd - supply shock vs demand downgrade, direction depends on Hormuz. Strategy: pullback to USO $112-114 range (pre-spike level) before considering entry.\n\nAAPL - safest Mag7, wait for macro clarity\nSiri AI rollout positive + safe-haven rotation tailwind. But if SPY drops 2-3%, AAPL will follow. OpenAI lawsuit risk unresolved. Strategy: wait for CPI directional clarity.\n\nC/JPM - Q2 earnings play post-CPI\nBank earnings this week. Cool CPI + earnings beat = bank rally. Citi named top pick by Mayo. Strategy: decide after CPI. Do not pre-position.\n\n5. Risks / Watchlist\n\nCRITICAL TONIGHT: CPI (8:30pm HKT) - binary event\nCore Inflation Rate YoY (Jun) + MoM - most important data point, Waller explicitly tied to rate hike decision.\nIf MoM core >0.3% = hike odds surge = broad sell-off.\nIf MoM core <=0.2% = relief rally.\n\nCRITICAL TONIGHT: Fed Chair Warsh Testimony (10pm HKT)\nDay 1 of Humphrey-Hawkins. Market watching: Warsh response to Waller's hike comments + inflation target framework reform. Warsh is hawkish, but testimony tone may be milder than Waller.\n\nCRITICAL: Hormuz overnight escalation risk\nTrump: \"hitting them hard tonight, tomorrow.\" Iran: \"any US transit without Iran authorization = confrontation.\" Direct military conflict risk extremely high - 3rd straight night of airstrikes.\n\nTomorrow: PPI (8:30pm HKT) + Warsh Day 2\nPPI MoM equally critical - hot PPI confirming CPI signals = hike odds rise further.\n\nGLD / TLT vulnerability\nHot CPI: GLD could drop to $360 ($3,800 gold), TLT below $83.\nCool CPI: aggressive reversal possible but needs multiple months of evidence to reverse Waller's \"signal not noise\" stance.\n\n6. My Take\n\nToday was classic stagflation-lite risk-off: stocks, bonds, gold all fell together while oil surged alone. This correlation structure can only hold until first macro clarity arrives. Tomorrow's CPI will be the resolution point.\n\nKey insight: Waller turned CPI from a data point into a policy trigger. He didn't say \"we'll watch the data\" - he said \"if it's hot again, we need to hike.\" This is explicit forward guidance, not standard hawkish commentary. The market must treat this week's CPI as a binary event.\n\nNC hit nearly all calls today - directionally correct, especially the \"stagflation-lite risk-off\" framing + energy/defense opportunity capture. Only miss was underestimating escalation velocity (Iran 3rd night strikes + \"cooperation=war\" rhetoric).\n\nTomorrow's bias: NEUTRAL with bearish skew. No one positions aggressively before CPI. Hot CPI = watch SPY 740 support. Cool CPI = watch SPY 760 resistance. But even if CPI is cool, Warsh testimony still ahead + PPI next day = won't lift all risk in one day.\n\nStrategy: \"Stay alive, don't be a hero\" week. Wait for data to speak, don't pre-position. DEFENSE and ENERGY are the only macro tailwind sectors, but both have already run up - wait for pullback.",
+      "risks": [
+        "CRITICAL TONIGHT 8:30pm CPI: Waller explicitly tied to hike decision - binary event",
+        "CRITICAL TONIGHT 10pm Warsh testimony: Day 1 Humphrey-Hawkins, inflation framework reform",
+        "CRITICAL: Hormuz overnight escalation - Trump \"hitting them hard\", Iran \"cooperation=war\"",
+        "GLD/TLT vulnerability: hot CPI = GLD to $360, TLT to $83",
+        "Tomorrow PPI + Warsh Day 2: continued macro event flow"
+      ],
+      "my_take": "Waller made this week's CPI an explicit rate hike trigger -- this is not a normal macro week, it's a binary event week. NC hit almost all calls: stagflation-lite risk-off framework confirmed (stocks/bonds/gold all down, oil alone up). Hormuz conflict escalated to 'cooperation with US = war' level. Tonight's CPI + Warsh testimony decides near-term market direction. Strategy: stay defensive, wait for data to speak."
     }
   ],
   "news_curator": [
