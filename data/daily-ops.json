@@ -3037,6 +3037,69 @@
         "Tomorrow PPI + Warsh Day 2: continued macro event flow"
       ],
       "my_take": "Waller made this week's CPI an explicit rate hike trigger -- this is not a normal macro week, it's a binary event week. NC hit almost all calls: stagflation-lite risk-off framework confirmed (stocks/bonds/gold all down, oil alone up). Hormuz conflict escalated to 'cooperation with US = war' level. Tonight's CPI + Warsh testimony decides near-term market direction. Strategy: stay defensive, wait for data to speak."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-14",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "伊朗霍爾木茲戰事升級+銀行Q2業績+CPI今晚 — 2026年最密集交易日",
+      "headlines": [
+        "[NEW] ACTION: USO/XLE/CVX — 續報：伊朗襲擊UAE油輪，霍爾木茲戰事升級，油價$87",
+        "[NEW] ACTION: JPM — 創美國銀行史上最高季度利潤，股票交易+86%",
+        "[NEW] ACTION: IBM — Q2預警-17%，AI支出轉移衝擊傳統IT",
+        "[NEW] WATCH: CVX/SLB/LBRT — 油服跨界AI數據中心電力",
+        "[RECENT] WATCH: GLD — CPI+Warsh，黃金$4,000整固",
+        "[NEW] WATCH: BAC/WFC — 銀行業績參差",
+        "[RECENT] WATCH: AAPL — ATH + KeyBanc downgrade"
+      ],
+      "opportunities": [
+        "OIL: Hormuz escalation confirmed, +7% in 2 days. Risk-reward worse at $87 but direction correct.",
+        "JPM: Record profit, structural catalyst (war vol + IPO pipeline). Wait for pullback.",
+        "IBM: AI capex shift warning for ORCL/CRM — not a buy signal."
+      ],
+      "analysis": "能源倉keep，銀行selective（JPM only），其他等CPI後方向。今日觀察日，唔係執行日。CPI >3.8% = 加息恐慌，CPI <3.6% = risk-on rally。",
+      "risks": [
+        "CPI >3.8% → 加息恐慌 → 股債雙殺",
+        "Hormuz ceasefire headline → 油價可即跌$5",
+        "銀行股sell the news — BAC beat但跌"
+      ],
+      "my_take": "Energy position keep, banks selective (JPM only), everything else wait for CPI. Four macro catalysts colliding — CPI, Warsh, bank earnings, Hormuz — creates maximum uncertainty. Don't pre-position.",
+      "key_takeaways": [
+        "Oil thesis confirmed but chase risk elevated at $87",
+        "JPM the clear bank winner with structural tailwinds",
+        "IBM -17% = AI capex shift warning for enterprise IT",
+        "CPI tonight resolves all binary uncertainty",
+        "CVX/SLB entering AI power = new structural theme"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-07-14",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral - wait for CPI",
+      "headlines": [
+        "CPI Jun forecast 3.8% (prev 4.2%)",
+        "IBM -17% AI capex shift",
+        "JPM record profit",
+        "Hormuz escalation oil 87",
+        "Warsh testimony 10pm HKT"
+      ],
+      "focus": [
+        "Energy XLE/CVX",
+        "Banks JPM selective",
+        "Semis TSM Thu earnings",
+        "Tech cautious IBM spillover"
+      ],
+      "analysis": "MS|Morning Scan|2026-07-14|20:34 HKT\nFED|June 16-17 FOMC minutes released Jul 8: rates held 4.25-4.50%. PCE Apr=3.8%, May est=4.1%. Core PCE Apr=3.3%, May est=3.4%. GDP solid, AI driving investment. Unemployment 4.3%. Next FOMC Jul 28-29.\nHEADLINES|IBM -17% Q2 warning AI spending shift|JPM record profit bank earnings|TSM tone-setting chip sector earnings Thu|Oil 7 Hormuz escalation|CPI Jun forecast 3.8% tonight\nMARKET|SPY 749.17 (-0.77%)|QQQ 711.74 (-1.90%)|DIA 524.47 (-0.25%)|VIX low, 10Y +50bp since Iran conflict|Oil 7, Gold 000\nGAINERS|VEEE +416%|SOBR +177%|QTTB +91%|AGEN +83%|FTRK +49%\nLOSERS|BNBX -57%|DWSN -42%|MTNB -36%\nACTIVE|SOXS +14% semis short|BITO -2.7%|SOBR +177% penny\nMACRO|CPI 8:30PM HKT fcast 3.8% prev 4.2%|Core CPI 8:30PM fcast 2.8% prev 2.9%|Warsh testimony 10PM HKT|PPI Wed|Retail Sales Thu\nSECTORS|Energy XLE/CVX strongest Hormuz|Banks JPM selective record profit|Tech QQQ weak IBM spillover|Gold GLD 000 consolidation|Semis TSM earnings key\nOPPORTUNITIES|USO/XLE/CVX pullback buy oil thesis confirmed|JPM structural catalyst wait for dip|IBM not buy AI capex warning ORCL/CRM\nWATCH|CVX/SLB AI data center power theme|GLD CPI directional catalyst|TSM Thu earnings path to 00|AAPL ATH + downgrade\nEARNINGS_THIS_WEEK|Tue JPM BAC GS WFC C|Wed ASML JNJ MS BLK|Thu TSM 252B UNH GE NFLX|Fri TRV HDB\nEARNINGS_NEXT_WEEK|Wed GOOGL 328B TSLA IBM|Thu INTC 52B BX RTX TMUS|Fri AXP NEE VZ SLB\nRISKS|CPI > 3.8% rate hike panic|Hormuz ceasefire oil drop |Warsh hawkish + CPI hot double hit|Bank earnings sell-the-news\nAGENDA|8:30PM CPI main event|10PM Warsh testimony|Thu TSM positioning start|SPY support 741/730 resistance 755/760\nMYTAKE|Neutral-to-cautious. Four macro catalysts colliding (CPI+Warsh+banks+Hormuz) - observation day not execution day. CPI forecast 3.8% likely in-line to slightly better, short-term positive. Energy keep, banks selective JPM only, tech cautious. Wait until after 9pm to act.\n",
+      "risks": [
+        "CPI more than 3.8% rate hike panic",
+        "Hormuz ceasefire oil drop",
+        "Warsh hawkish plus CPI hot",
+        "Bank sell-the-news"
+      ],
+      "my_take": "Neutral-to-cautious. Observation day not execution day. CPI 3.8% likely in-line. Energy keep, banks selective, tech cautious."
     }
   ],
   "news_curator": [
