@@ -3102,42 +3102,6 @@
       "my_take": "Neutral-to-cautious. Observation day not execution day. CPI 3.8% likely in-line. Energy keep, banks selective, tech cautious."
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-15",
-      "time": "08:16 HKT",
-      "status": "success",
-      "market_direction": "SPY +0.36%, QQQ +1.12% — CPI cooling + bank earnings beat, but IBM -25% drags DIA. Oil whipsaw on Hormuz. AI spending debate intensifies.",
-      "headlines": [
-        "[RECENT] ACTION: IBM -25% aftermath — cybersecurity rally, AI enterprise spending rethink",
-        "[RECENT] WATCH: NY bans AI data centers — structural risk for MSFT/AMZN/GOOGL",
-        "[RECENT] ACTION: USO/XLE — Hormuz blockade restarts, Trump scraps 20% fee, oil whipsaw",
-        "[RECENT] WATCH: Bank earnings smash records — but tectonic risks loom",
-        "[RECENT] WATCH: CPI 3.5% — rate cut bets surge, but 7月 CPI may rebound on oil",
-        "[NEW] WATCH: NFLX earnings this week — options pricing 8% move",
-        "[RECENT] WATCH: AI spending debate — Cramer vs Chamath, rotation from infra to security"
-      ],
-      "opportunities": [
-        "Cybersecurity rotation: CRWD/PANW受益於AI security spending shift（IBM Krishna comments）",
-        "Oil whipsaw: Take profit on energy longs, wait for Hormuz clarity before re-entry",
-        "Data center supply constraint: DLR/EQIX benefit from NY ban — existing capacity premium"
-      ],
-      "analysis": "今日係typical \"good macro, bad micro\" day。CPI cooling + bank earnings beat推動QQQ +1.12%，但IBM -25%係AI enterprise spending嘅warning shot。最大嘅結構性變化係AI spending narrative fracture — 資金由AI infrastructure（chips, data centers）轉向AI security（cybersecurity）。NY data center ban加成呢個rotation。Iran/Hormuz持續混亂但Trump scraps cargo fee限制油價upside — oil可能見短頂。Bank earnings beat但market已priced in。NFLX earnings係下個catalyst。",
-      "risks": [
-        "IBM AI spending warning可能擴散到ORCL/CRM等enterprise software",
-        "NY data center ban如果被其他blue states跟隨 = AI capex narrative重大headwind",
-        "Hormuz blockade若影響actual tanker traffic → oil spike to $95+",
-        "7月CPI可能反彈（gasoline prices回升）→ rate cut bets unwind"
-      ],
-      "my_take": "AI spending rotation係最值得關注嘅structural shift。唔好chase overbought AI infra, consider rotation to AI security。Oil take profit等Hormuz clarity。Bank earnings season peak已過 — focus轉向NFLX + tech earnings。",
-      "key_takeaways": [
-        "IBM -25% = AI enterprise spending warning → rotation from infra to security",
-        "NY AI data center ban = structural headwind for hyperscaler capex",
-        "CPI 3.5% = tactical relief, not all-clear（7月可能反彈）",
-        "Hormuz blockade restart → oil whipsaw, take profit on energy",
-        "NFLX earnings this week = consumer spending bellwether"
-      ]
-    },
-    {
       "pipeline": "evening-review",
       "date": "2026-07-15",
       "time": "08:30 HKT",
@@ -3163,6 +3127,67 @@
         "Tomorrow Retail Sales 8:30pm -- consumer spending pulse, stagflation fear if miss"
       ],
       "my_take": "CPI cooling = risk-on but IBM -25% = AI rotation signal. Cybersecurity (CRWD/PANW) is the biggest structural opportunity. Tonight Fed Warsh testimony 10pm HKT is the largest single event risk -- hawkish pushback likely, avoid heavy tech exposure overnight. Tomorrow bias: cautious neutral."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-15",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "CPI 3.5% soft landing narrative + Iran/Hormuz escalation + PYPL $53B takeover bid dominates",
+      "headlines": [
+        "[RECENT] ACTION: PYPL - Stripe+Advent $53B takeover bid, +20% premarket",
+        "[RECENT] ACTION: ASML - Q2 beat + 2nd guidance raise on AI demand",
+        "[RECENT] WATCH: Iran/US - daytime strikes, Iran threatens MORE trade routes",
+        "[RECENT] WATCH: GOOGL - Buffett initiated Berkshire stake",
+        "[RECENT] WATCH: Japan crypto overhaul passed",
+        "[RECENT] NOTE: PPI today - key macro catalyst"
+      ],
+      "opportunities": [
+        "PYPL: $53B bid = ~$88/share. Bidding war upside. Largest fintech catalyst today.",
+        "ASML: Semi bellwether confirms AI demand structural. Positive read-through NVDA/TSM/AMAT."
+      ],
+      "analysis": "Asia/Euro session dominated by PYPL takeover bid (broke overnight US), ASML earnings beat confirming AI demand, and Iran/US escalation with oil hitting $80. PPI today is the macro event to watch.",
+      "risks": [
+        "Iran/Hormuz escalation could push oil to $90+ if expands beyond Hormuz",
+        "PPI sticky could reverse post-CPI risk-on rally",
+        "Tether Iran freezes raise stablecoin regulatory risk"
+      ],
+      "my_take": "PYPL takeover bid is the dominant catalyst. ASML guidance raise confirms AI not a bubble. Iran/Hormuz is the wildcard. PPI is today's macro inflection point.",
+      "key_takeaways": [
+        "PYPL $53B bid, +20%, could spark fintech revaluation",
+        "ASML 2nd guidance raise = AI structural demand confirmed",
+        "Iran escalation at 24h+ but threatens to expand beyond Hormuz",
+        "Japan crypto overhaul = structural positive for BTC/ETH",
+        "PPI today determines rate path direction"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-07-15",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish",
+      "headlines": [
+        "PYPL +20% - Stripe+Advent $53B takeover bid",
+        "ASML Q2 beat + guidance raise on AI demand",
+        "Iran/US escalation - daytime strikes, Hormuz risk",
+        "Buffett confirms Berkshire GOOGL stake",
+        "PPI + Warsh Testimony macro double-header",
+        "NVDA +4% - AI trade re-accelerating",
+        "TSM earnings tomorrow - $2.2T catalyst"
+      ],
+      "focus": [
+        "PYPL fintech M&A",
+        "ASML/TSM semi earnings",
+        "PPI + Warsh macro inflection"
+      ],
+      "analysis": "## Fed Context - Macro Backdrop\n\n### FOMC Minutes (Jun 16-17) Released Jul 8\nLatest FOMC minutes confirm: June meeting held rates unchanged, but internal division on H2 rate cut path is widening. Multiple members see inflation declining slower than expected, need more data confirmation. Labor market remains strong but showing moderation signs.\n\nKey: minutes reference Warsh task forces formally announced Jul 9 - new Chair restructuring Fed internally. Market assessing impact on policy continuity.\n\n### Today: Fed Chair Warsh Testimony (10:00PM HKT)\nMost important macro event today. Warsh first testimony as Chair. Market focused on:\n- Latest inflation assessment (CPI 3.5% soft landing vs vigilance)\n- Any rate cut timeline hints\n- Stance on bank regulation, tariffs, fiscal policy\n- Warsh has hawish background but tone softening since taking office?\n\n### Next FOMC: Jul 29-30\nTwo weeks away. Today PPI + Warsh testimony are the last major macro inputs before blackout.\n\n### 10Y Yield: 4.585%\nBond market stable, no panic. Pricing in September rate cut probability.\n\n---\n\n### Today Top Headlines\n\n1. PYPL +20% premarket - Stripe + Advent 3B takeover bid (CNBC/FT/Bloomberg)\n   Largest fintech M&A ever. 3B = ~8/share. PYPL has not responded. If bidding war emerges, entire fintech sector revalues.\n\n2. ASML Q2 beat + second guidance raise this year on AI chip demand (CNBC/FT)\n   AI structural demand confirmed beyond doubt. ASML +3%. Positive read-through: NVDA, TSM, AMAT, LRCX.\n\n3. Iran/US escalation - daytime strikes, Iran threatens MORE trade routes (CBS/BBC/ABC)\n   Oil at 0, 1-month high. If conflict expands to Bab el-Mandeb, oil could spike to 0+.\n\n4. Buffett confirms Berkshire initiated GOOGL stake (CNBC)\n   Rare Buffett tech bet after AAPL. Long-term structural positive, limited near-term catalyst.\n\n5. Japan passes crypto legislation - crypto recognized as financial assets\n   3rd largest economy legitimizing crypto. Structural bullish for BTC/ETH/COIN.\n\n6. MS earnings out - mixed results, IBD strong but trading desk weak.\n\n7. WTI 9.77 - Iran premium supports but TradingView shows bearish reversal setup.\n\n8. NVDA +4.06% - most active large cap, AI trade re-accelerating.### Overnight Markets\n\nSPY: 51.83 (+0.36%)\nQQQ: 19.71 (+1.12%)\nDIA: 24.69 (+0.04%)\nVIX: 16.40\n10Y Yield: 4.585%\nWTI Oil: 9.77 (1-mo high on Iran)\nGold: ,045.60\n\nTake: QQQ outperformance (+1.12%) vs DIA flat (+0.04%) = tech leadership, risk-on tilt. VIX at 16.4 seems too low - market not fully pricing Iran tail risk + Warsh testimony uncertainty.\n\n---\n\n### Yesterday Biggest Movers\n\nTop Gainers: Mostly micro-cap biotech/energy - no signal value. NXTC +202%, CNEY +56%, VEEE +55% - all sub-00M names.\n\nNotable Losers:\n- IBM -25.2% (17) - anomalous, likely corporate action (spin-off dividend adjustment), not organic sell-off\n- LESL -41.1% - pool supplies, likely earnings miss\n- LCID -16.2% (.62) - EV sector confidence crisis continues\n\nMost Active:\n- NVDA +4.06% (11.80) - AI leader strong recovery\n- LCID -16.2% - high volume sell-off\n- NU +2.34% - Brazilian fintech stays strong\n\n---\n\n### Today Key Events (HKT)\n\n07:00PM - MBA 30-Yr Mortgage Rate (prev 6.58%) [MED]\n08:30PM - PPI MoM (Jun) prev 1.1% [HIGH]\n08:30PM - Core PPI MoM (Jun) prev 0.4%, fcast 0.4% [MED]\n08:30PM - NY Empire State Mfg (Jul) prev 5.7, fcast 8.8 [MED]\n08:45PM - Fed Williams Speech [MED]\n10:00PM - Fed Chair Warsh Testimony [HIGH]\n10:30PM - EIA Crude Oil Stocks (prev +3.0M, fcast -2.6M) [MED]\n01:00AM - Fed Cook Speech [MED]\n\nPPI + Warsh testimony = macro double-header. PPI soft (CPI 3.5% already supportive) = rate cut bets surge. Warsh hawish = can completely offset. Two events 90 minutes apart - volatility spike inevitable.\n\n---\n\n### Sector Watch\n\nYesterday NASDAQ sector performance:\n+ Comm Services: +1.86% (GOOGL Buffett bid boost?)\n+ Cons Cyclical: +0.18%\n- Real Estate: -1.44%\n- Utilities: -1.37%\n- Industrials: -1.33%\n- Healthcare: -1.15%\n\nSignal: Defensive rotation OUT (utilities, real estate, healthcare all red), growth/tech bid IN. Risk-on posture.\n\nToday sector focus:\n1. Semi/AI: ASML beat + NVDA +4% = entire semi supply chain gets bid. TSM earnings tomorrow bigger catalyst.\n2. Fintech: PYPL takeover bid is sector-defining. If PYPL accepts or bidding war, SQ, SOFI, AFRM all revalue.\n3. Energy: Iran premium supports but WTI technical bearish reversal. EIA 10:30PM is catalyst.\n4. Financials: MS earnings today. Bank earnings season winding down.---\n\n### Pre-market Opportunities (from News Curator)\n\nACTION Items:\n\nPYPL - Stripe + Advent 3B takeover bid\n- Bid ~8/share, premarket +20%\n- Bull case: Bidding war (other PE/strategic), or PYPL rejects -> standalone value\n- Bear case: Deal collapses, PYPL back to 0s\n- My call: Biggest single-stock catalyst today. Premarket +20% means risk/reward less attractive. WATCH, do not CHASE. If Warsh drags market for pullback, then consider.\n- Sector read-through: If deal closes, fintech M&A accelerates. SQ, SOFI, AFRM all get takeover premium.\n\nASML - Q2 beat + guidance raise\n- AI structural demand confirmed, semi equipment is ultimate bottleneck\n- Direct read-through: NVDA, TSM, AMAT, LRCX\n- My call: TSM earnings tomorrow is bigger sector catalyst. ASML beat is the prelude.\n\nWATCH Items:\n\nGOOGL - Buffett Berkshire stake\n- Structural positive but limited near-term price action\n- GOOGL Jul 22 earnings (.86 est) is the real catalyst\n- My call: Buffett endorsement = valuation floor. If GOOGL pulls back on macro, accumulation opportunity.\n\nIran/US escalation\n- Oil 9.77, risk premium building\n- If conflict expands to Bab el-Mandeb -> oil 0+\n- My call: Biggest tail risk today. WTI bearish reversal = market may have priced in most geopolitics premium. But Warsh testimony questions on geopolitics could trigger spike.\n\nJapan crypto legislation\n- Structural bullish but limited near-term catalyst\n- My call: Long-term bullish BTC/ETH/COIN, but today focus is macro (PPI + Warsh), crypto is not the main character.---\n\n### Earnings Calendar - Next Month Highlights\n\nTHIS WEEK:\nToday (Jul 15): ASML 65B (beat + guidance raise), JNJ 21B, MS 49B, BLK 60B\nTomorrow (Jul 16): TSM 187B (WEEK BIGGEST - AI supply chain choke point), UNH 90B, NFLX 11B, GE 69B\nFri Jul 17: HDB 35B, TRV 3B\n\nNEXT WEEK:\nTue Jul 21: SCHW 76B, IBKR 62B, DHR 41B\nWed Jul 22: GOOGL 356B (MASSIVE - AI monetization + ads + cloud), TSLA 488B, GEV 86B\nThu Jul 23: INTC 18B (turnaround checkpoint), BX 1B, RTX 64B, LMT 20B\nFri Jul 24: NEE 84B, AXP 42B\n\nMEGA-CAP WEEK (Jul 28):\nTue Jul 28: V 74B, GLW 61B\nWed Jul 29: MSFT 904B (AI Copilot), META 667B (ads + AI), LRCX 13B\nThu Jul 30: AAPL 660B (iPhone + Apple Intelligence), AMZN 660B (AWS), MSTR 2B (BTC holdings)\n\n---\n\n### Today Agenda\n\n1. 08:30PM HKT - PPI: If PPI MoM less than 0.3% (vs prev 1.1%), risk-on accelerates\n2. 10:00PM HKT - Warsh Testimony: First Chair testimony, market scanning every word\n3. ASML earnings reaction: How does semi sector trade today?\n4. PYPL deal developments: Any other bidders? PYPL board response?\n5. TSM pre-earnings positioning: Tomorrow .2T catalyst\n6. SPY levels: Support 45 (near 50MA), resistance 60 (ATH)\n\n---\n\n### My Take\n\nOverall bias: Cautiously Bullish\n\nToday macro setup extends the soft landing + rate cut narrative. CPI 3.5%, PPI likely soft, Warsh expected measured = risk-on continues.\n\nTwo risks keep me cautious:\n1. Warsh testimony (10PM) = maximum uncertainty. New Chair, new style, market not calibrated. Hawkish surprise triggers sharp sell-off.\n2. Iran escalation tail risk completely ignored by VIX 16.4. If Warsh asked about geopolitics impact, could trigger risk-off.\n\nWhat to watch:\n- PPI print (08:30PM) -> pre-Warsh market direction\n- Warsh inflation wording -> closing direction\n- PYPL deal -> biggest single-stock catalyst\n- TSM positioning -> tomorrow .2T catalyst\n\nScenario: PPI soft + Warsh dovish -> SPY tests 60 ATH. PPI hot + Warsh hawish -> SPY pulls back to 40.\n\nCore thesis unchanged: AI structural demand intact (ASML confirmed), financial conditions easing (CPI/PPI softening), but geopolitics tail risk building.",
+      "risks": [
+        "Warsh hawish surprise",
+        "Iran/Hormuz escalation",
+        "VIX 16.4 too low"
+      ],
+      "my_take": "Cautiously Bullish - PPI + Warsh testimony macro inflection. ASML confirms AI demand structural. PYPL takeover bid biggest single-stock catalyst. TSM earnings tomorrow biggest event this week."
     }
   ],
   "news_curator": [
