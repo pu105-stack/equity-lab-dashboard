@@ -3100,6 +3100,69 @@
         "Bank sell-the-news"
       ],
       "my_take": "Neutral-to-cautious. Observation day not execution day. CPI 3.8% likely in-line. Energy keep, banks selective, tech cautious."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-15",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "SPY +0.36%, QQQ +1.12% — CPI cooling + bank earnings beat, but IBM -25% drags DIA. Oil whipsaw on Hormuz. AI spending debate intensifies.",
+      "headlines": [
+        "[RECENT] ACTION: IBM -25% aftermath — cybersecurity rally, AI enterprise spending rethink",
+        "[RECENT] WATCH: NY bans AI data centers — structural risk for MSFT/AMZN/GOOGL",
+        "[RECENT] ACTION: USO/XLE — Hormuz blockade restarts, Trump scraps 20% fee, oil whipsaw",
+        "[RECENT] WATCH: Bank earnings smash records — but tectonic risks loom",
+        "[RECENT] WATCH: CPI 3.5% — rate cut bets surge, but 7月 CPI may rebound on oil",
+        "[NEW] WATCH: NFLX earnings this week — options pricing 8% move",
+        "[RECENT] WATCH: AI spending debate — Cramer vs Chamath, rotation from infra to security"
+      ],
+      "opportunities": [
+        "Cybersecurity rotation: CRWD/PANW受益於AI security spending shift（IBM Krishna comments）",
+        "Oil whipsaw: Take profit on energy longs, wait for Hormuz clarity before re-entry",
+        "Data center supply constraint: DLR/EQIX benefit from NY ban — existing capacity premium"
+      ],
+      "analysis": "今日係typical \"good macro, bad micro\" day。CPI cooling + bank earnings beat推動QQQ +1.12%，但IBM -25%係AI enterprise spending嘅warning shot。最大嘅結構性變化係AI spending narrative fracture — 資金由AI infrastructure（chips, data centers）轉向AI security（cybersecurity）。NY data center ban加成呢個rotation。Iran/Hormuz持續混亂但Trump scraps cargo fee限制油價upside — oil可能見短頂。Bank earnings beat但market已priced in。NFLX earnings係下個catalyst。",
+      "risks": [
+        "IBM AI spending warning可能擴散到ORCL/CRM等enterprise software",
+        "NY data center ban如果被其他blue states跟隨 = AI capex narrative重大headwind",
+        "Hormuz blockade若影響actual tanker traffic → oil spike to $95+",
+        "7月CPI可能反彈（gasoline prices回升）→ rate cut bets unwind"
+      ],
+      "my_take": "AI spending rotation係最值得關注嘅structural shift。唔好chase overbought AI infra, consider rotation to AI security。Oil take profit等Hormuz clarity。Bank earnings season peak已過 — focus轉向NFLX + tech earnings。",
+      "key_takeaways": [
+        "IBM -25% = AI enterprise spending warning → rotation from infra to security",
+        "NY AI data center ban = structural headwind for hyperscaler capex",
+        "CPI 3.5% = tactical relief, not all-clear（7月可能反彈）",
+        "Hormuz blockade restart → oil whipsaw, take profit on energy",
+        "NFLX earnings this week = consumer spending bellwether"
+      ]
+    },
+    {
+      "pipeline": "evening-review",
+      "date": "2026-07-15",
+      "time": "08:30 HKT",
+      "status": "success",
+      "market_direction": "CPI cooling drove QQQ +1.12%, but IBM -25% revealed AI spending rotation. Market breadth narrow.",
+      "headlines": [
+        "IBM -25% worst day since 1979 -- AI enterprise spending canary, cybersecurity rotation triggered",
+        "CPI cools to 3.5% -- QQQ +1.12%, rate cut bets surge, Sept cut >60%",
+        "Bank earnings records (GS +9%, JPM +2.5%) -- modest reaction, priced in",
+        "Fed Chair Warsh testimony TONIGHT 10pm HKT -- hawkish pushback expected",
+        "Iran/Hormuz blockade restart -- oil whipsaw $87 to $80, mixed signals"
+      ],
+      "opportunities": [
+        "CRWD/PANW: cybersecurity rotation -- IBM Krishna AI spending shift to security. Structural, not one-day",
+        "GS: best bank performer (+9%), wait for pullback to $1080-1100",
+        "NVDA: trim into strength above $210, AI narrative fracture building"
+      ],
+      "analysis": "## 📰 今日重頭條\n\n1. **IBM -25% — 史上最大單日跌幅, AI enterprise spending canary** | Source: CNBC | IBM, ORCL, CRM, CRWD, PANW\n   → IBM Q2 warning triggered 25% crash ($290→$217), 係1979年以嚟最差單日表現。CEO Krishna話AI spending shift to security — 資金明確由AI infra轉向cybersecurity。\n   → NC捕捉到呢個call (ACTION: cybersecurity rotation), CRWD +12.1%、PANW +6.8%確認方向。\n   \n2. **CPI cools to 3.5% — biggest drop since 2020** | Source: Guardian/BLS | SPY, QQQ, BTC\n   → June CPI 3.5% (vs 3.8% prior), energy prices下跌係主要driver。Rate cut bets surge — Sept cut odds >60%。QQQ +1.12%領漲。\n   → NC WARNING: falling energy prices係Iran ceasefire期間數據, blockade restart後gasoline已回升, 7月CPI可能反彈。\n\n3. **Bank earnings smash records — equities trading boom** | Source: NYT DealBook | JPM, GS, BAC, C\n   → JPM +2.5%、GS +9.0% — equities trading revenue爆升。但NYT點出'tectonic risks': Iran war, CRE, rate uncertainty。\n   → Market reaction modest — 大部分已priced in。NC: 唔加倉, hold positions。\n\n4. **Fed Chair Warsh testimony TONIGHT 10pm HKT** | Source: Macro Calendar | SPY, TLT, DXY\n   → HIGH重要性。Warsh係hawkish Fed Chair — 市場expect佢會push back against rate cut euphoria。如果hawkish tone = yield rebound, tech selloff risk。\n   → 今晚最大既single event risk。\n\n5. **Iran/Hormuz blockade restarts — oil whipsaw $87→$80** | Source: CNBC/BBC | USO, XLE\n   → US airstrikes + blockade restart, 但Trump scraps 20% cargo fee — mixed signal。USO +2.02%, XLE只+0.37% (energy stocks未跟足)。\n   → NC: take profit on energy longs, 等clarify。如果冇actual tanker disruption, $87可能係頂。\n\n6. **NY bans AI data centers — first US state** | Source: CNBC | MSFT, AMZN, GOOGL, DLR, EQIX\n   → 結構性headwind for hyperscalers。MSFT -1.5% partly on this。政治signal強烈 — 其他blue states可能跟隨。\n   → NC: WATCH, not ACTION yet。\n\n7. **AI spending debate intensifies — Cramer vs Chamath** | Source: CNBC | NVDA, AVGO, CRWD\n   → Chamath: 'wheels coming off AI spending'。Cramer: froth concerns overblown。NVDA +4.1% on CPI tailwind but narrative fracture is real。\n\n8. **NFLX earnings this week — options pricing 8%+ move** | Source: FMP | NFLX\n   → Consumer discretionary bellwether。Ad-supported tier growth + live sports係bull case。PE 40x+。NC: 唔pre-position。\n\n## 1. Market Recap\n\nSPY +0.36% (751.83), QQQ +1.12% (719.71), DIA +0.04% (524.69), IWM +0.35% (294.51)。\n\n**一句總結: CPI cooling = risk-on, 但IBM -25% = AI rotation signal。Market breadth窄, 資金集中喺幾個pockets。**\n\n- **VIX:** 16.50 (-3.8% from 17.16) — volatility回落, market消化CPI後樂觀\n- **Volume:** SPY 35.1M (vs 5-day avg ~42M) — below average, 唔係full conviction rally\n- **Breadth signals:** QQQ明顯跑贏DIA — megacap tech vs value divergence持續。IBM拖累DIA flat。\n- **Sector highlights:**\n  - XLK +1.3% (NVDA +4.1%, semis bounce on CPI, cybersecurity explosion)\n  - XLF +0.2% (bank earnings beat但reaction muted)\n  - XLE +0.37% (oil whipsaw, energy stocks唔跟USO +2.02%)\n\n## 2. Notable Movers\n\n**Biggest winners:**\n- **CRWD +12.1%** ($210.73) — cybersecurity rotation leader。IBM Krishna既'AI spending shift to security' comment直接引爆。Volume 12.1M (vs avg 6-8M)。呢個係structural rotation signal, 唔係一日行情。\n- **PANW +6.8%** ($352.89) — same thesis。Volume 6.0M。CRWD+PANW同時breakout — sector confirmation。\n- **GS +9.0%** ($1140.00) — record earnings on equities trading boom。但bank sector breadth窄 (JPM只+2.5%)。\n- **NVDA +4.1%** ($211.80) — CPI tailwind。但要注意: 呢個係macro lift, 唔係NVDA-specific catalyst。\n- **USO +2.02%** ($120.17) — Hormuz risk premium, 但由intraday high $121.37回落。\n\n**Biggest losers:**\n- **IBM -25.2%** ($217.07) — worst day since 1979。Q2 warning: AI enterprise spending slowdown。Volume 67M (vs avg 3-5M) — 恐慌性抛售。\n- **ORCL -2.7%** ($127.94) — contagion from IBM。Enterprise IT spending concerns。Volume 52M。\n- **MSFT -1.5%** ($384.93) — NY data center ban + Secure Boot vulnerability。雙重headwind but neither deal-breaking。\n- **CRM -2.1%** ($167.56) — enterprise software dragged by IBM。但CRM相對ORCL表現好啲。\n\n**Rotation signals:**\n- AI infrastructure → AI security: CRWD/PANW爆升 vs ORCL/CRM受壓\n- Value → Growth: QQQ +1.12% vs DIA +0.04%\n- Energy whipsaw: USO +2% vs XLE +0.37% (energy equities未跟)\n\n## 3. News That Mattered\n\n**Confirmed catalysts:**\n- CPI 3.5% — NC既WATCH call準確。NC warning話「唔好chase rate-cut trades」係對既 — CPI-driven rally但breadth窄。\n- IBM -25% aftermath — NC既ACTION call (cybersecurity rotation) 完美命中。CRWD +12%、PANW +7%。\n- Bank earnings beat — NC既WATCH call準確。Beat但market reaction modest = priced in。\n- Iran/Hormuz — NC既ACTION call (take profit on energy longs) 方向正確。Oil whipsaw後USO仍+2%但由high回落。\n\n**NC missed / Raw news only:**\n- Fed Warsh testimony tonight — NC冇特別highlight呢個risk。呢個係今晚最大既single event。Warsh係hawkish, market已有rate-cut euphoria — 如果佢push back, tech可能回調2-3%。\n- PPI tonight 8:30pm — NC冇提到。PPI係CPI既follow-through。如果PPI同樣cool = confirm disinflation trend。如果hot = 破壞CPI narrative。\n\n**New overnight developments:**\n- Fed Williams speech 8:45pm tonight (before Warsh)\n- Fed Cook speech 1:00am、Fed Musalem 6:30am — triple Fed speaker day\n- GDX gold miners note: $348 left on the table — VanEck thesis (mining stocks vs gold catch-up play)\n\n## 4. Opportunities Carry Forward\n\n**Cybersecurity rotation — 最大既structural opportunity**\n- CRWD +12%、PANW +7% — 呢個唔係一日行情。IBM Krishna既'AI spending shift to security' + NY data center ban = 資金明確轉向\n- CRWD由$181反彈到$211 (+16.5% in 2 days), PANW $316→$353 (+11.7%)\n- 短期overbought但momentum強。Pullback to CRWD $200/PANW $340 = add。\n- 風險: 如果NVDA/AVGO Q2 earnings強勁, 資金可能回流AI infra。But that's weeks away。\n\n**GS — bank earnings star, but wait for pullback**\n- GS +9.0% to $1140 — 明顯跑贏JPM/WFC/C。Equities trading revenue係alpha source。\n- 但而家chase = risky。Wait for pullback to $1080-1100 (pre-earnings range)。\n- Catalyst: 如果Warsh tonight hawkish → bank stocks pullback = entry opportunity。\n\n**NVDA — CPI tailwind but AI narrative fracture**\n- NVDA +4.1% to $211.80。接近$213 resistance (7/10 high)。\n- Bull: CPI = rate cuts = growth stocks bid。NVDA earnings 8月底。\n- Bear: IBM warning + Chamath 'wheels coming off' = AI spending peak narrative building。\n- My view: Trim into strength above $210。NVDA唔會直線升 — Q2 earnings season會係real test。\n\n**NFLX earnings play**\n- This week。Options pricing 8% move。NFLX flat today ($73.53)。\n- 唔pre-position — earnings係binary risk。但如果gap down 5%+ on decent numbers = opportunity。\n- NFLX係consumer spending proxy, 結果會影響成個consumer discretionary sector。\n\n## 5. Risks / Watchlist\n\n**TONIGHT: Fed Chair Warsh Testimony — 10:00PM HKT (最大risk)**\n- Warsh係hawkish Fed Chair。CPI 3.5%後market已price in Sept cut >60%。\n- 如果Warsh push back hard: \"one month data doesn't make a trend\" = yield spike, tech selloff 2-3%。\n- Fed Williams 8:45pm先講 — 佢既tone會係Warsh既preview。\n- 今晚唔好有heavy tech exposure過夜。\n\n**TONIGHT: PPI MoM — 8:30PM HKT**\n- CPI follow-through。Core PPI尤其重要。\n- 如果PPI confirm cooling = 雙重確認disinflation = risk-on continuation。\n- 如果PPI hot (>0.3% MoM) = CPI narrative被質疑 = yield spike。\n\n**Iran/Hormuz overnight risk**\n- Blockade restart + US airstrikes。Overnight escalation possible。\n- Oil long holders: 如果冇actual tanker disruption, $87可能係短期頂。Consider trailing stops。\n\n**Tomorrow: Retail Sales MoM — 8:30PM HKT**\n- HIGH importance。Consumer spending既real-time pulse。\n- 如果retail sales strong + CPI cool = goldilocks confirmed。\n- 如果retail sales miss = stagflation fear = 破壞risk-on thesis。\n\n**AI narrative fracture — structural**\n- IBM -25%係enterprise AI spending既canary。ORCL跌穿$128。\n- 如果更多enterprise software companies warn (CRM, NOW, ADBE upcoming earnings) = broader selloff。\n- 但要分辨: AI infra (NVDA) vs AI enterprise software (ORCL) vs AI security (CRWD) — 唔同segment。\n\n## 6. My Take\n\n**今日係\"good macro, bad micro\" day。CPI cooling推動QQQ +1.12%, 但IBM -25%揭示左一個更深層既問題: AI spending唔係monolithic — enterprise IT services受壓, cybersecurity受惠。**\n\n最大既takeaway: **AI rotation is real and it's happening now。**資金由AI infrastructure/buildout轉向AI security/defense。IBM Krishna既comment唔係isolated — 係enterprise budget reallocation既signal。NY data center ban係政治confirmation。Chamath+Cramer debate反映market開始question AI ROI。\n\n**但今晚最重要既係Fed Warsh。**CPI euphoria已price in Sept cut >60%。Warsh幾乎肯定會push back。如果hawkish tone出現, tech 2-3% pullback係合理預期。呢個唔係bearish call — 係risk management。\n\n**Tomorrow's bias: Cautious neutral, leaning bearish intraday。**CPI afterglow fading, Fed Warsh tonight = event risk。如果有pullback, cybersecurity stocks (CRWD/PANW) 係buy-the-dip candidate。但如果PPI hot + Warsh hawkish = 雙重打擊, risk-off可能持續到星期四Retail Sales。\n\n**Bottom line: 唔chase CPI rally。今晚Warsh係關鍵。Position for AI rotation, not AI momentum。**",
+      "risks": [
+        "Fed Warsh testimony 10pm HKT -- hawkish pushback on rate cut euphoria, tech selloff risk",
+        "PPI MoM 8:30pm HKT -- CPI follow-through, hot print = narrative broken",
+        "Iran/Hormuz overnight escalation -- oil whipsaw, trailing stops on energy longs",
+        "Tomorrow Retail Sales 8:30pm -- consumer spending pulse, stagflation fear if miss"
+      ],
+      "my_take": "CPI cooling = risk-on but IBM -25% = AI rotation signal. Cybersecurity (CRWD/PANW) is the biggest structural opportunity. Tonight Fed Warsh testimony 10pm HKT is the largest single event risk -- hawkish pushback likely, avoid heavy tech exposure overnight. Tomorrow bias: cautious neutral."
     }
   ],
   "news_curator": [
