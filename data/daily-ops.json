@@ -3188,6 +3188,73 @@
         "VIX 16.4 too low"
       ],
       "my_take": "Cautiously Bullish - PPI + Warsh testimony macro inflection. ASML confirms AI demand structural. PYPL takeover bid biggest single-stock catalyst. TSM earnings tomorrow biggest event this week."
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-07-16",
+      "time": "08:14 HKT",
+      "status": "success",
+      "market_direction": "US-Iran conflict escalates dramatically - ceasefire collapsed, Hormuz blockade restarted, oil climbs 4th day, Fed Warsh testifies, stock futures flat awaiting retail sales",
+      "headlines": [
+        "[RECENT] ACTION: USO/XLE - Hormuz blocked, US hits Kharg Island-bound tanker, FT warns market close to running on empty",
+        "[RECENT] ACTION: Defense - US-Iran 5th day of strikes, Pentagon bill > $100B",
+        "[RECENT] WATCH: Fed/Warsh - Senate testimony, meets often with Trump",
+        "[NEW] WATCH: SpaceX - breaks below $135 IPO for first time",
+        "[NEW] WATCH: UAL - Q2 beat but $6B fuel cost from Iran conflict",
+        "[RECENT] WATCH: NFLX - earnings Thu, options pricing 8%+ move",
+        "[RECENT] WATCH: AVGO - Sheetz 838 stores off VMware",
+        "[RECENT] NOTE: PYPL - Stripe+Advent bid follow-up",
+        "[RECENT] NOTE: GOOGL - AI copyright suit + Buffett stake",
+        "[RECENT] NOTE: ETH - 2029 roadmap",
+        "[RECENT] NOTE: Small Caps - outperformance persists"
+      ],
+      "opportunities": [
+        "USO/XLE: Hormuz blockade escalation + Kharg tanker hit = real supply disruption risk",
+        "Defense LMT/NOC/RTX: Pentagon $100B+ war spending, 5th day of strikes"
+      ],
+      "analysis": "The Iran conflict escalated from ceasefire collapse on 7/14 to full blockade + tanker strike within 24 hours. FT warns oil market \"close to running on empty\" as Hormuz shuts again. Fed Warsh testimony yields no major surprises. Markets await retail sales data.",
+      "risks": [
+        "Iran conflict further escalation = larger supply disruption",
+        "Warsh hawkish stance may delay rate cuts",
+        "SpaceX crash could drag market sentiment",
+        "Sustained oil spike hits consumer + corporate earnings"
+      ],
+      "my_take": "Iran conflict has shifted from geopolitical risk to supply chain reality. FT \"close to running on empty\" is an exceptionally rare warning. Oil 4th day of gains reflects repricing of ME risk premium. Key variable: how long Hormuz stays blocked - if >1 week, $90+ oil creates real economic impact.",
+      "key_takeaways": [
+        "Iran escalation: ceasefire collapse -> blockade restart -> tanker hit in 3 days",
+        "Oil supply risk gone from potential to real - FT warns market close to running on empty",
+        "Warsh testimony uneventful, focus shifts to retail sales",
+        "SpaceX below IPO is Musk empire signal, UAL shows Iran impact on corporate earnings",
+        "NFLX earnings Thursday - options pricing 8%+ move"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-16",
+      "time": "08:35 HKT",
+      "status": "success",
+      "market_direction": "SPY +0.4%, QQQ -0.3% — surface calm, violent sector rotation under the hood",
+      "headlines": [
+        "Iran Hormuz blockade restarted, FT warns oil 'close to running on empty'",
+        "Mega-cap consumer tech rallies (AAPL +4%, GOOGL/META +3%) while semis bleed (INTC -4.4%, AMD -3.5%)",
+        "Pentagon Iran war bill >$100B estimated, Day 5 strikes",
+        "Fed Warsh testifies: defends independence, uneventful",
+        "NFLX earnings tonight, options pricing 8%+ move"
+      ],
+      "opportunities": [
+        "USO/XLE: Hormuz supply disruption trade, FT exceptional warning language — wait for pullback",
+        "GOOGL/META: AI monetization rotation beneficiary, consumer tech momentum strong",
+        "NFLX: post-earnings chase if sub growth beats — do NOT pre-position",
+        "IWM/XRT: small-cap outperformance, retail sales catalyst tonight"
+      ],
+      "risks": [
+        "Semis momentum broken — INTC -10% in 2 weeks, no catalyst to stop bleeding",
+        "Hormuz sudden de-escalation would crush oil/defense longs",
+        "NFLX earnings miss could drag entire XLC/consumer tech",
+        "Retail sales tonight HIGH — recession fear trigger if miss"
+      ],
+      "my_take": "Surface calm but violent rotation: semis bleed, mega-cap consumer tech soar. Money moving from AI hardware to AI monetization. Tonight retail sales + NFLX earnings determine tomorrow's direction.",
+      "analysis": "📰 今日重點頭條\n\n1. 【Iran Hormuz】US hits tanker heading for Kharg Island amid renewed blockade — FT warns oil market \"close to running on empty\" [NC ACTION call]\n2. 【Defense】Pentagon Iran war bill >$100B estimate surfaces — Day 5 of strikes, conflict shows no sign of de-escalation [NC ACTION call]\n3. 【Fed/Warsh】Warsh Senate testimony: defends independence, meets \"often\" with Trump — no hawkish surprise, markets unmoved [NC WATCH]\n4. 【Mega-cap rally】AAPL +4.0%, MSFT +2.8%, GOOGL +3.2%, AMZN +3.0%, META +3.1% — massive divergence from semis [RAW — no NC coverage]\n5. 【Semiconductor rout】INTC -4.4%, AMD -3.5%, SMH -1.6% — sector rotation out of semis into software/consumer [RAW — NC covered AVGO only]\n6. 【UAL earnings】Q2 beat but $6B Iran fuel cost headwind — textbook corporate impact from Hormuz [NC WATCH]\n7. 【SpaceX】Breaks below $135 IPO — Musk down $500B in 30 days, TSLA sentiment risk [NC WATCH]\n8. 【NFLX】Earnings tonight — options pricing 8%+ move, this week's biggest single-stock event [NC WATCH]\n\n📊 Market Recap\n\nSPY +0.40% @ 754.81 | QQQ -0.27% @ 717.74 | DIA +0.24% @ 525.95 | IWM +0.43% @ 295.77\n\n表面平靜，內裡劇烈分化。SPY 微升但 QQQ 微跌 — 唔係 typical \"risk-on\" or \"risk-off\"，而係 capital 喺 sector 之間大規模輪動。VIX 跌到 15.67，市場對 Iran 衝突 oddly calm — 可能係 Warsh 冇新震撼彈、可能係市场已經消化咗 Hormuz risk。\n\nSector 表現：\nGreen 贏家：XLC +1.73%（GOOGL/META pull），XRT +1.50%（retail/small-cap bid），XLY +0.95%\nRed 輸家：SMH -1.59%（semis bleed），XLU -1.03%（utilities sell-off），XLK -1.11%（mixed tech），XLE -0.79%（oil profit-taking）\n\n最明顯嘅 signal：mega-cap consumer tech（AAPL/GOOGL/META/AMZN）全線 +3-4%，但 semis（INTC -4.4%, AMD -3.5%）被血洗。呢個唔係 growth->value rotation，而係 tech 內部嘅 value migration — 資金由 hardware/semis 轉去 software/platform。可能反映市場担心 AI capex 見頂（INTC/AMD 受影響），但 consumer AI monetization（GOOGL/META）仍然 bullish。\n\n🔥 Notable Movers\n\nBiggest gainers:\n- **AAPL +4.01%** @ 327.50 — 單日 $328 新高。冇明確 catalyst，係 momentum + safe-haven flow（market cap >$5T 嘅「quality」bid）\n- **ORCL +3.56%** @ 132.49 — 由 recent low 127.60 反彈。Cloud infra 仍然有 demand\n- **GOOGL +3.17%** @ 370.92 — AI 版權官司懸而未決但 Buffett 持股 + 廣告 revenue 強勁，market 選擇睇好\n- **META +3.07%** @ 681.31 — 繼續破頂。社交媒體廣告 + AI integration thesis intact\n- **AMZN +3.02%** @ 254.96 — consumer spending 強 + AWS growth\n- **MSFT +2.78%** @ 395.63 — Azure/AI 繼續 drive\n\nBiggest losers:\n- **INTC -4.43%** @ 102.99 — 由 7/9 嘅 $114 跌到而家 $103，兩星期 -10%。Foundry strategy doubts + semis rotation\n- **AMD -3.46%** @ 529.14 — 由 7/10 high $560 急回。雖然 data center 仍然強，但 market 對 AI semis 嘅 enthusiasm 明顯 cooling\n- **JNJ -2.69%** @ 247.02 — healthcare 普遍弱（LLY -0.4%, UNH -1.6%, XLV flat）\n- **SMH -1.59%** — semis ETF 連續 3 日跌，由 7/10 high $615 -> $591\n\n值得注意：Defense（LMT -0.1%, NOC -0.7%, GD -1.0%）喺 Iran 衝突第 5 日竟然跌 — 「buy the rumor, sell the news」pattern。NC 嘅 defense ACTION call 今日冇 hit，但唔代表方向錯 — 可能係 profit-taking，長期 war escalation thesis 仍然 intact。\n\n📰 News That Mattered\n\n**NC calls 評估：**\n- ✅ **USO/XLE ACTION**：方向正確但 execution timing tricky。USO +1.0%（4日累計 +11.4%），但 XLE -0.79%（profit-taking）。FT \"close to running on empty\" 嘅 language 係 genuinely rare warning signal — 呢個 call 要繼續追蹤\n- ⚠️ **Defense ACTION**：LMT/NOC/RTX/GD 今日全部 flat-to-down。$100B war bill 嘅 catalyst 真實但可能已被 price in（defense sector 本月已 +10%+）。需要調整预期 — 短期可能係 consolidation，唔係 breakout\n- ✅ **Warsh WATCH**：冇意外，market 完全冇反應。Retail sales tonight 先係關鍵\n- ✅ **UAL WATCH**：$6B fuel cost 係 textbook Hormuz impact — 如果油價繼續升，航空股會係第一批 victim\n- ✅ **NFLX WATCH**：earnings tonight，係今個星期最重要嘅 single-stock event\n\n**NC 漏咗嘅 raw developments：**\n- **Mega-cap vs semis divergence** — NC 完全冇捕捉到呢個 rotation。呢個係今日最重要嘅 market structure signal\n- **Small-cap outperformance** — IWM +0.43%, XRT +1.5%。NC 之前 NOTE 提過 small-cap trend intact，但冇 upgrade 做 actionable level\n- **Iran releases American detainee** — 可能係 de-escalation signal？但同時間 Hormuz blockade 繼續，mixed message\n\n**Overnight developments：**\n- NFLX earnings after close tonight（7/16）— 係 evening review 寫緊嘅時候仲未出\n- Retail Sales MoM（Jun）今晚 8:30pm HKT — HIGH importance\n- Fed Logan speech 12:30am HKT + Jefferson speech 7:00am HKT\n\n🎯 Opportunities Carry Forward\n\n1. **USO/XLE — Hormuz supply disruption trade（NC ACTION，繼續 valid）**\n   FT \"close to running on empty\" 嘅 warning 係 exceptional language。Oil 4 日累計 +11.4%。今日 XLE profit-taking 係 healthy consolidation，唔係 reversal。如果今晚 retail sales 強勁（經濟 OK），oil demand 故事會更強。但如果 Hormuz 突然 reopen（Trump 之前試過 back down），oil 會急跌 — 呢個係 Risk 1。\n   -> 繼續 WATCH，唔好 chase。等 pullback to USO $118-119 先考慮。\n\n2. **Mega-cap consumer tech rotation（AAPL/MSFT/GOOGL/AMZN/META）**\n   資金明顯流向有 pricing power、有 consumer monetization、唔依賴 AI capex cycle 嘅 mega-cap。呢個 rotation 可能反映市场對 semis overbought 嘅調整，多過 macro concern。\n   -> 如果今晚 NFLX earnings 好（sub growth beat），會進一步 confirm consumer tech strength，可以考慮加注 GOOGL/META。\n\n3. **NFLX earnings play（唔係 pre-position，係 post-earnings chase）**\n   Options pricing 8%+ move。NC 建議 \"if sub growth beats, chase\" — 正確。NFLX 而家 $73.68，earnings 後如果 gap up above $79-80，確認 breakout，可以追。\n\n4. **Small-cap momentum — IWM / XRT**\n   連續 outperformance，XRT +1.5% 今日強勁。Retail sales tonight 係 catalyst — 如果 beat，small-cap consumer 可以繼續跑。\n\n⚠️ Risks / Watchlist\n\n**今晚（7/16 HKT evening）macro events（from macro_calendar.json）：**\n- RED 8:30pm HKT — **Retail Sales MoM（Jun）** — 今個星期最重要 data point。Consensus 未知，但如果 miss -> recession fear -> semis 會再跌；如果 beat -> soft landing narrative confirmed -> rotation into cyclicals\n- YELLOW 8:30pm HKT — Initial Jobless Claims, Philly Fed Mfg, Retail Sales Control Group\n- YELLOW 10:00pm HKT — NAHB Housing Index, Pending Home Sales, Business Inventories\n- YELLOW 12:30am HKT — **Fed Logan speech**\n- YELLOW 7:00am HKT — **Fed Jefferson speech**\n\n**Overnight risk：**\n- **Hormuz escalation** — 如果今晚再有 tanker hit / US military action，oil 可以 spike 5%+。最大嘅 unknown unknown。\n- **NFLX earnings** — 如果 miss，可以拖累成個 consumer tech / comm services sector（XLC 今日 +1.73% 嘅 gain 可以一下子 evaporate）\n- **Iran de-escalation（reverse risk）** — 如果 Iran 釋放 detainee 係談判 signal，oil 可以急跌，defense 都會回\n\n**Sector risk：**\n- Semis（INTC/AMD/SMH）momentum 明顯 broken。INTC 兩星期 -10%，冇 catalyst 止跌。如果今晚 retail sales miss + NFLX miss -> perfect storm for growth sell-off，semis 會係最傷嘅 sector\n- Defense 今日全部跌，可能係獲利回吐，但如果 Iran 突然 de-escalate，defense 可以回 5-10%\n\n💡 My Take\n\n今日 market 表面平靜（SPY +0.4%, VIX 15.67），但底下係 violent sector rotation：money fleeing semiconductors（-1.6%）into mega-cap consumer tech（AAPL/GOOGL/META +3-4%）and small-caps。呢個唔係 risk-off，係重新定價 — market 認為 AI capex cycle 可能見頂（hurt semis），但 AI monetization + consumer strength 仍然 intact（benefit platforms）。Iran conflict 第 5 日但 defense/oil 都出現 profit-taking，反映 market 已經消化咗短期 escalation risk。\n\n今晚關鍵：Retail Sales -> 决定 soft landing narrative；NFLX earnings -> 决定 consumer tech momentum。如果兩個都 beat，明日 bias bullish on XLC/XLY/IWM。如果任何一個 miss，expect semis 繼續 bleed + volatility spike。"
     }
   ],
   "news_curator": [
