@@ -1,4 +1,82 @@
 {
-  "decisions": [],
-  "last_synced": "2026-07-11T12:47:39.456254+08:00"
+  "decisions": [
+    {
+      "ticker": "AAPL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Chip rout zhong chuang li shi xin gao, zi jin you AI hype zhuan xiang quality mega-cap. HSBC hua zhong you shang xing kong jian. Apple qi su OpenAI shang ye mi mi -- aggressive AI talent play. Siri AI rollout yong hu fan kui zheng mian. Mag7 zhong zui defensive.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "IBM",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "-25% shi shang zui da dan ri die fu. CEO Krishna hua AI spending shift to security -- enterprise AI zhi chu canary. Wu xi buy-the-dip, er xi AI enterprise exposure warning. ORCL/CRM deng enterprise AI plays you contagion risk.",
+      "source": "RISK"
+    },
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "4000 breakout = bull trap, sui ji -2%. Iran chong tu xia huang jin wu fa shang sheng -- bi xian gong neng jie gou xing shi xiao. Warsh ying pai + shi zhi shou yi lu gao qi + qiang mei yuan xing cheng duo zhong da ji. Goldman sees central bank floor dan duan qi momentum xiang xia.",
+      "source": "RISK"
+    },
+    {
+      "ticker": "TSM",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Q2 profit +77%, 100B e wai mei guo tou zi, CEO hua AI boom zhong you 3 nian. Dan gu jia -4% (5 ri) -- everything priced in. 100B tou zi xi demand confidence ding forced onshoring? Semi sector headwind xian zhi upside.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "NFLX",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Q2 revenue +13% YoY dan guidance disappoint + engagement data tou ming du jian shao, -8% AH. The -8% on 13% growth ke neng xi overreaction. Ad-tier scaling + live sports = structural tailwind. Ru guo kai shi que ren -8% = buy-the-dip candidate.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Gemini 3.5 Pro yan chi -- 2026 nian di er ci AI stumble, -4.44%. Dan Buffett 13F pi lu ru gu -- rare tech bet after AAPL. AI execution risk vs value investor floor. Ru guo Gemini liang xing qi nei ship = buying opportunity.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Chip rout zhong bei kuang gu dan AI thesis wei si. 7 nian shou ci ji shu mai ru xin hao vs xin dai shi chang AI pao mo jing gao. TSM earnings que ren AI xu qiu jie gou xing cun zai. Hui tiao xi healthy consolidation ding deeper correction qu jue yu upcoming earnings.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "MRK",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "FDA pi zhun Lipfendra (enlicitide) -- shou ge kou fu PCSK9 yi zhi ji. Qian zai 20B+ shi chang. Statins ti dai pin + kou fu bian li xing = blockbuster potential. Gu jia +2.3% fan ying wen he, wei wan quan price in.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "PYPL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Stripe+Advent 53B shou gou bei dong shi hui ping wei inadequate -- shi chang jie du wei xiang yao geng gao bao jia. 5 ri lei ji +22%. Stripe zhan lue shang xu yao ni dan deal, bidding war ke neng xing sheng wen.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "100B backlog ti gong multi-year visibility. Pentagon Iran war bill over 100B. Saab chao yu qi, GE Aerospace shang tiao FY outlook. Yi lang chong tu jie gou xing tui sheng guo fang zhi chu. NATO feng hui chi xu cui hua.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "XLE",
+      "status": "deep_dive",
+      "updated_at": "2026-07-17",
+      "reasoning": "Iran Day 8 sheng ji che di ni zhuan war priced out narrative. US zha qiao liang, yi lang kuo da gong ji zhi Syria/Bahrain. FT han you jing gao oil market close to running on empty. XOM/CVX/COP zhi jie shou yi. Hormuz zhen zheng shou zu = you jia 95+.",
+      "source": "OPPORTUNITY"
+    }
+  ],
+  "last_synced": "2026-07-18T06:07:51.185532+08:00"
 }
