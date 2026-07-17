@@ -3288,6 +3288,73 @@
         "Brazil tariff retaliation -> EM/commodity sell-off"
       ],
       "my_take": "Cautiously Bullish with Rotation -- late-cycle rotation from tech hardware to AI platforms + defensives. TSM blowout confirms AI demand but market priced in. MU -8% is memory cycle canary, but no NVDA contagion yet. Today: Retail Sales + NFLX earnings are key catalysts."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-17",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "US stocks fell: SPY -0.54%, QQQ -1.64%, DIA -0.21%. AI concerns (GOOGL Gemini delay -4.4%) + chip sell-off drove QQQ decline. Iran war fatigue: oil & gold BOTH dropped despite 6th straight night of US strikes.",
+      "headlines": [
+        "[RECENT] 🎯 NFLX — Q2 earnings: Revenue +13% to $12.6B, but guidance disappoints + stingier viewing data, stock drops 8% after hours",
+        "[RECENT] 🎯 GOOGL — Gemini 3.5 Pro, its most powerful AI model, delayed; stock sinks -4.44%, worst Mag7 performer of the day",
+        "[RECENT] ⚠️ Iran War Day 7 — US launches 6th straight night of strikes but oil -1.7% & gold -2.0% drop; war fatigue premium fading fast",
+        "[RECENT] ⚠️ Brazil Retaliation — Brazil vows \"tough\" response, threatens reciprocal tariffs after Trump's 25% levy; new trade war front",
+        "[RECENT] ⚠️ MS — Morgan Stanley E*TRADE launches spot BTC/ETH/SOL trading on $10T platform; institutional crypto on-ramp widens",
+        "[RECENT] ⚠️ PYPL — Board finds Stripe+Advent $53B bid \"inadequate\"; M&A saga continues, stock +2.2% on bid interest",
+        "[RECENT] 📌 UNH — Q2 beat + raised FY outlook, stock +1.2% recovering from initial \"sell the news\" dip; cost control narrative strengthens",
+        "[RECENT] 📌 Fed — Dallas Fed Logan calls for \"modestly higher\" rates; Sen. Rounds likes Warsh's Senate \"tone\"; hawkish undercurrent builds",
+        "[RECENT] 📌 Gold — Briefly broke $4,000 then crashed -2.0% as yields rose; bull trap confirmed, reversion to $3,650 support likely",
+        "[RECENT] 📌 MSFT — Nadella rips Anthropic's Fable restrictions in staff meeting: \"Doesn't make sense\"; AI regulation battle heating up"
+      ],
+      "opportunities": [
+        "NFLX: -8% post-earnings overreaction. Revenue +13% to $12.6B. Guidance disappoint + less data transparency spooked market. Buy-the-dip candidate if opens at -8%.",
+        "GOOGL: -4.44% on Gemini 3.5 Pro delay. AI race credibility gap vs MSFT/AMZN widening. If Gemini ships within 2 weeks = buying opportunity. If delayed beyond Q3 = structural concern."
+      ],
+      "analysis": "US session driven by AI competition shift + Iran war fatigue. NFLX earnings after close: beat on revenue but conservative guidance + less engagement data → -8% AH. GOOGL Gemini delay drove -4.44% and led QQQ sell-off. Counterintuitively, oil (-1.7%) and gold (-2.0%) both fell despite 6th straight night of US strikes on Iran — market pricing OUT war premium. Brazil tariff retaliation threats escalate new trade war front. MS E*TRADE spot crypto launch is major institutional on-ramp. PYPL board rejects Stripe bid as inadequate → bidding war potential.",
+      "risks": [
+        "Iran de-escalation would crater oil/defense trades — NC #1 USO/XLE/Defense ACTION calls may need reassessment",
+        "Earnings season pattern: beat = sell-the-news, miss = hard punish. NFLX -8% on decent quarter sets tone.",
+        "Fed hawkish undercurrent: Logan wants higher rates, Warsh positive Senate review. Rate cuts may be further out than priced."
+      ],
+      "my_take": "AI competition + Iran fatigue + earnings cross-currents = choppy market. Selective buying on overreactions — NFLX -8% is most interesting opportunity. GOOGL possibly if reversal confirmed. Reduce war-premium exposure as market signals exhaustion. Gold $4,000 breakout was a bull trap. War trade may be over.",
+      "key_takeaways": [
+        "NFLX -8% post-earnings overreaction is buy-the-dip candidate",
+        "GOOGL -4.44% Gemini delay drives AI race concerns — key Mag7 divergence",
+        "Oil & gold BOTH dropped despite more Iran strikes → war premium fading",
+        "Brazil tariff retaliation escalates new trade war front",
+        "MS E*TRADE spot crypto is major institutional milestone",
+        "Fed hawkishness building: Logan + Warsh both signaling tighter stance"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-17",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "Risk-off rotation: QQQ -1.64%, DIA -0.21%. Tech sold (XLK -2.24%), healthcare bought (XLV +2.22%).",
+      "headlines": [
+        "GOOGL Gemini 3.5 Pro delayed, -4.44% — AI execution concern dragged XLK -2.24%",
+        "NFLX Q2 revenue +13% but guidance disappoints, after-hours -8%",
+        "Iran 6th night of strikes but oil/gold both fell — war premium fading",
+        "Dallas Fed Logan calls for higher rates, Warsh Senate review positive — hawkish build",
+        "PYPL rejects $53B bid as inadequate, +2.18% on bidding war hopes (+22% in 5 days)"
+      ],
+      "opportunities": [
+        "NFLX: -8% AH on 13% revenue growth = potential buy-the-dip overreaction",
+        "GOOGL: If Gemini ships within 2 weeks, -4.44% is a buying opportunity",
+        "PYPL: M&A premium with room to $58-60B if Stripe raises bid",
+        "XLV: Healthcare rotation momentum on UNH beat + defensive flow"
+      ],
+      "analysis": "## Market Recap\n\nSPY 750.72 (-0.54%), QQQ 705.94 (-1.64%), DIA 524.83 (-0.21%)\nVIX 16.73 (+6.76%) — fear creeping in but not panic territory\n\nSector Rotation:\n- XLV +2.22% (Healthcare leads on UNH beat + defensive rotation)\n- XLE +0.92% (Energy surprisingly strong despite USO -1.7%)\n- XLF +0.34% (Financials hold up on BLK earnings support)\n- XLK -2.24% (Tech bloodbath: AI disappointment + chip sell-off)\n- XLY +0.29%, XLI +0.05% (flat)\n\nClear sector rotation OUT of tech INTO healthcare/defensives. QQQ -1.64% vs DIA -0.21% divergence is obvious — risk-off rotation, not broad market sell-off.\n\n## Notable Movers\n\nBiggest Losers:\n- AVGO $374.45 (-5.03%) — Broadcom worst of semis in AI chip sell-off\n- MS $218.37 (-4.45%) — despite E*TRADE crypto news, massive afternoon sell-off (open $228 to close $218)\n- GOOGL $354.46 (-4.44%) — Gemini 3.5 Pro delay, second AI stumble in 2026\n- COIN $160.49 (-4.02%) — crypto pullback despite E*TRADE adoption news\n- NVDA $207.40 (-2.40%) — AI chip sympathy sell-off\n- TSM $409.74 (-2.32%) — semiconductor weakness broad-based\n\nMS -4.45% notable: NC reported +1.4% but actual close was a big red candle. E*TRADE crypto news appears to be sell-the-news, or other unseen catalysts at play.\n\nBiggest Gainers:\n- PYPL $56.73 (+2.18%) — M&A bidding war expectation (5-day +22.47%)\n- MSFT $401.10 (+1.38%) — Nadella AI stance + relative Mag7 strength\n- UNH $423.38 (+1.16%) — Q2 beat + raised guidance\n- NFLX $74.35 (+0.91%) — regular session pre-earnings (then -8% AH)\n\n## News That Mattered\n\n1. AI competitive landscape shift — THE single-stock driver today\nGOOGL Gemini 3.5 Pro delay raises questions about Google's AI execution capability. AVGO -5.03%, NVDA -2.40%, TSM -2.32% — entire AI/semi complex hit. But MSFT +1.38% bucked the trend — market is differentiating AI winners from losers. MSFT has Grok 4.3 on Bedrock (via AMZN) + Anthropic partnership, AI narrative intact. NVDA as picks-and-shovels play, -2.4% relatively restrained.\n\nForward view: If Gemini 3.5 ships within 2 weeks, GOOGL -4.44% is a buy-the-dip. If delayed beyond Q3, GOOGL AI narrative faces structural damage. This is GOOGL's second AI execution miss in 2026.\n\n2. Iran war premium fading — paradigm shift\nSixth straight night of strikes but oil AND gold both dropped. Iran released US citizen (goodwill gesture) — potential de-escalation signal. Market is pricing OUT the war premium. NC #1's USO/XLE/Defense ACTION calls should be reassessed — war trade may be exhausted.\n\nIf ceasefire/talks emerge over weekend, oil could drop 5-10% and risk assets would rally. But it's Friday — weekend risk remains real.\n\n3. Earnings season pattern emerging\nNFLX revenue +13% beat but conservative guidance = -8% AH punishment. UNH beat + raised = +1.2%. Pattern: guidance matters more than backward beat. Market no longer rewards good backward numbers, punishes insufficient forward outlook.\n\n4. MS E*TRADE crypto — big structural news, wrong stock reaction\nSpot BTC/ETH/SOL on a $10T platform is structurally bullish for crypto adoption. But MS -4.45% suggests broader market/company factors overrode this catalyst. COIN -4.02% confirms crypto sector weakness. BTC near $64K stable but equity crypto proxies underperforming.\n\n5. Brazil trade war — second front opening\nBrazil tariff retaliation threats escalate. If implemented, impacts US soybeans, machinery, tech exports. DE, CAT become tariff-risk proxies. Low probability but worth monitoring.\n\n6. Fed — hawkish undercurrent building\nDallas Fed Logan calls for modestly higher rates. Warsh Senate review positive. Next FOMC Jul 28-29 (11 days away). Bond market pricing in higher terminal rate — yields rising, gold dropping. Rate-cut narrative appears premature.\n\n## Opportunities Carry Forward\n\nNFLX — Post-earnings dip buying opportunity\nThesis: -8% on 13% revenue growth + sub growth + ad-tier scaling = overreaction\nCatalyst: \"Less engagement data\" = governance issue, not fundamental business problem\nRisk: If management gave more negative forward indicators on call\nAction: Watch pre-market/open. If confirmed near -8%, buy-the-dip candidate\n\nGOOGL — AI delay creates potential entry\nThesis: -4.44% may overprice Gemini delay. If ships within 2 weeks, buying opportunity\nRisk: If delay extends beyond Q3 = structural AI narrative damage\nCatalyst: Google PR about Gemini 3.5 timeline\n\nPYPL — M&A premium with room to run\nThesis: Board rejects $53B as inadequate = market expects higher bid ($58-60B)\n5-day +22.47% already prices in some premium\nRisk: If Stripe walks, PYPL falls back to pre-bid $47-50\nAsymmetric risk/reward tilts positive — Stripe needs this deal strategically\n\nHealthcare rotation — XLV momentum\nXLV +2.22% on UNH beat + defensive rotation. If tech weakness continues, healthcare continues to attract flow.\n\n## Risks / Watchlist\n\nTonight's Macro (Jul 17 US, HKT evening):\n8:30pm HKT | Housing Starts (Jun) | HIGH | 1.31M forecast (prev 1.177M)\n8:30pm HKT | Building Permits (Jun) | HIGH | 1.40M forecast (prev 1.41M)\n8:30pm HKT | Import Prices MoM (Jun) | MEDIUM | -0.7% forecast (prev +1.9%)\n9:15pm HKT | Industrial Production MoM (Jun) | MEDIUM | +0.2% forecast (prev +0.1%)\n10:00pm HKT | Michigan Consumer Sentiment (Jul Prelim) | HIGH | 51.0 forecast (prev 49.5)\n\nThree HIGH importance events tonight — housing data + consumer sentiment can move market. Sentiment forecast 51 vs 49.5 suggests mild improvement, but any miss (<49) accelerates risk-off.\n\nWeekend Risks:\n- Iran: 48 hours can change a lot. Ceasefire signal (citizen release) vs continued escalation\n- Brazil tariffs: Weekend may bring more political rhetoric\n- No major earnings Mon morning — weekend gap risk primarily geopolitical\n\nFOMC proximity: Jul 28-29, 11 days away. Hawkish rhetoric building. Bond market pricing higher-for-longer.\n\n## My Take\n\nToday's market was a textbook risk-off rotation: AI/tech hammered (GOOGL Gemini delay the trigger), capital rotated into healthcare + defensives. But this isn't panic — DIA only -0.21%, breadth not broken.\n\nThree core themes going into Friday US session:\n\n1. AI differentiation is real. GOOGL -4.44% vs MSFT +1.38% — market separating AI winners from losers. NVDA as neutral picks-and-shovels play, -2.4% is sympathy sell-off not fundamental. If GOOGL AI execution continues stumbling, MSFT/AMZN will continue outperforming.\n\n2. Iran war premium is dead — for now. Six nights of strikes but oil/gold both down = market exhausted. Iran releasing US citizen is the single most important de-escalation signal. If weekend brings ceasefire news, Monday sees oil -5%+ and risk rally. But wouldn't trade this ahead of weekend — too much uncertainty.\n\n3. Tonight's triple HIGH events (Housing + Michigan Sentiment) will define Friday direction. Sentiment forecast 51 still historically low, any miss reinforces recession narrative. Housing data reflects rate environment — if misses, rate-cut expectations resurface but conflict with Fed's hawkish stance.\n\nBottom line: Choppy but not bearish. This rotation is healthy — overbought tech pulls back, undervalued defensives catch up. NFLX -8% AH is the most asymmetric upside setup. Weekend positioning should be light — geopolitical risk still real.\n\nNC #2 Accuracy Assessment:\n- GOOGL ACTION call: CORRECT — Gemini delay drove -4.44%\n- NFLX ACTION call: CORRECT — -8% AH confirmed, buy-the-dip thesis\n- Iran WATCH call: CORRECT — war premium fading, oil/gold both down\n- Brazil WATCH call: CORRECT — retaliation threats confirmed\n- MS WATCH call: WRONG — reported +1.4% but actual close -4.45%\n- PYPL WATCH call: CORRECT — M&A bidding war expectation, +2.18%\n- Gold NOTE call: CORRECT — $4,000 breakout was bull trap, -2.0%\n",
+      "risks": [
+        "Tonight 3 HIGH events — Housing Starts, Building Permits, Michigan Sentiment can move market",
+        "Weekend Iran risk — 48h geopolitical uncertainty before Monday open",
+        "Brazil tariff escalation — second trade war front opening",
+        "FOMC Jul 28-29 approaching — hawkish rhetoric building, rate-cut narrative premature",
+        "MS -4.45% despite E*TRADE crypto news — NC call was wrong on direction"
+      ],
+      "my_take": "Risk-off rotation driven by AI disappointment (GOOGL Gemini delay) + Iran war fatigue. NFLX -8% AH is the most interesting asymmetric opportunity for tomorrow. Tonight's triple HIGH macro events (Housing Starts, Building Permits, Michigan Sentiment) will set the tone for Friday — any miss accelerates risk-off. Weekend geopolitical risk (Iran, Brazil) argues for light positioning."
     }
   ],
   "news_curator": [
