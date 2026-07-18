@@ -1,40 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "XLE",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "Iran Day 8 sheng ji che di ni zhuan war priced out narrative. US zha qiao liang, yi lang kuo da gong ji zhi Syria/Bahrain. FT han you jing gao oil market close to running on empty. XOM/CVX/COP zhi jie shou yi. Hormuz zhen zheng shou zu = you jia 95+.",
-      "source": "OPPORTUNITY"
-    },
-    {
-      "ticker": "TSM",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "Q2 profit +77%, 100B e wai mei guo tou zi, CEO hua AI boom zhong you 3 nian. Dan gu jia -4% (5 ri) -- everything priced in. 100B tou zi xi demand confidence ding forced onshoring? Semi sector headwind xian zhi upside.",
-      "source": "WATCH"
-    },
-    {
-      "ticker": "NFLX",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "Q2 revenue +13% YoY dan guidance disappoint + engagement data tou ming du jian shao, -8% AH. The -8% on 13% growth ke neng xi overreaction. Ad-tier scaling + live sports = structural tailwind. Ru guo kai shi que ren -8% = buy-the-dip candidate.",
-      "source": "WATCH"
-    },
-    {
-      "ticker": "MRK",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "FDA pi zhun Lipfendra (enlicitide) -- shou ge kou fu PCSK9 yi zhi ji. Qian zai 20B+ shi chang. Statins ti dai pin + kou fu bian li xing = blockbuster potential. Gu jia +2.3% fan ying wen he, wei wan quan price in.",
-      "source": "OPPORTUNITY"
-    },
-    {
-      "ticker": "PYPL",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "Stripe+Advent 53B shou gou bei dong shi hui ping wei inadequate -- shi chang jie du wei xiang yao geng gao bao jia. 5 ri lei ji +22%. Stripe zhan lue shang xu yao ni dan deal, bidding war ke neng xing sheng wen.",
-      "source": "OPPORTUNITY"
-    }
-  ],
-  "last_synced": "2026-07-18T12:12:47.112074+08:00"
+  "decisions": [],
+  "last_synced": "2026-07-18T12:16:07.297984+08:00"
 }
