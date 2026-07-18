@@ -8,20 +8,6 @@
       "source": "OPPORTUNITY"
     },
     {
-      "ticker": "IBM",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "-25% shi shang zui da dan ri die fu. CEO Krishna hua AI spending shift to security -- enterprise AI zhi chu canary. Wu xi buy-the-dip, er xi AI enterprise exposure warning. ORCL/CRM deng enterprise AI plays you contagion risk.",
-      "source": "RISK"
-    },
-    {
-      "ticker": "GLD",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "4000 breakout = bull trap, sui ji -2%. Iran chong tu xia huang jin wu fa shang sheng -- bi xian gong neng jie gou xing shi xiao. Warsh ying pai + shi zhi shou yi lu gao qi + qiang mei yuan xing cheng duo zhong da ji. Goldman sees central bank floor dan duan qi momentum xiang xia.",
-      "source": "RISK"
-    },
-    {
       "ticker": "TSM",
       "status": "deep_dive",
       "updated_at": "2026-07-17",
@@ -48,14 +34,7 @@
       "updated_at": "2026-07-17",
       "reasoning": "Stripe+Advent 53B shou gou bei dong shi hui ping wei inadequate -- shi chang jie du wei xiang yao geng gao bao jia. 5 ri lei ji +22%. Stripe zhan lue shang xu yao ni dan deal, bidding war ke neng xing sheng wen.",
       "source": "OPPORTUNITY"
-    },
-    {
-      "ticker": "LMT",
-      "status": "deep_dive",
-      "updated_at": "2026-07-17",
-      "reasoning": "100B backlog ti gong multi-year visibility. Pentagon Iran war bill over 100B. Saab chao yu qi, GE Aerospace shang tiao FY outlook. Yi lang chong tu jie gou xing tui sheng guo fang zhi chu. NATO feng hui chi xu cui hua.",
-      "source": "OPPORTUNITY"
     }
   ],
-  "last_synced": "2026-07-18T12:09:06.115704+08:00"
+  "last_synced": "2026-07-18T12:12:47.112074+08:00"
 }
