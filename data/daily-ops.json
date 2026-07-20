@@ -3451,6 +3451,79 @@
         "AI Chip Correction: NVDA, TSM, GOOGL",
         "Gold Bull Trap: GLD"
       ]
+    },
+    {
+      "pipeline": "NewsAnalysis-NewsCurator",
+      "date": "2026-07-20",
+      "time": "08:18 HKT",
+      "status": "success",
+      "market_direction": "Iran conflict escalates 9th wave, oil breaks 90; SPX near ATH; week ahead TSLA/GOOGL earnings, AMD AI Event",
+      "headlines": [
+        "[RECENT] ACTION: Energy+Defense, US-Iran 9th wave, oil above 90",
+        "[NEW] ACTION: TSM Arizona fab, AI multi-year demand",
+        "[NEW] ACTION: NFLX -50pct, technical support, 587M AI bet",
+        "[NEW] ACTION: DJT paid early-access posts lift stock",
+        "[NEW] WATCH: AMD July 22 AI Event catalyst",
+        "[NEW] WATCH: GOOGL Gemini 3.5 Pro delayed",
+        "[RECENT] WATCH: Fed Warsh, 30Y Treasury 5.06pct",
+        "[NEW] WATCH: IBM -25pct, AI casualty",
+        "[NEW] WATCH: AAPL vs OpenAI lawsuit",
+        "[NEW] NOTE: TSLA/GOOGL earnings this week",
+        "[RECENT] NOTE: GME pursuing eBay (MEME)",
+        "[NEW] NOTE: Utility ETFs +8pct YTD on AI power",
+        "[RECENT] NOTE: VG nat gas rally"
+      ],
+      "opportunities": [
+        "Energy XOM/CVX + Defense LMT/RTX: conflict premium, Hormuz risk not priced",
+        "TSM: AI megatrend confirmed, removes capex peak fears, bullish for NVDA/AMD/AVGO",
+        "AMD: July 22 AI Event could trigger semi-wide rally",
+        "DJT: momentum play for Viper"
+      ],
+      "analysis": "Three themes: geopolitical escalation (oil 90+) + AI earnings test (TSLA/GOOGL) + Fed hawkish (30Y 5.06pct). AI sector diverging: TSMC confirms strong demand vs IBM -25pct / GOOGL Gemini delay. Capital concentrating in real beneficiaries (NVDA/TSM), marginal players falling.",
+      "risks": [
+        "Iran conflict spreads to Hormuz = oil spike + broad risk-off",
+        "TSLA/GOOGL earnings miss = AI narrative hit, Mag7 rotation accelerates",
+        "Oil keeps Warsh hawkish = high rates pressure growth stocks",
+        "IBM-style AI casualty could spread to ORCL/CRM"
+      ],
+      "my_take": "Most actionable: Energy/Defense premium + TSM/NVDA AI demand. Short-term catalysts: AMD July 22 event, TSLA/GOOGL earnings. Oil at 90+ but SPX near ATH = market not fully pricing geopolitical risk.",
+      "key_takeaways": [
+        "Oil breaks 90 -- 9th wave, energy/defense premium persists",
+        "TSMC confirms AI multi-year strong demand -- bullish all semis",
+        "AI sector divergence -- NVDA/TSM win vs IBM/NFLX lose",
+        "Fed Warsh hawkish, 30Y 5.06pct -- high rate environment continues",
+        "Week ahead: TSLA/GOOGL earnings + AMD July 22 AI Event"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-20",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "Risk-off: SPY -0.99%, QQQ -1.50%. Energy lone winner (+1.16%), tech/semis crushed. VIX +12.2% to 18.77. Iran weekend escalation + earnings week ahead.",
+      "headlines": [
+        "US-Iran conflict escalates to 9th wave, oil breaks $90, Dow futures fall",
+        "NFLX -7.26% post-earnings on -50% YoY drop, 142M volume (4x normal)",
+        "GOOGL -2.17% - Gemini 3.5 Pro delay weighs, down 6.5% from Wed high",
+        "TSM -2.78% despite Arizona AI demand confirmation - macro selling overrides",
+        "TSLA -2.61% into earnings week, 5-day -3.5% pre-earnings de-risking"
+      ],
+      "opportunities": [
+        "XOM/CVX/USO/XLE: Iran conflict no de-escalation - wait for pullback entry",
+        "GOOGL: Earnings week asymmetric setup - Gemini delay priced in, ad revenue key",
+        "TSLA: Pre-earnings sell-off creates potential bounce setup if margins OK",
+        "NFLX: Post-earnings crash at technical support - watch for confirmation, not yet entry",
+        "AMD: July 22 AI Event catalyst for semis rebound"
+      ],
+      "analysis": "## Fed Context - Macro Backdrop\nNext FOMC: Jul 28-29 (next Tue/Wed). No Fed press releases impacting markets this week - last was Jul 16 joint statement on bank examinations, no policy signal. Kevin Warsh's hawkish stance already digested by bond market (30Y 5.06%), but market will start pricing in hold/hike expectations ahead of FOMC. CME FedWatch likely pricing hold, but Warsh's rhetoric is the key variable.\n\n## Top Headlines (Raw from news_summary DB)\n\n**Geopolitical - US-Iran Conflict**\n- [MarketWatch] Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies (USO)\n- [Yahoo Finance] Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead (DIA, GOOGL, TSLA, USO)\n- Weekend conflict escalated to 9th wave of strikes, US death toll rising, oil breaks $90\n- NC captured: Energy/Defense ACTION call half-right - energy up, defense down\n\n**Tech/AI - Earnings Week**\n- [Investing.com] TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment (TSM)\n- NC captured: TSM bullish - but stock sold off regardless, macro selling overpowered fundamentals\n\n**Consumer/Housing**\n- [Yahoo Finance] Homebuyers lose ground as housing affordability slams shut\n\n**Other**\n- Multiple TradingView technical posts on Gold/XAUUSD - safe haven bid active\n\n**NC Misses (raw news saw, NC didn't cover):**\n- No major missed calls - NC coverage was comprehensive\n- CBS/Time/BBC non-market stories filled headline space\n\n## 1. Market Recap - Friday July 17\n\n| Index | Close | Change | Week Change | VIX |\n|-------|-------|--------|-------------|-----|\n| SPY | 743.29 | -0.99% | -0.78% | 18.77 (+12.2%) |\n| QQQ | 695.33 | -1.50% | -2.30% | - |\n| DIA | 520.81 | -0.74% | -0.67% | - |\n\n**Sector Performance (Friday):**\n- Energy (XLE): +1.16% - lone winner\n- Tech (XLK): -1.09%\n- Consumer Disc (XLY): -1.62%\n- Semis (SMH): -2.18% - worst hit\n- Healthcare (XLV): -0.44% - Thursday's defensive rotation failed to hold\n- Financials (XLF): -0.86%\n- Small Caps (IWM): -0.52%\n\n**Volume:** SPY 62.6M (vs avg ~44M) - clear distribution. QQQ 54M (vs avg ~33M). NFLX 142M (4x normal) - post-earnings panic selling.\n\n**VIX:** 16.73 -> 18.77 (+12.2%), intraday high 19.50. Fear index rising but still below 20 - market is nervous, not panicking.\n\n**Breadth:** Broad-based selling. Only energy sector positive. Tech-heavy QQQ underperformed SPY by 51bp - rotation out of tech continues.\n\n## 2. Notable Movers\n\n**Winners (Friday):**\n- USO +3.91% - crude breaks $90, Hormuz supply risk premium\n- CVX +1.91% - energy major benefiting from oil rally\n- XOM +0.97% - also benefiting, but faded from +2% intraday (profit taking)\n\n**Losers (Friday):**\n- NFLX -7.26% ($68.95) - post-earnings crash, 142M volume (4x normal). NC says -50% YoY, weak guidance. Technical support appearing but not a buy signal\n- TSM -2.78% ($398.37) - 5 straight down days from $422 to $398. Even Arizona fab + AI demand confirmation couldn't stop macro selling\n- GOOGL -2.17% ($346.77) - down 6.5% from Wednesday high of $370.92. Gemini 3.5 Pro delay weighing\n- TSLA -2.61% ($380.84) - pre-earnings de-risking, 5-day -3.5%\n- NVDA -2.21% ($202.81) - broke $205 support, testing $200 psychological level\n- SMH -2.18% - semis across the board decline\n\n**Sector Rotation Signal:**\nTech -> Energy rotation is clear. But defense (LMT -0.93%, RTX -0.44%) did NOT benefit from Iran conflict - notable: market may view Iran conflict as short-term/contained, or defense already priced in significant premium.\n\n## 3. News That Mattered\n\n**Confirmed Catalysts:**\n1. US-Iran conflict escalation - weekend upgrade from 8th to 9th wave, US death toll rising, oil breaks $90. Most important weekend development\n2. NFLX earnings - -50% YoY, weak guidance. $587M AI filmmaking bet (Ben Affleck startup) viewed as long-shot\n3. TSM Arizona fab + AI demand - CFO confirmed multi-year strong demand, but stock sold off anyway\n4. GOOGL Gemini 3.5 Pro delay - AI leadership questioned, plus this week's earnings, market de-risking ahead\n\n**NC Call Review (Friday performance):**\n| Call | Ticker | NC Verdict | Actual | Hit? |\n|------|--------|------------|--------|------|\n| Energy | XOM, CVX | ACTION | +0.97%, +1.91% | YES |\n| Defense | LMT, RTX | ACTION | -0.93%, -0.44% | NO |\n| TSM AI demand | TSM | ACTION (bullish) | -2.78% | NO (macro override) |\n| NFLX support | NFLX | ACTION (wait) | -7.26% | YES (correctly cautious) |\n| DJT momentum | DJT | ACTION | - | TBD |\n| AMD AI Event | AMD | WATCH | - | Jul 22 event ahead |\n\n**What NC missed / underweighted:**\n- Defense didn't follow energy - NC's \"energy+defense\" basket thesis only half-right. Needs review: why no defense bid?\n- TSM macro selling pressure - NC was bullish but underestimated tech rotation force\n\n## 4. Opportunities Carry Forward\n\n**Energy (XOM, CVX, XLE, USO) - highest conviction carry**\n- Iran conflict shows no de-escalation signs, weekend actually escalated. Oil at $90+ but SPX still near ATH - this gap is opportunity\n- But note: XOM faded from +2% to +0.97% intraday Friday, profit taking exists. Wait for pullback, don't chase\n- USO +3.91% reflects Friday after-hours + weekend oil gains - Monday open may gap up\n- Outlook: OPPORTUNITY - wait for intraday pullback, don't chase the open\n\n**GOOGL - earnings week asymmetric setup**\n- From $370 -> $346, Gemini delay partially priced in\n- This week's earnings - if Gemini has clear ship date + ad revenue strong, can trigger reversal\n- But if earnings disappoint again -> double hit\n- Outlook: WATCH - wait for earnings before deciding\n\n**TSLA - pre-earnings sell-off, potential bounce**\n- 5-day -3.5%, from $405 to $381. Market clearly de-risking ahead of earnings\n- If earnings OK (delivery numbers known, margin is key), room to bounce\n- Outlook: WATCH - earnings gamble, don't pre-position\n\n**NFLX - post-earnings crash watch**\n- -7.26%, -50% YoY, but $68.95 area showing technical support\n- $587M AI filmmaking bet - market treats as joke, but if it works it's game-changing\n- Not a buy now, wait for next quarter confirmation of turn\n- Outlook: WATCH - wait for confirmation\n\n**AMD - July 22 AI Event**\n- Tuesday's AI Event is catalyst. If MI400 surprises, can trigger semis rebound\n- NVDA also benefits (AI demand validation)\n- Outlook: WATCH - event-driven trade\n\n## 5. Risks / Watchlist\n\n**Tonight's Macro (from macro_calendar.json):**\n- NO HIGH or MEDIUM importance USD events tonight\n- Only notable: API Crude Oil Stock Change (Tue Jul 22 04:30am HKT) - directly impacts oil narrative\n\n**This Week's Key Events:**\n| Date | Event | Importance |\n|------|-------|------------|\n| Jul 21 (Tue) 8:15pm HKT | ADP Employment Change Weekly | MEDIUM |\n| Jul 22 (Tue) | AMD AI Event | Catalyst |\n| Jul 22 (Wed) 10:30pm HKT | EIA Crude Oil Stocks | MEDIUM |\n| Jul 23 (Thu) 8:30pm HKT | Initial Jobless Claims | MEDIUM |\n| This week | TSLA Earnings | KEY |\n| This week | GOOGL Earnings | KEY |\n| Jul 28-29 (next week) | FOMC Meeting | KEY |\n\n**Overnight Risks:**\n1. Iran escalation - biggest overnight risk. Any new strike/retaliation triggers Monday gap down in equities, gap up in oil\n2. Earnings week - TSLA + GOOGL are AI sector litmus test. Double-miss would accelerate tech rout\n3. Fed Warsh - any pre-FOMC hawkish signal pushes yields higher, hits growth/tech\n4. Bond market - 30Y at 5.06%, break above 5.10% could trigger broader risk-off\n\n**Position Risk (no position data - general assessment):**\n- Tech-heavy portfolio: highest risk - rotation out of tech still in progress\n- Energy-heavy: currently safest, but watch for profit taking\n- If Iran sudden ceasefire: energy would sharply correct, tech would bounce",
+      "risks": [
+        "Iran weekend escalation -> Monday gap down risk in equities, gap up in oil",
+        "TSLA + GOOGL earnings this week = AI sector litmus test. Double-miss would accelerate tech rout",
+        "Fed Warsh pre-FOMC hawkish rhetoric - 30Y at 5.06%, break above 5.10% triggers risk-off",
+        "Defense (LMT/RTX) NOT catching Iran bid - sector thesis needs review",
+        "Energy profit taking risk: XOM faded from +2% to +0.97% intraday Friday"
+      ],
+      "my_take": "Energy has the most directional conviction - Iran conflict won't end soon, oil at $90+ still below 2022 highs. Tech selling isn't fundamental - GOOGL/TSM/NVDA AI demand story intact, current weakness is entry preparation, not panic exit."
     }
   ],
   "news_curator": [
