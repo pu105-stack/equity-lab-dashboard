@@ -3588,6 +3588,87 @@
         "BTC volmageddon → crypto contagion"
       ],
       "my_take": "Cautiously bullish — waiting for Wed GOOGL/TSLA earnings to confirm direction. Iran risk + gold $4,000+ + Fed hike narrative = elevated uncertainty. Stock-picker's market: energy/defense overbought, tech at binary catalyst point."
+    },
+    {
+      "pipeline": "NewsCurator",
+      "date": "2026-07-21",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "Risk-off - US stocks down Monday, after-close: Trump tariffs + Dimon warning + Houthi blockade",
+      "headlines": [
+        "[NEW] MACRO - Trump imposes 50% tariff on Canadian goods, trade war escalates",
+        "[NEW] JPM - Jamie Dimon: markets underestimate risks, would not buy stocks or Treasurys",
+        "[NEW] PARA, WBD - Federal judge pauses Paramount-Warner Bros $111B merger",
+        "[NEW] OIL - Yemen Houthis declare maritime embargo on Saudi Arabia, Red Sea crisis deepens",
+        "[NEW] UK - New PM Burnham takes office, JPMorgan warns on bank tax risk",
+        "[NEW] NVDA - Jensen Huang's $4 trillion bet shifts Nvidia strategy",
+        "[NEW] NVDA, MU - Chinese cheap AI models could actually boost chip stocks",
+        "[NEW] AMD, MSFT - AMD launches Helios AI system, Microsoft as newest buyer",
+        "[RECENT] OIL, INFLATION - Oil at one-month high, inflation concerns heating up",
+        "[RECENT] TSLA - Wed earnings preview: bar is sky-high, options traders bet $550M against",
+        "[NEW] MACRO - $1.5T leverage peaking warning: history is unforgiving",
+        "[NEW] TECH - Jim Cramer: time to look beyond tech as AI uncertainty rattles market",
+        "[NEW] GOLD - Gold shows major decline signal, Middle East violence cannot support prices",
+        "[RECENT] AMC - MEME stock continues surging, The Odyssey brings apes back",
+        "[NEW] MACRO - LSE plans round-the-clock trading next year, structural shift"
+      ],
+      "opportunities": [
+        "OIL: Houthi blockade not fully priced, oil may rise further",
+        "NVDA/MU: Chinese AI counter-narrative could trigger rebound",
+        "AMD/MSFT: Helios launch + MSFT validation",
+        "PARA/WBD: Merger paused, NFLX may benefit"
+      ],
+      "analysis": "Risk-off signals concentrated. Dimon warning + Trump tariffs + Houthi blockade stacked. Oil complex is biggest winner, tech continues under pressure. TSLA earnings Wednesday - downside risk > upside. Gold weakness worth monitoring.",
+      "risks": [
+        "Trump 50% tariffs on Canada - trade war escalation",
+        "Jamie Dimon: markets underestimate risks, would not buy",
+        "Houthis maritime embargo on Saudi Arabia",
+        "Oil-driven inflation broadening (NZ 4.1%, Goldman warning)",
+        "$1.5T leverage peaking - historical warning",
+        "TSLA earnings bar sky-high, $550M bearish options bet"
+      ],
+      "my_take": "Risk-off conditions accumulating. Oil has more upside from Houthi blockade. Tech cautious on multiple bearish signals. Gold paradoxical weakness worth monitoring for regime change signal.",
+      "key_takeaways": [
+        "Trump 50% tariffs on Canada = trade war escalation",
+        "Jamie Dimon would not buy stocks or Treasurys - rare signal",
+        "Houthis declare maritime embargo on Saudi - second front in Iran war",
+        "Oil at one-month high, inflation broadening, bonds selling off",
+        "NVDA/MU: Chinese AI counter-narrative as potential catalyst",
+        "AMD Helios + MSFT = credible NVDA challenger",
+        "TSLA earnings Wed: $550M bearish bet, bar sky-high"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-21",
+      "time": "08:39 HKT",
+      "status": "success",
+      "market_direction": "Bearish cautious",
+      "headlines": [
+        "Trump 50% tariffs on Canada (after close)",
+        "Jamie Dimon warns markets underestimate risks",
+        "Houthis declare maritime embargo on Saudi Arabia",
+        "Cheap AI models could boost chip stocks - MU +1.94%",
+        "AMD launches Helios AI system, MSFT as buyer",
+        "Judge pauses Paramount-WBD $111B merger",
+        "AMC +26.80% meme mania continues",
+        "10Y yield breaks 4.60%, bonds selling off"
+      ],
+      "opportunities": [
+        "USO: Houthi blockade + Iran = oil supply double hit",
+        "MU: Cheap AI models logic validated, +1.94% leading chips",
+        "AMD: Helios launch + Jul 22 AI Event, MSFT endorsement",
+        "NVDA: Sentiment may be turning"
+      ],
+      "analysis": "## 今日重頭條\n\n收市前三條主導市場：\n\n1. [CNBC/BBC/NYT] Trump宣布對加拿大加徵50%關稅（收市後） — 針對乳製品/酒精/汽車/曲棍球棍，規模超預期。直接打擊consumer discretionary + auto stocks。CAD將受壓。星期一盤中未有反映，星期二US session才是真正考驗。NC捕捉為WATCH\n\n2. [CNBC] Jamie Dimon警告：市場低估風險，我不會買股票或國債 — JPM CEO極罕見同時否定stocks + Treasurys。列舉風險：地緣政治（Iran/Houthis/關稅）+ 財政赤字 + 通脹持續性。收市後發布，JPM盤中僅-0.65%，星期二金融股可能跟跌。NC捕捉為WATCH\n\n3. [Foreign Policy/BBC] 也門Houthis宣布對沙特實施海上封鎖 — Red Sea危機深化。結合Iran衝突，石油供應鏈雙重打擊。USO星期一+1.25%，AH繼續升+0.23%。Brent crude $82.45，一個月高位。NC捕捉為ACTION\n\n盤中實際驅動的headlines：\n- [MarketWatch] 中國廉價AI模型可能反利好晶片股 — Jevons paradox邏輯：平價模型->更廣泛採用->更多inference->更多chip demand。MU +1.94%, AMD +1.58%, NVDA +0.23%\n- [CNBC] AMD發布Helios AI系統，Microsoft成最新買家 — MSFT +2.15%，AMD +1.58%\n- [NYT] 聯邦法官暫停Paramount-Warner Bros 111B合併 — WBD -3.76%\n\nNC未捕捉的raw headlines：\n- Wolf Street: 30個大城市condo價格跌15-33%，部分回到2006水平（housing macro壓力）\n- TradingView多個technical posts: META failed trendline, AMZN wave 2 completed\n\n## Market Recap\n\n| 指數 | 收市 | 變動 | 評註 |\n|------|------|------|------|\n| SPY | 742.09 | -0.16% | 表面平靜，但under the hood分歧大 |\n| QQQ | 696.06 | +0.10% | AI/半導體撐住，MSFT+GOOGL領漲 |\n| DIA | 517.94 | -0.55% | 最弱 — 關稅憂慮打擊industrial/consumer |\n| IWM | 292.31 | -0.59% | Small cap持續跑輸，risk appetite低 |\n| VIX | 18.65 | -0.64% | 收市時fear反而回落 — 但收市後事件未反映 |\n\nSector Performance:\n- 贏家: Energy +0.45%（USO +1.25%）、Tech +0.07%、Comm Svc +0.14%\n- 輸家: Healthcare -1.14%、Materials -0.99%、Consumer Disc -0.72%、Industrials -0.72%\n\nBond Market: 10Y yield 4.598%（+5.7bp vs Friday 4.541%）— 債券被沽售。Dimon連Treasurys都話唔買，信號極端。\n\nKey Observation: 星期一盤面係「科技/能源撐市，其他全部沽貨」— 典型risk-off rotation但未完全panic。收市後三連爆先係真正考驗。\n\n## Notable Movers\n\n| Ticker | Chg% | Catalyst | 跟進？ |\n|--------|------|----------|--------|\n| AMC | +26.80% | Meme狂潮持續 | Viper domain |\n| MSFT | +2.15% | AMD Helios buyer + AI demand | 值得跟進 |\n| MU | +1.94% | 中國廉價AI模型利好驗證 | 有上行空間 |\n| GOOGL | +1.51% | 雲端+AI，星期三業績前夕 | 同TSLA一樣等業績 |\n| AMD | +1.58% | Helios launch，挑戰NVDA DGX | Jul 22 AI Event catalyst |\n| NVDA | +0.23% | Cheap AI利好 + Jensen 4T bet | 留意sentiment轉向 |\n| TSLA | -2.96% | 業績前夕，550M bearish options | Bar極高，downside > upside |\n| WBD | -3.76% | Paramount合併被法官暫停 | Not core portfolio |\n| JPM | -0.65% | Dimon warning收市後先出 | 星期二可能補跌 |\n\nSector Rotation Signal: 資金從cyclical（XLY/XLI/XLB）流向growth（XLK）同commodity（XLE）。Healthcare -1.14%偏弱，如果defensive都被沽，可能係margin call driven selling。\n\n## News That Mattered\n\nNC Calls Assessment（NC #2 08:16 HKT）：\n\n| NC Call | Direction | Result | Score |\n|---------|-----------|--------|-------|\n| OIL - Houthi blockade | ACTION | USO +1.25%, AH +0.23% | Hit |\n| NVDA/MU - Cheap AI bullish | ACTION | MU +1.94%, NVDA +0.23% | Hit |\n| AMD/MSFT - Helios launch | ACTION | AMD +1.58%, MSFT +2.15% | Hit |\n| TSLA - WATCH earnings | WATCH | TSLA -2.96% | Direction correct |\n| WBD/PARA - merger blocked | WATCH | WBD -3.76% | Hit |\n| Gold decline signal | WATCH | Gold 4022 冇大跌 | Miss |\n| Dimon warning | WATCH | 收市後出 | Pending |\n| Trump tariffs | WATCH | 收市後出 | Pending |\n\nNC命中率極高：6/8 confirmed hits，1 miss（gold），2 pending。\n\n## Opportunities Carry Forward\n\n1. Oil Complex - 最清晰opportunity\n- Houthi blockade + Iran conflict = Red Sea供應鏈雙重打擊\n- USO 125.51，一個月高位，AH繼續升\n- 今晚API Crude Oil Stock Change（04:30am HKT）係catalyst\n- Risk: 油價已經一個月高位，部分risk premium已price in\n\n2. AI Semiconductor - narrative正在轉向\n- Cheap AI models -> more adoption -> more chip demand logic gaining traction\n- MU +1.94%領漲，NVDA企穩\n- AMD Jul 22 AI Event + Helios launch catalyst密集\n- MSFT +2.15%印證AI基建demand仍然強勁\n- Risk: AI capex peak narrative未消散，Cramer叫rotating out of tech\n\n3. TSLA Earnings Play（星期三）\n- Bar set extremely high - 550M bearish options\n- TSLA -2.96% pre-earnings沽壓\n- My view: 觀望。Risk/reward不對稱\n\n## Risks / Watchlist\n\n今晚剩餘Events（macro_calendar.json）：\n- 8:15pm HKT - ADP Employment Change Weekly\n- 4:30am HKT - API Crude Oil Stock Change (Jul/17)\n\n明天: 無HIGH importance USD events，但消化收市後三連爆才是主導。\n\nOvernight Risk Factors:\n1. Trump關稅後續 - 加拿大retaliation？CAD走勢\n2. Dimon效應 - JPM/XLY星期二開市反應\n3. Houthi blockade escalation - 如果沙特確認影響，oil可能spike above 85\n4. 10Y yield - 如果突破4.65%，growth/tech全面受壓\n\nFOMC下星期（Jul 28-29）- 距離下次議息只有一星期。今星期inflation signals（油價、yield）直接影響Warsh Fed預期。\n\n## My Take\n\n今日一句：星期一係暴風雨前夕嘅平靜。\n\nSPY只跌-0.16%，但收市後Trump關稅 + Dimon警告 + Houthi封鎖三連爆，星期二US session先係真正戰場。NC今日ACTION call幾乎全中（Oil/AI chips/AMD），證明curation system有效捕捉catalyst。\n\n關鍵takeaway：\n1. Oil係最強directional bet - Houthi blockade + Iran = 兩個supply shock\n2. AI semiconductor narrative正在轉向 - Cheap models bullish logic被市場接受\n3. Risk-off signals accumulated但未panic - VIX只有18.65\n4. Gold係paradox - NC睇淡但gold企穩4000以上，可能USD走強offset避險需求\n\nTomorrow bias: Bearish cautiously. 如果SPY開市跌穿740，short-term momentum向下。Oil繼續睇好，tech selective bullish（NVDA/MU/AMD），broad market cautious.",
+      "risks": [
+        "Trump tariffs - CAD/auto/consumer stocks pressure Tue",
+        "Dimon effect - financials may catch down",
+        "10Y yield above 4.65% = growth stock pressure",
+        "FOMC Jul 28-29 - oil/yield trends impact rate expectations",
+        "TSLA Wed earnings - bar sky-high, downside risk > upside"
+      ],
+      "my_take": "Monday was calm before storm - SPY -0.16% but after-close trifecta (tariffs+Dimon+Houthis)."
     }
   ],
   "news_curator": [
