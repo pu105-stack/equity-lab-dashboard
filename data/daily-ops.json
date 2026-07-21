@@ -3590,55 +3590,6 @@
       "my_take": "Cautiously bullish — waiting for Wed GOOGL/TSLA earnings to confirm direction. Iran risk + gold $4,000+ + Fed hike narrative = elevated uncertainty. Stock-picker's market: energy/defense overbought, tech at binary catalyst point."
     },
     {
-      "pipeline": "NewsCurator",
-      "date": "2026-07-21",
-      "time": "08:16 HKT",
-      "status": "success",
-      "market_direction": "Risk-off - US stocks down Monday, after-close: Trump tariffs + Dimon warning + Houthi blockade",
-      "headlines": [
-        "[NEW] MACRO - Trump imposes 50% tariff on Canadian goods, trade war escalates",
-        "[NEW] JPM - Jamie Dimon: markets underestimate risks, would not buy stocks or Treasurys",
-        "[NEW] PARA, WBD - Federal judge pauses Paramount-Warner Bros $111B merger",
-        "[NEW] OIL - Yemen Houthis declare maritime embargo on Saudi Arabia, Red Sea crisis deepens",
-        "[NEW] UK - New PM Burnham takes office, JPMorgan warns on bank tax risk",
-        "[NEW] NVDA - Jensen Huang's $4 trillion bet shifts Nvidia strategy",
-        "[NEW] NVDA, MU - Chinese cheap AI models could actually boost chip stocks",
-        "[NEW] AMD, MSFT - AMD launches Helios AI system, Microsoft as newest buyer",
-        "[RECENT] OIL, INFLATION - Oil at one-month high, inflation concerns heating up",
-        "[RECENT] TSLA - Wed earnings preview: bar is sky-high, options traders bet $550M against",
-        "[NEW] MACRO - $1.5T leverage peaking warning: history is unforgiving",
-        "[NEW] TECH - Jim Cramer: time to look beyond tech as AI uncertainty rattles market",
-        "[NEW] GOLD - Gold shows major decline signal, Middle East violence cannot support prices",
-        "[RECENT] AMC - MEME stock continues surging, The Odyssey brings apes back",
-        "[NEW] MACRO - LSE plans round-the-clock trading next year, structural shift"
-      ],
-      "opportunities": [
-        "OIL: Houthi blockade not fully priced, oil may rise further",
-        "NVDA/MU: Chinese AI counter-narrative could trigger rebound",
-        "AMD/MSFT: Helios launch + MSFT validation",
-        "PARA/WBD: Merger paused, NFLX may benefit"
-      ],
-      "analysis": "Risk-off signals concentrated. Dimon warning + Trump tariffs + Houthi blockade stacked. Oil complex is biggest winner, tech continues under pressure. TSLA earnings Wednesday - downside risk > upside. Gold weakness worth monitoring.",
-      "risks": [
-        "Trump 50% tariffs on Canada - trade war escalation",
-        "Jamie Dimon: markets underestimate risks, would not buy",
-        "Houthis maritime embargo on Saudi Arabia",
-        "Oil-driven inflation broadening (NZ 4.1%, Goldman warning)",
-        "$1.5T leverage peaking - historical warning",
-        "TSLA earnings bar sky-high, $550M bearish options bet"
-      ],
-      "my_take": "Risk-off conditions accumulating. Oil has more upside from Houthi blockade. Tech cautious on multiple bearish signals. Gold paradoxical weakness worth monitoring for regime change signal.",
-      "key_takeaways": [
-        "Trump 50% tariffs on Canada = trade war escalation",
-        "Jamie Dimon would not buy stocks or Treasurys - rare signal",
-        "Houthis declare maritime embargo on Saudi - second front in Iran war",
-        "Oil at one-month high, inflation broadening, bonds selling off",
-        "NVDA/MU: Chinese AI counter-narrative as potential catalyst",
-        "AMD Helios + MSFT = credible NVDA challenger",
-        "TSLA earnings Wed: $550M bearish bet, bar sky-high"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-21",
       "time": "08:39 HKT",
@@ -3669,6 +3620,76 @@
         "TSLA Wed earnings - bar sky-high, downside risk > upside"
       ],
       "my_take": "Monday was calm before storm - SPY -0.16% but after-close trifecta (tariffs+Dimon+Houthis)."
+    },
+    {
+      "pipeline": "NewsCurator",
+      "date": "2026-07-21",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "Mideast tensions: Iran ceasefire talks vs Kazakhstan new supply disruption. Oil two-way risk. Earnings positive (GM/NOC beat). Tech divergence (ADBE downgrade vs NBIS surge). BTC breaks one-month high.",
+      "headlines": [
+        "[NEW] OIL - Kazakhstan stops piping oil to Black Sea after tanker attacks",
+        "[NEW] OIL - Goldman: Brent could top $120; IEA warns supply concerns",
+        "[NEW] ADBE - Morgan Stanley cuts to Underweight on AI fears",
+        "[NEW] GM - beats earnings, raises guidance; consumer resilient",
+        "[NEW] NOC - Northrop Grumman raises forecasts on weapons demand",
+        "[NEW] BTC-USD - hits one-month high above $66K; ETF inflows streak"
+      ],
+      "opportunities": [
+        "OIL: Kazakhstan pipeline + Goldman $120 call = fresh supply catalyst",
+        "ADBE: MS downgrade = portfolio risk; evaluate position",
+        "NOC: Defense cycle confirmed structural, not one-off",
+        "GM: Consumer resilience signal = broad market positive"
+      ],
+      "analysis": "Oil entering new phase - Kazakhstan first major non-Middle East supply disruption in 2026. Tech divergence intensifying (ADBE/ORCL down vs NBIS/NVDA up). BTC breakout has institutional backing. Geopolitics two-way risk.",
+      "risks": [
+        "ADBE: MS downgrade structural, AI threat to core business",
+        "TSLA: Q2 cash burn potential, AI bets require more capital",
+        "CHINA AI: Export controls escalation could disrupt semi supply chain",
+        "US-IRAN: Ceasefire uncertainty creates oil/defense two-way risk"
+      ],
+      "my_take": "1. Oil supply risk expanding beyond Middle East. 2. Tech divergence clearer - AI beneficiaries vs victims. 3. Consumer resilience positive for market. 4. BTC institutional breakout. 5. Geopolitical wildcard.",
+      "key_takeaways": [
+        "Kazakhstan pipeline = new oil supply catalyst, independent of Iran ceasefire talks",
+        "ADBE MS downgrade - portfolio risk, position review needed",
+        "NOC guidance raise confirms structural defense cycle",
+        "BTC breakout backed by ETF inflows + Clarity bill progress",
+        "Earnings season: GM/NOC positive, TSLA/GOOGL previews cautious"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-07-21",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish",
+      "headlines": [
+        "US-Iran: 10th night of strikes, ceasefire mediation in progress",
+        "Kazakhstan stops piping oil to Black Sea — new supply disruption",
+        "Goldman: Brent could top $120 if Hormuz disruptions persist",
+        "GM beats earnings, raises guidance — consumer resilience",
+        "NOC raises 2026 forecasts on strong weapons demand",
+        "Morgan Stanley cuts ADBE to Underweight — AI structural threat",
+        "BTC breaks $66K one-month high — ETF inflows + Clarity bill",
+        "NVDA discloses 9.3% stake in NBIS — AI neocloud validation",
+        "China weighs tighter AI export controls — semi supply chain risk",
+        "FOMC next week (Jul 28-29) — pre-positioning begins"
+      ],
+      "focus": [
+        "OIL — Kazakhstan supply disruption + Goldman $120 Brent",
+        "GOOGL earnings Wed AMC — AI trade test",
+        "BTC/Crypto miners — breakout with institutional backing",
+        "Defense — NOC guidance raise confirms structural cycle",
+        "ADBE risk — MS downgrade confirms AI structural threat"
+      ],
+      "analysis": "🌅 Morning Scan — 7月21日（星期二）\n\n## Fed Context — Macro Backdrop\n\n上次 FOMC（6月16-17日）會議紀錄重點：\n• 利率按兵不動，市場預期要到 2027 Q2 先有第一次減息，甚至 pricing in mid-2027 有一次加息\n• 通脹：美伊 memorandum of understanding 令 near-term inflation expectations 顯著回落，長期通脹預期仍然 anchored at 2%\n• 10Y Treasury yield 自 April FOMC 升 ~20bps，自中東衝突以來升 ~50bps\n• S&P 500 自上次 FOMC 升近 6%，由科技股領漲，earnings expectations 係主要 driver\n• AI infrastructure IPO 活動加速\n\n**下次 FOMC：7月28-29日（下週二、三）**\n今個星期係 FOMC 前最後一個完整交易週。市場會開始 positioning — 留意利率敏感 sectors（Financials、Utilities、Real Estate）嘅資金流向變化。Kevin Warsh 領導下嘅 Fed 維持 hawkish hold stance，但市場已消化。\n\n## 📰 今日重頭條\n\n1. 【地緣政治】美國對伊朗發動第10晚空襲，同時 mediators 推動10日停火協議 — 雙向風險極高（伊朗/石油/國防）\n2. 【石油供應】Kazakhstan 停止經 Black Sea 輸油管道，係2026年首個非中東供應中斷事件 — 全新 supply shock\n3. 【石油】Goldman Sachs：若 Hormuz 海峽 disruption 持續，Brent 可突破 $120 — 配合 Kazakhstan 事件，油價 upward pressure\n4. 【業績】GM beats earnings + raises full-year guidance — consumer resilience 信號，broad market positive\n5. 【業績】Northrop Grumman raises 2026 forecasts on strong weapons demand — defense cycle 結構性支持\n6. 【科技】Morgan Stanley cuts ADBE to Underweight — AI 對 Adobe 嘅結構性威脅獲 sell-side 確認\n7. 【比特幣】BTC 突破一個月高位 $66K — ETF inflows + Clarity bill odds 升至 43%，雙重催化\n8. 【NVDA】Nebius (NBIS) surges as Nvidia discloses 9.3% stake — AI neocloud theme validation\n9. 【中國AI】China weighs tighter export controls on AI — 若 retaliate with rare earth restrictions，semi supply chain 有新 disruption\n10. 【AMC】Meme stock mania returns — Nolan's Odyssey $264M blockbuster 提供 fundamental backing\n\n## 🌍 隔夜市場\n\n| 指數 | 收盤 | 變動 | 位置 |\n|------|------|------|------|\n| SPY | 742.09 | -0.16% | 貼近 ATH (760.40)，50MA = 744.55 |\n| QQQ | 696.06 | +0.10% | ATH = 748.65，50MA = 719.01 |\n| DIA | 517.94 | -0.55% | ATH = 532.54，50MA = 512.74 |\n\nSPY 同 QQQ 基本上 flat，DIA 最弱。Nasdaq tech 仍跑贏 Dow industrials。VIX 未有大變動但中東風險溢價仍在。\n\nSector rotation（前交易日）：\n- Energy +0.50%（oil supply fears）\n- Communication Services +0.10%\n- Industrials -1.85%（trade war fears?）\n- Utilities -1.47%\n- Consumer Cyclical -1.23%\n- Technology -1.10%\n- Healthcare -1.07%\n\nTech pullback 但幅度唔大。Energy 係唯一明顯 outperformer — oil supply story driving rotation。\n\n## 📈 昨日市場爆升／暴跌榜\n\nTop Gainers（前交易日）：\n• AMC +26.8% — Nolan's Odyssey $264M 開畫 + meme momentum，有 fundamental backing 唔係純 meme\n• IREN +19.6% — Bitcoin miner，跟 BTC breakout + AI/HPC pivot narrative\n• ACHR +19.6% — eVTOL，defense/tech crossover speculation\n• CIFR +17.0% — Bitcoin miner，同 IREN 一齊跑\n• CCOI +13.0% — Cogent Communications，唔似有特別 catalyst（watch for follow-through）\n\nTop Losers：主要係 micro-cap 同中國細股，冇值得關注嘅大型股暴跌\n\nMost Active：\n• BITO（Bitcoin ETF）— BTC breakout 帶動 massive volume\n• AMC — meme 回歸\n• NVDA / AAPL / INTC / MU — 大型科技股持續活躍\n• MARA — Bitcoin miner 跟隨 BTC\n\nSector Theme：Bitcoin/crypto miners 集體爆發（IREN, CIFR, MARA, BITO），呢個唔係單一事件 — BTC 突破 $66K + ETF inflows + Clarity bill 三重合奏。值得跟進。\n\n## 📡 今日重點事件\n\n從 macro_calendar.json（SOURCE OF TRUTH）：\n\n| 時間 (HKT) | 重要性 | 事件 |\n|------------|--------|------|\n| 8:15PM | MED | ADP Employment Change Weekly (prev: 19.75) |\n| 翌日 4:30AM | MED | API Crude Oil Stock Change (prev: -0.564M, fcast: -1.5M) |\n\n今日 macro calendar 相對平靜 — 冇 HIGH importance US events。市場焦點喺：\n• Earnings season（GM, NOC 今早公布；GOOGL, TSLA 聽日）\n• Oil supply headlines（Kazakhstan + Iran ceasefire talks）\n• FOMC positioning（下週）\n\n本週 upcoming HIGH events：\n• Mon Jul 27, 8:30PM HKT — Durable Goods Orders MoM (Jun)\n\n## 🔥 Sector Watch\n\nBullish sectors：\n1. Energy — Kazakhstan pipeline + Goldman $120 Brent + Iran risk premium。本週最強 sector，但雙向風險（ceasefire = pullback）\n2. Defense — NOC guidance raise confirms structural demand。Ukraine + Middle East + NATO spending 三重 tailwind\n3. Crypto/Bitcoin miners — BTC breakout + ETF inflows + Clarity bill。呢個 narrative 仲有 runway\n\nCautious sectors：\n1. Technology — Earnings week 關鍵。GOOGL（週三）、INTC（週四）業績將定調 AI trade。ADBE downgrade 係 warning sign — AI winners vs losers 分化加劇\n2. Consumer Cyclical — -1.23%，但 GM beat 可能提供支持\n3. Utilities — -1.47%，FOMC 前利率敏感 sectors 有 pressure\n\nRotation signal：Defensive to Energy/Cyclical rotation early stage。如果 oil stays elevated + consumer resilient（GM beat），呢個 rotation 有 legs。\n\n## 🎯 Pre-market Opportunities\n\n從 News Curator 整合 + raw headlines：\n\nACTION items：\n\n1. Oil / Energy sector — Kazakhstan pipeline shutdown 係 genuine new supply disruption，獨立於 Iran ceasefire talks。Goldman $120 Brent call 再加持。Short-term oil 有 upward pressure。但係：ceasefire headline 可以令油價瞬間回調 5%+。Two-way risk太高，唔適合 directional bets。反而可以留意 energy sector 嘅 relative strength — XLE/能源股 outperformance 趨勢。\n\n2. Defense sector — NOC guidance raise + geopolitical demand structural。NOC, LMT（週四業績）, RTX（週四業績）。Defense 呢個 cycle 唔係短線 trade — NATO spending commitments 係 multi-year。\n\n3. ADBE 風險管理 — Morgan Stanley downgrade to Underweight 係 sell-side confirmation of structural AI threat。如果 portfolio hold ADBE，應評估減倉。\n\nWATCH items：\n\n4. GOOGL — 週三 AMC 業績。重點唔係 EPS beat（預咗），而係 AI capex ROI 同 Gemini 3.5 Pro 進度。Search revenue still strong，但 AI commentary matters more。Market cap $4.3T — 任何 miss 都會有巨大波動。\n\n5. BTC / Crypto miners — $66K breakout 係 technical signal，Clarity bill odds 43% climbing。若 odds 持續上升 + BTC holds $66K，下個 target $70K。留意 MARA, IREN, CIFR。\n\n6. INTC — 週四 AMC 業績。$488B market cap，foundry strategy 係焦點。Intel 最近升到 $97，市場似乎 pricing in 正面 surprise。\n\n7. BX — 週四 BMO 業績。Private credit / alts exposure — 若業績確認 capital inflow trend，可以係 financials 入面嘅 outperformer。\n\n## 📅 未來一個月業績重點\n\n本週（Jul 21-25）：\n• Tue: GM beat、NOC beat、SCHW、MMM、COF\n• Wed: GOOGL AMC — AI trade 本週最大考驗\n• Wed: TSLA AMC — cash burn vs AI bets\n• Thu: INTC AMC — foundry strategy\n• Thu: BX BMO — alts/private credit\n• Fri: NEE BMO — utilities/clean energy\n\n下週（Jul 28-Aug 1）：\n• Tue: GLW BMO — Gorilla Glass, display tech\n• Wed: MSFT AMC — $2.9T, AI Copilot monetization\n• Wed: META AMC — $1.6T, ad spending + AI\n• Thu: AAPL AMC — $4.9T, iPhone cycle + services\n• Thu: AMZN AMC — $2.7T, cloud + retail\n• Fri: CVX BMO — oil major, energy sector bellwether\n• Thu: MSTR AMC — Bitcoin treasury company\n\n關鍵觀察：下週係 earnings season 真正高峰 — MSFT, META, AAPL, AMZN 四大巨頭同一週。加上 FOMC（Jul 28-29），係 2026 年最重要嘅一週。\n\n## 📋 Today's Agenda\n\n• 今晚美股開市前：ADP Employment Change Weekly（8:15PM HKT）\n• Earnings focus：GM/NOC 市場反應 to consumer/defense signal\n• Oil market：Kazakhstan pipeline + Iran ceasefire 雙向 headline risk\n• Pre-FOMC positioning：下週 FOMC，留意利率敏感 sectors 走勢\n• GOOGL earnings preview positioning（明日 AMC）\n\n## 💡 My Take\n\nOverall bias：Cautiously bullish with oil/geopolitical hedge\n\n今日係一個「等催化劑」嘅交易日。Macro calendar 平靜，但 micro 充滿變數：\n\n1. 油價係最大 wildcard — Kazakhstan pipeline 係新 catalyst，但 Iran ceasefire headline 可以瞬間 reversed。Oil 嘅 two-way risk 令到成個 energy sector 都係高波動。我傾向唔落 directional oil bets，但會留意 energy sector 嘅 relative strength 作為 macro signal。\n\n2. Earnings season so far positive — GM + NOC 齊齊 beat，consumer resilience + defense demand 都 confirmed。呢個係 broad market bid，唔係淨係 individual stock story。\n\n3. Tech 進入關鍵週 — 聽日 GOOGL，後日 INTC。AI trade 嘅 narrative 將會被重新定價。ADBE downgrade 提醒我哋：AI 唔係所有科技股都贏。選股比 sector bet 更重要。\n\n4. Crypto breakout 有 legs — BTC $66K + ETF inflows + Clarity bill = 唔係 pure speculation。呢個 theme 值得跟進，但我會等確認 $66K hold 到先加 weighting。\n\n5. FOMC 下週即今個星期要 start positioning — 市場已經 pricing in no cut till 2027。除非有重大 macro surprise，FOMC 本身唔會係大 shock。但係 pre-FOMC 嘅 portfolio rotation（尤其是利率敏感 sectors）值得留意。\n\n今日最緊要睇實：\n• Iran ceasefire headline（任何時候可以 drop）\n• Oil price reaction to Kazakhstan news\n• GM/NOC 業績後嘅 market tone（consumer/defense signal）\n• SPY 740 support hold？745 resistance break？\n• BTC $66K 能否守住",
+      "risks": [
+        "Iran ceasefire headline can reverse oil spike instantly",
+        "GOOGL/INTC earnings this week — AI narrative repricing risk",
+        "FOMC next week — rate-sensitive sectors face pre-event pressure",
+        "China AI export controls could escalate to rare earth retaliation"
+      ],
+      "my_take": "Cautiously bullish — oil/geopolitical two-way risk dominates, but earnings season positive start (GM/NOC beat) provides broad market support. FOMC next week means positioning starts now. Crypto breakout has legs."
     }
   ],
   "news_curator": [
