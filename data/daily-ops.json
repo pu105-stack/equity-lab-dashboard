@@ -3660,47 +3660,6 @@
       "my_take": "Cautiously bullish — oil/geopolitical two-way risk dominates, but earnings season positive start (GM/NOC beat) provides broad market support. FOMC next week means positioning starts now. Crypto breakout has legs."
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-22",
-      "time": "08:17 HKT",
-      "status": "success",
-      "market_direction": "Tech-led risk-on with AI hardware rebound (SMCI +15%, NVDA Vera CPU); Mega-cap earnings week (TSLA, GOOGL looming); Geopolitical risks persistent but oil supply fears easing (Hormuz traffic stabilizing, inventories building)",
-      "headlines": [
-        "[NEW] ACTION: SMCI - Super Micro surges 15% on new order + margin disclosure after SpaceX announcement",
-        "[NEW] ACTION: GOOGL - Google releases 3 new Gemini models ahead of Q2 earnings",
-        "[NEW] ACTION: NVDA - Vera CPU details revealed; challenges AMD, Intel in AI data center chips",
-        "[RECENT] ACTION: TSLA - Robotaxi pilots in Florida; Q2 earnings this week, biggest move in a year",
-        "[NEW] WATCH: AAPL - Klarna lease-to-own program for iPhone/iPad/Mac",
-        "[NEW] WATCH: INTC - Insane valuation going into earnings + silicon photonics push",
-        "[NEW] WATCH: SpaceX - Short interest 32% of float, Musk warns shorts",
-        "[NEW] WATCH: MACRO - Yen slides past 163, fresh four-decade low",
-        "[RECENT] WATCH: OIL - Hormuz crisis drags on; India pulls back from Iraqi oil",
-        "[RECENT] WATCH: US-IRAN - 4th service member killed, Trump threatens bombing"
-      ],
-      "opportunities": [
-        "SMCI: Margin doubled unexpectedly + SpaceX order. 15% surge may have more room if guidance raised.",
-        "GOOGL: Gemini 3.6 Flash + Mythos rival launch shows AI momentum. Earnings catalyst this week.",
-        "NVDA: Vera CPU is a direct shot at AMD/INTC in data center. Nvidia wants every chip in the rack.",
-        "TSLA: Robotaxi pilots in FL + Orlando show commercialization ahead of earnings. EPS est ~$0.95."
-      ],
-      "analysis": "US session dominated by AI hardware resurgence and mega-cap tech positioning ahead of earnings. SMCI the standout - margins unexpectedly doubled on SpaceX-related orders, stock surged 15%. Google released three new Gemini models including 3.6 Flash and a Mythos competitor, reinforcing its AI narrative going into Q2. Nvidia detailed its Vera CPU architecture, signaling intent to capture more of the AI data center stack beyond GPUs. Tesla launched robotaxi pilots in Orlando and Tampa ahead of earnings. On macro: Yen at fresh four-decade low (163), White House teasing new trade action, Iran conflict escalating with 4th US fatality.",
-      "risks": [
-        "Iran war escalation could spike oil if Hormuz closes fully",
-        "Trump trade action could hit multinationals across the board",
-        "Yen 163 raises carry trade unwind risk if BOJ intervenes",
-        "TSLA/GOOGL earnings this week - binary event risk"
-      ],
-      "my_take": "Market is in \"buy the AI dip\" mode with SMCI leading the charge. The real test is this week: TSLA and GOOGL earnings will either validate or break the AI hardware rally. NVDA Vera CPU is strategically significant - it shows Nvidia is not content being just a GPU company. On macro: everyone is watching the Yen. At 163, the BOJ intervention risk is real and a sudden yen spike would trigger a broad risk-off move. Trump trade action is noise until specifics emerge. Iran war is terrible but market is increasingly numb to it - oil inventories are building and Hormuz traffic is normalizing despite the headlines.",
-      "key_takeaways": [
-        "SMCI +15% on margin doubling + SpaceX order - AI infrastructure demand intact",
-        "GOOGL Gemini 3.6 Flash launch bullish signal ahead of Q2 earnings",
-        "NVDA Vera CPU challenges AMD/INTC - wants entire AI data center stack",
-        "TSLA robotaxi commercialization accelerating ahead of earnings",
-        "Yen at 163 is a macro time bomb - BOJ intervention risk rising",
-        "Iran war escalating but oil market increasingly numb"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-21",
       "time": "08:36 HKT",
@@ -3729,6 +3688,66 @@
         "US-Iran escalation: 4th US fatality confirmed"
       ],
       "my_take": "Tech-led bounce (QQQ +1.86%) driven by AI hardware rebound (SMCI +7%, INTC +8.6%, NVDA +2%), but low volume (SPY 27M vs avg 45M) raises quality concerns. Cautiously bullish for tomorrow but Jul 30 FOMC is the real macro pivot."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-22",
+      "time": "20:11 HKT",
+      "status": "success",
+      "market_direction": "油價突破$95 + 伊朗外交崩潰 + Big Tech財報日 — Risk-off tone主導，Nasdaq期貨下跌",
+      "headlines": [
+        "[NEW] ACTION: OIL — $95油價，伊朗外交崩潰，兩條航道受阻",
+        "[NEW] ACTION: GOOGL/TSLA — Big Tech財報日，options 86% vol",
+        "[NEW] WATCH: US-SAUDI — Trump核協議，以色列警告軍備競賽",
+        "[NEW] WATCH: GEV — AI能源股earnings miss暴跌",
+        "[NEW] WATCH: MACRO — 國債收益率逼近2007年高位"
+      ],
+      "opportunities": [
+        "OIL: $95突破確認上行，Hormuz+Black Sea雙重供應中斷",
+        "GOOGL/TSLA: 今晚財報係最重要catalyst，options pricing巨幅波動",
+        "SMCI: 盤前續升，SpaceX catalyst持續發酵"
+      ],
+      "analysis": "三條macro threads同時發力：地緣風險（$95 oil + Saudi nuclear deal）、財報季critical test（GOOGL/TSLA tonight）、oil-driven rate fear（Treasury yields逼近2007高位）。市場之前pricing in de-escalation，而家要repricing Iran risk。",
+      "risks": [
+        "GOOGL/TSLA財報如果雙雙miss，可能trigger growth/tech selloff",
+        "$95 oil推高inflation expectation，rate hike odds上升",
+        "US-Saudi nuclear deal可能trigger中東軍備競賽"
+      ],
+      "my_take": "市場under-pricing Iran escalation。Ceasefire hope fading + Saudi nuclear deal = 中東格局重塑。Defense sector仲有upside。今晚GOOGL/TSLA earnings係今年最重要財報日之一。",
+      "key_takeaways": [
+        "油價$95 = 心理關口突破，Hormuz + Black Sea雙重供應中斷",
+        "GOOGL/TSLA今晚財報 = options pricing 86% vol",
+        "國債收益率逼近2007高位 = oil-driven rate fear",
+        "US-Saudi核協議 = 中東地緣格局potential game-changer"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-07-22",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish - semis momentum + oil tailwind offset by earnings risk + rate fear",
+      "headlines": [
+        "Oil突破$95: Iran外交崩潰，Hormuz+Black Sea雙航道受阻",
+        "Trump批准US-Saudi核協議，以色列警告中東軍備競賽",
+        "GOOGL+TSLA今晚財報，options定價86% vol",
+        "GE Vernova earnings miss拖累AI能源板塊",
+        "SMCI盤前續升，SpaceX訂單+估值重估",
+        "國債收益率逼近2007年高位"
+      ],
+      "focus": [
+        "GOOGL/TSLA earnings (AMC tonight)",
+        "Oil $95 breakout - XOM/CVX/COP + LNG",
+        "Defense sector (LMT/NOC/RTX) - US-Saudi核協議",
+        "Semis momentum (MU/INTC/SMCI)"
+      ],
+      "analysis": "🌅 Morning Scan — 7月22日 (週三) 8:30pm HKT\n\n---\n\n## Fed Context — Macro Backdrop\n\n上次FOMC (Jun 16-17): 利率不變，符合預期。Minutes顯示市場定價2027年中前最多一次hike。當時背景係 Iran-US Memorandum of Understanding 推低油價同inflation expectation，AI investment繼續支撐risk assets。\n\n但呢個narrative過去24小時已經崩潰。Iran diplomacy collapsed — Rubio直指Iran「not serious」，兩條關鍵航道（Hormuz + Black Sea）同時受阻，Brent衝破$95。呢個係4月FOMC meeting以來最大geopolitical shock。\n\n下次FOMC: Jul 28-29（下星期二/三），有press conference。Warsh Fed本身hawkish — 佢之前已經表明通脹係持久戰，$95 oil只會俾更多理由hold住唔減息。市場之前pricing「2026年底前減息」而家受到重大挑戰。\n\nTreasury market: 10Y yield逼近2007年高位，油價spike直接推高inflation breakeven。如果10Y突破關鍵水平，growth stocks（尤其今晚出業績GOOGL/TSLA）會首當其衝。\n\nKevin Warsh stance: 佢6月FOMC後冇新講話。但佢一貫立場係hawkish — inflation fight未完，勞動市場仲係太tight。$95 oil = more ammunition for his position。\n\n---\n\n## 今日重點頭條\n\n| Priority | Source | Headline | Related |\n|----------|--------|----------|---------|\n| P0 | NBC/FT | 油價突破$95，Iran diplomacy崩潰，Hormuz + Black Sea雙航道受阻 | XOM, CVX, COP, LNG |\n| P0 | NBC/NYT | Trump批准歷史性US-Saudi核協議，以色列警告中東軍備競賽 | LMT, NOC, RTX |\n| P0 | Yahoo/SA | GOOGL + TSLA 今晚財報，options定價86% vol | GOOGL, TSLA, QQQ |\n| P1 | Yahoo | GE Vernova earnings miss，AI能源股盤前暴跌 | GEV, Siemens |\n| P1 | CNBC | SMCI盤前續升，SpaceX訂單+估值重估持續發酵 | SMCI |\n| P1 | MarketWatch | 國債收益率逼近2007年高位，油價驅動加息預期重燃 | TLT, QQQ |\n| P1 | BBC | OpenAI模型逃逸發動網絡攻擊，Fed曾警告Anthropic Mythos | MSFT |\n| P1 | MW | AT&T Q2 beat，用戶增長超預期 | T |\n| P2 | FT | 歐洲天然氣價格逼近Iran war高位 | EQT, CHK |\n| P2 | MarketWatch | AI將驅動前所未有天然氣短缺 | EQT, AR |\n\n---\n\n## 隔夜市場\n\nUS Market Close (Jul 21):\n- SPY: $748.28 (+0.83%) — 連升，逼近year high $760.40\n- QQQ: $708.97 (+1.85%) — Semis領漲，SOXL +15.88%\n- DIA: $521.51 (+0.69%) — value/cyclical跟升\n- 所有指數 above 50/200 DMA\n\nVIX: 17.63，從上週五高位19.50回落，但仍高於7月低位15.77。地緣風險溢價未消散。\n\nSector Performance (Jul 21):\n- Energy +1.47% — 油價先行反映Hormuz tension\n- Utilities +1.20% — defensive rotation + AI power theme\n- Real Estate +1.14% — yield play\n- Technology +1.12% — semis爆升帶動（MU +12.17%, INTC +8.64%）\n- Communication Services -1.20% — 唯一下跌sector，可能係GOOGL/TSLA財報前de-risking\n\nAsia/Europe Overnight:\n- Asia mixed — 港股微跌，日經持平。中國南海緊張但冇escalation\n- Europe futures指向低開 — 油價spike + GEV miss拖累sentiment\n- US futures: Nasdaq指向低開（GOOGL/TSLA財報前夕de-risking + oil fear）\n\nCommodities:\n- Brent crude: $95+ — 單日升近4%，Hormuz + Black Sea雙重供應中斷\n- Gold: 上升 — safe haven bid\n- Nat gas: 上升 — European storage concerns + AI demand narrative\n\n---\n\n## 昨日市場爆升／暴跌榜\n\nTop Gainers (剔除micro-cap noise):\n- NBIS +18.78% — AI infrastructure play, follow-through\n- AEHR +27.86% — Semi testing equipment, MU earnings halo\n- MU +12.17% — Semi sector爆升, HBM demand narrative\n- INTC +8.64% — Turnaround story gaining traction\n- SOXL +15.88% — 反映整個semi sector momentum\n\nTop Losers:\n- AMC -10.57% — Meme stock weakness\n- SOXS -16.41% — Semis爆升inverse\n\nMost Active:\n- NVDA $207.29 +1.97% — 持續強勢\n- INTC $105.45 +8.64% — 大成交量breakout\n- MU $970.82 +12.17% — Record volume\n- AAPL $327.74 +0.35% — Steady\n- NFLX $68.67 +1.58% — 跌穿$70後反彈\n\nSector Theme: 昨日係semiconductor big day — MU + INTC + SOXL全線爆上。呢個momentum會唔會延續到今日？關鍵睇GOOGL capex guidance tonight（AI infrastructure spending signal）。\n\n---\n\n## 今日重點事件\n\nFrom macro_calendar.json (SOURCE OF TRUTH):\n\n今日係相對quiet macro day：\n- 7:00pm HKT — MBA 30-Year Mortgage Rate (Jul/17) prev=6.65% (MEDIUM)\n- 10:30pm HKT — EIA Crude Oil Stocks Change (Jul/17) prev=-1.693M fcast=-1.5M (MEDIUM)\n- 10:30pm HKT — EIA Gasoline Stocks Change (Jul/17) prev=-1.533M (MEDIUM)\n\n本週餘下HIGH events:\n- Mon Jul 27, 8:30pm HKT — Durable Goods Orders MoM (Jun)\n- Thu Jul 30, 2:00am HKT — Fed Interest Rate Decision (FOMC Jul 28-29)\n- Thu Jul 30, 2:30am HKT — Fed Press Conference (Warsh)\n\nGeopolitical:\n- Iran-US diplomatic collapse = oil risk premium\n- US-Saudi nuclear deal announcement = Middle East arms race risk\n- Ukraine — Zelensky撤換軍事總司令\n\n今日真正catalyst唔係macro calendar — 係今晚收市後GOOGL + TSLA earnings。\n\n---\n\n## Sector Watch\n\nBullish Sectors:\n1. Energy — 最直接受益於$95 oil。XOM/CVX/COP + oil services (SLB/HAL)。但小心 — oil spike亦會trigger demand destruction fear\n2. Defense — US-Saudi nuclear deal = more Middle East defense spending。LMT/NOC/RTX（RTX星期四出業績！）\n3. Semiconductors — 昨日momentum強勁，但今晚GOOGL capex guidance係下一個catalyst。MU/INTC/SMCI/NVDA\n\nRisk Sectors:\n1. Big Tech — GOOGL/TSLA財報risk + oil-driven rate fear = double headwind。Option market pricing 86% vol = market expects huge moves\n2. AI Energy — GEV earnings miss拖累成個sector。故事冇變但execution risk浮現\n\nRotation Signal: 資金由Comm Services (-1.20%) 流出，轉入Energy (+1.47%) + Tech/Semis (+1.12%)。呢個rotation反映market positioning before Mag7 earnings。\n\n---\n\n## Pre-market Opportunities\n\n(從News Curator consolidating + FMP data)\n\nACTION — 今日最值得跟進：\n\nOIL ($95 breakout) — Hormuz + Black Sea雙重供應中斷。伊朗外交崩潰。$95係心理關口，向上突破確認trend。留意XOM（星期五業績）、CVX（星期五業績）、COP。LNG股（天然氣價格跟升）都值得關注。但注意：FOMC Jul 28-29前，oil spike = rate fear，可能會restrain equity upside。\n\nGOOGL/TSLA Earnings (今晚AMC) — 今年最重要財報日之一。Options market pricing ±7-8% move。GOOGL: expected blowout EPS ($2.87)，AI capex同cloud growth係重點。TSLA: cash burn concern + Robotaxi narrative at crossroads。如果兩個都beat + positive guidance，可以trigger tech rally。如果miss = 星期四會好痛。\n\nDEFENSE (US-Saudi nuclear deal) — 歷史性核協議 = 中東軍備競賽。LMT/RTX/NOC。RTX星期四出業績，可能會guidance upgrade。但要等以色列反應明朗化。\n\nWATCH — 有catalyst但要等確認：\n\nSMCI — SpaceX訂單+估值重估。昨日已升15%（SMCZ inverse -13.9%），今日盤前續升。Momentum強勁但已run up不少。Short squeeze candidate — 風險同回報都高。\n\nGEV — Earnings miss，AI能源股盤前暴跌。等earnings call details先判斷係buy the dip定structural issue。影響Siemens Energy同整個AI infrastructure supply chain。\n\nNATGAS/EQT — AI data center power demand = structural nat gas demand。長線主題，但short-term可能被oil volatility overshadow。\n\n---\n\n## 未來一個月業績重點\n\nTHIS WEEK (Jul 22-26):\n- Wed Jul 22 | GOOGL | $4265B | $2.87 est | AI capex + Cloud growth，今季最重要\n- Wed Jul 22 | TSLA | $1388B | $0.31 est | Robotaxi narrative + cash burn\n- Wed Jul 22 | IBM | $200B | $2.93 est | Enterprise AI adoption\n- Thu Jul 23 | INTC | $488B | $0.10 est | Turnaround story + foundry progress\n- Thu Jul 23 | RTX | $262B | $1.66 est | Defense spending + US-Saudi deal\n- Thu Jul 23 | BX | $92B | $1.32 est | Private market exposure\n- Fri Jul 24 | NEE | $184B | $1.08 est | Utility/AI power demand\n\nNEXT WEEK (Jul 27-Aug 1) — 超級週！:\n- Wed Jul 29 | MSFT | $2955B | $4.21 est | Azure growth + AI Copilot\n- Wed Jul 29 | META | $1634B | $7.13 est | Ad spending + AI ROI\n- Wed Jul 29 | QCOM | $183B | $1.54 est | Mobile cycle + auto\n- Wed Jul 29 | ARM | $308B | $0.19 est | AI licensing revenue\n- Thu Jul 30 | AAPL | $4797B | $1.88 est | iPhone cycle + services\n- Thu Jul 30 | AMZN | $2689B | $1.82 est | AWS + consumer spending\n- Thu Jul 30 | MSTR | $34B | $52.04 est | BTC treasury play\n- Fri Jul 31 | CVX | $381B | $5.79 est | Oil at $95 = massive beat potential\n- Fri Jul 31 | XOM | $629B | $3.88 est | Same as above\n\nThe week after (Aug 4-8):\n- Tue Aug 4 | AMD | $821B | AI GPU competition vs NVDA\n- Tue Aug 4 | CAT | $398B | Macro industrial bellwether\n- Wed Aug 5 | LLY | $1080B | GLP-1 demand, weight loss theme\n- Wed Aug 5 | DIS | $167B | Streaming + parks\n\n---\n\n## Today's Agenda\n\n今晚 (Wed Jul 22):\n- 9:30pm ET (9:30am HKT Thu): US market open\n- 10:30pm HKT: EIA Crude Oil Stocks\n- AMC: GOOGL earnings ($2.87 est)\n- AMC: TSLA earnings ($0.31 est)\n- AMC: IBM earnings ($2.93 est)\n\n本週餘下:\n- Thu Jul 23: INTC/RTX/BX earnings\n- Fri Jul 24: NEE/AXP/VZ earnings\n- Mon Jul 27: Durable Goods Orders\n- Tue-Wed Jul 28-29: FOMC + Press Conference\n- Wed Jul 29: MSFT/META earnings\n- Thu Jul 30: AAPL/AMZN earnings\n\nKey SPY Levels:\n- Resistance: $760.40 (year high)\n- Support: $744 (50 DMA), $697 (200 DMA)\n- Current ($748) exactly mid-range. Bias depends on GOOGL/TSLA tonight.\n\n---\n\n## My Take\n\nOverall bias: Cautiously Bullish，但風險不對稱。\n\nBull case: 昨日市場顯示強勁breadth — semis爆升、energy跟油價、SPY/QQQ above所有關鍵MA。GOOGL earnings預期高但pricing in — 如果beat + AI capex guidance bullish，可以trigger broader tech rally。Oil固然係headwind但energy sector weight在S&P有幫助。\n\nBear case: 三個risk factors同時發力 — (1) GOOGL/TSLA如果miss，options market話俾我地知move會好大；(2) $95 oil直接trigger rate fear，FOMC下星期前冇人想hold太多risk；(3) Iran diplomacy collapse係genuine geopolitical shock，市場之前pricing in de-escalation。\n\n我最concern scenario: GOOGL miss + oil stays above $95 = double hit。QQQ同growth stocks會好傷。相反，如果GOOGL beat + positive AI capex = 可能calm nerves，至少等到FOMC。\n\n今日最緊要睇實:\n1. Oil intraday movement — 如果Brent突破$96-97 = acceleration signal\n2. Treasury yields — 10Y如果突破關鍵水平 = risk-off trigger\n3. GOOGL/TSLA after-hours — 成個market direction setter\n4. SMCI/GEV — AI infrastructure sector sentiment indicator\n\nContrarian angle: Defense sector被under-priced。US-Saudi nuclear deal係歷史性事件，如果trigger區域軍備競賽，LMT/NOC/RTX revenue guidance可以大幅上調。RTX星期四出業績，可能係第一個確認呢個trend機會。\n\n唔好做: 今日唔係day-trading day。太多moving parts — earnings + oil + geopolitics。Let the catalysts play out, then position accordingly。",
+      "risks": [
+        "GOOGL/TSLA earnings miss + oil spike = double hit",
+        "FOMC Jul 28-29 + Warsh hawkish",
+        "Iran escalation beyond current pricing"
+      ],
+      "my_take": "Cautiously Bullish but asymmetric risk. Three forces colliding: GOOGL/TSLA earnings (tonight), $95 oil + Iran diplomacy collapse (geopolitical), FOMC next week (rate fear). Defense sector under-priced vs US-Saudi nuclear deal. Let catalysts play out - not a day to be aggressively positioned."
     }
   ],
   "news_curator": [
