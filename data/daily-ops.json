@@ -3750,43 +3750,6 @@
       "my_take": "Cautiously Bullish but asymmetric risk. Three forces colliding: GOOGL/TSLA earnings (tonight), $95 oil + Iran diplomacy collapse (geopolitical), FOMC next week (rate fear). Defense sector under-priced vs US-Saudi nuclear deal. Let catalysts play out - not a day to be aggressively positioned."
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-07-23",
-      "time": "08:17 HKT",
-      "status": "success",
-      "market_direction": "Big Tech earnings night — GOOGL revenue beat但capex爆升嚇親市場，TSLA margin續跌FCF轉負。Oil +2.2%受中東局勢推升。Nasdaq futures指向低開。",
-      "headlines": [
-        "🎯 GOOGL: Q2 revenue beat但$6B AI capex burn sinks stock AH",
-        "🎯 TSLA: Q2 miss, margins slide, FCF negative — structural concern",
-        "🎯 NOW: Q2 beat + cybersecurity momentum — bright spot",
-        "⚠️ IBM: Outlook cut less severe than feared — potential relief rally",
-        "⚠️ OIL: Day 7 of US-Iran conflict, Houthis claim Saudi tanker attack",
-        "⚠️ CRYPTO: Clarity Act ethics pushback as bill nears passage",
-        "⚠️ NVDA: Jensen defends Chinese AI, $207.59 resistance holds",
-        "⚠️ YEN: 40-year low, Tokyo vows bold action — carry trade unwind risk",
-        "⚠️ PARA/WBD: EU clears merger, US states challenge"
-      ],
-      "opportunities": [
-        "GOOGL: AI spending panic may be overreaction — META 2024-25 analog",
-        "NOW: Enterprise software resilience + cybersecurity tailwind",
-        "CRYPTO: Clarity Act passage is underappreciated catalyst"
-      ],
-      "analysis": "今晚嘅story係AI spending reckoning。GOOGL $6B cash burn同TSLA margin compression係同一theme嘅兩面。GOOGL可能係overreaction（META analog），TSLA係結構性問題。",
-      "risks": [
-        "Yen carry trade unwind — systemic risk to US equities",
-        "TSLA margin compression — structural, not cyclical",
-        "Oil supply disruption 已priced in但escalation risk仍然存在"
-      ],
-      "my_take": "GOOGL sell-off on capex reminiscent of META 2024-25 — could be opportunity if pattern repeats。TSLA margin問題更structural。Crypto Clarity Act係最underappreciated catalyst。",
-      "key_takeaways": [
-        "AI spending reckoning, not earnings disaster",
-        "GOOGL potential META-analog buying opportunity",
-        "TSLA structural margin concern — different from GOOGL",
-        "NOW positive divergence from other tech earnings",
-        "Crypto Clarity Act near passage — underappreciated catalyst"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-07-23",
       "time": "08:37 HKT",
@@ -3818,6 +3781,74 @@
         "Macro calendar: Jobless Claims + Chicago Fed tonight 8:30pm HKT"
       ],
       "my_take": "AI spending reckoning night：SMCI record orders證明AI infra demand intact，但GOOGL capex scare同TSLA margin compression反映individual execution risk。Focus on semis/enterprise software winners（SMCI/DELL/NOW），FOMC next week係macro overhang。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-23",
+      "time": "20:11 HKT",
+      "status": "success",
+      "market_direction": "伊朗衝突升級+油價逼$100引發全球債市拋售。Mag7財報分化：GOOGL capex爆升+EU罰款雙重打擊；TSLA margin續跌。LLY減肥藥報喜。Risk-off主導。",
+      "headlines": [
+        "[RECENT] ACTION: OIL — Houthis擊中沙特油輪，油價逼$100，債市遭拋售",
+        "[NEW] ACTION: LLY — 下一代減肥藥retatrutide通過III期，2027申報",
+        "[NEW] ACTION: GOOGL — EU DMA罰款€890M叠加Q2 capex headwind",
+        "[NEW] WATCH: AAL — 燃料成本飆升，首個實體經濟受害者",
+        "[NEW] WATCH: NVDA — Moonshot AI繞過中國出口禁令",
+        "[NEW] WATCH: BONDS — 油價→債市拋售macro contagion",
+        "[RECENT] WATCH: GOLD — $4,180趨勢線反彈，避險升溫",
+        "[RECENT] WATCH: US-SAUDI — 核協議簽署，以色列反對",
+        "[RECENT] WATCH: YEN — carry trade unwind風險"
+      ],
+      "opportunities": [
+        "OIL: Houthis escalation + $100 psychological barrier → bond sell-off → macro contagion",
+        "LLY: Retatrutide III期成功，obesity franchise moat擴大，但心臟效益data有疑問",
+        "GOOGL: EU fine + capex concern = double headwind；Trump intervention係upside catalyst"
+      ],
+      "analysis": "今日核心係oil→macro contagion。Houthis攻擊沙特油輪令油價逼近$100心理關口，觸發全球債市拋售。AAL率先下調guidance反映實體經濟傳導已開始。GOOGL面對earnings+regulatory雙重打擊，反映市場由AI enthusiasm轉向AI ROI scrutiny。Gold/Yen/Bonds形成macro warning triangle。",
+      "risks": [
+        "油價突破$100可能trigger更廣泛risk-off",
+        "債市拋售若加速，growth stocks估值受壓",
+        "GOOGL double headwind可能拖累成個Mag7 sentiment",
+        "Yen carry trade unwind tail risk"
+      ],
+      "my_take": "Oil spillover is real — AAL只係第一個。Mag7脆弱性暴露 — GOOGL嘅capex+regulatory double whammy唔係isolated。Gold/Bonds/Yen形成macro warning triangle。Contrarian: 市場對Iran conflict反應可能過度，Hormuz未封鎖，如果外交突破油價可急速回落。",
+      "key_takeaways": [
+        "油價$100係心理關口，突破會加速macro contagion",
+        "AAL係canary in the coal mine — 等睇其他transportation stocks跟隨",
+        "GOOGL double headwind反映market pivot: AI enthusiasm → AI ROI scrutiny",
+        "Gold $4,180 bounce + bond sell-off + Yen risk = macro warning triangle",
+        "Contrarian: Iran conflict若外交突破，油價+AAL等oversold names可急速反彈"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-07-23",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Cautious / Neutral-bearish",
+      "headlines": [
+        "Houthis attack Saudi oil tanker, oil near $100, global bond sell-off",
+        "GOOGL double whammy: Q2 capex surge + EU 890M fine",
+        "LLY next-gen obesity drug retatrutide Phase III success",
+        "AAL slashes 2026 outlook on fuel costs",
+        "FOMC Jul 28-29 + GDP + Core PCE next week"
+      ],
+      "focus": [
+        "Energy (XLE/XOP)",
+        "LLY obesity franchise",
+        "INTC/BX earnings",
+        "GOOGL after-hours",
+        "Bonds 10Y 4.66%"
+      ],
+      "analysis": "🌅 Morning Scan — 7月23日 (週四) 8:30pm HKT\n\n---\n\n## Fed Context — Macro Backdrop\n\n上次FOMC (Jun 16-17): 利率不變，Warsh Fed維持hawkish stance。當時市場定價2027年中前最多一次hike，AI investment支撐risk assets。\n\n但過去一週narrative已經徹底轉向。Iran conflict升級（Houthis擊中沙特油輪）、油價逼近$100、全球債市同步拋售 — 呢個係今年以來最大macro regime shift。\n\n**下次FOMC: Jul 28-29（下週二/三）**，有press conference + 新SEP dot plot。以下係關鍵：\n- Warsh本身係inflation hawk — $95+ oil只會俾更多理由hold住唔減息\n- 市場目前定價Jul meeting不變，但focus轉向Sep會唔會有hiking risk\n- Core PCE同GDP Q2 advance都喺Jul 30出 — 如果數字偏熱，叠加油價，FOMC tone會更硬\n- **呢個meeting嘅dot plot update係今年最重要macro catalyst**\n\n本週無Fed press release。但BLK嘅Rick Rieder警告「income investors facing new regime」— 反映債市對oil-driven inflation嘅定價正在重估。\n\n---\n\n## 📰 今日重頭條（Raw Headlines）\n\n| Priority | Source | Headline | Tickers |\n|----------|--------|----------|---------|\n| 🔴 P0 | CNBC | Houthis claim strikes on Saudi oil tankers; Rubio says Iran not ready to make a deal | USO, XLE, AAL |\n| 🔴 P0 | FT | Oil price surge drives global bond sell-off | TLT, IEF |\n| 🔴 P0 | CNBC | Eli Lilly to file next-gen obesity drug retatrutide in 2027 after two positive Phase III trials | LLY |\n| 🟠 P1 | CNBC | EU fines Google €890M under landmark DMA digital law | GOOGL |\n| 🟠 P1 | CNBC | Moonshot AI (Kimi) accessed Nvidia chips despite China export ban | NVDA |\n| 🟠 P1 | CNBC | American Airlines slashes 2026 earnings outlook as fuel costs spike | AAL, DAL, UAL |\n| 🟡 P2 | Investing.com | Nasdaq Q2 profit beats, high-profile IPOs + data revenue drive growth | NDAQ |\n| 🟡 P2 | Investing.com | Oppenheimer reiterates ServiceNow on AI momentum | NOW |\n| 🟡 P2 | Seeking Alpha | SMCI: Mispriced Risk, Underpriced AI Exposure (+19.8% prev session) | SMCI |\n| 🟡 P2 | RealClearMarkets | US Stocks Could Soon Have A Yen Problem — carry trade unwind risk | FXY, SPY |\n\n---\n\n## 🌍 隔夜市場\n\n| Index | Level | Change |\n|-------|-------|--------|\n| SPY | $747.41 | -0.12% |\n| QQQ | $705.35 | -0.51% |\n| DIA | $521.47 | -0.01% |\n| VIX | 18.24 | — |\n| 10Y Yield | ~4.66% | ↑ bond sell-off |\n| Crude Oil (WTI) | ~$91 | ↑ nearing $100 Brent |\n| Gold | ~$4,080 | ↑ safe haven bid |\n\n**解讀:**\n- US market輕微下跌，QQQ underperform（-0.51%）— Mag7 earnings分化 + AI capex concern 拖累\n- VIX 18.24唔算panic level，但持續高於16嘅comfort zone\n- 債市：油價→通脹預期→債息上升，10Y突破4.65%係關鍵。BLK話現水平有buffer，但Rieder警告新政權\n- 黃金$4,080有支持，macro hedge demand持續\n- 亞洲/歐洲：中國油輪強行通過Bab el-Mandeb，風險溢價未解除\n\n---\n\n## 📈 昨日市場爆升／暴跌榜\n\n**Top Gainers（主要係micro-cap，無大型股）:**\n- 前5名都係penny stocks / 小型生科（ZCMD +191%, PN +131%, LABT +83%）\n- 冇大型cap爆升，反映market breadth唔算broad rally\n\n**Top Losers（同樣micro-cap主導）:**\n- WETO -82%, CPHI -78% — 小型中國ADR暴跌\n- 冇知名大型股崩盤\n\n**Most Active（有看點）:**\n- **SMCI +19.84% @ $30.56** — 唯一值得關注嘅active mover。SpaceX訂單 + AI exposure narrative持續發酵\n- T (AT&T) +3.5% — 防守性資金流入telecom\n- BITO (Bitcoin ETF) -0.89% — crypto holding pattern\n\n**Sector Theme:** Move towards defensives（telecom, utilities）+ AI-related names holding。Oil-sensitive sectors（airlines, transports）開始反映成本壓力。\n\n---\n\n## 📡 今日重點事件\n\n從macro_calendar.json（SOURCE OF TRUTH）：\n\n| Importance | Time (HKT) | Event | Prev | Forecast |\n|------------|------------|-------|------|----------|\n| 🟡 MED | 8:30PM | Initial Jobless Claims (Jul/18) | 208K | 212K |\n| 🟡 MED | 8:30PM | Chicago Fed National Activity Index (Jun) | -0.1 | — |\n\n今日數據偏輕。市場真正focus係 earnings（INTC、BX、LMT、TMO等重磅業績）+ geopolitical headlines。\n\n**本週 HIGH events pipeline:**\n- 🔴 Mon Jul 27 8:30PM — Durable Goods Orders MoM (Jun)\n- 🔴 **Thu Jul 30 2:00AM — Fed Interest Rate Decision + Dot Plot**\n- 🔴 **Thu Jul 30 2:30AM — Fed Press Conference (Warsh)**\n- 🔴 Thu Jul 30 8:30PM — GDP QoQ Adv (Q2) + Core PCE MoM (Jun)\n\n下星期係macro super week。今日係暴風雨前嘅平靜。\n\n---\n\n## 🔥 Sector Watch\n\n| Sector | Signal | Rationale |\n|--------|--------|------------|\n| 🛢️ **Energy** | 🟢 Bullish | Oil near $100, Houthis escalation. XLE/XOP有momentum |\n| ✈️ **Airlines/Transports** | 🔴 Bearish | AAL guidance cut — 燃料成本傳導開始。睇實DAL/UAL會否跟隨 |\n| 💊 **Pharma/Obesity** | 🟢 Bullish | LLY retatrutide成功，obesity franchise moat擴大 |\n| 🏦 **Financials** | 🟡 Mixed | NDAQ earnings beat反映exchange strength；但BX今日report，係private market barometer |\n| 🤖 **Mag7/Tech** | 🔴 Caution | GOOGL double whammy（capex + EU fine）、TSLA margin跌。市場由AI enthusiasm轉向ROI scrutiny |\n| 🥇 **Gold/Miners** | 🟢 Bullish | $4,180 macro trendline bounce + safe haven bid |\n| 🏭 **Semis** | 🟡 Mixed | NVDA enforcement story係tail risk；SMCI +19.8%反映AI server demand仍然強 |\n\n---\n\n## 🎯 Pre-market Opportunities（From News Curator）\n\n### 🎯 ACTION\n\n**LLY — 下一代減肥藥retatrutide III期成功，2027申報**\n- Bull case: Obesity TAM $100B+，retatrutide係tirzepatide接班人，moat加深\n- Bear case: STAT+指心臟效益數據有疑問；2027先申報，短期冇revenue貢獻\n- My view: LLY obesity franchise係generational compounder。今日市場消化data細節，如果pullback係長期accumulation機會。但唔係day trade target\n- 今日部署: 留意LLY price action，睇有冇sell-the-news\n\n**GOOGL — EU罰款€890M + Q2 capex爆升雙重打擊**\n- Bull case: EU罰款僅$1B vs GOOGL $2T+ mcap，material impact有限。Trump可能介入阻止罰款 = upside catalyst\n- Bear case: Capex concern + regulatory risk雙重headwind。市場正由AI enthusiasm轉向ROI scrutiny\n- My view: 雙重打擊下GOOGL短期受壓。但如果Trump政府介入EU罰款案，會係material positive catalyst — 證明Big Tech protection承諾有效\n- 今日部署: 觀察GOOGL after-hours後續。如果跌到技術支持位 + EU罰款有Trump介入消息 = reversal play\n\n**OIL — Houthis攻擊沙特油輪，油價逼近$100**\n- Bull case: Hormuz流量未受影響但risk premium上升。$100係心理關口，突破可能加速\n- Bear case: 中國油輪仍通過Bab el-Mandeb，Hormuz未封鎖。外交突破可急速逆轉\n- My view: 呢個唔係淨係energy play — 係macro contagion。通過債市、運輸成本、通脹預期滲透全market\n- 今日部署: 留意運輸股（AAL/DAL/UAL）+ consumer discretionary嘅downside。油價如果突破$100，做多XLE/XOP，做空airlines\n\n### ⚠️ WATCH\n\n**AAL — 燃料成本飆升，大幅下調2026盈利展望**\n- Canary in the coal mine。如果DAL/UAL跟隨 → transportation sector全面重估\n- Contrarian angle: 如果油價回落（外交突破），AAL同其他airlines已oversold\n- 今日部署: 等DAL/UAL會否出warning。唔好撈底住\n\n**NVDA — Kimi繞過禁令取得Nvidia晶片**\n- 對NVDA股價影響有限（demand照樣存在），但係policy risk escalation signal\n- 留意BIS會否推新限制 → 可能影響整個semi sector\n- 今日部署: WATCH only，唔actionable除非有新export control announcement\n\n**BONDS — 全球債市拋售**\n- Oil → inflation expectation → yields up → growth stock pressure\n- 10Y突破4.65%係關鍵。如果繼續升，Mag7 valuation會受壓\n- 今日部署: Monitor 10Y level。如果10Y突破4.70%，risk-off會加速\n\n**GOLD — $4,180 macro trendline bounce**\n- Case: Geopolitical risk + oil-driven inflation fear + bond turmoil\n- Risk: 如果oil回調+衝突降溫，gold跟住回調\n- 今日部署: Gold momentum bullish但已反映好多risk premium。等pullback先入\n\n**YEN — Carry trade unwind tail risk**\n- Low probability high impact。BOJ intervention trigger point不明\n- 今日部署: No action，但保持awareness\n\n---\n\n## 📅 未來一個月業績重點\n\n### 🔴 TODAY (Jul 23) — 重磅業績日\n\n**Pre-market (BMO):**\n| Ticker | Name | EPS est | Market Cap |\n|--------|------|---------|------------|\n| RTX | RTX Corp | $1.66 | $261B |\n| TMUS | T-Mobile | $2.49 | $206B |\n| TMO | Thermo Fisher | $5.71 | $195B |\n| TTE | TotalEnergies | $2.96 | $178B |\n| UNP | Union Pacific | $3.20 | $174B |\n| LMT | Lockheed Martin | $7.22 | $117B |\n| 🎯 **BX** | **Blackstone** | **$1.33** | **$92B** |\n| FCX | Freeport-McMoRan | $0.62 | $90B |\n| CMCSA | Comcast | $0.97 | $85B |\n| HON | Honeywell | $1.80 | $73B |\n\n**After-hours (AMC):**\n| Ticker | Name | EPS est | Market Cap |\n|--------|------|---------|------------|\n| 🎯 **INTC** | **Intel** | **$0.10** | **$530B** |\n| SAP | SAP SE | $2.00 | $190B |\n| NEM | Newmont | $2.05 | $99B |\n\n**關鍵睇法:**\n- **BX（🎯 tracked）**: Private market barometer。Real estate + private equity valuation受利率影響最大。Warsh Fed下嘅private asset定價 = macro signal\n- **INTC（🎯 tracked）**: $0.10 EPS estimate好低。關鍵係foundry business進展 + 會唔會有新CHIPS Act funding update。INTC已由$60跌到$20區域 — guidance係決定性因素\n- **LMT**: Iran conflict下defense spending theme。Q2應該強勁，問題係guidance會唔會反映sustained demand\n- **FCX**: Copper play。如果AI infrastructure buildout持續，copper demand長線利好\n- **TMO**: Healthcare/生命科學，LLY obesity drug對TMO嘅lab equipment demand有正面影響\n\n### 📅 NEXT WEEK (Jul 27-31)\n\n**Super week — FOMC + GDP + Core PCE 叠加:**\n- 🔴 Jul 28-29: FOMC meeting — 全年最重要\n- 🔴 Jul 30: GDP Q2 Advance + Core PCE\n- Earnings: MSFT、META、AAPL — Mag7核心財報週\n\n### 📅 WEEK AFTER (Aug 3-7)\n- 持續Q2 earnings season mid-cap flow\n- No tracked tickers confirmed yet\n\n---\n\n## 📋 Today's Agenda\n\n1. **Earnings tsunami** — INTC、BX、LMT、TMO、FCX、RTX 全部今日report。呢啲橫跨tech、finance、defense、energy、mining — 會俾好多macro read-through\n2. **Oil watch** — Brent逼近$100心理關口。任何Hormuz-related headline都會觸發breakout\n3. **Initial Jobless Claims (8:30PM)** — 預期212K vs prev 208K。如果大幅miss → recession fear narrative重返\n4. **Bond market stability** — 10Y 4.66%水平。如果繼續走高 → growth stock壓力\n5. **GOOGL after-hours fallout** — 市場消化capex+EU雙重打擊。係唔係buying opportunity？\n6. **SPY key levels**: Support $740 / Resistance $755\n\n---\n\n## 💡 My Take\n\n**Overall bias: Cautious / Neutral-bearish**\n\n今日嘅核心張力係 earnings season vs macro headwinds。兩個方向同時拉扯：\n\n**Bear case 主導因素:**\n1. Oil → macro contagion 係 real。AAL guidance cut證明傳導已經開始。如果更多transportation/consumer companies跟隨，market會全面risk-off\n2. GOOGL capex爆升 + TSLA margin跌 = AI ROI scrutiny。市場由「AI enthusiasm」轉向「prove it」mode。呢個transition通常伴隨valuation compression\n3. Bond sell-off = higher discount rate = growth stock pressure。10Y 4.65%+ 令Mag7 valuations更難justify\n4. FOMC next week — 市場會提前position for hawkish outcome\n\n**Bull case counterpoints:**\n1. Iran conflict可能overblown — Hormuz未封鎖，中國油輪仍通行。外交突破可急速逆轉油價\n2. Earnings季目前分化但未崩盤 — NDAQ beat、NOW AI momentum持續、LLY pipeline強勁\n3. SMCI +19.8%反映AI infrastructure demand仍然真金白銀\n4. Gold/bonds turmoil反而令defensive positioning有alpha\n\n**今日最緊要睇實:**\n1. **10Y Treasury yield** — 如果突破4.70%, risk-off accelerate\n2. **INTC earnings** — 唔止係INTC本身，而係成個semi/foundry narrative嘅test case\n3. **BX earnings** — Private market valuation under Warsh Fed = macro bellwether\n4. **Oil headlines** — 任何Hormuz escalation = immediate market reaction\n\n**Bottom line:** 今日唔係all-in day。保持defensive，等earnings data points + FOMC next week clarify direction。Opportunity在於：如果oil pullback + earnings唔差，下星期FOMC前會有relief rally window。但如果oil繼續升 + earnings miss，risk-off會加速進入FOMC week。\n",
+      "risks": [
+        "Oil breakout above $100",
+        "Bond sell-off compressing growth valuations",
+        "FOMC next week hawkish risk",
+        "Iran conflict escalation to Hormuz",
+        "Yen carry trade unwind"
+      ],
+      "my_take": "Cautious/Neutral-bearish. Oil-driven macro contagion is real. AAL guidance cut is first real-economy signal. GOOGL double whammy reflects shift from AI enthusiasm to ROI scrutiny. Stay defensive, wait for INTC/BX earnings + FOMC."
     }
   ],
   "news_curator": [
