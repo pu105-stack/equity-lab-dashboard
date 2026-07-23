@@ -3748,6 +3748,76 @@
         "Iran escalation beyond current pricing"
       ],
       "my_take": "Cautiously Bullish but asymmetric risk. Three forces colliding: GOOGL/TSLA earnings (tonight), $95 oil + Iran diplomacy collapse (geopolitical), FOMC next week (rate fear). Defense sector under-priced vs US-Saudi nuclear deal. Let catalysts play out - not a day to be aggressively positioned."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-23",
+      "time": "08:17 HKT",
+      "status": "success",
+      "market_direction": "Big Tech earnings night — GOOGL revenue beat但capex爆升嚇親市場，TSLA margin續跌FCF轉負。Oil +2.2%受中東局勢推升。Nasdaq futures指向低開。",
+      "headlines": [
+        "🎯 GOOGL: Q2 revenue beat但$6B AI capex burn sinks stock AH",
+        "🎯 TSLA: Q2 miss, margins slide, FCF negative — structural concern",
+        "🎯 NOW: Q2 beat + cybersecurity momentum — bright spot",
+        "⚠️ IBM: Outlook cut less severe than feared — potential relief rally",
+        "⚠️ OIL: Day 7 of US-Iran conflict, Houthis claim Saudi tanker attack",
+        "⚠️ CRYPTO: Clarity Act ethics pushback as bill nears passage",
+        "⚠️ NVDA: Jensen defends Chinese AI, $207.59 resistance holds",
+        "⚠️ YEN: 40-year low, Tokyo vows bold action — carry trade unwind risk",
+        "⚠️ PARA/WBD: EU clears merger, US states challenge"
+      ],
+      "opportunities": [
+        "GOOGL: AI spending panic may be overreaction — META 2024-25 analog",
+        "NOW: Enterprise software resilience + cybersecurity tailwind",
+        "CRYPTO: Clarity Act passage is underappreciated catalyst"
+      ],
+      "analysis": "今晚嘅story係AI spending reckoning。GOOGL $6B cash burn同TSLA margin compression係同一theme嘅兩面。GOOGL可能係overreaction（META analog），TSLA係結構性問題。",
+      "risks": [
+        "Yen carry trade unwind — systemic risk to US equities",
+        "TSLA margin compression — structural, not cyclical",
+        "Oil supply disruption 已priced in但escalation risk仍然存在"
+      ],
+      "my_take": "GOOGL sell-off on capex reminiscent of META 2024-25 — could be opportunity if pattern repeats。TSLA margin問題更structural。Crypto Clarity Act係最underappreciated catalyst。",
+      "key_takeaways": [
+        "AI spending reckoning, not earnings disaster",
+        "GOOGL potential META-analog buying opportunity",
+        "TSLA structural margin concern — different from GOOGL",
+        "NOW positive divergence from other tech earnings",
+        "Crypto Clarity Act near passage — underappreciated catalyst"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-23",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "Tech flat with rotation into utilities/commodities. Semis surge (SMCI +20%, DELL +9%). Earnings anxiety weighs on mega-cap.",
+      "headlines": [
+        "SMCI +19.84% — Record Q4 orders + $60bn backlog + margin beat",
+        "DELL +9.32% — AI server momentum",
+        "GOOGL AH -3.31% — Capex hike scare overshadows revenue beat",
+        "TSLA AH -4.07% — Margin compression + FCF negative, structural concerns",
+        "NOW AH +4.65% — Q2 beat + cybersecurity momentum",
+        "Iran Day 9: US-Saudi nuclear deal signed, oil $87.94",
+        "COIN -5.53% — Crypto Clarity Act ethics pushback stalls bill",
+        "FOMC Jul 28-29 next week + 10Y 4.66% hawkish backdrop"
+      ],
+      "opportunities": [
+        "SMCI/DELL: AI infra demand intact despite GOOGL capex scare",
+        "NOW: Enterprise software earnings bright spot, AH beat",
+        "NVDA: $207 support held, breakout pending",
+        "GOOGL: Potential overreaction play if opens -5%+",
+        "Defense sector: US-Saudi nuclear deal catalyst underappreciated"
+      ],
+      "analysis": "## 今日重頭條\n\n1. **[GOOGL]** Q2 revenue beat但2026 capex hike至$6B嚇親市場，盤後再瀉3.3%。AI spending reckoning成今晚主旋律。\n2. **[TSLA]** Q2 margin續跌+FCF轉負，Robotaxi revenue仍然係零，盤後再跌4.1%。結構性margin compression，唔係overreaction。\n3. **[SMCI]** +19.84% — 紀錄性Q4訂單+$60bn backlog + gross margin surprise。AI server demand story intact。\n4. **[DELL]** +9.32% — AI server momentum持續，跟SMCI一齊走高。\n5. **[NOW]** 盤中-6.47%但盤後+4.65% — Q2 beat + cybersecurity momentum，enterprise software spend強勁。\n6. **[Iran衝突]** Day 8-9: US-Saudi核協議簽署，以色列警告中東軍備競賽。油價$87.94 (+1.28%)，但energy sector只升1.20% — supply premium未完全priced in。\n7. **[COIN]** -5.53% — Crypto Clarity Act ethics pushback成最後障礙，BTC由$67K回落。\n8. **[PLTR]** -6.10%、**[CRM]** -4.15% — 大型軟件股遭拋售，可能係NOW盤前焦慮波及。\n\n## 1. Market Recap\n\n| Index | Close | Change | Notes |\n|-------|-------|--------|-------|\n| SPY | 747.41 | -0.12% | Flat，748附近橫行 |\n| QQQ | 705.35 | -0.51% | Tech偏弱，earnings anxiety主導 |\n| DIA | 521.47 | -0.01% | 幾乎冇郁過 |\n| IWM | 293.79 | -0.93% | Small caps最弱，risk-off tail |\n| VIX | 16.64 | -2.40% | 回落至16水平，市場未panic |\n\n**Sector Rotation:**\n- 贏家: XLU +2.25%（utilities避險）、XLB +1.44%（materials）、XLE +1.20%（energy跟油價）\n- 輸家: XLC -0.75%（GOOGL拖累）、XLY -0.74%（TSLA+consumer）、XLV -0.51%\n\n**Broad Take:** 典型「earnings night避險」格局 — 資金由big tech/small caps流入utilities+commodities。VIX回落反映市場並未恐慌，純粹係repositioning ahead of big earnings。\n\n10Y yield 4.66%（+0.63%），逼近2007年高位，債市持續定價hawkish Fed。FOMC Jul 28-29下星期殺到。\n\n## 2. Notable Movers\n\n**爆升:**\n- **SMCI +19.84%** — 今日MVP。Record Q4 orders + $60bn backlog + gross margin surprise。AI server需求完全未被GOOGL capex scare動搖。關鍵問題：SMCI嘅margin beat係咪代表成個AI infra stack嘅margin trend？\n- **DELL +9.32%** — AI server momentum跟SMCI一齊飛。Dell嘅server order book同樣強勁。\n- **AVGO +2.67%** — Broadcom繼續受益AI networking demand。\n- **NVDA +2.30%** — 成交量128M低於avg 157M，但守住$207 key level後反彈至$212。Jensen defend Chinese AI嘅言論有正面效果。\n\n**暴跌:**\n- **NOW -6.47%盤中 -> +4.65%盤後** — 盤中係pre-earnings jitters；盤後Q2 beat+cybersecurity momentum確認enterprise software spend仍然強勁。呢個係今晚唯一真正嘅earnings bright spot。\n- **PLTR -6.10%** — 冇獨立catalyst，可能係NOW earnings前軟件股集體de-risk + momentum unwind。\n- **CRM -4.15%** — 同樣被軟件股selloff波及。\n- **COIN -5.53%** — Crypto Clarity Act ethics pushback + BTC由$67K回落。但passage仍然係時間問題，pullback可能係entry。\n\n**盤後重點:**\n- GOOGL: $342.09 -> $330.75 AH (-3.31%) — capex fear持續發酵\n- TSLA: $374.01 -> $358.80 AH (-4.07%) — 結構性margin story未消化完\n- NOW: $95.46 -> $99.90 AH (+4.65%) — beat確認enterprise strength\n- IBM: $205.77 -> $204.95 AH (-0.40%) — 溫和，market已消化\n\n## 3. News That Mattered\n\n**NC Calls Assessment（7/23早晨NC #2 vs actual session）:**\n\n| NC Call | Verdict | Notes |\n|---------|---------|-------|\n| GOOGL ACTION（earnings beat但capex scare） | 中 | Reg -1.46% + AH -3.31% — NC預判「跌5%+係overreaction」值得關注 |\n| TSLA ACTION（結構性margin compression） | 中 | Reg -1.30% + AH -4.07% — NC準確判斷係結構性問題 |\n| NOW WATCH（Q2 beat + cybersecurity） | 中 | 盤中selloff後盤後+4.65%反彈 — enterprise strength確認 |\n| IBM WATCH（guidance cut溫和） | 中 | -2.25% reg + -0.40% AH — relief rally未有但selloff溫和 |\n| NVDA WATCH（$207.59 key level） | 中 | 守住level後反彈至$212.06 — breakout pending |\n| OIL WATCH（中東supply premium） | 中 | 油價$87.94 +1.28%，XLE +1.20% |\n| CRYPTO WATCH（Clarity Act） | 半中 | COIN -5.53%，ethics pushback比預期大 |\n\n**NC漏咗嘅大mover:**\n- **SMCI +19.84%** — NC完全冇提SMCI嘅record Q4 orders + margin beat。呢個係今日最重要嘅single-stock catalyst，Morning Scan都冇cover到。\n- **DELL +9.32%** — AI server peer effect，同樣冇被NC捕捉。\n\n**Morning Scan Thesis Check（7/22晚 -> 7/23 session）：**\n早晨scan方向「Cautiously Bullish - semis momentum + oil tailwind offset by earnings risk + rate fear」— **大致準確**。Semis momentum確實deliver（SMCI/DELL/NVDA全部升），oil tailwind present（XLE +1.20%），earnings risk存在但冇變成panic。唯一miss係冇預料到utilities咁強（XLU +2.25%）。\n\n## 4. Opportunities Carry Forward\n\n**SMCI / DELL — AI Server Demand Story Intact**\nSMCI嘅record Q4 orders + $60bn backlog + margin beat係最強signal：AI infrastructure demand唔受GOOGL capex scare影響。如果聽日SMCI hold住今日升幅，呢個係sector-wide re-rating catalyst。DELL作為peer有追落後空間。\n\n**NOW — Enterprise Software Bright Spot**\n盤後earnings beat確認enterprise software spend仍然強勁。NOW嘅cybersecurity angle係differentiator。聽日開市有望延續盤後升勢。對比PLTR/CRM嘅盤中selloff，NOW可能係sector leader。\n\n**NVDA — Breakout Watch**\n$207.59 key level守住後反彈至$212。盤後GOOGL/TSLA跌可能拖累聽日開市，但如果NVDA守住$207，breakout仍然係base case。成交量128M低於avg，反映冇distribution。\n\n**GOOGL — Overreaction Play?**\nNC嘅thesis：GOOGL capex scare同META 2024-25 AI panic相似。如果聽日開市跌5%+，可能係buying opportunity。但monetization path唔似META咁清晰（META有Reels+AI ad targeting proof out）。GOOGL嘅Cloud/Search/Gemini多元化pipe理論上更強，但execution risk更高。等確認overreaction先action。\n\n**Defense Sector — US-Saudi Nuclear Deal**\nTrump批准US-Saudi核協議，以色列警告中東軍備競賽。Morning Scan指defense sector under-priced。中東局勢持續升溫（Day 8-9），但defense stocks未有大反應。可能係asymmetric opportunity。\n\n## 5. Risks / Watchlist\n\n**Tonight's Scheduled Events（from macro_calendar.json）:**\n- MEDIUM 8:30pm HKT — Initial Jobless Claims (Jul/18)\n- MEDIUM 8:30pm HKT — Chicago Fed National Activity Index (Jun)\n\n**Earnings After Close:**\n- GOOGL / TSLA / NOW / IBM 已出results（見上方分析）\n- GOOGL AH -3.31% — 聽日可能gap down開市\n- TSLA AH -4.07% — margin compression story可能持續拖累\n\n**FOMC Next Week (Jul 28-29):**\nFOMC下星期殺到。Kevin Warsh嘅hawkish stance + 10Y yield逼近2007年高位。市場正在price in further hawkishness。呢個係下星期最重要嘅macro catalyst。\n\n**Iran Conflict — Day 8-9:**\nUS-Saudi核協議令中東局勢更複雜。油價$87.94已反映一定supply premium，但Hormuz完全斷航仍然係tail risk。Houthi claim Saudi tanker attack但未證實。等escalation確認。\n\n**Yen Carry Trade — Systemic Risk:**\nYen跌穿163創40年新低。Carry trade unwind係portfolio-level systemic risk。未到actionable但值得持續監控。\n\n## 6. My Take\n\n今日係「AI spending reckoning night」— 同一個theme喺唔同角度展現：GOOGL嘅$6B capex hike scare（AI investment過熱）、TSLA嘅margin compression（EV price war結構性）、NOW嘅enterprise strength（AI adoption driving real revenue）、SMCI嘅record orders（AI infra demand intact）。\n\n**最關鍵嘅信號係SMCI**。喺GOOGL capex scare同TSLA margin collapse嘅同一晚，SMCI出record Q4 orders + $60bn backlog + margin beat。呢個話俾我哋知：AI infrastructure spending嘅macro trend intact，個別公司嘅capex efficiency問題係micro noise而唔係thematic reversal。\n\n但今晚唔係all-clear。FOMC下星期、10Y 4.66%、Iran Day 9、Yen carry trade unwind — macro headwind仍然強勁。Earnings season仲有好戲：AAPL/MSFT/META/AMZN下星期出。\n\n**Tomorrow's bias: Selective bullish.** Focus on SMCI/DELL/NOW嘅earnings momentum，GOOGL overreaction potential，NVDA breakout。但有earnings + macro + geopolitical三重overhang，保持disciplined。\n\n**一個要問嘅問題：** 如果AI infra demand intact（SMCI signal），咁GOOGL嘅capex scare係咪buying opportunity？定係GOOGL specific嘅capital allocation problem？我傾向係後者多過前者，所以GOOGL要等更多證據先action。",
+      "risks": [
+        "FOMC Jul 28-29 — hawkish Warsh + high yields",
+        "Iran escalation Day 9 — Hormuz tail risk",
+        "Yen carry trade unwind — systemic risk at 163",
+        "GOOGL/TSLA AH drag — could pressure tomorrow open",
+        "Macro calendar: Jobless Claims + Chicago Fed tonight 8:30pm HKT"
+      ],
+      "my_take": "AI spending reckoning night：SMCI record orders證明AI infra demand intact，但GOOGL capex scare同TSLA margin compression反映individual execution risk。Focus on semis/enterprise software winners（SMCI/DELL/NOW），FOMC next week係macro overhang。"
     }
   ],
   "news_curator": [
