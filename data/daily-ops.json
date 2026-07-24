@@ -3950,6 +3950,34 @@
         "Iran conflict escalation - Trump massive attack could spike oil to $110+"
       ],
       "my_take": "osure before next week's Big Tech earnings, especially high-beta names\n\nWhat would change my thesis:\n- If Jul 30 FOMC statement is unexpectedly dovish (drops tightening bias) - entire market strong rally, growth stocks lead\n- If Core PCE < 0.1% MoM - inflation fear subsides - 10Y yield falls - tech rebounds\n- If Iran conflict suddenly de-escalates - oil drops - risk-on returns fully\n\nFor now: defense + energy + healthcare are relatively safe hiding places. Stay flexible before Big Tech earnings."
+    },
+    {
+      "pipeline": "weekly_screen",
+      "date": "2026-07-25",
+      "time": "06:07 HKT",
+      "status": "success",
+      "market_direction": "Risk-off: Oil $100 + AI spending reckoning + FOMC Jul 28-29 looming. Defense/Energy relative winners. 10Y yield at Jan 2025 highs. Warsh hawkish Fed rate hike odds surging.",
+      "opportunities": [
+        "XLE: Oil $100 supply disruption (Hormuz+Houthis+Kazakhstan), not just risk premium. Upstream earnings upside.",
+        "SMCI: Record $60bn backlog + margin surprise + SpaceX order. AI server demand structural.",
+        "LLY: Retatrutide Phase III success, obesity franchise moat widening, defensive pharma hedge.",
+        "LMT: Iran war driving defense super-cycle, record order backlog, interceptor depletion = restocking."
+      ],
+      "risks": [
+        "TSLA: $214B wipeout, structural margin compression, FCF negative, Robotaxi revenue zero. $180-200 before considering.",
+        "AAL: First airline to cut guidance on fuel costs. Canary in coal mine for oil spillover to transportation/consumer."
+      ],
+      "analysis": "Week dominated by macro regime shift: oil-driven inflation + hawkish Fed + AI capex ROI scrutiny converging. Energy (XLE, oil complex) and Defense (LMT, RTX) are structural winners with real earnings catalysts. AI hardware divergence accelerating - SMCI proving demand is real while GOOGL/TSLA show investors now demand ROI proof, not just capex promises. FOMC Jul 28-29 is critical catalyst - Warsh language on oil-driven inflation sets Q3 tone. Gold paradox (cannot rally on war) is most important macro signal - suggests real yields dominating safe haven demand.",
+      "my_take": "Market transitioning from AI optimism to AI spending reality check + geopolitical supply shock. Energy and Defense are structural winners. SMCI is the standout AI hardware play. GOOGL/NVDA are two-sided - next weeks MSFT/AAPL/META earnings will decide direction. TSLA is a story breakdown, not a dip-buy. Gold paradox is the sleeper signal - if gold cannot rally on Iran war with oil at $100, something structural has shifted in the macro regime. FOMC next week is the make-or-break catalyst.",
+      "focus": [
+        "Geopolitical Energy: XLE, OIL",
+        "AI Hardware: SMCI, NVDA",
+        "Defense Super-Cycle: LMT",
+        "AI Capex Reckoning: GOOGL",
+        "Contrarian Turnaround: INTC",
+        "Safe Haven Paradox: GLD",
+        "Story Breakdown: TSLA, AAL"
+      ]
     }
   ],
   "news_curator": [

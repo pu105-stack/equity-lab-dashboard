@@ -1,12 +1,68 @@
 {
   "decisions": [
     {
-      "ticker": "GOOGL",
-      "status": "done",
-      "verdict": "BUY",
-      "conviction": "Med-Hi 7/10",
-      "updated_at": "2026-07-24T22:00:00+08:00"
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Iran war Day 8+, Pentagon $100B+ war bill. FT reports US weapons makers order backlog at record. Interceptor/precision munitions depletion rate faster than expected - restocking orders needed. Defense spending is fiscal policy driven, FOMC rate hikes do not affect. NOC already raised guidance confirming structural demand.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "LLY",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Retatrutide (triple-G) passed two Phase III trials, filing planned for 2027. Obesity franchise moat widening - next growth driver in $100B+ market. Defensive pharma is natural hedge in risk-off macro. STAT+ has questions on heart benefit data but overall thesis intact.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "SMCI",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Record Q4 orders + $60bn backlog + gross margin surprise. SpaceX order confirms AI server demand is structural. Even as tech sector sold off on GOOGL/TSLA, SMCI surged +19% - market is differentiating real AI winners. Momentum + fundamentals aligned.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "XLE",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Oil broke $100 - real supply disruption (Hormuz+Houthis hitting Saudi tankers+Kazakhstan Black Sea pipeline), not just risk premium. AAL already cut guidance on fuel costs - real economy transmission confirmed. FOMC rate hike risk is secondary, supply disruption dominates. Upstream energy stocks have real earnings upside.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "AAL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "First major airline to significantly cut 2026 earnings outlook due to fuel costs at $100 oil. Fuel is largest variable cost for airlines. AAL is canary in the coal mine - if DAL/UAL follow with downgrades, entire transportation sector gets revalued. This is not isolated story but oil-to-macro contagion real-economy transmission evidence. If oil sustains >$95, more transport/consumer discretionary stocks will face pressure.",
+      "source": "RISK"
+    },
+    {
+      "ticker": "TSLA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Q2 complete miss: margin continued declining + FCF turned negative, $214B market cap wipeout. Not overreaction, structural margin compression. EV price war + discount strategy is race to the bottom. Robotaxi pilots (Orlando/Tampa) are long-dated call option not near-term revenue driver - revenue still zero. Musk \"spend as fast as we can\" comment triggered panic. Analysts cutting price targets across the board. $180-200 before considering.",
+      "source": "RISK"
+    },
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Bull: $4,180 macro trendline bounce, geopolitical safe haven demand (Iran conflict), oil-driven inflation fear boosting haven demand. Bear: Gold failed to rally on Iran war (fell from $4,000+ to $3,680) - extremely bearish signal. Warsh hawkish Fed keeps real yields elevated, zero-yield asset extremely disadvantaged in real yield >2% environment. If gold cannot rally on war, something structural is shifting.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "INTC",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Bull: Q2 fastest revenue growth in 15 years, AI data centre turnaround story gaining traction. Market extremely undervalued INTC - contrarian value play. Bear: Seeking Alpha downgrade \"A Great Quarter Doesnt Make It A Good Investment\" - one quarter does not equal trend change. Silicon photonics interesting long-term but years away. Wait for post-earnings pullback before entry.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-24",
+      "reasoning": "Bull: Vera CPU strategy expansion, Jensen $4T bet, TSM confirms multi-year AI demand, China cheap AI models may actually boost chip demand (Jevons paradox). Bear: AI capex reckoning narrative repricing high-multiple growth, $207 key level rejected twice, Moonshot AI bypassed export ban getting chips triggering stricter export control risk. FOMC rate hikes heavily impact ultimate high-beta AI play.",
+      "source": "WATCH"
     }
   ],
-  "last_updated": "2026-07-24T22:00:00+08:00"
+  "last_synced": "2026-07-25T06:07:28.429867+08:00"
 }
