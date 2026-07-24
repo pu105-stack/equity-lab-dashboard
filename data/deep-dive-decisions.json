@@ -1,4 +1,12 @@
 {
-  "decisions": [],
-  "last_synced": "2026-07-18T12:16:07.297984+08:00"
+  "decisions": [
+    {
+      "ticker": "GOOGL",
+      "status": "done",
+      "verdict": "BUY",
+      "conviction": "Med-Hi 7/10",
+      "updated_at": "2026-07-24T22:00:00+08:00"
+    }
+  ],
+  "last_updated": "2026-07-24T22:00:00+08:00"
 }
