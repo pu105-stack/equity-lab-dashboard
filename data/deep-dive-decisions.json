@@ -1,26 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "GLD",
-      "status": "deep_dive",
-      "updated_at": "2026-07-24",
-      "reasoning": "Bull: $4,180 macro trendline bounce, geopolitical safe haven demand (Iran conflict), oil-driven inflation fear boosting haven demand. Bear: Gold failed to rally on Iran war (fell from $4,000+ to $3,680) - extremely bearish signal. Warsh hawkish Fed keeps real yields elevated, zero-yield asset extremely disadvantaged in real yield >2% environment. If gold cannot rally on war, something structural is shifting.",
-      "source": "WATCH"
-    },
-    {
-      "ticker": "LMT",
-      "status": "deep_dive",
-      "updated_at": "2026-07-24",
-      "reasoning": "Iran war Day 8+, Pentagon $100B+ war bill. FT reports US weapons makers order backlog at record. Interceptor/precision munitions depletion rate faster than expected - restocking orders needed. Defense spending is fiscal policy driven, FOMC rate hikes do not affect. NOC already raised guidance confirming structural demand.",
-      "source": "OPPORTUNITY"
-    },
-    {
-      "ticker": "XLE",
-      "status": "deep_dive",
-      "updated_at": "2026-07-24",
-      "reasoning": "Oil broke $100 - real supply disruption (Hormuz+Houthis hitting Saudi tankers+Kazakhstan Black Sea pipeline), not just risk premium. AAL already cut guidance on fuel costs - real economy transmission confirmed. FOMC rate hike risk is secondary, supply disruption dominates. Upstream energy stocks have real earnings upside.",
-      "source": "OPPORTUNITY"
-    }
-  ],
-  "last_synced": "2026-07-25T12:11:37.339782+08:00"
+  "decisions": [],
+  "last_synced": "2026-07-25T12:11:52.100850+08:00"
 }
