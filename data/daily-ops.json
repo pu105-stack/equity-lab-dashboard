@@ -4198,6 +4198,116 @@
         "GDP <2% Thu = recession narrative returns"
       ],
       "my_take": "Rotation confirmed, NC stock-picking 50% hit rate. SMH -3.45% but VIX -2.46% = orderly rotation not crash. FOMC tonight (Warsh first meeting) + META/MSFT earnings + GDP/Core PCE Thu = 36hr catalyst window. Neutral-to-cautious bias — wait for FOMC dust to settle."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-29",
+      "time": "20:13 HKT",
+      "status": "success",
+      "market_direction": "Risk-off + geopolitical escalation. Iran surprise attack shatters ceasefire, oil spikes, defense rallies. Chip rout deepens ($1T wiped). Rotation into value/defense/old economy. FOMC today adds uncertainty. MSFT/META earnings tonight = AI capex stress test.",
+      "headlines": [
+        "[NEW] ACTION: OIL/DEFENSE — Iran surprise missile attack on US bases shatters ceasefire; US+Saudi joint strikes; oil jumps",
+        "[NEW] ACTION: F — Ford raises guidance after Q2 beat, old economy vs tech sell-off",
+        "[NEW] ACTION: RHM — Rheinmetall Q2 profit beat, revenue +70%, defense earnings exploding",
+        "[RECENT] WATCH: CHIP ROUT — $1T wiped out, SK Hynix miss deepens, leverage unwinding",
+        "[RECENT] WATCH: MSFT/META — Earnings tonight, $190B implied swing, AI capex stress test",
+        "[NEW] WATCH: MACRO — FOMC today, most uncertain Fed day in years, Iran war complicates",
+        "[NEW] WATCH: GE HealthCare — Beat + tariff refunds, healthcare bright spot",
+        "[NEW] WATCH: PG — Revenue miss, consumer staples divergence"
+      ],
+      "opportunities": [
+        "OIL/DEFENSE: Iran surprise attack = fresh escalation. Oil supply risk real. Watch XOM/CVX + LMT/RTX/NOC/RHM.",
+        "F: Old economy rotation play. Auto cycle turning. Attractive valuation.",
+        "RHM: Defense earnings confirmation + geopolitical catalyst. Revenue +70% YoY.",
+        "CHIP ROUT: Becoming liquidation event. MSFT/META earnings = circuit breaker.",
+        "MSFT/META: THE event this week. AI capex confirmation or capitulation."
+      ],
+      "analysis": "Iran surprise attack reverses the diplomacy breakthrough narrative from 24h ago. Oil spike complicates FOMC. Chip rout accelerating via leverage unwinding but earnings tonight could snap it back. Rotation into old economy/defense/value is real — FTSE 100 at ATH, Ford/Rheinmetall/GEHC beating. Regime shift underway.",
+      "risks": [
+        "Iran escalation widens — oil supply disruption could trigger stagflationary shock",
+        "MSFT/META earnings disappoint — chip rout becomes proper bear market",
+        "FOMC Warsh hawkish surprise — rate hike would crush risk assets",
+        "Leverage unwind in semis could cascade into broader market"
+      ],
+      "my_take": "Macro picture deteriorated overnight. Iran escalation is genuine — not a rehash. FOMC + MSFT/META earnings create binary risk event within 24 hours. Rotation trade is real and accelerating. Key question: do tonight's catalysts accelerate rotation or snap it back?",
+      "key_takeaways": [
+        "Iran surprise attack = fresh escalation, not continuation. Oil/defense actionable.",
+        "Chip rout = $1T wipeout. Becoming liquidation event. Earnings tonight = circuit breaker.",
+        "Rotation into value/old economy/defense is real — Ford, Rheinmetall, GEHC all beating.",
+        "FOMC today = most uncertain in years. Warsh tested by war + oil + tariffs.",
+        "MSFT/META = binary event. AI capex thesis hangs in balance."
+      ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-07-30",
+      "time": "2026-07-30 08:17 HKT",
+      "status": "success",
+      "market_direction": "FOMC divided (3 dissent for hike) -> bond yields surge, stocks fall. META -10% vs MSFT +7% = AI capex divergence. Iran war escalates -> oil + defense bid.",
+      "headlines": [
+        "[NEW] ACTION: FOMC - Warsh Fed holds rates steady but 3 officials dissent for hike; bond market revolts",
+        "[NEW] ACTION: MSFT - Profit jumps 31%, capex hits $41B, Copilot super app confirmed; stock +7% AH",
+        "[NEW] ACTION: LMT - Receives $58.62B missile defense contract; Patriot deal worth $58.6B also struck",
+        "[NEW] ACTION: OpenAI - July revenue already topped all of Q2; Altman meets White House this week on AI framework",
+        "[NEW] WATCH: META - Profit falls 14%, guidance disappoints, FCF dwindles; stock plunges ~10% AH",
+        "[RECENT] WATCH: OIL/IRAN - 5-month war expands as Trump threatens Iran with \"a beating\"; oil surges on fresh strikes + API crude draw",
+        "[NEW] WATCH: QCOM - Shrinking sales and profits from chip costs, but raising phone chip prices Sept 1 - mixed signal",
+        "[NEW] WATCH: GOLD - Bullish technical breakout setup post-FOMC; safe-haven bid + rate uncertainty support",
+        "[RECENT] WATCH: DEFENSE - Broad NATO/Asia spending push alongside Iran escalation; Rheinmetall +70% revenue, Patriot deal",
+        "[NEW] NOTE: SBUX - Raises full-year outlook, stock jumps; turnaround narrative gaining traction",
+        "[RECENT] NOTE: V - Thousands of layoffs at payments giant as CEO memo points toward AI acceleration",
+        "[RECENT] NOTE: CRYPTO - Robinhood record quarter but crypto revenue -38%; Senate pushes Clarity Act crypto limits",
+        "[NEW] NOTE: CVNA - Stock falls as 2026 guidance misses Wall Street expectations; auto retailer under pressure"
+      ],
+      "opportunities": [
+        "MSFT: Profit +31%, AI capex $41B, Copilot super app - market rewards AI spending here",
+        "LMT: $58.62B contract + Patriot deal - defense supercycle intact",
+        "OpenAI: Revenue acceleration + White House AI framework meeting",
+        "FOMC: Divided Fed = rate path uncertainty = bond vol opportunity"
+      ],
+      "analysis": "US session dominated by FOMC decision + mega-cap earnings. Key takeaway: AI capex is NOT one-size-fits-all. MSFT rewarded (+7%), META punished (-10%). Market is discriminating between AI spenders. Bond market openly challenging Warsh - 30Y yields surging, borrowing costs at 19-year high. Iran war enters 5th month with fresh escalation.",
+      "risks": [
+        "FOMC 3-dissenter split signals policy confusion - bond vol may persist",
+        "META -10% could drag broader tech if AI capex narrative sours",
+        "Iran war expansion + Trump escalation rhetoric - oil spike risk to inflation/Fed path"
+      ],
+      "my_take": "The AI capex divergence (MSFT up vs META down) is the story of the night. Market is no longer treating all AI spenders equally - it wants revenue conversion, not promises. For portfolio: MSFT thesis strengthened, META needs monitoring but long-term AI agent vision (Zuckerberg says billions will have personal AI agents in 5 years) could be buying opportunity if sell-off overdone. FOMC dissent + bond pushback = Warsh credibility test. If bond market wins, rate expectations shift dovish which supports tech valuations - the irony.",
+      "key_takeaways": [
+        "FOMC: Rates held, 3 dissent for hike - most divided Warsh Fed decision yet",
+        "MSFT vs META: AI capex rewarded (+7%) vs punished (-10%) - market discriminates",
+        "LMT: $58.62B contract - defense supercycle accelerating with Iran war expansion",
+        "Bond market: 30Y yields surge, borrowing costs hit 19-year high - challenging Warsh",
+        "OpenAI: Revenue acceleration validates AI monetization thesis"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-30",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "FOMC-driven broad selloff. SPY -1.5%, QQQ -2.0%, VIX +13.5% to 20.66. Bond market challenging Warsh after 3 dissenting votes.",
+      "headlines": [
+        "FOMC: Warsh holds rates, 3 dissent for hike - bond yields surge, stocks fall",
+        "MSFT +31% profit, AI capex rewarded -> +7% AH | META -14% profit, AI capex punished -> -10% AH",
+        "LMT $58.62B Patriot missile defense contract - defense supercycle accelerating",
+        "Iran war 5th month: Trump threatens \"a beating\" - oil surges, XLE +1.88%",
+        "SMH -4.79%: QCOM -4.4% after shrinking sales + price hike announcement",
+        "Tonight 8:30PM HKT: GDP Q2 Adv + Core PCE + Personal Spending - macro gauntlet"
+      ],
+      "opportunities": [
+        "MSFT: AI capex thesis validated - revenue conversion + Copilot pipeline clear",
+        "DEFENSE (LMT/RTX/NOC): Multi-year supercycle - cleaner geopolitical play than oil",
+        "META: Potential overreaction - if AI agents convert, this sell-off is a buying opportunity (timing uncertain)",
+        "GOLD: Technical breakout zone + FOMC uncertainty + Iran risk = supportive macro setup"
+      ],
+      "analysis": "## FOMC Dominates - Warsh Faces First Credibility Test\n\nFOMC Jul 28-29 concluded with rates held steady, but 3 officials dissented voting for a hike - the first public fracture in Warsh's Fed. The bond market didn't wait for permission: 30Y yields surged, government borrowing costs hit 19-year highs, and equities sold off across the board. The 10Y held at 4.62% on the day but the vote split signals a Fed that's losing control of the narrative. If bond vigilantes keep pushing yields higher, the choice becomes binary: hike (crush equities) or capitulate (dovish pivot that ironically supports tech). The irony is that bond pain may ultimately be bullish for growth stocks.\n\n## AI Capex Divergence - MSFT Rewarded, META Punished\n\nThis is the story of the night. MSFT profit +31%, $41B AI capex commitment, Copilot super app confirmed - stock +7% AH. META profit -14%, FCF dwindling, guidance disappoints - stock -10% AH. Both are spending massively on AI. The difference? MSFT has revenue conversion (cloud + Copilot pipeline); META is asking investors to trust a 5-year vision of \"billions of personal AI agents.\" The market is done funding AI experiments - it wants proof of monetization. MSFT validated the AI capex thesis; META now faces an uphill battle to restore narrative.\n\n## Defense Supercycle Accelerates\n\nLMT landed a $58.62B missile defense contract the same day Trump warned Iran will \"get a beating\" for breaking a 5-day ceasefire. Iran conflict enters its 5th month with no resolution in sight. Defense earnings are exploding (Rheinmetall +70% revenue), stockpile depletion drives replenishment orders, and NATO/Asia allies are boosting spend. LMT/RTX/NOC are structural beneficiaries of a multi-year cycle - cleaner play than oil for the geopolitical theme.\n\n## Oil Spikes, Energy Sector Leads\n\nXLE was the only major sector in the green (+1.88%) as oil prices surged on the Iran missile attack and API crude draw. But the conflict is 5 months old - risk premium ebbs and flows with escalation cycles. Trade the spikes, don't chase. Defense offers better risk/reward for geopolitical exposure.\n\n## Semis Crushed - QCOM Leads Tech Weakness\n\nSMH -4.79% as QCOM -4.42% after reporting shrinking sales while simultaneously announcing chip price hikes on September 1. Raising prices into a weak demand environment is either desperate margin protection or confident new-product pricing. The market voted: it's reading it as defensive. Broad semis weakness dragged the entire tech sector lower.\n\n## Tonight's Macro Gauntlet (8:30PM HKT)\n\nFour HIGH-impact releases hit simultaneously:\n- GDP Q2 Advance: forecast 2.1% (vs prior 2.1%)\n- Core PCE MoM (Jun): forecast 0.2% (vs prior 0.3%) - this is THE number. If it comes in hot (>0.3%), the 3 FOMC hawks look prescient and rate hike expectations surge. If it cools (<=0.2%), Warsh's hold decision is vindicated and bonds may stabilize.\n- Personal Spending MoM (Jun): forecast 0.3% (vs prior 0.7%) - consumer resilience check\n- Personal Income MoM (Jun): forecast 0.3% (vs prior 0.7%)\n- Initial Jobless Claims (Jul 25)\n- PCE Price Index YoY (Jun)\n\nThis is the biggest macro evening of the month. The GDP + PCE combo will either validate or undermine Warsh's hold decision within 24 hours of the FOMC statement.",
+      "risks": [
+        "TONIGHT 8:30PM: Core PCE MoM (fcst 0.2%). Hot print (>0.3%) = rate hike fears surge. Cold print (<=0.2%) = Warsh vindicated.",
+        "Bond market mutiny: 30Y yields at 19-year high. If bond vigilantes force Fed hand, volatility spikes.",
+        "Iran escalation: 5-month conflict, fresh missile attack broke ceasefire. Oil supply risk if Strait of Hormuz threatened.",
+        "AI narrative risk: META sell-off could spread to other AI-heavy names if monetization questioned broadly."
+      ],
+      "my_take": "FOMC credibility test + AI capex divergence define today. Market wants revenue conversion, not promises - MSFT delivers, META doesn't (yet). Tonight's GDP + Core PCE at 8:30PM HKT will determine whether the bond market's mutiny gains momentum or Warsh regains control. Defense remains the cleanest structural play."
     }
   ],
   "news_curator": [
