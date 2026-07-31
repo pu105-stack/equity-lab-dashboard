@@ -1,4 +1,75 @@
 {
-  "decisions": [],
-  "last_synced": "2026-07-25T12:11:52.100850+08:00"
+  "decisions": [
+    {
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Defense supercycle confirmed: $58.62B missile defense contract + $58.6B Patriot deal。伊朗戰爭第5個月，彈藥庫存耗盡需補貨，NATO/亞洲盟友同步增加軍費。Rheinmetall +70% revenue 確認板塊強勢。結構性 multi-year tailwind，唔係短期 trade。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "COIN",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Q2 loss despite record market share — 即係 structural, 唔係 cyclical。Robinhood crypto revenue -38% 確認 retail crypto fatigue。如果 BTC 橫盤甚至跌，COIN revenue 會繼續萎縮。Clarity Act 監管收緊 add regulatory headwind。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "MSTR",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "$8.2B Q2 loss from Bitcoin slump。BTC 橫盤 $64K 未能突破，ETF inflows smallest monthly on record。MSTR 本質係 leveraged BTC proxy — 如果 BTC 繼續下跌，margin call risk 上升。Crypto 12 firms conducting layoffs。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Deep Dive 確認 moat intact: CUDA ecosystem lock-in, 74.1% gross margin, Data Center +200% YoY。Bull: AI capex thesis 被 MSFT/AMZN 確認，chip rout rebound 進行中（LRCX +17%）。Bear: $250B OpenAI backstop 被市場定性為循環融資 = dot-com 2.0 風險。SK Hynix miss 暴露 memory cycle 風險。等 earnings 確認 demand。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "XOM",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Bull: Iran 直接攻擊美軍基地 + Hormuz 船隻，油價月漲20%。Exxon/Chevron profits surging，SPR 唔肯放。多條供應線受壓（Hormuz + Caspian + Russia bans）。Bear: BP 趁高賣北海業務（contrarian signal），Gaza deal 如果落實 oil risk premium evaporate。Oil failed to rally on fresh strikes — 市場可能 numb。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "META",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Bull: Zuckerberg predicts billions will have AI agents in 5 years — 如果 AI agent 生態成功，現價係 steal。MSFT precedent 證明 AI capex 可被獎勵。Bear: Q2 miss, profit -14%, FCF dwindling, record losing streak。Market wants near-term ROI, not 5-year vision。Timing uncertain — wait for stabilization。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "AAPL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Bull: Q3 profit +27%，Tim Cook 暗示 AI Siri 收費 = 新 revenue stream。Analysts raising PT despite selloff。Bear: supply constraints + weak guidance → -6% AH。5%+ gap down 可能係 dip-buy opportunity，但要確認 supply chain 問題唔係結構性。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "SHEL",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "Energy war profit machine: $9.8B second-highest quarterly profit。Trading desk 直接受益 Hormuz disruption。油價月漲20%，伊朗由 proxy war 升級為直接攻擊美軍海外基地 — quantitative shift。Structural oil tailwind 但 valuation 仍有折讓 vs US peers。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "AMZN",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "AI infrastructure king: Q2 beat + $220B capex（+$20B hike）+ Zoox robotaxi federal approval。AWS outperformance 令 Wall Street 有信心。Market rewards AMZN's capex discipline 同時懲罰 META — AI bifurcation 嘅最大贏家之一。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "MSFT",
+      "status": "deep_dive",
+      "updated_at": "2026-07-31",
+      "reasoning": "AI capex winner — 唯一被市場獎勵嘅 hyperscaler。Q2 profit +31%，Azure AI 收入爆發，Copilot super app confirmed。+$450B market cap 說明市場用腳投票：有 revenue conversion 嘅 AI spending = 值得。Anthropic 投資已錄 $3.2B 回報。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-08-01T06:11:06.128106+08:00"
 }
