@@ -4374,6 +4374,75 @@
         "Oil fails to rally on Shell beat → energy trade exhaustion confirmed"
       ],
       "my_take": "Cautious but not bearish。FOMC drama overplayed — bond market calm at 4.62%。今日核心係 Core PCE（決定 Warsh Sep path）+ AAPL/AMZN earnings（決定 Nasdaq direction）。Oil paradox 係最大 contrarian signal。Defense sector multi-quarter thesis intact。8:30PM HKT macro data dump 係今日最重要 catalyst。"
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-07-31",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "Earnings bifurcation - AI capex haves (MSFT+15%, AMZN up) vs have-nots (META-8%, AAPL-6% AH)",
+      "headlines": [
+        "[NEW] ACTION: AAPL - Q3 profit +27% but -6% AH on supply constraints; Tim Cook AI Siri monetization catalyst",
+        "[NEW] ACTION: AMZN - Q2 beat + $220B capex + Zoox robotaxi approval; AI infrastructure winner",
+        "[RECENT] ACTION: AMD/MU/LRCX - Chip stocks rip higher as AI trade rebounds",
+        "[NEW] WATCH: COIN - Q2 loss despite record market share; crypto exchange winter",
+        "[NEW] WATCH: RDDT - -11% AH on choppy search referrals; AI impact on traffic",
+        "[RECENT] WATCH: META vs MSFT - AI trade splitting: +$450B vs -8% record losing streak",
+        "[NEW] WATCH: MSTR - $8.2B Q2 loss from Bitcoin slump; liquidity concerns",
+        "[RECENT] WATCH: Warsh - Bond market revolt, PGIM sees 3 Sep hikes"
+      ],
+      "opportunities": [
+        "AAPL: dip-buy opportunity if gap down 5%+ - supply chain is macro, not Apple-specific",
+        "AMZN: AI infrastructure king - $220B capex signals AWS demand reality",
+        "AMD/MU/LRCX: semis rebound genuine but wait for NVDA earnings confirmation"
+      ],
+      "analysis": "AI capex bifurcation is now THE trade. MSFT rewarded for discipline, META punished for spend without ROIC. AAPL dip on supply constraints = opportunity. Warsh credibility crisis is Q3 biggest macro risk.",
+      "risks": [
+        "META: record losing streak continues, FCF dwindling, AI agents vision not convincing market",
+        "COIN: crypto exchange structural decline despite BTC at $64K",
+        "RDDT: AI-powered search eating referral traffic - growth story may need repricing",
+        "Warsh: if Sep FOMC hikes, high-multiple tech repriced; bond market already revolting",
+        "MSTR: $8.2B unrealized loss - margin call risk if BTC continues declining"
+      ],
+      "my_take": "1) AI capex bifurcation is THE trade - prove ROIC or get punished. 2) AAPL dip is opportunity not risk - profit +27% + AI Siri monetization. 3) Warsh credibility crisis is sleeping giant - Sep FOMC could be forced hawkish. 4) Contrarian: Wall Street betting AI bottom as Situational Awareness collapses.",
+      "key_takeaways": [
+        "AAPL -6% AH on supply constraints = potential dip-buy; fundamentals strong at +27% profit",
+        "AMZN capex to $220B confirms AI infra demand is real; Zoox robotaxi is long-term optionality",
+        "META vs MSFT divergence shows market demanding AI capex ROIC - no more blank checks",
+        "Warsh Fed credibility crisis deepening - bond market revolting, PGIM calling 3 Sep hikes",
+        "Situational Awareness hedge fund collapse seen as contrarian AI bottom signal by Wall Street"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-07-31",
+      "time": "08:38 HKT",
+      "status": "success",
+      "market_direction": "Post-FOMC relief rally + 業績分歧：SPY +1.7%, QQQ +3.3%, VIX 暴跌至17",
+      "headlines": [
+        "MSFT +15.5%（+$450B市值）vs META -8%：AI capex bifurcation",
+        "AAPL -6% AH：profit +27% 但 supply constraints + weak guide",
+        "AMZN +3.9%：Q2 beat + $220B capex + Zoox robotaxi",
+        "LRCX +18%, AMD +13%, MU +18%：晶片暴力反彈",
+        "RDDT -11% AH：Google AI summaries 蠶食 referral",
+        "AI Hedge Fund Situational Awareness 清倉，Citadel 接貨",
+        "FOMC Jul 28-29 結束，Warsh credibility crisis 持續",
+        "今晚 ECI wage data — Sep FOMC 加息關鍵 input"
+      ],
+      "opportunities": [
+        "AAPL: AH -6% vs profit +27% = dip-buy setup，等 Jul 31 open",
+        "AMZN: AI infrastructure momentum，$235突破後 room to run",
+        "LRCX/MU: Semis rebound genuine，等 NVDA earnings confirmation"
+      ],
+      "analysis": "📊 Evening Review — 7月30日美股收市（7月31日 HKT）\n\n## Fed Context\nFOMC 剛於 7月28-29日完成議息，有 press conference。市場 7/29 大幅拋售（SPY -1.5%, QQQ -2.0%），但 7/30 即刻強勁反彈（SPY +1.7%, QQQ +3.3%）。VIX 從 20.66 暴跌至 17.09（-17.3%），反映市場消化 FOMC 後迅速回穩。下次 FOMC：9月15-16日，有 press conference。Kevin Warsh 嘅 credibility crisis（FT/Bloomberg 炮轟溝通混亂）依然係 Q3 最大 macro risk — 市場對 9月加息預期升溫。\n\n## 今日重點頭條\n\n業績核爆夜 — AI trade 出現史詩級分歧：\n1. MSFT +15.5%（+$450B市值）— Q2 Azure AI 收入爆發，capex discipline 獲獎勵\n2. META -8.0%（record losing streak）— Q2 miss，AI 開支失控被市場懲罰\n3. AAPL -6% AH — Q3 profit +27% 但 supply constraints + weak guidance，Tim Cook 暗示 AI Siri 收費\n4. AMZN +3.9% — Q2 beat + $220B capex hike + Zoox robotaxi 聯邦批准\n5. LRCX +18%, AMD +13%, MU +18% — 晶片股暴力反彈，市場解讀 AI trade 未死\n6. RDDT -11% AH — Google AI summaries 蠶食 referral traffic，search behavior 結構性轉變\n7. COIN — Q2 虧損但市場份額創新高，retail crypto fatigue 結構性問題\n8. AI Hedge Fund 爆煲 — Situational Awareness 清倉，Citadel 接貨 -> Wall Street 賭 AI trade 見底\n\nNC 命中率：MSFT vs META 分歧、AMZN bullish、AAPL dip-buy、chip rebound、COIN negative 全部命中。\n\n## 1. Market Recap\n\n| Index | 7/30 Close | 日變幅 | 週變幅 |\n|-------|-----------|--------|--------|\n| SPY | 741.69 | +1.7% | +0.4% |\n| QQQ | 683.55 | +3.3% | -0.1% |\n| DIA | 521.51 | +1.2% | +0.5% |\n| IWM | 292.59 | +1.4% | +0.5% |\n| VIX | 17.09 | -17.3% | -8.0% |\n\nSector Heatmap（7/30 vs 7/29）：\n- XLK（科技）+5.5% — MSFT 拉動\n- SMH（半導體）+6.9% — LRCX/MU/AMD 暴力反彈\n- XLV（醫療）-1.6% — rotation out，資金湧入科技\n- XLF +0.6%, XLE +0.5%, XLY +0.7%, XLI +1.0% — 其他 sector 溫和\n\n一句總結：Post-FOMC relief rally + mega-cap earnings divergence。MSFT 炸裂業績點燃 AI trade V-shaped bounce。\n\n## 2. Notable Movers\n\nWinners（催化劑明確）：\n- MSFT +15.5%：Q2 Azure AI revenue >50% growth，capex discipline framework 被市場獎勵。單日+$450B 市值係歷史級別。但追高風險極大。\n- LRCX +18%（open +26%, fade to +18%）：半導體設備股 gap-and-fade。雖然 +18% 但全週仍 -2.5%，只收復部分失地。\n- MU +18.4%：記憶體 HBM 需求 narrative intact。上週由 920 -> 739（-20%），今日只收回約一半。\n- AMD +13.0%：Data center GPU narrative。全週仍 -7%，走勢弱於 peers。\n- AMZN +3.9%：Q2 beat + $220B capex + Zoox robotaxi 聯邦批准。三重 catalyst。\n\nLosers（催化劑明確）：\n- META -8.0%：連跌 record。AI capex 失控 vs 收入增長放緩 -> 市場重新定價。開盤 -10% gap down 後微彈至 -8%，買盤仍然薄弱。\n- AAPL -6% AH：Q3 profit +27% 但 supply constraints + weak guide。Tim Cook AI Siri monetization hint 可能長期 bullish 但短期市場 focus 在 guidance。\n- RDDT -11% AH：Google AI summaries 結構性威脅 search referral。唔係週期性 — 係 structural headwind。\n\n## 3. Opportunities Carry Forward\n\nAAPL — Dip-buy opportunity（monitor Jul 31 open）\n- Q3 profit +27% 但 supply constraints + weak guide -> AH -6%\n- Bull case：AI Siri monetization = new revenue stream，Tim Cook explicitly hinted\n- Bear case：Supply constraints could persist 2-3 quarters，guide cut 令 forward PE 下調\n- My view：如果 Jul 31 regular session 開 -5% 以上 -> 值得考慮。Profit +27% 係 hard numbers，supply constraints 係 transitional。但 wait for stabilization first，唔好接飛刀。\n- What changes my mind：如果 open 後 sell through 開盤價 -> supply concern 比盈利更重 -> pass。\n\nAMZN — AI infrastructure momentum\n- Q2 beat + $220B capex + robotaxi catalyst\n- $235 level 突破後 next resistance ~$245（ATH area）\n- My view：BULLISH。MSFT 證明市場 reward capex discipline + AI revenue delivery。AMZN 兩樣都有。+3.9% 不算 extreme，仍有 room to run。\n\nLRCX/MU — Semiconductor rebound\n- 兩隻都從上週低點 +18% 反彈，但全週仍 underwater\n- LRCX 今日 gap-and-fade（open +26% -> close +18%）顯示 supply overhead\n- My view：WATCH — rebound genuine but wait for NVDA earnings as confirmation。Chip trade 方向正確，但 timing 需要 precision。LRCX fade pattern 係 warning。\n\nMSFT — 動量之王，但追高風險\n- +15.5% single day 係歷史級別，但意味住所有 good news 已 price in\n- Azure AI revenue acceleration 係 real catalyst\n- My view：WATCH, don't chase。$451 after +15.5% day — mean reversion risk elevated。等 pullback to $430-435 area 先考慮。\n\n## 4. Risks / Watchlist\n\n今晚（7/31 HKT evening）：\n- 8:30PM — Employment Cost Index QoQ（Q2）— wage inflation signal，影響 Sep FOMC 加息預期\n- 9:45PM — Chicago PMI（Jul）\n- 10:00PM — Michigan Consumer Sentiment Final（Jul）\n- 全部 MEDIUM，冇 HIGH impact event。主要睇 ECI wage component 會否推高加息預期。\n\nWeekend risk：\n- 今日係 Friday -> weekend gap risk\n- AAPL AH move 下週一兌現 -> 可能帶動 broader tech sentiment\n- Warsh/Fed narrative 週末可能發酵\n\nStructural concerns：\n1. AI capex bifurcation — META 懲罰 vs MSFT 獎勵。呢個 narrative 會 define Q3。如果更多 mega-cap 被歸類到 META camp -> broader tech selloff。\n2. Warsh credibility crisis — FT/Bloomberg 持續炮轟，PGIM 睇 3次 Sep 加息。如果 data 配合 -> Sep FOMC 可能真係 hawkish。\n3. VIX collapse to 17.09 — complacency risk。FOMC 剛過 + earnings 季高峰 = volatility crush。但 Sep FOMC + debt ceiling + geopolitical 仍有 tail risk。\n\n## 5. My Take\n\n今日係 2026年目前最 dramatic 嘅單日：MSFT +$450B 市值 vs META -8% record losing streak。AI trade 出現 definitive bifurcation — market voting with feet：capex discipline + AI revenue delivery = reward（MSFT, AMZN）；capex失控 + revenue miss = punishment（META）。\n\n3 takes for tomorrow/next week：\n1. AAPL 係最 actionable setup — AH -6% vs profit +27% = 潛在 mispricing。但如果 Jul 31 session 再跌穿 -> 市場在定價 supply chain risk 比 profit beat 更重要，就要尊重。\n2. Semis rebound 係 real but fragile — LRCX fade pattern（+26% -> +18%）顯示仲有供應壓力。等 NVDA earnings 做 final confirmation。\n3. Warsh/Fed narrative 係 sleeping giant — VIX 17 嘅 complacency + 9月 FOMC 加息風險 = potential volatility explosion in late August。\n\nTomorrow's bias：Neutral to slightly bullish。ECI data（8:30PM HKT）係唯一 potential catalyst。冇 HIGH impact event。AAPL AH move 會主導 pre-market sentiment。如果 AAPL 跌勢收窄 -> tech bid 會持續。如果 AAPL 再跌 -> 可能拖累 AMZN/MSFT profit-taking。",
+      "risks": [
+        "今晚 ECI Q2 wage data（8:30PM HKT）可能推高 Sep 加息預期",
+        "META -8% contagion：AI capex concern 擴散風險",
+        "VIX collapse to 17 — complacency risk",
+        "Weekend gap risk — AAPL AH move 下週兌現",
+        "Warsh credibility crisis — FT/Bloomberg 炮轟，market confidence 脆弱"
+      ],
+      "my_take": "MSFT +$450B vs META -8%：AI trade 出現史詩級 bifurcation。AAPL AH -6% vs profit +27% 係最 actionable 嘅 setup。Semis rebound genuine but fragile。Warsh/Fed 係 Q3 sleeping giant。"
     }
   ],
   "news_curator": [
