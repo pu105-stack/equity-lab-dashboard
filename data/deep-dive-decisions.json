@@ -22,13 +22,6 @@
       "source": "⚠️ 風險"
     },
     {
-      "ticker": "NVDA",
-      "status": "deep_dive",
-      "updated_at": "2026-07-31",
-      "reasoning": "Deep Dive 確認 moat intact: CUDA ecosystem lock-in, 74.1% gross margin, Data Center +200% YoY。Bull: AI capex thesis 被 MSFT/AMZN 確認，chip rout rebound 進行中（LRCX +17%）。Bear: $250B OpenAI backstop 被市場定性為循環融資 = dot-com 2.0 風險。SK Hynix miss 暴露 memory cycle 風險。等 earnings 確認 demand。",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "XOM",
       "status": "deep_dive",
       "updated_at": "2026-07-31",
@@ -71,5 +64,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-08-01T06:11:06.128106+08:00"
+  "last_synced": "2026-08-01T12:11:54.010518+08:00"
 }
