@@ -4605,6 +4605,69 @@
         "JOLTs Tue + NFP Fri — macro gauntlet decides soft landing vs recession narrative"
       ],
       "my_take": "Iran ceasefire 係 macro regime change — oil risk premium 48小時內瓦解, risk-on momentum 會 carry Monday open. 但 SPY 747 嘅 rally 係 selective (IWM negative, XLU -2.9%), breadth 窄係隱憂. 本週 ISM + JOLTs + NFP 三日 macro gauntlet 係真正考驗. Cautiously bullish, 睇數據 confirm soft landing."
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-08-03",
+      "time": "20:14 HKT",
+      "status": "success",
+      "market_direction": "Risk-on: Iran de-escalation hopes drive oil -5%+, futures +400pts; but Iran denies talks, uncertainty persists",
+      "headlines": [
+        "[NEW] ACTION: BABA -- Alibaba unveils most powerful AI model; shares rally; US-China AI race escalates",
+        "[NEW] ACTION: OIL -- Iran denies talks with US; oil down 5%+ but diplomatic path uncertain",
+        "[NEW] ACTION: AMD -- Q2 earnings today; chip stocks wavering; is pessimism priced in?",
+        "[NEW] WATCH: MU -- Xbox Series X +170 GBP on memory chip costs; confirms MU pricing power",
+        "[RECENT] WATCH: BTC-USD -- Coldcard exploit day 5, $114M losses, BTC under $63K",
+        "[RECENT] WATCH: AZN/BMY -- $400B merger talks; analysts perplexed; AZN slides"
+      ],
+      "opportunities": [
+        "BABA: Fresh AI model catalyst, not in previous NC run, direct share price impact. US-China AI competition narrative shift.",
+        "OIL: Market pricing full de-escalation but Iran denies talks exist. Gap = opportunity if negotiations fail.",
+        "AMD: Q2 earnings tonight. Semi sector under pressure; beat + strong guide could trigger relief rally.",
+        "MU: Memory chip pricing power confirmed via Xbox price hike. Direct margin tailwind evidence."
+      ],
+      "analysis": "Session driven by Iran de-escalation hopes vs reality. Oil crashing (-5%+) on Trump calling off strikes, but Iran flatly denies talks. This gap is the key risk/reward. BABA AI model is freshest single-stock catalyst. AMD earnings tonight, MU pricing power via Xbox, Coldcard exploit day 5 dragging crypto.",
+      "risks": [
+        "Iran talks may not materialize -- market has priced full de-escalation",
+        "AMD earnings miss could deepen semi sector sell-off",
+        "Coldcard exploit losses expanding -- crypto contagion risk",
+        "Japan market shock risk from yen strength (Bessent pledge)"
+      ],
+      "my_take": "Market is pricing a diplomatic resolution that Iran says is not happening. This disconnect is the biggest short-term risk. BABA AI catalyst is the most actionable new signal -- fresh, direct price impact. Oil reversal risk is real if talks collapse. AMD earnings tonight is the binary event to watch.",
+      "key_takeaways": [
+        "Iran denies talks; oil -5% may be overpricing de-escalation",
+        "BABA AI model is fresh catalyst not in previous NC -- direct share impact",
+        "AMD Q2 earnings tonight: make-or-break for semi sentiment",
+        "MU pricing power confirmed via Xbox price hike",
+        "Coldcard exploit day 5: $114M+ losses, BTC under $63K"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-03",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish — Iran de-escalation hopes but denial reality check pending",
+      "headlines": [
+        "Iran否認同美國談判，但油價照跌6.7% — 市場定價全面de-escalation",
+        "BABA發佈最強AI模型，中美AI競賽升溫 — BABA +5.1%",
+        "FOMC 9-3維持利率3.50-3.75%，三票鷹派異議要求加息 — 內部分歧加劇",
+        "AMD今晚Q2業績 — semi sector tone-setter",
+        "Xbox加價170GBP歸咎memory chip成本 — MU pricing power confirmed"
+      ],
+      "focus": [
+        "BABA — AI catalyst follow-through",
+        "AMD — earnings direction",
+        "Oil — Iran snap-back risk",
+        "MU — memory pricing power evidence"
+      ],
+      "analysis": "🌅 Morning Scan — 2026年8月3日（星期一）\n\n## Fed Context — 7月FOMC：HOLD但有3票鷹派異議\n\n7月28-29日FOMC會議結果：**維持聯邦基金利率 3.50-3.75%**，但投票結果係 **9-3** — Beth Hammack、Neel Kashkari、Lorie Logan 三人要求加息25bp。呢個係近年少見嘅鷹派異議信號。\n\nStatement 重點：\n• 經濟活動「以穩健步伐擴張」，儘管中東衝突帶來「偏高不確定性」\n• 通脹仍然「偏高於2%目標」，部分反映能源供應衝擊\n• 就業增長跟得上勞動力增長，失業率變化不大\n• 繼續維持充足儲備金政策\n\n同時間，NY Fed President Williams（投票委員）最新發言表示「預期通脹會回落，但如果唔回落Fed會行動」— 整體 dovish tone 但留咗 hawkish caveat。\n\n**My read:** FOMC內部出現明顯分歧 — 3個地區聯儲主席想加息反映佢哋睇到嘅通脹壓力。但Powell陣營仍然掌控大局（9票）。市場暫時冇理會呢個鷹派信號，focus咗喺Iran de-escalation同油價暴跌。下次FOMC：9月15-16日。\n\n## 📰 今日重點頭條\n\n[Iran/Oil] Iran否認同美國有談判，但市場繼續定價 de-escalation — 原油暴跌6.7%至$79\n→ 呢個 gap（市場預期 vs 伊朗否認）係今日最大嘅risk/reward不對稱\n\n[AI/Tech] Alibaba發佈「最強AI模型」，BABA +5.1% — 中美AI競賽升溫\n→ fresh catalyst，之前冇price in。如果確認技術領先，BABA估值重估空間大\n\n[Earnings] AMD今晚收市後出Q2業績 — consensus est $1.35，semi sector氣氛偏弱\n→ 如果beat + strong guide可以觸發semi sector relief rally\n\n[Memory] Xbox Series X加價170英鎊，歸咎memory chip成本上升\n→ 直接證據確認MU嘅pricing power\n\n[Pharma M&A] AZN/BMY $400B合併傳聞 — 分析員普遍睇淡，AZN股價下跌\n→ 如果deal terms出嚟好過預期，可能有大幅修正\n\n[Fed] FOMC 9-3維持利率不變，三票鷹派異議要求加息 — 內部分歧加劇\n\n[Crypto] Coldcard漏洞Day 5，損失近$114M — BTC under $63K\n\n[Energy] 全球油股暴跌，Shell出售歐洲可再生能源portfolio俾TotalEnergies\n\n[Market Structure] Big tech同其他市場之間嘅gap消失 — MarketWatch：估值收斂信號\n\n## 🌍 隔夜市場\n\n• SPY 747.03 (+0.72%) | QQQ 687.99 (+0.65%) | DIA 524.32 (+0.54%)\n• IWM 291.20 (-0.48%) — small cap繼續underperform\n• VIX 16.08 — 仍然偏低，市場定價樂觀\n• WTI Crude $79.00 (-6.70%) — Iran de-escalation係主要driver\n• Gold $4,108.50 (+1.47%) — 避險需求仍在（中東不確定性）\n• 10Y Yield 4.74% (+8bp) — 債息回升反映hawkish FOMC dissent\n• DXY 99.75 (-0.05%) — 美元持平\n\n亞洲時段：港股/中概股受BABA AI消息帶動向好。日股跟隨美股期貨上升。\n\n## 📈 昨日市場爆升／暴跌榜\n\n上星期五（7月31日）session：\n\nMost Active（大股）：\n• NVDA 200.75 (+2.93%) — AI chip demand narrative intact\n• AAPL 308.91 (-7.35%) — 大手沽壓，可能係post-earnings profit taking / rotation\n• AMZN 271.58 (+15.32%) — 業績後爆發，AWS growth + AI monetization\n• INTC 90.20 (-1.02%) — 繼續受壓，turnaround story未有說服力\n\nMarket theme：大型 earnings-driven moves（AMZN/AAPL主導），唔係broad market panic。Sector rotation多過sell-off。\n\n## 📡 今日重點事件（from macro_calendar.json）\n\n🔴 HIGH | 10:00PM HKT | ISM Manufacturing PMI (Jul) — prev 53.3, fcast 54\n🟡 MED  | 10:00PM HKT | ISM Manufacturing Employment (Jul) — prev 49.7\n🎯 AMD Q2 Earnings AMC — consensus $1.35, guidance係關鍵\n\n本週重點：\n🔴 Tue 10PM | JOLTs Job Openings (Jun)\n🔴 Wed 10PM | ISM Services PMI (Jul)\n🔴 Fri 8:30PM | Non Farm Payrolls (Jul) + Unemployment Rate (Jul)\n\nNFP Friday係本週最重要macro event。ISM Manufacturing今晚會係first read on July economy。\n\n## 🔥 Sector Watch\n\nNASDAQ Sector Performance (last session):\n🟢 Communication Services +3.48% — 最強，META/GOOGL帶動\n🟢 Consumer Cyclical +1.41%\n🟢 Energy +1.01% — surprising，可能係short covering\n🔴 Technology -1.77% — AAPL拖累，但NVDA/AMZN強勢\n🔴 Real Estate -3.32% — bond yield回升打擊REITs\n🔴 Utilities -0.97%\n\nTheme：Rotation out of tech into comm services + cyclicals。唔係risk-off（VIX低，油跌），而係earnings-driven repositioning。Real estate weakness同債息回升一致。\n\n## 🎯 Pre-market Opportunities\n\n**BABA ($122.25, +5.1%) — ACTION**\nBull：發佈「最強AI模型」，直接同美國AI龍頭競爭。Fresh catalyst，之前冇price in。\nBear：中概股政治風險仍在。AI model claims需要第三方驗證。\nMy call：值得跟進 — 如果AI能力被確認，BABA估值（trailing PE ~14x）有大幅重估空間。但唔好chase — 等pullback先consider。\nWhat changes my mind：如果獨立評測話BABA AI model不如預期 → drop。\n\n**AMD ($476.15, -1.9%) — WATCH（earnings tonight）**\nBull：Q2 consensus $1.35，MI400 AI GPU ramp可能俾到upside surprise。\nBear：Semi sector氣氛偏弱，NVDA dominates AI spending。如果guidance保守會引發sell-off。\nMy call：WATCH only — earnings play不確定性太高，唔係pre-positioning時機。\nWhat changes my mind：業績後，唔係事前。\n\n**OIL ($79.00, -6.7%) — ACTION**\nBull：油價暴跌反映市場定價全面de-escalation。\nBear：伊朗已經否認有談判。如果談判證實係假消息，油價可能snap back >$85。\nMy call：呢個gap係最大嘅asymmetric opportunity。Iran denial = 油價應該反彈。\nWhat changes my mind：如果Iran官方確認坐低談判 → gap close，油價繼續跌。\n\n**MU (memory pricing) — WATCH**\nBull：Xbox加價170英鎊直接歸咎memory chip成本 → 確認pricing power。\nBear：Consumer electronics加價可能打擊需求。\nMy call：WATCH但upgrade信心。Hard evidence of pricing power flowing through。\nWhat changes my mind：如果MU guidance顯示memory demand見頂 → 轉PASS。\n\n## 📅 未來一個月業績重點\n\n本周（超級業績週）：\n• Mon: PLTR ($293B) AMC, VRTX ($122B) AMC\n• Tue: AMD ($791B) AMC, CAT ($373B) BMO, MRK ($321B) BMO, ANET ($215B) AMC, PINS ($14B) AMC\n• Wed: LLY ($1,088B) BMO, WDC ($184B) AMC, DIS ($167B) BMO, SHOP ($158B) BMO\n• Thu: COP ($145B) BMO, NET ($100B) AMC, DDOG ($96B) BMO\n• Fri: BRK.B ($1,102B)\n\n下星期：\n• Mon Aug 10: RKLB ($37B) AMC\n• Wed Aug 12: CSCO ($448B)\n• Thu Aug 13: AMAT ($403B) AMC\n\n今個星期係earnings season高峰。LLY（$1T+ market cap）係最大嘅single-name catalyst。AMD今晚會set the tone for成個semi sector。\n\n## 📋 Today's Agenda\n\n• Tonight 10PM HKT: ISM Manufacturing PMI — >54 = hawkish, <53 = dovish\n• AMD earnings AMC: semi sector tone-setter. Guidance > beat\n• Iran/US talks development: oil price direction\n• PLTR earnings AMC: AI software demand real-world check\n• Watch: BABA follow-through after AI catalyst（Asia session）\n\n## 💡 My Take\n\nOverall bias: **Cautiously Bullish with Iran risk overlay**\n\n市場主旋律係 Iran de-escalation hope driving risk-on（oil -6.7%, futures green, VIX low），但伊朗否認談判令到呢個 thesis 有明顯脆弱點。如果今個星期內冇實質外交進展，oil snap back 會 trigger 廣泛risk reversal。\n\nFOMC嘅9-3 vote係under-appreciated signal。市場暫時冇理3個hawkish dissents，但呢個內部分歧意味住：如果inflation data（今個星期ISM + NFP）出得強，hawks會更大聲。10Y yield 4.74%已經反映部分呢個風險。\n\nEarnings week進入高峰 — AMD tonight + LLY Wednesday係兩個最大嘅single-name events。Sector rotation signal明確（tech → comm services + cyclicals）。\n\n今日最緊要睇實：\n1. 10PM ISM Manufacturing — >54 = hawkish，<53 = dovish\n2. AMD earnings guide — semi sector direction\n3. Iran/US任何新headline — 市場positioned for de-escalation\n4. BABA AI narrative有冇follow-through in HK session\n\n一句總結：市場定價咗最好嘅情況（Iran和平 + Fed唔加息 + earnings唔差），但reality check今個星期密集到嚟。Risk/reward偏向謹慎。",
+      "risks": [
+        "Iran否認談判 — 若證實無談判，油價可能snap back >$85觸發risk reversal",
+        "FOMC 9-3 hawkish dissent — 若ISM/NFP強勁，hawks更大聲",
+        "AAPL -7.35% post-earnings — 若續跌可能拖累整體tech sentiment"
+      ],
+      "my_take": "市場定價咗最好情況（Iran de-escalation + Fed hold + earnings okay），但Iran已否認談判、FOMC內部9-3鷹派分歧加劇、ISM+NFP本周密集 — risk/reward偏向謹慎。Oil snap back風險係最大asymmetric opportunity。"
     }
   ],
   "news_curator": [
