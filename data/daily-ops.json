@@ -4541,6 +4541,70 @@
         "AI Contrarian Watch: AAPL, META, NVDA",
         "Crypto Risk: MSTR, COIN"
       ]
+    },
+    {
+      "pipeline": "news-curator",
+      "date": "2026-08-03",
+      "time": "08:18 HKT",
+      "status": "success",
+      "market_direction": "Risk-on — Iran ceasefire/peace talks dominate, oil plummeting, futures rallying. US-Japan joint FX intervention adds macro complexity.",
+      "headlines": [
+        "[RECENT] OIL — Iran ceasefire talks begin Monday; oil plummeting as risk premium unwinds",
+        "[NEW] JPY/MACRO — US-Japan historic joint FX intervention; Bessent says more steps possible",
+        "[NEW] AZN/BMY — AstraZeneca in talks with Bristol Myers on $400B megadeal",
+        "[RECENT] MACRO — Warsh wants fewer FOMC meetings; long bonds spooked",
+        "[RECENT] AMD/LLY — Key earnings week + Friday jobs report"
+      ],
+      "opportunities": [
+        "OIL: Iran peace talks Monday — energy sector re-pricing, airlines/transports tailwind",
+        "JPY: Historic US-Japan intervention — yen strength, Nikkei under pressure, carry trade unwind",
+        "AZN/BMY: $400B pharma megadeal — M&A premium for sector"
+      ],
+      "analysis": "Weekend dominated by Iran ceasefire developments — 20h from Trump cancelling strikes to formal Monday peace talks. Oil risk premium unwinding fast. US-Japan joint FX intervention is historic — first since 1990s. Warsh wants fewer Fed meetings, adding bond market uncertainty. Key week ahead: Iran talks Mon, AMD/LLY earnings Wed-Thu, NFP Friday.",
+      "risks": [
+        "Iran talks collapse — oil spike back",
+        "Yen carry trade disorderly unwind",
+        "Bond selloff accelerates if Warsh pushes fewer-meeting agenda"
+      ],
+      "my_take": "Iran ceasefire is the dominant catalyst. If Monday talks yield Hormuz reopening timeline, oil could drop another 5-10%. The under-appreciated story is Warsh wanting fewer FOMC meetings — markets still adjusting to less forward guidance. Risk-on likely to persist this week but watch bond yields for spillover signal.",
+      "key_takeaways": [
+        "Iran peace talks Monday — biggest macro catalyst",
+        "Oil risk premium unwinding fast",
+        "US-Japan FX intervention is historic",
+        "Warsh fewer-meetings push spooking bonds",
+        "AMD/LLY earnings + NFP = key week ahead"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-03",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish — Iran ceasefire regime change, but breadth narrow",
+      "headlines": [
+        "Iran ceasefire/peace talks confirmed Monday — oil risk premium collapsing",
+        "US-Japan historic joint FX intervention — first since 1990s",
+        "AZN/BMY $400B pharma megamerger talks (FT exclusive)",
+        "Big Tech earnings: AMZN +15.3% crush, AAPL -7.4% miss, META recovery",
+        "Warsh FOMC credibility crisis: 9-3 split vote, fewer meetings proposal",
+        "SPY +1.07% for week but IWM -0.58% — rally narrow, breadth concern"
+      ],
+      "opportunities": [
+        "OIL SHORT: Iran ceasefire — XLE/USO downside if Hormuz timeline confirmed",
+        "BMY: Merger arb — $400B AZN deal, 20-30% premium if confirmed",
+        "AMD: Earnings definitive catalyst — 424-515 range, server CPU narrative",
+        "LLY: GLP-1 demand signal — earnings clarify $1119-1232 range",
+        "META: momentum post-recovery — 557-607 upside but resistance at pre-earnings level"
+      ],
+      "analysis": "📊 Evening Review — 8月3日（週末回顧 + 週一前瞻）\n\n📰 今日重點頭條（Raw News Landscape）\n\n本週末最大嘅 headline sequence：Trump cancel Iran strikes（Aug 2 ~20h ago）→ ceasefire → 今日 Monday 正式和平談判。呢個係過去一個月 macro risk 結構性轉變。\n\nRaw headline highlights（news_summary DB + RSS）：\n1. 【Iran Ceasefire】Trump says Iran talks to take place on Monday, sets no deadline for deal — 油價暴跌，risk premium 全面消退\n2. 【US-Japan FX】Japan confirms joint FX intervention with U.S. — 首次美日聯合干預日圓 since 1990s，Bessent says more possible\n3. 【AZN/BMY Merger】AstraZeneca in talks with Bristol Myers on $400B megadeal (FT exclusive) — 史上最大 pharma 交易\n4. 【Oil Crash】Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War (NYT)\n5. 【Stocks Rally】Stock futures rally as investors gear up for jobs report, key earnings (CNBC)\n6. 【Warsh】Fed Chair Warsh wants fewer FOMC meetings — long bonds spooked\n7. 【AMD】How Server CPUs Could Give AMD Stock a Big Boost After August 4 (Yahoo Finance) — earnings week setup\n8. 【AAPL Post-Mortem】AAPL -7.4% on earnings, MacBook Neo sparks budget laptop price war\n9. 【META Recovery】Revenue surges; analyst calls it top large-cap buy — META rebuilt from -10% gap to +3.3% next day\n10. 【Goldman】GS traders on pace for record year — trading-heavy banks bullish signal\n\nNC match rate：8/10 headlines captured by News Curator #1 at 00:00 HKT — excellent coverage. AMD server CPU angle is new context.\n\n📊 Market Recap（Jul 27-31 週表現）\n\nIndex Performance：\n• SPY: 739.09 → 747.03 (+1.07%) — 強勢週，週五 close at weekly high\n• QQQ: 682.12 → 687.99 (+0.86%) — 週三暴跌後週四五反彈\n• DIA: 521.26 → 524.32 (+0.59%) — 穩定但 underperform\n• IWM: 292.91 → 291.20 (−0.58%) — small caps 逆市跌，breadth 有隱憂\n• VIX: 18.67 → 15.99 (−14.4%) — 恐慌全面消退\n\nSector Performance Ranking (Jul 27-31 week):\n1. XLY Consumer Disc: +4.74% — META recovery + consumer resilience\n2. XLE Energy: +2.04% — 但呢個係 Iran 停火前嘅數據，週一會 gap down\n3. XLK Tech: +0.60% — AAPL 拖累但 AMZN 救場\n4. XLF Financials: +0.11% — flat\n5. XLP Staples: -0.36%\n6. XLV Healthcare: -0.52%\n7. SMH Semis: -1.46% — 超大波動（503-561 range），AMD earnings 前 nerves\n8. XLRE Real Estate: -1.51%\n9. XLI Industrials: -1.83%\n10. XLB Materials: -1.87%\n11. XLU Utilities: -2.91% — 最差，risk-on rotation 犧牲品\n\nMarket Breadth：IWM negative + XLU/XLB/XLI defensive rotation out = 資金集中喺 large cap growth/consumer discretionary。Risk-on 但窄。\n\n🔥 Notable Movers + Earnings Post-Mortem\n\nBig Tech Earnings Scorecard：\n• AMZN: +15.3% — crushing beat. AWS accelerating, retail margins expanding. Jul 31 open 265, close 271.58\n• AAPL: -7.4% — guidance miss. MacBook Neo budget strategy引發 margin concern. Jul 31 close 308.91, volume 132M (2.5x normal)\n• META: -1.6% on earnings day but +3.3% Friday — classic gap-down-then-recovery. 市場消化完發現 revenue surge is real. Analyst calls it \"top large-cap buy\"\n• NVDA: Jul 29 hit 190.01 (-3.6% on week low), recovered to 200.75 Friday — below 50d MA but fighting back. SMH 同行 AMD 極度波動\n\nNon-Earnings Movers：\n• AMD: 494.95 → 476.15 (-3.8%) 但 intraweek 424-515 range. 瘋狂波動 — 本週 earnings 係 definitive catalyst\n• GS: 1048 → 1018 (-2.8%) — 呢個同 NC \"record year for traders\" 嘅 bullish signal 有 disconnect. 留意係咪 profit-taking\n• LLY: 1198 → 1149 (-4.1%) — GLP-1 competition fears? 本週 earnings 會 clarify\n• UBER: 68.18 → 70.36 (+3.2%) — steady accumulation. $1T autonomous thesis underpriced\n• BMY: 62.56 → 65.31 (+4.4%) — AZN merger leak effect already showing? 定係純 pharma sector rotation?\n\n📰 News That Mattered — NC Calls Assessment\n\nNC #1 (Aug 3 00:00 HKT) calls 審視：\n\n✅ OIL/Iran ceasefire — NC 正確判斷呢個係「dominant macro catalyst」. 油價暴跌 confirmed, futures rallying. 呢個 remove 咗過去一個月最大嘅 macro tail risk\n✅ JPY/US-Japan intervention — historic joint action confirmed. 日股今朝真係跌\n✅ AZN/BMY $400B merger — FT exclusive, 市場未 fully digest. 週一開市會有反應\n\n⚠️ Warsh fewer meetings — long bonds spooked, 但 bond market 嘅反應到底有幾 deep? 10Y yield 走勢係關鍵, 但唔見 panic bid\n⚠️ AMD/LLY/Sandisk earnings — 全部都係本週. AMD 係 semis bellwether, LLY 係 healthcare direction setter\n⚠️ META \"top large-cap buy\" — META 由 526 反彈到 557, 仲有冇 upside? 定係已經 priced in recovery?\n\nNC 冇 cover 但值得留意：\n• AMZN blowout earnings — NC focused on AAPL/META/AMD, 冇提 AMZN. 但 AMZN +15.3% 係全週最大 single-stock move\n• IWM weakness — small caps 跌而 large caps 升. 呢個 divergence 如果持續, 係 breadth warning\n• XLU -2.91% destruction — defensive rotation 全面逆轉, 但如果 Iran deal collapse, 呢個會即刻 reverse\n\n🎯 Opportunities Carry Forward\n\n1. OIL SHORT / Energy Sector Pressure — 如果今日 Iran talks 有 concrete Hormuz reopening timeline, 油價可能再跌 5-10%. XLE/USO 有下行空間. 相反 airlines/transports 受惠 fuel cost drop. 呢個係本週最大嘅 directional opportunity.\n\n2. BMY/AZN Merger Arbitrage — $400B deal. 如果 confirm, BMY target premium 可能 20-30%. 但如果談判破裂, BMY 跌返去 60. High risk/reward. Pharma sector 可能有 sympathy bids (PFE, MRK, JNJ).\n\n3. AMD Earnings Play — 本週 definitive catalyst for semis. Server CPU narrative (Yahoo Finance article) 係潛在 catalyst. AMD 由 424 低位反彈到 476, 但如果 earnings 唔好, 500+ 嘅 resistance 會變成 ceiling. Risk: earnings miss + semis already fragile post-SMH -1.46%.\n\n4. LLY Earnings — GLP-1 demand signal. LLY 由 1232 高位跌到 1119 低位, earnings 係 clarify 機會. 如果 guidance strong, $1200+ reclaim possible.\n\n5. META Momentum — Post-earnings recovery 入咗 556, analyst bullish. 但要小心: gap down 之後嘅 rally 通常有 resistance at pre-earnings level (607). 557 同 607 之間有 9% upside, 但 risk/reward 要計清楚.\n\n6. UBER Structural Long — NC 提嘅 $1T autonomous thesis. 冇 imminent catalyst, 但 accumulation pattern suggests smart money positioning.\n\n⚠️ Risks / Watchlist\n\nTonight's Events (from macro_calendar.json):\n• 10:00PM HKT — ISM Manufacturing PMI (Jul) — 預期 49.0. 如果低過 48, recession fear 會 resurge. 如果高過 50 (expansion), 會同 Warsh hawkish stance共振 → rate hike fear\n• 10:00PM HKT — ISM Manufacturing Employment (Jul) — employment sub-index, NFP preview\n• 11:30PM — 3-Month/6-Month Bill Auction — 留意 demand, 反映 short-end liquidity\n• 02:00AM — Loan Officer Survey — credit conditions. 如果 tightening, small caps 會再跌\n\nTomorrow's HIGH Event:\n• Tue 10:00PM HKT — JOLTs Job Openings (Jun) — 預期 7.8M. NFP 前哨戰. 如果大幅跌穿 7.5M, labour market softening confirmed → rate cut narrative 復活\n\nOvernight Risks:\n• Iran talks outcome — 如果破裂 (Trump \"no deadline\"), oil 會 spike, entire risk-on thesis reverses\n• Yen carry unwind — 日股今朝跌, 如果加速 unwind, contagion to US equities\n• Warsh bond market — long bond weakness 如果 spill over to equities via higher discount rates\n\n💡 My Take\n\n呢個週末嘅 Iran ceasefire 係 macro regime change. 過去一個月困擾市場嘅 Iran/Strait of Hormuz risk premium 喺 48 小時內由「Trump cancel strike」→「ceasefire」→「Monday peace talks」全面瓦解.\n\n但 paradoxically, 呢個消除咗一個明確嘅 bear case (oil shock), 同時令到 Warsh/Fed hawkish risk 重新成為焦點. 冇咗 geopolitical distraction, market 會 focus 返喺: 1) ISM/NFP 數據會唔會 trigger recession fear? 2) Warsh 嘅 credibility crisis 會唔會 escalate?\n\n上週五 SPY close at 747 (週高) 但 breadth 窄 (IWM -0.58%, 只有 XLY/XLK 領漲). 呢個唔係 healthy rally, 而係 selective risk-on. 如果週一 Iran talks 順利, momentum 會 carry SPY 向 750+, 但 small caps 同 cyclicals 要跟住先係真正嘅 bull signal.\n\n本週 bias: Cautiously Bullish — Iran ceasefire momentum 會推高星期一開市, 但 ISM + JOLTs + NFP 三日 macro gauntlet 係真正考驗. 如果數據 confirm soft landing, risk-on 會 broaden. 如果數據差, defensive rotation 會即刻返嚟.\n\n最值得睇嘅 single name: BMY (merger catalyst), AMD (earnings definitive moment), XLE (Iran ceasefire short).",
+      "risks": [
+        "ISM Manufacturing PMI tonight 10PM — <48 = recession fear, >50 = rate hike fear",
+        "Iran talks collapse — entire risk-on thesis reverses on failed ceasefire",
+        "Yen carry unwind contagion — Japan equities falling on intervention",
+        "Warsh bond market spillover — long bond weakness to higher discount rates to equity pressure",
+        "JOLTs Tue + NFP Fri — macro gauntlet decides soft landing vs recession narrative"
+      ],
+      "my_take": "Iran ceasefire 係 macro regime change — oil risk premium 48小時內瓦解, risk-on momentum 會 carry Monday open. 但 SPY 747 嘅 rally 係 selective (IWM negative, XLU -2.9%), breadth 窄係隱憂. 本週 ISM + JOLTs + NFP 三日 macro gauntlet 係真正考驗. Cautiously bullish, 睇數據 confirm soft landing."
     }
   ],
   "news_curator": [
