@@ -4670,47 +4670,6 @@
       "my_take": "市場定價咗最好情況（Iran de-escalation + Fed hold + earnings okay），但Iran已否認談判、FOMC內部9-3鷹派分歧加劇、ISM+NFP本周密集 — risk/reward偏向謹慎。Oil snap back風險係最大asymmetric opportunity。"
     },
     {
-      "pipeline": "news-analysis-NewsCurator",
-      "date": "2026-08-04",
-      "time": "08:14 HKT",
-      "status": "success",
-      "market_direction": "Risk-on — Dow record close on Iran talks optimism; Nasdaq futures rising; oil plummeting; tech earnings delivering (PLTR blowout, MSFT historic run)",
-      "headlines": [
-        "[NEW] ACTION: PLTR — Killer quarter: stock +12%, US commercial revenue +150%, estimates blown away",
-        "[NEW] ACTION: BA — FAA clears smallest 737 Max 7 after years of delays; trio of positive developments",
-        "[NEW] WATCH: TARIFFS — 25 states sue Trump administration over latest global tariffs, calling probe 'sham'",
-        "[RECENT] WATCH: OIL — Big Oil record profits + Trump says 'too much money' + fuel stocks at dangerous lows — but oil prices dropping on Iran talks",
-        "[RECENT] WATCH: MSFT — Stock on 26-year record streak, erasing all YTD losses after Q4 earnings (in portfolio)",
-        "[NEW] WATCH: Fed/Bessent/YEN — Fed may be pulled into Bessent's effort to support Japan's yen; US-Japan pact formed",
-        "[RECENT] NOTE: SEMIS — Bear market signals flash; semiconductor stocks sink; ASML's chipmaking hold weakening",
-        "[RECENT] NOTE: AAPL — Continued: Apple launches legal challenge to UK iCloud backdoor demand (conflict since Jul 29)",
-        "[RECENT] NOTE: CRYPTO — Clarity Act stall could drive 'another leg lower'; Bessent's top crypto adviser exits Treasury",
-        "[NEW] NOTE: GOOGL — Bulls close in on key daily breakout level (in portfolio)",
-        "[NEW] NOTE: SNAP — Stock jumps 8% on Q2 earnings beat and strong sales forecast",
-        "[NEW] NOTE: GRAB — Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand",
-        "[RECENT] NOTE: EA — Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout"
-      ],
-      "opportunities": [
-        "PLTR: Killer quarter, +12%, US commercial +150% — ACTION",
-        "BA: FAA clears 737 Max 7, turnaround gaining traction — ACTION"
-      ],
-      "analysis": "Tech earnings powering Nasdaq rally. Oil paradox: record profits vs. dropping prices on Iran peace hopes. 25-state tariff lawsuit is new political risk not yet priced. Iran talks remain the swing factor for all risk assets.",
-      "risks": [
-        "Iran talks collapse would reverse risk-on rally sharply",
-        "Semis in bear market — portfolio overweight",
-        "25-state tariff lawsuit could unwind sector rotations",
-        "Fed/Bessent yen intervention constrains Warsh rate independence"
-      ],
-      "my_take": "Tech earnings delivering but macro paradox dominates. Oil majors print record profits while crude drops on peace hopes — unsustainable. Iran talks are the binary catalyst for everything. Semis need watching with AMD earnings today. Tariff lawsuit ignored by record-high Dow — potential wake-up call.",
-      "key_takeaways": [
-        "PLTR blowout quarter = AI commercialization is real, not hype",
-        "BA FAA approval removes multi-year overhang — genuine turnaround",
-        "Oil paradox: record profits + dropping prices = one side must break",
-        "25-state tariff lawsuit is significant — market completely ignoring it",
-        "Iran talks = binary catalyst for risk assets in both directions"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-04",
       "time": "08:36 HKT",
@@ -4742,6 +4701,72 @@
         "VIX 15.86 = no one hedging — vol spike risk on any negative surprise"
       ],
       "my_take": "Dow record + VIX 15.86 = market priced for perfection on Iran talks + tech earnings. Paradoxes everywhere (oil profits vs oil prices, record highs vs tariff lawsuits). Three catalysts in next 24h: JOLTs tonight, AMD earnings, ISM Services tomorrow. Iran talks headline risk is the biggest tail risk — any negative headline reverses everything."
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-08-04",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "Risk-on: US futures rising led by PLTR +16%; oil up on Hormuz ship strike but equities at record highs amid Iran war lull; BTC recovering toward $64K; gold consolidating",
+      "headlines": [
+        "[NEW] ACTION: PFE - Q2 beat + full-year guidance raised, but stock falling - divergence opportunity",
+        "[NEW] ACTION: CAT - Q2 profit jumps on strong power + construction equipment demand; industrial bellwether confirms macro strength",
+        "[NEW] WATCH: IRAN/HORMUZ - Ship struck in Strait of Hormuz; Trump threatens 'decapitation', calls talks 'last chance'; oil edges up but equities at record highs amid 'lull'",
+        "[NEW] WATCH: SEMIS/MU - SK Hynix + Sandisk may have solved AI's biggest memory bottleneck; could reshape memory market landscape",
+        "[RECENT] WATCH: BTC-USD - Bitcoin recovers toward $64K as Coldcard exploit recedes; first US spot BTC ETF to close; BlackRock debuts tokenized MMF in Europe",
+        "[NEW] WATCH: AAPL/MSFT - OpenAI hits back at Apple over trade secrets fight; AI alliance strains showing",
+        "[RECENT] NOTE: PLTR - Follow-on: Analysts upgrade after 150% US commercial revenue growth; stock +16%; Karp calls AI industry 'Marxist'",
+        "[NEW] NOTE: AMZN - Bezos sells $4B as Amazon hits $3T market cap for first time; Cramer calls it a buzzkill",
+        "[RECENT] NOTE: GOOGL - $514B backlog; inside Google's $200bn Wall Street finance machine for Anthropic",
+        "[NEW] NOTE: MCD - Q2 earnings beat but US sales slow as consumers spend cautiously; new US head appointed",
+        "[NEW] NOTE: DEFENSE - US has used virtually all long-range precision missiles during Iran war; restocking cycle ahead",
+        "[RECENT] NOTE: GOLD - Gold inside triangle consolidation; not time for big risk; Fed outlook + Iran standoff in focus"
+      ],
+      "opportunities": [
+        "PFE: Q2 beat + guidance raise, stock falling = divergence play",
+        "CAT: Q2 profit jump on power/construction demand = macro strength confirmation"
+      ],
+      "analysis": "Asia/European session dominated by PLTR earnings follow-through (+16% on otherworldly commercial revenue) and fresh Iran/Hormuz escalation (ship struck, Trump threatens decapitation). Market response: risk-on, ignoring geopolitical noise. Key earnings: PFE beat+raise (stock falling = divergence), CAT strong (industrial demand), MCD mixed (beat but US slowing). Crypto recovering from Coldcard exploit. Defense: US missile depletion signals restocking cycle.",
+      "risks": [
+        "Iran Hormuz ship strike + Trump decapitation threat = escalation risk",
+        "Bezos $4B AMZN sale at $3T top = potential insider signal",
+        "First US spot BTC ETF closing = crypto sentiment risk"
+      ],
+      "my_take": "Market is remarkably calm. Stocks near record highs despite a ship being struck in the Strait of Hormuz and Trump threatening decapitation. This tells you the Iran conflict risk premium has been fully absorbed. The real story is earnings: PLTR showing AI software demand is real, CAT confirming industrial strength, PFE creating a divergence opportunity. The US missile depletion story is underappreciated - LMT/RTX/NOC restocking cycle could be a multi-quarter tailwind.",
+      "key_takeaways": [
+        "Market looking through Iran/Hormuz escalation - risk premium absorbed",
+        "PLTR otherworldly quarter validates AI software thesis; stock +16%",
+        "PFE beat+raise but stock falling = divergence worth watching",
+        "US missile depletion = defense restocking cycle ahead (LMT, RTX, NOC)",
+        "Bezos $4B AMZN sale at $3T top = insider caution signal"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-04",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bullish — FOMC後risk-on，VIX低位，earnings正面",
+      "headlines": [
+        "PLTR +16%: AI software demand confirmed",
+        "PFE: Q2 beat但股價跌 → divergence play",
+        "CAT: Q2 profit jump，industrial demand強勁",
+        "IRAN/HORMUZ: Ship struck but market looking through",
+        "DEFENSE: US missile depletion → restocking cycle",
+        "AMD AMC: AI GPU earnings catalyst today"
+      ],
+      "focus": [
+        "Defense (LMT/RTX/NOC) — missile restocking multi-quarter",
+        "Semis (NVDA) — accumulation before Aug 26 earnings",
+        "Industrial (CAT) — macro demand confirmation"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\nFOMC Jul 28-29 剛結束，statement 已出但 Fed 網站 block access（HTTP 403）。從市場反應可以推斷立場偏鴿——SPY +1.42%、QQQ +1.76%、VIX 跌至 15.67 極低水平。市場完全消化咗 FOMC，risk-on 情緒明顯。\n\n下一次 FOMC：Sep 15-16。呢個星期 Fed speakers lineup：Cook (Tue)、Musalem (Wed)、Barkin (Thu) — 注意佢哋會唔會修正市場對 Sep meeting 嘅預期。\n\nWarsh 領導下嘅 FOMC 暫時冇意外——市場穩定、VIX 低、債息平穩，正正係佢想要嘅效果。\n\n## 📰 今日重頭條\n\n按 market impact 排序：\n\n1. **PLTR**: Pre-market +16%，US commercial revenue +150%，分析師紛紛 upgrade。AI software demand story 持續發酵\n2. **PFE**: Q2 beat + full-year guidance raised，但股價竟然跌？Blood-thinner Eliquis 帶動 non-COVID 增長。呢個 divergence 值得睇實\n3. **CAT**: Q2 profit jump，power + construction equipment demand 強勁。Industrial bellwether 確認 macro demand 堅實\n4. **IRAN/HORMUZ**: 船在 Strait of Hormuz 被擊中，Trump 威脅 decapitation，叫 Iran「最後機會」。Oil 微升但股市照創新高——market looking through it\n5. **SEMIS/MU**: SK Hynix + Sandisk 可能解決 AI memory bottleneck。如果屬實，會重塑 memory market 格局\n6. **AAPL/MSFT**: OpenAI hits back at Apple over trade secrets fight。AI 聯盟出現裂痕\n7. **DEFENSE**: US 幾乎用盡所有 long-range missiles，restocking cycle ahead（LMT, RTX, NOC）。Multi-quarter tailwind\n8. **AMZN**: Bezos 賣 $4B as Amazon hits $3T market cap\n9. **GOOGL**: $514B backlog + $200bn Anthropic finance machine\n10. **MCD**: Q2 beat but US sales slow；new US head appointed\n\n## 🌍 隔夜市場\n\n- SPY $757.67 (+1.42%) | QQQ $700.07 (+1.76%) | DIA $531.22 (+1.32%)\n- VIX 15.67 — 極低，risk appetite 強勁\n- US futures pre-market: Nasdaq futures rising, PLTR leading tech higher\n- BTC 回穩朝 $64K，Coldcard exploit 消退\n- Oil 微升（Hormuz 事件）但未恐慌\n- Gold 三角形 consolidation，未有方向\n\n**Market tone**: Decidedly risk-on。股市創新高，VIX 極低，bond yields 平穩。Hormuz 事件完全被無視。\n\n## 📈 昨日市場爆升／暴跌榜\n\n**📈 Top Gainers（上交易日）**：\n- RITR +505%（micro-cap，無 follow-through 價值）\n- HYFM +298%（Hydrofarm，cannabis-related）\n- DFNS +122%（T3 Defense — defense IPO，呢隻有得跟！）\n\n值得注意嘅係 **DFNS (T3 Defense)** — defense sector，配合 US missile depletion + restocking cycle 嘅 theme，唔係純粹 pump and dump。\n\n**📉 Top Losers**：\n- 全部係 micro/small-cap names，冇 notable large-cap 暴跌。市場整體 risk-on 環境下冇恐慌性拋售。\n\n**📊 Most Active**：\n- 微型股主導（RITR, MGN, YYAI），顯示 retail 資金仍然活躍於 penny stock space\n\n**Sector Theme**：Industrials +3.12%、Comm Services +3.06%、Tech +2.36% 領漲。Consumer Defensive -1.38% 唯一明顯下跌 sector。Risk-on rotation 明顯——資金從防守性 sector 流出，轉向 cyclical + growth。\n\n## 📡 今日重點事件\n\n| 時間 (HKT) | 重要性 | 事件 |\n|---|---|---|\n| 8:30 PM | 🟡 MED | US Imports (Jun) prev=$395.3B |\n| 8:30 PM | 🟡 MED | US Balance of Trade (Jun) prev=-$77.6B, fcast=-$73B |\n| 8:30 PM | 🟡 MED | US Exports (Jun) prev=$317.7B |\n| 10:00 PM | 🔴 HIGH | **JOLTs Job Openings (Jun)** prev=7.594M, fcast=7.4M |\n| 10:00 PM | 🟡 MED | Factory Orders MoM (Jun) prev=-1.3%, fcast=+0.2% |\n| Wed 10PM | 🔴 HIGH | ISM Services PMI (Jul) |\n| Fri 8:30PM | 🔴 HIGH | **Non Farm Payrolls (Jul)** |\n| Fri 8:30PM | 🔴 HIGH | Unemployment Rate (Jul) |\n\n本週 macro 重點係 Friday 嘅 **NFP + Unemployment Rate** — 呢個係 FOMC Jul meeting 後第一份就業數據，會直接影響 Sep meeting 定價。\n\nFed speakers: Cook (Tue)、Musalem (Wed)、Barkin (Thu) — 留意佢哋對 labor market 嘅 comments。\n\n## 🔥 Sector Watch\n\n- **🟢 強勢**: Industrials (+3.12%)、Comm Services (+3.06%)、Tech (+2.36%) — 全部 risk-on cyclicals\n- **🔴 弱勢**: Consumer Defensive (-1.38%)、Healthcare (-0.36%) — 防守性資金流出\n- **Rotation signal**: 經典 risk-on rotation。如果呢個 trend 持續，industrials + tech 會繼續跑贏。\n\n**Sector calls**:\n- Industrials: CAT earnings 確認 demand，DFNS IPO 爆升，defense restocking theme — overweight\n- Tech/Semis: PLTR + MU catalyst，但 NVDA Aug 26 earnings 仲有距離 — 而家係 accumulation window\n- Healthcare: PFE divergence play — 值得睇但唔急\n- Energy: Oil 微升但個別 stock story 多過 sector-wide move\n\n## 🎯 Pre-market Opportunities\n\n從 News Curator ACTION/WATCH items 提煉：\n\n**ACTION — 今日可部署**：\n- **PFE**: Q2 beat + guidance raise，但股價反應 negative → divergence play。如果開市後穩住甚至反彈，係 bull signal。Non-COVID product strength 係 genuine catalyst。等開市頭 30 分鐘確認方向先\n- **CAT**: Q2 profit jump + strong demand — 但已經 BMO 出咗結果，今日盤中要睇有冇 follow-through。Industrial demand confirmation 利好整個 sector\n\n**WATCH — 今日睇實**：\n- **IRAN/HORMUZ**: 船被擊中但 market looking through it。但如果再有 incident，oil + defense 會即刻 jump。Risk 係 tail risk，唔係 base case\n- **MU/SEMIS**: AI memory bottleneck solution 若確認，MU 會爆。等更多 details\n- **DEFENSE (DFNS/LMT/RTX/NOC)**: Missile depletion restocking 係 multi-quarter catalyst。今日 DFNS +122% 已經反映咗部分，但 LMT/RTX/NOC 呢啲大型 defense 仲有好大空間\n- **AAPL/MSFT**: OpenAI trade secrets dispute — 短期 noise，唔影響 thesis\n\n**NOTE items**：\n- **PLTR +16%**: AI revenue growth story 確認，但已經爆升咗。FOMO 追入風險高\n- **AMZN**: Bezos sells $4B — insider selling usually bearish，但 Amazon 規模太大、single seller 影響有限\n- **GOOGL $514B backlog**: 長期 bullish signal，short-term 冇 catalyst\n\n## 📅 未來一個月業績重點\n\n**呢個星期（Aug 4-8）**：\n| Date | Symbol | Notes |\n|---|---|---|\n| Aug 4 | CAT | Q2 profit jump — done BMO ✅ |\n| Aug 4 | PFE | Beat + guidance raised — done BMO ✅ |\n| Aug 4 | MCD | Beat but US sales slow — done BMO ✅ |\n| Aug 4 | AMD | AMC — 今日最大 catalyst。AI GPU competition vs NVDA |\n| Aug 4 | MRK | BMO — 製藥巨頭 |\n| Aug 4 | ANET | AMC — networking/AI beneficiary |\n| Aug 4 | GILD | AMC — biotech |\n| Aug 4 | BKNG | AMC — travel demand indicator |\n| Aug 4 | SPOT | BMO — streaming/subscription |\n| Aug 4 | MPC | BMO — energy/refining |\n\n今日係 earnings 超級日！特別 focus: **AMD AMC** — AI GPU narrative 會直接影響 NVDA + 整個 semiconductor space。\n\n**下個星期（Aug 11-15）**：\n- Aug 12: CSCO (networking)\n- Aug 13: AMAT (semiconductor equipment — 影響 NVDA supply chain)\n- Aug 13: BN (Brookfield — 另類資產)\n- Aug 13: NU (fintech — LatAm growth)\n\n**八月下旬**：\n- Aug 19: ADI (analog semis)、TJX (retail/consumer)、LOW/TGT (retail health check)\n- Aug 20: WMT (零售巨頭，consumer spending indicator)\n- **Aug 26: NVDA AMC 🎯** — 全季度最重要嘅 earnings！est EPS $2.01\n\nNVDA Aug 26 earnings 係而家到月底嘅最關鍵 catalyst。所有 semiconductor trades 都要 position around 呢個 date。\n\n## 📋 Today's Agenda\n\n1. **JOLTs 10PM HKT** — job openings 會 preview Friday NFP。如果低過 7.4M forecast → dovish signal，利好 growth stocks\n2. **AMD AMC** — AI GPU revenue 係重點。如果 AMD guide 正面 → NVDA + semis rally tomorrow\n3. **CAT + PFE follow-through** — 盤中睇實 market 點消化今日 BMO earnings\n4. **Fed Cook 講話 (Wed)** — 第一個 FOMC 後 speaker，有機會調整 market expectations\n\nKey levels:\n- SPY support: $745 (20-day MA area)，resistance: $765 (ATH zone)\n- QQQ support: $685，resistance: $710\n\n## 💡 My Take\n\n**Overall bias: Bullish but selective.**\n\nMarket 喺 FOMC 後全面 risk-on — SPY 創新高、VIX 低於 16、sector rotation 明確。Hormuz 事件完全被消化，顯示市場對 geopolitical risk 暫時麻木。呢個環境下，quality growth 股票有得追。\n\n但唔好 indiscriminately buy everything。幾個 considerations：\n\n**Bull case**:\n- FOMC 後 dovish confirmation，liquidity 充裕\n- Earnings season 整體正面（CAT/PFE/PLTR）\n- Defense restocking + AI capex 提供 structural tailwind\n- VIX 低位令 institutional buyers 安心\n\n**Bear case / Risk**:\n- NFP Friday 若偏強 → Fed may push back on rate cut timeline\n- AMD 今晚若 guide 弱 → semis sector can crack\n- Hormuz 若 escalation → oil spike = growth scare\n- JOLTs 今日若低於 7.4M → 經濟降溫 signal，但在 risk-on 環境下可能被當 dovish good news\n\n**今日最緊要睇實**：\n1. JOLTs 10PM — job market pulse\n2. AMD AMC earnings — AI semis catalyst\n3. Defense sector momentum — DFNS 爆升後 LMT/RTX 會唔會跟？\n\n**Conviction trades**:\n- Defense overweight (LMT/RTX/NOC) — missile restocking 係 multi-quarter story\n- Semis accumulation (NVDA 前 Aug 26 earnings) — 但今日 AMD 係 critical test\n- Industrials positive (CAT confirmation)\n\n**Wait and see**:\n- PFE divergence — 等確認先\n- Oil/Energy — Hormuz noise > structural catalyst\n- PLTR — 唔追，已爆升",
+      "risks": [
+        "NFP Fri偏強→hawkish repricing",
+        "AMD earnings若guide弱→semis crack",
+        "Hormuz escalation→oil spike"
+      ],
+      "my_take": "Bullish but selective。FOMC 後 risk-on 環境確認，VIX 低位、sector rotation 健康。Defense restocking + AI semis 係最強 theme。今日關鍵係 JOLTs + AMD earnings。NFP Friday 係本週最大變數。"
     }
   ],
   "news_curator": [
