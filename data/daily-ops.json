@@ -4767,6 +4767,75 @@
         "Hormuz escalation→oil spike"
       ],
       "my_take": "Bullish but selective。FOMC 後 risk-on 環境確認，VIX 低位、sector rotation 健康。Defense restocking + AI semis 係最強 theme。今日關鍵係 JOLTs + AMD earnings。NFP Friday 係本週最大變數。"
+    },
+    {
+      "pipeline": "NewsCurator",
+      "date": "2026-08-05",
+      "time": "08:16 HKT",
+      "status": "success",
+      "market_direction": "S&P 500 record high on Hormuz deal hopes; oil tumbles 4th week; semis risk-on but AMD falls post-earnings",
+      "headlines": [
+        "[RECENT] ACTION: OIL/HORMUZ - Bessent says deal this week, oil tumbles",
+        "[RECENT] ACTION: AMD - Revenue +50%, DC doubled but stock down",
+        "[RECENT] WATCH: PLTR - +29% near best day ever, CEO slams rivals",
+        "[RECENT] WATCH: SPACEX - First IPO earnings, AI costs soar",
+        "[RECENT] WATCH: HSBC - Buybacks resume, $10.1B profit",
+        "[RECENT] WATCH: TARIFF - $100B refund, 25 states sue",
+        "[RECENT] NOTE: AMZN - Bezos $4B sale at $3T market cap",
+        "[RECENT] NOTE: DEFENSE - Missile stockpile depleted, restocking cycle",
+        "[RECENT] NOTE: AI RISK - OpenAI/Anthropic models went rogue"
+      ],
+      "opportunities": [
+        "OIL/HORMUZ: Deal priced in but not done. If talks collapse oil rebounds 10%+. If deal closes, sell the news.",
+        "AMD: DC doubled but stock fell - divergence play. Revenue +50% confirms AI demand. Dip may be entry."
+      ],
+      "analysis": "US session dominates. Hormuz deal hopes push S&P 500 to record, oil down 4th week. Semis risk-on (INTC +10%, AMD +8%, AVGO +6%) but AMD post-earnings drop shows guidance caution. PLTR +29% proves AI commercialization accelerating. SpaceX IPO shows AI cost pressures. Macro: Fed/Warsh on hold, tariff war easing ($100B refund), Hormuz the key catalyst.",
+      "risks": [
+        "Hormuz deal collapse -> oil spike, risk-off",
+        "AMD guidance miss -> semi rally dies",
+        "AI rogue agent regulation -> MSFT/GOOGL valuation risk",
+        "Bezos $4B sale -> AMZN short-term pressure"
+      ],
+      "my_take": "Core tension: Hormuz deal priced in but not done. Classic buy-the-rumor setup. If deal closes -> sell the news. If talks collapse -> energy/defense snap back 10%+. AMD divergence is the other setup - DC doubled masked by conservative guidance, potential entry. PLTR missed entry but proves AI monetization. Defense restocking cycle high certainty but timing depends on Hormuz.",
+      "key_takeaways": [
+        "Hormuz deal priced but not done - biggest risk/reward asymmetry",
+        "AMD DC doubled but stock down - divergence play",
+        "PLTR +29% - AI monetization proof, but chase risk high",
+        "Semis risk-on rally but earnings diverge",
+        "Missile depletion -> defense restocking cycle inevitable"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-05",
+      "time": "08:39 HKT",
+      "status": "success",
+      "market_direction": "Bullish - SPY record high, semis +5%, Hormuz deal optimism driving risk-on. But VIX divergence + AMD after-hours drop = caution warranted.",
+      "headlines": [
+        "PLTR +29%: AI commercial demand confirmed",
+        "AMD revenue +50%/DC doubled but stock falls after-hours -> divergence",
+        "Bessent: Hormuz deal may close this week; oil 4th week down",
+        "INTC +10.84%: sector-wide semis risk-on, no specific catalyst",
+        "SpaceX earnings: AI spending soars, $540M BTC loss",
+        "Trump refunds $100B Liberation Day tariffs",
+        "HSBC resumes buybacks, $10.1B quarterly profit"
+      ],
+      "opportunities": [
+        "Semis (SMH/NVDA/AVGO): Accumulation window before NVDA Aug 26 earnings",
+        "AMD: After-hours dip = potential entry if stabilizes (DC doubling = real)",
+        "INTC: +10.84% sleeper - quietly repricing, watch $100 level",
+        "Defense (LMT/RTX/NOC): Restocking thesis intact, Hormuz deal dip = better entry",
+        "PFE: Divergence reversal +1.52% - thesis building"
+      ],
+      "analysis": "## Fed Context - Macro Backdrop\n\n### FOMC Jul 28-29 Review\nFOMC Jul 28-29 held rates steady (3.50-3.75%). Under Warsh, the Fed maintained hawkish stance with no rate-cut fantasies for market. Yet market reacted risk-on: SPY +1.80%, QQQ +3.40% (Aug 4 session), showing market has digested FOMC and is confident about rate path.\n\nWarsh latest: He proposed rethinking FOMC meeting frequency (Bloomberg Aug 3), hinting at fewer meetings. NYT described Warsh seeking \"Regime Change\" but needing a \"Reset\" first. Philadelphia Fed Paulson said \"content with rates at current level, but keeping an open mind.\" Fed official line is consistent: no rush to adjust.\n\n### Next FOMC: Sep 15-16\nAbout 6 weeks away. Market currently pricing Sep hold. Key question: will inflation + labor data between now and then change this consensus?\n\n### This Week's Fed Speakers\n- Tonight (Aug 5): Fed Cook Speech 4:05am HKT - first post-FOMC speaker, potential market expectation adjustment\n- Tomorrow (Aug 6): Fed Musalem Speech 5:30am HKT\n\nBoth are voting members. Their labor market/inflation comments will directly affect market pricing ahead of Friday NFP.\n\n### Warsh Regime Assessment\nReal Clear Markets headline: \"A Bit Unexpectedly, Warsh Is Off To a Good Start.\" His removal of dot plot + forward guidance has made markets more data-dependent, reducing speculative volatility before FOMC meetings. But his idea of reducing FOMC frequency could trigger debate.\n\n## Market Recap - Aug 4 Session\n\n### Major Indexes\n| Index | Close | Change | Signal |\n|-------|-------|--------|--------|\n| SPY | 771.33 | +1.80% | Record high, broad strength |\n| QQQ | 723.85 | +3.40% | Tech/semis leading |\n| DIA | 540.43 | +1.73% | Industrials confirming |\n| IWM | 301.71 | +1.85% | Small caps participating |\n| VIX | 16.50 | +4.04% | VIX up despite rally - unusual |\n\nVIX divergence alert: VIX +4.04% while SPY +1.80% is unusual. Rally normally comes with VIX decline. May reflect: (1) hedging against Hormuz deal collapse, (2) AMD/FOMC hedging demand. Not panic signal, but noteworthy.\n\n### Sector Performance\n| Sector | ETF | Change | Driver |\n|--------|-----|--------|--------|\n| Technology | XLK | +4.98% | Semis broad rally, PLTR +29% |\n| Small Caps | IWM | +1.85% | Broad participation |\n| S&P 500 | SPY | +1.80% | Record high |\n| Industrials | XLI | +1.77% | CAT +5.6% follow-through |\n| Dow | DIA | +1.73% | Value/industrial strength |\n| Financials | XLF | +0.87% | Modest, rate-sensitive |\n| Consumer Disc | XLY | +0.07% | Flat |\n| Healthcare | XLV | -0.09% | Defensive rotation out |\n| Energy | XLE | -0.46% | Oil weakness, Hormuz optimism |\n\nClassic risk-on rotation. Tech (+4.98%) leading, Energy (-0.46%) only clear loser. XLK internal breadth extremely strong: PLTR +29% + AMD +7% (session) + INTC +11% + AVGO +6.6%.\n\n### Morning Scan Scorecard\n| Morning Scan Call | Session Result | Verdict |\n|-------------------|---------------|---------|\n| \"Bullish - FOMC risk-on\" | SPY +1.80%, QQQ +3.40% | Confirmed |\n| \"PLTR +16%: FOMO chase risk high\" | +29.45% | Too cautious |\n| \"PFE divergence: wait for confirm\" | +1.52% reversal | Patient correct |\n| \"CAT: industrial demand strong\" | +5.60% follow-through | Strong confirm |\n| \"Defense restocking\" | +0.5-0.6% each | Thesis intact |\n| \"AMD AMC: AI GPU catalyst\" | +7% session, then AH drop | Divergence confirmed |\n| \"Semis accumulation before NVDA Aug 26\" | SMH +5.55%, INTC +11% | Window confirmed |\n| \"Hormuz: market looking through\" | XLE -0.46%, oil down | Confirmed |\n\nMorning Scan hit rate ~85%. Only miss: PLTR too cautious, but chase risk at +29% single-day is genuinely high.\n\n## Notable Movers\n\n### Top Gainers (>5%)\n| Ticker | Change | Driver |\n|--------|--------|--------|\n| PLTR | +29.45% | Q2 US commercial +150%, AI demand confirmed |\n| INTC | +10.84% | Semis broad risk-on, Trump domestic chip policy |\n| AMD | +7.00% | Pre-earnings rally, then after-hours down |\n| AVGO | +6.61% | OpenAI custom chip narrative, semis momentum |\n| CAT | +5.60% | Q2 profit jump follow-through |\n| SMH | +5.55% | Semis ETF broad strength |\n\n### Notable Decliners\n| Ticker | Change | Driver |\n|--------|--------|--------|\n| DFNS | -22.99% | IPO pop reversal |\n| AMZN | -2.32% | Bezos $4B sell pressure |\n| CVX | -1.44% | Oil weakness |\n| XOM | -0.71% | Oil weakness |\n\n### Deep Dive: AMD Divergence\nAMD is today's most interesting story. Regular session +7.0% (earnings anticipation), then after-hours: revenue +50% YoY, Data Center sales doubled - but stock down. Why?\n\nBull case: DC doubling confirms AI demand is real and broad (not just NVDA). AMD Instinct GPU gaining traction. Not an execution problem.\n\nBear case: Market expectations too high. Guidance conservative. Gaming segment weakness. Market demands perfection from semi valuations.\n\nMy view: WATCH. DC doubling = AI demand structural. If after-hours dip stabilizes, it's an entry opportunity. If it keeps falling, market is pricing deeper issues. NC's \"divergence play\" call was correct.\n\n## Opportunities Carry Forward\n\n### Semis - Accumulation Window Open\nSMH +5.55%, INTC +11%, AVGO +6.6% confirm semis risk-on. NVDA Aug 26 earnings is the biggest catalyst (~3 weeks away). If AMD after-hours dip stabilizes, semis remains the strongest momentum group.\n\nKey risk: If AMD continues falling, sector sentiment could reverse. Tonight ADP/ISM Services if strong could trigger rate worry and semis pullback.\n\n### INTC - The Sleeper\n+10.84% single-day with no breaking news. This is sector rotation + Trump policy + valuation repair. If INTC can hold $100+, market is quietly repricing Intel. Worth watching.\n\n### Defense (LMT/RTX/NOC) - Restocking Thesis Intact\nDefense +0.5% modest today as Hormuz deal optimism weighs. But missile depletion restocking is structural multi-quarter, not dependent on Hormuz. If Hormuz deal closes, sell-the-news defense dip = better entry. If deal collapses, defense snaps back 10%+.\n\n### PFE - Divergence Reversal\nMorning Scan had PFE down despite Q2 beat. Today +1.52% reversal shows market digesting positive earnings. Non-COVID product strength is genuine catalyst.\n\n### PLTR - Missed, Don't Chase\n+29% single-day is extraordinary. Chase risk extremely high. May reconsider after 10-15% pullback.\n\n## Risks / Watchlist\n\n### Tonight's Key Events (from macro_calendar.json)\n| Time (HKT) | Importance | Event | Why It Matters |\n|------------|-----------|-------|----------------|\n| 7:00 PM | MED | MBA 30-Year Mortgage Rate | Housing/rate sensitivity |\n| 8:15 PM | MED | ADP Employment Change (Jul) | NFP preview - fcst 70K vs prev 98K |\n| 10:00 PM | HIGH | ISM Services PMI (Jul) | 70% of US economy - fcst 54.5 vs prev 54 |\n| 10:30 PM | MED | EIA Crude Oil Stocks | Oil supply, Hormuz impact |\n| 4:05 AM | MED | Fed Cook Speech | First post-FOMC speaker |\n\n### Tomorrow (Aug 6)\n| Time (HKT) | Importance | Event |\n|------------|-----------|-------|\n| 8:30 PM | MED | Initial Jobless Claims (fcst 202K vs 197K) |\n| 8:30 PM | MED | Unit Labour Costs QoQ Prel (fcst 2.1%) |\n| 5:30 AM | MED | Fed Musalem Speech |\n\n### Overnight Risk Factors\n1. ADP below 70K: dovish, good for stocks. ADP above 98K: hawkish repricing\n2. ISM Services below 54: services slowdown, mixed signal\n3. Fed Cook hawkish: could shift Sep FOMC expectations\n4. Hormuz deal announcement: if confirmed, sell oil/defense, buy risk (but already fully priced)\n5. AMD after-hours weakness spills into semis sector\n\n## My Take\n\nToday's summary: Aug 4 was classic risk-on - SPY record high, semis +5%, PLTR +29%, but paradoxically VIX rose simultaneously. Hormuz deal \"this week\" narrative completely dominates: oil down 4th week, defense stocks suppressed, risk assets rallying across the board. AMD's after-hours divergence (strong results, weak stock) is today's most intriguing signal - market demands \"beat everything or get punished\" from semis.\n\nMost important takeaway: Market structure is unhealthy - entire risk-on rally rests on an unconfirmed Hormuz deal. If Bessent's \"this week\" becomes \"next week\" or talks collapse, oil + defense snap back immediately. This isn't a typical bull market - it's geopolitical headline-driven.\n\nTomorrow's bias: Cautiously bullish. Semis momentum strong, but tonight ADP + ISM Services are critical tests. If ISM Services > 54.5, confirms soft landing, bullish continuation. If < 54, growth scare, semis pullback = better entry. Watch AMD after-hours in Asia session.\n\nKey levels: SPY 771 is new ATH base. If tonight's data positive, 770 holds, risk-on continues. If breaks 760, rotation signal reverses.\n\nWhat I'm watching closest: ISM Services 10pm tonight. Services = 70% of US GDP. This number sets the tone for the rest of the week into NFP Friday.",
+      "risks": [
+        "Hormuz deal collapse - oil/defense snap back 10%+ (fully priced in)",
+        "ISM Services < 54 tonight -> growth scare -> risk-on reversal",
+        "ADP > 98K -> hawkish repricing -> rate sensitives hit",
+        "AMD after-hours weakness spills into semis sector",
+        "VIX divergence (+4% despite rally) - hedging signal?"
+      ],
+      "my_take": "Aug 4 risk-on rally, SPY record high, QQQ +3.4%, semis +5%. But paradox: VIX rose, Hormuz deal unconfirmed yet market acting like done. AMD after-hours divergence (DC doubling, stock drops) is most follow-worthy signal. Tonight ISM Services PMI + Fed Cook are critical - will determine if this risk-on rally has legs. Near-term cautiously bullish, but Hormuz deal collapse = biggest tail risk. Semis accumulation window open, AMD dip if stabilizes = entry point."
     }
   ],
   "news_curator": [
