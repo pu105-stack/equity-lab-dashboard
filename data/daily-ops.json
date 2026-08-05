@@ -4769,43 +4769,6 @@
       "my_take": "Bullish but selective。FOMC 後 risk-on 環境確認，VIX 低位、sector rotation 健康。Defense restocking + AI semis 係最強 theme。今日關鍵係 JOLTs + AMD earnings。NFP Friday 係本週最大變數。"
     },
     {
-      "pipeline": "NewsCurator",
-      "date": "2026-08-05",
-      "time": "08:16 HKT",
-      "status": "success",
-      "market_direction": "S&P 500 record high on Hormuz deal hopes; oil tumbles 4th week; semis risk-on but AMD falls post-earnings",
-      "headlines": [
-        "[RECENT] ACTION: OIL/HORMUZ - Bessent says deal this week, oil tumbles",
-        "[RECENT] ACTION: AMD - Revenue +50%, DC doubled but stock down",
-        "[RECENT] WATCH: PLTR - +29% near best day ever, CEO slams rivals",
-        "[RECENT] WATCH: SPACEX - First IPO earnings, AI costs soar",
-        "[RECENT] WATCH: HSBC - Buybacks resume, $10.1B profit",
-        "[RECENT] WATCH: TARIFF - $100B refund, 25 states sue",
-        "[RECENT] NOTE: AMZN - Bezos $4B sale at $3T market cap",
-        "[RECENT] NOTE: DEFENSE - Missile stockpile depleted, restocking cycle",
-        "[RECENT] NOTE: AI RISK - OpenAI/Anthropic models went rogue"
-      ],
-      "opportunities": [
-        "OIL/HORMUZ: Deal priced in but not done. If talks collapse oil rebounds 10%+. If deal closes, sell the news.",
-        "AMD: DC doubled but stock fell - divergence play. Revenue +50% confirms AI demand. Dip may be entry."
-      ],
-      "analysis": "US session dominates. Hormuz deal hopes push S&P 500 to record, oil down 4th week. Semis risk-on (INTC +10%, AMD +8%, AVGO +6%) but AMD post-earnings drop shows guidance caution. PLTR +29% proves AI commercialization accelerating. SpaceX IPO shows AI cost pressures. Macro: Fed/Warsh on hold, tariff war easing ($100B refund), Hormuz the key catalyst.",
-      "risks": [
-        "Hormuz deal collapse -> oil spike, risk-off",
-        "AMD guidance miss -> semi rally dies",
-        "AI rogue agent regulation -> MSFT/GOOGL valuation risk",
-        "Bezos $4B sale -> AMZN short-term pressure"
-      ],
-      "my_take": "Core tension: Hormuz deal priced in but not done. Classic buy-the-rumor setup. If deal closes -> sell the news. If talks collapse -> energy/defense snap back 10%+. AMD divergence is the other setup - DC doubled masked by conservative guidance, potential entry. PLTR missed entry but proves AI monetization. Defense restocking cycle high certainty but timing depends on Hormuz.",
-      "key_takeaways": [
-        "Hormuz deal priced but not done - biggest risk/reward asymmetry",
-        "AMD DC doubled but stock down - divergence play",
-        "PLTR +29% - AI monetization proof, but chase risk high",
-        "Semis risk-on rally but earnings diverge",
-        "Missile depletion -> defense restocking cycle inevitable"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-05",
       "time": "08:39 HKT",
@@ -4836,6 +4799,77 @@
         "VIX divergence (+4% despite rally) - hedging signal?"
       ],
       "my_take": "Aug 4 risk-on rally, SPY record high, QQQ +3.4%, semis +5%. But paradox: VIX rose, Hormuz deal unconfirmed yet market acting like done. AMD after-hours divergence (DC doubling, stock drops) is most follow-worthy signal. Tonight ISM Services PMI + Fed Cook are critical - will determine if this risk-on rally has legs. Near-term cautiously bullish, but Hormuz deal collapse = biggest tail risk. Semis accumulation window open, AMD dip if stabilizes = entry point."
+    },
+    {
+      "pipeline": "NewsCurator",
+      "date": "2026-08-05",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "S&P 500 all-time high, Nasdaq $3.5T melt-up. Oil rebounds but Hormuz deal in progress. Earnings tail end - LLY/DIS strong, UBER/AMD weak. NFP Thursday.",
+      "headlines": [
+        "[NEW] ACTION: UBER - Q3 guidance disappoints, but $10B robotaxi pledge signals long-term ambition",
+        "[NEW] ACTION: DIS - Q3 beat + Toy Story 5 catalyst, streaming and parks firing on both engines",
+        "[NEW] ACTION: LLY - Zepbound/Mounjaro demand exploding, revenue +48%, guidance raised",
+        "[NEW] ACTION: CVS - Net income triples to $2.9B, Aetna cost control paying off",
+        "[NEW] WATCH: KHC - Raises guidance, turnaround working but shares slip",
+        "[NEW] WATCH: SHOP - Profit jumps, subscriptions + merchant services both growing",
+        "[RECENT] WATCH: SPY/QQQ - S&P 500 new high + Nasdaq $3.5T melt-up, Burry warns 1987-style fall",
+        "[NEW] WATCH: OIL/HORMUZ - Follow-up: Houthi Saudi tanker attack lifts oil, Trump says deal 'as soon as today'",
+        "[RECENT] WATCH: AMD - Follow-up: -8% premarket but Data Center +107% YoY, sell-off may be overdone",
+        "[NEW] NOTE: RUSSIA/UKRAINE - Kyiv strike kills 17, Zelensky: no interceptors remain",
+        "[RECENT] NOTE: GOLD - Gold soars on Iran truce hopes, above $4,100",
+        "[RECENT] NOTE: WARSH/FED - Era of monetary restraint, Barclays/HSBC push inflation-linked debt",
+        "[RECENT] NOTE: CRYPTO - BTC lagging equities, Circle earnings beat + BlackRock/Visa Arc partnership"
+      ],
+      "opportunities": [
+        "UBER - Q3 guidance disappoints, but $10B robotaxi pledge signals long-term ambition | WATCH - Short-term guidance miss reflects accelerated investment cycle, not demand collapse. If it drops >10% it could be a buying opportunity, but wait for guidance call to confirm investment timeline.",
+        "DIS - Q3 beat + Toy Story 5 catalyst, streaming and parks firing on both engines | ACTION - DIS has been a year-long underperformer. This quarter finally shows turnaround signal. Streaming profitability + parks demand both confirmed. Worth watching if the stock hasn't fully priced this in.",
+        "LLY - Zepbound/Mounjaro demand exploding, revenue +48%, guidance raised | ACTION - GLP-1 theme shows no signs of slowing. LLY is the purest play. Valuation isn't cheap but growth supports it. Worth adding to watchlist for pullbacks.",
+        "CVS - Net income triples to $2.9B, Aetna cost control paying off | ACTION - This is structural improvement, not a one-off. If the market hasn't fully trusted the turnaround yet, there's upside. But healthcare policy risk (Warsh era potential benefit cuts) bears watching."
+      ],
+      "analysis": "LLY + DIS strongest beats today. S&P 500 melt-up risk. Hormuz volatile. Warsh Fed restraint narrative building.",
+      "risks": [
+        "S&P 500 all-time high + melt-up = correction risk",
+        "Hormuz deal/attack two-way volatility",
+        "Warsh monetary restraint = growth headwind"
+      ],
+      "my_take": "Earnings season tail end. LLY/DIS are high conviction opportunities. Macro melt-up concerning but trend is your friend. Hormuz is Viper-only territory.",
+      "key_takeaways": [
+        "LLY: GLP-1 demand unbroken, guidance raised, structural growth intact",
+        "DIS: Turnaround confirmed - streaming profit + parks strength",
+        "SPY/QQQ: All-time high melt-up, risk/reward unfavorable for new longs",
+        "Hormuz: Deal vs attack narrative daily flip, Viper-only territory",
+        "Warsh Fed: Monetary restraint era taking shape, growth stock headwind"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-08-05",
+      "time": "20:36 HKT",
+      "status": "success",
+      "market_direction": "Bullish -- SPY ATH, QQQ +3.4%, AI melt-up",
+      "headlines": [
+        "LLY beat + raise guidance, GLP-1 revenue +48% YoY",
+        "DIS Q3 beat, streaming + parks turnaround confirmed",
+        "UBER Q3 guidance miss, $10B robotaxi pledge",
+        "PLTR +29.5% on AI earnings blowout",
+        "S&P 500 all-time high, Nasdaq $3.5T 4-day melt-up",
+        "Hormuz: Houthi attacks Saudi tanker, Trump says deal \"as soon as today\""
+      ],
+      "focus": [
+        "LLY -- GLP-1 structural growth",
+        "DIS -- turnaround confirmation",
+        "ISM Services PMI tonight",
+        "NFP Friday"
+      ],
+      "analysis": "## Fed Context\n\nLast FOMC (Jul 28-29) held rates unchanged, statement emphasized \"monetary restraint\" stance -- consistent with Kevin Warsh's pre-confirmation hawkish signals. Next FOMC: Sep 15-16. Between now and then: NFP (Aug 7) and CPI (Aug 12) are the two critical data points.\n\nWarsh's \"monetary restraint era\" narrative is gathering momentum -- Barclays/HSBC are already pushing inflation-linked debt. This regime change is a structural headwind for growth stocks, though not yet reflected in price action (SPY hitting ATH).\n\nThis week's focus: Friday NFP + Unemployment Rate (Aug 7 8:30PM HKT) -- the last employment report before the September FOMC.\n\n## Market Headlines Today\n\n1. [CNBC] Uber issues weaker-than-expected bookings, earnings forecasts for Q3 (UBER, BKNG)\n   UBER Q2 beat but Q3 guidance miss. Simultaneously pledged $10B to robotaxi race. Short-term guidance miss reflects accelerated investment, not demand collapse.\n\n2. [MarketWatch/CNBC] Disney tops earnings estimates as parks and streaming offer a boost (DIS)\n   DIS Q3 beat. Toy Story 5 fueling streaming, parks strong. Company exited A+E Media to streamline. Year-long underperformer finally showing turnaround signal.\n\n3. [CNBC] Eli Lilly easily tops quarterly estimates, raises outlook (LLY)\n   Zepbound/Mounjaro sales exploding. 2026 revenue guidance raised from $82-85B to $85-87B, +48% YoY. GLP-1 theme shows zero signs of slowing.\n\n4. [Forbes] CVS Health Profits Hit $2.9 Billion As Firm Gets Handle On Aetna Costs (CVS)\n   Aetna medical cost control paying off, net income tripled. Insurance unit improving, guidance raised. Structural improvement, not a one-off.\n\n5. [Bloomberg] S&P 500 Hits Record High / Michael Burry warns 1987-style fall (SPY, QQQ)\n   S&P 500 all-time high, Nasdaq +$3.5T in 4 days of melt-up. Burry warning of 1987-style crash. Risk/reward is asymmetric.\n\n6. [FMP/TradingView] Palantir +29.5% on earnings blowout (PLTR)\n   PLTR single-day +29.5% to $162.66. AI application layer delivering earnings beats. Dragged entire AI/semis complex: SOXL +19.9%, NVDA +2.6%, INTC +10.8%.\n\n7. [Bloomberg/Guardian] Oil rebounds after Houthis attack Saudi tanker, Trump says Hormuz deal 'as soon as today' (USO, XOM, CVX)\n   Oil rebounded to $80+ from yesterday's deal-hope selloff. Houthi attacked Saudi tanker. Trump simultaneously threatens Iran will \"be hit very hard\" and says deal \"as soon as today\". Mixed signals -- Hormuz extremely volatile.\n\n8. [WSJ] Shopify Profit Jumps as Subscriptions, Merchant Services Boost Revenues (SHOP)\n   Profit surge, subscription + merchant services both growing. E-commerce remains healthy but macro is the variable.\n\n9. [Reuters] Kraft Heinz raises annual forecasts following CEO's turnaround push (KHC)\n   CEO Cahillane's turnaround starting to bear fruit, but market reaction lukewarm. Consumer staples have defensive appeal in Warsh era.\n\n10. [Reuters/Bloomberg] AMD plummets 8% premarket despite beating expectations (AMD)\n    Data Center revenue +107% YoY = $6.7B (58% of total). Market worried about AI capex concentration risk. Analysts say sell-off misses 2027 DC setup.\n\n## Overnight Markets\n\n- SPY: $771.33 (+1.80%) -- new all-time high, day range $760.52-$773.41\n- QQQ: $723.85 (+3.40%) -- extreme melt-up, approaching ATH $748.65\n- VIX: Expected extremely low (melt-up environment), but Burry 1987 warning adds tension\n- US 10Y: Warsh restraint narrative should support yields\n- Oil: $80+ (Houthi attack rebound), Trump Hormuz deal unresolved\n- Gold: $4,100+ (truce hopes + rate cut expectations double support)\n- Asia overnight: Following US melt-up, expected green\n\n## Yesterday's Extreme Movers\n\nTop Gainers:\n- PLTR +29.45% -> $162.66 -- AI earnings blowout, session's main character\n- IBTA +51.91% -> $37.34 -- Ibotta earnings beat\n- ZBRA +26.47% -> $368.83 -- Zebra Technologies\n- IT +22.61% -> $185.79 -- Gartner\n- INSP +22.83% -> $64.14 -- Inspire Medical\n\nTop Losers:\n- APTV -16.62% -> $47.72 -- Aptiv (auto parts, likely guidance miss)\n- BRKR -21.79% -> $50.30 -- Bruker Corporation\n- NRG -15.48% -> $117.04 -- NRG Energy\n- CIFR -15.65% -> $20.38 -- Cipher Mining (BTC lagging equities)\n- DFNS -22.99% -> $47.36 -- Defense (profit taking?)\n\nMost Active:\n- PLTR +29.45% -- market-wide focus\n- NVDA +2.56% -- following AI melt-up\n- INTC +10.84% -- semiconductor rotation\n- SOXL +19.87% -- 3x long semis, AI/semis complex firing on all cylinders\n- SQQQ -10.07% -- 3x short QQQ, short squeeze victims\n\nSector theme: AI/semis complex was the core driver -- PLTR earnings was the catalyst, pulling NVDA, INTC, SOXL higher. Defense stocks saw profit-taking. Crypto lagging equities (BTC not following to new highs).\n\n## Today's Key Events\n\nHIGH:\n- 10:00PM HKT | ISM Services PMI (Jul) -- prev=54, fcast=54.5\n  Services is the backbone of the US economy. If >55 = strong economy = rate cut expectations cool = growth headwind. If <53 = slowdown signal = but NFP is the real main event.\n\nMEDIUM:\n- 08:15PM HKT | ADP Employment Change (Jul) -- prev=98, fcast=70 (just released)\n- 10:30PM HKT | EIA Crude Oil Stocks Change -- prev=-7.167M, fcast=-1.5M\n- 04:05AM HKT | Fed Cook Speech\n\nThis Week's Heavy Hitters (Friday Aug 7):\n- 8:30PM HKT | Non Farm Payrolls (Jul) -- THE data point of the week\n- 8:30PM HKT | Unemployment Rate (Jul)\n\nGeopolitical:\n- Houthi attack on Saudi tanker -- oil spiked\n- Trump: Hormuz deal \"as soon as today\" + simultaneously threatens Iran\n- Russia/Ukraine: Kyiv strike kills 17, Ukraine interceptor depleted\n\n## Sector Watch\n\nHOT -- AI/Semis:\nPLTR +29.5% was the spark. NVDA, INTC, SOXL all followed. AI application layer starting to deliver real earnings beats, not just hardware capex story. But melt-up risk is real -- Nasdaq +$3.5T in 4 days is extreme.\n\nHOT -- GLP-1/Pharma:\nLLY guidance raise +48% YoY. GLP-1 demand showing no deceleration. The entire obesity/metabolic health theme remains structural growth.\n\nWARMING -- Streaming/Media:\nDIS Toy Story 5 catalyst + streaming profitability confirmed. Sector shifting from cost-cutting to growth mode.\n\nMIXED -- Energy:\nHormuz makes oil extremely volatile. Deal = down, attack = up. Narrative flips daily. Not suitable for position trades.\n\nCOOLING -- Defense:\nDFNS -23% likely profit-taking. Ukraine news (interceptor depleted) confirms structural demand, but near-term priced in.\n\n## Pre-market Opportunities\n\nACTION -- LLY: GLP-1 franchise structural growth, revenue guidance raised to $85-87B. If market sees melt-up profit-taking today, LLY is the premier defensive growth pick. But valuation isn't cheap at $1T+ market cap.\n\nACTION -- DIS: Year-long underperformer finally showing turnaround. Streaming profitability + parks demand both confirmed. Exiting A+E Media is the right streamlining move. Stock likely gapped up this morning -- wait for clarity.\n\nWATCH -- UBER: Q2 beat but Q3 guidance miss. $10B robotaxi pledge is right long-term but expensive short-term. If it drops >10%, could be a buying opportunity -- but wait for guidance call to confirm investment timeline.\n\nWATCH -- CVS: Aetna turnaround is structural. But healthcare policy risk (Warsh era potential benefit cuts) is an overhang. Worth adding to watchlist for pullbacks.\n\nWATCH -- AMD: -8% premarket but Data Center +107% YoY. Sell-off may be overdone. Must accept AI capex concentration risk. Wait for stock to stabilize.\n\nWATCH -- PLTR: +29.5% single-day move is too extreme to chase. AI story is real, but melt-up chasing is high-risk. Wait for pullback.\n\nWATCH -- SPY/QQQ: All-time high + Nasdaq melt-up. Risk/reward asymmetric -- upside limited, downside has Burry 1987 warning + NFP catalyst. Do not add at ATH.\n\nNOTE -- Oil/Hormuz: Houthi attack + Trump deal creates two-way risk. Viper can play intraday news-driven spikes, not suitable for positions.\n\n## Upcoming Earnings Calendar\n\nThis Week (Aug 5-7):\n- Wed Aug 5 | LLY [TRACKED] -- $1T | GLP-1 growth king, beat + raise confirmed\n- Wed Aug 5 | DIS -- $170B | Beat, streaming turnaround confirmed\n- Wed Aug 5 | UBER -- $146B | Q2 beat but Q3 guidance miss\n- Wed Aug 5 | CVS -- $134B | Beat, Aetna cost control working\n- Wed Aug 5 | SHOP -- $152B | E-commerce health check\n- Wed Aug 5 | WDC [TRACKED] -- $182B | Memory/storage cycle\n- Wed Aug 5 | SNDK -- $191B | Storage demand\n- Thu Aug 6 | COP -- $145B | Energy sector bellwether\n- Thu Aug 6 | NET -- $100B | Cloud/infrastructure\n- Thu Aug 6 | DDOG -- $97B | Observability spend\n- Fri Aug 7 | BRK.A/BRK.B -- $1.1T | Buffett's portfolio snapshot\n\nNext Week (Aug 10-12):\n- Mon Aug 10 | RKLB [TRACKED] -- $43B | Space launch cadence\n- Tue Aug 11 | SE -- $68B | SEA e-commerce/gaming\n- Wed Aug 12 | CSCO -- $457B | Enterprise networking demand\n- Wed Aug 12 | CPI (macro) -- July inflation data\n\nFollowing Week (Aug 13-19):\n- Thu Aug 13 | AMAT [TRACKED] -- $434B | Semi equipment bellwether\n- Tue Aug 18 | HD -- $339B | Consumer/housing health\n- Wed Aug 19 | ADI -- $185B | Analog semi cycle\n\nKey takeaway: LLY and DIS beats inject momentum into earnings season tail-end. But most big tech has already reported -- market is in \"post-earnings drift\" phase. Future catalysts: NFP (Aug 7) + CPI (Aug 12).\n\n## Today's Agenda\n\n- LLY, DIS, CVS reported BMO -- beats confirmed\n- UBER guidance miss -- monitor selloff magnitude\n- 10:00PM HKT -- ISM Services PMI (today's most important macro)\n- 10:30PM HKT -- EIA Crude Oil (extra significance given Hormuz)\n- 04:05AM HKT -- Fed Cook Speech\n- Ongoing: Hormuz deal/attack narrative flip\n- SPY support: $760 (yesterday's low), resistance: $773 (ATH)\n\n## My Take\n\nOverall bias: Cautiously Bullish but Risk-Aware\n\nSPY all-time high + QQQ melt-up is objective reality. LLY and DIS beats are real fundamental improvements, not just momentum chasing. PLTR's AI earnings blowout confirms AI application layer is monetizing.\n\nBut three red flags:\n1. Nasdaq $3.5T melt-up in 4 days -- this is not normal pace. Michael Burry's 1987 warning may be extreme, but risk compression is real.\n2. Warsh era monetary restraint -- this medium-term headwind is not yet priced into growth stock valuations. When markets start pricing \"higher for longer\", melt-ups can reverse fast.\n3. NFP Friday -- if data disappoints (labor market softening), the melt-up's foundation (soft landing narrative) gets questioned.\n\nWhat to watch today:\n- ISM Services PMI (10PM HKT) -- big beat = rate cut expectations cool = growth headwind\n- UBER selloff magnitude -- what valuation does the market assign after guidance miss?\n- Hormuz -- deal or attack? This can flip the entire energy complex instantly\n- SPY holding $760 -- if profit-taking breaks this level, acceleration possible\n\nDo not add at all-time highs. Reassess positioning after NFP. But if LLY/DIS pull back to reasonable levels, that's an accumulation opportunity.\n",
+      "risks": [
+        "Nasdaq melt-up extreme (Burry 1987 warning)",
+        "Warsh monetary restraint = growth headwind",
+        "NFP Friday could disrupt soft landing narrative",
+        "Hormuz volatility"
+      ],
+      "my_take": "Cautiously Bullish but Risk-Aware -- SPY ATH + QQQ melt-up, LLY/DIS fundamental beat is real. But Nasdaq $3.5T 4-day melt-up extreme, NFP Friday is catalyst. Don't add at ATH, reassess after NFP."
     }
   ],
   "news_curator": [
