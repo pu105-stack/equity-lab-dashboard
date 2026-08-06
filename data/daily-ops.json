@@ -4870,6 +4870,73 @@
         "Hormuz volatility"
       ],
       "my_take": "Cautiously Bullish but Risk-Aware -- SPY ATH + QQQ melt-up, LLY/DIS fundamental beat is real. But Nasdaq $3.5T 4-day melt-up extreme, NFP Friday is catalyst. Don't add at ATH, reassess after NFP."
+    },
+    {
+      "pipeline": "NewsCurator",
+      "date": "2026-08-06",
+      "time": "08:14 HKT",
+      "status": "success",
+      "market_direction": "SPX/Dow record highs but VIX anomaly and hedge fund meltdown warning - euphoria with foundation cracks",
+      "headlines": [
+        "[NEW] ACTION GOOGL - AI Brain Drain: Jeff Dean exits, Hassabis steps down, 4 researchers form startup Discovery Loop",
+        "[RECENT] ACTION AMD - Lisa Su brushes off Musk NVDA commitment; Wall Street 41 buys, 0 sells",
+        "[NEW] WATCH FED - Warsh contemplates fewer FOMC meetings; Cook prepared to act on rate hike",
+        "[RECENT] WATCH DIS - TikTok deal + free ad-supported tier; Q3 beat confirmed",
+        "[RECENT] WATCH OIL - Houthi Saudi tanker strike vs Hormuz deal as soon as today",
+        "[RECENT] WATCH MACRO - Hedge fund meltdown warning shot; VIX anomaly at record highs"
+      ],
+      "opportunities": [
+        "GOOGL: AI brain drain - 4 top researchers form startup, Hassabis steps down. Stock dropped. Buying opportunity or structural problem?",
+        "AMD: 41 buys, 0 sells on Wall Street. Lisa Su dismissive of Musk NVDA commitment.",
+        "FED: Warsh fewer meetings + Cook hawkish - policy tightening signal market is ignoring."
+      ],
+      "analysis": "Market in tension between euphoria and warning signs. SPX record highs but VIX anomaly, hedge fund blowup. GOOGL AI brain drain is the freshest single-stock catalyst. FED/Warsh hawkish tilt being completely ignored. AMD divergence still in play.",
+      "risks": [
+        "Hedge fund meltdown contagion risk",
+        "Fed hawkish pivot - Cook explicitly says rate hike on table",
+        "GOOGL AI talent exodus structural risk",
+        "China trade war escalation"
+      ],
+      "my_take": "Market euphoria and foundation cracks coexist. Record highs + VIX anomaly + hedge fund blowup + Fed hawkish = dangerous combo. GOOGL AI brain drain is real - if Jeff Dean leaves, Google AI moat may be more fragile than market thinks. But AMD 41 buys 0 sells, DIS earnings beat, LLY demand limitless - many constructive stories too.",
+      "key_takeaways": [
+        "GOOGL AI brain drain = fresh catalyst, not priced in",
+        "Fed hawkish tilt (Cook rate hike talk + Warsh fewer meetings)",
+        "SPX record highs but VIX anomaly = caution flag",
+        "Hedge fund meltdown as systemic risk warning",
+        "China retaliation deepening trade war"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-06",
+      "time": "08:38 HKT",
+      "status": "success",
+      "market_direction": "表面平靜但底層劇烈分化：SPY -0.2%、DIA 創歷史新高、VIX 跌至 15.81，但 GOOGL -4%（AI人才流失）、AMD -7%（earnings沽壓）、XLE -2%（能源）被 NVDA +3.4% ATH 掩蓋。Market selectively ignoring bad news — late-cycle complacency。",
+      "headlines": [
+        "GOOGL -4%: AI腦流失 — Jeff Dean離開、Demis Hassabis卸任DeepMind CEO、4研究員出走",
+        "NVDA +3.4% ATH 222.22: 全市場最有conviction既long，Blackwell demand無視一切",
+        "AMD -7%: 41 Buy / 0 Sell consensus被無視，Lisa Su dismiss Musk NVDA承諾無用",
+        "DIS +3.6% 突破$100: TikTok deal + earnings beat + free streaming",
+        "XLE -2.07%: 能源最弱，Houthis擊中沙特油輪但油價照跌",
+        "VIX跌至15.81: 市場選擇性無視Fed rate hike talk + hedge fund meltdown + China retaliation",
+        "今晚NFP前哨: Jobless Claims + Unit Labour Costs (8:30PM HKT)",
+        "明日NFP Friday: 80K forecast vs 57K previous — 本週最重要event"
+      ],
+      "opportunities": [
+        "GOOGL @ 350-355: AI brain drain可能被overplay，Google search moat + cloud intact",
+        "AMD @ 470-475: 41 Buy / 0 Sell consensus不會永遠被無視，但momentum仍向下",
+        "XLE snap-back: Hormuz supply risk仍在，如果和平deal未即時實現有反彈空間",
+        "等NFP過後先做方向性部署 — 今晚jobless claims係pre-read"
+      ],
+      "analysis": "## 🌍 今日市場\n\n### 指數表現\n| 指數 | 收市 | 變動 |\n|------|------|------|\n| SPY | 769.79 | -0.20% |\n| QQQ | 717.30 | -0.90% |\n| DIA | 542.81 | +0.44% — 歷史新高 |\n| IWM | 299.77 | -0.64% |\n| VIX | 15.81 | -4.2%（由16.50回落） |\n\n表面平靜 — SPY跌唔夠0.2%，Dow仲創咗歷史新高（546.75日內高位）。VIX由尋日16.50跌返15.81，睇落一切安好。\n\n但底層結構劇烈分化。\n\n### Sector Heatmap（Aug 5）\n- 🟢 Healthcare (XLV) +1.27%\n- 🟢 Materials (XLB) +1.23%\n- 🟢 Consumer Disc (XLY) +0.30%\n- 🟢 Financials (XLF) +0.21%\n- 🟡 Real Estate (XLRE) +0.07%\n- 🟡 Industrials (XLI) -0.03%\n- 🟡 Staples (XLP) -0.05%\n- 🔴 Tech (XLK) -0.53%\n- 🔴 Small Caps (IWM) -0.64%\n- 🔴 Nasdaq (QQQ) -0.90%\n- 🔴 Utilities (XLU) -1.02%\n- 🔴 Semis (SMH) -1.04%\n- 🔴 Energy (XLE) -2.07%\n\nHealthcare + Materials 領漲，Energy + Utilities + Semis 領跌。典型 rotation — 資金由 energy/tech 流入 defensive growth（healthcare）同 cyclicals（materials）。\n\n## 🔥 Notable Movers\n\n### 🔴 GOOGL — AI Brain Drain Confirmed（-4.0%，$362.43）\n日內由 382.94 開盤高位直插至 356.82，收 362.43。成交量 46.3M — 係平時嘅 1.5 倍。Jeff Dean 離開 + Demis Hassabis 卸任 DeepMind CEO + 4 位頂尖研究員出走創立 Discovery Loop。呢個唔係普通 executive turnover — 係 AI 人才結構性流失。過去兩星期 GOOGL 升咗 +18.9%（由 317.69 升至 377.65），今日嘅 -4% 仍然只係 profit-taking 級別。但如果 AI moat 真係受損，估值需要重估。\n\n**Verdict:** NC 嘅 WATCH call 中咗。今日 -4% 之後仍然太早判斷係咪 buying opportunity — 等跌多 2-3% 先考慮。\n\n### 🔴 AMD — Post-Earnings Wreck（-7.0%，$482.05）\n由尋日收市 518.58 直插至 482.05，盤中低見 478.20。Lisa Su 公開 dismiss Musk 嘅 NVDA 承諾完全無用 — 市場繼續沽。Wall Street consensus 41 Buy / 0 Sell 完全被無視。AMD 過去 5 日極度波動：485→476→518→482。Earnings beat 但 guidance 滿足唔到市場期望。\n\n**Verdict:** NC 嘅「divergence still in play」正確 — 但 divergence 係向下。Wait for technical stabilization 仍然係正確策略。\n\n### 🟢 NVDA — Defies Gravity（+3.4%，$219.22）\n日內創歷史新高 222.22。完全無視 GOOGL/AMD 嘅頹勢。Volume 156M — 全市場最有 conviction 嘅 long。Blackwell demand narrative 仍然壓倒一切。\n\n**Verdict:** NVDA 成為 market 嘅「唯一 winner」— 但呢種集中度本身就係 risk。\n\n### 🟢 DIS — TikTok Catalyst Lands（+3.6%，$101.76）\nTikTok 內容 deal 簽署 + earnings beat + free ad-supported streaming 考慮。由 98.18 突破 100 大關。DIS 正在 build momentum：parks 復甦、Toy Story 5、streaming、而家加埋 TikTok。\n\n**Verdict:** NC 嘅 WATCH call 中咗，DIS 突破 $100 心理關口。但 3 日內由 96 升至 102 已經反映咗大部分 catalyst。等 pullback 至 $98-99 先考慮入場。\n\n### 🟢 LLY — Weight-Loss Juggernaut（+4.9%，$1,169.86）\nZepbound/Mounjaro 需求 nearly limitless。由 1115.68 彈升至 1169.86。$1T market cap narrative intact。\n\n## 📰 NC Calls — 今日 Scorecard\n\n| NC Call | Status | Score |\n|---------|--------|-------|\n| GOOGL AI brain drain → WATCH if -5% | -4% confirmed, thesis validated | OK |\n| AMD divergence → wait for stabilization | -7%, divergence confirmed downward | OK |\n| DIS TikTok deal → WATCH | +3.6%, catalyst landed | OK |\n| Fed hawkish ignored | VIX 15.81, market at records — confirmed | OK |\n| Hedge fund meltdown warning | VIX down despite chaos — systemic complacency | OK |\n| Oil mixed signals | XLE -2.07%, oil down despite Houthis | OK |\n| China retaliation → semis/defense risk | SMH -1.04%, semis under pressure | OK |\n\nNC 今日掃得全面 — 8 個 calls 全部中方向。唯一 nuance：NC 話 GOOGL 跌 >5% 先係 buying opportunity — 今日 -4% 未到 trigger。\n\n## 🎯 Opportunities Carry Forward\n\n1. **GOOGL @ 355-358** — 如果今晚/聽朝再跌 2%，AI brain drain 有機會係 overreaction。Google search moat + cloud 仍然 intact。Jeff Dean 離開係痛，但唔係致命。$350 係關鍵 support。\n\n2. **AMD @ 470-475** — 41 Buy / 0 Sell consensus 唔會永遠被無視。Lisa Su 嘅 confidence 同 Musk NVDA commitment dismiss 係 real signal。但 momentum 仍然向下，等 weekly support 確認先。\n\n3. **Energy snap-back（XLE）** — XLE -2.07% 今日，但 Houthis 擊中沙特油輪 + 霍爾木茲海峽供應風險仍在。Oil price 同時受和平 deal hope + supply risk 兩邊拉扯。如果 Hormuz deal 未能即時實現，oil 有 snap-back risk。\n\n4. **NVDA — 但小心集中風險** — NVDA 係全市場最強名字（+3.4% ATH），但「全市場得 NVDA 升」本身就係 risk。如果 NFP 聽晚出事，NVDA 會係 profit-taking 首個目標。\n\n## ⚠️ Risks / Watchlist\n\n### 今晚（8月6日 HKT）\n| 時間 | 事件 | 重要性 |\n|------|------|--------|\n| 8:30PM | Initial Jobless Claims（fcst: 202K, prev: 197K） | MEDIUM |\n| 8:30PM | Unit Labour Costs QoQ Prel（fcst: 2.1%, prev: 1.8%） | MEDIUM |\n| 8:30PM | Nonfarm Productivity QoQ Prel（fcst: 0.6%, prev: 0.3%） | MEDIUM |\n| 5:30AM | Fed Musalem Speech | MEDIUM |\n\n今晚無 HIGH impact events — 但 jobless claims 同 unit labour costs 係 NFP 嘅前哨。如果 labour costs 遠高於 2.1% forecast，會加強 Fed hawkish narrative。\n\n### 聽日 NFP Friday（8月7日 HKT 8:30PM）— 本週最重要\n| 時間 | 事件 | 重要性 |\n|------|------|--------|\n| 8:30PM | Non Farm Payrolls（fcst: 80K, prev: 57K） | HIGH |\n| 8:30PM | Unemployment Rate（fcst: 4.2%, prev: 4.2%） | HIGH |\n| 8:30PM | Average Hourly Earnings YoY（fcst: 3.5%） | MEDIUM |\n| 8:30PM | Participation Rate（prev: 61.5%） | MEDIUM |\n| 10:00PM | Fed Barkin Speech | MEDIUM |\n\nNFP forecast 80K vs 57K previous — 市場預期就業市場持續改善。但如果 NFP 遠高於 80K（例如 >120K），Fed Cook 嘅 rate hike talk 會更有說服力 — 呢個係最大 tail risk。如果 NFP 低於 57K，市場會由「soft landing」轉向「hard landing」panic。\n\n### 下週（Aug 11-12）— CPI Week\n- Aug 11: Existing Home Sales（HIGH）\n- Aug 12: CPI YoY + MoM + Core CPI（全 HIGH）— 呢個係 FOMC 前最重要嘅 inflation read\n\n### Systemic Risk — VIX Complacency\nVIX 收 15.81，比尋日更低。GOOGL -4%、AMD -7%、SMH -1%、XLE -2%，但 VIX 跌？呢個唔係 calm — 係 selective blindness。Hedge fund Situational Awareness meltdown + BofA CEO warning shot + China retaliation + Fed rate hike talk，全被無視。Classic late-cycle behavior。\n\n### Overnight Risk\n- GOOGL after-hours reaction 係咪繼續跌？\n- 聽朝亞洲市場反應（GOOGL/AMD 拖累科技股信心）\n- 中東：Houthi tanker strike + Hormuz deal 最新發展\n- China retaliation escalation\n\n## 💡 My Take\n\n**表面平靜，底層洶湧。** SPY 只跌 0.2%、Dow 創新高、VIX 15.81 — 但 GOOGL -4%、AMD -7%、XLE -2%、SMH -1% 被 NVDA +3.4%、DIS +3.6%、LLY +4.9% 完全掩蓋。今日個 market 唔係「冇事發生」，而係「發生咗好多事但互相抵消」。\n\n最重要嘅信號：**market 選擇性無視壞消息。** Fed Cook 明言 ready to hike、hedge fund 爆煲、China retaliation、GOOGL AI 人才流失 — 全部被 record highs 掩埋。NC 今朝嘅核心 thesis「euphoria with foundation cracks」被全面驗證。\n\n**明日 bias：Cautious — NFP 係最大變數。** 如果 NFP 超強（>120K）→ rate hike fear → 呢個 complacency bubble 終於有 trigger 可以爆。如果 NFP 符合預期（80K）→ goldilocks 持續，rotation 繼續。如果 NFP 弱（<50K）→ hard landing fear + VIX spike。\n\n短期策略：等 NFP 過咗先做方向性部署。今晚嘅 jobless claims 同 unit labour costs 係 NFP pre-read — 兩者都值得睇實。GOOGL @ $350-355 係最 interesting 嘅 watch — AI brain drain 有機會被 overplay。",
+      "risks": [
+        "NFP >>120K -> rate hike fear觸發complacency unwind",
+        "VIX complacency (15.81) — hedge fund meltdown + China retaliation全被無視",
+        "GOOGL after-hours繼續跌 -> AI人才流失可能擴散至其他tech",
+        "NVDA集中度風險 — 全市場得NVDA升本身就係risk",
+        "下週CPI (Aug 12) — FOMC前最重要inflation read"
+      ],
+      "my_take": "SPY -0.2% 但底層結構劇烈分化：GOOGL -4%（AI 人才流失）、AMD -7%（earnings 後續沽壓）被 NVDA +3.4%（ATH）、DIS +3.6%、LLY +4.9% 完全掩蓋。VIX 跌至 15.81 反映市場選擇性無視所有壞消息（Fed rate hike talk、hedge fund meltdown、China retaliation）— 典型 late-cycle complacency。\n\nNC 今朝 8 個 calls 全部中方向，尤其 GOOGL AI brain drain、AMD divergence、DIS TikTok catalyst 三個 single-name calls 全部 verify。最 critical 嘅 macro call：「market selectively ignoring bad news」被全面確認。\n\n明日焦點：NFP Friday（fcst 80K vs prev 57K）。如果 NFP >>120K -> rate hike fear 可能終於觸發呢個 complacency bubble。如果 NFP 符合預期 -> goldilocks 持續。GOOGL @ $350-355 係最值得 watch 嘅 opportunity — AI brain drain 可能被 overplay。"
     }
   ],
   "news_curator": [
