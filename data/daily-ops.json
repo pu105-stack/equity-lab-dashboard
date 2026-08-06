@@ -4937,6 +4937,67 @@
         "下週CPI (Aug 12) — FOMC前最重要inflation read"
       ],
       "my_take": "SPY -0.2% 但底層結構劇烈分化：GOOGL -4%（AI 人才流失）、AMD -7%（earnings 後續沽壓）被 NVDA +3.4%（ATH）、DIS +3.6%、LLY +4.9% 完全掩蓋。VIX 跌至 15.81 反映市場選擇性無視所有壞消息（Fed rate hike talk、hedge fund meltdown、China retaliation）— 典型 late-cycle complacency。\n\nNC 今朝 8 個 calls 全部中方向，尤其 GOOGL AI brain drain、AMD divergence、DIS TikTok catalyst 三個 single-name calls 全部 verify。最 critical 嘅 macro call：「market selectively ignoring bad news」被全面確認。\n\n明日焦點：NFP Friday（fcst 80K vs prev 57K）。如果 NFP >>120K -> rate hike fear 可能終於觸發呢個 complacency bubble。如果 NFP 符合預期 -> goldilocks 持續。GOOGL @ $350-355 係最值得 watch 嘅 opportunity — AI brain drain 可能被 overplay。"
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-08-06",
+      "time": "20:08 HKT",
+      "status": "success",
+      "market_direction": "Earnings season selective - beat != rise (DDOG -17%). AI divergence large. Defense+weight-loss drugs most consistent. Warsh lean Fed headwind.",
+      "headlines": [
+        "[NEW] ACTION: DDOG - -17% on beat + raised guidance, classic divergence",
+        "[RECENT] ACTION: MRNA - FDA approved first mRNA flu vaccine",
+        "[NEW] ACTION: DEO - $1B cost-cutting plan, shares +6%",
+        "[NEW] WATCH: INTC - FT \"The deal that saved Intel\" + SoftBank $8.2B gain"
+      ],
+      "opportunities": [
+        "DDOG: -17% post-earnings despite 30% revenue growth, strongest divergence play",
+        "MRNA: First mRNA flu vaccine FDA approval, platform narrative strengthening",
+        "DEO: New CEO turnaround with aggressive cost-cutting catalyst"
+      ],
+      "analysis": "Earnings season selective - beat may not mean rise. DDOG -17% same pattern as AMD. AI theme dominant but individual stock divergence large. Defense tech + weight-loss drug secular trends most consistent.",
+      "risks": [
+        "Warsh maintains lean Fed messaging, risk asset headwind",
+        "Taiwan sticky inflation may trigger Sept rate hike",
+        "Storage sector (WDC/SNDK) weakness may spill over to semis",
+        "Hedge funds exiting tech - market structure shift towards retail"
+      ],
+      "my_take": "DDOG most actionable - 30% revenue growth dropping 17% is classic overreaction unless guidance has hidden landmine. MRNA FDA approval is real catalyst. DEO new CEO turnaround has medium-term upside. Defense + weight-loss drugs two secular trends most consistent.",
+      "key_takeaways": [
+        "DDOG -17% = strongest ACTION divergence play",
+        "MRNA first mRNA flu vaccine FDA approved = genuine catalyst",
+        "DEO new CEO cost-cutting = turnaround play, shares +6%",
+        "INTC \"The deal that saved Intel\" = potential turnaround signal",
+        "Warsh lean Fed + Taiwan inflation = macro headwinds persist"
+      ]
+    },
+    {
+      "pipeline": "Morning Scan",
+      "date": "2026-08-06",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Selective - earnings-driven, beat != rise",
+      "headlines": [
+        "DDOG -17% despite beat + raised guidance",
+        "MRNA FDA approves first mRNA flu vaccine",
+        "DEO +6% on $1B cost-cutting turnaround",
+        "INTC - FT: The deal that saved Intel",
+        "WDC/SNDK crash 10% - storage sector",
+        "BRK earnings TOMORROW",
+        "NFP tomorrow + CPI next Wednesday"
+      ],
+      "focus": [
+        "DDOG post-earnings overreaction",
+        "ABNB/NET earnings AMC",
+        "NFP positioning"
+      ],
+      "analysis": "🌅 Morning Scan — 8月6日（星期四）\n\n## 📰 今日重點頭條\n\n1. **[Investing.com] Datadog sinks 17% despite raised guidance, Q2 beat** — 業績季主題確認：beat ≠ rise。DDOG Q2 revenue +30% YoY、AI demand accelerating、guidance raised，但照樣跌 17%。呢個係今日最重要嘅 single-stock story，關乎成個 SaaS/cloud sector 嘅定價邏輯。（DDOG）\n\n2. **[FT] Diageo boss Lewis launches aggressive $1B cost-cutting** — 新 CEO turnaround play。Spirits sector 經歷咗一段 slow-growth period，cost-cutting catalyst 可以 re-rate。股價 bounce 6% 反映市場 buy-in，medium-term 仲有 upside。（DEO）\n\n3. **[STAT News] FDA approves Moderna's first-ever mRNA flu vaccine** — 真正嘅 FDA approval，唔係 trial result。Moderna narrative 由「COVID one-trick pony」轉向「mRNA platform company」。但要留意：flu vaccine market 本身 crowded（Sanofi、GSK），insurance coverage 未知。（MRNA）\n\n4. **[FT] \"The deal that saved Intel\" + SoftBank $8.2B gain from Intel stake** — FT 用「saved」呢個字 framing 好強。Intel 多年 struggle，如果有 material deal/catalyst，可能係轉折點。軟銀季度 earnings 完全靠 Intel stake beat expectations。（INTC）\n\n5. **[CoinDesk] Sandisk & Western Digital crash 10%** — Storage sector 同時 crash，可能係 earnings miss 或 guidance warning。如果係 demand slowdown signal，要小心 spill over 去 semis（MU 有 NAND exposure）。（WDC/SNDK）\n\n6. **[CNBC] Hadrian valued at nearly $8B after fresh funding** — Defense tech private market 繼續吸金。雖然 Hadrian 係 VC-backed 未上市，但驗證咗 defense spending theme intact。Public defense plays（LMT、NOC、GD、RTX）已 run up 唔少。（DEFENSE）\n\n7. **[FT] Kevin Warsh to stick with lean Fed messaging despite market backlash** — Warsh 繼續保持 hawkish-leaning stance。Risk asset headwind 未解除，但 market 似乎已經 price in。（MACRO）\n\n8. **[Bloomberg] Warner Bros sales fall on loss of NBA, Paramount deal cleared by UK** — WBD 今日 earnings（BMO，est -$0.13）。NBA loss 係 structural negative，但 Paramount deal clearance 係 positive。Complex story。（WBD）\n\n## 🌍 隔夜市場\n\n- **SPY** $769.79 | **QQQ** $717.30 | **DIA** $542.81 | **IWM** $299.77（前收市價，pre-market 未開）\n- **業績季高峰** — 今日係今季最大嘅 earnings day 之一：DDOG（already reported）、ABNB（AMC）、WBD（BMO）、COP、PH、NET、CEG、MNST 等十幾間 notable companies\n- **Warsh Fed lean** 仍然係 risk asset headwind，但市場焦點已由 Fed 轉去 earnings + macro data\n- **NFP 明日** + **CPI 下星期三** — macro calendar 極度密集，市場可能 trade cautiously\n- **Asia overnight** — 台灣 sticky inflation 可能觸發加息（影響 TSM + Asia tech supply chain）；SGX 創紀錄 revenue\n\n## 📈 昨日市場爆升／暴跌榜\n\n*FMP 回報嘅 movers 全部係 micro-cap penny stocks（YXT +801%、RCON -85%、RITR 等），冇任何 large-cap meaningful movers。反映昨日係相對平靜嘅 session，未有 extreme sector rotation 或 broad market panic。*\n\n## 📡 今日重點事件（From macro_calendar.json）\n\n| 時間 (HKT) | 重要性 | 事件 | Previous | Forecast |\n|---|---|---|---|---|\n| 05:30AM | 🟡 MED | Fed Musalem Speech | — | — |\n| 08:30PM | 🟡 MED | Initial Jobless Claims (Aug/01) | 197K | 202K |\n| 08:30PM | 🟡 MED | Unit Labour Costs QoQ Prel (Q2) | 1.8% | 2.1% |\n| 08:30PM | 🟡 MED | Nonfarm Productivity QoQ Prel (Q2) | 0.3% | 0.6% |\n\n**⚠️ 聽日（週五）8:30PM HKT：🔴 NFP + Unemployment Rate（Jul）— 今個月最重要嘅 macro event。**\n**⚠️ 下星期三 8:30PM HKT：🔴 CPI YoY/MoM + Core CPI（Jul）— 更大。**\n\n## 🔥 Sector Watch\n\n- **🟢 SaaS / Cloud（DDOG-led）** — DDOG -17% 係 extreme signal。如果係 single-stock overreaction（guidance 冇 hidden landmine），成個 sector 可能被誤殺，形成 buy-the-dip 機會。但如果 DDOG 嘅 weakness 係因為 enterprise IT spending slowdown，咁 NET（今日 earnings AMC）、CRWD、SNOW 都要小心。\n- **🟢 Defense Tech** — Hadrian $8B valuation 驗證 defense spending theme。Public defense 已 run up 但 trend intact。\n- **🟡 Semis / Storage** — WDC/SNDK -10% 係 risk signal。如果係 demand-related，MU（NAND exposure）同 broader semis 要留意。AMAT 下星期四 earnings 係 sector catalyst。\n- **🟡 Consumer** — DEO +6% 反映 market 對 turnaround stories 有 appetite。WBD 今日 earnings 係 media sector read。\n- **🔴 冇特別 rotation signal** — 昨日 volume 在 micro-caps，大型股未有明顯資金流向。\n\n## 🎯 Pre-market Opportunities（From News Curator Consolidation）\n\n### ACTION — 重點跟進\n\n**1. DDOG — Datadog（-17% post-earnings）**\nNC call：最強 ACTION candidate。30% revenue growth SaaS 跌 17% 係 extreme divergence。\n我嘅分析：今日關鍵係確認 -17% 係 overreaction 定 justified。要睇：1) guidance 係咪低過 whisper number？2) 有冇 margin compression？3) enterprise IT spending 前景 comment。如果純粹係 valuation compression（之前太貴），咁 $103B market cap 嘅 30% grower 係 reasonable entry。但要等 US market open 確認 price action 先。\n**今日部署：WATCH pre-market price action。如果開市後 hold 到 support（唔再跌多過 3-5%），可能係 entry signal。**\n\n**2. MRNA — Moderna（FDA approval catalyst）**\nGenuine FDA approval for new product category。First-mover in mRNA flu market。\n但要小心：flu vaccine market crowded、mRNA cost 高、insurance coverage 未知。呢個唔係即日 trade，係 medium-term catalyst accumulation。\n**今日部署：睇 US market open 反應。如果 gap up 後回調，等 settle 先考慮。**\n\n**3. DEO — Diageo（+6% on cost-cutting plan）**\nNew CEO turnaround。$1B cost-cutting 係 concrete catalyst。Spirits sector 嘅 structural demand 仍然 intact。+6% pop 可能只係第一波。\n**今日部署：WATCH for follow-through。如果今日再有 upward momentum，確認 market buy-in 唔係 one-day pop。**\n\n### WATCH — Catalyst 今日要睇實\n\n- **ABNB（今日 AMC earnings, est $1.20）** — Consumer/tech bellwether。Travel demand read。\n- **WBD（今日 BMO earnings, est -$0.13）** — NBA loss structural negative vs Paramount deal positive。NC 已經 flag 咗。\n- **INTC** — FT deep-dive headline 暗示有 turnaround deal。等待 details。\n- **NET（今日 AMC earnings, est -$0.03）** — Cloudflare 係 DDOG peer，業績會 confirm 或 refute SaaS/cloud weakness theme。\n- **DEFENSE sector** — Hadrian $8B 係 private market validation。留意 public defense plays 會唔會跟住 move。\n\n## 📅 未來一個月業績重點\n\n**呢個星期（Aug 6-13）：**\n| 日期 | Ticker | Market Cap | EPS Est | 備註 |\n|---|---|---|---|---|\n| Thu Aug 6 | DDOG | $103B | $0.13 | ✅ 已 report，beat but -17% |\n| Thu Aug 6 | ABNB | $90B | $1.20 | AMC，consumer travel read |\n| Thu Aug 6 | WBD | $65B | -$0.13 | BMO，media sector bellwether |\n| Thu Aug 6 | COP | $144B | $2.96 | BMO，energy sector |\n| Thu Aug 6 | NET | $107B | -$0.03 | AMC，DDOG peer comparison |\n| **Fri Aug 7** | **BRK.A/BRK.B** | **$1,114B** | **$5.24** | **Buffett！市場一定睇實** |\n| Mon Aug 10 | RKLB 🎯 | $43B | -$0.07 | AMC，tracked ticker |\n| Tue Aug 11 | SE | $68B | $0.78 | BMO，SEA tech |\n| **Wed Aug 12** | **CSCO** | **$480B** | **$0.99** | **Enterprise IT spending read** |\n| **Thu Aug 13** | **AMAT** | **$424B** | **$3.36** | **AMC，semi equipment bellwether** |\n| Thu Aug 13 | BN | $110B | $0.63 | BMO |\n\n**下星期（Aug 18-20）：**\n| 日期 | Ticker | Market Cap | EPS Est |\n|---|---|---|---|\n| Tue Aug 18 | HD | $347B | $4.71 |\n| Wed Aug 19 | ADI | $185B | $3.33 |\n| Wed Aug 19 | TJX | $174B | $1.18 |\n| Wed Aug 19 | LOW | $122B | $4.25 |\n| Wed Aug 19 | TGT | $67B | $2.21 |\n| **Thu Aug 20** | **WMT** | **$888B** | **$0.73** |\n| Thu Aug 20 | DE | $167B | $4.85 |\n\n**關鍵 earnings theme：今個星期係 SaaS/cloud（DDOG, NET）+ consumer（ABNB, WBD）+ 能源（COP）+ Buffett（BRK）。CSCO 下星期三係 enterprise IT spending 嘅最重要 read。AMAT 下星期四係 semis 嘅 direction setter。**\n\n## 📋 Today's Agenda\n\n- **08:30PM HKT** — Jobless Claims + Unit Labour Costs + Productivity → 就業市場健康度嘅 pre-NFP signal\n- **ABNB earnings AMC** — consumer travel demand，影響成個 travel/leisure sector\n- **NET earnings AMC** — DDOG peer read，confirm/refute SaaS weakness theme\n- **WBD earnings BMO** — 已經出咗？留意 market reaction\n- **DDOG price action** — 今日最重要嘅 single-stock story\n- **明日 NFP prep** — 市場可能 already position ahead of Friday's big number\n\n## 💡 My Take\n\n**Overall bias：Cautiously selective — earnings-driven, not macro-driven.**\n\n呢個業績季有一個清晰嘅 pattern：**beat does not equal rise**。DDOG 係今日嘅 poster child。市場唔係 backward-looking（Q2 beat），而係 forward-looking（guidance vs whisper、margin outlook、AI demand trajectory）。呢個環境之下，**post-earnings overreaction 先係最 actionable 嘅 setup** — 唔係 pre-earnings bet。\n\n今日最緊要睇實三樣嘢：\n1. **DDOG price action** — -17% 係咪 overreaction？如果係，可能係成個 SaaS sector 嘅 buy-the-dip signal\n2. **NFP 前夕 positioning** — 市場會唔會 trade cautious ahead of tomorrow's big number？\n3. **Warsh Fed lean** — FT 話 Warsh 堅持 lean messaging，但市場似乎已經 price in。如果今日 jobless claims 高過 202K forecast，可能會 soften rate expectations\n\nBRK 聽日 earnings 係另一個重大 catalyst — Buffett 嘅 portfolio moves 同 cash deployment strategy 會影響成個 market sentiment。\n\nCPI 下星期三係 bigger deal than NFP — 如果 inflation 繼續 sticky，Warsh 嘅 lean stance 有更多 ammunition。相反，如果 CPI 顯示 disinflation trend intact，risk assets 會得到 relief。\n\n**一句總結：Earnings season peak + NFP eve + CPI next week = elevated volatility。Selective on post-earnings overreactions，avoid pre-earnings bets，wait for macro clarity。**\n\n---\n\n*Morning Scan — 2026-08-06 20:30 HKT | Maya 主理 | Data: News Curator #1, FMP, FRED macro calendar, yfinance, news_summary DB*",
+      "risks": [
+        "SaaS sector contagion",
+        "NFP surprise volatility",
+        "Storage crash semis spillover"
+      ],
+      "my_take": "Cautiously selective — earnings-driven, not macro-driven. Beat != rise is the theme. DDOG -17% is the most actionable post-earnings overreaction. NFP tomorrow + CPI next week = elevated volatility week."
     }
   ],
   "news_curator": [
