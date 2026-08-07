@@ -5064,6 +5064,69 @@
         "CLARITY crypto bill vote — regulatory uncertainty"
       ],
       "my_take": "NFP前夕觀望格局，但三條線索清晰：(1) Fed hawkish shift加速 — Musalem表態prefers rate hikes，今晚NFP係裁決；(2) Iran/Hormuz進入condition poker階段，油價+3.47%反映地緣溢價回歸；(3) AI sector divergence sharpening — AMD strategic acquisition vs GOOGL leadership chaos vs MSFT quality rotation。等NFP結果，no pre-positioning。DEO turnaround + AMD AI chip strategy係最clean嘅carry-forward機會。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-07",
+      "time": "20:08 HKT",
+      "status": "success",
+      "market_direction": "NFP Friday — stocks gained ahead of report, oil tumbling on Hormuz de-escalation, Big Tech euphoria returning",
+      "headlines": [
+        "[RECENT] ACTION: MACRO — NFP Friday pivotal catalyst for Warsh Fed",
+        "[RECENT] ACTION: OIL — Crude tumbles, market prices Hormuz de-escalation despite scary headlines",
+        "[RECENT] ACTION: TTD — Earnings miss, -80% from highs",
+        "[RECENT] WATCH: HON — Aerospace -23% on debut report",
+        "[RECENT] WATCH: META — $567M fine, regulatory cascade building",
+        "[NEW] WATCH: TECH — Big Tech storms back, AI fears fade",
+        "[RECENT] WATCH: MU — SK Hynix $38B memory plant",
+        "[NEW] WATCH: MACRO — Trump-Warsh Fed alliance creates risks"
+      ],
+      "opportunities": [
+        "TTD: Post-earnings capitulation or value trap — needs Deep Dive if selloff continues",
+        "OIL: De-escalation trade — headline fear vs price reality divergence"
+      ],
+      "analysis": "NFP dominates. Oil tumbling despite Iran Hormuz ban headlines — market sees negotiating posturing. TTD post-earnings collapse raises capitulation question. HON -23% potential overreaction. META fine financially immaterial but regulatory risk building. Big Tech AI euphoria returning. Yen intervention fading.",
+      "risks": [
+        "NFP surprise could shift rate expectations sharply",
+        "Iran Hormuz situation still fluid — headline risk remains",
+        "Big Tech euphoria may be premature given FCF concerns"
+      ],
+      "my_take": "NFP is the day. Trust oil price action over scary headlines — de-escalation is being priced. TTD Deep Dive candidate. META fine is nothingburger but regulatory drumbeat getting louder.",
+      "key_takeaways": [
+        "NFP 8:30pm HKT — pivotal for Warsh Fed rate path",
+        "Oil tumbling = market pricing Hormuz deal, not war",
+        "TTD -80% from highs, post-earnings capitulation question",
+        "HON -23% potential overreaction, bull case intact",
+        "Big Tech AI euphoria returning — sentiment shift is real"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-07",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish -- NFP binary catalyst",
+      "headlines": [
+        "NFP Friday: consensus 80K vs prev 57K -- July jobs report at 8:30pm HKT",
+        "FOMC Hawkish Hold: 9-3 vote, Hammack/Kashkari/Logan dissent for 25bp hike",
+        "Oil: Hormuz de-escalation talks progress despite scary Iran headlines",
+        "Big Tech euphoria returning -- MSFT +2.54%, AI fears fading",
+        "TTD -80% from highs post-earnings miss -- capitulation or value trap?"
+      ],
+      "focus": [
+        "NFP -- THE binary catalyst today at 8:30pm HKT",
+        "Big Tech -- AI euphoria returning, but rates sensitivity is high",
+        "Energy/Oil -- de-escalation trade vs headline fear",
+        "CSCO + AMAT earnings next week + CPI Wed = volatile week ahead"
+      ],
+      "analysis": "# Morning Scan -- 2026年8月7日（週五）\n\n## Fed Context -- Macro Backdrop\n\n**FOMC 7月29日決策：Hawkish Hold -- 利率維持 3.50-3.75%，但內部分歧加劇**\n\n聯儲局以 9-3 投票維持利率不變。鷹派 dissenters：Hammack、Kashkari、Logan -- 三人全部投票支持加息 25bp。呢個係 Warsh 上任後第一次出現大規模 dissent。Statement 語言明顯轉鷹：\"The Committee will deliver price stability\" -- 唔係 \"seeks\" 而係 \"will deliver\"，措辭強硬。\n\n關鍵 statement 原文：「Economic activity is expanding at a solid pace despite elevated uncertainty... Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy.」\n\n**即係話：** 雖然冇加息，但個方向係明的 -- 如果有數據支持，加息係 on the table。Three hawks already want it now.\n\n**10Y Treasury:** 4.63% -- 高位但平穩，市場未恐慌式定價加息，但亦冇回落迹象。\n\n**今次 NFP 嘅重要性：** 上次 ADP missed（57K vs 預期更高）。如果今日 NFP 再次大幅低於 consensus（80K），會壓低加息預期 → dovish relief → 股市可能反彈。如果 NFP 超預期 + 工資增長強 → 鷹派獲得更多數據支持 → 債息可能再上 → 股市尤其是 growth/tech 會受壓。\n\n**Warsh-Fed 關係：** CNBC 分析指 Trump treats Warsh as ally -- 結構性風險係 Fed independence 被侵蝕。但短期而言，今次 statement 顯示 Warsh 並唔係 Trump 嘅 puppet -- 佢願意 hold 而唔跟鷹派加息，但同時用強硬語言 keep credibility。\n\n**下次 FOMC:** 9月15-16日。距離而家約5個禮拜。中間仲有 8月CPI (8/12)、8月NFP (9/4)。\n\n---\n\n## 今日重點頭條（Raw Headlines）\n\n| # | Headline | Source | Tickers |\n|---|----------|--------|---------|\n| 1 | Dollar on track for weekly gain as traders eye Iran talks, US jobs data | Investing.com | DXY |\n| 2 | Making Sense Of The Current Labor Market | Seeking Alpha | -- |\n| 3 | Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough | OilPrice | USO |\n| 4 | Gaza Ceasefire Unravels as Regional Pressure on Israel Grows | OilPrice | -- |\n| 5 | Why is Corsair Gaming stock surging today? | Investing.com | CRSR |\n| 6 | Volkswagen's controlling families weigh in on restructuring battle | Investing.com | VWAGY |\n| 7 | Sylvamo earnings missed by $0.44, revenue fell short | Investing.com | SLVM |\n| 8 | Millrose commits up to $1.25B for Dream Finders-Beazer deal | Investing.com | DFH, BZH |\n| 9 | Gold Analysis: Smart Money Accumulation After Liquidity Hunt | TradingView | GLD |\n| 10 | Iran Is Playing for Time as Midterms Loom for Trump | OilPrice | -- |\n\n**Theme:** NFP dominates everything。中東局勢 headlines 恐怖但 price action 話 de-escalation。Dollar 強勢。Gold 橫行等 NFP。\n\n---\n\n## 隔夜市場\n\n| Index | Price | Daily Chg | vs 52wk High |\n|-------|-------|-----------|-------------|\n| SPY | $768.56 | -0.16% | -1.1% from $776.85 ATH |\n| QQQ | $714.65 | -0.37% | -4.5% from $748.65 ATH |\n| DIA | $538.19 | -0.85% | -1.6% from $546.75 ATH |\n| VIX | 15.20 | +0.33% | 極低 -- complacency |\n| 10Y | 4.63% | flat | 高位橫行 |\n| USO (Oil) | $118.87 | +3.47% | Hormuz fear premium still baked in |\n| GLD (Gold) | $389.67 | flat | 等 NFP catalyst |\n| UUP (DXY) | $28.19 | -- | Dollar 強勢 |\n\n| Mag7 | Price | Chg% |\n|-------|-------|------|\n| NVDA | $218.99 | -0.10% |\n| AAPL | $312.41 | +0.45% |\n| MSFT | $499.86 | +2.54% |\n| META | $589.90 | +0.19% |\n| AMZN | $272.26 | -0.14% |\n| GOOGL | $357.75 | -1.29% |\n| TSLA | $319.53 | -0.63% |\n\n**Take:** 美股連升幾日後噚日小幅回吐。DIA 最弱（-0.85%）-- Dow 成分股尤其是 financials 同 consumer defensives 拖累。VIX 15.20 係極低水平 -- 市場完全未定價 NFP 風險。QQQ 距離 ATH 最遠（-4.5%），反映 tech 雖然反彈但未收復晒失地。MSFT +2.54% 一枝獨秀，GOOGL -1.29% 係唯一明顯下跌嘅 Mag7。\n\n---\n\n## 昨日市場爆升／暴跌榜\n\n**爆升榜：** 全部係 micro-cap / China small-cap / 低流通性嘅名 -- XHLD +252%、WYHG +194%、CLRO +166%、AMEM +116%、CELZ +71%。呢啲唔係 institutional flow，係 retail / 事件驅動，冇跟進價值。\n\n**暴跌榜：** YXT -66%（中國 SaaS）、TDUP -50%（二手衫電商，earnings miss）、APPX -39%（2x leveraged ETF，跟 APP 跌）、BLLN -38%（BillionToOne，可能係 lockup expiry）、UWMC -34%（mortgage 股，息口敏感）。\n\n**活躍榜：** ENSC、SURG、CELZ -- 全部都係低價 penny stock，冇 sector theme。\n\n**誠實講：** 今日 FMP movers 嘅頭5名全部都係噪音 -- micro-cap、China IPO、低流通量。真正值得睇嘅係成交量榜上有名嘅 SPCX（Space ETF）+6.14%。對於 institutional context，呢啲數據今日冇特別 signal。\n\n---\n\n## 今日重點事件（8月7日週五）\n\n**全部來自 macro_calendar.json -- source of truth：**\n\n| 時間 (HKT) | 重要性 | 事件 | Previous | Forecast |\n|------------|--------|------|----------|----------|\n| 08:30PM | HIGH | Non Farm Payrolls (Jul) | 57K | 80K |\n| 08:30PM | HIGH | Unemployment Rate (Jul) | 4.2% | 4.2% |\n| 08:30PM | MED | Average Hourly Earnings YoY (Jul) | 3.5% | 3.5% |\n| 08:30PM | MED | Average Hourly Earnings MoM (Jul) | 0.3% | 0.3% |\n| 08:30PM | MED | Participation Rate (Jul) | 61.5% | -- |\n| 10:00PM | MED | Fed Barkin Speech | -- | -- |\n\n**下星期 HIGH events：**\n- Tue 8/11 10PM -- Existing Home Sales (Jul)\n- Wed 8/12 8:30PM -- CPI YoY / Core CPI (Jul)（下星期最重要！）\n- Thu 8/13 8:30PM -- PPI MoM (Jul)\n- Fri 8/14 8:30PM -- Retail Sales MoM (Jul)\n- Fri 8/14 10PM -- Michigan Consumer Sentiment Prel (Aug)\n\n**本週 macro theme：NFP Friday + 下星期 CPI = 一星期內有兩個 tier-1 macro catalysts。** 市場波動率會喺今日 NFP 之後再喺星期三 CPI 被放大。Warsh Fed 嘅鷹派 hold 背景令每一個數據都變成潛在 trigger。\n\n---\n\n## Sector Watch\n\n**噚日 sector performance（NASDAQ）：**\n\n| Sector | Chg | Signal |\n|--------|-----|--------|\n| Technology | +1.44% | Leading -- Big Tech comeback story |\n| Industrials | +0.75% | Steady |\n| Energy | +0.12% | Flat -- oil mixed signals |\n| Consumer Cyclical | +0.05% | Flat |\n| Communication Services | -0.28% | GOOGL dragging |\n| Financial Services | -0.60% | Rate sensitive weakness |\n| Healthcare | -0.87% | Defensive rotation out |\n| Consumer Defensive | -1.23% | Risk-on → 棄防守 |\n| Basic Materials | -1.39% | Weak |\n| Utilities | -3.49% | Destroyed -- yield proxy unwinding |\n\n**Rotation signal 好清晰：** Risk-on rotation in progress。Tech 領先，Utilities 被抛棄。呢個係 classic「growth over value」rotation -- 同 Bloomberg 嘅 headline \"Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes\" 完全一致。\n\n**但要注意：** 呢個 rotation 係喺 10Y 仲係 4.63% 高位嘅情況下發生。如果 NFP 強勁推高債息，呢個 trade 可以即刻 reverse。Tech/growth 對利率極敏感。\n\n---\n\n## Pre-market Opportunities（From News Curator + Raw Headlines）\n\n**ACTION -- Oil De-escalation Trade**\nNC 指出 Hormuz 談判有進展，雖然 headlines 仍然恐怖（Iran drafting ban on US/Israel ships），但市場正在 pricing in de-escalation。Oil 嘅 scary headlines 係 negotiating posturing，唔係 real threat。USO 仲喺 $118.87 -- 如果今日 NFP 後冇新 shock，oil 可能繼續回調。Energy sector 嘅 outperformance 可能已經計咗太多 risk premium。\n\n**ACTION -- NFP Trade**\n今日唯一真正嘅 catalyst。Consensus 80K vs previous 57K。ADP 已經 miss。Scenario analysis:\n- NFP > 100K + wage growth hot → 鷹派 narrative 加強，10Y 可能衝 4.8%+，tech 會受壓。Short QQQ / long financials 可能 work。\n- NFP < 60K（連續第二個月 weak）→ 加息預期急降，dovish relief rally。Long QQQ / tech。\n- NFP around 80K + wages in line → 最 boring scenario，市場繼續而家嘅 trend -- tech leads, utilities bleed。\n\n**WATCH -- TTD（Trade Desk）-80% from highs**\nEarnings miss + weak guidance。問題：係 capitulation 定 value trap？META 同 GOOGL 嘅 ad business 仍然健康，TTD 嘅問題似乎係 company-specific。但 -80% 係咪跌過龍？如果係 Deep Dive candidate，NC 建議等 further selloff 先入。\n\n**WATCH -- HON（Honeywell Aerospace）-23%**\nPost spin-off 首份 standalone report 就出事 -- supply snarls + gloomy guidance。247wallst 話 bull case intact，但 aerospace supply chain 嘅 turnaround 唔會係一個 quarter 嘅事。Catching a falling knife here 係高風險。\n\n**WATCH -- Big Tech Euphoria**\nBloomberg 話 AI fears fading、euphoria resuming。MSFT 噚日 +2.54% 領先。但要小心：上星期先講完 FCF concerns，今個星期就變返 euphoria -- 呢個 sentiment swing 太快。NFP 同 CPI 會係真正嘅 test。\n\n---\n\n## 未來一個月業績重點\n\n**呢個星期（8/10-8/14）：**\n| Date | Ticker | Cap | EPS Est | Note |\n|------|--------|-----|---------|------|\n| Mon 8/10 | RKLB | $43B | -$0.07 | Rocket Lab -- space sector bellwether |\n| Mon 8/10 | SPG | $73B | $3.18 | 商場 REIT -- consumer health signal |\n| Tue 8/11 | SE | $70B | $0.78 | Sea Ltd -- Southeast Asia tech |\n| Wed 8/12 | CSCO | $479B | $0.99 | 巨企 earnings + 同一天 CPI！ |\n| Thu 8/13 | AMAT | $419B | $3.36 | 半導體設備 -- AI capex 嘅下游 signal |\n| Thu 8/13 | BN | $108B | $0.63 | Brookfield -- alt asset manager |\n| Thu 8/13 | NU | $69B | $0.20 | NuBank -- LatAm fintech |\n\n**下星期（8/18-8/21）：**\n| Date | Ticker | Cap | EPS Est | Note |\n|------|--------|-----|---------|------|\n| Tue 8/18 | HD | $349B | $4.71 | Home Depot -- housing/consumer health |\n| Wed 8/19 | ADI | $184B | $3.33 | Analog Devices -- semi cycle check |\n| Thu 8/20 | WMT | $892B | $0.73 | Walmart -- 全球最大 retailer，consumer pulse |\n| Thu 8/20 | DE | $166B | $4.85 | Deere -- ag/farm economy |\n| Thu 8/20 | ROST | $82B | $1.91 | Ross Stores -- discount retail |\n\n**重點：** 未來兩星期係 semi + consumer 嘅業績密集期。CSCO + AMAT 會反映 enterprise IT spending + semi equipment demand。WMT + HD + ROST 會話俾你知 consumer 嘅真實狀況。CPI 喺 8/12 同 CSCO earnings 撞正同一日 -- 嗰日會係今個月最 volatile 嘅交易日。\n\n---\n\n## Today's Agenda\n\n- 08:30PM HKT -- NFP 出爐。成個 market 等緊呢個。\n- 10:00PM HKT -- Barkin speech（NFP 後第一個 Fed voice -- 睇佢點 frame 個數字）\n- SPY levels: Support $760（50MA附近）、Resistance $776.85（ATH）\n- QQQ levels: Support $700（心理關口）、Resistance $748.65（ATH）\n- 本週末 -- 中東局勢可能喺週末有新發展，星期五持倉要考慮 weekend gap risk\n\n---\n\n## My Take\n\n**Overall bias: Cautiously bullish，但今日 NFP 係 binary catalyst。**\n\nBull case: 經濟 activity \"expanding at solid pace\"（FOMC 原文）、Big Tech comeback、AI fears fading。10Y 雖然高位但穩定，市場消化咗 higher-for-longer。\n\nBear case: FOMC 內部鷹派 dissent 加劇（3 vs 9）、NFP 可能 overshoot 推高加息預期、VIX 太低冇定價 risk、oil 嘅 Hormuz risk premium 可以隨時 reversal。\n\n**My view:** 今日核心係 NFP。喺數據出嚟之前，任何 pre-positioning 都係賭博。但我傾向認為 consensus 80K 係合理 -- 57K 太極端，回歸均值係大概率。如果 NFP 喺 70-100K 範圍 + wages in line，市場會 take it as \"Goldilocks\" -- 經濟唔太熱唔太凍，Fed hold 係正確決定。呢個 scenario 下 tech 會繼續 outperform。\n\n**但如果 NFP > 120K** -- 嗰 3 個鷹派 dissenters 會變得有說服力，9月加息預期會由 0% 變 20%+，tech 會即刻 reversal。\n\n**今日最緊要睇實：** NFP headline + unemployment rate（8:30PM），然後 Barkin 點樣 spin 個數字（10PM）。如果 Barkin 用強硬語氣解讀數據，就算數字溫和都唔好掉以輕心。\n\n**改變我 thesis 嘅條件：** NFP < 40K 連續第二個月極弱 → recession fear 取代 inflation fear，Fed 下一步可能係減息而唔係加息，成個 macro narrative 會翻轉。\n\nNFP drops in ~10 minutes after this report.\n",
+      "risks": [
+        "NFP overshoot (>120K) could trigger rate hike repricing + tech selloff",
+        "VIX at 15.20 -- extreme complacency for a binary event day",
+        "FOMC hawkish dissent (9-3) signals September hike is real possibility",
+        "Hormuz headlines can reverse oil trade instantly on weekend news"
+      ],
+      "my_take": "Cautiously bullish ahead of NFP. Core view: NFP 70-100K with stable wages = Goldilocks = tech continues to lead. But 3 FOMC hawks already want a hike -- any strong NFP print gives them ammunition. VIX at 15 is too complacent for a binary event day."
     }
   ],
   "news_curator": [
