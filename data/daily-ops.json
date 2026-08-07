@@ -4998,6 +4998,72 @@
         "Storage crash semis spillover"
       ],
       "my_take": "Cautiously selective — earnings-driven, not macro-driven. Beat != rise is the theme. DDOG -17% is the most actionable post-earnings overreaction. NFP tomorrow + CPI next week = elevated volatility week."
+    },
+    {
+      "pipeline": "NewsAnalyst-NewsCurator",
+      "date": "2026-08-07",
+      "time": "08:18 HKT",
+      "status": "success",
+      "market_direction": "SPY -0.16% near ATH, QQQ -0.37% at 50d MA, USO +3.47% on Iran/Hormuz talks, Fed hawkish signals rising",
+      "headlines": [
+        "[NEW] WATCH MACRO: Fed Musalem prefers rate hikes -- Friday NFP critical",
+        "[RECENT] WATCH Iran/Hormuz: deal close but Iran imposes harsh conditions -- oil +3.5%",
+        "[RECENT] ACTION AMD: acquires AI chip startup for hardwired inference -- stock +1.5%",
+        "[RECENT] ACTION DEO: $1B cost-cut + Guinness ramp confirmed -- stock +5% second day"
+      ],
+      "opportunities": [
+        "AMD: hardwired AI chip acquisition opens NVDA-alternative path",
+        "DEO: turnaround thesis confirmed by market, CEO cost-cutting + Guinness growth",
+        "MRNA: FDA approval of mRNA flu vaccine confirmed, new revenue stream"
+      ],
+      "analysis": "US session dominated by Fed hawkish signals (Musalem prefers rate hikes) and Iran/Hormuz negotiation developments (deal close but Iran imposing conditions). Oil +3.47%. GOOGL undergoing AI power shift (Brin takes over from Hassabis) with $25B bond sale. AMD acquiring AI chip startup for hardwired inference. Trump issuing 15% polysilicon tariffs. Gold breaking higher but still below 200d MA. Friday NFP is the key macro catalyst.",
+      "risks": [
+        "Fed hawkish repricing risk: Musalem + Warsh both signaling tighter stance",
+        "NFP could trigger rate hike expectations leading to growth/tech sell-off",
+        "Iran/Hormuz deal conditions could prolong oil supply uncertainty",
+        "GOOGL AI organizational chaos weakens competitive position vs MSFT/OpenAI"
+      ],
+      "my_take": "Three themes: (1) Fed hawkish shift accelerating -- NFP Friday is make-or-break, (2) Iran/Hormuz entering condition-negotiation phase -- oil risk premium returning, (3) AI sector diverging -- AMD hardware innovation vs GOOGL organizational chaos vs TSLA market indifference. Biggest risk is rate hike repricing triggering tech sell-off. Biggest opportunity is AMD hardwired AI strategy as NVDA alternative.",
+      "key_takeaways": [
+        "Fed Musalem explicitly prefers rate hikes -- hawkish signal strengthening",
+        "Iran/Hormuz deal close but with harsh conditions -- oil +3.5% repricing risk",
+        "AMD AI chip acquisition is strategic -- hardwired inference as NVDA alternative",
+        "GOOGL AI power struggle: Brin returns, Hassabis exits, $25B bond needed",
+        "Friday NFP is the pivotal macro event this week"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-07",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "NFP前夕觀望 — Fed hawkish shift加速，Iran/Hormuz溢價回歸，AI sector內部分化。今晚NFP係決定性催化劑。",
+      "headlines": [
+        "Fed Musalem prefers rate hikes + meaningful restraint — NFP tonight pivotal",
+        "Iran/Hormuz: harsh conditions (ban US/Israeli ships) — oil +3.47%",
+        "Trump 15% polysilicon tariff targets China solar/electronics",
+        "AMD acquires AI chip startup for hardwired inference — +1.50%",
+        "GOOGL: Brin returns, Hassabis exits, $25B bond — AI chaos -1.29%",
+        "DEO turnaround confirmed: +4.94% second day on new CEO cost-cut plan",
+        "MRNA: FDA flu vaccine approval but sell the news -4.26%",
+        "MSFT +2.54%: defensive mega-cap rotation, Mag 7 divergence",
+        "NFP tonight 8:30pm HKT — forecast 80K vs prior 57K"
+      ],
+      "opportunities": [
+        "DEO: Turnaround thesis validated, 50d MA breakout confirmed, target $100-$116",
+        "AMD: AI hardwired inference acquisition strategic, watch 50d MA ($512.95) break",
+        "MSFT: Quality mega-cap, NFP hedge, AI monetization clearer than peers",
+        "SHOP: Record results, upgrade from NOTE to WATCH for follow-up"
+      ],
+      "analysis": "## Fed Context -- Macro Backdrop\n\n本週Fed焦點：Musalem周四明確表態「prefers to raise rates」，呼籲「meaningful restraint」對抗通脹。呢個唔係isolated incident — 配合Warsh上任後嘅lean Fed messaging，市場由expecting rate cuts轉向pricing rate hikes。Real Clear Markets更出文質疑「Warsh Is Way Behind The Curve」— Fed credibility正在被市場考驗。\n\n今晚NFP（8:30pm HKT）係決定性催化劑。Forecast 80K vs Previous 57K。如果NFP > 100K → rate hike expectations surge → growth/tech stocks under pressure。如果NFP < 50K → Fed credibility被打擊，但paradoxically可能俾市場breathing room。Neither outcome is cleanly bullish.\n\n下次FOMC：Sep 15-16（有SEP + press conference）。Jul 28-29會議已過，market仍在消化Warsh regime change嘅影響。Fed funds rate currently 3.50-3.75%。\n\nFOMC Schedule：Done — Jan 27-28, Mar 17-18*, Apr 28-29, Jun 16-17, Jul 28-29. Next: Sep 15-16. Also: Oct 27-28, Dec 8-9.\n\n---\n\n## 📰 今日重點頭條（Raw Headlines + NC cross-reference）\n\n1. **Fed Musalem：「prefers to raise rates」+「meaningful restraint」— NFP tonight is pivotal** [Bloomberg, 8/6 23:11]\n   -> NC captured (WATCH MACRO #1). This is THE macro story.\n\n2. **Iran/Hormuz deal approaching but Tehran imposes harsh conditions：ban US/Israeli ships, charge tolls — oil +3.47%** [CBS/NPR, 8/6]\n   -> NC captured (WATCH Iran/Hormuz). 3-day story evolving from \"deal optimism\" to \"condition poker.\"\n\n3. **Trump issues 15% polysilicon tariff + price floors, targeting China solar/electronics dominance** [NYT, 8/6 21:53]\n   -> NC captured (WATCH MACRO #2). Fresh tariff, market just digesting.\n\n4. **AMD acquires AI chip startup for hardwired inference — stock +1.5%** [CNBC, 8/6 21:42]\n   -> NC captured (ACTION AMD). Strategically significant as NVDA alternative.\n\n5. **GOOGL：Brin reclaims AI power, Hassabis exits, $25B bond sale to fund AI cash burn — stock -1.29%** [FT, 8/6]\n   -> NC captured (WATCH GOOGL). AI leadership chaos + massive spending = market skeptical.\n\n6. **DEO follow-up：new CEO $1B cost-cut plan gains market confidence — stock +4.94% second day** [FT, 8/6]\n   -> NC captured (ACTION DEO). Turnaround thesis validated, sustained strength.\n\n7. **MRNA：FDA approves first mRNA flu vaccine — stock -4.26% (sell the news)** [CBS, 8/6]\n   -> NC captured (ACTION MRNA). FDA confirmation = priced in.\n\n8. **TSLA：$16.8B Texas Terafab chip factory begins construction, stock ignores, below 200d MA** [TechCrunch, 8/6]\n   -> NC captured (NOTE TSLA). Bear trend dominates.\n\n9. **SHOP：Shopify surges after record results** [TradingView, 8/6]\n   -> NC captured (NOTE SHOP). Worth upgrading to watchlist.\n\n10. **CRYPTO：CLARITY bill Senate vote this week, BTC near $64K awaiting outcome** [Cointelegraph, 8/6]\n    -> NC captured (NOTE CRYPTO). Regulatory clarity catalyst pending.\n\n---\n\n## 📊 Market Recap — Aug 6 US Session\n\n| Index | Close | Change | Signal |\n|-------|-------|--------|--------|\n| SPY | $768.56 | -0.16% | 橫行近ATH，NFP前夕觀望 |\n| QQQ | $714.65 | -0.37% | 貼近50d MA，tech偏軟 |\n| DIA | $538.19 | -0.85% | Dow領跌，defensive rotation not today |\n| IWM | $298.25 | -0.51% | Small caps跟跌 |\n| VIXY | $19.53 | -1.21% | VIX微跌，恐慌未升 |\n\n**Sector Performance：**\n- XLE +1.48% — 能源領漲，Iran/Hormuz溢價回歸\n- SMH +0.31% — 半導體微升，AMD acquisition撐住\n- XLC +0.28% — 通訊服務（GOOGL拖累但META/MSFT撐）\n- XLB -0.89% — 原物料最弱\n- XLRE -0.86% — 房地產偏軟\n- XLI -0.85% — 工業下跌\n- DIA -0.85% — Dow Jones最弱，成分股rotation out\n\n**Breadth signal：** NFP前夕嘅典型觀望格局。冇panic，冇euphoria。SPY成交量偏低，市場等緊今晚8:30pm嘅裁決。\n\n---\n\n## 🔥 Notable Movers\n\n**DEO $92.80（+4.94%）— Turnaround thesis confirmed**\n連續第二日大升。新CEO Dave Lewis嘅$1B cost-cut + canned cocktails/Guinness戰略獲市場認可。清晰突破50d MA（$82.74），下個阻力$100-$116。NC #1嘅ACTION call完全正確，sustained strength confirms catalyst.\n\n**USO $118.87（+3.47%）— Iran condition poker pushes oil higher**\n伊朗提出harsh conditions（ban US/Israeli ships、charge tolls），市場由「deal optimism」轉向「condition negotiation phase」。Oil repricing geopolitical risk premium。但故事已3日，freshness declining。\n\n**MSFT $499.86（+2.54%）— Defensive mega-cap rotation**\nMag 7中最強。資金在NFP前夕轉向quality mega-cap。MSFT相對GOOGL/META更defensive — AI monetization clearer（Copilot, Azure）。\n\n**AMD $489.28（+1.50%）— AI chip acquisition strategic**\n收購AI chip startup做hardwired inference — 直接挑戰NVDA GPU霸權。低於50d MA（$512.95）但above 200d（$313）。Strategic significance > immediate financial impact。\n\n**MRNA $53.86（-4.26%）— Sell the news**\nFDA批准mRNA flu vaccine但股價照跌。Typical「buy the rumor, sell the news」。市場已priced in approval。需要等first full quarter sales data先有下一個catalyst。\n\n**GOOGL $357.75（-1.29%）— AI leadership chaos**\nBrin returns、Hassabis exits、$25B bond sale — 三重不確定性。Market skeptical about AI strategy coherence。貼近50d MA（$358.43），如果跌穿有進一步下行風險。\n\n**DIA $538.19（-0.85%）— Dow最弱**\n有趣：平時risk-off時Dow outperforms，今日Dow領跌。可能係成分股specific（XLI -0.85%, XLB -0.89%）而非macro call。\n\n---\n\n## 📰 News That Mattered — NC Calls Audit\n\n**DEO ACTION — 中（+4.94%）**：NC #1 call完全正確。Turnaround thesis validated with sustained strength。\n\n**Iran/Hormuz WATCH — 中**：NC #1/#2都call咗oil watch。USO +3.47%反映condition negotiation phase。\n\n**Musalem WATCH — 中**：NC #2 call咗NFP pivotal。今晚就係裁決日。\n\n**AMD ACTION — 方向啱但力度溫和**：+1.50%唔算強，仍低於50d MA。Strategic significance acknowledged but market waiting for details。\n\n**MRNA ACTION — 錯失sell-the-news風險**：NC call咗FDA approval係positive，但冇flag「priced in」risk。實際-4.26%。\n\n**GOOGL WATCH — 方向啱**：-1.29%反映AI chaos。但NC冇預計到MSFT +2.54%嘅divergence — Mag 7 internally rotating。\n\n**Raw headlines NC冇cover到：**\n- MSFT +2.54% 強勢（defensive tech rotation angle未被NC capture）\n- SHOP +2.22% record results（NC只係NOTE，但值得upgrade）\n\n---\n\n## 🎯 Opportunities Carry Forward\n\n### DEO — Turnaround thesis validated, trend continuation\n$92.80，突破50d MA（$82.74）confirmed。$1B cost-cut + new CEO strategy gaining traction。Resistance zone $100-$116。如果NFP唔係disaster，consumer staples turnaround有continuation空間。\n\n**Bull case：** New CEO execution + Guinness global ramp = multi-quarter re-rating。\n**Bear case：** Consumer slowdown風險、USD強勢影響international revenue。\n**My view：** 值得跟進。連續兩日大升+volume confirmation = 唔係noise。\n\n### AMD — Hardwired AI chip as NVDA alternative\n$489.28，低於50d MA（$512.95）。收購AI chip startup係strategic move — hardwired inference vs GPU general-purpose。如果technology validates，係significant re-rating catalyst。\n\n**Bull case：** AI inference TAM expanding beyond GPU, AMD positioned as alternative。\n**Bear case：** Integration risk，NVDA CUDA moat仍然強勁，acquisition details unclear。\n**My view：** WATCH。等突破50d MA（$512.95）先confirm trend change。\n\n### MSFT — Defensive mega-cap, NFP hedge\n$499.86（+2.54%），Mag 7中最強。Azure AI monetization clearer than peers。如果NFP hot → rate hike fear → rotation to quality mega-cap可能加速。\n\n**My view：** MSFT係NFP event嘅natural hedge — 無論NFP結果點，quality + AI monetization = relative safety。\n\n### SHOP — Upgrade from NC NOTE to WATCH\n$147.44（+2.22%），record results。NC只係NOTE，但值得upgrade。E-commerce platform demand strong。需要更多fundamental detail（revenue growth, guidance, margins）。\n\n---\n\n## ⚠️ Risks / Watchlist\n\n### NFP Tonight（8:30pm HKT）— THE Binary Event\n| Scenario | NFP | Market Impact |\n|----------|-----|---------------|\n| Hot | >100K | Rate hike pricing surge -> growth/tech sell-off, DXY up, TLT down |\n| In-line | 70-90K | Mild positive — soft landing narrative intact |\n| Miss | <50K | Fed credibility hit, but paradoxically risk-on（rate hike fear eases）|\n\n**Musalem + Warsh jointly signaling hawkish。** Strong NFP = rate hike expectations surge。呢個係本週最大tail risk。\n\n### Iran/Hormuz weekend risk\n談判進入condition poker階段。伊朗要求ban US/Israeli ships係serious demand。如果weekend有breakdown → oil gap up Monday。USO +3.47% already pricing some risk。\n\n### Polysilicon tariff ripple effects\n15% tariff + price floors直接target中國。Solar/clean energy stocks可能受壓。Domestic polysilicon producers受惠。需要specific tickers先可以action。\n\n### CLARITY crypto bill vote\nSenate vote this week。Passage = regulatory clarity positive for BTC/COIN。但如果bill provisions有surprises → volatility。\n\n### GOOGL 50d MA test\n$357.75貼近50d MA（$358.43）。如果跌穿 → 進一步下行至200d MA。AI leadership chaos + $25B bond = market patience thinning。\n\n---\n\n## 💡 My Take\n\n今日係NFP前夕嘅典型觀望格局 — SPY近乎flat，volume偏低，冇人想pre-position。但below the surface有三條重要線索：\n\n1. **Fed hawkish shift is accelerating** — Musalem's「prefers to raise rates」係game changer。配合Warsh lean Fed messaging，市場正在由rate cut hope轉向rate hike fear。今晚NFP係裁決 — strong NFP = rate hike expectations surge = growth/tech under pressure。\n\n2. **Iran/Hormuz entering dangerous phase** — 由「deal optimism」轉向「condition poker」。伊朗要求ban US/Israeli ships係serious escalation risk。Oil +3.47%反映市場repricing geopolitical premium。Weekend risk要留意。\n\n3. **AI sector divergence sharpening** — AMD（+1.5%，hardwired inference strategy）vs GOOGL（-1.29%，AI leadership chaos）vs MSFT（+2.54%，quality mega-cap rotation）vs TSLA（-0.63%，bear trend ignores good news）。AI theme仍然dominant但stock selection is everything。\n\n**Tonight's bias：** 等NFP。No pre-positioning。如果NFP hot → growth/tech sell-off但MSFT/DEO相對safety。如果NFP miss → risk-on但Fed credibility questioned — paradoxical但short-term bullish for equities。\n\n**Biggest opportunity carry forward：** DEO turnaround continuation + AMD AI chip strategic play。兩個都唔係dependent on NFP outcome。\n\n**Biggest risk：** NFP >100K trigger rate hike repricing → broad equity sell-off。",
+      "risks": [
+        "NFP >100K -> rate hike expectations surge -> broad equity sell-off",
+        "Iran/Hormuz weekend breakdown -> oil gap up Monday",
+        "GOOGL testing 50d MA ($358.43) -> breakdown risk",
+        "Polysilicon tariff ripple effects on solar/clean energy",
+        "CLARITY crypto bill vote — regulatory uncertainty"
+      ],
+      "my_take": "NFP前夕觀望格局，但三條線索清晰：(1) Fed hawkish shift加速 — Musalem表態prefers rate hikes，今晚NFP係裁決；(2) Iran/Hormuz進入condition poker階段，油價+3.47%反映地緣溢價回歸；(3) AI sector divergence sharpening — AMD strategic acquisition vs GOOGL leadership chaos vs MSFT quality rotation。等NFP結果，no pre-positioning。DEO turnaround + AMD AI chip strategy係最clean嘅carry-forward機會。"
     }
   ],
   "news_curator": [
