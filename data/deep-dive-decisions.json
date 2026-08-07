@@ -1,4 +1,82 @@
 {
-  "decisions": [],
-  "last_synced": "2026-08-01T12:16:14.028876+08:00"
+  "decisions": [
+    {
+      "ticker": "LLY",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Zepbound/Mounjaro demand exploding, Q2 revenue +48% YoY, 2026 guidance raised from $82-85B to $85-87B. GLP-1 is structural growth, not cyclical. Valuation not cheap but growth fully supports it. Market says weight-loss drug demand is \"nearly limitless\" — NC confirmed ACTION for two consecutive days. Any pullback is a buying opportunity.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "CAT",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Q2 profit jump — power + construction equipment demand strong, industrial bellwether directly confirming macro demand strength. Infrastructure spending tailwind + reshoring trend is multi-year structural support. NC Aug 4 ACTION call confirmed. No major unresolved risk.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Bull: Brin reclaims AI leadership (founder-driven strategy vs DeepMind bureaucracy), $25B bond is just refueling not distress signal, $514B backlog + search moat intact, cloud revenue still growing. Bear: Jeff Dean exits (Google AI linchpin), Hassabis steps down, 4 top researchers form startup — AI brain drain is structural risk not normal turnover. Stock near 50d MA ($358), $25B bond + AI shakeup makes market skeptical. If decline deepens to 5%+, could be overreaction buying opportunity.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "DEO",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "New CEO \"Drastic Dave\" Lewis launches $1B cost-cutting plan + Guinness ramp, stock up +5-6% on two consecutive days, clearly broken above 50d MA. Spirits sector experienced prolonged slow-growth period, cost-cutting catalyst can re-rate the entire valuation. NC #2 confirmed second-day follow-through = market buy-in is real.",
+      "source": "OPPORTUNITY"
+    },
+    {
+      "ticker": "MRNA",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Bull: FDA approval of first-ever mRNA flu vaccine — genuine regulatory catalyst, not trial result. Narrative shifting from \"COVID one-trick pony\" to \"mRNA platform company\", $3-6B TAM opens, reducing COVID dependency is structural positive. Bear: Flu vaccine market already crowded (Sanofi, GSK), mRNA costs high, insurance coverage unknown. Need first full quarter sales data to confirm commercial traction.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "DDOG",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Bull: Q2 revenue +30% YoY, AI demand accelerating, guidance raised — but still dropped 17%. This is the most extreme divergence of earnings season. If no hidden landmine (guidance below whisper number), -17% is classic overreaction. Bear: SaaS/cloud sector valuation compression, market rotating from growth to value, DDOG high multiple may be repriced. \"Beat does not equal rise\" is the theme this quarter. Need guidance call details + price action confirmation.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Bull: US virtually depleted all long-range missiles in Iran war — restocking cycle is multi-quarter structural tailwind. Hadrian valued at nearly $8B confirms private market defense demand. LMT deep dive Phase 0: defense supercycle confirmed by FOMC Middle East language. Bear: Defense stocks have already run up significantly, partially priced in. Iran ceasefire/de-escalation may reduce urgency premium. RTX/NOC similarly benefit.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "HON",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Honeywell Aerospace first standalone report -23% — supply snarls + gloomy guidance sent stock to Wall Street penalty box. While 247wallst says bull case remains intact, catching a falling knife in aerospace supply chain is extremely high risk. Supply chain issues are operational not cyclical — needs time to resolve. No compelling near-term upside catalyst.",
+      "source": "RISK"
+    },
+    {
+      "ticker": "TSLA",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "$16.8B Texas Terafab chip factory construction begins but stock completely ignores — still far below 50d MA ($389) and 200d MA ($411). Bear trend dominates. In-house chip strategy is directionally correct but market does not care. Needs delivery/profit surprise to shift momentum. Currently dead money.",
+      "source": "RISK"
+    },
+    {
+      "ticker": "AMD",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Bull: DC revenue +107% YoY ($6.7B, 58% of total), Wall Street consensus 41 Buy 0 Sell, Lisa Su dismisses Musk NVDA commitment, hardwired AI acquisition path is NVDA alternative. Bear: Stock still dropped 8% post-earnings, \"beat does not equal rise\" pattern, AI capex concentration risk (single-customer concern), still below 50d MA. Pullback opportunity but need technical stabilization first.",
+      "source": "WATCH"
+    },
+    {
+      "ticker": "DIS",
+      "status": "deep_dive",
+      "updated_at": "2026-08-07",
+      "reasoning": "Year-long underperformer finally shows turnaround evidence — Q3 beat with parks + streaming both firing. Toy Story 5 catalyst, TikTok content deal signed, considering free ad-supported streaming tier — all incremental positive catalysts. DIA at record high confirms market rotating to value/cyclical, DIS is a direct beneficiary.",
+      "source": "OPPORTUNITY"
+    }
+  ],
+  "last_synced": "2026-08-08T06:07:57.690947+08:00"
 }

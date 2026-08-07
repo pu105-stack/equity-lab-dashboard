@@ -5127,6 +5127,38 @@
         "Hormuz headlines can reverse oil trade instantly on weekend news"
       ],
       "my_take": "Cautiously bullish ahead of NFP. Core view: NFP 70-100K with stable wages = Goldilocks = tech continues to lead. But 3 FOMC hawks already want a hike -- any strong NFP print gives them ammunition. VIX at 15 is too complacent for a binary event day."
+    },
+    {
+      "pipeline": "weekly_screen",
+      "date": "2026-08-08",
+      "time": "06:07 HKT",
+      "status": "success",
+      "market_direction": "SPY consolidating near highs, Fed hawkish shift accelerating but market complacency evident. NFP is pivotal catalyst. Iran de-escalation sets the tone.",
+      "opportunities": [
+        "OPPORTUNITY LLY: GLP-1 structural growth, revenue +48%, guidance raised — any pullback is buying opportunity",
+        "OPPORTUNITY DIS: Turnaround confirmed, parks+streaming dual engines, Toy Story 5 + TikTok deal catalysts",
+        "OPPORTUNITY DEO: New CEO $1B cost-cut turnaround, two-day surge confirms market buy-in",
+        "OPPORTUNITY CAT: Industrial bellwether Q2 profit jump, infrastructure tailwind multi-year",
+        "WATCH AMD: DC +107% but -8% sell-off, 41 Buy 0 Sell, wait for technical stabilization",
+        "WATCH GOOGL: AI brain drain vs Brin return, $25B bond, if deep decline is opportunity",
+        "WATCH MRNA: FDA mRNA flu vaccine approval, platform validation but market crowded",
+        "WATCH DDOG: 30% growth but -17%, classic overreaction candidate — confirm no hidden landmine",
+        "WATCH LMT: US missiles depleted, defense restocking cycle multi-quarter tailwind"
+      ],
+      "risks": [
+        "RISK HON: Aerospace debut -23%, supply snarls, catching falling knife risky",
+        "RISK TSLA: Bear trend dominates, $16.8B catalyst completely ignored"
+      ],
+      "analysis": "This week three macro themes dominate:\n\n1. Fed hawkish shift accelerating — Musalem 'prefers to raise rates' + Cook 'prepared to act' + Warsh lean messaging. Market at all-time highs but completely ignoring hawkish signals — classic late-cycle complacency. NFP Friday is the pivotal catalyst.\n\n2. Iran/Hormuz de-escalation — from ceasefire to negotiations to deal progress, oil dropping from highs. Iran's harsh conditions (ban US/Israeli ships) may prolong talks, but price action (oil tumbling) says de-escalation direction holds.\n\n3. 'Beat does not equal rise' earnings season pattern — DDOG -17%, AMD -8% despite beating. Market pricing based on forward guidance + whisper number, not backward-looking beats. SaaS/cloud sector valuation compression is clear.\n\nSingle-stock: LLY/DIS/DEO/CAT offer the cleanest upside thesis. AMD/GOOGL/MRNA/DDOG are two-sided needing judgment. HON/TSLA are clear risks.\n\nDefense restocking cycle (LMT/RTX/NOC) is an underappreciated multi-quarter tailwind — worth tracking long-term.",
+      "my_take": "Cleanest opportunities this week are LLY and DIS — both have earnings-confirmed catalysts while market hasn't fully repriced. DEO turnaround is a classic catalyst play but with execution risk. AMD and DDOG post-earnings sell-offs provide potential entry but need technical bottom confirmation. GOOGL AI brain drain is a structural concern but Brin's return could be positive — this is the hardest story to judge. Defense restocking is an underappreciated theme — LMT worth long-term tracking. On macro: market completely ignoring Fed hawkish tilt is the biggest risk — NFP could trigger repositioning.",
+      "focus": [
+        "GLP-1/Pharma: LLY",
+        "Media/Consumer: DIS, DEO",
+        "Semis/AI: AMD, GOOGL",
+        "SaaS/Cloud: DDOG",
+        "Defense: LMT",
+        "Risk to avoid: HON, TSLA"
+      ]
     }
   ],
   "news_curator": [
