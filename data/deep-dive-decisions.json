@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "LLY",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Zepbound/Mounjaro demand exploding, Q2 revenue +48% YoY, 2026 guidance raised from $82-85B to $85-87B. GLP-1 is structural growth, not cyclical. Valuation not cheap but growth fully supports it. Market says weight-loss drug demand is \"nearly limitless\" — NC confirmed ACTION for two consecutive days. Any pullback is a buying opportunity.",
-      "source": "OPPORTUNITY"
-    },
-    {
       "ticker": "MRNA",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -29,5 +22,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-08-08T14:05:29.933683+08:00"
+  "last_synced": "2026-08-08T14:05:44.346910+08:00"
 }
