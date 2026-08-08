@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "MRNA",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Bull: FDA approval of first-ever mRNA flu vaccine — genuine regulatory catalyst, not trial result. Narrative shifting from \"COVID one-trick pony\" to \"mRNA platform company\", $3-6B TAM opens, reducing COVID dependency is structural positive. Bear: Flu vaccine market already crowded (Sanofi, GSK), mRNA costs high, insurance coverage unknown. Need first full quarter sales data to confirm commercial traction.",
-      "source": "WATCH"
-    },
-    {
       "ticker": "TSLA",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -15,5 +8,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-08-08T14:05:58.943098+08:00"
+  "last_synced": "2026-08-08T14:06:13.445726+08:00"
 }
