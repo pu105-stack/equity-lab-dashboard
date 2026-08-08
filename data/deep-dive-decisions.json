@@ -8,13 +8,6 @@
       "source": "OPPORTUNITY"
     },
     {
-      "ticker": "CAT",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Q2 profit jump — power + construction equipment demand strong, industrial bellwether directly confirming macro demand strength. Infrastructure spending tailwind + reshoring trend is multi-year structural support. NC Aug 4 ACTION call confirmed. No major unresolved risk.",
-      "source": "OPPORTUNITY"
-    },
-    {
       "ticker": "GOOGL",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -33,13 +26,6 @@
       "status": "deep_dive",
       "updated_at": "2026-08-07",
       "reasoning": "Bull: FDA approval of first-ever mRNA flu vaccine — genuine regulatory catalyst, not trial result. Narrative shifting from \"COVID one-trick pony\" to \"mRNA platform company\", $3-6B TAM opens, reducing COVID dependency is structural positive. Bear: Flu vaccine market already crowded (Sanofi, GSK), mRNA costs high, insurance coverage unknown. Need first full quarter sales data to confirm commercial traction.",
-      "source": "WATCH"
-    },
-    {
-      "ticker": "DDOG",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Bull: Q2 revenue +30% YoY, AI demand accelerating, guidance raised — but still dropped 17%. This is the most extreme divergence of earnings season. If no hidden landmine (guidance below whisper number), -17% is classic overreaction. Bear: SaaS/cloud sector valuation compression, market rotating from growth to value, DDOG high multiple may be repriced. \"Beat does not equal rise\" is the theme this quarter. Need guidance call details + price action confirmation.",
       "source": "WATCH"
     },
     {
@@ -64,13 +50,6 @@
       "source": "RISK"
     },
     {
-      "ticker": "AMD",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Bull: DC revenue +107% YoY ($6.7B, 58% of total), Wall Street consensus 41 Buy 0 Sell, Lisa Su dismisses Musk NVDA commitment, hardwired AI acquisition path is NVDA alternative. Bear: Stock still dropped 8% post-earnings, \"beat does not equal rise\" pattern, AI capex concentration risk (single-customer concern), still below 50d MA. Pullback opportunity but need technical stabilization first.",
-      "source": "WATCH"
-    },
-    {
       "ticker": "DIS",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -78,5 +57,5 @@
       "source": "OPPORTUNITY"
     }
   ],
-  "last_synced": "2026-08-08T06:07:57.690947+08:00"
+  "last_synced": "2026-08-08T12:11:12.609474+08:00"
 }
