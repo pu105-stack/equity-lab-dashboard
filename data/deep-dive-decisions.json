@@ -22,13 +22,6 @@
       "source": "WATCH"
     },
     {
-      "ticker": "HON",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Honeywell Aerospace first standalone report -23% — supply snarls + gloomy guidance sent stock to Wall Street penalty box. While 247wallst says bull case remains intact, catching a falling knife in aerospace supply chain is extremely high risk. Supply chain issues are operational not cyclical — needs time to resolve. No compelling near-term upside catalyst.",
-      "source": "RISK"
-    },
-    {
       "ticker": "TSLA",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -36,5 +29,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-08-08T14:05:15.038906+08:00"
+  "last_synced": "2026-08-08T14:05:29.933683+08:00"
 }
