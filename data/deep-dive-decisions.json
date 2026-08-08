@@ -1,12 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "TSLA",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "$16.8B Texas Terafab chip factory construction begins but stock completely ignores — still far below 50d MA ($389) and 200d MA ($411). Bear trend dominates. In-house chip strategy is directionally correct but market does not care. Needs delivery/profit surprise to shift momentum. Currently dead money.",
-      "source": "RISK"
-    }
-  ],
-  "last_synced": "2026-08-08T14:06:13.445726+08:00"
+  "decisions": [],
+  "last_synced": "2026-08-08T14:06:27.550108+08:00"
 }
