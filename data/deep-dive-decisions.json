@@ -8,13 +8,6 @@
       "source": "OPPORTUNITY"
     },
     {
-      "ticker": "GOOGL",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Bull: Brin reclaims AI leadership (founder-driven strategy vs DeepMind bureaucracy), $25B bond is just refueling not distress signal, $514B backlog + search moat intact, cloud revenue still growing. Bear: Jeff Dean exits (Google AI linchpin), Hassabis steps down, 4 top researchers form startup — AI brain drain is structural risk not normal turnover. Stock near 50d MA ($358), $25B bond + AI shakeup makes market skeptical. If decline deepens to 5%+, could be overreaction buying opportunity.",
-      "source": "WATCH"
-    },
-    {
       "ticker": "MRNA",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -43,5 +36,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-08-08T14:05:00.924705+08:00"
+  "last_synced": "2026-08-08T14:05:15.038906+08:00"
 }
