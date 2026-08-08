@@ -8,13 +8,6 @@
       "source": "WATCH"
     },
     {
-      "ticker": "LMT",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "Bull: US virtually depleted all long-range missiles in Iran war — restocking cycle is multi-quarter structural tailwind. Hadrian valued at nearly $8B confirms private market defense demand. LMT deep dive Phase 0: defense supercycle confirmed by FOMC Middle East language. Bear: Defense stocks have already run up significantly, partially priced in. Iran ceasefire/de-escalation may reduce urgency premium. RTX/NOC similarly benefit.",
-      "source": "WATCH"
-    },
-    {
       "ticker": "TSLA",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -22,5 +15,5 @@
       "source": "RISK"
     }
   ],
-  "last_synced": "2026-08-08T14:05:44.346910+08:00"
+  "last_synced": "2026-08-08T14:05:58.943098+08:00"
 }
