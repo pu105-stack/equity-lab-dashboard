@@ -15,13 +15,6 @@
       "source": "WATCH"
     },
     {
-      "ticker": "DEO",
-      "status": "deep_dive",
-      "updated_at": "2026-08-07",
-      "reasoning": "New CEO \"Drastic Dave\" Lewis launches $1B cost-cutting plan + Guinness ramp, stock up +5-6% on two consecutive days, clearly broken above 50d MA. Spirits sector experienced prolonged slow-growth period, cost-cutting catalyst can re-rate the entire valuation. NC #2 confirmed second-day follow-through = market buy-in is real.",
-      "source": "OPPORTUNITY"
-    },
-    {
       "ticker": "MRNA",
       "status": "deep_dive",
       "updated_at": "2026-08-07",
@@ -57,5 +50,5 @@
       "source": "OPPORTUNITY"
     }
   ],
-  "last_synced": "2026-08-08T12:11:12.609474+08:00"
+  "last_synced": "2026-08-08T14:04:47.247389+08:00"
 }
