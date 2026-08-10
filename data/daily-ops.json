@@ -5220,6 +5220,68 @@
         "能源板塊持續弱勢 — XLE -2.19%全周最差，demand concern > supply risk"
       ],
       "my_take": "黃金暴升（GDX +7.11%）+ 科技續強（QQQ +1.17%）同時發生，市場定價美元轉弱利好。但 VIX 14.90 極度 complacent + 本周三 CPI 係重大 binary risk。短期 Neutral-Bullish，等 CPI 先做 directional bet。"
+    },
+    {
+      "pipeline": "NewsCurator",
+      "date": "2026-08-10",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "Hormuz stalemate but Trump shifts to negotiation; TSMC revenue confirms AI demand; CPI week ahead",
+      "headlines": [
+        "[NEW] TSM: July revenue +44.7% YoY on AI demand",
+        "[NEW] META: Zuckerberg open-sources most powerful AI model",
+        "[RECENT] OIL: Trump semi-negotiating with Iran; Iran hardens demands",
+        "[NEW] SEMI: Cantor upgrades outlook after selloff; MU rebounding",
+        "[NEW] JPM: Dimon warning shot but JPM also raised market expectations"
+      ],
+      "opportunities": [
+        "TSM: Revenue confirms AI demand intact - bullish for semi supply chain",
+        "META: Open-source AI pivot could trigger valuation rerating",
+        "SEMI: Three bullish signals (TSM beat, Cantor upgrade, MU rebound) - sector inflection"
+      ],
+      "analysis": "TSMC July revenue is the strongest hard data today. META open-source AI is a potential game-changer. Hormuz talks progress good for risk assets but oil may correct. CPI week + Warsh Fed hawkish risk is the biggest uncertainty.",
+      "risks": [
+        "CPI this week - if hotter than expected Warsh may return to rate hikes",
+        "Hormuz talks breakthrough could crash oil prices",
+        "PE 33,575 unsold businesses - liquidity concern"
+      ],
+      "my_take": "Hard data (TSMC revenue) beats narrative. META open-source is the most interesting strategy shift today. Hormuz talk progress is positive but market has partially priced it in. Warsh/Axios feature is a reminder - Fed may be more hawkish than market expects.",
+      "key_takeaways": [
+        "TSMC +44.7% = AI demand real and accelerating",
+        "META pivot from AI follower to open-source leader",
+        "Hormuz negotiation shift = de-escalation signal",
+        "CPI week critical for rate path under Warsh Fed"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-08-10",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish",
+      "headlines": [
+        "TSM July revenue +44.7% YoY — AI chip demand strongest confirmation",
+        "FOMC Jul 28-29: rate held 3.50-3.75% but 3 dissenters wanted 25bp HIKE",
+        "META open-sources strongest AI model — narrative shift from follower to definer",
+        "TEAM +35%, TWLO +25% — enterprise SaaS earnings blowout",
+        "TTD -22% — ad tech guidance crash",
+        "GLD +2.26% — gold rally signals hedging demand",
+        "CPI week ahead: Wed 8/12 8:30PM HKT is the week most critical macro event"
+      ],
+      "focus": [
+        "Semiconductor — TSM revenue beat + SOXL +6%, AI demand confirmed",
+        "Gold/Mining — GLD $398, GDX +7%, hedging + rate expectations repricing",
+        "RKLB earnings AMC — tracked ticker space economy check",
+        "CPI Wednesday — binary event for rate hike pricing"
+      ],
+      "analysis": "## Fed Context\n\nFOMC 7月會議（Jul 28-29）statement：利率維持 3.50-3.75%，票數 9-3。三位委員（Hammack、Kashkari、Logan）投票加息 25bp — 呢個係近年最鷹既 dissent。\n\nStatement 重點：\n- Economic activity expanding at a solid pace despite elevated uncertainty（中東衝突係 uncertainty source）\n- Inflation remains elevated，部分反映 supply shocks（包括 energy）\n- 就業市場 balanced — job gains keep pace with workforce\n- 冇任何 imminent rate cut 既暗示\n\n下次 FOMC：Sep 15-16（有 press conference）。市場目前 pricing 大約 60% probability of hold、40% of hike。\n\nWarsh Fed 既 transition 繼續成為焦點。Axios 長文 How Kevin Warsh is rewiring the Fed 反映市場開始注意到 Warsh 比 Powell 更 hawkish。CPI 本週三係決定性數據 — 如果 CPI 高於預期，hike probability 會急升。\n\n## 今日重頭條\n\nSemiconductor / AI：\n- TSM July revenue +44.7% YoY — AI chip demand 最強硬數據確認，bullish TSM/NVDA/AVGO\n- SMCI news flow leaning bullish\n- NVDA +2.27% 上個交易日，SOXL +5.99%\n\nMacro / Geopolitical：\n- S&P 500 futures inch higher as traders watch for Strait of Hormuz deal + inflation data\n- Hormuz stalemate 持續但 Trump 轉向 semi-negotiating — de-escalation signal\n- Kazakhstan weighs new export routes as drone strikes squeeze Black Sea oil exports\n- 烏克蘭 drone strike 俄羅斯 Nizhnekamsk 煉油 hub，12死 — secondary oil supply risk\n\nCorporate / Earnings：\n- TEAM (Atlassian) +35.31% — earnings blowout\n- TWLO (Twilio) +24.89% — strong results\n- TTD (The Trade Desk) -21.90% — guidance miss\n- PLTR +10.32% — continued momentum\n- Liberty Media plans $600M convertible notes offering\n\nGold / Commodities：\n- GLD +2.26% — gold rallying to $398.47\n- USO -0.75% at $117.98 — oil down on Hormuz de-escalation hopes\n- BTC approaching $66K — crypto sentiment improving\n\nOther notable：\n- META open-sources strongest AI model — direct challenge to closed-source rivals\n- JPM Dimon clear warning shot vs JPM raising stock market expectations — contradicting signals\n- Sionna Therapeutics -92% on trial failure\n- MA acquires BVNK (stablecoin) for $1.8B\n\n## 隔夜市場\n\nUS Close（上個交易日）：\n- SPY: $773.26（+0.61%）— 逼近歷史高位 $776.85\n- QQQ: $723.03（+1.17%）— tech outperformance，距離 year high $748.65 差 3.5%\n- DIA: $539.62（+0.27%）— Dow 表現最弱\n\nVIX: 數據 unavailable from FMP，但從 SPY 逼近 ATH + GLD 急升睇，market 有 defensive hedging — 唔係 risk-on 全面派對\n\nCommodities / Bonds：\n- Gold (GLD): $398.47（+2.26%）— 金價急升，risk hedge demand + possible rate expectations repricing\n- Oil (USO): $117.98（-0.75%）— 回落，Hormuz 談判 de-escalation + Black Sea supply risk 互相抵消\n- BTC: approaching $66K（+3.5% area）\n- Gold miners: GDX +7.11%，CDE +11.12% — gold rally 帶動 mining sector\n\n## 昨日爆升／暴跌榜\n\nTop Gainers（有意義既 movers，排除 penny stocks）：\n- TEAM (Atlassian) +35.31% — cloud/enterprise software earnings blowout\n- DOCS (Doximity) +32.62% — healthcare SaaS strong results\n- TWLO (Twilio) +24.89% — communications platform earnings beat\n- SPCX (SpaceX) +15.83% — SpaceX momentum continues\n- PLTR (Palantir) +10.32% — continued AI-driven rally\n- DKNG (DraftKings) +8.39% — sports betting momentum\n- GDX (Gold Miners ETF) +7.11% — gold rally\n- SOXL (Semi Bull 3x) +5.99% — semi sector strength\n\nTop Losers（有意義）：\n- TTD (The Trade Desk) -21.90% — major guidance miss, ad tech\n- SEZL (Sezzle) -33.89% — fintech BNPL selloff\n- LASR (nLIGHT) -25.56% — semiconductor/laser earnings miss\n- DFNS (T3 Defense) -17.50% — defense sector profit-taking\n- QDEL (QuidelOrtho) -24.72% — healthcare diagnostics warning\n\nMost Active: NVDA ($223.96, +2.27%), PLTR ($172.01, +10.32%), TSLA ($328.58, +2.83%), SOXL, TQQQ, SOUN — semi/AI/tech dominated\n\nSector theme：Earnings-driven dispersion。TEAM/TWLO/DOCS beat、TTD/LASR/QDEL miss。冇統一 sector rotation — 純粹 EPS-driven。Semi 繼續 strength（SOXL +6%），但 TTD crash 提醒：ad tech / digital advertising 有 selective weakness。\n\n## 今日重點事件\n\n今日（Mon Aug 10）macro calendar：冇 HIGH/MEDIUM USD events — 相對 quiet day。市場主要等 CPI。\n\n本週 HIGH impact：\n- Tue 8/11 10:00PM HKT — Existing Home Sales (Jul)\n- Wed 8/12 8:30PM HKT — CPI YoY / MoM / Core CPI YoY / Core CPI MoM (Jul) — 本週最重要！\n- Thu 8/13 8:30PM HKT — PPI MoM (Jul)\n- Fri 8/14 8:30PM HKT — Retail Sales MoM (Jul)\n- Fri 8/14 10:00PM HKT — Michigan Consumer Sentiment Prel (Aug)\n\nCPI 係本週核心 event。如果 CPI 高於預期（尤其 core CPI），會直接 trigger Warsh Fed 既 rate hike narrative。3 位 FOMC dissenters 已經擺明想加息 — 只要 data 配合，Sep meeting hike probability 會急升。\n\nEarnings today：\n- SPG (Simon Property, $72B, AMC) — retail/REIT bellwether\n- B (Barnes Group, $69B, BMO)\n- RKLB (Rocket Lab, $44B, AMC) — tracked ticker, space economy growth check\n\n## Sector Watch\n\nSector performance（上個交易日 NASDAQ）：\n- Industrials +6.20% — 最強 sector（留意係咪有 outlier stocks pull up average）\n- Utilities +1.80% — defensive rotation signal\n- Consumer Cyclical +1.04%\n- Basic Materials +0.74% — gold/mining 帶動\n- Healthcare +0.66%\n- Energy +0.30% — oil 回落壓制\n- Financials +0.17%\n- Comm Services -0.01% — TTD crash offset by TWLO/PLTR\n- Technology -0.51% — selective weakness（TTD drag），但 NVDA/TSM strength\n- Real Estate -1.39% — rate hike fear 打壓 REITs\n\nMy sector take：\n1. Semiconductor: 最強 theme。TSM revenue +44.7% 確認 AI demand intact。NVDA 逼近新高。MU/SMCI news flow bullish。SOXL +6%。CPI 前可能有 profit-taking，但 trend 係 upward。\n2. Gold/Mining: 急升。GLD +2.26%，GDX +7.11%。反映 market 同時 pricing risk-on (equities near ATH) + risk-hedge (gold rally) — 呢個矛盾值得留意。\n3. Ad Tech: weak。TTD -22% 可能拖累成個 digital advertising space（META、GOOGL 要留意）\n4. REITs: 最弱。Real Estate -1.39%，rate hike threat 直接打擊。SPG earnings tonight 係 test。\n\n## Pre-market Opportunities\n\nTSM (+44.7% July revenue)：\n- 呢個係 AI demand 最強既 hard data confirmation\n- Bull case：TSM 既 revenue 直接反映 NVDA/AVGO/AMD 既 wafer orders，全線 semi bullish\n- Bear case：已經 priced in — TSM 股價已經在高位\n- 今日部署：TSM revenue 已經係 Asia session 反映左，US session 開市留意 NVDA/AVGO/MU/SOXL 有冇 follow-through\n\nMETA（open-source AI pivot）：\n- Zuck 既 6,500 字 essay + 最強 open-source model release — material narrative shift\n- Bull case：由跟隨者轉向定義者，開源可能降低 AI infrastructure cost，valuation rerating\n- Bear case：open-source = 冇 moat，competitors can copy；META 仍然燒緊錢\n- 今日部署：WATCH META 開市 reaction。如果 market buy 呢個 narrative，可能有一波 rerating\n\nSEMI triple bullish（Cantor upgrade + MU rebound + TSM beat）：\n- 三個 bullish signals 疊加，但如果 CPI 爆冷會 reversal\n- 今日部署：CPI week 唔會 aggressive long，但 dip 可以考慮 accumulate\n\nHormuz de-escalation：\n- Trump semi-negotiating，oil -0.75%\n- 如果談判有 breakthrough，oil 可能再跌，energy sector underperform\n- 但如果談判破裂，oil spike，全部 risk assets 受壓\n- 今日部署：oil exposure 要 light，de-escalation 係 base case 但 reversal risk 高\n\n## 未來一個月業績重點\n\nTHIS WEEK：\n- Mon: SPG ($72B, $3.18 est, AMC) — retail REIT bellwether\n- Mon: RKLB ($44B, -$0.07 est, AMC) — tracked ticker, space economy\n- Tue: SE ($68B, $0.78 est, BMO) — ASEAN tech/gaming\n- Wed: CSCO ($476B, $0.99 est, AMC) — enterprise IT spending\n- Thu: AMAT ($428B, $3.36 est, AMC) — semi equipment, fab CapEx\n- Thu: NU ($67B, $0.20 est) — LatAm fintech\n\nNEXT WEEK：\n- Tue: HD ($355B, $4.71 est, BMO) — housing/consumer signal\n- Wed: ADI ($184B, $3.33 est, BMO) — analog semi\n- Wed: TJX ($179B, $1.18 est, BMO) — off-price retail\n- Wed: TGT ($67B, $2.21 est, BMO) — consumer spending\n- Thu: WMT ($890B, $0.73 est, BMO) — mega-cap retail, inflation pass-through\n- Thu: BABA ($300B, $1.77 est, BMO) — China tech recovery\n\nKey observation：CSCO 同 AMAT 呢個星期係 semi/tech supply chain 既 critical check。WMT 下星期係 consumer/inflation pass-through 既最重要信號。呢兩個 earnings 會 define 8 月既 sector rotation。\n\n## Today's Agenda\n\n- Catalyst schedule this week：CPI Wednesday 係中心點，之前兩日 relatively quiet\n- SPY key levels：Support $768（50MA），Resistance $776.85（ATH）。Break above ATH = bullish breakout signal；反彈失敗 = double top risk\n- 呢個星期要跟實：RKLB earnings tonight, TSM revenue follow-through, META open-source narrative, Hormuz negotiation headlines, CPI preview positioning\n\n## My Take\n\nOverall bias：Cautiously Bullish\n\nTSM revenue +44.7% 係 hard data — 唔係 narrative。AI demand 由 hyperscaler capex 到 chip maker revenue 到實數確認。呢個 trend intact。\n\n但 CPI week + Warsh Fed hawkish dissent = rate hike risk 仍然在枱面。3 位 FOMC 委員投票加息係 genuine signal — 市場而家 pricing hold/hike 50/50，但如果 CPI 高於預期，會即刻 repriced。\n\n今日最緊要睇實：\n1. RKLB earnings AMC — tracked ticker，space economy growth validation\n2. TSM revenue ripple effect — NVDA/AVGO/MU 有冇 follow-through buying\n3. TTD crash 會唔會擴散 — META/GOOGL 既 ad revenue 會唔會受牽連\n4. Gold rally ($398) — 點解 equities near ATH 同時 gold 急升？矛盾信號要拆解\n\n改變之前 thesis 既 signal：如果 CPI 高於 consensus（core > 0.3% MoM），成個 bullish thesis 要 revise — rate hike 重返枱面會 trigger growth/tech rotation out。如果 CPI 符合或低於預期，semi/AI 可以繼續 run。本質上係一個 binary week — 唔好 aggressive positioning，等 CPI 出左先。",
+      "risks": [
+        "CPI above consensus triggers rate hike repricing -> growth/tech selloff",
+        "Hormuz negotiation breakdown risk -> oil spike hits risk assets",
+        "TTD crash could spread to ad tech space (META/GOOGL)",
+        "Warsh Fed more hawkish than expected -> Sep meeting hike risk underpriced"
+      ],
+      "my_take": "Cautiously Bullish — TSM revenue +44.7% confirms AI demand intact，但 CPI week + Warsh Fed hawkish dissent 令 rate hike risk 在枱面。CPI 係本週 binary event：低於預期 = semi/AI 繼續 run；高於預期 = growth/tech rotation out。今日睇 RKLB earnings + TSM follow-through + gold/equities 矛盾信號。"
     }
   ],
   "news_curator": [
