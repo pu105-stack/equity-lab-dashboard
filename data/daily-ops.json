@@ -5159,6 +5159,67 @@
         "Defense: LMT",
         "Risk to avoid: HON, TSLA"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-10",
+      "time": "08:15 HKT",
+      "status": "success",
+      "market_direction": "S&P 500 futures dipping - Iran/Hormuz stalemate + inflation data ahead. Oil climbing. Mixed macro.",
+      "headlines": [
+        "[RECENT] GOOGL - Alphabet Cloud 82% revenue growth, forward guidance bullish",
+        "[NEW] DEFENSE - Pentagon urges faster weapons production amid stockpile concerns",
+        "[NEW] IRAN/HORMUZ - Oil rises as Hormuz stalemate deepens; Houthis attack Saudi refinery",
+        "[RECENT] BERKSHIRE/ABEL - Abel ends Buffett's 14-quarter selling streak with $23.5B in buys",
+        "[RECENT] AAPL - Tim Cook succession creates uncertainty; \"passed his successor a mess\"",
+        "[RECENT] MACRO - Inflation data this week keeps Fed rate hike in play; S&P 500 futures dip",
+        "[RECENT] NVDA/MU - S&P 500 rally driven by semis; history says it's not over",
+        "[RECENT] BTC-USD - Bitcoin ETF inflows hit $853M; BlackRock IBIT dominates",
+        "[RECENT] SHOP - Shopify stock soared this week; already priced",
+        "[RECENT] META - AI hacks + influencer backlash; noise"
+      ],
+      "opportunities": [],
+      "analysis": "Iran/Hormuz Day 29 grind with Houthi escalation. GOOGL cloud 82% growth is the standout catalyst. Berkshire/Abel breaks 14-quarter selling streak - major sentiment signal. Pentagon weapons push = sustained defense demand.",
+      "risks": [
+        "Iran/Hormuz stalemate prolonged = oil risk premium",
+        "CPI this week could force Warsh rate hike",
+        "AAPL succession uncertainty"
+      ],
+      "my_take": "Fragile macro setup (Iran oil + inflation) but beneath the surface there are genuine catalysts: GOOGL cloud acceleration, Berkshire turning buyer, defense structural demand. CPI print this week is the binary event.",
+      "key_takeaways": [
+        "GOOGL: 82% cloud growth + bullish guidance - best single-stock catalyst this session",
+        "Iran/Hormuz: Day 29, Houthi refinery attack escalates - oil risk premium persists",
+        "Berkshire: Abel deploys $23.5B after 14-quarter selling streak - sentiment turnaround",
+        "Macro: CPI this week could force Warsh rate hike - market fragile",
+        "AAPL: Cook succession narrative turning negative - portfolio risk to monitor"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-10",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "Risk-On — SPY全周+2.06%, QQQ +3.28%, VIX跌至14.90。黃金暴升(GDX +7.11%)。CPI周前complacency係最大隱憂。",
+      "headlines": [
+        "GDX +7.11% 金礦股暴升 — 黃金突破$398，美元轉弱+伊朗避險雙重推動",
+        "QQQ 全周 +3.28% — 科技股Risk-on回歸，TSLA +3.6%突破區間",
+        "XLE 全周 -2.19% — 能源最差，伊朗風險溢價未能轉化為油價支持",
+        "VIX 跌至14.90 — 極度complacent，CPI前最大隱憂",
+        "周三CPI四項HIGH data — 本周最重要macro event"
+      ],
+      "opportunities": [
+        "GDX/GLD: 金礦股爆量突破，美元轉弱+伊朗避險雙引擎。CPI係關鍵binary",
+        "TSLA: 突破320-330區間，成交量39.4M顯著放大。守住325+可跟進",
+        "LMT/NOC/RTX: Defense underappreciated，伊朗衝突+Pentagon武器需求"
+      ],
+      "analysis": "## 宏觀背景\n\n### Fed Context\n下次 FOMC：9月15-16日。7月28-29日會議已過，利率維持3.50-3.75%。Warsh 主席維持鷹派 stance — 取消 dot plot + forward guidance，令市場只能靠數據判斷路徑。本周三 CPI 數據（8月13日）係 FOMC 前最後一個關鍵通脹 reading，直接影響市場對9月利率決策嘅定價。\n\n本周 HIGH importance events 密集：\n- 周二：Existing Home Sales (Jul)\n- 周三：CPI YoY / Core CPI MoM / Core CPI YoY / CPI MoM（四項 HIGH）— 本周最重要\n- 周四：PPI MoM\n- 周五：Retail Sales MoM + Michigan Consumer Sentiment\n\n通脹數據若超出預期（Core CPI > 0.3% MoM），市場將重新定價加息風險，直接打擊科技股估值同黃金 rally。\n\n### 地緣政治\n伊朗/荷姆茲海峽僵局進入第29日。伊朗政權立場硬化（新任安全首長、要求美國讓步）、胡塞武裝攻擊沙特煉油廠。油價風險溢價持續但未擴大。市場似乎定價「唔會全面衝突」，但任何升級都可能引發油價急彈。\n\n## Market Recap — 8月7日（周五）收盤\n\n| 指數 | 收盤 | 日變動 | 周變動 |\n|------|------|--------|--------|\n| SPY | 773.26 | +0.61% | +2.06% |\n| QQQ | 723.03 | +1.17% | +3.28% |\n| DIA | 539.62 | +0.27% | +1.58% |\n| IWM | 301.56 | +1.11% | +1.80% |\n| VIX | 14.90 | -1.65% | -6.05% |\n\n**一句總結：Risk-on 全面回歸。** SPY 全周升逾2%、QQQ 升逾3% 領漲，VIX 跌至14.90 近月低位。小型股（IWM）同步上升，breadth 健康。但 VIX 咁低反映市場極度 complacent — 呢個係本周 CPI 前最大嘅隱憂。\n\n### Sector Performance（周五 vs 周四 vs 全周）\n\n| Sector | 周五變動 | 全周變動 | 信號 |\n|--------|----------|----------|------|\n| XLK (科技) | +1.42% | +5.58% | 強勢領漲 |\n| XLY (消費) | +1.49% | +1.40% | 跟隨科技 |\n| XLB (原材料) | +1.32% | +3.63% | 受惠金價 |\n| IWM (小型股) | +1.11% | +1.80% | Breadth 正面 |\n| XLV (健康護理) | +0.75% | +2.12% | 穩定 |\n| XLF (金融) | -0.36% | +0.38% | 持平 |\n| XLE (能源) | -1.13% | -2.19% | 最差 |\n| XLU (公用) | +0.53% | -1.69% | 全周弱 |\n\n**Rotation signal：** 資金由能源 -> 科技嘅 rotation 非常明顯。XLK 全周 +5.58% vs XLE -2.19%，差距近 8 個百分點。利率敏感嘅 XLU 全周跌1.69% — 市場似乎在定價「growth > defense」，唔擔心加息。\n\n## Notable Movers\n\n### 強勢\n- **TSLA +2.83%（周五）/ +3.6%（全周）**：$319 -> $329，突破近期區間。周五成交量 39.4M 顯著高於平均。無明顯單一 catalyst，但整體科技 sentiment 改善 + 可能係 robotaxi/AI 預期發酵。\n- **NVDA +2.27%（周五）**：$219 -> $224，由周四低位反彈。全周仍微跌，但周五買盤 quality 唔錯。SMH 同步 +1.96%，半導體整體回暖。\n- **GDX +7.11%（周五）**：金礦股爆升！$83.92 -> $89.89，成交量 44.6M 係平時 2-3 倍。GLD 同步 +2.26%。呢個係全日最重要嘅 macro signal。\n- **GLD +2.26%**：黃金由 $390 -> $398。美元（UUP）跌 0.43% 提供支持。伊朗風險 + 可能嘅 Fed 轉鴿預期雙重推動。\n- **SMH +1.96%**：半導體 ETF 強勢，NVDA/AVGO/TSM 全線上升。\n\n### 弱勢\n- **XLE -1.13%（周五）/ -2.19%（全周）**：能源板塊全周最差。XOM -1.16%、CVX -1.41%、SLB -1.96%、HAL -1.91%。油價受壓（USO -0.75%），伊朗風險溢價未能轉化為油價支持 — 市場更擔心 demand。\n- **GOOGL -0.96%（周五）**：$357.75 -> $354.30。NC #1 提到 GOOGL Cloud 82% growth + bullish guidance，但周五股價反而下跌。可能係 profit-taking 或市場對 AI 投資回報仍存疑。\n- **BRK-B -0.54%**：$524.61 -> $521.80。NC 提到 Abel 由賣轉買係 sentiment positive，但股價未有即時反應。\n\n## News That Mattered\n\n### NC #1 Call Review（8月10日 08:15 HKT — Asia/Europe session preview）\nNC #1 嘅核心判斷係「fragile setup for equities」— 伊朗/荷姆茲 + 本周通脹數據雙重風險。但周五（8月7日）美股實際上係 risk-on，SPY +0.61%、QQQ +1.17%。NC 嘅 cautious stance 與周五市場表現有落差。\n\n不過 NC 係 preview（睇今個星期），而唔係 review（睇上周五）。本周 CPI 先係真正考驗。所以 NC 嘅謹慎態度係合理嘅 — 周五嘅 risk-on 可能係「暴風雨前嘅平靜」。\n\n**NC 提及嘅個股表現對照：**\n| NC Call | 周五表現 | 判斷 |\n|---------|----------|------|\n| GOOGL Cloud bullish | -0.96% | Friday no reaction |\n| NVDA/MU momentum real | NVDA +2.27% | NVDA confirmed |\n| MU chasing risky | MU -0.44% | Pullback warning correct |\n| AAPL succession overhang | +0.29% (flat) | Not reflected |\n| Defense underappreciated | LMT +0.88%, NOC +0.68% | Continuing strength |\n| Oil risk premium | XLE -2.19% (weekly) | No premium in oil |\n\n### Raw Headlines（news_summary DB 過去24小時）\n從 25 條 raw headlines 中抽出重要信號：\n- **MarketWatch: 「U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty」** — 與 NC 嘅 fragile setup 判斷一致。期貨周一偏軟。\n- **Yahoo Finance: 「Airbnb just found an unexpected way to make AI pay」** (ABNB) — ABNB 有 AI 貨幣化新方向。\n- **FOMC Schedule: Next Jul 28-29（已過）, Sep 15-16（下次）** — 9月會議前仲有 8月 CPI + 9月初 NFP。\n\n**NC 未捕捉到但值得注意嘅 raw signals：**\n- 金礦股 GDX 暴升 +7.11% — NC 冇提及黃金/金礦呢個 theme\n- TSLA 強勢突破 — NC 冇提及 TSLA\n- 能源全面受壓 — NC 提到油價風險溢價，但市場明顯唔買帳\n\n## Opportunities Carry Forward\n\n### GLD / GDX — 黃金新一輪突破\nGDX 周五 +7.11% 唔係普通 move，係 break-out level 嘅 volume spike。驅動因素：\n- Bull case: 伊朗/荷姆茲持續緊張（Day 29）+ 美元轉弱（UUP -0.43%）+ 央行買金需求結構性支持\n- Bear case: 如果周三 CPI 超預期 -> 加息預期升溫 -> 美元反彈 -> 黃金受壓\n- My view: 值得關注 — 周五嘅 gold surge 唔似一日行情。GDX 成交量 2-3x 平時，係 institutional flow。但本周 CPI 係重大 binary risk。如果 CPI 溫和（Core CPI <=0.2% MoM），黃金可能進一步突破。如果 CPI 過熱，呢個可能係 false breakout。\n- What changes my mind: CPI 數據後 GDX 回吐超過 3% -> 確認 false breakout\n\n### TSLA — 突破近期區間\nTSLA 周五 +2.83% 突破 $320-330 區間，成交量顯著放大：\n- Bull case: 科技 sentiment 回暖 + potential robotaxi/AI catalyst + 技術面突破\n- Bear case: CPI 風險 + 估值偏貴 + 無明確近期 catalyst\n- My view: 值得關注 — 技術面令人印象深刻，但本周 CPI 係 macro overhang。如果 CPI 溫和 + TSLA 守住 $325+，可以跟進。\n\n### Defense (LMT / NOC / RTX) — 持續強勢但低調\nNC #1 提到 defense theme underappreciated。LMT/NOC 全周穩步上升，無大回調：\n- Bull case: 伊朗衝突 + Pentagon 武器需求 + 歐洲軍費增加\n- Bear case: 如果伊朗局勢緩和，defense premium 可能消退\n- My view: WATCH — 持續性強，但缺乏爆炸性 catalyst。適合 swing 持倉，唔適合 day trade。\n\n### Pass on...\n- **Energy (XLE/XOM/CVX)**: 油價風險溢價未能轉化為股價支持。Iran 僵局第29日，市場明顯定價「demand concern > supply risk」。等 CPI 後再評估。\n- **GOOGL**: Cloud growth bullish 但股價未有反應。需要更大 catalyst。\n\n## Risks / Watchlist\n\n### CPI（周三 8月13日 8:30pm HKT）\n四項 HIGH importance 數據同時發布：\n- Inflation Rate YoY (Jul)\n- Core Inflation Rate MoM (Jul)\n- Core Inflation Rate YoY (Jul)\n- Inflation Rate MoM (Jul)\n\n呢個係 FOMC 9月15-16日前最後一個完整嘅通脹報告。市場目前定價極為 complacent（VIX 14.90）。如果 CPI 超預期：\n-> 加息預期急升 -> 美元反彈 -> 黃金/科技同時受壓\n-> VIX 可能 spike 至 18-20 區間\n\n如果 CPI 溫和或低於預期：\n-> 現有 risk-on trend 加速 -> 黃金 + 科技雙雙突破\n\n### 伊朗/荷姆茲 — Day 29\n胡塞武裝攻擊沙特煉油廠係本周新發展。伊朗政權立場硬化。雖然市場目前定價「唔會全面衝突」，但 tail risk 仍然存在。如果荷姆茲航道受阻，油價可能單日急升 10-15%。\n\n### VIX 14.90 — Complacency Risk\nVIX 跌至近月低位。低 VIX 本身唔係問題，但配合本周 CPI + 伊朗風險，呢個 level 反映市場可能過度樂觀。\n\n### 今晚/明日 Macro Calendar（8月10-11日）\n今晚（8月10日周一）無重大 USD HIGH/MEDIUM events。\n明日（8月11日周二）：\n- 8:15pm HKT — ADP Employment Change Weekly (MEDIUM)\n- 10:00pm HKT — Existing Home Sales Jul (HIGH)\n- 4:30am HKT — API Crude Oil Stock Change (MEDIUM)\n\n## My Take\n\n**今日最重要嘅故事：黃金暴升 + 科技續強 = 市場同時定價「避險」同「risk-on」。呢個矛盾組合嘅背後邏輯：美元轉弱（UUP -0.43%）令黃金同科技同時受惠 — 黃金因為美元貶值，科技因為 lower rate expectations。**\n\n但呢個 narrative 將喺周三 CPI 被驗證或推翻：\n- 如果 CPI 溫和：Gold + Tech 雙突破，risk-on 加速\n- 如果 CPI 過熱：Gold + Tech 齊跌，美元反彈，risk-off 回歸\n\n**短期 bias: Neutral-Bullish，但高度依賴周三 CPI。** 周五嘅 price action（GDX +7%、TSLA +3%、VIX 14.90）係 bullish signal，但 macro calendar 話俾我哋知呢個可能係「暴風雨前嘅平靜」。周一/周二市場可能繼續 risk-on，但我唔會喺 CPI 前加大倉位。\n\nNC #1 嘅 cautious stance 係 prudent。等 CPI 數據出爐先係真正 directional bet 嘅時候。",
+      "risks": [
+        "周三CPI（8月13日8:30pm）— 四項HIGH importance。超預期CPI將同時打擊黃金+科技",
+        "VIX 14.90 — 極度complacent，CPI任何意外都可能引發vol spike",
+        "伊朗/荷姆茲Day 29 — 胡塞攻擊沙特煉油廠，tail risk仍在",
+        "能源板塊持續弱勢 — XLE -2.19%全周最差，demand concern > supply risk"
+      ],
+      "my_take": "黃金暴升（GDX +7.11%）+ 科技續強（QQQ +1.17%）同時發生，市場定價美元轉弱利好。但 VIX 14.90 極度 complacent + 本周三 CPI 係重大 binary risk。短期 Neutral-Bullish，等 CPI 先做 directional bet。"
     }
   ],
   "news_curator": [
