@@ -5282,6 +5282,73 @@
         "Warsh Fed more hawkish than expected -> Sep meeting hike risk underpriced"
       ],
       "my_take": "Cautiously Bullish — TSM revenue +44.7% confirms AI demand intact，但 CPI week + Warsh Fed hawkish dissent 令 rate hike risk 在枱面。CPI 係本週 binary event：低於預期 = semi/AI 繼續 run；高於預期 = growth/tech rotation out。今日睇 RKLB earnings + TSM follow-through + gold/equities 矛盾信號。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-11",
+      "time": "08:14 HKT",
+      "status": "success",
+      "market_direction": "SPY flat, oil +6.7% on Hormuz stalemate, cybersecurity at records, NVDA -2.9% despite $500bn financing deal",
+      "headlines": [
+        "[NEW] ACTION: NVDA - $500bn AI financing deal; Jensen Huang calls chips \"investable asset\"; stock -2.9% - market divergence",
+        "[NEW] ACTION: CRWD/PANW - Cybersecurity record highs (+5-6%) post Black Hat; AI threat driving structural demand",
+        "[RECENT] ACTION: INTC - Plans $15B stock sale after 400% rise; dilutive but could fund foundry transformation",
+        "[RECENT] WATCH: OIL/HORMUZ - USO +6.7%; Trump demands Iran compensation; SPR hits 40-year low",
+        "[NEW] WATCH: AAPL - Analyst underperform warning without \"all-glass\" iPhone; -1.6%",
+        "[NEW] MEME: EBAY/GME - Ryan Cohen saga new twist; eBay may dodge takeover",
+        "[NEW] WATCH: RKLB - Neutron debut likely delayed; stock -3.4%",
+        "[NEW] NOTE: MACRO/FED - Trump confirms speaking to Fed Chair Warsh",
+        "[NEW] NOTE: DJT - $238M Q2 loss, crypto losses $361M, traffic falling; -8%",
+        "[RECENT] NOTE: GLD - Best week in 7 months on safe-haven flows"
+      ],
+      "opportunities": [
+        "NVDA: $500bn financing confirms AI buildout thesis but market not reacting - watch for reversal if broader risk-off fades",
+        "CRWD/PANW: Cybersecurity secular trend intact; Black Hat confirms rising AI threat budgets",
+        "INTC: Stock sale at 400% gain is smart capital allocation; buy the dip if foundry story intact"
+      ],
+      "analysis": "Asia/European session dominated by NVDA's $500bn financing deal (first broke ~21:19 HKT via FT/CNBC). Jensen Huang's 'chips as investable asset' framing is significant but market focused elsewhere. Oil continued its Hormuz-driven surge (+6.7%) with SPR hitting sub-300M barrels for first time since 1983. Cybersecurity names (CRWD, PANW) broke to all-time highs after Black Hat conference. INTC's $15B stock sale after +400% run is being taken negatively (-4.1%) but Wolf Street notes Big Tech has figured out selling equity at sky-high prices benefits companies more than investors. MEME corner active: Ryan Cohen saga taking new twist with eBay potentially dodging a GameStop takeover.",
+      "risks": [
+        "Oil at $126/bbl becoming structural cost input issue for broad market",
+        "NVDA financing deal may signal peak AI capex rather than continued growth",
+        "INTC dilution could trigger sector rotation out of semis",
+        "Hormuz stalemate entering day 30+ with no resolution in sight"
+      ],
+      "my_take": "The NVDA $500bn financing is today's biggest story but the market yawned (-2.9%). Two interpretations: market already priced in the AI buildout trajectory, or broader risk-off sentiment is overwhelming positive catalysts. I lean toward the former - the financing confirms but doesn't accelerate the thesis. INTC's $15B stock sale is the more interesting contrarian signal: selling equity after a 400% run is good capital allocation. The Hormuz story is aging (30+ days) but today's SPR milestone and BofA's '10x more ships' analysis keep it relevant. Gold's best week in 7 months suggests hedging demand is real.",
+      "key_takeaways": [
+        "NVDA $500bn financing = structural AI confirmation, but market indifferent - wait for catalyst",
+        "INTC dilution = smart capital raise at peak valuation; buy dip if foundry thesis intact",
+        "Cybersecurity at ATH = secular trend confirmed by Black Hat; CRWD/PANW leadership",
+        "Oil structural risk - SPR at 40-year low, Hormuz stalemate no resolution",
+        "Gold best week in 7 months - safe-haven buying accelerating"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-11",
+      "time": "08:35 HKT",
+      "status": "success",
+      "market_direction": "Flat with rotation: Energy +4.66%, Tech -0.88%, VIX 15.46",
+      "headlines": [
+        "NVDA $500bn AI financing from Wall Street banks — but stock -2.9%",
+        "Hormuz Day 30+: Oil +6.7%, SPR below 300M barrels (40yr low)",
+        "CRWD +5%/PANW +5.8% — ATH on Black Hat AI cyber threat narrative",
+        "INTC $15B stock sale after 400% rise — dilution overhang",
+        "CPI Day TOMORROW — 4 HIGH importance inflation prints at 8:30PM HKT"
+      ],
+      "opportunities": [
+        "OIL/HORMUZ: structural squeeze, API crude tonight may confirm",
+        "CRWD/PANW: ATH breakout, wait for CPI pullback to enter",
+        "INTC: contrarian bounce after -4% dilution sell-off",
+        "TLT: CPI soft -> bond rally to $83-84"
+      ],
+      "analysis": "## Today's Headlines\n\n1. **[CNBC Exclusive] NVDA $500bn AI Financing** — Jensen Huang confirms Wall Street banks partnering to finance AI data centre buildout. Calls Nvidia chips an \"investable asset.\" NVDA -2.9% — market yawned at the biggest AI story of the day. (Source: NC #1, CNBC)\n2. **[Hormuz Day 30+] Oil +6.7%, SPR Below 300M Barrels** — USO closed $125.92 (+6.7%). US SPR at 40-year low. BofA: Hormuz needs 10x more ships to stabilise. Trump demands Iran pay compensation. (Source: NC #1, BofA)\n3. **[Black Hat Conference] CRWD +5.0%, PANW +5.8% Hit All-Time Highs** — Cybersecurity names surging on AI threat narrative. Black Hat conference catalyst. (Source: NC #1)\n4. **[INTC] $15B Stock Sale After 400% Rise** — Dilution at the top. INTC -4.1%. Wolf Street: \"Big Tech figured it out, the economy benefits, maybe not investors.\" (Source: NC #1)\n5. **[MACRO/FED] Trump-Warsh Call, CPI Tomorrow** — Trump spoke to Fed Chair Warsh; denies regular calls. Next FOMC: Sep 15-16 (~1 month). Tomorrow's CPI is the biggest macro risk this month.\n6. **[AAPL] Analyst Warns on iPhone** — Underperformance risk without \"all-glass\" iPhone. AAPL -1.6%. (Source: NC #1)\n7. **[Geopolitical] Colombia 7.4 Earthquake** — 100+ deaths. Humanitarian impact, no clear market implication. (Source: raw CBS News)\n8. **[Trump Signs Order] Vaccination Recommendations** — Executive order on vaccination policy. (Source: raw CBS News)\n\n## 1. Market Recap\n\n| Index | Close | Change | Signal |\n|-------|-------|--------|--------|\n| SPY | $773.03 | -0.03% | Essentially flat |\n| QQQ | $720.87 | -0.30% | Tech weakness |\n| DIA | $538.99 | -0.12% | Dow slightly down |\n| IWM | $299.98 | -0.52% | Small caps underperformed |\n| VIX | 15.46 | +3.8% | Still extremely low (sub-16 complacency) |\n\n**Sector Rotation was clear:**\n\n| Sector | ETF | Performance |\n|--------|-----|------------|\n| Energy | XLE | **+4.66%** |\n| Healthcare | XLV | +1.67% |\n| Comm Services | XLC | +0.52% |\n| Financials | XLF | +0.36% |\n| Consumer Disc | XLY | -0.16% |\n| Industrials | XLI | -0.31% |\n| Technology | XLK | **-0.88%** |\n| Utilities | XLU | -1.10% |\n| Real Estate | XLRE | -1.29% |\n\n**Key signals:**\n- Energy sector exploded (+4.66%) — the only sector with directional conviction today. Hormuz standoff driving oil prices.\n- Tech underperformed — NVDA -2.9% dragged sentiment, but MSFT +1.2% and AMZN +1.3% provided support.\n- Real Estate / Utilities sold off — yield-sensitive sectors reflecting bond market tension ahead of CPI (TLT -0.85%, 10Y ~4.65%).\n- VIX 15.46 — complacency zone. Market is not pricing in CPI risk at all.\n\n## 2. Notable Movers\n\n**Winners:**\n- **PANW +5.82%** -> ATH $385.04. Black Hat conference + AI cyber threat narrative. Cybersecurity structural winner.\n- **CRWD +5.01%** -> ATH $225.16. Same thesis as PANW.\n- **USO +6.7%** -> $125.92. SPR <300M barrels (40yr low) + Hormuz stalemate.\n- **GLD +1.0%** -> $402.54. Gold continues to strengthen — safe haven demand + inflation hedge ahead of CPI.\n- **MSFT +1.21%** -> $506.06. Strongest Mag7 name, holding above $500+.\n\n**Losers:**\n- **INTC -4.06%** -> $97.52. $15B stock sale announced after 400% rally. Dilution overhang. Smart management move (raise equity at highs to fund foundry), but short-term dilution pain.\n- **NVDA -2.86%** -> $217.55. $500bn financing deal met with negative reaction. Two interpretations: (1) already priced in, (2) market focused on dilution/execution risk. I lean toward (1) — AI data centre buildout is not a secret.\n- **GOOGL** -> $357.52. +0.91% today but still significantly underperforming Mag7 peers week-on-week (Aug 4 close $377.65 -> today $357.52 = -5.3%). Antitrust overhang + search competition concerns.\n\n**Sector Rotation Signal:** Money rotating from growth/tech -> energy/commodities. Sustainability of this rotation depends on Hormuz. If tonight's API crude oil stock shows supply pressure, energy could continue to outperform.\n\n## 3. News That Mattered\n\n**NC Call Report Card:**\n\n| NC Call | Direction | Result | Verdict |\n|---------|-----------|--------|---------|\n| NVDA $500bn financing -> ACTION | Bullish | -2.86% | Miss — market yawned |\n| CRWD/PANW ATH -> ACTION | Bullish | +5.0%/+5.8% | Hit — perfect call |\n| INTC $15B dilution -> ACTION | Mixed | -4.06% | Direction correct |\n| OIL/HORMUZ -> WATCH | Bullish | +6.7% | Hit — but NC didn't escalate to ACTION |\n| AAPL iPhone risk -> WATCH | Bearish | -1.62% | Direction correct |\n| META Glimmer -> WATCH | Neutral | +0.48% | Flat as expected |\n\n**NC Performance:** 6 calls, 5/6 directionally correct. Only miss was NVDA — but this is more about market signal interpretation than NC error. If NVDA's $500bn deal can't lift the stock, short-term upside catalysts may genuinely be exhausted.\n\n**Notable raw headlines NC didn't cover:**\n- Colombia 7.4 earthquake (humanitarian, no market impact)\n- Trump vaccination order (policy noise, minor)\n- Most raw headlines were actually earnings call presentations — no macro significance\n\n## 4. Opportunities Carry Forward\n\n**CPI-eve positioning opportunities:**\n\n1. **OIL/HORMUZ** — This is not a one-day trade. SPR <300M barrels (lowest since 1983), BofA says Hormuz needs 10x more ships. Tonight's API crude oil stock (4:30AM HKT) — if there's a drawdown, it confirms supply tightness and oil continues to squeeze. USO +6.7% today. BUT CPI is the risk — if CPI comes in hot, USD strengthens and oil could face pressure.\n\n2. **CRWD/PANW** — ATH breakouts typically have follow-through. AI cyber threat narrative is structural, not cyclical. But beware CPI day's broad market pullback dragging on momentum. Safer to wait for a CPI-driven pullback before entering.\n\n3. **INTC** — Contrarian opportunity after -4% dilution sell-off? $15B dilution is genuinely dilutive, but if proceeds fund foundry turnaround, this could be the last dilution. $97 vs ~52-week high of ~$103 — pullback of ~6%. If market stabilises after CPI, INTC could bounce. But watch execution — foundry strategy remains unvalidated.\n\n4. **TLT / Bonds** — If tomorrow's CPI comes in below forecast (CPI YoY <3.4%, Core <2.5%), bond market will rally hard. TLT at $82.06, 10Y ~4.65% — market is pricing a benign CPI read. If CPI is truly soft, TLT could reach $83-84.\n\n## 5. Risks / Watchlist\n\n**Tonight's events (from macro_calendar.json):**\n\n| Time (HKT) | Event | Importance | Why It Matters |\n|------------|-------|-----------|----------------|\n| 10:00PM | **Existing Home Sales (Jul)** | HIGH | Forecast 4.04M vs prev 4.09M. Housing = inflation proxy — stronger print could lift CPI expectations |\n| 4:30AM | **API Crude Oil Stock Change** | MEDIUM | Direct impact on oil prices — drawdown > expected = further oil squeeze |\n\n**TOMORROW: CPI Day (Aug 12) — Biggest risk event this month:**\n\n| Time (HKT) | Event | Forecast | Previous |\n|------------|-------|----------|----------|\n| 8:30PM | **Inflation Rate YoY** | 3.4% | 3.5% |\n| 8:30PM | **Core Inflation Rate YoY** | 2.5% | 2.6% |\n| 8:30PM | **Core Inflation Rate MoM** | 0.2% | 0.0% |\n| 8:30PM | **Inflation Rate MoM** | +0.1% | -0.4% |\n\n**CPI scenario analysis:**\n\n| Scenario | Probability | Market Impact |\n|----------|------------|---------------|\n| CPI inline/below forecast (soft CPI) | Base case | SPY rally, bond yields drop, tech rebounds. TLT+, QQQ+ |\n| CPI above forecast (hot CPI >3.5%) | Tail risk | Risk-off, VIX spike, yields up. Energy/commodities relative outperform |\n| Core CPI MoM >0.3% | Worst case | Rate cut hope evaporates -> broad sell-off. Defensive rotation |\n\n**Overnight risk summary:**\n- CPI is THE catalyst, not background noise. No positioning conviction tonight — everything depends on CPI result.\n- Hormuz / oil remains a structural risk — even if CPI is soft, oil could stay tight.\n- NVDA $500bn deal digestion may take time — if tomorrow CPI is soft + tech rebounds, NVDA could recover.\n\n## 6. My Take\n\nToday's market was classic \"CPI-eve rotation\": money flowing from tech into energy/commodities, bond market tense (TLT -0.85%). VIX at 15.46 reflects a market completely unpricing CPI risk — that is the biggest vulnerability. NC's calls were directionally accurate (5/6 correct), with NVDA the only miss — but $500bn deal failing to lift the stock signals AI trade fatigue. Tomorrow's CPI is the single biggest catalyst this month — not worth placing bets tonight. Wait for the 8:30PM HKT CPI print before committing to direction.",
+      "risks": [
+        "CPI TOMORROW 8:30PM HKT — 4 HIGH importance prints",
+        "Core CPI MoM >0.3% would kill rate cut hope",
+        "VIX 15.46 complacency — market underpricing CPI risk",
+        "NVDA $500bn deal cannot lift stock -> AI trade fatigue?"
+      ],
+      "my_take": "CPI-eve rotation: energy +4.66%, tech -0.88%, VIX 15.46 reflects complacency. NC calls 5/6 correct but NVDA $500bn deal couldn't lift stock — AI trade fatigue signal. Tomorrow's CPI is the biggest catalyst this month — not worth placing bets tonight."
     }
   ],
   "news_curator": [
