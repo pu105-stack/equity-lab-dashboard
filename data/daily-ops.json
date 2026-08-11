@@ -5284,45 +5284,6 @@
       "my_take": "Cautiously Bullish — TSM revenue +44.7% confirms AI demand intact，但 CPI week + Warsh Fed hawkish dissent 令 rate hike risk 在枱面。CPI 係本週 binary event：低於預期 = semi/AI 繼續 run；高於預期 = growth/tech rotation out。今日睇 RKLB earnings + TSM follow-through + gold/equities 矛盾信號。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-11",
-      "time": "08:14 HKT",
-      "status": "success",
-      "market_direction": "SPY flat, oil +6.7% on Hormuz stalemate, cybersecurity at records, NVDA -2.9% despite $500bn financing deal",
-      "headlines": [
-        "[NEW] ACTION: NVDA - $500bn AI financing deal; Jensen Huang calls chips \"investable asset\"; stock -2.9% - market divergence",
-        "[NEW] ACTION: CRWD/PANW - Cybersecurity record highs (+5-6%) post Black Hat; AI threat driving structural demand",
-        "[RECENT] ACTION: INTC - Plans $15B stock sale after 400% rise; dilutive but could fund foundry transformation",
-        "[RECENT] WATCH: OIL/HORMUZ - USO +6.7%; Trump demands Iran compensation; SPR hits 40-year low",
-        "[NEW] WATCH: AAPL - Analyst underperform warning without \"all-glass\" iPhone; -1.6%",
-        "[NEW] MEME: EBAY/GME - Ryan Cohen saga new twist; eBay may dodge takeover",
-        "[NEW] WATCH: RKLB - Neutron debut likely delayed; stock -3.4%",
-        "[NEW] NOTE: MACRO/FED - Trump confirms speaking to Fed Chair Warsh",
-        "[NEW] NOTE: DJT - $238M Q2 loss, crypto losses $361M, traffic falling; -8%",
-        "[RECENT] NOTE: GLD - Best week in 7 months on safe-haven flows"
-      ],
-      "opportunities": [
-        "NVDA: $500bn financing confirms AI buildout thesis but market not reacting - watch for reversal if broader risk-off fades",
-        "CRWD/PANW: Cybersecurity secular trend intact; Black Hat confirms rising AI threat budgets",
-        "INTC: Stock sale at 400% gain is smart capital allocation; buy the dip if foundry story intact"
-      ],
-      "analysis": "Asia/European session dominated by NVDA's $500bn financing deal (first broke ~21:19 HKT via FT/CNBC). Jensen Huang's 'chips as investable asset' framing is significant but market focused elsewhere. Oil continued its Hormuz-driven surge (+6.7%) with SPR hitting sub-300M barrels for first time since 1983. Cybersecurity names (CRWD, PANW) broke to all-time highs after Black Hat conference. INTC's $15B stock sale after +400% run is being taken negatively (-4.1%) but Wolf Street notes Big Tech has figured out selling equity at sky-high prices benefits companies more than investors. MEME corner active: Ryan Cohen saga taking new twist with eBay potentially dodging a GameStop takeover.",
-      "risks": [
-        "Oil at $126/bbl becoming structural cost input issue for broad market",
-        "NVDA financing deal may signal peak AI capex rather than continued growth",
-        "INTC dilution could trigger sector rotation out of semis",
-        "Hormuz stalemate entering day 30+ with no resolution in sight"
-      ],
-      "my_take": "The NVDA $500bn financing is today's biggest story but the market yawned (-2.9%). Two interpretations: market already priced in the AI buildout trajectory, or broader risk-off sentiment is overwhelming positive catalysts. I lean toward the former - the financing confirms but doesn't accelerate the thesis. INTC's $15B stock sale is the more interesting contrarian signal: selling equity after a 400% run is good capital allocation. The Hormuz story is aging (30+ days) but today's SPR milestone and BofA's '10x more ships' analysis keep it relevant. Gold's best week in 7 months suggests hedging demand is real.",
-      "key_takeaways": [
-        "NVDA $500bn financing = structural AI confirmation, but market indifferent - wait for catalyst",
-        "INTC dilution = smart capital raise at peak valuation; buy dip if foundry thesis intact",
-        "Cybersecurity at ATH = secular trend confirmed by Black Hat; CRWD/PANW leadership",
-        "Oil structural risk - SPR at 40-year low, Hormuz stalemate no resolution",
-        "Gold best week in 7 months - safe-haven buying accelerating"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-11",
       "time": "08:35 HKT",
@@ -5349,6 +5310,71 @@
         "NVDA $500bn deal cannot lift stock -> AI trade fatigue?"
       ],
       "my_take": "CPI-eve rotation: energy +4.66%, tech -0.88%, VIX 15.46 reflects complacency. NC calls 5/6 correct but NVDA $500bn deal couldn't lift stock — AI trade fatigue signal. Tomorrow's CPI is the biggest catalyst this month — not worth placing bets tonight."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-11",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "Hormuz僵局推高油金，AI基建主題擴散至chip equipment/bitcoin miner，META $145B支出受質疑",
+      "headlines": [
+        "[NEW] ACTION RIOT - $9.1B Anthropic AI deal, +20% pre-market",
+        "[NEW] ACTION HIMS - weight-loss push squeezes margins, pre-market slide",
+        "[NEW] ACTION LRCX/KLAC/AMAT - Goldman: bottleneck shifting from chips to infrastructure",
+        "[NEW] WATCH META - $145B AI spend vs elusive productivity",
+        "[RECENT] WATCH INTC - rally funding comeback but $15B dilution overhang",
+        "[RECENT] WATCH USO/GLD - Hormuz deadlock deepens, Trump demands compensation",
+        "[NEW] WATCH BTC-USD - stuck below $65K, rare software divergence",
+        "[NEW] WATCH COIN - Abu Dhabi tokenized asset push"
+      ],
+      "opportunities": [
+        "RIOT: bitcoin miner pivot to AI compute via $9.1B Anthropic deal — 20% pre-market surge signals market likes the pivot",
+        "LRCX/KLAC/AMAT: Goldman says AI bottleneck shifting from chips to infrastructure — chip equipment makers are next wave",
+        "HIMS: margin compression from weight-loss expansion creates potential dip-buy if core business intact"
+      ],
+      "analysis": "今日Asia/Europe session焦點：1) RIOT $9.1B AI pivot震撼市場，bitcoin miner轉型AI infra概念獲認可，+20% pre-market；2) Goldman出report話AI bottleneck已經唔喺chips而係infra — LRCX/KLAC/AMAT等chip equipment names成為下一浪；3) META $145B AI支出遭Barclays質疑productivity回報；4) Hormuz僵局新發展 — Trump要求伊朗賠償，談判stall，油金齊升。整體而言，AI主題正由chip層面擴散到infra/equipment/miner層面，係值得關注嘅rotation signal。",
+      "risks": [
+        "Hormuz僵局持續 — 油價波動影響broad market sentiment",
+        "META $145B支出若無productivity回報，可能trigger tech sell-off",
+        "BTC/software divergence — 若持續可能係risk-off signal"
+      ],
+      "my_take": "今日最值得trade嘅係RIOT — bitcoin miner轉AI infra係genuine pivot唔係炒作，$9.1B deal規模證明有real demand。LRCX/KLAC/AMAT嘅infra theme值得放入watchlist等pullback。HIMS嘅margin squeeze可能係短期noise — weight-loss係大market，invest in growth係正確方向，但timing上今日可能仲有sell pressure。META嘅$145B支出係red flag — 如果Q2 earnings唔show productivity gain，呢個會成為major overhang。",
+      "key_takeaways": [
+        "AI主題擴散：chip > equipment/infra > bitcoin miner pivot",
+        "RIOT +20% — 市場reward AI pivot story",
+        "Hormuz僵局新階段：Trump compensation demand令deal更遠",
+        "BTC/software divergence值得monitor — 可能係early risk signal"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-11",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish — CPI前wait-and-see，near ATH但有hawkish Fed overhang",
+      "headlines": [
+        "NVDA夥Wall Street搞$500B AI基建融資",
+        "Hormuz僵局加深 — 6艘船通過，USO +6.7%，Gold 2-month high",
+        "RIOT +20% — $9.1B Anthropic AI compute deal",
+        "Goldman點名LRCX/KLAC/AMAT做AI下個winner",
+        "FOMC Jul: 3位hawkish dissenter要求加息 — CPI明日係關鍵"
+      ],
+      "focus": [
+        "CPI Jul（Wed 8:30pm HKT）— THE event",
+        "RIOT — AI pivot thesis genuine，等pullback",
+        "LRCX/KLAC/AMAT — AI infra rotation，AMAT earnings Thu",
+        "CSCO earnings Wed AMC — enterprise AI demand signal",
+        "Hormuz/USO — 任何deal signal會trigger sharp reversal"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n上個FOMC（Jul 28-29）維持利率喺 3.50-3.75%，9-3 投票 — 重點係有 **3位鷹派dissenter（Hammack、Kashkari、Logan）要求加息25bp**。呢個係Warsh上任後最hawkish嘅signal。Statement明確指出 inflation \"remains elevated\" 同 energy supply shock。Middle East conflict 被正式寫入風險因素。\n\n下次FOMC係 **Sep 15-16**，仲有約5星期。呢段時間嘅CPI/PPI數據會直接決定9月會唔會真係加息。\n\n**今個星期CPI（Wed 8:30pm HKT）係最關鍵macro event** — 如果CPI再hot，3位dissenter嘅立場會被驗證，market要price in Sep hike risk。如果CPI降溫，hawkish dissent會被淡化，risk-on可以繼續。\n\n## 📰 今日重點頭條\n\n1. **[NVDA] Nvidia partners with Wall Street giants to raise $500 billion for AI buildout** — Investing.com。NVDA聯同華爾街大行搞$500B AI基建融資，規模前所未有。NVDA噚日-2.86%但呢個係structural bull catalyst。\n\n2. **[Hormuz] Hormuz Traffic Sinks to Six Vessels as Iran Talks Stall Again** — Oilprice。Hormuz海峽每日得6艘船通過，Trump要求伊朗賠償，談判再停滯。USO +6.73%，Gold 2-month high。\n\n3. **[RIOT] Anthropic strikes $9.1B compute deal with Bitcoin miner Riot** — Cointelegraph。RIOT pre-market +20%，Bitcoin miner轉AI infra，$9.1B規模證明唔係炒作。\n\n4. **[LRCX/KLAC/AMAT] Goldman: \"The Bottleneck Is Not the Chips Anymore\" — AI's Next Big Winners** — 247WallSt。AI theme由GPU層面擴散到chip equipment，Goldman直接點名呢三隻。\n\n5. **[META] Zuckerberg Plans to Spend $145 Billion on AI; Barclays Skeptical** — 247WallSt。$145B係極進取嘅數字，Barclays話productivity gain未見到。若Q2 earnings唔交付，overhang會好大。\n\n6. **[HIMS] Hims & Hers shares slide as costly weight-loss push squeezes margins** — Investing.com。Weight-loss TAM大但燒錢快，短期margin pressure。\n\n7. **[INTC] Intel investors banking on comeback — but $15B dilution overhang** — FT。INTC $97.52，由低位反彈好多，但$15B stock sale dilution未消化。\n\n8. **[BTC] Software stocks break away from bitcoin: rare divergence** — CoinDesk。BTC under $65K，software stocks outperforming — crypto-specific weakness。\n\n9. **[CSCO] Cisco earnings Wed AMC** — $479B market cap巨企report，enterprise networking/AI demand係重點。\n\n10. **[AMAT] Applied Materials earnings Thu AMC** — $428B semi equipment巨頭，正好對應Goldman嘅AI infra thesis。\n\n## 🌍 隔夜市場\n\n- **US close:** SPY $773.03（-0.03%），QQQ $720.87（-0.30%），DIA $538.99（-0.12%）— 基本上flat，market等待CPI\n- **SPY near ATH:** $773 vs ATH $776.85，距離歷史高位得0.5%\n- **VIX:** 相對平穩，冇panic signal\n- **USO $125.92 (+6.73%):** Hormuz僵局推升油價，係今日最大macro driver\n- **GLD $402.54 (+1.02%):** 衝上2個月高位，safe-haven bid強勁\n- **BTC:** Under $65K，underperform其他risk assets — divergence值得關注\n- **Bond market:** 3位FOMC dissenter要求加息 → yield curve可能有上行壓力，等CPI確認\n\n## 📈 昨日市場爆升／暴跌榜\n\n**📈 Top Gainers（micro-cap居多，single-event driven）：**\n- SCKT +451% — 細價股爆升，冇跟進價值\n- HZO +46% — MarineMax，可能係earnings beat\n- VREX +49% — Varex Imaging，earnings相關\n\n**📉 Top Losers：**\n- BTDR -20% — Bitdeer Technologies，Bitcoin miner pullback（RIOT例外因為AI pivot）\n- NABL -36% — N-able, Inc.，earnings miss\n- LINC -25% — Lincoln Educational，earnings後回調\n\n**📊 Most Active（值得睇嘅）：**\n- NVDA $217.55，-2.86%，active — $500B AI buildout news after close\n- INTC $97.52，-4.06%，active — comeback rally遇上dilution overhang\n- PLTR $175.23，+1.87%，active — 持續強勢\n- ACHR $6.26，+11.99%，active — eVTOL持續有資金關注\n- TSLL $8.21，+1.23%，active — Tesla 2X ETF有資金流入\n\n**Sector theme:** 冇明顯sector rotation，大部份move係single-event driven（earnings / deals）。最明顯嘅macro theme係 energy/oil + gold 受Hormuz推動。\n\n## 📡 今日重點事件（From macro_calendar.json）\n\n| 時間 (HKT) | 重要性 | 事件 | Previous | Forecast |\n|------------|--------|------|----------|----------|\n| 8:15pm | 🟡 MED | ADP Employment Change Weekly | 15 | — |\n| 10:00pm | 🔴 HIGH | Existing Home Sales (Jul) | 4.09M | 4.05M |\n| 10:00pm | 🟡 MED | Existing Home Sales MoM (Jul) | -2.4% | — |\n| 4:30am | 🟡 MED | API Crude Oil Stock Change | +2.69M | -0.5M |\n\n**今個星期重點：**\n- 🔴 **Wed 8:30pm — CPI YoY/MoM + Core CPI（Jul）** ← 本週最重要！直接影響Fed Sep hike概率\n- 🔴 **Thu 8:30pm — PPI MoM（Jul）**\n- 🔴 **Fri 8:30pm — Retail Sales MoM（Jul）**\n- 🔴 **Fri 10:00pm — Michigan Consumer Sentiment Prel（Aug）**\n\n## 🔥 Sector Watch\n\n**🔥 Energy/Oil（Bullish short-term，但有 reversal risk）：**\n- Hormuz僵局加深，USO +6.7%，任何de-escalation signal都會trigger sharp reversal\n- 但要留意：3位FOMC dissenter點名energy supply shock推動inflation → 油價越高，加息風險越大\n- 呢個唔係free lunch — 油股升幅已經反映咗大部份Hormuz premium\n\n**🔥 AI Infrastructure / Semiconductor Equipment（Structural bull）：**\n- Goldman直接點名LRCX/KLAC/AMAT做AI下一個winner\n- AMAT Thu AMC earnings → 係呢個thesis嘅即場驗證\n- NVDA $500B AI buildout fund更強化呢個方向\n- 但CSCO Wed AMC earnings都要睇 — enterprise AI demand有冇spill over到networking？\n\n**⚠️ Bitcoin/Crypto（Underperformance signal）：**\n- BTC stuck below $65K，software stocks outperforming → rare bearish divergence\n- RIOT +20%係company-specific（AI pivot），唔係crypto strength\n- BTDR -20%更反映pure crypto miner weakness\n- 若BTC持續underperform，可能係early risk-off warning\n\n**📡 Consumer/Tech（Earnings-driven week）：**\n- CSCO（Wed）、AMAT（Thu）連續兩日有大型tech earnings\n- HD（Mon）同 WMT（Thu next week）會俾到consumer health signal\n\n## 🎯 Pre-market Opportunities\n\n**🎯 RIOT — Action（從NC抽出）：**\n- $9.1B Anthropic AI compute deal係genuine pivot，唔係炒作\n- Pre-market +20%，唔建議追 — 等pullback後先考慮entry\n- Catalyst: AI infrastructure demand正由GPU擴散到compute layer\n- Risk: +20%後短期overbought，profit-taking pressure大\n\n**🎯 LRCX/KLAC/AMAT — WATCH（從NC抽出）：**\n- Goldman嘅「bottleneck is not chips anymore」係structural thesis\n- AMAT Thu earnings係直接catalyst — 如果guidance強，成個sector會move\n- 今日可以開始build watch，等AMAT earnings做confirmation\n- 唔好急 — earnings前IV高，earnings後方向confirm先入\n\n**📡 HIMS — WATCH（從NC抽出）：**\n- Weight-loss push squeeze margins — 短期pain\n- 但要睇core telehealth business有冇intact\n- 等sell-off穩定後先評估，今日可能仲有downside\n\n**📡 META — WATCH：**\n- $145B AI spend被Barclays質疑 — 若Q2 earnings唔show productivity gain，overhang嚴重\n- META未有earnings date但sentiment risk正在build\n- 今日唔需要action，但要keep on radar\n\n**📡 NVDA — Context update：**\n- $500B AI buildout fund with Wall Street係massive long-term catalyst\n- 但噚日-2.86%反映short-term technical pressure\n- CPI前唔建議加倉，但long thesis intact\n\n**⚠️ INTC — 小心：**\n- Rally funding comeback但$15B stock sale dilution係real overhang\n- $97.52仍遠低於歷史高位，反彈幅度已大\n- 唔建議追 — dilution risk + execution uncertainty\n\n## 📅 未來一個月業績重點\n\n**呢個星期（Aug 11-17）：**\n| Date | Ticker | Market Cap | Estimate | Time |\n|------|--------|-----------|----------|------|\n| Tue | SE | $69B | $0.78 | BMO |\n| Tue | LITE | $69B | $2.62 | AMC |\n| Tue | CAH | $55B | $2.42 | BMO |\n| **Wed** | **CSCO** | **$479B** | **$0.99** | **AMC** 🎯 |\n| Wed | COHR | $74B | $1.43 | AMC |\n| **Thu** | **AMAT** | **$428B** | **$3.36** | **AMC** 🎯 |\n| Thu | BN | $108B | $0.63 | BMO |\n| Mon | HD | $355B | $4.71 | BMO |\n\nCSCO同AMAT係今個星期最重要嘅earnings — 兩間都係AI infra supply chain關鍵。CSCO反映enterprise AI networking demand，AMAT反映semi equipment cycle。\n\n**下個星期（Aug 18-24）：**\n| Date | Ticker | Market Cap | Estimate | Time |\n|------|--------|-----------|----------|------|\n| Wed | ADI | $190B | $3.33 | BMO |\n| Wed | TJX | $178B | $1.18 | BMO |\n| Wed | LOW | $125B | $4.25 | BMO |\n| Wed | TGT | $68B | $2.21 | BMO |\n| **Thu** | **WMT** | **$897B** | **$0.73** | **BMO** 🎯 |\n| **Thu** | **BABA** | **$309B** | **$1.77** | **BMO** 🎯 |\n| Thu | DE | $164B | $4.85 | BMO |\n\nWMT係最大嘅consumer bellwether，BABA反映China consumer/internet recovery。兩間都會俾到重要macro signal。\n\n## 📋 Today's Agenda\n\n- **8:15pm HKT** — ADP Employment Change Weekly\n- **9:30pm HKT** — US Market Open\n- **10:00pm HKT** — Existing Home Sales (HIGH)\n- **Overnight** — 睇實USO/GLD/Hormuz headlines\n- **明日重點** — CPI Jul（8:30pm Wed）— THE event of the week\n\n**Key Levels:**\n- SPY: Support $768, Resistance $777（ATH）\n- QQQ: Support $715, Resistance $748（ATH）\n- NVDA: Support $212, Resistance $225\n\n## 💡 My Take\n\n**Market bias: Cautiously Bullish，等CPI。**\n\n今朝market set up係「一切等CPI」。SPY near ATH、FOMC有3位hawkish dissenter、CPI聽晚出 — 呢個組合令market處於wait-and-see mode。Hormuz僵局推高油金但唔係今個星期嘅main event。\n\n**Bull case:** CPI低過預期 → hawkish dissent被淡化 → SPY break ATH → AI/tech繼續lead。NVDA $500B fund、AMAT earnings、LRCX/KLAC嘅infra rotation全部等緊呢個trigger。\n\n**Bear case:** CPI再hot → Sep hike risk real → 3 dissenters被驗證 → broad sell-off，特別係high-multiple tech。Hormuz油價令CPI upside risk更大。\n\n**最值得做嘅嘢今日：**\n1. 唔好喺CPI前做大bet — 等明日CPI方向先出手\n2. RIOT pullback後睇entry point（AI pivot thesis genuine）\n3. LRCX/KLAC放入watchlist等AMAT earnings catalyst\n4. 留意BTC嘅divergence signal — 可能係early risk-off warning\n5. Hormuz任何de-escalation headline會trigger USO/GLD sharp reversal — 做好兩手準備\n\n**一句總結：CPI係今個星期嘅king。Everything else is noise until Wednesday 8:30pm HKT。**",
+      "risks": [
+        "CPI hot → Sep hike risk → broad sell-off",
+        "Hormuz escalation → 油價再升 → inflation + recession risk",
+        "META $145B spend若冇productivity gain → major overhang",
+        "INTC $15B dilution — comeback rally未必sustainable",
+        "BTC divergence from software stocks — early risk-off signal"
+      ],
+      "my_take": "Cautiously Bullish，等CPI。FOMC Jul有3位hawkish dissenter要求加息 → CPI係今個星期嘅king。Hormuz僵局推高油金但係secondary theme。最值得睇實：RIOT AI pivot（等pullback）、LRCX/KLAC/AMAT infra rotation（等AMAT earnings confirm）、NVDA $500B fund（long-term structural）。CPI前唔做大bet，等明日方向。"
     }
   ],
   "news_curator": [
