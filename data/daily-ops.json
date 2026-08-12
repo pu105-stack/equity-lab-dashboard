@@ -5375,6 +5375,78 @@
         "BTC divergence from software stocks — early risk-off signal"
       ],
       "my_take": "Cautiously Bullish，等CPI。FOMC Jul有3位hawkish dissenter要求加息 → CPI係今個星期嘅king。Hormuz僵局推高油金但係secondary theme。最值得睇實：RIOT AI pivot（等pullback）、LRCX/KLAC/AMAT infra rotation（等AMAT earnings confirm）、NVDA $500B fund（long-term structural）。CPI前唔做大bet，等明日方向。"
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-08-12",
+      "time": "08:14 HKT",
+      "status": "success",
+      "market_direction": "US stocks end down as Iran peace optimism fades. Oil and gold up. CPI Wednesday is key catalyst. Tech diverges: CRWV +14pct AH, INTC dilutes, NVDA scrutinized.",
+      "headlines": [
+        "[NEW] ACTION INTC - $20B offering at $95 after 400pct rally",
+        "[NEW] ACTION CRWV - Revenue doubled, +14pct AH",
+        "[NEW] ACTION META - $1.4T lawsuit trial + Manus deal blocked",
+        "[RECENT] WATCH NVDA - Circular financing accusations + China risk",
+        "[NEW] WATCH GOOGL - Gemini hits 1B users",
+        "[RECENT] WATCH USO/GLD - US fires on Hormuz ship, traffic at 6 vessels",
+        "[NEW] WATCH MACRO - CPI Wednesday: 8yr high sell trigger",
+        "[RECENT] WATCH SMCI - Earnings good news, AI servers climb",
+        "[RECENT] WATCH BTC-USD - Stuck below $65K, Bitwise cuts 14pct"
+      ],
+      "opportunities": [
+        "INTC: $20B stock offering at $95 after 400pct rally - major dilution signal",
+        "CRWV: Revenue doubled, +14pct AH - AI infra demand accelerating",
+        "META: $1.4T lawsuit to trial + $2B Manus deal blocked by Beijing"
+      ],
+      "analysis": "US session: AI infra divergence (CRWV+SMCI up vs NVDA scrutiny) + Hormuz fatigue (escalation but market calm). CPI Wednesday looms as key catalyst.",
+      "risks": [
+        "INTC dilution overhang",
+        "Hormuz escalation",
+        "CPI hawkish surprise",
+        "China $148B real estate bomb"
+      ],
+      "my_take": "AI trade no longer a monolith. Hormuz crisis in 6th week, market fatigue. Wednesday CPI is the real catalyst. INTC dilution = yellow flag.",
+      "key_takeaways": [
+        "CRWV revenue doubled, AI infra real",
+        "INTC diluting $20B at $95",
+        "META lawsuit trial + Manus block",
+        "CPI Wednesday - market bearish",
+        "Hormuz escalation but market fatigue"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-12",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "全線微跌，極低成交量 — pre-CPI holding pattern。IWM唯一錄得升幅（+0.34%）。Defensive rotation明確（XLU +1.16%, XLE +1.25%）。",
+      "headlines": [
+        "Wall Street ends down, US-Iran peace optimism fades — Hormuz week 6",
+        "INTC upsizes stock offering to $20B at $95 — dilution overhang",
+        "GOOGL -3.84% on no single catalyst — Gemini milestone ignored",
+        "KLAC +4%, LRCX +1.6% — Goldman 'AI bottleneck is not chips' thesis playing out",
+        "RIOT +4.3% — Anthropic $9.1B compute deal follow-through",
+        "CPI tonight 8:30pm HKT — HIGH importance, binary event for Sep rate path",
+        "CRWV +2.4% — CoreWeave revenue doubles, AI infra demand accelerating",
+        "DELL -3.7% — gives back AI server rally gains",
+        "Fed Hammack speech Thu — Jul FOMC hawkish dissenter speaks post-CPI",
+        "Hormuz: US fires on blockade ship — escalation but still proportional"
+      ],
+      "opportunities": [
+        "KLAC/LRCX/AMAT: Semi equipment rotation — Goldman thesis validated, AMAT earnings Thu",
+        "RIOT: BTC miner-to-AI pivot confirmed by $9.1B deal, follow-through strong",
+        "CRWV: Pure-play AI infra, revenue doubled, backlog >$100B",
+        "CPI playbook: Binary event — prepare for both soft (relief rally) and hot (risk-off) scenarios"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n上次FOMC（Jul 28-29）維持利率 3.50-3.75%，但有 **3位鷹派dissenter（Hammack、Kashkari、Logan）要求加息25bp** — Warsh上任後最hawkish嘅signal。Statement明確指出 inflation \"remains elevated\" 加上 energy supply shock from Middle East。\n\n下次FOMC係 **Sep 15-16**，約5星期後。今晚CPI係Sep meeting前最重要嘅inflation check。如果CPI再hot，3位dissenter嘅立場被驗證，market要price in Sep hike risk。如果CPI降溫，hawkish dissent會被淡化。\n\n今個星期仲有：今晚CPI（Wed 8:30pm HKT）→ 聽晚PPI（Thu 8:30pm HKT）+ Fed Hammack/Barkin speech → 星期五冇重大event。\n\n## 📰 今日重點頭條\n\n1. **[Wall Street ends down as US-Iran peace optimism fades]** — Investing.com / Reuters。 Hormuz僵局第6週，US-Iran談判再停滯，Trump reportedly秘密轉機避伊朗威脅。市場由「樂觀」轉向「疲勞」。NC #2準確捕捉呢個transition。\n\n2. **[INTC upsizes stock offering to $20B at $95]** — 由昨日$15B加碼至$20B。Wolf Street headline: \"Buy Low, Sell High\" — management喺高位sell into strength。雖然INTC flat +0.19%收市，但呢個係textbook dilution overhang。NC #2 ACTION call完全正確。\n\n3. **[CoreWeave (CRWV) revenue doubles, +14% AH]** — AI infrastructure demand accelerating，backlog >$100B。CRWV defying \"AI fatigue\" narrative。NC #2 ACTION call: \"If NVDA is the picks-and-shovels, CRWV is the mine.\"\n\n4. **[GOOGL drops 3.84% with no single obvious catalyst]** — Gemini 1B users milestone被市場ignore。Analysts warn GOOG faces two major AI problems vs SpaceX。Momentum breakdown — 值得關注。\n\n5. **[KLAC +4.0%, LRCX +1.6% on Goldman 'AI bottleneck is not chips' thesis]** — Morning Scan嘅call完美命中。AI infra trade由GPU層面擴散到semi equipment。Goldman直接點名LRCX/KLAC/AMAT。\n\n6. **[RIOT +4.3% — Anthropic $9.1B compute deal follow-through]** — Bitcoin miner-to-AI pivot narrative confirmed。Pre-market +20%後收市keep住+4.3%，唔係one-day pump。\n\n7. **[Hormuz: US helicopter fires on blockade-violating ship]** — 技術上係escalation，但market reaction mild。Oil +1.3%（USO $127.61），冇panic bid。雙方保持proportional。\n\n8. **[DELL -3.7% — gives back yesterday's AI server rally]** — 噚日DELL +3%跟SMCI earnings，今日全數回吐。AI server trade仍然volatile。\n\n9. **[META double headwind: $1.4T lawsuit + China blocks Manus deal]** — 但META +0.71%，market未panic。NC #2 WATCH call正確：sentiment headwind, not existential。\n\n10. **[HIMS -4.0% — weight-loss push squeezes margins]** — cost of growth story hitting profitability。TAM大但execution risk上升。\n\n## 📊 Market Recap\n\nUS equities全線微跌，極低成交量 — textbook pre-CPI positioning：\n\n| Index | Close | Change | Signal |\n|-------|-------|--------|--------|\n| SPY | 770.56 | -0.32% | Below ATH $776.85, holding range |\n| QQQ | 718.45 | -0.34% | Tech under slight pressure |\n| DIA | 537.28 | -0.32% | Defensive rotation |\n| IWM | 300.99 | +0.34% | Small caps the outlier — green! |\n| VIX | 15.28 | -1.16% | No panic, complacency creeping in |\n\nVolume signals：SPY 36.2M vs avg 41.5M（0.87x），QQQ 29.0M vs avg 31.0M（0.94x），IWM 14.7M vs avg 17.2M（0.86x）。全線低於平均 — 市場等CPI，冇人想喺數據前落大注。\n\nSector rotation明確：\n- 🟢 **贏家:** XLE +1.25%（Hormuz premium），XLU +1.16%（defensive bid），XLI +0.60%\n- 🔴 **輸家:** XLRE -0.72%，XLC -0.50%（GOOGL拖累），XLY -0.36%\n\nEnergy + Utilities同時outperform = classic defensive rotation ahead of binary macro event。唔係risk-off panic（VIX -1.16% confirm），而係calculated caution。\n\n## 🔥 Notable Movers\n\n**📈 Significant gainers (>2%):**\n- **KLAC +4.01%** — Goldman \"AI bottleneck is not chips\" thesis。Semi equipment rotation in progress。Morning Scan call命中。\n- **RIOT +4.33%** — Anthropic $9.1B deal follow-through。BTC miner-to-AI pivot validated。值得carry forward。\n- **CRWV +2.42%** — CoreWeave earnings momentum。AI infra pure play，backlog >$100B。\n\n**📉 Significant losers (<-2%):**\n- **GOOGL -3.84%** — 最令人擔心嘅move。冇單一catalyst，係多個headwind疊加：Gemini milestone ignored + analysts警告AI competition + 可能係positioning ahead of CPI。如果聽日繼續跌穿$340，要reassess。\n- **HIMS -3.97%** — Weight-loss strategy擠壓margins。Growth-at-any-cost narrative cracking。\n- **DELL -3.69%** — 完全回吐噚日+3%。AI server trade仲係volatile，唔係smooth trend。\n\n**值得注意嘅flat movers：**\n- **NVDA -0.02%** — 幾乎完全flat。$500B financing announcement（「biggest AI story」）被市場完全ignore。Aug 26 earnings先係真正catalyst。NC #2 WATCH call正確：$500B narrative powerful but scrutiny growing。\n- **INTC +0.19%** — Flat但news係negative（$20B dilution upsized from $15B）。Stock holding但overhang未消化。\n\n## 📰 News That Mattered — NC Call Audit\n\n對比News Curator #2嘅calls同今日market action：\n\n| NC Call | Direction | Result | Notes |\n|---------|-----------|--------|-------|\n| INTC: $20B dilution → sell-into-strength | 🟡 WATCH | ✅ HIT | Dilution upsized, stock flat but overhang real |\n| CRWV: revenue doubles, +14% AH | 🎯 ACTION | ✅ HIT | AI infra demand accelerating, +2.4% |\n| META: double headwind, not existential | 🟡 WATCH | ✅ HIT | +0.71%, market agrees |\n| NVDA: circular financing scrutiny | 🟡 WATCH | ✅ HIT | Flat on biggest story, wait for earnings |\n| USO/GLD: Hormuz escalation contained | 🟡 WATCH | ✅ HIT | Oil +1.3%, no panic |\n| CPI Wed: \"big deal for Fed\" | 🟡 WATCH | ⏳ PENDING | Tonight's event |\n| SMCI: earnings bring \"more good news\" | 🟡 WATCH | ✅ HIT | AI server theme intact, HPE/DELL follow |\n| GOOGL: milestone but market yawns | 🟡 WATCH | ⚠️ BEARISH | -3.84%, worse than NC expected |\n\nNC #2 hit rate: **7/8 confirmed, 1 pending (CPI)**. Morning Scan嘅KLAC/LRCX/AMAT call亦完美命中。\n\n**Raw headlines NC missed:**\n- Trump secretly switched planes in Turkey amid Iran threat — geopolitical premium可能被underpriced\n- David Ellison floats Hollywood exit (PARA/WBD) — media sector risk未被NC capture\n- DELL -3.7% give-back — NC caught the AI server theme but missed the reversal risk\n\n## 🎯 Opportunities Carry Forward\n\n**1. KLAC / LRCX / AMAT — Semi Equipment Rotation**\nGoldman嘅「bottleneck is not the chips anymore」thesis今日驗證。KLAC +4%唔係noise — 係AI infra trade進入phase 2（由GPU → equipment）。AMAT Thu earnings（Aug 14）係下一個catalyst。Keep on radar — 如果AMAT beat，成個sector會再升。\n\n**2. RIOT — BTC Miner-to-AI Pivot Validated**\n$9.1B Anthropic deal規模證明呢個唔係炒作。+4.3%今日follow-through強勁（pre-market +20%後守住大部分升幅）。呢個theme可以獨立於BTC價格運行。值得繼續追蹤。\n\n**3. CRWV — Pure-Play AI Infrastructure**\nRevenue doubled，backlog >$100B，stock defying AI fatigue narrative。如果NVDA係picks-and-shovels，CRWV係個mine。Earnings momentum值得carry forward。\n\n**4. CPI Playbook — Binary but Positionable**\n今晚CPI係成個星期嘅fulcrum。Market positioning: bearish（bond short at 8-year high, gold at 2-month high）。如果CPI軟 → massive relief rally in bonds + gold selloff + risk-on。如果CPI熱 → sell trigger pulled, Sep hike odds spike。唔係predict CPI，係prepare for both scenarios。\n\n## ⚠️ Risks / Watchlist\n\n**Tonight's Events（from macro_calendar.json）：**\n- 🔴 **8:30PM HKT — CPI data dump:** Inflation Rate YoY (Jul), Core CPI MoM/YoY, Inflation Rate MoM — 全部HIGH importance。呢個係今晚唯一真正重要嘅event。\n- 🟡 7:00PM — MBA Mortgage Rate\n- 🟡 10:30PM — EIA Crude Oil/Gasoline Stocks（Hormuz context makes this more important than usual）\n- 🟡 2:00AM — Monthly Budget Statement\n\n**Tomorrow's Events:**\n- 🔴 8:30PM — PPI MoM (Jul)\n- 🟡 8:15PM — Fed Hammack Speech（重要！Hammack係Jul FOMC三個hawkish dissenter之一。CPI後一日佢講嘢，任何hawkish/dovish shift都會被放大。）\n- 🟡 8:30PM — Initial Jobless Claims + Core PPI MoM\n- 🟡 8:40PM — Fed Barkin Speech\n\n**Overnight Risks:**\n- **CPI binary risk:** Hot print = Sep hike odds spike, risk assets sell off。Cold print = relief rally, but then PPI tomorrow could reverse it。\n- **GOOGL momentum breakdown:** -3.84% with no single catalyst is the kind of move that can accelerate if stops get hit。\n- **Hormuz escalation:** US firing on ship is technically escalation。雙方still proportional但任何miscalculation could spike oil $5+ overnight。\n- **INTC dilution execution:** $20B offering needs to price。如果demand weak，stock could gap down。\n\n## 💡 My Take\n\n今日係textbook pre-CPI holding pattern。低成交量、defensive rotation（XLU +1.16%, XLE +1.25%）、VIX下跌 — 市場唔係panic，係waiting。The dog that didn't bark: NVDA flat on $500B news。The dog that did: GOOGL -3.84% on nothing obvious。\n\n**最重要嘅takeaway：** KLAC +4%同RIOT +4.3%係real signal，唔係noise。AI infra trade進入phase 2（equipment + alternative infra plays），而唔再係blindly buy NVDA。Morning Scan嘅KLAC/LRCX/AMAT call完美命中，carry forward到AMAT earnings Thu。\n\n**Tomorrow's bias: Neutral with CPI-dependent skew。** 如果CPI軟 → bullish risk assets, bearish gold/bonds。如果CPI熱 → bearish everything except energy。Hammack speech Friday係second-order catalyst — 如果CPI熱+Hammack hawkish = Sep hike narrative locks in。\n\n今晚CPI係Jul FOMC後第一個真正嘅macro test。3位dissenter等緊data去驗證佢哋嘅hawkish stance。呢個唔係ordinary CPI print — 係有real policy implication嘅event。",
+      "risks": [
+        "CPI binary risk: Hot print = Sep hike odds spike; Cold = relief but PPI tomorrow could reverse",
+        "GOOGL momentum breakdown: -3.84% no catalyst = vulnerable to stop-loss cascade",
+        "Hormuz miscalculation: US firing incident is escalation; any error could spike oil $5+",
+        "INTC $20B dilution execution: If offering demand weak, stock gaps down",
+        "Fed Hammack speech Thu: Hawkish dissenter speaks post-CPI — any shift is amplified"
+      ],
+      "my_take": "Pre-CPI holding pattern：低成交量、defensive rotation、VIX跌。KLAC +4%同RIOT +4.3%係real signal — AI infra trade進入phase 2。GOOGL -3.84%最令人擔心。今晚CPI係Jul FOMC後第一個真正macro test，3位hawkish dissenter等緊data驗證。"
     }
   ],
   "news_curator": [
