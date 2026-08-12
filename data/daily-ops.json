@@ -5377,44 +5377,6 @@
       "my_take": "Cautiously Bullish，等CPI。FOMC Jul有3位hawkish dissenter要求加息 → CPI係今個星期嘅king。Hormuz僵局推高油金但係secondary theme。最值得睇實：RIOT AI pivot（等pullback）、LRCX/KLAC/AMAT infra rotation（等AMAT earnings confirm）、NVDA $500B fund（long-term structural）。CPI前唔做大bet，等明日方向。"
     },
     {
-      "pipeline": "news-analysis-NewsCurator",
-      "date": "2026-08-12",
-      "time": "08:14 HKT",
-      "status": "success",
-      "market_direction": "US stocks end down as Iran peace optimism fades. Oil and gold up. CPI Wednesday is key catalyst. Tech diverges: CRWV +14pct AH, INTC dilutes, NVDA scrutinized.",
-      "headlines": [
-        "[NEW] ACTION INTC - $20B offering at $95 after 400pct rally",
-        "[NEW] ACTION CRWV - Revenue doubled, +14pct AH",
-        "[NEW] ACTION META - $1.4T lawsuit trial + Manus deal blocked",
-        "[RECENT] WATCH NVDA - Circular financing accusations + China risk",
-        "[NEW] WATCH GOOGL - Gemini hits 1B users",
-        "[RECENT] WATCH USO/GLD - US fires on Hormuz ship, traffic at 6 vessels",
-        "[NEW] WATCH MACRO - CPI Wednesday: 8yr high sell trigger",
-        "[RECENT] WATCH SMCI - Earnings good news, AI servers climb",
-        "[RECENT] WATCH BTC-USD - Stuck below $65K, Bitwise cuts 14pct"
-      ],
-      "opportunities": [
-        "INTC: $20B stock offering at $95 after 400pct rally - major dilution signal",
-        "CRWV: Revenue doubled, +14pct AH - AI infra demand accelerating",
-        "META: $1.4T lawsuit to trial + $2B Manus deal blocked by Beijing"
-      ],
-      "analysis": "US session: AI infra divergence (CRWV+SMCI up vs NVDA scrutiny) + Hormuz fatigue (escalation but market calm). CPI Wednesday looms as key catalyst.",
-      "risks": [
-        "INTC dilution overhang",
-        "Hormuz escalation",
-        "CPI hawkish surprise",
-        "China $148B real estate bomb"
-      ],
-      "my_take": "AI trade no longer a monolith. Hormuz crisis in 6th week, market fatigue. Wednesday CPI is the real catalyst. INTC dilution = yellow flag.",
-      "key_takeaways": [
-        "CRWV revenue doubled, AI infra real",
-        "INTC diluting $20B at $95",
-        "META lawsuit trial + Manus block",
-        "CPI Wednesday - market bearish",
-        "Hormuz escalation but market fatigue"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-12",
       "time": "08:36 HKT",
@@ -5447,6 +5409,71 @@
         "Fed Hammack speech Thu: Hawkish dissenter speaks post-CPI — any shift is amplified"
       ],
       "my_take": "Pre-CPI holding pattern：低成交量、defensive rotation、VIX跌。KLAC +4%同RIOT +4.3%係real signal — AI infra trade進入phase 2。GOOGL -3.84%最令人擔心。今晚CPI係Jul FOMC後第一個真正macro test，3位hawkish dissenter等緊data驗證。"
+    },
+    {
+      "pipeline": "news-analysis-NewsCurator",
+      "date": "2026-08-12",
+      "time": "20:08 HKT",
+      "status": "success",
+      "market_direction": "CPI Day - global markets hold breath for 8:30pm HKT CPI. Hedging at 8yr high. AI earnings strong but CPI decides if rally sustains",
+      "headlines": [
+        "[NEW] ACTION MACRO - CPI Day, hedging positions at 8yr high",
+        "[RECENT] ACTION USO - Hormuz traffic new low, IEA warns stockpile depletion",
+        "[NEW] ACTION CRWV - Q2 revenue doubled, +18% premarket, AI infra accelerating",
+        "[NEW] WATCH NVDA/SMCI - AI earnings week, BofA raises SMCI PT",
+        "[NEW] WATCH TECH - AI capex could hit $1.6T next year",
+        "[NEW] WATCH TECH - Optical stocks take off, AI infra downstream rotation",
+        "[NEW] WATCH TECH - SK Hynix $38B AI memory bet"
+      ],
+      "opportunities": [
+        "CPI Day: most important macro event, decides AI rally fate",
+        "Hormuz: supply risk under-appreciated, inventory depletion is structural",
+        "CRWV: AI infra demand confirmed accelerating, positive read-through to NVDA/SMCI"
+      ],
+      "analysis": "CPI releases tonight 8:30pm HKT, hedging at 8yr high. Consensus leans benign but tail risk not ignored. AI earnings season strong - CRWV +18%, SMCI beat with BofA PT raise. CPI is ultimate catalyst: benign -> AI rally continues; hot -> profit-taking across the board. Hormuz deepening - traffic at new low, IEA warns depletion, but oil down 4th week creating asymmetric upside.",
+      "risks": [
+        "CPI hot -> AI earnings rally fully reversed",
+        "Hormuz escalation -> oil spike -> stagflation risk",
+        "AI capex $1.6T narrative may signal peak euphoria"
+      ],
+      "my_take": "CPI first, everything else second. Hormuz is under-appreciated tail risk. AI infra demand confirmed not peaking, but need CPI clearance before adding. Optical stocks rotation worth tracking as next AI downstream theme.",
+      "key_takeaways": [
+        "CPI tonight 8:30pm HKT - most important macro event of 2026",
+        "Hormuz under-appreciated - IEA depletion warning vs oil down 4th week",
+        "AI earnings strong: CRWV +18%, SMCI beat, NVDA partners leading",
+        "AI capex forecast rising to $1.6T - 1998 or dot-com 2.0?",
+        "Optical stocks taking off - AI trade downstream rotation signal"
+      ]
+    },
+    {
+      "pipeline": "morning-scan",
+      "date": "2026-08-12",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish - CPI decides direction, consensus benign but hedging 8yr high",
+      "headlines": [
+        "CPI Day - hedging 8yr high, Headline fcast 3.4% vs prior 3.5%",
+        "CRWV +18% premarket - AI infra revenue doubled, demand accelerating",
+        "Hormuz crisis deepens - IEA warns oil stockpile depletion, SPR <300M barrels",
+        "AI capex could hit $1.6T - SK Hynix $38B bet confirms HBM demand",
+        "Optical stocks take off - AI infra downstream rotation new signal",
+        "FOMC Jul meeting 9-3 vote, 3 hawkish dissenters wanted hike"
+      ],
+      "focus": [
+        "CPI 8:30pm HKT - decides the whole week direction",
+        "NVDA - AI infra earnings runway into Aug 26",
+        "COHR - Optical stocks rotation catalyst (earnings today)",
+        "USO - Hormuz asymmetric tail hedge",
+        "AMAT - Thu earnings, SK Hynix capex direct beneficiary"
+      ],
+      "analysis": "## Fed Context - Macro Backdrop\n\nLast FOMC (Jul 28-29): Rates held at 3.50-3.75%, vote 9-3 with 3 hawkish dissenters (Hammack, Kashkari, Logan) who wanted a 25bp HIKE. This is the most hawkish dissent of 2026. Statement language: \"inflation remains elevated\" - explicitly cited Middle East conflict and energy supply shocks as inflation drivers. Consensus is Fed on hold through year-end (Pimco agrees), but the 3 hawkish votes are tail risk: if today's CPI surprises hot, the Sep 15-16 FOMC debate gets very intense.\n\nWarsh Fed's America First framework continues - BofA announced $250B US project commitment, JPM/Citi likely to follow. Structurally bullish for financials.\n\nNext FOMC: Sep 15-16. Next FOMC Minutes (Jul meeting): Aug 19 HKT - will reveal full hawkish dissent rationale.\n\nSignal: Today's CPI is the test of Fed pause thesis. If Headline CPI <= 3.4% (consensus), Fed-on-hold narrative strengthens -> risk-on. If >3.5%, the 3 hawks get ammunition, Sep hike risk returns -> risk-off.\n\n---\n\n## Today's Top Headlines\n\n1. CPI Day - Market hedging at 8-year high [CNBC/Yahoo/NYT]\n   Consensus: Headline 3.4% (vs 3.5% prior), Core 2.5% (vs 2.6% prior). Energy price decline pushes headline lower, but Core MoM forecast +0.2% (vs 0.0% prior). Gold near 2-month high, BTC below $65K -> market has paid tail risk premium.\n\n2. CRWV (+18% premarket) - AI infra demand accelerating [CNBC]\n   CoreWeave Q2 revenue doubled YoY, analysts uniformly positive. Key read-through: AI infra demand NOT peaking, it's accelerating. NVDA, SMCI, semi equipment all benefit.\n\n3. Hormuz crisis deepens - IEA warns oil stockpiles rapidly depleting [CBS/Guardian/Bloomberg]\n   Strait traffic hits new low, Iran-backed group kills 6 in Red Sea. IEA explicitly warns inventory depletion. SPR below 300M barrels (lowest since 1983). But oil down 4th straight week - demand destruction narrative suppressing supply risk.\n\n4. AI capex could hit $1.6T - 1998 or dot-com 2.0? [Bloomberg/CNBC]\n   $500B last year -> $1T+ this year -> $1.6T next year. NVDA/AVGO/MU/TSM runway massive. But CNBC notes AI buildout is itself inflationary - making Fed's job harder.\n\n5. Optical stocks take off - AI infra downstream rotation [Bloomberg]\n   Data center interconnect/optical networking becoming new momentum play. AI trade extending from GPU -> networking/interconnect, optical components are the bottleneck.\n\n6. SK Hynix $38B AI memory bet [TradingView]\n   HBM market leader making aggressive expansion. Read-through: MU follows, semi equipment (AMAT/LRCX/KLAC) continues to benefit.\n\n7. BofA $250B US commitment - America First financialization [FT]\n   Warsh Fed framework directing bank capital to domestic projects. Structural positive for JPM/V/financials. But short-term catalyst remains CPI + rate path.\n\n8. Tencent Q2 beat - gaming + AI ads twin engines [Bloomberg]\n   China tech recovery continues. AI monetization proving it's not pure capex sinkhole - real revenue being generated.\n\n9. BTC ETF first closure + Russia restricts retail crypto [Yahoo/CoinDesk]\n   Small issuer eliminated (market consolidation healthy). Russia restricting to only BTC/ETH/USDT -> ironically makes BTC/ETH look like official crypto reserves. BTC short-term direction determined by CPI.\n\n10. Norway SWF record $184B profit, first SpaceX stake disclosure [CNBC]\n    Confirms strong H1 2026 for global risk assets. But this is backward-looking. CPI is the forward catalyst.\n\n---\n\n## Overnight Markets\n\n| Index | Price | Change | Position |\n|-------|-------|--------|----------|\n| SPY | $770.56 | -0.32% | Near ATH ($776.85), above 50MA $747.84 |\n| QQQ | $718.45 | -0.34% | Near ATH ($748.65), above 50MA $713.88 |\n\nSPY/QQQ both consolidating near ATH with slight pullback - classic CPI waiting posture. Market bullish but heavily hedged (hedging 8-year high). If CPI benign, hedges unwind -> sharp rally. If CPI hot, hedges trigger -> sharp selloff.\n\nBTC holding below $65K, Gold near 2-month high -> reflecting macro uncertainty premium.\n\n---\n\n## Yesterday's Market Movers (Previous Session)\n\nGainers: Mostly penny stocks/nano caps. KOPN (+24% - optical component, aligns with AI optical rotation theme). PUL (+21% - 2x leveraged P ETF), ACB (+21% - cannabis).\n\nLosers: ONON (-20% - On Holding, likely earnings miss), LIF/Life360 (-25%), GETY (-35% - Getty Images), UPWK (-15% - Upwork), KLXE (-31% - energy services).\n\nMost Active: INTC featured at $97.71 - continued capital attention, possibly foundry strategy/AI related.\n\nSector theme: No clear sector-wide moves. Pre-CPI positioning = large money not making big moves before data. KOPN (optical) is the only notable sector signal worth tracking.\n\n---\n\n## Today's Key Events (from macro_calendar.json - SOURCE OF TRUTH)\n\n| Time HKT | Importance | Event | Previous | Forecast |\n|----------|-----------|-------|----------|----------|\n| 8:30pm | HIGH | Inflation Rate YoY (Jul) | 3.5% | 3.4% |\n| 8:30pm | HIGH | Inflation Rate MoM (Jul) | -0.4% | 0.1% |\n| 8:30pm | HIGH | Core Inflation Rate YoY (Jul) | 2.6% | 2.5% |\n| 8:30pm | HIGH | Core Inflation Rate MoM (Jul) | 0.0% | 0.2% |\n| 8:30pm | MED | CPI s.a (Jul) | 332.568 | - |\n| 8:30pm | MED | CPI (Jul) | 333.95 | 333.99 |\n| 10:30pm | MED | EIA Crude Oil Stocks Change | +2.479M | -1.4M |\n| 10:30pm | MED | EIA Gasoline Stocks Change | -1.643M | -1.2M |\n| 2:00am | MED | Monthly Budget Statement (Jul) | -$120B | -$346B |\n\nThis Week's Other HIGH Events:\n- Thu Aug 13 8:30pm - PPI MoM (prev -0.3%, fcast +0.2%)\n- Fri Aug 14 8:30pm - Retail Sales MoM (prev 0.2%, fcast 0.1%)\n- Fri Aug 14 10:00pm - Michigan Consumer Sentiment Prel (prev 55.2, fcast 54.5)\n- Tue Aug 18 8:30pm - Housing Starts + Building Permits\n- Wed Aug 19 2:00am - FOMC Minutes (Jul 28-29 meeting) - reveals hawkish dissent rationale!\n\nThis is one of the most macro-dense weeks of 2026. CPI -> PPI -> Retail Sales -> Consumer Sentiment -> FOMC Minutes, one after another.\n\n---\n\n## Sector Watch\n\n- AI Infra [STRONG]: CRWV +18%, SMCI beat + BofA PT raise, NVDA partners leading earnings. Optical rotation = AI trade extending downstream.\n- Financials [TAILWIND]: BofA $250B America First = signaling. FOMC hold + Warsh framework = banks rerating.\n- Energy [UNDER-APPRECIATED RISK]: Hormuz new low + IEA depletion warning vs oil down 4th week. Asymmetric setup if CPI benign -> risk-on reprices supply risk.\n- Semi Equipment [EARNINGS THIS WEEK]: AMAT Thu, CSCO today. AI capex tailwind vs valuation concern.\n- Consumer Discretionary [WARNING]: Michigan Sentiment forecast 54.5 (already terrible). ONON -20%, UPWK -15%. Consumer weakening signals accumulating.\n\n---\n\n## Pre-market Opportunities (from News Curator Consolidation)\n\nACTION - CPI binary trade management:\nCPI is tonight's only event. Hedging 8yr high + Gold 2-month high = market has paid tail risk premium. If CPI <= consensus (3.4% headline, 2.5% core), hedges unwind -> AI infra names (NVDA/SMCI/CRWV) lead rally into NVDA Aug 26 earnings. If CPI hot (headline >3.5% or core >2.6%), the 3 FOMC hawks get immediate ammunition, Sep hike risk returns -> profit-taking will be swift. Today is not an add-to-position day, it's a manage-risk day.\n\nWATCH - NVDA and AI ecosystem:\nCRWV earnings confirmed AI infra demand accelerating, SMCI got BofA PT raise, SK Hynix $38B HBM bet. All point same direction: AI demand not peaking. But NVDA reports Aug 26, with CPI + PPI + FOMC minutes in between. If macro stays clean, NVDA pre-earnings setup is strong. If macro breaks, AI is the most crowded trade and falls fastest.\n\nWATCH - Hormuz / USO tail hedge:\nIEA warns inventory depletion + strait traffic historic low + SPR <300M barrels. Demand destruction narrative suppressed oil for 4 weeks, but if CPI benign -> Fed pause confirmed -> risk-on reprices supply risk -> oil could sharply rebound. USO is asymmetric bet: downside limited (already down 4 weeks), upside from geopolitical catalyst.\n\nWATCH - Optical stocks rotation:\nBloomberg headline: \"Market's Momentum Darlings Resurface as Optical Stocks Take Off\". AI trade extending from GPU (NVDA/AVGO) -> servers (SMCI/DELL) -> now optical components (LITE/COHR/AAOI). COHR reports after close today (est $1.43) - if beat, optical theme accelerates. KOPN +24% yesterday is already a signal.\n\n---\n\n## Earnings This Month\n\nThis Week (Aug 12-19):\n- Wed Aug 12 | CSCO | $483B | est $0.99 AMC | Networking giant, AI networking demand read\n- Wed Aug 12 | COHR | $64B | est $1.43 AMC | Optical stocks rotation leader\n- Thu Aug 13 | AMAT | $417B | est $3.38 AMC | Semi equipment leader, SK Hynix $38B direct beneficiary\n- Tue Aug 18 | HD | $353B | est $4.71 BMO | Consumer health barometer\n- Wed Aug 19 | ADI | $187B | est $3.33 BMO | Analog semi, industrial/auto demand signal\n\nNext Week (Aug 20-26):\n- Thu Aug 20 | WMT | $897B | est $0.73 BMO | Consumer spending most important indicator\n- Thu Aug 20 | BABA | $309B | est $1.77 BMO | China tech recovery\n- Wed Aug 26 | NVDA | $5,264B | est $2.01 AMC | YEAR'S MOST IMPORTANT EARNINGS\n- Wed Aug 26 | CRWD | $226B | est $0.05 AMC | Cybersecurity demand\n- Wed Aug 26 | CRM | $162B | est $2.35 AMC | Enterprise software spending\n\nNVDA Aug 26 is the Q2 earnings season grand finale. $5.26T market cap, est $2.01 EPS. CRWV + SMCI already set the stage (AI demand accelerating). As long as CPI/PPI don't break, NVDA setup is extremely strong.\n\n---\n\n## Today's Agenda\n\n1. 8:30pm HKT - CPI Release (THE event)\n   Scenario A (CPI <= consensus): Risk-on -> AI infra leads rally -> NVDA path clears\n   Scenario B (CPI modestly above): Short-term volatility -> trend intact if core <= 2.7%\n   Scenario C (CPI significantly hot >3.6%): Hawks validated -> Sep hike risk -> sharp selloff\n\n2. CSCO + COHR earnings AMC - COHR is key for optical stocks rotation thesis\n\n3. EIA Crude Stocks 10:30pm - Hormuz supply risk vs inventory data\n\n4. SPY Key Levels: Resistance $776.85 (ATH), Support $747 (50MA) / $704 (200MA)\n\n---\n\n## My Take\n\nOverall bias: Cautiously Bullish, but CPI comes first.\n\nTonight's CPI is one of the most important macro events of 2026. Consensus leans benign (headline 3.4% vs 3.5% prior, energy down + base effects). FOMC already on hold, market consensus is no more hikes. But hedging at 8-year high + 3 FOMC hawkish dissenters tell us: tail risk cannot be ignored.\n\nMy biggest concern isn't headline CPI (energy decline will push it lower), but Core CPI MoM (forecast +0.2% vs prior 0.0%). If core rebounds, it invalidates the \"disinflation trend intact\" thesis.\n\nAI infra fundamental setup is the strongest of 2026 - CRWV revenue doubled, SMCI beat, SK Hynix $38B bet, optical stocks rotation. NVDA Aug 26 earnings runway is clear. But macro must cooperate. CPI -> PPI -> FOMC minutes this week's macro gauntlet determines whether the AI rally can sustain into NVDA earnings.\n\nHormuz is the most under-appreciated risk. IEA today explicitly warned inventory depletion, yet oil is down 4 straight weeks. If CPI benign -> market risk-on -> oil supply risk gets repriced. USO is an asymmetric bet worth watching.\n\nBottom line: CPI first, everything else second. If CPI <= 3.4%, buy AI infra into NVDA earnings. If CPI > 3.5%, cash is king.\n",
+      "risks": [
+        "CPI hot >3.5% -> 3 FOMC hawks validated -> Sep hike risk returns",
+        "Core CPI MoM +0.2% forecast vs prior 0.0% -> disinflation trend reversal",
+        "Hormuz supply disruption escalates -> energy shock pushes inflation -> Fed dilemma deepens",
+        "AI capex $1.6T narrative overheated -> if macro breaks, most crowded trade falls fastest"
+      ],
+      "my_take": "CPI is tonight's only market-moving event. Hedging at 8-year high shows market has paid tail risk premium, but consensus leans benign. AI infra fundamental setup is extremely strong (CRWV/SMCI/SK Hynix) - as long as CPI <= 3.4%, NVDA Aug 26 earnings rally path is clear. But if CPI hot >3.5%, the 3 FOMC hawkish dissenters immediately become market focus - profit-taking will be swift. Hormuz/USO is the most under-appreciated asymmetric bet. Bottom line: CPI first, everything else second.\n"
     }
   ],
   "news_curator": [
