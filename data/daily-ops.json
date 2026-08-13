@@ -5474,6 +5474,69 @@
         "AI capex $1.6T narrative overheated -> if macro breaks, most crowded trade falls fastest"
       ],
       "my_take": "CPI is tonight's only market-moving event. Hedging at 8-year high shows market has paid tail risk premium, but consensus leans benign. AI infra fundamental setup is extremely strong (CRWV/SMCI/SK Hynix) - as long as CPI <= 3.4%, NVDA Aug 26 earnings rally path is clear. But if CPI hot >3.5%, the 3 FOMC hawkish dissenters immediately become market focus - profit-taking will be swift. Hormuz/USO is the most under-appreciated asymmetric bet. Bottom line: CPI first, everything else second.\n"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-13",
+      "time": "08:17 HKT",
+      "status": "success",
+      "market_direction": "通脹放緩確立 risk-on，AI 基建需求加速，油價地緣溢價但信號混亂",
+      "headlines": [
+        "[RECENT] ACTION: MACRO — CPI 3.4% 符合預期，Fed 暫停加息機率 60%",
+        "[RECENT] ACTION: CRWV/NBIS/SMCI — Neocloud AI 業績齊爆",
+        "[RECENT] WATCH: NVDA — $500B 融資「挑戰金融定律」+ GOOGL 受累",
+        "[RECENT] WATCH: CSCO — AI supercycle 但股價回吐",
+        "[RECENT] WATCH: USO — 特朗普「完全掌控」霍爾木茲",
+        "[RECENT] WATCH: GS — $2.25B 收購 NEOS 比特幣收益 ETF"
+      ],
+      "opportunities": [
+        "MACRO: CPI 3.4% 符合預期，通脹放緩炸穿 Fed 緊縮敘事，9月暫停加息機率 60% — 科技股/AI 最直接受益",
+        "CRWV/NBIS/SMCI: Neocloud 業績齊爆，AI 基建需求再加速 — 上週回調係 healthy，呢個係 re-acceleration 確認",
+        "NVDA: $500B 融資被質疑數據中心貸款估值 + GOOGL 定制芯片受威脅 — 係 AI trade 嘅 financing 結構風險"
+      ],
+      "analysis": "US session 主線：① 通脹放緩（CPI 3.4% 符合預期）確立 risk-on，Fed 9月暫停加息機率 60%；② AI 基建 re-acceleration 確認（CoreWeave +16-18%、Nebius 業績亮眼、SMCI 大 forecast，AMD/INTC/NVDA 齊升）；③ 反方風險係 NVDA $500B 融資被指「挑戰金融定律」，數據中心貸款估值惹質疑；④ 油價地緣溢價持續但信號混亂（IEA 警告庫存急降 vs EIA 睇到原油庫存大增）。",
+      "risks": [
+        "NVDA $500B 融資 = 數據中心貸款估值風險，若 AI 需求不及預期恐引發 circular financing 質疑",
+        "霍爾木茲油運流量 3 個月低位 + 柴油供應緊縮，但 EIA 見原油庫存大增 — 方向未明",
+        "CPI 3.4% 仍高於 2% 目標，唔係轉向減息訊號，Fed 立場隨時反覆"
+      ],
+      "my_take": "呢個 session 最值得留意嘅唔係 CPI（符合預期，冇 surprise），而係 AI 基建 re-acceleration 嘅確認。上週 neocloud 被質疑估值過高，今週 CoreWeave/Nebius/SMCI 用業績反擊 — 需求係真嘅。但 NVDA $500B 融資嘅「挑戰金融定律」質疑係對稱嘅 downside：成個 AI trade 嘅資金結構建基於數據中心貸款，呢啲貸款嘅估值假設若破裂，會係系統性風險而唔係單一股票風險。我傾向睇好 AI 基建（需求已確認），但會用 NVDA 融資故事做 risk monitor。",
+      "key_takeaways": [
+        "CPI 3.4% 符合預期 → Fed 暫停加息 60%，risk-on 主線確立",
+        "Neocloud 業績齊爆 = AI 基建 re-acceleration 確認（CoreWeave +16-18%）",
+        "NVDA $500B 融資被質疑 = AI trade 資金結構嘅系統性 risk monitor",
+        "油價地緣溢價持續但信號混亂（IEA vs EIA 相反）"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-13",
+      "time": "08:38 HKT",
+      "status": "success",
+      "market_direction": "CPI 3.4% 符合預期，risk-on 確立。QQQ +0.73%、VIX -4.78% 至 14.55，AI 基建 + 半導體設備雙主線爆發。",
+      "headlines": [
+        "CPI 3.4% 符合預期（prior 3.5%）— 9 月暫停加息機率升至 60%",
+        "Neocloud 業績齊爆：NBIS +34% / CRWV +19% / SMCI +19% — AI 基建 re-acceleration",
+        "NVDA $500B 融資被質疑「挑戰金融定律」+ GOOGL 定制芯片威脅",
+        "CSCO AI supercycle 業績創紀錄，收市 +2.86% 部分回穩",
+        "半導體設備 rotation：LRCX +4.72% / AMAT +4.29% / KLAC +3.88%",
+        "特朗普聲稱「完全掌控」霍爾木茲，USO 原地踏步信號混亂"
+      ],
+      "opportunities": [
+        "AMAT: 明日業績，semi equipment momentum 嘅 event-driven setup",
+        "AI infra 延續: NBIS/CRWV/SMCI 爆發後睇資金擴散至 NVDA/SMCI 產業鏈",
+        "LRCX/KLAC/AMAT: Goldman「AI bottleneck 唔係芯片」thesis 連續驗證",
+        "NVDA: 融資故事係 risk monitor，唔係直接機會"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\nCPI 3.4%（符合預期，prior 3.5%）落地，通脹放緩確立。市場將 9 月 FOMC（Sep 15-16）暫停加息機率重新定價至 60%。上次 Jul 28-29 會議維持 3.50-3.75%，但有 3 位鷹派 dissenter 投票要求加息 — 呢個係 Warsh 任內首次公開分裂。今晚嘅 PPI（HIGH importance）係 CPI 之後嘅第一個跟進數據：如果 PPI 都確認通脹降溫，鷹派 dissenter 嘅立場會被削弱；反之若 PPI 反彈，3 位鷹派會睇落更「有先見之明」，債券市場可能再挑戰 Warsh。\n\n## 📰 今日重點頭條\n\n1. **[CPI] 7 月 CPI 3.4% 符合預期**（prior 3.5%）— 通脹放緩炸穿 Fed 緊縮敘事，9 月暫停加息機率升至 60%（NC 命中）\n2. **[Neocloud 業績齊爆] NBIS +34% / CRWV +19% / SMCI +19%** — AI 基建需求 re-acceleration 確認（NC 命中，且幅度遠超預期）\n3. **[NVDA] $500B 融資被質疑「挑戰金融定律」** — 數據中心貸款估值存疑 + GOOGL 定制芯片威脅（NC WATCH，未解除）\n4. **[CSCO] AI supercycle 業績創紀錄** — 但盤中回吐，premium 成疑問（NC WATCH，收市 +2.86% 部分回穩）\n5. **[USO/霍爾木茲] 特朗普聲稱「完全掌控」** — 油運 3 個月低位但信號混亂，地緣溢價未解決（NC WATCH）\n\n## 1. 📊 Market Recap\n\n- **指數**：SPY +0.25% / QQQ +0.73% / DIA -0.02% / IWM +0.57%\n- **S&P 500 +0.26%、Nasdaq +0.54%、Dow -0.04%** — 納指領先，成長股重掌主導\n- **VIX -4.78% → 14.55** — 恐慌退潮，risk-on 確立\n- **板塊**：XLK +1.49% 領先、XLRE +0.93%、XLU +0.48%；落後：XLB -1.24%、XLY -1.13%、XLC -0.90%\n- **SMH +2.08%** — 半導體成最強主線\n\n關鍵係 rotation 方向反轉：尋日係 defensive（XLU/XLE 領先），今日 CPI 落地即刻轉 risk-on（XLK/SMH 領先）。呢個係教科書式嘅「觀望 → 落地 → 追漲」切換。\n\n## 2. 🔥 Notable Movers\n\n**爆升（>3%）：**\n- **NBIS +34.14%** — Nebius 業績爆炸，neocloud 最純正標的\n- **CRWV +19.28%** — CoreWeave Q2 收入翻倍，backlog >$100B\n- **SMCI +19.02%** — Supermicro 業績反擊，AI 伺服器需求確認\n- **LRCX +4.72% / AMAT +4.29% / KLAC +3.88%** — 半導體設備 rotation 全面爆發\n- **INTC +3.32%** — 上週 $20B 增發陰霾暫時消化\n- **NVDA +3.03%** — 融資質疑下仍強勢，反駁「AI trade 見頂」論\n- **CSCO +2.86%** — AI supercycle 業績，盤中回吐後收復\n\n**落後：**\n- **GOOGL -0.08%** — 尋日 -3.84% 後企穩，但未見反彈\n- **USO -0.24%** — 霍爾木茲信號混亂，油價原地踏步\n- **RIOT +0.40%** — 尋日 +4.3% 嘅 BTC-to-AI 敘事冇 follow-through\n\n## 3. 📰 News That Mattered\n\n**Confirmed catalysts：**\n1. **CPI 3.4% in line** — 呢個係今日唯一 macro driver。尋日 Morning Scan 嘅 soft-CPI playbook（CPI <= 3.4% → AI rally path clear）精準命中。\n2. **Neocloud 業績 re-acceleration** — CRWV/NBIS/SMCI 用數字反擊上週「估值過高」質疑。AI 基建需求唔係 peak，係加速。\n3. **半導體設備 rotation** — Goldman「AI bottleneck 唔係芯片」thesis 連續兩日驗證，KLAC/LRCX/AMAT 成新主線。\n\n**NC calls 回顧：**\n- ✅ **MACRO risk-on** — 命中，CPI 落地 VIX 崩\n- ✅ **CRWV/NBIS/SMCI** — 命中，且幅度遠超預期（NBIS +34% 係黑天鵝級）\n- ⚠️ **CSCO「股價回吐」** — 部分命中，盤中回吐但收市 +2.86%，「premium 成疑問」仍需觀察\n- 🔄 **NVDA 融資質疑** — 仍係有效 risk monitor，但 NVDA +3.03% 顯示市場暫時 buy the dip\n- 🔄 **USO 信號混亂** — 命中，地緣溢價未解決\n\n**尋日 Morning Scan calls 回顧：**\n- ✅ **KLAC/LRCX/AMAT semi rotation** — 命中（LRCX +4.72% 係最強）\n- ❌ **RIOT BTC-to-AI follow-through** — 錯，+0.40% 冇接力\n- 🔄 **GOOGL 擔心** — 企穩但未反彈，仍需觀察\n\n## 4. 🎯 Opportunities Carry Forward\n\n1. **AMAT 業績（明日）** — 今日 +4.29% 提前反映 semi equipment momentum，業績若確認 AI 設備需求，係 KLAC/LRCX/AMAT rotation 嘅催化劑。係今晚/明日最 clean 嘅 event-driven setup。\n2. **AI infra 延續** — NBIS/CRWV/SMCI 爆發後，睇明日會否有接力（資金由 neocloud 擴散至 NVDA/SMCI/產業鏈）。\n3. **半導體設備 rotation** — Goldman thesis 連續驗證，LRCX/KLAC/AMAT 係新 phase 主線，值得 carry forward。\n4. **NVDA 融資故事** — 唔係機會，係 risk monitor。$500B 融資「挑戰金融定律」若發酵，係系統性 AI trade 風險。\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚（Aug 13）要睇實（來自 macro_calendar）：**\n- 🔴 **8:30pm HKT — PPI MoM (Jul)** — HIGH importance，CPI 後第一個通脹跟進數據。若 PPI 反彈，risk-on 敘事會逆轉。\n- 🟡 8:30pm HKT — Core PPI MoM (Jul)\n- 🟡 8:30pm HKT — Initial Jobless Claims (Aug/08)\n- 🟡 8:15pm HKT — Fed Hammack Speech\n- 🟡 8:40pm HKT — Fed Barkin Speech（兩位 Fed 講話，PPI 後可能補充立場）\n\n**明日（Aug 14）HIGH events：**\n- 🔴 8:30pm HKT — Retail Sales MoM (Jul)\n- 🔴 10:00pm HKT — Michigan Consumer Sentiment Prel (Aug)\n\n**Overnight / 結構風險：**\n- **NVDA $500B 融資** — 數據中心貸款估值假設若破裂，係系統性 AI trade 風險，唔係單一股票風險。\n- **GOOGL 定制芯片** — 對 NVDA 嘅長期競爭威脅，GOOGL 本身企穩但未反彈。\n- **USO/霍爾木茲** — 地緣溢價未解決，特朗普「完全掌控」言論 vs 油運 3 個月低位，信號混亂。\n\n## 6. 💡 My Take\n\n今日係教科書式嘅 CPI 落地 risk-on 日：觀望資金喺 CPI 3.4% 落地後即刻轉追漲，VIX 崩 4.78%，AI 基建（NBIS/CRWV/SMCI）同半導體設備（LRCX/AMAT/KLAC）雙主線爆發。尋日 Morning Scan 嘅 soft-CPI playbook 精準命中，冇懸念。\n\n最重要嘅 takeaway 唔係 CPI（符合預期，冇 surprise），而係 **AI 基建 re-acceleration 嘅確認**。上週 neocloud 被質疑估值過高，今週用業績反擊 — 需求係真嘅，唔係 peak。但 NVDA $500B 融資嘅「挑戰金融定律」質疑係對稱嘅 downside，成個 AI trade 嘅資金結構建基於數據中心貸款，呢啲估值假設若破裂會係系統性風險。\n\n**明日 bias：Bullish**，但 PPI 今晚係下一關。若 PPI 都確認降溫，risk-on 延續、AMAT 業績提供 event-driven 催化；若 PPI 反彈，今日嘅追漲資金會即刻回吐。傾向睇好 AI 基建（需求已確認），用 NVDA 融資故事做 risk monitor。",
+      "risks": [
+        "今晚 8:30pm HKT PPI MoM (HIGH) — 若反彈 risk-on 敘事逆轉",
+        "Fed Hammack + Barkin 講話 — PPI 後補充立場",
+        "NVDA $500B 融資 — 數據中心貸款估值破裂 = 系統性 AI trade 風險",
+        "GOOGL 定制芯片對 NVDA 嘅長期競爭威脅",
+        "USO/霍爾木茲地緣溢價未解決"
+      ],
+      "my_take": "CPI 3.4% 落地 = 教科書式 risk-on：VIX 崩 4.78%，AI 基建（NBIS/CRWV/SMCI）同半導體設備（LRCX/AMAT/KLAC）雙主線爆發，尋日 soft-CPI playbook 精準命中。最重要 takeaway 唔係 CPI（冇 surprise），而係 AI 基建 re-acceleration 確認 — 需求係真嘅唔係 peak。但 NVDA $500B 融資「挑戰金融定律」係對稱 downside，數據中心貸款估值若破裂係系統性 AI trade 風險。明日 bias bullish，PPI 今晚係下一關，AMAT 業績提供 event-driven 催化。"
     }
   ],
   "news_curator": [
