@@ -5476,39 +5476,6 @@
       "my_take": "CPI is tonight's only market-moving event. Hedging at 8-year high shows market has paid tail risk premium, but consensus leans benign. AI infra fundamental setup is extremely strong (CRWV/SMCI/SK Hynix) - as long as CPI <= 3.4%, NVDA Aug 26 earnings rally path is clear. But if CPI hot >3.5%, the 3 FOMC hawkish dissenters immediately become market focus - profit-taking will be swift. Hormuz/USO is the most under-appreciated asymmetric bet. Bottom line: CPI first, everything else second.\n"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-13",
-      "time": "08:17 HKT",
-      "status": "success",
-      "market_direction": "通脹放緩確立 risk-on，AI 基建需求加速，油價地緣溢價但信號混亂",
-      "headlines": [
-        "[RECENT] ACTION: MACRO — CPI 3.4% 符合預期，Fed 暫停加息機率 60%",
-        "[RECENT] ACTION: CRWV/NBIS/SMCI — Neocloud AI 業績齊爆",
-        "[RECENT] WATCH: NVDA — $500B 融資「挑戰金融定律」+ GOOGL 受累",
-        "[RECENT] WATCH: CSCO — AI supercycle 但股價回吐",
-        "[RECENT] WATCH: USO — 特朗普「完全掌控」霍爾木茲",
-        "[RECENT] WATCH: GS — $2.25B 收購 NEOS 比特幣收益 ETF"
-      ],
-      "opportunities": [
-        "MACRO: CPI 3.4% 符合預期，通脹放緩炸穿 Fed 緊縮敘事，9月暫停加息機率 60% — 科技股/AI 最直接受益",
-        "CRWV/NBIS/SMCI: Neocloud 業績齊爆，AI 基建需求再加速 — 上週回調係 healthy，呢個係 re-acceleration 確認",
-        "NVDA: $500B 融資被質疑數據中心貸款估值 + GOOGL 定制芯片受威脅 — 係 AI trade 嘅 financing 結構風險"
-      ],
-      "analysis": "US session 主線：① 通脹放緩（CPI 3.4% 符合預期）確立 risk-on，Fed 9月暫停加息機率 60%；② AI 基建 re-acceleration 確認（CoreWeave +16-18%、Nebius 業績亮眼、SMCI 大 forecast，AMD/INTC/NVDA 齊升）；③ 反方風險係 NVDA $500B 融資被指「挑戰金融定律」，數據中心貸款估值惹質疑；④ 油價地緣溢價持續但信號混亂（IEA 警告庫存急降 vs EIA 睇到原油庫存大增）。",
-      "risks": [
-        "NVDA $500B 融資 = 數據中心貸款估值風險，若 AI 需求不及預期恐引發 circular financing 質疑",
-        "霍爾木茲油運流量 3 個月低位 + 柴油供應緊縮，但 EIA 見原油庫存大增 — 方向未明",
-        "CPI 3.4% 仍高於 2% 目標，唔係轉向減息訊號，Fed 立場隨時反覆"
-      ],
-      "my_take": "呢個 session 最值得留意嘅唔係 CPI（符合預期，冇 surprise），而係 AI 基建 re-acceleration 嘅確認。上週 neocloud 被質疑估值過高，今週 CoreWeave/Nebius/SMCI 用業績反擊 — 需求係真嘅。但 NVDA $500B 融資嘅「挑戰金融定律」質疑係對稱嘅 downside：成個 AI trade 嘅資金結構建基於數據中心貸款，呢啲貸款嘅估值假設若破裂，會係系統性風險而唔係單一股票風險。我傾向睇好 AI 基建（需求已確認），但會用 NVDA 融資故事做 risk monitor。",
-      "key_takeaways": [
-        "CPI 3.4% 符合預期 → Fed 暫停加息 60%，risk-on 主線確立",
-        "Neocloud 業績齊爆 = AI 基建 re-acceleration 確認（CoreWeave +16-18%）",
-        "NVDA $500B 融資被質疑 = AI trade 資金結構嘅系統性 risk monitor",
-        "油價地緣溢價持續但信號混亂（IEA vs EIA 相反）"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-13",
       "time": "08:38 HKT",
@@ -5537,6 +5504,72 @@
         "USO/霍爾木茲地緣溢價未解決"
       ],
       "my_take": "CPI 3.4% 落地 = 教科書式 risk-on：VIX 崩 4.78%，AI 基建（NBIS/CRWV/SMCI）同半導體設備（LRCX/AMAT/KLAC）雙主線爆發，尋日 soft-CPI playbook 精準命中。最重要 takeaway 唔係 CPI（冇 surprise），而係 AI 基建 re-acceleration 確認 — 需求係真嘅唔係 peak。但 NVDA $500B 融資「挑戰金融定律」係對稱 downside，數據中心貸款估值若破裂係系統性 AI trade 風險。明日 bias bullish，PPI 今晚係下一關，AMAT 業績提供 event-driven 催化。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-13",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "油價回落+CPI 3.4%溫和撐risk-on，但霍爾木茲升級提供地緣噪音；等PPI確認",
+      "headlines": [
+        "[RECENT] ⚠️ OIL: 特朗普威脅+伊朗反駁「霍爾木茲在伊朗控制下」+英國扣押影子油輪，但油價反跌",
+        "[NEW] ⚠️ RARE EARTH: 中國稀土出口管制憂慮再起，niche稀土價格跳升",
+        "[NEW] 🎯 LNVGY: Lenovo AI PC/伺服器業績超預期",
+        "[NEW] ⚠️ COHR: Needham上調Coherent目標價，datacenter光學強勁",
+        "[RECENT] ⚠️ MACRO: PPI批發通脹數據待出，Warsh下一步受關注",
+        "[NEW] 📌 NFLX: Ackman重新買入Netflix",
+        "[NEW] ⚠️ SEMI: 韓國股市連夜再升3.5%，記憶體動能延續",
+        "[RECENT] 📌 BTC-USD: 比特幣持穩$64K，投機盤受壓",
+        "[NEW] 📌 META/TSLA: Musk與Zuckerberg重返AI競賽"
+      ],
+      "opportunities": [
+        "OIL: 霍爾木茲升級但油價反跌，地緣溢價持續消退——市場已押注deal或需求破壞",
+        "LNVGY: AI PC/伺服器雙引擎，利潤超預期",
+        "COHR: datacenter光學需求強勁，Needham上調PT",
+        "RARE EARTH: 中國出口管制憂慮，niche稀土跳升",
+        "SEMI: 韓國+3.5%，記憶體/半導體動能延續"
+      ],
+      "analysis": "亞洲/歐洲時段風險偏好正面，油價回落+溫和CPI支撐risk-on。霍爾木茲地緣升級提供噪音但油價反跌，反映溢價消退。AI基建（neocloud/光學/記憶體）動能延續。等PPI數據確認通脹路徑。",
+      "risks": [
+        "霍爾木茲deal失敗→油價spike",
+        "核心通脹「比headline更頑固」→Warsh未必減息",
+        "AI基建估值premium開始被質疑（NVDA $500B融資、CSCO回吐）"
+      ],
+      "my_take": "市場正忽略霍爾木茲地緣溢價——油價在特朗普威脅升級下仍下跌，反映市場已押注deal或需求破壞。真正分歧點：deal達成→油價續跌利好航空/消費；deal失敗→油價spike。CPI 3.4%溫和但核心通脹更頑固，Warsh未必咁快減息。AI基建動能延續（光學/記憶體/neocloud），但估值premium開始被質疑。",
+      "key_takeaways": [
+        "霍爾木茲升級但油價反跌=地緣溢價消退，市場押注deal",
+        "PPI批發通脹數據係下一個macro催化劑",
+        "AI基建下游輪動延續（光學COHR、記憶體MU、neocloud）",
+        "中國稀土出口管制憂慮再起，供應鏈風險升溫"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-13",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Bullish — AI 基建 momentum 強但 breadth 收窄，PPI 係今日裁判",
+      "headlines": [
+        "CPI 3.4% 降溫壓低加息預期",
+        "SMCI +19% / NBIS 爆升 — AI datacenter 動能爆發",
+        "AMAT 今晚 AMC 業績 — NVDA 前哨",
+        "油價跌 2% — 霍爾木茲地緣溢價消退",
+        "金價破頂 $4442 — 避險/去美元化資金流入"
+      ],
+      "focus": [
+        "AI datacenter 基建 (SMCI/NBIS/COHR/CBRS)",
+        "PPI (8:30pm HKT) — 今日裁判",
+        "AMAT 業績 (AMC) — NVDA 前哨",
+        "NVDA 8/26 + MRVL 8/27 業績"
+      ],
+      "analysis": "# 🌅 Morning Scan — 2026-08-13\n\n## Fed Context — macro backdrop\n\n- 上次 FOMC：7月28-29日（已消化，冇新 statement）。下次 FOMC：9月15-16日。\n- FOMC Minutes：8月20日（下周四）公佈 — 睇官員對減息路徑嘅內部分歧。\n- 今日 Fed 發言：Hammack（8:15pm HKT）+ Barkin（8:40pm HKT）— PPI 出爐後嘅政策 reaction 係重點。\n- Warsh 主導下嘅 Fed：7月 CPI 已降至 3.4%，但核心通脹頑固。Warsh 未必咁快減息，今日 PPI 係確認 disinflation 趨勢嘅關鍵一環。\n\n## 📰 今日重點頭條（按 market impact 排序）\n\n1. 【Macro】US inflation cooled in July — CPI 3.4% 降溫，壓低加息預期（利好 risk-on）\n2. 【AI/半導體】SMCI +19%、NBIS 2x long ETF +68% — AI datacenter 基建動能爆發\n3. 【AI/半導體】Needham 上調 Coherent (COHR) 目標價 — datacenter 光學強勁\n4. 【AI/半導體】Needham 重申 Cerebras (CBRS) Buy，目標 $300\n5. 【NVDA】NVDA 企穩高位 $225.58 — 6G trials with Nvidia/T-Mobile (NOK/NVDA/TMUS)\n6. 【AI 風險】\"AI Bubble Burst: Huang's Warning + AI Compute ABS\" — AI 估值 premium 嘅 counter-narrative\n7. 【TSLA】Elon Musk 德州新廠 = Empire State Building 36 倍 — AI/robotaxi 產能擴張\n8. 【Crypto】Bitcoin 持穩 $64K，見頂前最後一段升浪論\n9. 【Gold】Gold 測試主要關口 $4442 — 避險/去美元化資金續流入\n\n## 1. 🌍 隔夜市場\n\n- US close (8/12)：SPY +0.25% (772.49)、QQQ +0.73% (723.70)、DIA -0.02% (537.15)。Mega-cap AI 領漲，道指 flat。\n- VIX 14.58 — 極度淡定，市場 complacency 高企。\n- 10Y 4.68% (-0.04%) — 債息微跌，支撐成長股。\n- 油價 $81.54 (-2.08%) — 霍爾木茲升級下油價反跌，地緣溢價消退。\n- 黃金 $4442 (+0.76%) — 破頂，避險/央行買盤/去美元化資金持續流入。\n- 美元 99.94 (-0.07%) — 弱美元，接近 100 關口。\n- Asia：韓國半導體 +3.5%，記憶體動能延續。\n\n## 📈 昨日市場爆升／暴跌榜\n\n爆升榜：SMCI +19%（AI server 基建最強 signal）、NBIS 2x long ETF +68%（neocloud/AI 算力爆發）、SPCX +9.65%（SpaceX/太空主題）、INTC +3.32%（半導體反彈）、BOXL/RMCF（penny 賭場，無需理會）。\n暴跌榜：PLAG -79%、SLXN -56%、GLND -44%（小型股爆倉，個別事件）、SMCZ（2x short SMCI）-38%（印證空頭被輾壓）。\n活躍榜：RMCF、SPCX、SMCI、INTC、OFAL。\nSector theme：明顯係 AI datacenter 基建（SMCI/NBIS/COHR/CBRS/INTC）主導，同 News Curator 嘅 SEMI 動能 + COHR 光學 signal 一致。同時防禦性 sector（Industrial +2.59%、Consumer Defensive +1.67%、Real Estate +1.69%）領漲，反映資金喺 AI 之外搵防守位。\n\n## 2. 📡 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n\n- 🔴 PPI MoM (Jul) — 8:30pm HKT：prev -0.3% → fcast +0.2%。今日最重要數據。CPI 已降溫，PPI 確認 disinflation 就係 risk-on 催化；反彈就係 risk-off。\n- 🟡 Core PPI MoM (Jul) — 8:30pm HKT：prev 0.2% → fcast 0.3%。核心更頑固。\n- 🟡 Initial Jobless Claims — 8:30pm HKT：prev 199K → fcast 202K。勞動力軟著陸 signal。\n- 🟡 Fed Hammack Speech — 8:15pm HKT；Fed Barkin Speech — 8:40pm HKT。\n\n未來一週 HIGH：Retail Sales (Fri 8/14)、Michigan Sentiment (Fri 8/14)、Housing Starts/Building Permits (Tue 8/18)、FOMC Minutes (Thu 8/20)。\n\n## 3. 🔥 Sector Watch\n\n- 🔥 AI datacenter 基建（最強 momentum）：SMCI +19%、NBIS 爆升、COHR/CBRS 獲上調、AMAT 今晚出業績 — 今日主線。\n- ⚠️ 半導體設備：AMAT 今晚 AMC（est $3.38），係 AI capex 論述嘅前哨。guide 好→NVDA 前強心針；guide 差→AI 估值質疑。\n- 📡 防守轉移：Industrial/Consumer Defensive/Real Estate 領漲 — 資金喺 AI 之外 build 防守倉，breadth 有隱憂。\n- ⚠️ Energy 轉弱：油價 -2% 而霍爾木茲升級 — 地緣溢價消退，能源股跑輸。\n\n## 4. 🎯 Pre-market Opportunities（News Curator consolidate）\n\n- 🎯 AMAT（今晚 AMC）：$417B、est $3.38。AI 半導體設備龍頭，業績係 NVDA (8/26) 前嘅 proxy。部署：等業績，除非你信 AI capex 論述先 pre-position。\n- 🎯 LNVGY（NC ACTION）：Lenovo AI PC/伺服器業績超預期，利潤暴增 — AI server 需求真實性又一證據。\n- 📡 COHR：Needham 上調目標價，datacenter 光學強勁 — AI 基建上遊。\n- 📡 NVDA：企穩 $225.58 高位，真正 catalyst 係 8/26 業績。\n- 📡 MRVL（8/27 tracked）：AI 網絡芯片，AI 基建第二梯隊。\n- 📡 SEMI 記憶體：韓國 +3.5%，MU 動能延續。\n- ⚠️ OIL：deal 達成→油價續跌利好航空/消費；deal 失敗→spike。\n\n## 📅 未來一個月業績重點\n\n今晚 (Thu 8/13)：AMAT（$417B，AMC，est $3.38）— 半導體設備龍頭，AI capex 前哨。\n下週 (8/18-8/20)：HD ($342B)、LOW ($121B) — 消費/房地產晴雨表；WMT ($901B)、TGT ($70B) — 零售消費力；BABA ($298B)；TJX/ROST/DE/ADI/KEYS — 廣度。\n下下週 (8/24-8/27) AI 大決戰：🎯 NVDA（$5423B，8/26 AMC，est $2.01）全年最重要業績；🎯 MRVL（$190B，8/27 AMC，est $0.65）；CRM/CRWD/SNPS/INTU/ADSK。\n\n## 5. 📋 Today's Agenda\n\n- 今日 catalyst：PPI + Core PPI + Jobless Claims (8:30pm HKT) + Fed 發言 + AMAT 業績 (AMC)。\n- SPY 關鍵位：$772 現價，支撐 $765-768（50日線 $747 附近），阻力 $774-776（年高 $776.85）。破 $776 = 新高；破 $765 = 回調確認。\n- QQQ 關鍵位：$723 現價，年高 $748.65，支撐 $718（前收）。\n\n## 6. 💡 My Take\n\nOverall bias：Neutral-to-Bullish，但係「priced for perfection」格局。\n\n核心矛盾：disinflation（CPI 3.4% + 油價跌）+ 低 VIX + AI mega-cap momentum（SMCI +19%、NBIS 爆升）係強勁 tailwind；但 breadth 收窄（防禦 sector 領漲）、\"AI bubble\" counter-narrative 抬頭、NVDA 業績前估值 premium 開始被質疑。\n\n今日最緊要睇實：PPI。確認 disinflation（< fcast 0.2%）→ risk-on 延續，AI 基建 melt-up；反彈 → 核心通脹頑固，Warsh 唔減息，成長股估值受壓。\n\nAMAT 今晚業績係 NVDA 前嘅 proxy — guide 好成個半導體/AI 板塊加碼，guide 差引發 AI 估值重新定價。\n\n一句：AI 基建動能未死，但今日 PPI + 今晚 AMAT 係短期方向嘅裁判。",
+      "risks": [
+        "PPI 反彈 > fcast — 核心通脹頑固",
+        "breadth 收窄 — 防禦 sector 領漲",
+        "AI bubble counter-narrative (Huang warning)",
+        "油價 deal 失敗風險 — 霍爾木茲 spike"
+      ],
+      "my_take": "Neutral-to-Bullish。AI datacenter 基建（SMCI/NBIS/COHR）動能最強，但 breadth 收窄 + 低 VIX 反映市場 priced for perfection。今日 PPI (8:30pm HKT) 係 disinflation 趨勢嘅裁判，AMAT 今晚業績係 NVDA (8/26) 前嘅 AI capex 前哨。PPI 確認降溫 → risk-on 延續；PPI 反彈 → 成長股估值受壓。"
     }
   ],
   "news_curator": [
