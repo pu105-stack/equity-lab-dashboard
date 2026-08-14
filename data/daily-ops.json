@@ -5572,40 +5572,6 @@
       "my_take": "Neutral-to-Bullish。AI datacenter 基建（SMCI/NBIS/COHR）動能最強，但 breadth 收窄 + 低 VIX 反映市場 priced for perfection。今日 PPI (8:30pm HKT) 係 disinflation 趨勢嘅裁判，AMAT 今晚業績係 NVDA (8/26) 前嘅 AI capex 前哨。PPI 確認降溫 → risk-on 延續；PPI 反彈 → 成長股估值受壓。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-14",
-      "time": "08:14 HKT",
-      "status": "success",
-      "market_direction": "Risk-on 主線延續 — S&P 500 破歷史新高，CPI+PPI 雙確認通脹放緩，加息機率再降",
-      "headlines": [
-        "[NEW] 🎯 RDDT — 納入 S&P 500，被動資金買盤催化",
-        "[NEW] 🎯 WDAY — Silver Lake 收購報導，軟件 M&A 復甦信號",
-        "[RECENT] ⚠️ MACRO — PPI 持平確認 disinflation，加息機率再降",
-        "[NEW] ⚠️ CRM — JPMorgan 指 AI 憂慮過度",
-        "[NEW] ⚠️ AMAT — Q3 業績盤後出爐"
-      ],
-      "opportunities": [
-        "RDDT: 納入 S&P 500，11% 跳升，指數被動買盤短期 momentum",
-        "WDAY: Silver Lake 收購報導，10 年最大單日漲幅，軟件估值重估",
-        "CRM: AI 憂慮 narrative 逆轉，portfolio holding 有 repair 空間",
-        "AMAT: 半導體設備 Q3，業務無問題但估值係問號",
-        "CLIMATE/電力: 電網破紀錄需求，核電+太陽能結構性主題"
-      ],
-      "analysis": "US session (Thu Aug 13) risk-on 延續。S&P 500 破歷史新高，PPI 持平確認 CPI 通脹放緩訊號，加息機率再降。個股催化：RDDT 納入 S&P 500 (+11%)、WDAY Silver Lake 收購 (+25%) 停牌。軟件 M&A 復甦 + AI 憂慮逆轉（CRM）係本 session 兩個值得留意嘅結構性 signal。記憶體（SNDK/MU/WDC）續強，AMAT 盤後業績聚焦估值。宏觀隱憂：Fed RMP 降至零（QT 深化）、30yr 債息 2001 高位。",
-      "risks": [
-        "Fed 將 RMP 降至零，流動性進一步收緊",
-        "30 年期國債以 2001 年來最高成本發行，長債壓力",
-        "Hormuz 地緣溢價已消退，但局勢仍不穩定"
-      ],
-      "my_take": "市場 risk-on 但結構性裂痕浮現：股市破頂靠 profit margins 歷史高位，同時 30yr 債息 2001 高位 + Fed QT 深化。呢個組合通常係流動性末期信號，但短期 momentum 仍然向上。最值得留意嘅唔係 RDDT/WDAY 單一催化，而係「軟件 M&A 復甦」——若 Silver Lake 交易證實，會觸發成個 software 板塊估值重估，呢個先係有持續性嘅 opportunity。",
-      "key_takeaways": [
-        "Risk-on 延續：S&P 500 破頂，PPI 持平確認 disinflation",
-        "RDDT 納入 S&P 500 +11%，WDAY Silver Lake 收購 +25%",
-        "軟件 M&A 復甦 + AI 憂慮逆轉係結構性 signal",
-        "宏觀隱憂：Fed QT 深化 + 30yr 債息 2001 高位"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-14",
       "time": "08:36 HKT",
@@ -5632,6 +5598,69 @@
         "30yr 債息 2001 高位 + Fed QT 深化 — 結構性裂痕"
       ],
       "my_take": "Risk-on 但 priced for perfection。S&P 破新高靠 AI+記憶體+軟件 M&A 三主線，但 AMAT 業績 beat + guide 上調都盤後 -4%，係估值已計入完美預期嘅警號。記憶體 (MU/WDC/SNDK) 係唯一有雙重 catalyst 確認嘅 carry-forward 主線。明日 neutral-to-cautious，睇零售數據 + AMAT 盤後擴散。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-14",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "Risk-on延續，SPY破頂穩守7,777(+0.7%)；油價本週轉升4%（美伊僵局+油輪斷流），但今日USO回吐1.8%信號混亂；BTC跌穿$63K反映crypto與股市背離",
+      "headlines": [
+        "[NEW] ACTION: NTDOY — 《Pokémon Pokopia》銷量破500萬，任天堂股價彈7%",
+        "[NEW] WATCH: UBER — 夥 Pony.ai 於歐洲部署2,000架robotaxi",
+        "[NEW] WATCH: OIL — 油價轉升4%週線，美伊僵局+油輪斷流（續報·反轉）",
+        "[NEW] WATCH: JD — 京東罕見收入下滑，股價暴跌7%",
+        "[NEW] WATCH: CRYPTO — BTC跌穿$63K，XRP逼近$1",
+        "[NEW] WATCH: MSFT — 微軟撤出中國",
+        "[NEW] WATCH: COPPER — 銅價緊縮，key spread 2021年以來最高",
+        "[NEW] WATCH: DEFENSE — 特朗普徵無人機關稅，美無人機股急升"
+      ],
+      "opportunities": [
+        "NTDOY: 任天堂內容熱賣，Switch 2 週期軟件需求被低估",
+        "OIL: 地緣溢價退卻後反轉，但美國明確「平油」優先，上行空間受限",
+        "CRYPTO: BTC跌穿$63K，與股市risk-on背離，短線壓力"
+      ],
+      "analysis": "Asia/Europe session 核心主題：(1) 油價本週轉升4%，美伊僵局持續 + 油輪斷流/關影噪，Vance明確「平油是第一目標」，但今日USO回吐1.8%顯示上行并非單轉。(2) 中國線動能轉弱：JD收入下滑跌7%，MSFT撤出中國，蘋果轉用阿里AI。(3) Crypto背離：BTC跌穿$63K。(4) 特定催化器：任天堂+7%、UBER robotaxi、銅價緊縮、無人機關稅。",
+      "risks": [
+        "油價上行可能拖累通潰回落進度，加息預期復燃",
+        "JD收入下滑反映中國消費持續走弱，中概股ADR整體受壓",
+        "BTC跌穿$63K若失守$62K支撐，可能加速下探"
+      ],
+      "my_take": "市場應該留意幾點販風險：(1) 油價「反轉」是本週最大變數——上週NC還說「地緣溢價退消」，但油輪斷流 + 美國「無限封鎖」威脅 + 氣油個價歷年最高已經數與事實不符，能源/違價股有上行風險。(2) 中國線整體轉弱（JD/MSFT/蘋果三條狨立消息），注意中概ADR跌迹。(3) Crypto與股市背離，BTC失守$63K是風險信號。",
+      "key_takeaways": [
+        "油價反轉升4%是本週最大變數，能源股重新進入視野",
+        "中國線轉弱（JD -7%、MSFT撤出）",
+        "BTC跌穿$63K，與股市risk-on背離",
+        "任天堂Pokémon熱賣 +7%，內容催化器"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-14",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Bullish — risk-on melt-up led by mega-cap tech, complacency rising (VIX 14.5)",
+      "headlines": [
+        "特朗普徵無人機關稅，美無人機股急升（DEFENSE）",
+        "油價本週轉升4%，俄油庫遭無人機襲擊（OIL）",
+        "京東罕見收入下滑暴跌7%（JD）",
+        "BTC 跌穿 $63K，crypto 與股市背離",
+        "蘋果夥阿里訓練中國 AI 模型（AAPL/BABA）"
+      ],
+      "focus": [
+        "NVDA 業績 Aug 26 — 一個月內最大 catalyst",
+        "OIL 反轉 — 能源/通脹上行風險",
+        "DEFENSE/Drone — 特朗普關稅催化",
+        "China 線走弱（JD/MSFT/蘋果）"
+      ],
+      "analysis": "開市掃瞄 — 2026-08-14（週五）\n\n■ Fed Context\n上次 FOMC Jul 28-29 按兵不動，本週無新 statement。下次 FOMC Sep 15-16（有 dot plot + 記者會）。短期催化：今日 Fed Venable 演講（21:00 HKT）、下週四 Aug 20 02:00 HKT FOMC Minutes（Jul 會議紀要，HIGH）。Kevin Warsh 無新 signal。\n\n■ 今日重點頭條（raw headlines）\n1. 特朗普徵無人機關稅，美國無人機股急升（DEFENSE）— 國防/反無人機主題\n2. 油價本週轉升4% — 美伊僵局 + 油輪斷流；俄羅斯油庫遭無人機襲擊（OIL/Energy）\n3. 京東罕見收入下滑，股價暴跌7%（JD）— 中國消費走弱信號\n4. 微軟撤出中國（MSFT）\n5. 蘋果夥阿里訓練中國 AI 模型（AAPL/BABA）\n6. BTC 跌穿 $63K，XRP 逼近 $1 — crypto 與股市背離\n7. 日本首相譴責普京訪問北方四島（地緣緊張）\n8. 印尼 Prabowo 撤回商品改革（commodities）\n9. Bill Ackman 買入 Mastercard（MA）\n10. MSCI 提議排除比特幣持有者（MSTR）\n\n■ 隔夜市場\n- SPY 777.88 (+0.70%) 逼近 ATH 779.37；QQQ 732.07 (+1.16%) 領漲；DIA 537.91 (+0.14%) 落後 — 資金集中 mega-cap tech\n- VIX 14.54 (-0.62%)，貼近年低位 13.38 — 極度 complacent\n- 油：本週 +4%，今日 USO 回吐 ~1.8%（信號混亂，但俄油庫襲擊 + 美伊僵局 = 上行風險）\n- 金 GLD ~$399、白銀 SLV ~$58 — 避險需求温和\n- Crypto：BTC 失守 $63K，XRP 逼近 $1 — 與股市高位背離，潛在 risk-off 前導\n\n■ 昨日爆升／暴跌榜（上一交易日）\n- 爆升：XHG +348%、FGI +142%、DFSC +86%（DEFSEC，國防/無人機）、GXAI +45%、IVDA +43% — 大部分 microcap froth，DFSC 屬無人機主題\n- 暴跌：LESL -42%（泳池用品，業績炸）、CLBT -29%（Cellebrite）、OBX -32%（生技）\n- 活躍：SMCI +4.1%（AI server）、OPEN +4.6%、TSLL +7.3%（TSLA 2x）、HTZ -16%（Hertz 大瀉）\n- Theme：國防/無人機（DFSC、ONDS）+ AI server（SMCI）。Microcap 炒作 + VIX 14.5 = late-stage risk-on 特徵\n\n■ 今日重點事件（macro_calendar — SOURCE OF TRUTH）\n- 20:30 HKT | Retail Sales MoM (Jul) — HIGH，prev 0.2% fcast 0.1%（消費轉弱？）\n- 20:30 HKT | Retail Sales Control Group — MED\n- 21:00 HKT | Fed Venable 演講 — MED\n- 22:00 HKT | Michigan Consumer Sentiment Prel (Aug) — HIGH，prev 55.2 fcast 54.5（信心續弱）\n- 下週四 Aug 20 02:00 HKT | FOMC Minutes — HIGH\n\n■ Sector Watch\n- 領漲：Technology +1.60%、Communication Services +1.12%\n- 落後：Healthcare -1.18%、Industrials -0.54%、Basic Materials -0.52%\n- Rotation：清晰 risk-on into tech，防禦/醫療被沽。但 DIA 僅 +0.14% — breadth 收窄，mega-cap 抬市\n- 新主題：Energy（油反轉）+ Defense/Drone（關稅催化）\n\n■ 機會\n- 🎯 NTDOY（ACTION）：Pokémon Pokopia 破500萬銷量，股價彈7%。Switch 2 內容週期被低估。今日部署：已彈7%，唔好追高，等回調或確認內容 pipeline。\n- 📡 OIL（WATCH·反轉）：本週最大變數。上週仲話「地緣溢價退消」，而家油輪斷流 + 俄油庫襲擊 + 美國「無限封鎖」威脅，能源股有上行風險。\n- 📡 DEFENSE/Drone（WATCH）：特朗普關稅催化，DFSC/ONDS 已動，跟蹤續漲能力。\n- 📡 UBER（WATCH）：夥 Pony.ai 歐洲部署 2,000 robotaxi。\n- ⚠️ JD（WATCH·風險）：罕見收入下滑 + 股價跌7%，連同 MSFT 撤出中國、蘋果-阿里中國 AI，中國線三條獨立走弱，中概 ADR 有下行風險。\n- ⚠️ Crypto（WATCH·風險）：BTC 失守 $63K + MSCI 提議排除比特幣持有者（MSTR 受壓），與股市背離係 risk-off 前導信號。\n\n■ 未來一個月業績重點\n下週（Aug 17-21）：\n- Tue Aug 18: HD（$342B，BMO）— 家居消費風向\n- Wed Aug 19: ADI、TJX、LOW、TGT — 零售消費集中日\n- Thu Aug 20: WMT（$923B，BMO）、BABA（$292B，BMO）、DE、ROST、NTES — 消費巨頭 + 中國互聯網\n下下週（Aug 24-28）：\n- Wed Aug 26: NVDA（$5.45T，AMC，🎯）— 市場最大事件，AI capex 見頂疑慮後首份業績\n- Thu Aug 27: MRVL（$195B，AMC，🎯）、CRWD、CRM、SNPS\n- NVDA 係核心 catalyst — guide 好壞直接決定 AI 半導體整個 sector 方向。\n\n■ Agenda\n- 今日：Retail Sales + Michigan Sentiment（消費係軟肋）\n- 下週：FOMC Minutes（Aug 20）+ 零售業績潮（WMT/TGT/LOW/HD）\n- 下下週：NVDA 業績（Aug 26）— 一個月內最重要事件\n- Key levels：SPY 777 突破確認，下一目標 780；support 768-770（50DMA 748 係深支撐）\n\n■ My Take\nBias：Bullish，但 complacency 升溫。VIX 14.5（年低附近）、SPY 破頂、microcap 炒作 — 呢個係 melt-up 格局，breadth 收窄（DIA 平）係警號。今日最緊要睇實：(1) Retail Sales 有冇跌破 fcast（消費轉弱會觸發 profit-taking）；(2) 油價會唔會再突破（能源/通脹風險）；(3) Crypto 會唔會繼續失守（risk-off 前導）。改變 thesis 嘅 signal：如果 Retail Sales 大幅低於 fcast + VIX 升穿 16 + BTC 失守 $60K，就要轉 defensive。\n",
+      "risks": [
+        "消費轉弱（Retail Sales fcast 0.1% vs prev 0.2%）",
+        "油價再突破推高通脹預期",
+        "Crypto 與股市背離，BTC 失守 $60K 係 risk-off 前導",
+        "Breadth 收窄，mega-cap 抬市脆弱"
+      ],
+      "my_take": "Bullish melt-up：SPY 破頂、VIX 14.5 貼年低，但 breadth 收窄（DIA 平）+ microcap 炒作 = complacency 升溫。今日三個風險：消費轉弱（Retail Sales/Michigan）、油價再突破（能源/通脹）、Crypto 續失守（risk-off 前導）。核心 catalyst 係兩週後 NVDA 業績。"
     }
   ],
   "news_curator": [
