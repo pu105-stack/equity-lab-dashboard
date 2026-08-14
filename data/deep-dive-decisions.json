@@ -1,4 +1,75 @@
 {
-  "decisions": [],
-  "last_synced": "2026-08-08T14:06:27.550108+08:00"
+  "decisions": [
+    {
+      "ticker": "JD",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "京東罕見收入下滑，股價 -7%。中國消費走弱信號，同 MSFT 撤出中國 + 蘋果靠阿里訓練 AI 並行 — 中國線整體轉弱。注意中概 ADR 跌勢擴散。Tencent beat 係例外（gaming + AI ads），但 JD 嘅 consumer 信號更接近底層需求。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "MSTR",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "三重打擊：MSCI 提議排除比特幣持有者 + BTC 跌穿 $63K + 首隻 BTC spot ETF 關閉。MSTR 本質係 leveraged BTC proxy，BTC 續跌 → margin call risk 上升。Crypto 與股市背離（software 股創新高但 BTC 失守）係 risk-off 早期信號。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "INTC",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "400% rally 之後加碼 $20B stock offering at $95 — textbook sell-into-strength。Wolf Street「Buy Low, Sell High」= management 喺高位賣股俾你。$95 pricing 透露 management 眼中嘅 fair value，major dilution overhang。反彈唔等於 comeback，dilution 未消化。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "USO",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "Bull: 油價本週反轉 +4%，Hormuz traffic 跌至 6 艘船新低，SPR 40 年低（<300M barrels），IEA 警告庫存急速耗盡，美國「indefinite blockade」威脅。Bear: 之前連續 4 週跌（demand destruction 主導），一旦 deal 信號出現 oil risk premium 會即時 evaporate。油係本週最大變數，方向未明。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "Bull: SK Hynix $38B HBM 豪賭 + SNDK/WDC/MU 記憶體爆發 + 韓國半導體 +3.5%。Bear: SK Hynix「capex trap」質疑 + memory cycle 歷史性 overcapacity risk。HBM 係 AI 最結構性需求 driver，但 cycle 轉向時 overcapacity 係老毛病。SK Hynix 咁 aggressive，MU 大機會跟進 → 但 timing 要揀啱。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "META",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "Bear: Zuckerberg $145B AI 支出 + Barclays skeptical（productivity gains elusive）+ FCF 壓力。Bull: open-source 最強 AI model（「Linux moment」）+ AI agent 5 年 vision。Market 要睇 ROI 唔係 vision — MSFT 被獎勵係因為有 revenue conversion，META 未有。等 Q2 顯示 productivity gain 先 action。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "Bull: $500B 融資 + Huang 稱 chips 係「investable asset」+ TSM/neocloud 確認需求。Bear: circular financing 指控（數據中心貸款估值存疑）+ GOOGL 定制芯片威脅 + 中國 chip 限制。Aug 26 earnings 係真正判決。呢個係成個 AI trade 嘅風險監察點 — 若數據中心貸款估值假設破裂，係系統性風險而唔係單一股票風險。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "Defense supercycle 有新 catalyst：特朗普徵無人機關稅，美國無人機股急升。上週嘅 missile defense contracts（$58.6B）+ NATO 軍費 cycle 未變，而家加埋 Trump trade 政策加碼國防。結構性 multi-year tailwind，唔係短期 trade。Rheinmetall +70% revenue 已確認板塊強勢。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "CRWV",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "Q2 revenue 翻倍 + backlog >$100B，直接反擊「AI infrastructure fatigue」narrative。Neocloud 業績齊爆（CRWV +18% / NBIS +34% / SMCI +19%）確認 AI 基建需求 re-acceleration，唔係見頂。CRWV 係 pure-play AI infra — NVDA 係 picks-and-shovels，CRWV 係個礦。估值已 run，但 earnings 係 hard data 唔係 hype。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "TSM",
+      "status": "deep_dive",
+      "updated_at": "2026-08-14",
+      "reasoning": "July revenue +44.7% YoY 係全週最硬嘅 AI demand 數據 — 由 hyperscaler capex 落到 chip maker 實數，AI 需求唔再係 narrative 而係 reality。TSM 係 AI 供應鏈唯一 bottleneck 嘅 pure-play，直接 bullish 成條供應鏈（NVDA/AVGO/MU）。呢個係 upgrade：上週仲係 WATCH，今週硬數據確認咗 trend intact。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-08-15T06:05:06.532220+08:00"
 }
