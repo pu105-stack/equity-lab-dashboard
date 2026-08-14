@@ -5570,6 +5570,68 @@
         "油價 deal 失敗風險 — 霍爾木茲 spike"
       ],
       "my_take": "Neutral-to-Bullish。AI datacenter 基建（SMCI/NBIS/COHR）動能最強，但 breadth 收窄 + 低 VIX 反映市場 priced for perfection。今日 PPI (8:30pm HKT) 係 disinflation 趨勢嘅裁判，AMAT 今晚業績係 NVDA (8/26) 前嘅 AI capex 前哨。PPI 確認降溫 → risk-on 延續；PPI 反彈 → 成長股估值受壓。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-14",
+      "time": "08:14 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 主線延續 — S&P 500 破歷史新高，CPI+PPI 雙確認通脹放緩，加息機率再降",
+      "headlines": [
+        "[NEW] 🎯 RDDT — 納入 S&P 500，被動資金買盤催化",
+        "[NEW] 🎯 WDAY — Silver Lake 收購報導，軟件 M&A 復甦信號",
+        "[RECENT] ⚠️ MACRO — PPI 持平確認 disinflation，加息機率再降",
+        "[NEW] ⚠️ CRM — JPMorgan 指 AI 憂慮過度",
+        "[NEW] ⚠️ AMAT — Q3 業績盤後出爐"
+      ],
+      "opportunities": [
+        "RDDT: 納入 S&P 500，11% 跳升，指數被動買盤短期 momentum",
+        "WDAY: Silver Lake 收購報導，10 年最大單日漲幅，軟件估值重估",
+        "CRM: AI 憂慮 narrative 逆轉，portfolio holding 有 repair 空間",
+        "AMAT: 半導體設備 Q3，業務無問題但估值係問號",
+        "CLIMATE/電力: 電網破紀錄需求，核電+太陽能結構性主題"
+      ],
+      "analysis": "US session (Thu Aug 13) risk-on 延續。S&P 500 破歷史新高，PPI 持平確認 CPI 通脹放緩訊號，加息機率再降。個股催化：RDDT 納入 S&P 500 (+11%)、WDAY Silver Lake 收購 (+25%) 停牌。軟件 M&A 復甦 + AI 憂慮逆轉（CRM）係本 session 兩個值得留意嘅結構性 signal。記憶體（SNDK/MU/WDC）續強，AMAT 盤後業績聚焦估值。宏觀隱憂：Fed RMP 降至零（QT 深化）、30yr 債息 2001 高位。",
+      "risks": [
+        "Fed 將 RMP 降至零，流動性進一步收緊",
+        "30 年期國債以 2001 年來最高成本發行，長債壓力",
+        "Hormuz 地緣溢價已消退，但局勢仍不穩定"
+      ],
+      "my_take": "市場 risk-on 但結構性裂痕浮現：股市破頂靠 profit margins 歷史高位，同時 30yr 債息 2001 高位 + Fed QT 深化。呢個組合通常係流動性末期信號，但短期 momentum 仍然向上。最值得留意嘅唔係 RDDT/WDAY 單一催化，而係「軟件 M&A 復甦」——若 Silver Lake 交易證實，會觸發成個 software 板塊估值重估，呢個先係有持續性嘅 opportunity。",
+      "key_takeaways": [
+        "Risk-on 延續：S&P 500 破頂，PPI 持平確認 disinflation",
+        "RDDT 納入 S&P 500 +11%，WDAY Silver Lake 收購 +25%",
+        "軟件 M&A 復甦 + AI 憂慮逆轉係結構性 signal",
+        "宏觀隱憂：Fed QT 深化 + 30yr 債息 2001 高位"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-14",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "S&P 500 破歷史新高 7798.99 (+0.65%)，PPI 軟通脹確認 disinflation。但 AMAT 業績 beat 都盤後 -4%，priced for perfection 首次現形。",
+      "headlines": [
+        "S&P 500 破歷史新高 7798.99 — PPI 軟通脹確認 disinflation",
+        "AMAT 業績 beat (EPS $3.50) + guide 上調，但盤後 -4% — priced for perfection 現形",
+        "WDAY +17.8% — Silver Lake 收購，軟件 M&A 復甦信號",
+        "SNDK +13.7% / WDC +7.3% / MU +4.2% — SanDisk Investor Day 引爆記憶體",
+        "COHR -8% — AI 光學反轉；CBRS -13% — Cerebras 業績暴跌",
+        "Michael Burry 加碼 QQQ put + 增持 MU 空倉 — 大空頭預警"
+      ],
+      "opportunities": [
+        "MU/WDC/SNDK: SanDisk Investor Day + AMAT CFO DRAM 下半年顯著增長雙重確認",
+        "軟件 M&A: WDAY 若證實，CRM/ADBE/NOW/INTU 板塊估值重估",
+        "AMAT: 盤後 -4% 但基本面強，若明日唔擴散係 event-driven 買入位"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n- 下次 FOMC：**9月15-16日**。上次 7月28-29日已消化（3.50-3.75%，3 位鷹派 dissenter）。\n- 本週無重大 Fed press release — 只有一單 Regions Bank 前僱員 enforcement action，無政策含義。\n- 今晚 Fed 發言：**Venable (9:00pm HKT, medium)** — 非投票委員，影響有限。\n- Macro 主軸：CPI 3.4% + PPI 持平雙確認 disinflation，市場持續收斂加息預期。但 Warsh 主導下核心通脹仍頑固，30yr 債息仍企 2001 年高位 + Fed QT 深化 — 減息預期宜謹慎，唔好過早定價。\n\n## 📰 今日重點頭條（按 market impact 排序）\n\n1. **[Macro] S&P 500 破歷史新高 7798.99 (+0.65%)** — PPI 軟通脹確認 disinflation，risk-on 主線延續（NC 命中 ✅）\n2. **[AMAT] 業績 beat 但盤後 -4%** — Q3 EPS $3.50 (vs $3.40) + Q4 guide 上調 ($9.75B-$10.75B vs $9.54B)，record revenue $9.12B (+25% YoY)，但現金流下滑 + 高估值令投資者「唔夠好就賣」（Morning Scan 叫 AMAT 做 NVDA 前哨 ✅）\n3. **[WDAY] +17.8% 收 $206** — Silver Lake 收購報導，10 年最大單日，軟件 M&A 復甦信號（NC ACTION ✅）\n4. **[SNDK/WDC/MU] 記憶體爆發** — SanDisk Investor Day 多年度財務模型引爆：SNDK +13.7% / WDC +7.3% / MU +4.2%（NC WATCH ✅，幅度遠超預期）\n5. **[COHR] -8.0%** — AI datacenter 光學反轉，Needham 上調後一日即回吐（NC 冇 flag 呢個反轉風險 ❌）\n6. **[CBRS] -13%** — Cerebras 業績後暴跌，AI 芯片分化（NC 冇 cover ❌）\n7. **[Burry] 加碼 QQQ put + 增持 MU 空倉** — 大空頭預警「larger fall」，VIX 14.6 嘅 complacency 係佢狙擊目標\n8. **[RDDT] +3.0% 收 $158** — 納入 S&P 500，被動買盤（NC ACTION，收盤僅 +3% 未及盤中 +11%）\n\n## 1. 📊 Market Recap\n\n- **指數**：S&P 500 +0.65% 收 7798.99（歷史新高）、Nasdaq +0.81% 收 26803、Dow +0.13% 收 53840（跑輸）\n- **SPY +0.70%** 收 777.88，intraday high 779.37 破年高 $776.85 — 新高確認\n- **QQQ +1.16%** 收 732.07 — 科技/成長領漲\n- **VIX 14.63** — 幾乎 flat，仍處 14-15 極度淡定區間，complacency 未退\n- **贏家**：XLC 通信服務 +2.07%、XLRE 房地產 +1.42%、XLP 必需消費 +1.08%、XLK 科技 +1.01%、SMH 半導體 +0.73%\n- **輸家**：XBI 生科 -1.59%、XLB 原物料 -0.51%、XLI 工業 -0.05%、XLV 醫療 -0.04%\n- **特徵**：科技 + 防禦（staples/utilities/real estate）雙頭下注，breadth 偏窄 — 資金喺 AI 之外仍 build 防守倉\n\n## 2. 🔥 Notable Movers\n\n**爆升：**\n- **WDAY +17.8%** ($206) — Silver Lake 收購，intraday 一度 +30% ($227)，軟件 M&A 復甦\n- **SNDK +13.7%** ($1528) — Investor Day 多年度模型，DRAM/NAND 資本開支周期確認\n- **WDC +7.3%** ($487) — 記憶體同受益，HDD/NAND 需求\n- **MU +4.2%** ($950) — 記憶體動能延續，破新高\n- **CRM +4.2%** ($201) — JPM 指 AI 憂慮過度，估值 repair\n- **SMCI +4.1%** ($39) — AI server 動能延續\n\n**反轉/落後：**\n- **COHR -8.0%** ($327) — Needham 上調後一日即回吐，AI 光學最強 momentum 名出現裂痕\n- **CBRS -13%** — Cerebras 業績後暴跌，AI 芯片第二梯隊分化\n- **NBIS -1.6%** ($255) — 高位震盪，前日 +34% 後回吐\n- **AMAT -2.5%** ($534.5) 常規時段 + 盤後 -4% — beat 都賣\n\n## 3. 📰 News That Mattered\n\n**Confirmed catalysts：**\n1. **PPI 軟通脹** — Morning Scan 嘅「今日裁判」命中。PPI 持平確認 disinflation，直接推 S&P 破新高。\n2. **AMAT 業績** — Morning Scan 話 AMAT 係「NVDA 前哨」。結果唔係「guide 差」而係更微妙：guide 好但股價照跌。呢個先係最危險嘅信號 — 估值已計入完美預期，好消息已唔夠支撐。\n3. **SanDisk Investor Day** — 引爆成個記憶體板塊，連帶推起半導體設備（LRCX/AMAT/Camtek 盤中 rise）。DRAM 資本開支周期嘅真實性被再次確認。\n4. **WDAY Silver Lake** — 軟件 M&A 復甦嘅第一塊骨牌。\n\n**NC calls 覆盤：**\n- ✅ SNDK/MU/WDC 記憶體 — 命中，幅度超大\n- ✅ CRM JPM 憂慮過度 — 命中\n- ✅ WDAY (ACTION) — 命中\n- ✅ AMAT「估值係問號」— 命中（beat 都跌）\n- ⚠️ RDDT (ACTION) — 部分命中，收盤 +3% 遠低於盤中 +11%\n- ❌ COHR -8% 反轉 — 冇 flag\n- ❌ CBRS -13% — 冇 cover\n- ❌ Burry 空頭佈局 — 冇 flag（重要 risk signal）\n\n## 4. 🎯 Opportunities Carry Forward\n\n- **記憶體/DRAM（最強 carry）**：SNDK Investor Day 多年度模型 + AMAT CFO「下半年 DRAM revenue 顯著增長」雙重確認 — MU/WDC/SNDK 動能未完，回調即係機會。\n- **軟件 M&A 主題**：WDAY 若 Silver Lake 證實，成個 software 板塊（CRM/ADBE/NOW/INTU）可能觸發估值重估 — 睇有冇下一單 M&A。\n- **AMAT 盤後回調**：基本面 record revenue + guide 上調 + DRAM 周期，-4% 回調係「priced for perfection」嘅 noise 定真回調？若明日唔擴散，呢個係 event-driven 買入位。\n- **明日 setup**：今晚 Retail Sales + Michigan Sentiment 落地後，睇消費力數據有冇改變 disinflation 敘事。\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚 (8/14 HKT) 重點事件：**\n- 🔴 **8:30pm Retail Sales MoM (Jul)** — HIGH。消費力測試，強勁零售可能延遲減息\n- 🔴 **10:00pm Michigan Consumer Sentiment Prel (Aug)** — HIGH\n- 🟡 8:30pm Retail Sales Ex Autos + Control Group\n- 🟡 9:00pm Fed Venable Speech\n\n**Overnight risk：**\n- **AMAT 盤後 -4% 擴散風險** — 若明日半導體/AI 板塊跟跌，呢個係「priced for perfection」嘅第一次現形，NVDA (8/26) 業績前估值風險升溫。\n- **Burry 集結空頭** — QQQ put + MU short，VIX 14.6 嘅 complacency 係最大脆弱點。\n- **30yr 債息 2001 高位 + Fed QT 深化** — NC flag 嘅結構性裂痕。\n\n## 6. 💡 My Take\n\n今日係「risk-on 但 priced for perfection」嘅 textbook 示範。S&P 破頂靠 AI + 記憶體 + 軟件 M&A 三頭馬車，但 AMAT 業績 beat + strong guide 都盤後跌 4%，說明市場已把完美預期計入價格 — 好消息已唔夠，只有「超乎完美」先能推高。呢個係 NVDA 8/26 業績前最需要警剔嘅信號。\n\n明日 bias：**neutral-to-cautious**。睇今晚零售數據會唔會強化/削弱 disinflation 敘事，同埋 AMAT 盤後反應有冇喺開盤擴散。記憶體 (MU/WDC/SNDK) 係唯一有真實 catalyst 嘅 carry-forward 主線。",
+      "risks": [
+        "AMAT 盤後 -4% 擴散至半導體/AI 板塊 — NVDA 8/26 前估值風險",
+        "Burry QQQ put + MU short — 空頭集結，VIX complacency 係脆弱點",
+        "今晚 Retail Sales (8:30pm) + Michigan Sentiment (10pm) — 消費力數據可能動搖 disinflation 敘事",
+        "30yr 債息 2001 高位 + Fed QT 深化 — 結構性裂痕"
+      ],
+      "my_take": "Risk-on 但 priced for perfection。S&P 破新高靠 AI+記憶體+軟件 M&A 三主線，但 AMAT 業績 beat + guide 上調都盤後 -4%，係估值已計入完美預期嘅警號。記憶體 (MU/WDC/SNDK) 係唯一有雙重 catalyst 確認嘅 carry-forward 主線。明日 neutral-to-cautious，睇零售數據 + AMAT 盤後擴散。"
     }
   ],
   "news_curator": [
