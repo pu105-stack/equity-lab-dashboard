@@ -5689,44 +5689,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-17",
-      "time": "08:13 HKT",
-      "status": "success",
-      "market_direction": "Risk-on 持續 — S&P 500 三週連升，週一盤前期貨持平，聚焦本週 Fed minutes + 零售業績 + M&A",
-      "headlines": [
-        "S&P 500 三週連升，週一盤前期貨持平，市場等 Fed minutes + 零售業績 (CNBC, 2026-08-16)",
-        "PayPal 傳洽售自身，曾拒 Stripe $60.50 收購 (247wallst, 2026-08-15)",
-        "Wendy's 傳 Nelson Peltz 擬出價收購 (Yahoo Finance, 2026-08-16)",
-        "Stripe 傳 $7B+ 收購 AI gateway OpenRouter (TechCrunch, 2026-08-16)",
-        "Meta 反壟斷開審，若敗訴 IG/FB 或分拆 (BBC, 2026-08-16)",
-        "Nvidia 擬 $3B 投資 SB Energy + SpaceX $21B 意外之財 (CNBC/247wallst, 2026-08-15)",
-        "特朗普縮減美韓軍演，南韓未參與伊朗戰爭 (BBC/NBC, 2026-08-16)",
-        "比特幣守 $63K，Saylor 稱「數位貨幣能量」(Investing, 2026-08-16)"
-      ],
-      "opportunities": [
-        "PYPL: PayPal 傳洽售自身，曾拒 Stripe $60.50。大型 fintech M&A 催化，成交價係關鍵",
-        "WEN: Nelson Peltz 擬出價收購。M&A 博弈啟動，Viper 短線可跟",
-        "NVDA: 多重利好：$3B SB Energy + SpaceX $21B + neocloud 融資。AI 基建資金流持續",
-        "TSLA/NVDA: Musk 與 Huang 新合作 — 投機性，等實質細節",
-        "META: 反壟斷案開審 — portfolio holding，監管風險",
-        "WMT/TGT: 零售業績週 — 美國消費健康度，Walmart 本週出爐",
-        "AVGO/TSM: 基金調倉分歧 — 大基金沽 AVGO，Druckenmiller 反手買"
-      ],
-      "analysis": "M&A 回歸（PayPal/Wendy's/Workday/Stripe）+ AI 基建資金流持續（NVDA 多重催化、SpaceX $500B data center）+ 利率路徑再定價（Fed 內部辯論、9月加息機率 25%）。",
-      "risks": [
-        "META 反壟斷案若敗訴或分拆 IG/FB",
-        "零售業績週（WMT/TGT）若顯示消費疲弱",
-        "地緣風險（烏克蘭無人機襲擊、美韓軍演縮減）"
-      ],
-      "my_take": "本週三線並行：M&A 熱潮重返（fintech + 軟件）、AI 基建 capex 未見頂（Nvidia 多重催化 + SpaceX $500B）、利率路徑再定價。Market 已 price in risk-on（三週連升），新催化要靠 M&A 落地 + 零售數據唔爆雷。",
-      "key_takeaways": [
-        "PayPal 傳洽售自身，大型 fintech M&A 催化",
-        "Nvidia 多重利好（SB Energy $3B + SpaceX $21B）",
-        "META 反壟斷 + 零售業績係本週最大下行風險"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-17",
       "time": "08:37 HKT",
@@ -5753,6 +5715,68 @@
         "AVGO/AMAT AI trade 係輪動定裂縫"
       ],
       "my_take": "週五係輪動日唔係 risk-off 日：S&P 微跌但小型股創新高、能源/防守領漲、半導體急劇分化（AMD +6.5% vs AVGO -5.9%）。Morning Scan 三個風險全部命中但市場用 rotation 消化，比 melt-up 健康。本週真正定調係週三 FOMC minutes + Walmart/Target 零售業績，M&A wave 只係 bonus。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-17",
+      "time": "20:09 HKT",
+      "status": "success",
+      "market_direction": "地緣風險重燃 — US-Iran 停火到期+Hormuz癱瘓推油價；SPY貼近歷史高位，弱美元+加息退潮",
+      "headlines": [
+        "[NEW] WATCH: OIL — US-Iran 停火到期 + Hormuz 癱瘓，油價衝 $90",
+        "[NEW] WATCH: AVGO — 基金續沽，盤前 -6%",
+        "[RECENT] WATCH: GOOGL — Berkshire 加碼 $17B Alphabet",
+        "[RECENT] ACTION: MU — AI 記憶體牛市 +2.3%",
+        "[NEW] NOTE: MACRO — 美元 6 月新低 + 日債 30 年新高",
+        "[RECENT] NOTE: CRYPTO — BTC 守 $63.5K，ETF 流出 $390M"
+      ],
+      "opportunities": [
+        "MU: AI 記憶體結構性牛市，BofA 盈利年增 34%，盤前 +2.3%，低於高位 23%",
+        "OIL: Hormuz 癱瘓 + 停火到期，油價重燃 $90，能源/防守盤前齊升",
+        "GOOGL: Berkshire Q2 加碼 $17B，Abel 接棒首個大動作"
+      ],
+      "analysis": "地緣風險重燃逆轉 morning 判斷。AI 半導體內部資金輪動（AVGO→MU/TSM）係 portfolio 直接影響。",
+      "risks": [
+        "US-Iran 達成 broad deal → 油價快速回吐",
+        "AVGO 資金流出加速 → 半導體持倉受壓",
+        "Hormuz 全面封鎖 → 供應鏈 shock tail risk"
+      ],
+      "my_take": "停火到期+Hormuz癱瘓逆轉「溢價消退」判斷，但二元事件係 trade 唔係 invest。核心係 AI 半導體資金輪動（AVGO -6% vs MU +2.3%）+ Berkshire $17B 加碼 Alphabet 高 conviction 訊號。市場高位 risk-on 下 Hormuz 係 tail risk，能源/黃金係對沖工具。",
+      "key_takeaways": [
+        "US-Iran 停火到期 + Hormuz 癱瘓 = 油價重燃 $90",
+        "AVGO 盤前 -6%，基金沽 custom silicon 轉 memory/TSM",
+        "MU +2.3%，AI 記憶體牛市結構性",
+        "Berkshire Q2 加碼 Alphabet $17B",
+        "美元 6 月新低 + 日債 30 年新高 = 弱美元 risk-on"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-17",
+      "time": "20:32 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-bullish（油價係 swing factor）",
+      "headlines": [
+        "美元跌至 6 月初低位，加息預期退潮 — risk-on 順風",
+        "US-Iran 停火到期 + Hormuz 癱瘓，油價重燃 $90",
+        "AI 半導體輪動：AVGO -6% vs MU +2.3%，資金轉 memory",
+        "Berkshire Q2 加碼 Alphabet $17B，市場未反映",
+        "本週零售巨企業績 + Thu FOMC Minutes；NVDA 下週重磅"
+      ],
+      "focus": [
+        "MU — AI memory 資金輪動受益者，回調低吸",
+        "OIL/USO/XOM/CVX — Hormuz 二元事件，對沖工具",
+        "GOOGL — Buffett/Abel 高 conviction 加倉",
+        "NVDA — 下週業績全場焦點"
+      ],
+      "analysis": "# Morning Scan — 2026-08-17（星期一）\n\n## Fed Context — 宏觀背景\n上一個 FOMC 係 Jul 28-29（已 settle），無新 statement。下次會議 Sep 15-16，本週焦點係 **Thu Aug 20 02:00AM HKT 嘅 FOMC Minutes**（HIGH）。\n市場當下最大 macro 訊號係「加息預期退潮」——美元跌到 6 月初以來低位、黃金( GLD $401 )企穩高位、9 月加息 bets 持續 fade。July CPI 對 Fed 係好消息（RBC 提醒 consumer resilience 開始見裂痕）。呢個係「hawkish Fed 軟化」嘅環境：對 growth/tech 係順風，但要小心 Minutes 入面有冇任何鷹派殘留 signal 反噬 risk-on。\n\n## 📰 今日重點頭條（raw landscape）\n- 【CNBC】阿里巴巴發布 laptop-ready AI 模型，正面硬撼 Meta 開源挑戰（BABA）— 中國 AI 競賽升溫，BABA 週四 AMC 業績前有催化。\n- 【TradingView】NVDA 觸及新高 $227.49，惟 SPY 在 $776.81 上方 chop（NVDA/SPY）— 大盤高位整固。\n- 【Investing】美元跌至 6 月初以來低位，加息 bets 退潮（macro）— risk-on 順風。\n- 【Bloomberg】RBC 指美國消費韌性開始現裂痕 — 零售業績週嘅警號。\n- 【247wallst】Tesla 再升，6 大催化劑（TSLA）— 動能股反彈。\n- 【CoinDesk】Strategy/Metaplanet 最大 Bitcoin holders「賭數學唔賭價格」（MSTR）— 加密龍頭續加倉。\n- 【OilPrice】中國原油進口 +22%，即使經濟數據失望（USO）— 需求面支撐油價。\n- 【Investing】DraftKings 啟動 $600M term loan + $750M credit facility（DKNG）。\n\n## 🌍 隔夜市場\nUS 三大指數高位整固：SPY $776.34（-0.20%）、QQQ $731.07（-0.14%）、DIA $536.80（-0.21%）。SPY 貼近 52 週高位 $779.37，屬典型「破位前 chop」。\n油價係最大變數：US-Iran 停火窗口到期 + Hormuz 航道癱瘓，USO $126.6 已反映地緣溢價重燃（News Curator 判斷油價重衝 $90）。黃金 GLD $401 企穩、美元走弱，避險與 risk-on 並存——呢個組合通常係「股市未見頂、但尾部風險升溫」嘅特徵。\n\n## 📈 昨日市場爆升／暴跌榜\n前一日 movers 大多係 micro-cap／biotech，機構層面意義有限。重點：\n- 爆升：MDXH +75%（biotech）、CAPR +58%、ETON +44% — single-event driven，唔追。\n- 暴跌：KLC -46%（KinderCare）、MVIS -40%、BZAI -49% — 同樣係個股事件，無 sector 連鎖。\n- 活躍：NU +9.3% 係唯一值得留意嘅中大型股（Fintech 動能）；INTC -1.97% 續弱（$102）。\n- Sector theme：無明顯 sector rotation，純粹 micro-cap 波動。真正嘅資金輪動喺 AI 半導體內部（見下）。\n\n## 📡 今日重點事件（macro_calendar.json — source of truth）\n- 🟡 08:30PM HKT | NY Empire State Manufacturing Index（Aug）prev=15.6 fcast=11 — 睇製造業有冇轉弱。\n- 🟡 10:00PM HKT | NAHB Housing Market Index（Aug）prev=34 fcast=33 — 樓市信心續弱。\n本週 HIGH 事件：Tue Housing Starts / Building Permits（08:30PM）、**Thu FOMC Minutes（02:00AM）**、Fri PMI Flash（09:45PM）。\n\n## 🔥 Sector Watch\n- **AI 半導體內部輪動**：AVGO -6%（基金沽 custom silicon）vs MU +2.3%（memory）vs NVDA 近新高。資金由 custom silicon 轉向 memory/TSM 邏輯。呢個唔係 one-off，係結構性 rebalancing。\n- **能源**：地緣溢價重燃，XOM $160 / CVX $200 企穩。二元事件，追入等確定性。\n- **零售**：本週 HD/TGT/WMT/LOW 業績 = consumer stress test。RBC 已警告消費韌性裂痕，留意指引。\n- **中國科技**：BABA 發 AI 模型，中國 AI 競賽升溫，BABA/PDD/NTES 本週齊出業績。\n\n## 🎯 Pre-market Opportunities（News Curator consolidate）\n- **MU（ACTION）**：AI memory 牛市未完，BofA 稱盈利年增 34%，盤前 +2.3%，仍低於 52 週高位 23%。部署：AVGO 資金流出嘅直接受益者，唔好高追，回調低吸更好。\n- **GOOGL（WATCH）**：Berkshire Q2 加碼 $17B Alphabet，Abel 接棒首個大動作。市場未反映。部署：長線高 conviction 訊號，唔急於今日入，但係加倉清單首選。\n- **OIL / USO / XOM / CVX（WATCH）**：Hormuz 癱瘓 + 停火到期，二元事件。部署：係 trade 唔係 invest，追入要等 deal/升級 明朗化；能源同黃金係對沖好工具。\n- **AVGO（WATCH／風險）**：基金續沽 custom silicon，盤前 -6%。部署：唔好接刀，Sep 2 業績前保持觀望。\n\n## 📅 未來一個月業績重點\n本週（零售 + 中國科技）：\n- Tue：HD（$341B）、KEYS\n- Wed：ADI、TJX、LOW、TGT\n- Thu：**WMT（$921B）**、BABA（$285B）、DE、ROST、NTES\n- Mon 24：PDD\n下週（重磅）：\n- Wed Aug 26：**NVDA（$5.4T，🎯）** — 全場焦點，AI 牛市嘅驗證點。\n- Thu Aug 27：MRVL（$195B，🎯）、CRM、CRWD、INTU\n再下週：\n- Sep 2：**AVGO（$1.99T，🎯）**\n- Sep 8：ORCL（🎯）；Sep 10：ADBE（🎯）\n\n## 📋 Today's Agenda\n- 今日：Empire State（08:30PM）+ NAHB（10:00PM）\n- 本週核心：Thu FOMC Minutes + 零售巨企業績 + NVDA 下週預熱\n- Key levels：SPY support $775（前日低位）／resistance $779（52 週高位）；破位 $779 先確認突破。\n\n## 💡 My Take\n**整體 bias：Neutral-to-bullish，但油價係今日最大 swing factor。**\n股市高位整固 + 加息預期退潮 + 美元走弱，risk-on 大方向冇變。但 US-Iran/Hormuz 係隨時引爆嘅 tail risk，油價任何急升都可能 trigger 一輪 risk-off。\n今日最緊要睇實三樣：① 油價走勢（Hormuz 有冇實質升級）② AI 半導體輪動有冇延續（AVGO 弱 vs MU/NVDA 強）③ 美元會唔會繼續破位。\n改變 thesis 嘅 signal：如果 FOMC Minutes（Thu）出鷹派殘留、或油價實質突破 $95，先轉向防禦。",
+      "risks": [
+        "Hormuz 航道升級 → 油價急升 → risk-off",
+        "FOMC Minutes 出鷹派殘留，反噬加息退潮 narrative",
+        "零售業績指引差，印證消費韌性裂痕",
+        "AVGO 沽壓蔓延至整個 AI semi 板塊"
+      ],
+      "my_take": "Neutral-to-bullish。股市高位整固 + 加息預期退潮係順風，但 US-Iran/Hormuz 油價係最大 tail risk。今日睇實油價、AI 半導體輪動（AVGO 弱 vs MU/NVDA 強）、美元。NVDA 下週業績係全場焦點。"
     }
   ],
   "news_curator": [
