@@ -5687,6 +5687,72 @@
         "AI Capex Contrarian: META",
         "Avoid: INTC (dilution), MSTR (crypto leverage), JD (China weakness)"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-17",
+      "time": "08:13 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 持續 — S&P 500 三週連升，週一盤前期貨持平，聚焦本週 Fed minutes + 零售業績 + M&A",
+      "headlines": [
+        "S&P 500 三週連升，週一盤前期貨持平，市場等 Fed minutes + 零售業績 (CNBC, 2026-08-16)",
+        "PayPal 傳洽售自身，曾拒 Stripe $60.50 收購 (247wallst, 2026-08-15)",
+        "Wendy's 傳 Nelson Peltz 擬出價收購 (Yahoo Finance, 2026-08-16)",
+        "Stripe 傳 $7B+ 收購 AI gateway OpenRouter (TechCrunch, 2026-08-16)",
+        "Meta 反壟斷開審，若敗訴 IG/FB 或分拆 (BBC, 2026-08-16)",
+        "Nvidia 擬 $3B 投資 SB Energy + SpaceX $21B 意外之財 (CNBC/247wallst, 2026-08-15)",
+        "特朗普縮減美韓軍演，南韓未參與伊朗戰爭 (BBC/NBC, 2026-08-16)",
+        "比特幣守 $63K，Saylor 稱「數位貨幣能量」(Investing, 2026-08-16)"
+      ],
+      "opportunities": [
+        "PYPL: PayPal 傳洽售自身，曾拒 Stripe $60.50。大型 fintech M&A 催化，成交價係關鍵",
+        "WEN: Nelson Peltz 擬出價收購。M&A 博弈啟動，Viper 短線可跟",
+        "NVDA: 多重利好：$3B SB Energy + SpaceX $21B + neocloud 融資。AI 基建資金流持續",
+        "TSLA/NVDA: Musk 與 Huang 新合作 — 投機性，等實質細節",
+        "META: 反壟斷案開審 — portfolio holding，監管風險",
+        "WMT/TGT: 零售業績週 — 美國消費健康度，Walmart 本週出爐",
+        "AVGO/TSM: 基金調倉分歧 — 大基金沽 AVGO，Druckenmiller 反手買"
+      ],
+      "analysis": "M&A 回歸（PayPal/Wendy's/Workday/Stripe）+ AI 基建資金流持續（NVDA 多重催化、SpaceX $500B data center）+ 利率路徑再定價（Fed 內部辯論、9月加息機率 25%）。",
+      "risks": [
+        "META 反壟斷案若敗訴或分拆 IG/FB",
+        "零售業績週（WMT/TGT）若顯示消費疲弱",
+        "地緣風險（烏克蘭無人機襲擊、美韓軍演縮減）"
+      ],
+      "my_take": "本週三線並行：M&A 熱潮重返（fintech + 軟件）、AI 基建 capex 未見頂（Nvidia 多重催化 + SpaceX $500B）、利率路徑再定價。Market 已 price in risk-on（三週連升），新催化要靠 M&A 落地 + 零售數據唔爆雷。",
+      "key_takeaways": [
+        "PayPal 傳洽售自身，大型 fintech M&A 催化",
+        "Nvidia 多重利好（SB Energy $3B + SpaceX $21B）",
+        "META 反壟斷 + 零售業績係本週最大下行風險"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-17",
+      "time": "08:37 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Constructive — 輪動日消化風險，本週焦點 FOMC minutes + 零售業績",
+      "headlines": [
+        "Broadcom 跌 6% — BofA 質疑 AI 晶片 $370B 融資（AVGO）",
+        "Druckenmiller 13F 大轉倉：買 AMD/AMZN、沽 AVGO/INTC/MU",
+        "零售銷售疲軟 + 信心弱，消費轉弱實錘",
+        "Russell 2000 小型股創新高",
+        "AMD +6.5% — $5B 債券加速 AI 擴張"
+      ],
+      "opportunities": [
+        "PYPL: 傳洽售、曾拒 Stripe $60.50，週五放量累積",
+        "AMD: 半導體輪動贏家，$5B 債券 + 基金買入",
+        "WEN: Peltz 收購博弈",
+        "SNDK: Investor Day momentum"
+      ],
+      "analysis": "美股收市回顧 — 2026-08-14（週五）\n\n■ Fed Context / Macro Backdrop\n- 上次 FOMC Jul 28-29 按兵不動；下次 FOMC Sep 15-16（有 dot plot + 記者會）\n- 本週三 Aug 20 02:00 HKT 出 FOMC Minutes（Jul 會議紀要，HIGH）— 本週最大 macro catalyst\n- 30yr 債息 5.21%（25 年高位）、10yr 4.63% — 長端債息偏高，反映市場定價鷹派 Fed + 通脹黏性\n- Kevin Warsh 信譽危機未解：上次會議 3 名鷹派 dissenter，市場質疑控制力；9 月加息機率 ~25% 仍在\n- 本週無新 Fed press release（DB 只有 FOMC schedule + 一單 Regions Bank enforcement action）\n\n■ 今日重點頭條（Raw Headlines）\n1. Broadcom 跌 6% — BofA 估 AI 晶片融資工具 2029 年可達 $370B senior debt（AVGO）— raw 先見，NC 只寫「基金調倉」\n2. Stanley Druckenmiller Q2 大轉倉：買 AMZN/AMD/AI 基建、沽 AVGO/INTC/MU（13F 日）— 半導體調倉核心\n3. 美國零售銷售疲軟 + 消費信心弱，S&P 停滯 — 消費轉弱實錘\n4. Russell 2000 小型股創新高 — 資金轉入小型股\n5. SanDisk 續升 7% — post-Investor Day 延續（SNDK）\n6. AMD 創紀錄 $5B 債券發行，加速 AI server 擴張（AMD）\n7. Third Point 清倉 Broadcom；Soros 加碼 AVGO 6.5%（13F）\n8. 特朗普縮減美韓聯合軍演（DEFENSE）— NC 有 cover\n9. PayPal 傳洽售自身，曾拒 Stripe $60.50 收購（PYPL）— NC ACTION\n10. Wendy's 傳 Nelson Peltz 擬出價收購（WEN）— NC ACTION\n\n■ Market Recap\n- S&P 500 7785.76（-0.17%）— 由週四 ATH 7798.99 輕微回吐\n- QQQ 731.07（-0.14%）、DIA 536.80（-0.21%）\n- VIX 14.25（-2.6%）— 繼續貼近年低位，complacency 未散\n- S&P 成交量 4.16B vs 週四 4.83B — 明顯縮量（夏季週五 + 輪動）\n- Sector：XLE 能源 +1.39% 領漲（油價攀升，伊朗/Hormuz）、XLU 公用 +0.61%、XLB 材料 +0.44% 防守；XLK 科技 -0.40%、XLV 醫療 -0.60% 最弱\n- 關鍵：S&P 微跌但 Russell 2000 創新高 — 唔係 risk-off，係輪動\n\n■ Notable Movers\n- AMD +6.50%（$5B 債券 + Druckenmiller/Coatue 13F 買入）— 有 catalyst，跟進\n- SNDK +7%（Investor Day 延續）— momentum\n- MU +2.30%、SMCI +1.74% — AI 記憶體/伺服器輪動承接\n- PYPL +1.77%（大成交量 15.6M vs 9.6M）— M&A 累積\n- AVGO -5.94%（大成交量 29.4M）— 13F 沽壓 + BofA $370B 融資質疑，值得跟進\n- AMAT -5.12% — 業績後連續第二日沽壓\n- MSTR -4.18% — crypto 失守，與股市背離\n\n■ News That Mattered\n- 13F 日係今日主線：Druckenmiller 轉倉（買 AMZN/AMD/AI 基建、沽 AVGO/INTC/MU）直接引爆半導體分化 — NC 嘅 WATCH「AVGO/TSM 基金調倉分歧」完全命中\n- 消費轉弱實錘：retail sales 疲軟 + Michigan 信心弱 — Morning Scan 風險 1 命中，但市場用輪動消化而唔係拋售\n- 油價攀升（XLE +1.4%）— Morning Scan 風險 2 命中\n- Crypto 續弱（MSTR -4.2%、BTC 守 $63K）— Morning Scan 風險 3 命中\n- M&A 熱潮：PayPal/Wendy's/Workday 消息在週末發酵，週一盤前係催化\n\n■ Opportunities Carry Forward\n- PYPL — 傳洽售、曾拒 Stripe $60.50，週五已放量累積，週一盤前催化\n- WEN — Peltz 收購博弈，+14.7% 後整固\n- AMD — 半導體輪動贏家，$5B 債券 + 頂級基金買入，momentum carry\n- SNDK — Investor Day momentum 延續\n- 小型股（Russell 2000/IWM）— 輪動受益者，若 rotation 持續可跟\n\n■ Risks / Watchlist\n- 週三 Aug 20 02:00 HKT FOMC Minutes — 可能揭露 7 月鷹派辯論細節，本週最大下行 catalyst\n- WMT/TGT 零售業績（本週）— 消費轉弱下嘅關鍵考驗，Walmart guide 弱即拆「消費無恙」論\n- 30yr 債息 5.21%（25 年高位）— 若再破高，長久期資產受壓\n- AVGO/AMAT — AI trade 係「輪動」定「裂縫」？AVGO $370B 融資質疑值得深挖\n- Crypto 背離（MSTR -4.2%、BTC 守 $63K）— risk-off 前導指標\n- 今晚（週一）：NY Empire State Mfg（20:30）、NAHB Housing（22:00）— 中級，驗證製造業/房市\n\n■ My Take\n週五係「輪動日」唔係「risk-off 日」— S&P 微跌 0.17% 但 Russell 2000 創新高、能源/防守領漲、半導體急劇分化（AMD +6.5% vs AVGO -5.9%）。Morning Scan 三個風險（消費轉弱、油價升、crypto 弱）全部命中，但市場用 rotation 消化而唔係拋售 — 呢個其實比 melt-up 健康。\n\n但兩點令我唔安：① 消費轉弱係真（retail sales + 信心雙弱），偏偏撞正本週 Walmart/Target 業績；② 30yr 5.21% 25 年高位 + 週三 FOMC minutes，利率 overhang 係 live。\n\n明日 bias：週一中性偏強（M&A 熱潮撐 risk appetite），但本週真正定調係週三 FOMC minutes + 零售業績。M&A wave（PayPal/Wendy's）只係 bonus，唔係主線。",
+      "risks": [
+        "週三 FOMC Minutes 或揭鷹派辯論",
+        "Walmart/Target 業績考驗消費健康度",
+        "30yr 債息 5.21% 25 年高位",
+        "AVGO/AMAT AI trade 係輪動定裂縫"
+      ],
+      "my_take": "週五係輪動日唔係 risk-off 日：S&P 微跌但小型股創新高、能源/防守領漲、半導體急劇分化（AMD +6.5% vs AVGO -5.9%）。Morning Scan 三個風險全部命中但市場用 rotation 消化，比 melt-up 健康。本週真正定調係週三 FOMC minutes + Walmart/Target 零售業績，M&A wave 只係 bonus。"
     }
   ],
   "news_curator": [
