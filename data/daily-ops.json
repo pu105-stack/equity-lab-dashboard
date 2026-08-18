@@ -5777,6 +5777,67 @@
         "AVGO 沽壓蔓延至整個 AI semi 板塊"
       ],
       "my_take": "Neutral-to-bullish。股市高位整固 + 加息預期退潮係順風，但 US-Iran/Hormuz 油價係最大 tail risk。今日睇實油價、AI 半導體輪動（AVGO 弱 vs MU/NVDA 強）、美元。NVDA 下週業績係全場焦點。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-18",
+      "time": "08:11 HKT",
+      "status": "success",
+      "market_direction": "風險偏好轉弱：油價 +2.9%、金價 +1.0% 上升，美股微跌（SPY -0.47%），債市拋售令 30 年期息率創 19 年新高 — 地緣（伊朗）＋利率雙重壓力。",
+      "headlines": [
+        "[NEW] ACTION: OIL — 特朗普拒延停火、揚言轟炸阿曼，油價重上 $91",
+        "[NEW] ACTION: NVDA — $100B 支持 OpenAI 俄亥俄數據中心",
+        "[RECENT] ACTION: MRVL/CRDO/CIEN — AI 網絡股反彈 +8%",
+        "[RECENT] WATCH: META/PINS/SNAP — 社媒豁免權被剝離",
+        "[RECENT] WATCH: MACRO — 30 年期息率 19 年新高"
+      ],
+      "opportunities": [
+        "OIL (USO/XOM/CVX): 地緣溢價重燃，refiners 歷史級強勢",
+        "NVDA: AI capex 再確認",
+        "MRVL/CRDO/CIEN: AI 網絡需求爆發",
+        "MU/SNDK: 記憶體牛市延續"
+      ],
+      "analysis": "地緣（伊朗）+ 債市拋售雙重 risk-off，但 AI 基建主題免疫並逆勢加倉。",
+      "risks": [
+        "30 年期國債息率 19 年新高，壓抑估值",
+        "社媒 Section 230 豁免權被剝離，法律風險",
+        "Bally's -31% 流動性警告，高收益信貸壓力",
+        "ECB 警告美股科技或回調"
+      ],
+      "my_take": "本週市場由兩個 macro 引擎主導：伊朗地緣升級（油價 +2.9% 已確認市場在交易供應風險溢價）同債市拋售（30 年期息率 19 年新高，反映財政/供給擔憂多於加息）。兩者都係 risk-off 壓力，但 AI 基建主題完全免疫 — NVDA/OpenAI 俄亥俄 +$100B、Anthropic $65B run rate、AI 網絡/記憶體/功率半導體全線反彈。我的判斷：地緣係交易性機會（油價 + refiners），但 AI capex 先係結構性主線 — 資金喺拋售中無離開 AI 硬件，反而加倉。需要警惕嘅係社交媒體法律風險（Section 230 剝離）同高收益信貸（Bally's -31%），呢啲係較早期嘅裂縫訊號。",
+      "key_takeaways": [
+        "油價 +2.9%：伊朗地緣升級已反映在市場",
+        "AI capex 無視宏觀壓力，資金逆勢加倉硬件",
+        "債市（30 年期息率 19 年新高）係最大 macro 風險",
+        "社交媒體法律風險同高收益信貸係早期裂縫"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-18",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautious（指數），結構性 bullish AI infra — 兩極分化日：伊朗油價 + 債市拋售壓低大盤，但 AI 硬件全線免疫爆升。",
+      "headlines": [
+        "特朗普拒延停火、揚言轟炸阿曼，油價重上 $85（+3.1%）",
+        "30 年期美債息率升穿 5.31%，19 年新高，債市拋售壓抑股市",
+        "OpenAI $100B 俄亥俄數據中心，NVDA 受惠",
+        "第九巡迴法院剝奪社媒 Section 230 豁免，META/SNAP/PINS 齊跌",
+        "Bally's 流動性警告 -26%，高收益信貸裂縫訊號"
+      ],
+      "opportunities": [
+        "SNDK/CRDO/MRVL/MU/WOLF/CIEN: AI 基建結構性主線，risk-off 日集體爆升",
+        "OIL/PBF: 地緣溢價交易性機會，API 庫存今晚 04:30AM 係催化",
+        "NVDA: 業績前企穩（-0.07%），下週業績係終極確認"
+      ],
+      "analysis": "# 美股收市回顧 — 08月18日（星期二）08:34 HKT\n\n## Fed Context — 宏觀背景\n上個 FOMC（Jul 28-29）已 settle，無新 statement。下次會議 Sep 15-16。本週唯一 HIGH 級 Fed 事件係 **FOMC Minutes — Thu Aug 20 02:00AM HKT**（macro_calendar source of truth）。呢個係市場對「加息預期退潮」narrative 嘅第一次官方檢驗——如果 Minutes 有鷹派殘留（例如 3 個 dissenter 嘅立場細節），會直接反噬 risk-on。\n\n今日 macro 主線唔係加息，係**債市拋售**：30 年期息率升穿 5.31%（19 年新高），但 2 年/10 年未跟升——呢個係長期端獨自走高嘅形態，反映財政赤字/供給擔憂，多於 Fed 加息。對股市嘅含義：rate-sensitive（科技估值、REITs、金融）首當其衝，但唔係全面 risk-off。\n\n## 📰 今日重點頭條（Raw Headlines）\n- 【地緣】特朗普拒延停火、揚言轟炸阿曼，US-Iran 60-day MOU 到期，油價重上 $85（CL=F +3.1%）。國會民主黨擬推 Oman war powers 法案反制。\n- 【利率】30 年期美債息率升穿 5.31%，19 年新高——債市拋售壓抑股市（NC 已 flag）。\n- 【AI】OpenAI 宣布 $100B 俄亥俄數據中心，NVDA 受惠（NC ACTION 已 flag）。\n- 【社媒】第九巡迴法院剝奪社媒 Section 230 豁免——META -3.5%、SNAP -4.3%、PINS -4.1%（NC WATCH 已 flag）。\n- 【信貸】Bally's 流動性警告，單日 -26%——高收益信貸裂縫訊號（NC WATCH 已 flag）。\n- 【個股】L3Harris 撤換 CEO，LHX -4.6%；Sandisk 舉辦 Investor Day，SNDK +8.9%。\n- 【避險】金價 2 日連升（GC=F +2.3% 至 $4483）——加息預期降溫下避險資金續入。\n\n## 1. 📊 Market Recap\n三大指數全線微跌，risk-off 但唔深：SPY 772.67（-0.47%）、QQQ 729.87（-0.16%）、DIA 534.19（-0.49%）。VIX 彈 +6.6% 至 15.19，由低位 14 返上，仍處低波動區間但方向轉上。\n\n**Sector 明顯 bifurcation：**\n- 贏家：XLE +1.08%（油價）、XLK +0.16%（AI 硬件）\n- 輸家：XLC -1.89%（社媒法律風險）、XLP -1.64%、XLY -1.23%（消費）、XLF -1.00%（利率）、XLRE -0.97%（利率）\n\n呢個組合好清晰：**資金由 rate-sensitive + 消費，輪入能源 + AI 硬件**。唔係 broad selloff，係兩極分化。\n\n## 2. 🔥 Notable Movers\n**爆升（全部有 catalyst）：**\n- WOLF +9.97% — Vera Rubin 放量帶動功率半導體\n- SNDK +8.88% — Investor Day + BofA/Cramer 齊看好 memory\n- CRDO +8.82%、MRVL +5.54%、CIEN +3.83% — AI 網絡股全線反彈\n- MU +4.13% — memory 續強\n- PBF +4.48% — 煉油股，地緣溢價\n\n**暴跌（全部有 catalyst）：**\n- BALY -26.30% — 流動性警告\n- LHX -4.61% — CEO 撤換\n- SNAP -4.25%、PINS -4.11%、META -3.54% — Section 230 法律風險\n\n## 3. 📰 News That Mattered\nNews Curator #2 今日近乎滿分——ACTION 4 個中 4 個（油/OIL、NVDA、AI 網絡、memory），WATCH 4 個中 4 個（TLT 債券、社媒、LHX、BALY）。唯一修訂：NC 估 BALY -31%，實際 -26.3%，方向完全正確。\n\nMorning Scan 嘅 thesis「油價係 swing factor」今日應驗——油價 +3.1% 確實將大盤由 risk-on 拉向 risk-off，但 AI 半導體輪動（memory/網絡強）亦如 flag 咁跑出。AVGO 續弱（custom silicon 資金流出）嘅風險未蔓延到成個 AI semi——反而 memory/網絡/功率全線接力。\n\n## 4. 🎯 Opportunities Carry Forward\n- **AI 基礎設施係結構性主線，唔係交易性**：SNDK/CRDO/MRVL/MU/WOLF/CIEN 喺 risk-off 日集體爆升，證明資金喺拋售中無離開 AI 硬件，反而加倉。NVDA 下週業績係呢條主線嘅終極確認——OpenAI 俄亥俄 $100B + Anthropic $65B run rate 已預先鋪路。\n- **能源（OIL/refiners）係交易性機會**：地緣溢價重燃，但呢個係 event-driven，唔係結構性。API 原油庫存今晚 04:30AM HKT 係第一個 catalyst。PBF 歷史級強勢，但追高風險大。\n- **NVDA 業績前 setup**：NVDA 今日 -0.07% 全場企穩（vs SPY -0.47%），資金喺業績前唔敢沽。若債息唔再急升，AI hardware 呢週仲有 momentum。\n\n## 5. ⚠️ Risks / Watchlist\n**今晚（Aug 18 美東早段）macro_calendar 事件：**\n- 🔴 08:30PM HKT | Housing Starts（Jul）+ Building Permits Prel（Jul）——HIGH，睇樓市會唔會接力債息惡化\n- 🟡 08:15PM HKT | ADP Employment Weekly\n- 🟡 09:15PM HKT | Industrial Production MoM（Jul）\n- 🟡 10:00PM HKT | Pending Home Sales\n- 🟡 04:30AM HKT | API Crude Oil Stock Change——油價直接相關\n\n**中期催化：**\n- 🔴 Thu Aug 20 02:00AM HKT | FOMC Minutes——鷹派殘留反噬加息退潮 narrative 係最大 overhang\n- 伊朗地緣升級（特朗普揚言轟炸阿曼）——若成真，油價急升觸發全面 risk-off\n- 30yr 債息 5.31%——若繼續向上突破，壓抑成個股市估值\n- Section 230 社媒法律風險擴散——META/PINS/SNAP 已中，睇會唔會蔓延到成個 comm services\n- 高收益信貸裂縫（Bally's -26%）——較早期嘅 stress signal，值得持續追蹤\n\n## 6. 💡 My Take\n今日係「指數 risk-off、但 AI 硬件免疫」嘅兩極分化日——兩大 macro 引擎（伊朗油價 + 債市拋售）壓低大盤，但資金反而集中加倉 AI 基建（memory/網絡/功率全線爆升）。明日 bias：**指數 neutral-to-cautious**（等 FOMC Minutes + 睇債息/油價），但**結構性 bullish AI infra**——NVDA 下週業績係終極催化。地緣（油價）係唯一可以一夜之間把成個市場推向 tail-risk 嘅變數，今晚 API 庫存 + 伊朗頭條要盯實。",
+      "risks": [
+        "FOMC Minutes（Thu 02:00AM HKT）鷹派殘留反噬加息退潮 narrative",
+        "伊朗地緣升級——特朗普揚言轟炸阿曼，油價急升觸發 tail-risk",
+        "30yr 債息 5.31% 續升壓抑股市估值",
+        "高收益信貸裂縫（Bally's -26%）係較早期 stress signal"
+      ],
+      "my_take": "兩極分化日：指數被伊朗油價 + 債市拋售壓低（SPY -0.47%），但 AI 基建全面免疫——SNDK/CRDO/MRVL/MU/WOLF 集體爆升。News Curator 今日近乎滿分（8/8 calls 命中）。結構性主線係 AI capex，交易性機會係油價；FOMC Minutes（Thu）係下一個關鍵催化。"
     }
   ],
   "news_curator": [
