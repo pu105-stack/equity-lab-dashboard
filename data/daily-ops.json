@@ -5840,42 +5840,6 @@
       "my_take": "兩極分化日：指數被伊朗油價 + 債市拋售壓低（SPY -0.47%），但 AI 基建全面免疫——SNDK/CRDO/MRVL/MU/WOLF 集體爆升。News Curator 今日近乎滿分（8/8 calls 命中）。結構性主線係 AI capex，交易性機會係油價；FOMC Minutes（Thu）係下一個關鍵催化。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-24",
-      "time": "08:12 HKT",
-      "status": "success",
-      "market_direction": "美加貿易戰全面開打（50%關稅生效）+ AI 債務潮→債市壓力，唯一逆勢上漲係 crypto。本週焦點 NVDA 業績（週三）+ Jackson Hole/Warsh",
-      "headlines": [
-        "[RECENT] ACTION: NUE/STLD — 美加貿易戰開打，鋼鐵股受惠",
-        "[RECENT] ACTION: BTC/XRP — 曲線控制希望推 crypto 反彈",
-        "[RECENT] WATCH: NVDA — 週三業績 + 15% 加價",
-        "[RECENT] WATCH: MACRO — 貿易戰通脹 + AI 債務潮",
-        "[RECENT] WATCH: BABA — $10.2B 配股",
-        "[RECENT] WATCH: MU — 無周期論",
-        "[RECENT] WATCH: QCOM — 估值見底",
-        "[RECENT] WATCH: AVGO — D.E. Shaw 砍倉",
-        "[RECENT] WATCH: UBER — $1B 罰款"
-      ],
-      "opportunities": [
-        "NUE/STLD: 關稅戰鋼鐵股直接受惠，但通脹→Fed 反作用力要留意",
-        "BTC/XRP: 曲線控制 narrative 脆弱，momentum play 唔係結構性利好",
-        "QCOM: 估值見底，AI edge 滲透下有補漲空間"
-      ],
-      "analysis": "美加貿易戰係本週末最重大 macro 事件，50% 關稅已生效、加拿大 dollar-for-dollar 報復。Kashkari 率先警告通脹延長，加埋 AI 債務潮，債市壓力未解（Treasury buyback 被批無效）。本週焦點係 NVDA 業績（週三，rev est $92B）+ Jackson Hole/Warsh 講話，兩者都可能成為方向性 catalyst。",
-      "risks": [
-        "貿易戰→通脹→Fed 不減息，growth 板塊受壓",
-        "AI 債務潮推高全民資金成本",
-        "Crypto 曲線控制 narrative 脆弱，追高風險"
-      ],
-      "my_take": "市場過度聚焦 NVDA 業績，忽略咗貿易戰嘅通脹傳導。Kashkari 已率先警告，Warsh 本週 Jackson Hole 若轉鷹，對 growth 衝擊大過單一業績。Crypto 嘅「曲線控制」係 momentum 唔係結構性利好。鋼鐵股係最直接受惠，但市場低估咗「通脹→Fed 不減息」嘅反作用力。",
-      "key_takeaways": [
-        "美加貿易戰開打 = 本週末最重大 macro 事件",
-        "本週焦點：NVDA 業績（週三）+ Jackson Hole/Warsh",
-        "貿易戰通脹 + AI 債務 = 資金成本上升，債市壓力",
-        "Crypto 反彈係 momentum 唔係結構性利好"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-24",
       "time": "08:36 HKT",
@@ -5899,6 +5863,61 @@
         "AI 債務潮推高資金成本，30 年期息率 19 年新高"
       ],
       "my_take": "週五 complacent risk-on（VIX 年低 + 道指領漲），但週末美加貿易戰全面開打注入未消化通脹 shock。市場過度聚焦 NVDA 業績，忽略「貿易戰→通脹→Fed 不減息」傳導。週一 neutral-to-cautious：鋼鐵/crypto momentum 真但脆弱，最大風險係 Warsh Jackson Hole 轉鷹衝擊 growth/AI。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-24",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "Jackson Hole + NVDA 業績週，避險情緒升溫；debasement trade（黃金+Bitcoin）主導",
+      "headlines": [
+        "[NEW] WATCH MACRO: Jackson Hole Warsh keynote 定今週方向",
+        "[RECENT] ACTION GLD/SLV: Gold 3個月高位 debasement trade 回歸",
+        "[NEW] ACTION MRVL: Wells Fargo 加碼看好",
+        "[NEW] WATCH OIL: 伊朗 Hormuz 威脅但油價照跌",
+        "[RECENT] ACTION ETH-USD: golden cross 跑贏 BTC"
+      ],
+      "opportunities": [
+        "GLD/SLV: debasement trade 回歸，金價3個月高位，與Bitcoin同源但相對滯後",
+        "MRVL: AI 定制晶片需求結構性，回調可吸納",
+        "ETH-USD: 資金由BTC輪動到ETH/山寨，golden cross動能強"
+      ],
+      "analysis": "本週兩大催化：Jackson Hole（Warsh 首次 keynote）+ NVDA 業績。市場主線係「debasement trade」——Bessent 財部 $4B 債券回購本想壓低債息，結果反被市場解讀為「金融壓抑」/債務貨幣化訊號，觸發黃金創3個月高位 + Bitcoin 創2021年以來最佳單週（ETF 單週流入$1.9B）。伊朗局勢值得警惕：油輪遇襲 + Hormuz 威脅46艘船，但油價照跌2%，市場完全未定價地緣 tail risk。",
+      "risks": [
+        "伊朗 Hormuz 若真的封鎖，油價 spike 將打擊風險資產",
+        "Warsh 若偏鷹，債息回升壓制科技股估值",
+        "NVDA 業績若 miss，AI 板塊整體回調"
+      ],
+      "my_take": "市場正在定價一個深層 shift：Fed/財政信用被質疑（Rabobank 直指 Fed 與財部 credibility 被市場質疑），資金轉向「debasement hedge」（黃金 + Bitcoin）。呢個唔係一次性的反彈，係結構性資產配置轉移。伊朗係最大 tail risk——軍事情勢已經升級（油輪遇襲）但油價唔反映，一旦 Hormuz 出事係黑天鵝。",
+      "key_takeaways": [
+        "Debasement trade（黃金+Bitcoin）係今週最強主線",
+        "Jackson Hole + NVDA 業績 = 本週兩大 event risk",
+        "伊朗 Hormuz tail risk 完全未定價"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-24",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral / Defensive — debasement trade 主導",
+      "headlines": [
+        "科技股 futures 走低，NVDA 業績前 de-risking",
+        "黃金 3 個月高位 +1.95%，debasement trade 確認",
+        "Jackson Hole 週五 Warsh 首次 keynote"
+      ],
+      "focus": [
+        "NVDA — 週三業績，AI trade 定海神針",
+        "GLD/SLV — debasement hedge，白銀相對滯後",
+        "MRVL — ASIC 定制晶片，NVDA hedge"
+      ],
+      "analysis": "## Fed Context — 宏觀背景\n\n今個星期冇新 FOMC statement — 上次會議 Jul 28-29（維持利率不變），minutes 已於 Aug 19 出咗。下一個 FOMC 係 Sep 15-16（有 dot plot + press conference）。\n\n真正嘅 macro 焦點係 Jackson Hole：呢個星期五（Aug 28 10pm HKT）Fed Chair Kevin Warsh 首次 keynote。呢個係佢上任後第一次向市場定調嘅大場口。News Curator 已 flag — 債息同美元今個星期嘅方向，就睇 Warsh 點講 Fed/Treasury 嘅 credibility 問題。\n\n再加埋星期三（Aug 26）嘅 Core PCE MoM + GDP 2nd est + Durable Goods，macro 同 micro（NVDA 業績）喺同一日碰撞。\n\nRabobank 直接質疑 Fed 同財政部嘅 credibility — 呢個就係點解 debasement trade（黃金 + Bitcoin）會 lead。如果 Warsh 星期五承認財政問題 / 轉鷹，債息會上、科技股會受壓、黃金會再上。\n\n## 📰 今日重點頭條\n\n1. CNBC：Stock futures slip as tech shares fall to start the week — 科技股星期一開市前已見避險，係 NVDA 業績前 de-risking 嘅第一個 signal。\n2. IBM 推 dual-architecture mainframe processor（ARM 架構）— 押注 ARM，對 INTC 嘅 x86 係長期威脅，短期無即時影響。\n3. Oppenheimer 上調 WDAY 目標價至 $220（AI momentum）— 軟件股 AI 邏輯仲有資金追捧。\n4. Phillips 66 / Marathon / Valero 考慮收購 Delek（PSX, VLO, DK）— 能源整合邏輯，但油價唔配合。\n5. ECB 捍衛 digital euro 私隱 — CBDC 監管壓力升溫。\n6. Gemini / Apex 簽署 crypto event contracts LOI — 加密衍生品基建擴張。\n\n（其餘 raw headlines 多數係 non-market noise — 政治、社會新聞，唔需要 Oscar 睇。）\n\n## 🌍 隔夜市場\n\n- 美股上週五收市（前一個 session）：SPY $765.72（+0.41%）、QQQ $713.44（+0.35%）、DIA $532.22（+0.89%）。三隻指數都接近 52 週高位，但星期一 futures 已走低。\n- VIX $15.9（+5.09%）— 仍然好低，但開始 tick up。呢個係最危險嘅地方：broad equity vol 未反映風險，避險只係喺 smart money 渠道（黃金升、科技 futures 跌）進行。一旦 NVDA 唔掂 / Warsh 轉鷹，係暴力 repricing 嘅 setup。\n- 黃金 GLD $423.36（+1.95%）— 3 個月高位，單日 +1.95% 係好大嘅 move，debasement trade 確認。\n- 白銀 SLV $62.72（+1.72%）— 相對滯後，有補漲空間。\n- 油 USO $134.64（+0.07%）— 伊朗 Hormuz 46 艘船 + 油輪遇襲，但油價完全唔反映。地緣 tail risk 未定價 = 黑天鵝。\n- 美元 UUP 持平（-0.04%）— Jackson Hole 前觀望。\n\n## 📈 昨日市場爆升／暴跌榜\n\nFMP movers 呢一輪 quality 極低，幾乎全部係 penny / micro-cap pump：\n\n爆升榜：FSTB +2030%、BIAF +1400%、VCIG +1253%、SKYE +699%、GAME +673% — 冇一隻值得跟，典型散戶 pump-and-dump。\n暴跌榜：MI -58.5%、IESC -49.9%、SUGP -42.3%、GDC -37.4%、CDTG -35.5% — 一樣係 micro-cap，冇系統性 signal。\n活躍榜（唯一有參考價值）：TSLL（TSLA 2x bull）+10% — 資金湧入 TSLA 槓桿 ETF，TSLA 動能/資金面有睇頭；HOWL +102%、KNRX +57.6% — 生科 pump。\n\nSector theme：冇 large-cap 龍頭爆升暴跌，代表市場整體係「觀望 + 細價股散戶活動」狀態。真正嘅資金移動發生喺黃金（debasement）同科技股 de-risking，唔喺 FMP 個 movers 榜度。\n\n## 📡 今日重點事件\n\n今日（Mon Aug 24）：🟡 08:30pm HKT Chicago Fed National Activity Index（prev -0.02）；🟡 02:00am HKT Treasury Secretary Bessent Speech。\n\n本週 HIGH impact：\n- 🔴 Wed Aug 26 08:30pm — Core PCE MoM + Personal Spending/Income + GDP 2nd est + Durable Goods（macro 大日子）\n- 🔴 Fri Aug 28 10:00pm — Fed Chair Warsh Speech（Jackson Hole keynote）+ NFP Annual Revision\n\n## 🔥 Sector Watch\n\n- 黃金/貴金屬（強）：debasement trade 主導，GLD 3 個月高位 + 單日 +1.95%。白銀相對滯後。\n- 科技/AI（避險）：NVDA 業績前 de-risking，futures 已走低。但 MRVL 有 Wells Fargo 加持（AI 定制晶片），ASIC 係 NVDA 集中度風險嘅結構性 hedge。\n- 能源（tail risk 未定價）：伊朗 Hormuz 升級但油價唔反映 — 一旦出事係黑天鵝，油股係 cheap tail hedge。\n- 加密（動能）：BTC 高位、ETH golden cross、XRP 21 個月最大單週升幅 — debasement trade 嘅另一條腿。\n\n## 🎯 Pre-market Opportunities（News Curator 整合）\n\nACTION：\n- GLD / SLV：debasement hedge，結構性。但 GLD 今日已 +1.95%，追高有風險。SLV 相對滯後，補漲空間更佳。部署：唔好追 GLD 高位，等回調 / 用 SLV 做相對落後嘅補漲。\n- MRVL：Wells Fargo 加碼 + 星期四（Aug 27）業績。AI 定制晶片（ASIC）結構性需求，係 NVDA 集中度風險嘅天然 hedge。但業績 = binary。部署：今日回調可小注吸納，業績前控制倉位；唔建議裸押業績。\n- ETH-USD：golden cross 跑贏 BTC，資金輪動到 ETH/山寨，動能 play。\n\nWATCH：\n- NVDA：俄羅斯 AI 無人機用 Nvidia 微電腦 + 出口管制風險 + 星期三業績。$5.2T 市值，係成個 AI trade 嘅定海神針。今日睇實 pre-market 動向 — CNBC 已 flag「tech shares fall」，如果 NVDA 開市前繼續跌，係資金喺業績前減倉嘅確認。\n- OIL：伊朗 Hormuz，油價唔反映，黑天鵝 tail risk。\n- PARA/WBD：媒體併購降溫，反壟斷凍結。\n\n## 📅 未來一個月業績重點\n\n本週：\n- Mon Aug 24 — PDD（$127B，BMO）：中國消費/電商 signal。\n- Wed Aug 26 — NVDA（$5.2T，AMC）🎯：全場焦點，AI 命脈，est $2.09。\n- Wed Aug 26 — CRM / CRWD / SNPS：軟件+資安同場。\n- Thu Aug 27 — MRVL（$220B，AMC）🎯：ASIC 定制晶片，NVDA hedge，est $0.65。\n- Thu Aug 27 — ADSK：軟件。\n\n下週：\n- Tue Sep 01 — DELL（$287B）、PANW（$292B）。\n- Wed Sep 02 — AVGO（$1.75T，AMC）🎯：半導體二哥，est $2.83，係 NVDA 之後 AI 半導體第二個驗證點。\n- Wed Sep 02 — SNOW、HPE。\n\n重點：NVDA（Wed）→ MRVL（Thu）→ AVGO（下週 Wed）連環驗證 AI 半導體，呢三個 earnings 決定成個 AI trade 嘅 2026 下半年 narrative。\n\n## 📋 Today's Agenda\n\n- 今日（Mon）：科技股 pre-market de-risking 確認（CNBC 已 flag）。睇實 NVDA / 大科技開市動向。\n- Wed Aug 26：Core PCE + GDP + NVDA 業績（AMC）— macro + micro 碰撞，本週最關鍵一日。\n- Thu Aug 27：MRVL 業績（AMC）。\n- Fri Aug 28：Jackson Hole — Warsh 首次 keynote，全週 macro 定調。\n\nKey levels（SPY）：阻力 $779.37（52 週高位）；支持 $764（上週五低位）、$751.75（50-day MA）。SPY 接近歷史高位但 futures 走低 — 如果跌破 $764，係避險升級嘅第一個確認。\n\n## 💡 My Take\n\nOverall bias：Neutral-to-defensive，傾向 debasement trade。\n\n市場正在定價一個結構性 shift — Fed/財政信用被質疑（Rabobank 直指），資金轉向黃金 + Bitcoin。呢個唔係一次性反彈，係資產配置轉移。\n\n今日最緊要睇：① 科技股 pre-market 動向（NVDA 業績前 de-risking 有幾深）；② 黃金/BTC 能否維持（debasement trade 連續性）；③ VIX — $15.9 太低，一旦升穿 $18 係恐慌開始嘅 signal。\n\n最危險嘅組合：NVDA 業績唔掂（Wed）+ Warsh 轉鷹（Fri）— 同時打擊科技估值同 macro 信心，黃金會再上一級但 equity 會受壓。\n\n冇改變 thesis 嘅 overnight signal，反而係強化咗：黃金 +1.95%、科技 futures 跌、油價唔反映伊朗 — 三件事同時指向「避險升溫但 broad vol 未反映」嘅 setup。防守 > 進取。",
+      "risks": [
+        "NVDA 業績 binary + 出口管制風險",
+        "Iran Hormuz 黑天鵝，油價未定價",
+        "Warsh Jackson Hole 轉鷹"
+      ],
+      "my_take": "Neutral-to-defensive。NVDA（Wed）+ Warsh Jackson Hole（Fri）雙重催化，debasement trade（黃金+Bitcoin）係唯一明確嘅結構性信號。避險喺 smart money 渠道進行但 VIX 仲喺 $15.9 低位 — 一旦 NVDA 唔掂或 Warsh 轉鷹，係暴力 repricing。防守 > 進取，機會喺 GLD/SLV 補漲、MRVL 回調吸納、ETH 動能，但全部要控制倉位。"
     }
   ],
   "news_curator": [
