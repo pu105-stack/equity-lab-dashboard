@@ -5838,6 +5838,67 @@
         "高收益信貸裂縫（Bally's -26%）係較早期 stress signal"
       ],
       "my_take": "兩極分化日：指數被伊朗油價 + 債市拋售壓低（SPY -0.47%），但 AI 基建全面免疫——SNDK/CRDO/MRVL/MU/WOLF 集體爆升。News Curator 今日近乎滿分（8/8 calls 命中）。結構性主線係 AI capex，交易性機會係油價；FOMC Minutes（Thu）係下一個關鍵催化。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-24",
+      "time": "08:12 HKT",
+      "status": "success",
+      "market_direction": "美加貿易戰全面開打（50%關稅生效）+ AI 債務潮→債市壓力，唯一逆勢上漲係 crypto。本週焦點 NVDA 業績（週三）+ Jackson Hole/Warsh",
+      "headlines": [
+        "[RECENT] ACTION: NUE/STLD — 美加貿易戰開打，鋼鐵股受惠",
+        "[RECENT] ACTION: BTC/XRP — 曲線控制希望推 crypto 反彈",
+        "[RECENT] WATCH: NVDA — 週三業績 + 15% 加價",
+        "[RECENT] WATCH: MACRO — 貿易戰通脹 + AI 債務潮",
+        "[RECENT] WATCH: BABA — $10.2B 配股",
+        "[RECENT] WATCH: MU — 無周期論",
+        "[RECENT] WATCH: QCOM — 估值見底",
+        "[RECENT] WATCH: AVGO — D.E. Shaw 砍倉",
+        "[RECENT] WATCH: UBER — $1B 罰款"
+      ],
+      "opportunities": [
+        "NUE/STLD: 關稅戰鋼鐵股直接受惠，但通脹→Fed 反作用力要留意",
+        "BTC/XRP: 曲線控制 narrative 脆弱，momentum play 唔係結構性利好",
+        "QCOM: 估值見底，AI edge 滲透下有補漲空間"
+      ],
+      "analysis": "美加貿易戰係本週末最重大 macro 事件，50% 關稅已生效、加拿大 dollar-for-dollar 報復。Kashkari 率先警告通脹延長，加埋 AI 債務潮，債市壓力未解（Treasury buyback 被批無效）。本週焦點係 NVDA 業績（週三，rev est $92B）+ Jackson Hole/Warsh 講話，兩者都可能成為方向性 catalyst。",
+      "risks": [
+        "貿易戰→通脹→Fed 不減息，growth 板塊受壓",
+        "AI 債務潮推高全民資金成本",
+        "Crypto 曲線控制 narrative 脆弱，追高風險"
+      ],
+      "my_take": "市場過度聚焦 NVDA 業績，忽略咗貿易戰嘅通脹傳導。Kashkari 已率先警告，Warsh 本週 Jackson Hole 若轉鷹，對 growth 衝擊大過單一業績。Crypto 嘅「曲線控制」係 momentum 唔係結構性利好。鋼鐵股係最直接受惠，但市場低估咗「通脹→Fed 不減息」嘅反作用力。",
+      "key_takeaways": [
+        "美加貿易戰開打 = 本週末最重大 macro 事件",
+        "本週焦點：NVDA 業績（週三）+ Jackson Hole/Warsh",
+        "貿易戰通脹 + AI 債務 = 資金成本上升，債市壓力",
+        "Crypto 反彈係 momentum 唔係結構性利好"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-24",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "週五 risk-on（SPY +0.41%、道指 +0.89%、VIX -5.5% 至 15.13），但週末美加貿易戰全面開打，週一 neutral-to-cautious",
+      "headlines": [
+        "美加貿易戰全面開打：50% 關稅生效 + 加拿大 dollar-for-dollar 報復（週末）",
+        "AI 債務潮推高資金成本，債市壓力未解",
+        "NVDA 週三業績 + 15% 加價，全週主事件",
+        "BABA $10.2B 配股，週五 -8.57%"
+      ],
+      "opportunities": [
+        "STLD: 鋼鐵關稅直接受惠，週五 +4.42%",
+        "COIN/MSTR: crypto 曲線控制 momentum，但 narrative 脆弱",
+        "NVDA: 週三業績 event risk，定價權但唔建議裸多"
+      ],
+      "analysis": "📊 美股收市回顧 — 2026年8月24日（檢討 8月21日週五收市）\n\n📰 今日重點頭條（Raw Headlines）\n1. [fed] FOMC Schedule 2026 — 下次會議 Sep 15-16（含 dot plot），8月19日已公佈 Jul 28-29 會議紀錄\n2. [247wallst] The AI Debt Boom Is Helping Push Everyone's Cost of Capital Higher — AI 債務潮推高資金成本（對應 NC WATCH：債市壓力）\n3. [axios] Trump says rejecting data centers is \"a mistake\" — 數據中心電力瓶頸（對應 NC WATCH：TECH）\n4. [yahoo_finance] Gilead's HIV Business is Surging（GILD，raw-only 未被 NC cover）\n5. [yahoo_finance] Pfizer's Turnaround Gaining Traction（PFE，raw-only）\n6. [investing_com] Shein valued up to $27B in Hong Kong IPO（IPO 消息）\n7. [investing_com] China property crisis grinds on after Evergrande sentencing（中國樓市）\n8. [tradingview] NATURAL GAS — $2.30 downside target（UNG，能源）\n9. [tradingview] XLE price targets new ATH after breakout（XLE，能源，但今日 XLE 微跌）\n10. [247wallst] Car loan interest deduction（美加關稅/本土組裝政策細節）\n\n📊 Market Recap\n週五（8/21）係 broad risk-on：SPY +0.41%（765.72）、QQQ +0.35%（713.44）、DIA +0.89%（532.22），道指領漲 = 價值/景氣循環股輪動。VIX 大跌 -5.50% 至 15.13，貼近年低，complacency 明顯。\n板塊分化：XLB（原物料）+2.14% 最強（鋼鐵關稅搶跑）、XLV（醫療）+1.29%、XLY（非必需消費）+1.15%、XLF（金融）+0.93%；XLK（科技）僅 +0.11% 最弱大盤主線、XLU（公用事業）-2.28% 墊底。資金從防守性公用事業撤出、流入景氣循環/原物料，係關稅 anticipatory trade。\n\n🔥 Notable Movers\n大升（>3%）：COIN +8.20%、MSTR +6.10%（crypto「曲線控制」narrative）、STLD +4.42%（鋼鐵關稅）、NUE +1.31%。\n大跌：BABA -8.57%（$10.2B 配股即時稀釋，NC 已 flag）。\n半導體分化：NVDA -0.98%（業績前 event risk 壓制）、MU -0.77%、AVGO +1.21%（D.E. Shaw 砍倉 58% 市場無反應，利空鈍化）、AMD +0.81%、TSM +0.71%。\n能源：XOM -0.63%、CVX -0.24%（柴油危機 narrative 未轉化成資金流入）。\n\n📰 News That Mattered（NC calls hit/miss）\nNews Curator #2 今日 08:12 嘅 call 近乎全中：\n✓ NUE/STLD 鋼鐵關稅 — STLD +4.42%、NUE +1.31%\n✓ BTC/XRP crypto — COIN +8.20%、MSTR +6.10%\n✓ BABA 配股稀釋 — BABA -8.57%\n✓ NVDA event risk — NVDA -0.98% 業績前陰跌\n✗ AVGO D.E. Shaw 砍倉 — AVGO +1.21%，市場完全 shrug off，利空已鈍化\n✗ UBER $1B 罰款 — UBER +0.32%，已 price in\nWeekend 新增：美加貿易戰全面開打（50% 關稅已生效 + 加拿大 dollar-for-dollar 報復），係週五收市後先落實，市場尚未消化。\n\n🎯 Opportunities Carry Forward\n• 鋼鐵（STLD/NUE）：關稅最直接受惠，但週五已搶跑（STLD +4.42%），週一追高要睇「通脹→Fed 不減息」反作用力會唔會反噬。\n• Crypto（COIN/MSTR/BTC）：「曲線控制」係 momentum 唔係結構性利好，追高風險高。\n• NVDA 週三業績：全週主事件，15% 加價 = 定價權，但 event risk 高，唔建議業績前裸多。\n• 半導體輪動（MU $966 高位、QCOM 補漲、AVGO 利空鈍化）：資金喺 AI 鏈內部輪動，留意邊個接棒。\n\n⚠️ Risks / Watchlist\n• 今晚（週一 08:30PM HKT）Chicago Fed National Activity Index（MEDIUM，minor）。\n• 明日（週二）：CB Consumer Confidence（10:00PM HKT，前值 90.8 / 預期 91.2）、New Home Sales、Fed Barkin 講話、ADP 每週就業、API 原油庫存。\n• 本週重磅：NVDA 業績（週三）+ Jackson Hole / Warsh 講話。\n• 最大 tail risk：貿易戰通脹傳導 — Kashkari 已率先警告，Warsh 若喺 Jackson Hole 轉鷹，對 growth 衝擊大過單一業績。\n• AI 債務潮推高資金成本 — 債市壓力未解，30 年期息率已創 19 年新高。\n• 週五 VIX 15.13 貼年低 = 定價 perfect，任何 shock 嘅波動放大效應會更勁。\n\n💡 My Take\n週五係 complacent 嘅 risk-on（VIX 年低、道指領漲），但週末美加貿易戰全面開打（50% 關稅 + 報復）注入咗市場未消化嘅新鮮通脹 shock。市場過度聚焦 NVDA 業績，忽略咗「貿易戰→通脹→Fed 不減息」嘅傳導鏈。週一 bias：neutral-to-cautious — 鋼鐵/crypto 嘅 momentum trade 真但脆弱，更大風險係 Warsh 喺 Jackson Hole 轉鷹，對 growth/AI 嘅衝擊會大過任何單一業績 miss。",
+      "risks": [
+        "貿易戰通脹傳導：Kashkari 已警告，Warsh Jackson Hole 若轉鷹衝擊 growth/AI",
+        "週五 VIX 15.13 貼年低 = 定價 perfect，波動放大效應強",
+        "AI 債務潮推高資金成本，30 年期息率 19 年新高"
+      ],
+      "my_take": "週五 complacent risk-on（VIX 年低 + 道指領漲），但週末美加貿易戰全面開打注入未消化通脹 shock。市場過度聚焦 NVDA 業績，忽略「貿易戰→通脹→Fed 不減息」傳導。週一 neutral-to-cautious：鋼鐵/crypto momentum 真但脆弱，最大風險係 Warsh Jackson Hole 轉鷹衝擊 growth/AI。"
     }
   ],
   "news_curator": [
