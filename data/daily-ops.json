@@ -5920,38 +5920,6 @@
       "my_take": "Neutral-to-defensive。NVDA（Wed）+ Warsh Jackson Hole（Fri）雙重催化，debasement trade（黃金+Bitcoin）係唯一明確嘅結構性信號。避險喺 smart money 渠道進行但 VIX 仲喺 $15.9 低位 — 一旦 NVDA 唔掂或 Warsh 轉鷹，係暴力 repricing。防守 > 進取，機會喺 GLD/SLV 補漲、MRVL 回調吸納、ETH 動能，但全部要控制倉位。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-25",
-      "time": "08:10 HKT",
-      "status": "success",
-      "market_direction": "US session risk-off ahead of NVDA earnings (Wed)；貿易戰升級（加拿大汽車關稅50%）、記憶體股滑落，但加密幣三年最大升浪 + 黃金受隱性QE預期追捧",
-      "headlines": [
-        "[NEW] ACTION BTC-USD — 三年最大三日升浪逼近$80K",
-        "[NEW] WATCH F/GM/STLA — 加拿大汽車關稅加至50%",
-        "[NEW] WATCH NVDA — 週三業績 + ASIC「最後輝煌」論",
-        "[NEW] WATCH MU/WDC/SNDK — Apple擬採中國晶片 vs 記憶體短缺",
-        "[NEW] WATCH MACRO — TGA買債（隱性QE）",
-        "[RECENT] ACTION GLD — 債市干預下買黃金"
-      ],
-      "opportunities": [
-        "BTC-USD: 三年最大三日升浪，逼近$80K，debasement trade 強化",
-        "GLD: 債市干預下買黃金，期權巨額交易，金價逼近$4,700"
-      ],
-      "analysis": "貿易戰升級（加拿大汽車關稅50%）vs 隱性QE（TGA買債）。NVDA週三業績係本週最大event。記憶體「shortage vs 中國替代」對壘。",
-      "risks": [
-        "NVDA業績若確認ASIC趨勢，AI capex邏輯受考驗",
-        "貿易戰擴大→通脹→Fed難減息",
-        "記憶體股受中國晶片替代傳聞衝擊"
-      ],
-      "my_take": "本週核心矛盾：貿易戰(deflationary) vs 隱性QE(debasement)。市場用bitcoin+黃金齊升投票，債息跌唔落。NVDA業績係變數。",
-      "key_takeaways": [
-        "Bitcoin三年最大三日升浪，逼近$80K",
-        "TGA買債=隱性QE，黃金+加密幣受惠",
-        "加拿大汽車關稅50%升級，F/GM/STLA跌4%",
-        "記憶體：Apple中國晶片傳聞 vs Amazon確認短缺"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-25",
       "time": "08:36 HKT",
@@ -5976,6 +5944,69 @@
         "台灣走私案升級 + Warsh Jackson Hole（Fri）"
       ],
       "my_take": "市場屏息等 NVDA（Wed）+ Warsh（Fri）。今日完美 confirm 風險規避輪動：科技 de-risking、記憶體崩跌、關稅衝擊，debasement trade（BTC/GLD）係唯一 carry 嘅結構性倉位。最有趣 contrarian：MU -5.8% 但 NVDA 加價 15% 因記憶體短缺 — 星期三業績 resolve 呢個矛盾。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-25",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "debasement trade 繼續主導：金價 3 個月高位、BTC 破 $80K，但 rally 首現裂痕（Druckenmiller 唱淡 + BTC $81K 受阻）。美股期貨喺 NVDA 業績 + Jackson Hole 前收復失地。油價連跌，市場 ignore 伊朗制裁升級。",
+      "headlines": [
+        "[RECENT] ⚠️ WATCH MACRO — Druckenmiller 公開批評 Bessent，debasement trade 首現裂痕",
+        "[RECENT] 📌 NOTE BTC — 破 $80K 後 $81K 受阻，short squeeze OI collapse",
+        "[NEW] 🎯 WATCH NTNX — UBS 升 PT 至 $80，VMware 遷移 tailwind",
+        "[NEW] 🎯 WATCH BIIB — RBC 升 PT，lupus 藥潛力",
+        "[NEW] ⚠️ WATCH DKS/NKE — DKS 業績 miss，footwear 疲弱讀出 NKE 風險",
+        "[NEW] ⚠️ WATCH MACRO — Mexico Pemex $130B 打救，EM 信貸壓力",
+        "[RECENT] 🔥 MEME — crypto rally 蔓延至 memecoins，一週翻倍"
+      ],
+      "opportunities": [
+        "NTNX: UBS 升 PT 至 $80，Broadcom/VMware 加價持續推客落 Nutanix，結構性 tailwind",
+        "BIIB: RBC 升 PT，lupus 藥潛力重估，biotech 有 catalyst",
+        "DKS/NKE: footwear 市場疲弱，DKS miss 係 sector 訊號，NKE 讀出風險"
+      ],
+      "analysis": "debasement trade（Bessent 債券回購計劃）繼續推高 gold + crypto，但首現內部裂痕：Druckenmiller（Bessent 前 mentor）公開唱淡，Bitcoin 破 $80K 後喺 $81K 受阻兼 overbought。另方面 EM 信貸壓力浮現（Mexico Pemex $130B 打救）。事件風險集中喺本週 NVDA 業績 + Jackson Hole。",
+      "risks": [
+        "debasement trade 若債市反擊，gold/BTC 可能快速 unwound",
+        "EM 信貸壓力擴散（Pemex → 其他 EM）",
+        "NVDA 業績 + Jackson Hole 雙重事件風險"
+      ],
+      "my_take": "最 sharp 訊號係 Druckenmiller——Bessent 前 mentor——公開話佢「會輸」俾債市，呢個係 debasement trade 第一個真正嘅內部裂痕。如果 Jackson Hole 冇明確 dovish 訊號，gold/BTC 呢浸可能要唞氣。單一股機會集中喺 VMware 遷移（NTNX）同 biotech catalyst（BIIB/癌症疫苗）。",
+      "key_takeaways": [
+        "debasement trade 首現裂痕：Druckenmiller 唱淡 + BTC $81K 受阻",
+        "NTNX VMware 遷移 tailwind 獲 UBS 升 PT 至 $80",
+        "DKS 業績 miss 讀出 footwear/NKE 風險",
+        "Mexico Pemex $130B 打救 = EM 信貸壓力訊號"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-25",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral — 事件驅動（NVDA 業績 + Jackson Hole）",
+      "headlines": [
+        "Druckenmiller 公開唱淡 Bessent — debasement trade 首現裂痕",
+        "NVDA 業績前跌近 3% 至 $208 — 資金撤離",
+        "SEC subpoenas 華爾街銀行 — AI hedge fund 瀕臨崩潰",
+        "DKS 業績 miss — footwear 疲弱讀出 NKE 風險",
+        "UBS 升 NTNX PT 至 $80 — VMware migration tailwind"
+      ],
+      "focus": [
+        "NVDA 業績前走勢（$200-208 區間）",
+        "debasement trade 裂痕（gold/BTC）",
+        "Barkin 講話 tone",
+        "CB Consumer Confidence"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-08-25（星期二）20:30 HKT\n\n【Fed Context】\n下次 FOMC：Sep 15-16（有 press conference + dot plot）。Jul 28-29 會議 minutes 已於 Aug 19 出街，冇新 statement 要解讀。本週真正嘅 macro 主菜係 Jackson Hole——Fed Chair Kevin Warsh 周五 Aug 28 10PM HKT 講話。今日有 Richmond Fed 嘅 Barkin 兩次講話（8PM + 4AM HKT），屬 MED，只係暖場。\n\n最重要嘅 macro 背景係「debasement trade」——Bessent 嘅債券操作（長短債置換）令市場重新押注實體資產，gold 上 $4,691 三個月高位、BTC 逼近 $80K。但呢個 trade 今日首現內部裂痕：Druckenmiller（Bessent 前 mentor）公開話 Bessent「會輸俾債市」。如果 Jackson Hole 冇明確 dovish，gold/BTC 呢浸可能要唞氣。\n\n【今日重點頭條（按 market impact 排序）】\n1. Debasement trade 回歸（CNBC）——Bessent bond maneuver 令 crypto + gold 重新受追捧（BTC-USD, GLD）\n2. Druckenmiller 公開唱淡 Bessent——debasement trade 第一個真正嘅內部裂痕，係今日最 sharp 嘅訊號\n3. SEC subpoenas 華爾街銀行——AI hedge fund「Situational Awareness」瀕臨崩潰，AI 相關融資鏈可能有 contagion 風險\n4. NVDA 業績前跌近 3% 至 $208——資金喺業績前撤離（Most Active 榜唯一重磅）\n5. UBS 升 NTNX PT 至 $80——VMware 遷移 tailwind 持續\n6. RBC 升 BIIB PT——lupus 藥潛力重估\n7. DKS 業績 miss 暴跌——footwear 疲弱，讀出 NKE 需求風險\n8. 伊朗誓言抵抗美國制裁升級——但油價反而連跌，市場完全 ignore 地緣\n9. RBC reiterate NKE（CEO meetings 後）——與 DKS miss 形成矛盾訊號\n10. Ivanhoe Electric 獲 US EXIM $1.1B 銅礦 letter——銅/基建題材\n\n【隔夜市場】\nSPY -0.29%（$763.47）、QQQ -1.0%（$706.32）、DIA +0.27%（$533.65）、IWM -0.66%（$297.97）。明顯係 tech-led 回調：高 beta 嘅 QQQ 領跌，防禦性嘅 DIA 微升——經典嘅 risk-off 結構。VIX 15.78，溫和但唔係恐慌。Gold $4,691 強、BTC $78.9K（$81K 受阻回吐）、油價連跌。整體係「資金離場等事件」嘅格局，唔係恐慌性拋售。\n\n【昨日爆升／暴跌榜】\n爆升榜（DAIC +306%、GIPR +151%、XPON +80%、SDOT +76%、LUCY +64%）同暴跌榜（FLZH -77%、FBDT -49%、DFNS -47%、RPGL -27%、AMCI -26%）全係 low-float 嘅 micro-cap，冇共同 sector theme，純粹散戶／流通盤投機。真正有 signal 嘅係 Most Active 榜——NVDA -2.91% 至 $208.48，仲有 BITO（Bitcoin ETF）+2.11% 同 BTCT（BTC digital）+52.63%，反映資金喺 debasement trade 同 AI 之間嘅張力。結論：唔係 sector rotation，係單一事件（NVDA 業績）主導。\n\n【今日重點事件（macro_calendar.json）】\n今日 MED：Barkin 講話 x2、CB Consumer Confidence（fcast 90.2 vs prev 90.8，略弱）、Case-Shiller 房價（fcast 1.7 vs 1.6）、New Home Sales。\n本週 HIGH：Wed Aug 26——GDP Q2 二讀（fcast 1.5 vs 首讀 2.1，係大下修）、Core PCE MoM（fcast 0.2 vs 0.1）、Durable Goods、Personal Income/Spending。Fri Aug 28——Fed Chair Warsh 講話（Jackson Hole）+ Nonfarm Payrolls 年度基準修訂（prev -911K，可能大幅下修就業）。\n⚠️ GDP 二讀由 2.1 下修到 1.5 係本週最值得睇實嘅硬數據——如果成真，等於話美國增長明顯放緩，會直接影響 Jackson Hole 嘅 tone。\n\n【Sector Watch】\n- Debasement 相關（gold miners / BTC / crypto equities）：有 momentum 但首現裂痕（Druckenmiller），追高風險大\n- Semiconductor / AI：業績前回調，高 beta 壓力最大（NVDA -3%、QQQ -1%）\n- 防禦 / Value（DIA）：相對強，資金避風港\n- Retail / footwear：DKS miss 揭示消費疲弱，NKE 有連鎖風險\n\n【Pre-market Opportunities（從 News Curator Consolidate）】\n- NVDA（WATCH，本週核心）：業績 Wed AMC，est EPS $2.09。$208 已反映部分下行，但 $5.2T 市值 = 成個 AI trade 嘅錨。唔係估業績，係睇佢 set tone。業績前唔好搶，睇定先。\n- NTNX（ACTION）：UBS PT $80，VMware migration tailwind。相對乾淨嘅 AI infra 二線，估值合理，係「AI 主線之外」嘅可跟標的。\n- BIIB（WATCH）：RBC 升 PT，lupus 藥催化。biotech 結構性主題，但單藥催化波動大，適合細注跟。\n- Debasement trade（MACRO WATCH）：gold/BTC 強但 Druckenmiller 裂痕係第一道裂縫，Jackson Hole 前唔好追高。\n\n【未來一個月業績重點】\n- Wed Aug 26：NVDA $5.2T AMC 🎯——本週/本月最重要，set AI tone\n- Thu Aug 27：MRVL $208B AMC 🎯——AI networking 二線，NVDA 嘅 echo\n- Tue Sep 01：DELL $281B、PANW $286B——AI infra + cybersecurity\n- Wed Sep 02：AVGO $1.75T AMC 🎯——AI custom silicon，另一龍頭\n- Tue Sep 08：ORCL $410B 🎯——雲 + AI data center\n- Thu Sep 10：ADBE $109B AMC 🎯\n- Tue Sep 22：MU $1T——記憶體景氣\nAI 半導體鏈條（NVDA→MRVL→AVGO→ORCL→MU）喺未來四星期密集放榜，係成個 market 嘅主軸。\n\n【Today's Agenda】\n本週 catalyst：NVDA 業績（Wed）→ Jackson Hole（Fri）→ 夾喺中間嘅 Core PCE + GDP 二讀（Wed）。\nSPY levels：現價 $763.47，prev close $765.72。跌穿 $760 睇 $750 心理位；上返 $766 先確認短期企穩。VIX 15.78 未反映恐慌，Jackson Hole 前或有擴張。\n\n【My Take】\n市場 bias：中性偏謹慎，事件驅動。今日唔係方向市，係「等」嘅市——等 NVDA 業績（Wed）+ Jackson Hole（Fri）。三條線拉扯：① debasement trade（gold+BTC 強）② NVDA 業績 + Jackson Hole 事件風險 ③ 地緣（伊朗制裁，油價反而跌）。\n最 sharp 嘅訊號係 Druckenmiller 唱淡 Bessent——呢個係 debasement trade 第一個真正嘅內部裂痕，比 gold/BTC 嘅高位更值得注意。如果 Jackson Hole 冇明確 dovish，實體資產呢浸要唞氣，資金會回流 defensives（DIA 已經領先反映）。\n今日要睇實：① NVDA 業績前走勢（$200-208 區間企唔企得穩）② Barkin 講話有冇 hawkish 訊號 ③ CB Consumer Confidence 會唔會 confirm 消費轉弱。\nOvernight 冇嘢推翻之前嘅「事件風險大於方向」thesis，反而 DKS miss + GDP 下修 preview + Druckenmiller 裂痕三樣都指向同一方向：防守優先，等 catalyst 出咗先出手。",
+      "risks": [
+        "NVDA 業績 miss 可引發 AI 板塊連鎖回調",
+        "Jackson Hole 冇 dovish 訊號 → debasement trade 回吐",
+        "GDP 二讀下修至 1.5 確認增長放緩",
+        "AI hedge fund 崩潰 potential contagion",
+        "消費轉弱（DKS miss + Consumer Confidence）"
+      ],
+      "my_take": "中性偏謹慎、事件驅動。本週係 NVDA（Wed）+ Jackson Hole（Fri）雙主菜，市場喺 debasement trade、AI 業績、地緣三線拉扯。最 sharp 訊號係 Druckenmiller 公開唱淡 Bessent——debasement trade 首現內部裂痕，gold/BTC 追高風險大。防守優先，等 catalyst 出咗先出手。"
     }
   ],
   "news_curator": [
