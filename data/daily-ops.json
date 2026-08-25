@@ -5918,6 +5918,64 @@
         "Warsh Jackson Hole 轉鷹"
       ],
       "my_take": "Neutral-to-defensive。NVDA（Wed）+ Warsh Jackson Hole（Fri）雙重催化，debasement trade（黃金+Bitcoin）係唯一明確嘅結構性信號。避險喺 smart money 渠道進行但 VIX 仲喺 $15.9 低位 — 一旦 NVDA 唔掂或 Warsh 轉鷹，係暴力 repricing。防守 > 進取，機會喺 GLD/SLV 補漲、MRVL 回調吸納、ETH 動能，但全部要控制倉位。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-25",
+      "time": "08:10 HKT",
+      "status": "success",
+      "market_direction": "US session risk-off ahead of NVDA earnings (Wed)；貿易戰升級（加拿大汽車關稅50%）、記憶體股滑落，但加密幣三年最大升浪 + 黃金受隱性QE預期追捧",
+      "headlines": [
+        "[NEW] ACTION BTC-USD — 三年最大三日升浪逼近$80K",
+        "[NEW] WATCH F/GM/STLA — 加拿大汽車關稅加至50%",
+        "[NEW] WATCH NVDA — 週三業績 + ASIC「最後輝煌」論",
+        "[NEW] WATCH MU/WDC/SNDK — Apple擬採中國晶片 vs 記憶體短缺",
+        "[NEW] WATCH MACRO — TGA買債（隱性QE）",
+        "[RECENT] ACTION GLD — 債市干預下買黃金"
+      ],
+      "opportunities": [
+        "BTC-USD: 三年最大三日升浪，逼近$80K，debasement trade 強化",
+        "GLD: 債市干預下買黃金，期權巨額交易，金價逼近$4,700"
+      ],
+      "analysis": "貿易戰升級（加拿大汽車關稅50%）vs 隱性QE（TGA買債）。NVDA週三業績係本週最大event。記憶體「shortage vs 中國替代」對壘。",
+      "risks": [
+        "NVDA業績若確認ASIC趨勢，AI capex邏輯受考驗",
+        "貿易戰擴大→通脹→Fed難減息",
+        "記憶體股受中國晶片替代傳聞衝擊"
+      ],
+      "my_take": "本週核心矛盾：貿易戰(deflationary) vs 隱性QE(debasement)。市場用bitcoin+黃金齊升投票，債息跌唔落。NVDA業績係變數。",
+      "key_takeaways": [
+        "Bitcoin三年最大三日升浪，逼近$80K",
+        "TGA買債=隱性QE，黃金+加密幣受惠",
+        "加拿大汽車關稅50%升級，F/GM/STLA跌4%",
+        "記憶體：Apple中國晶片傳聞 vs Amazon確認短缺"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-25",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "Risk-off 輪動，防守 > 進取，屏息等 NVDA（Wed）+ Warsh（Fri）",
+      "headlines": [
+        "特朗普將加拿大汽車關稅加至 50% — F/STLA -3.3%",
+        "台灣起訴 Nvidia manager（晶片走私案升級）",
+        "NVDA AI server 加價 >15%，主因記憶體成本 — 對 MU 係結構 bull",
+        "記憶體股崩跌：SNDK -6.5%、MU -5.8%、WDC -5.2%",
+        "NVDA 業績前 de-risking：NVDA -2.9%、AMD -3.5%、INTC -3.1%"
+      ],
+      "opportunities": [
+        "MU/WDC/SNDK: 恐慌賣 vs 結構性短缺（NVDA 加價），星期三業績 resolve",
+        "BTC-USD: 逼近 $80K 突破位，debasement trade 持續",
+        "GLD: +0.79% 續升，債市干預下黃金受追捧"
+      ],
+      "analysis": "## Fed Context — 宏觀背景\n\n今個星期冇新 FOMC statement。上次 Jul 28-29 維持利率不變，minutes Aug 19 已出。下次 FOMC 係 Sep 15-16（有 dot plot + press conference）。\n\n真正 macro 焦點係 Jackson Hole — 星期五（Aug 28 10pm HKT）Fed Chair Kevin Warsh 首次 keynote，上任後第一次向市場定調。債息同美元方向，全睇 Warsh 點樣講 Fed/Treasury 嘅 credibility 問題。\n\nMacro calendar（SOURCE OF TRUTH）：\n- 今晚（Tue Aug 25）：全 MEDIUM — Barkin speech（8pm）、ADP weekly、Case-Shiller、New Home Sales、CB Consumer Confidence（10pm）\n- 星期三（Wed Aug 26）：🔴 HIGH 大日子 — Core PCE MoM、Personal Spending/Income、GDP Q2 2nd est、Durable Goods（全部 8:30pm HKT）+ NVDA 業績（AMC）— macro 同 micro 喺同一日碰撞\n\n## 📰 今日重點頭條（Raw Headlines）\n\n1. [CNBC] Trump says US to increase tariffs on Canadian cars to 50% — 貿易戰升級，F/GM/STLA 直接受衝擊\n2. [Bloomberg] Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe — 走私案升級（NC 有 cover Supermicro 走私，但台灣起訴 NVDA manager 係新發展）\n3. [CNBC] Nvidia exploring price hikes for some of its largest customers — AI server 加價 >15%，主因記憶體成本上升\n4. [Benzinga] Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos — MU/WDC/SNDK 5-6% 跌幅\n5. [SeekingAlpha] Nvidia: The Last Hurrah Before ASIC (Earnings Preview) — ASIC 論成為主流 narrative\n6. [Benzinga] Samsung Crash Brings Semi Selling — Samsung 崩跌帶動半導體拋售\n7. [CNBC] Nvidia says Groq racks online this year following $20B purchase — 低延遲 inference 軍備競賽\n8. [Benzinga] Nvidia Could Swing $282B In Value After Earnings — options 暗示 5.35-7.88% 波動\n\n## 📊 Market Recap\n\n- SPY $763.47（-0.29%）、QQQ $706.32（-1.00%）、DIA $533.65（+0.27%）、IWM $297.97（-0.66%）\n- 明顯 divergence：Dow 升、Nasdaq 跌 = 經典 risk-off 輪動（value/defensive 跑贏 growth）\n- VIX 15.85（+4.76%）— 由 15.13 tick up，但仍然喺 $18 panic 線以下\n- 成交量：SPY 31.9M vs 前幾日 39-45M — 縮量下跌 = 唔係恐慌拋售，係陰跌去 risk\n- Sector：防守贏（XLP +1.70%、XLF +1.29%、XLU +1.05%、XLC +0.83%），科技輸（XLK -1.78%）\n\n## 🔥 Notable Movers\n\n跌幅榜（半導體 + 汽車兩條主線）：\n- SNDK -6.45%、MU -5.83%、WDC -5.24%（記憶體三雄 — Apple 中國晶片傳聞 + Samsung 崩跌）\n- AMD -3.49%、MRVL -3.27%、INTC -3.12%、NVDA -2.91%、AVGO -2.63%（半導體全線）\n- STLA -3.51%、F -3.33%、GM -1.08%（加拿大 50% 關稅）\n\n升幅榜（debasement + 防守）：\n- XLP +1.70%（必需品）、XLF +1.29%（金融）、XLU +1.05%（公用）\n- GLD +0.79%（$426.69）、BTC-USD +1.31%（$78,773 逼近 $80K）\n\n## 📰 News That Mattered\n\nNC calls 覆盤（幾乎全中）：\n- ✅ BTC-USD（ACTION）：+1.31% 逼近 $80K — 中\n- ✅ GLD（ACTION）：+0.79% 續升 — 中（但 SLV -0.83% 冇跟上，補漲邏輯今日失效）\n- ✅ F/GM/STLA（WATCH）：關稅 50% 確認，F/STLA -3.3% — 中\n- ✅ MU/WDC/SNDK（WATCH）：-5-6% — 中\n- ✅ NVDA（WATCH）：業績前 de-risking -2.91% — 中\n\n新發展（NC 冇 cover）：\n- 台灣起訴 NVDA manager（走私案升級）— 新 tail risk\n- NVDA AI server 加價 >15%，主因記憶體成本 — 呢個係 MU 嘅結構性 bull signal，同今日 MU -5.8% 嘅跌幅互相矛盾\n\n## 🎯 Opportunities Carry Forward\n\n1. 記憶體 MU/WDC/SNDK — 今日跌 5-6%，但 NVDA 加價 >15% 正正因為記憶體短缺。如果星期三 NVDA 業績確認 shortage，記憶體股係最快反彈嘅標的。今日係「恐慌賣 + 結構 bull」嘅對壘位，值得 carry。\n2. BTC-USD / GLD — debasement trade 完整，BTC 逼近 $80K 突破位。呢個唔係一次性反彈，係資產配置轉移。\n3. 防守輪動（XLP/XLU）— 如果 risk-off 持續到 NVDA 業績，必需品/公用仲有資金流入。\n\n## ⚠️ Risks / Watchlist\n\n- 星期三（Aug 26）🔴 HIGH：Core PCE + GDP + Durable Goods + Personal Income/Spending（8:30pm HKT）+ NVDA 業績（AMC）— 本週最關鍵一日\n- NVDA 業績 binary：options 暗示 $282B 市值波動；歷史顯示「過去 6 次業績 5 次跌」— 簡單 beat 可能唔夠\n- 台灣走私案升級 — NVDA tail risk\n- 星期五 Jackson Hole Warsh keynote — 全週 macro 定調\n- 伊朗 Hormuz tail risk（油價今日 -1.8%，地緣風險仍未定價）\n\n## 💡 My Take\n\n今日完美 confirm 咗 Morning Scan 嘅 thesis：risk-off 輪動 + 科技 de-risking + 記憶體崩跌 + 關稅衝擊 + debasement trade 持續。市場喺 NVDA（Wed）+ Warsh（Fri）前屏息以待。\n\n最有趣嘅 contrarian 觀察：MU 今日 -5.8%（恐慌），但 NVDA 加價 15% 正正因為記憶體短缺 — 兩件事互相矛盾。星期三 NVDA 業績會 resolve 呢個矛盾：如果確認 shortage，MU 係 oversold 反彈首選；如果 ASIC 論成立，記憶體會再跌一級。\n\nForward bias：cautious / defensive。星期三前唔好進取，等 NVDA 業績落地先出手。防守 > 進取，但 debasement（BTC/GLD）係唯一可以 carry 嘅結構性倉位。",
+      "risks": [
+        "星期三 Core PCE + GDP + NVDA 業績（AMC）— macro+micro 碰撞",
+        "NVDA 過去 6 次業績 5 次跌 — beat 未必夠",
+        "台灣走私案升級 + Warsh Jackson Hole（Fri）"
+      ],
+      "my_take": "市場屏息等 NVDA（Wed）+ Warsh（Fri）。今日完美 confirm 風險規避輪動：科技 de-risking、記憶體崩跌、關稅衝擊，debasement trade（BTC/GLD）係唯一 carry 嘅結構性倉位。最有趣 contrarian：MU -5.8% 但 NVDA 加價 15% 因記憶體短缺 — 星期三業績 resolve 呢個矛盾。"
     }
   ],
   "news_curator": [
