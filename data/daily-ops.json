@@ -6009,38 +6009,6 @@
       "my_take": "中性偏謹慎、事件驅動。本週係 NVDA（Wed）+ Jackson Hole（Fri）雙主菜，市場喺 debasement trade、AI 業績、地緣三線拉扯。最 sharp 訊號係 Druckenmiller 公開唱淡 Bessent——debasement trade 首現內部裂痕，gold/BTC 追高風險大。防守優先，等 catalyst 出咗先出手。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-26",
-      "time": "08:09 HKT",
-      "status": "success",
-      "market_direction": "美股 tech 反彈（NVDA 業績前），油價第四週跌拖低通脹、債券/黃金/BTC 齊升；但消費裂縫浮現（DKS -30%、Foot Locker 插水、INTU -11%）",
-      "headlines": [
-        "[RECENT] NVDA — 業績今晚 + 通脹報告，預期溢價推到極限",
-        "[NEW] MACRO — 加拿大 50% 報復關稅，美加貿易戰全面開打",
-        "[RECENT] OIL — Hormuz 地雷全清，油價第四週跌，去通脹主線",
-        "[RECENT] GLD/BTC — Bessent Put 長債挾淡倉，debasement trade 全線開火",
-        "[RECENT] INTU — 指引弱插 11%"
-      ],
-      "opportunities": [
-        "GLD/BTC: debasement trade 結構性主線，Bessent Put 發功，但 BTC $81K 受阻 + Druckenmiller 唱淡",
-        "HOOD/COIN/SOFI: crypto rally 蔓延 fintech，散戶回歸（Viper momentum）"
-      ],
-      "analysis": "主線係 debasement trade（Bessent 財政擴張 vs Warsh 聯儲獨立性），黃金/BTC/長債全線受惠。NVDA 業績係今晚最大 event risk，市場預期溢價已推到極限。消費 downgrade 訊號（DKS/Foot Locker/INTU）同 macro risk-on 背離，值得警惕。",
-      "risks": [
-        "NVDA 業績 event risk 高，勿 pre-position",
-        "美加貿易戰升溫 = 通脹 = Fed 難減息",
-        "消費 downgrade 訊號累積（DKS/FL/INTU）",
-        "BTC $81K 受阻，crypto 短期或 pullback"
-      ],
-      "my_take": "debasement trade 係呢輪主線，但 NVDA 業績係今晚最大 event risk。消費 downgrade 開始累積，同 macro risk-on 背離——係早期預警訊號。",
-      "key_takeaways": [
-        "debasement trade = 結構性主線（黃金/BTC/長債）",
-        "NVDA 業績今晚，勿 pre-position",
-        "加拿大 50% 報復關稅，貿易戰全面開打",
-        "消費裂縫浮現（DKS/FL/INTU）"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-26",
       "time": "08:34 HKT",
@@ -6065,6 +6033,81 @@
         "加拿大 50% 報復關稅 — 貿易戰=通脹=Fed 難減息"
       ],
       "my_take": "科技反彈掩護消費裂縫 — 指數微升但成交縮，DKS -30% 揭開消費 downgrade，同 crypto-fintech debasement momentum 兩極化。今晚 NVDA 業績 + Core PCE 雙 catalyst 係真正 test，中性偏謹慎。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-26",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "NVDA 業績 + PCE 通脹雙 catalyst 前觀望；油價第四週跌，debasement trade 全開，但 Warsh 聯儲或轉加息係最大 tail risk",
+      "headlines": [
+        "[NEW] 🎯 NVDA — 業績今晚 + OpenAI 搶先宣稱自研晶片贏 Blackwell",
+        "[NEW] ⚠️ MACRO — Warsh 聯儲「蜜月期結束」，或轉向加息",
+        "[NEW] ⚠️ MACRO — PCE 通脹今日 + 債市空頭擁擠，Citadel 警告痛苦反噬",
+        "[RECENT] ⚠️ OIL — Hormuz 重開遇阻：伊朗要求美解除封鎖",
+        "[NEW] 🎯 ENERGY — Qatar LNG 出口崩 96%，歐洲氣價三年新高",
+        "[NEW] ⚠️ SAP — UBS 降級「AI 轉型太慢」",
+        "[RECENT] 📌 MU — 記憶體短缺 2017 以來最嚴重（續報）",
+        "[RECENT] 📌 COMMODITY — Copper 逼近歷史高位，供應壓力 + Congo 鐵路",
+        "[RECENT] 🎯 BTC — $64億期權周五到期，ETF 流入十年最強",
+        "[RECENT] ⚠️ RETAIL — Truist 呼籲避開鞋類股（DKS 續報）",
+        "[NEW] 📌 BIOTECH — Ebola 疫情史上最快擴散，疫苗股催化"
+      ],
+      "opportunities": [
+        "['NVDA']: WATCH — 預期溢價拉到極限，重點唔係業績數字，係 OpenAI 自研晶片對 Blackwell 需求嘅結構性威脅 + hyperscaler 集中度",
+        "MACRO: WATCH — 呢個係最大 tail risk。Warsh 鷹派 + Jackson Hole keynote 本周，若轉鷹會重創 gold/crypto/bonds 嘅 debasement trade",
+        "MACRO: WATCH — 若 PCE 偏軟，債券空頭反噬會推高長債、壓低息率，debasement trade 再加速；同 Warsh 加息風險互相角力",
+        "OIL: WATCH 續報 — Tehran 嘅「解除封鎖」要求係新變數，若美方拒絕，談判或 stall，油價有反彈空間",
+        "OIL: WATCH — 供應鏈受阻係結構性，利好替代 LNG 出口商（US LNG），但需確認崩跌係地緣（Hormuz）定長期結構",
+        "['SAP']: WATCH — 單一名字，但反映歐洲科技 AI 落後嘅結構性主題，同 MSFT/CRM 等美國 SaaS 形成對比",
+        "['MU']: WATCH 續報 — 短缺係結構性利好 MU，但中國供應替代係新變數，等 Apple 確認先",
+        "MACRO: WATCH — AI datacenter + 電氣化需求結構性，但估值已反映，等回調（FCX 為主要 play）",
+        "['BTC-USD']: WATCH — debasement trade 主線未變，但 $64億期權周五到期 + 超買，短線波動放大，Viper 動能可留意",
+        "['DKS', 'NKE']: WATCH 續報 — 消費降級由 footwear 擴散，NKE 等相關股或再跌；唔好撈底住",
+        "['MRNA']: WATCH — 疫苗股（MRNA/BNTX/MRK）可能有情緒催化，但過往疫情股都係短命行情，注意 timing"
+      ],
+      "analysis": "市場喺 NVDA 業績今晚 + PCE 通脹今日嘅雙 catalyst 前觀望。Hormuz 降溫令油價第四週跌，debasement trade（黃金/加密/長債）全線開火。但紐時報導 Warsh 聯儲「蜜月期結束」或轉向加息，同市場減息預期嚴重背離，係最大 tail risk。Qatar LNG 出口崩 96% 推高歐洲氣價至三年高。",
+      "risks": [
+        "Warsh 聯儲或轉向加息 vs 市場減息預期背離",
+        "債市空頭歷史性擁擠，Citadel 警告痛苦反噬",
+        "NVDA 預期溢價極限，OpenAI 自研晶片結構性威脅",
+        "鞋類消費降級擴散（DKS/NKE）"
+      ],
+      "my_take": "市場最擁擠嘅 trade 係 short 長債（Citadel 警告 painful bearish unwind），同時 debasement trade 靠 Bessent Put 開火。兩者生死都押喺 Warsh Jackson Hole keynote + 今日 PCE。最大 contrarian：兩個極端都有人押重注，任何一方被逼平倉都會劇烈反噬；若 PCE 偏軟 + Warsh 轉鷹，債市空頭反噬同風險資產回調可能同時發生。",
+      "key_takeaways": [
+        "NVDA 業績今晚，但預期溢價極限 + OpenAI 自研晶片係真正威脅",
+        "Warsh 聯儲或轉向加息 vs 市場減息預期 = 最大 tail risk",
+        "Qatar LNG 崩 96% → 歐洲氣價三年高",
+        "debasement trade 全開，但空頭擁擠度高"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-26",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "中性偏多，但 PCE + NVDA 業績雙 catalyst 構成 binary day",
+      "headlines": [
+        "NVDA 業績今晚 + OpenAI 自研晶片贏 Blackwell",
+        "Warsh 聯儲或轉向加息 = 最大 tail risk",
+        "PCE 通脹今日 + 債市空頭擁擠",
+        "Qatar LNG 出口崩 96% → 歐洲氣價三年高",
+        "DKS -30% 拖累消費降級訊號"
+      ],
+      "focus": [
+        "NVDA（業績）",
+        "半導體",
+        "能源（LNG）",
+        "debasement trade（金/加密）"
+      ],
+      "analysis": "【市場方向】中性偏多，但今日係「PCE 通脹 + NVDA 業績」雙 catalyst 同時落地嘅 binary day。市場已經 price 咗一個接近完美嘅情景——debasement trade 全開、油價第四週跌、NVDA beat——意味任何 surprise 都係 downside-leaning。今日係觀望日，唔係加倉日。\n\n【重點頭條】\n1. NVDA 業績今晚 AMC + OpenAI 宣稱自研晶片贏 Blackwell（結構性威脅，唔係數字問題）\n2. Warsh 聯儲「蜜月期結束」或轉向加息 vs 市場減息預期 = 最大 tail risk\n3. PCE 通脹今日 8:30pm + 債市空頭歷史性擁擠（Citadel 警告 painful unwind）\n4. Qatar LNG 出口崩 96% → 歐洲氣價三年新高，能源供應鏈受阻\n5. DKS -30% 史上最差日 → 消費降級由 footwear 擴散（NKE/LULU 風險）\n6. 記憶體短缺 2017 以來最嚴重（MU 結構性利好，但 Apple 中國晶片傳聞係變數）\n7. BTC $64億期權周五到期 + ETF 流入十年最強，debasement trade 主線未變\n8. Ebola 疫情史上最快擴散 → 疫苗股（MRNA/BNTX）情緒催化\n\n【隔夜市場】\n- US close：SPY $765.91 (+0.32%)、QQQ $710.72 (+0.62%)、DIA $535.24 (+0.30%)、IWM $299.23 (+0.42%) — 全面溫和上漲\n- 油價：USO $126.15 (-4.58%) — 連續第四週下跌，Hormuz 降溫已 price in\n- 黃金：GLD $428.07 (+0.32%)，但仍低於年高 $509.70，金價已由高位回吐約 16%\n- 長債：TLT $83.47 (+1.10%) — 反彈中，debasement trade + 空頭挾淡角力\n- 美元：UUP $27.94 (-0.07%) 持平偏弱\n\n【昨日爆升／暴跌榜】\n- 爆升榜全係 penny/SPAC noise（AIXI +186%、NCPL +127%、DAIC +124%），唯一有實質意義係 MRNX（2x 長 MRNA ETF）+28.94%，反映 Ebola 疫苗情緒\n- 暴跌榜最大 real-name loser 係 DKS -30.68% 至 $124.31，其餘全係 sub-$1 殻股\n- 活躍榜資金最集中喺 NVDA (+2.19%)，業績前最後一搏；其次 INTC、BITO（比特幣 ETF）、TSLL（TSLA 2x bull）、NU\n- Sector theme：除咗 NVDA 帶動嘅半導體 + MRNA 帶動嘅生科，其餘係 single-event driven，冇一致 macro 方向\n\n【今日重點事件】（全部來自 macro_calendar.json，SOURCE OF TRUTH）\n- 8:30pm HKT：Core PCE MoM (Jul) prev 0.1 / fcast 0.2 🔴\n- 8:30pm HKT：GDP Growth QoQ 2nd Est (Q2) prev 2.1 / fcast 1.5 🔴\n- 8:30pm HKT：Personal Spending MoM (Jul) prev 0.3 / fcast 0.1 🔴\n- 8:30pm HKT：Durable Goods Orders MoM (Jul) prev 0.3 / fcast 0.7 🔴\n- 8:30pm HKT：PCE YoY (Jul) prev 3.7 / fcast 3.6 🟡\n- 10:30pm HKT：EIA Crude Oil Stocks 🟡\n- 11:45pm HKT：Fed Barkin Speech 🟡\n- 周五 Aug 28 10pm HKT：Fed Chair Warsh Speech（Jackson Hole keynote）🔴 — 本週最大 catalyst\n\n【Fed Context】\n- 最新 FOMC 係 Jul 28-29 會議，minutes 已於 Aug 19 發布，市場已消化，冇新 statement\n- Kevin Warsh 現任 Fed Chair，市場減息預期同佢可能轉鷹嚴重背離\n- 周五 Warsh Jackson Hole 演講係 debasement trade（金/加密/長債）嘅生死關頭\n\n【Sector Watch】\n- 半導體：NVDA 業績今晚主導成個 complex，期權定價「近年最安靜反應」= 驚喜空間有限\n- 能源：油價跌但結構上歐洲天然氣緊張（Qatar LNG 崩），US LNG 出口商有結構性利好\n- 消費：DKS 拖累鞋類，消費降級訊號擴散，NKE/LULU 唔好撈底住\n- 生科：MRNA 疫情催化，但過往疫情行情短命，注意 timing\n\n【機會】\n- NVDA WATCH — 預期溢價拉到極限，重點係 OpenAI 自研晶片對 Blackwell 需求嘅結構性威脅，唔係業績數字\n- MU WATCH — 記憶體短缺結構性利好，但中國供應替代係新變數\n- 能源 WATCH — US LNG 出口商受惠 Qatar 崩跌，但需確認係地緣定長期結構\n- debasement trade（金/加密）WATCH — 主線未變但擁擠度高 + Warsh 加息風險，短線波動放大\n\n【未來一個月業績重點】\n- 今晚（Wed Aug 26 AMC）：NVDA ($5.0T, est $2.09) 🎯 — 全場焦點，同時 CRWD/CRM/SNPS\n- Thu Aug 27：MRVL ($201B, est $0.65) 🎯 AMC — 半導體第二波\n- Tue Sep 01：DELL ($293B)、PANW ($277B) AMC\n- Wed Sep 02：AVGO ($1.7T, est $2.83) 🎯 AMC — 巨型權重，SNOW/HPE 同場\n- Tue Sep 08：ORCL ($417B, est $1.40) 🎯\n\n【My Take】\n今日係典型嘅事件日，唔係方向日。市場兩個最擁擠嘅 trade——short 長債 + long debasement——都押喺同一個變數：PCE + Warsh 路線。NVDA 業績今晚係第二個變數。我嘅 read：市場已 price 完美情景，所以 upside 空間有限、downside 被低估。最差情景係 PCE 偏熱 + Warsh 轉鷹，會同時打擊長債、金、加密、科技股。今日唔加倉、唔追高，等兩個 catalyst 落地先。唯一值得留意嘅 contrarian play：若 PCE 偏軟，債市空頭反噬會推高長債（TLT），呢個係相對有保護嘅方向。",
+      "risks": [
+        "PCE 偏熱 + Warsh 轉鷹 → debasement trade 反噬",
+        "NVDA 業績雖 beat 但 OpenAI 自研晶片結構性威脅",
+        "BTC $64億期權周五到期放大波動",
+        "消費降級由 footwear 擴散至 NKE/LULU"
+      ],
+      "my_take": "事件日而非方向日：PCE + NVDA 業績雙 catalyst 同時落地，市場已 price 完美情景，downside 被低估。最差情景 = PCE 偏熱 + Warsh 轉鷹，同時打擊長債/金/加密/科技。今日觀望，唔追高；唯一有保護嘅 contrarian play 係若 PCE 偏軟債市空頭反噬（TLT 長）。"
     }
   ],
   "news_curator": [
