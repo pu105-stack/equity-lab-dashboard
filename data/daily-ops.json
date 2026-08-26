@@ -6007,6 +6007,64 @@
         "消費轉弱（DKS miss + Consumer Confidence）"
       ],
       "my_take": "中性偏謹慎、事件驅動。本週係 NVDA（Wed）+ Jackson Hole（Fri）雙主菜，市場喺 debasement trade、AI 業績、地緣三線拉扯。最 sharp 訊號係 Druckenmiller 公開唱淡 Bessent——debasement trade 首現內部裂痕，gold/BTC 追高風險大。防守優先，等 catalyst 出咗先出手。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-26",
+      "time": "08:09 HKT",
+      "status": "success",
+      "market_direction": "美股 tech 反彈（NVDA 業績前），油價第四週跌拖低通脹、債券/黃金/BTC 齊升；但消費裂縫浮現（DKS -30%、Foot Locker 插水、INTU -11%）",
+      "headlines": [
+        "[RECENT] NVDA — 業績今晚 + 通脹報告，預期溢價推到極限",
+        "[NEW] MACRO — 加拿大 50% 報復關稅，美加貿易戰全面開打",
+        "[RECENT] OIL — Hormuz 地雷全清，油價第四週跌，去通脹主線",
+        "[RECENT] GLD/BTC — Bessent Put 長債挾淡倉，debasement trade 全線開火",
+        "[RECENT] INTU — 指引弱插 11%"
+      ],
+      "opportunities": [
+        "GLD/BTC: debasement trade 結構性主線，Bessent Put 發功，但 BTC $81K 受阻 + Druckenmiller 唱淡",
+        "HOOD/COIN/SOFI: crypto rally 蔓延 fintech，散戶回歸（Viper momentum）"
+      ],
+      "analysis": "主線係 debasement trade（Bessent 財政擴張 vs Warsh 聯儲獨立性），黃金/BTC/長債全線受惠。NVDA 業績係今晚最大 event risk，市場預期溢價已推到極限。消費 downgrade 訊號（DKS/Foot Locker/INTU）同 macro risk-on 背離，值得警惕。",
+      "risks": [
+        "NVDA 業績 event risk 高，勿 pre-position",
+        "美加貿易戰升溫 = 通脹 = Fed 難減息",
+        "消費 downgrade 訊號累積（DKS/FL/INTU）",
+        "BTC $81K 受阻，crypto 短期或 pullback"
+      ],
+      "my_take": "debasement trade 係呢輪主線，但 NVDA 業績係今晚最大 event risk。消費 downgrade 開始累積，同 macro risk-on 背離——係早期預警訊號。",
+      "key_takeaways": [
+        "debasement trade = 結構性主線（黃金/BTC/長債）",
+        "NVDA 業績今晚，勿 pre-position",
+        "加拿大 50% 報復關稅，貿易戰全面開打",
+        "消費裂縫浮現（DKS/FL/INTU）"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-26",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Tech 反彈但成交縮 — 事件前觀望，消費裂縫浮現",
+      "headlines": [
+        "DKS 史上最差 -30.7% — 消費裂縫浮現",
+        "Wall Street ends higher — tech 反彈等 NVDA 業績",
+        "HOOD +8%/COIN +4% — crypto-fintech 散戶回歸",
+        "CIA director 罕見訪莫斯科 — 地緣第二線",
+        "MU 記憶體短缺自 2017 — Apple 中國晶片傳聞拉鋸"
+      ],
+      "opportunities": [
+        "NVDA: 今晚業績，options 押注近年最靜，勿 pre-position",
+        "HOOD/COIN/SOFI: crypto-fintech momentum，散戶回歸可 carry",
+        "GLD/BTC: Bessent Put debasement trade 結構性，但追高風險大"
+      ],
+      "analysis": "📰 今日重點頭條（Raw News Landscape）\n\n• [CNBC] Stock futures little changed — 等緊 PCE 通脹 + NVDA 業績（NVDA）\n• [Investing.com] Wall Street ends higher as tech rebounds before Nvidia results（NVDA）\n• [NYT] CIA director makes rare, unannounced visit to Moscow（geo-political）\n• [BBC] AI gold rush draws crypto firms away from Bitcoin（BTC-USD）\n• DKS 史上最差單日 -30.7% — 消費裂縫浮現（NC 捕捉到）\n• INTU 指引弱 -3.4%（after-hours 跌幅更深）\n• MU 記憶體短缺最嚴重自 2017，反彈 +2.5%（NC 捕捉到）\n• HOOD/COIN/SOFI crypto-fintech 散戶回歸 rally（NC 捕捉到）\n\n📊 Market Recap\n\n美股指數小幅收高，但成交量明顯萎縮 — 事件前嘅「無信念 drift higher」：\n• SPY +0.32% | QQQ +0.62% | DIA +0.30% | IWM +0.42%\n• VIX 15.85 → 15.45（-2.5%）— 恐慌消退，但唔係 risk-on 嘅 aggression，係 event 前嘅壓倉\n• QQQ 成交 23.4M vs 前日 37.4M（-37%）— tech 反彈係喺極輕量上發生\n\n結構上係「科技反彈掩護消費裂縫」。納指領漲，但推動力唔係 broad-based — 係 NVDA 業績前嘅空頭回補 + crypto-fintech 支線嘅 momentum，唔係主線資金返場。\n\n🔥 Notable Movers\n\n贏家（>3%）：\n• HOOD +8.2% — crypto rally 蔓延 fintech，散戶回歸（Viper momentum 確認）\n• COIN +4.3% — BTC 反彈帶動\n• SOFI +4.2% — fintech 跟隨\n• MU +2.5% — 記憶體短缺敘事 + Apple 中國晶片傳聞互相拉鋸\n• NVDA +2.2%（$208→$213）— 業績前空頭回補\n\n輸家（<-3%）：\n• DKS -30.7% — 史上最差單日，guidance 崩塌，footwear 消費裂縫最尖銳訊號\n• INTU -3.4% — 指引弱，稅季後消費回軟\n\nSector rotation signal：消費（retail/software）遭到拋售，資金流向 crypto-fintech + 大型科技。呢個唔係 sector rotation，係「消費 downgrade 訊號開始累積」— 同 macro 嘅 risk-on 背離。\n\n📰 News That Mattered\n\n今日 confirmed catalysts：\n1. DKS 業績崩盤（-30.7%）— 消費 downgrade 最強證據。Morning Scan 琴日已讀到「DKS footwear 疲弱讀出 NKE 風險」— 呢個 call 中咗，而且比預期更差。\n2. INTU 指引弱 — 稅季後消費回軟，同 DKS 形成共振。消費裂縫唔係 isolated。\n3. 地緣：CIA director 罕見訪莫斯科 — 貿易戰升級（加拿大 50% 報復關稅）以外嘅第二條地緣線，值得留意。\n4. MU 記憶體敘事 — 短缺最嚴重自 2017，但 Apple 中國晶片傳聞壓價，雙向拉鋸。\n\nMorning Scan 琴日嘅 calls 回顧：\n• 「Druckenmiller 唱淡 Bessent — debasement trade 首現裂痕」— 部分錯。gold 持穩近高位（GLD +0.3%）、crypto-fintech 大漲（HOOD +8%、COIN +4%），裂痕冇演變成 selloff，反而 risk 資產 rally。\n• 「NVDA 資金撤離（跌 3% 到 $208）」— 反彈 +2.2% 到 $213。但真正 test 係今晚業績，唔係琴日。\n• 「DKS footwear 疲弱」— 確認，而且 -30% 遠超預期。\n\nNC 冇 cover 到嘅 raw news：CIA 訪莫斯科、AI gold rush 抽走 crypto 資金（BTC 結構性風險訊號）。\n\n🎯 Opportunities Carry Forward\n\n• NVDA（今晚業績）：options 押注近年最靜反應，預期溢價推到極限。event risk 高，唔 pre-position。若業績 + 指引超預期，會係成個 AI complex 嘅 release valve；若 miss，消費 + AI 雙 downgrade。\n• HOOD/COIN/SOFI（crypto-fintech momentum）：散戶回歸係 Viper 嘅 bread-and-butter。若今晚 BTC 守穩 $81K 上方，呢條線可以 carry 到明天。但 Druckenmiller 唱淡 + AI gold rush 抽走 crypto 資金係結構性逆風。\n• GLD/BTC（debasement trade）：Bessent Put 長債挾淡倉結構性。gold 持穩近高位係 signal，但追高風險大 — Morning Scan 已經 flag 咗呢點，琴日冇兌現，今晚 PCE 若顯示通脹黏性，debasement trade 會再獲催化。\n\n⚠️ Risks / Watchlist（今晚要睇實）\n\n今晚 08:30pm HKT 係 macro 重頭戲，同 NVDA 業績撞正 — 雙 catalyst 日：\n• 🔴 Core PCE MoM (Jul) — 08:30pm HKT — 呢個係 Fed 最關注嘅通脹指標，直接影響 Warsh 減息路徑\n• 🔴 GDP Growth Rate QoQ 2nd Est (Q2) — 08:30pm HKT\n• 🔴 Durable Goods Orders MoM (Jul) — 08:30pm HKT\n• 🔴 Personal Spending/Income MoM (Jul) — 08:30pm HKT\n• 🟡 EIA Crude/Gasoline Stocks — 10:30pm HKT\n• 🟡 Fed Barkin Speech — 11:45pm HKT\n\nOvernight risk：\n• NVDA 業績 — 今晚最大 event risk。消費 downgrade + AI 業績 miss 若同時發生，會係雙殺。\n• 加拿大 50% 報復關稅 — 貿易戰 = 通脹 = Fed 難減息，F/GM/STLA 直接受壓。\n• 地緣：CIA 訪莫斯科 — 未明性質，但貿易戰以外嘅第二條風險線。\n\n下次 FOMC：Sep 15-16（有 press conference）。今晚 Core PCE 係 Sep meeting 前最後幾份關鍵通脹數據之一。\n\n💡 My Take\n\n今日係「科技反彈掩護消費裂縫」嘅一日 — 指數微升但成交縮，真正嘅故事係 DKS -30% 揭開消費 downgrade，同 crypto-fintech 嘅 debasement momentum 形成兩極。聽日 bias：中性偏謹慎，等今晚 NVDA 業績 + Core PCE 出咗先定方向。若 PCE 黏性 + NVDA 指引弱同時兌現，會係呢輪 risk-on 嘅第一個真正 stress test。\n\n明日重點：NVDA 業績後嘅 AI complex 反應、crypto-fintech 支線能否 carry、消費 downgrade 會唔會擴散到 NKE 等 footwear 鏈。",
+      "risks": [
+        "今晚 08:30pm HKT Core PCE + GDP + Durable Goods + Personal Spending/Income 四連發",
+        "NVDA 業績 — 消費 downgrade + AI miss 若同時發生係雙殺",
+        "加拿大 50% 報復關稅 — 貿易戰=通脹=Fed 難減息"
+      ],
+      "my_take": "科技反彈掩護消費裂縫 — 指數微升但成交縮，DKS -30% 揭開消費 downgrade，同 crypto-fintech debasement momentum 兩極化。今晚 NVDA 業績 + Core PCE 雙 catalyst 係真正 test，中性偏謹慎。"
     }
   ],
   "news_curator": [
