@@ -6110,55 +6110,6 @@
       "my_take": "事件日而非方向日：PCE + NVDA 業績雙 catalyst 同時落地，市場已 price 完美情景，downside 被低估。最差情景 = PCE 偏熱 + Warsh 轉鷹，同時打擊長債/金/加密/科技。今日觀望，唔追高；唯一有保護嘅 contrarian play 係若 PCE 偏軟債市空頭反噬（TLT 長）。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-27",
-      "time": "08:10 HKT",
-      "status": "success",
-      "market_direction": "AI 業績潮爆發（NVDA/CRM/CRWD/OKTA 盤後齊升），但 PCE 通脹黏性令 Warsh 聯儲鷹派預期升溫 — 債息升 + 美元強 vs debasement trade（黃金/BTC 回調），兩條主線對撞",
-      "headlines": [
-        "[NEW] 🎯 NVDA — Q2 業績爆表：營收翻倍，FY28 指引 70% 增長",
-        "[NEW] 🎯 CRM — Salesforce 盤後 +12%，AI 增長 + Anthropic 投資收益",
-        "[NEW] 🎯 CRWD — CrowdStrike 盤後 +11%，「Mythos moment」AI 網絡安全浪潮",
-        "[NEW] 🎯 OKTA — Okta 盤後 +20%，AI 威脅推升身份安全需求",
-        "[NEW] ⚠️ META — $180億 兒安和解，移除「Big Tobacco」尾風險",
-        "[RECENT] ⚠️ MACRO — PCE 核心 3.3% / 整體 3.7%，Warsh 鷹派預期升溫",
-        "[NEW] ⚠️ MACRO — Trump 逼退 Fed Governor，聯儲獨立性受壓",
-        "[RECENT] 📌 OIL — Trump 稱伊朗戰爭「很快結束」，Hormuz 臨時協議",
-        "[RECENT] 📌 BTC — $83K 受阻，PCE 後插穿 $78K，BlackRock 稱宏觀基本面增強",
-        "[RECENT] 📌 GLD — 黃金 $4700 下方回調，跌勢未盡但長倉可開始佈局",
-        "[NEW] 📌 URBN — Urban Outfitters 盤後 +9.5%，消費訊號",
-        "[NEW] 📌 AVGO — NVDA vs AVGO 之爭重燃，AI 硬件雙雄比較"
-      ],
-      "opportunities": [
-        "[NEW] 🎯 NVDA — Q2 業績爆表：營收翻倍，FY28 指引 70% 增長\n├ 故事年齡: [NEW] (<6h) — 業績 Aug 26 盤後 (04:20 HKT Aug 27)\n├ 消息: \"Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates\" (CNBC, 2026-08-26)\n├ 市場反應: 常規時段 NVDA 先插 1.6% ($209.66)，盤後因 $108B 下季指引 + 70% FY28 增長反彈，Nasdaq 期貨 +1%\n├ My call: 業績係 blowout，但「beat 已 priced in」+ OpenAI 自研晶片 margin 威脅未除，等開市後睇有冇承接先 action",
-        "[NEW] 🎯 CRM — Salesforce 盤後 +12%，AI 增長 + Anthropic 投資收益\n├ 故事年齡: [NEW] (<6h)\n├ 消息: \"Salesforce stock jumps 12% on AI growth and Anthropic investment gain\" (CNBC, 2026-08-26)\n├ 市場反應: 盤後 +12%，Benioff 回應「SaaSpocalypse」憂慮，擴大 Anthropic 合作\n├ My call: AI 開始驅動軟件 earnings（唔止 hardware），SaaS 重估故事，portfolio holding 直接受惠",
-        "[NEW] 🎯 CRWD — CrowdStrike 盤後 +11%，「Mythos moment」AI 網絡安全浪潮\n├ 故事年齡: [NEW] (<6h)\n├ 消息: \"CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave\" (CNBC, 2026-08-26)\n├ 市場反應: 史上最佳季度，盤後 +11%，AI 網絡安全需求爆發\n├ My call: AI 攻擊面擴大 → 身份/網絡安全 demand 結構性上升，CRWD/OKTA 同受惠",
-        "[NEW] 🎯 OKTA — Okta 盤後 +20%，AI 威脅推升身份安全需求\n├ 故事年齡: [NEW] (<6h)\n├ 消息: \"Okta pops 20% after topping estimates as AI threat spikes demand for identity security\" (CNBC, 2026-08-26)\n├ 市場反應: 盤後 +20%，AI 驅動身份安全需求\n├ My call: 同 CRWD 一個 theme：AI 網絡安全爆發，兩隻一齊確認 trend",
-        "[NEW] ⚠️ META — $180億 兒安和解，移除「Big Tobacco」尾風險\n├ 故事年齡: [NEW] (<6h)\n├ 消息: \"Meta to pay up to $18bn to settle claims its platforms harm children\" (BBC, 2026-08-26)\n├ 市場反應: META 盤後 +1%，市場視為移除重大法律 overhang，但佛州拒簽稱「peanuts」\n├ My call: $18B 對 $1.47T 市值係 ~1.2%，overhang 移除利好，但兒安監管主線未結束",
-        "[RECENT] ⚠️ MACRO — PCE 核心 3.3% / 整體 3.7%，Warsh 鷹派預期升溫\n├ 故事年齡: [RECENT] (11h) — 數據 Aug 26 早段發布\n├ 消息: \"Fed's preferred inflation gauge shows core prices rose 3.3% annually in July\" (CNBC, 2026-08-26)\n├ 市場反應: 債息攀升、美元反彈、BTC/黃金回落 — 市場押注 Fed 維持鷹派\n├ My call: 通脹「唔肯返入樽」，Warsh 聯儲加息預期 keep alive，係 debasement trade 最大逆風",
-        "[NEW] ⚠️ MACRO — Trump 逼退 Fed Governor，聯儲獨立性受壓\n├ 故事年齡: [NEW] (<6h) — 報導 Aug 26 深夜\n├ 消息: \"Fed Governor Targeted by Trump Issues Defense Against Attempted Ouster\" (NYT, 2026-08-26)\n├ 市場反應: 疊加 PCE 鷹派預期，聯儲政治化風險升溫\n├ My call: Warsh 年代聯儲獨立性係關鍵 macro 風險，逼退 Fed Governor 係結構性訊號",
-        "[RECENT] 📌 OIL — Trump 稱伊朗戰爭「很快結束」，Hormuz 臨時協議\n├ 故事年齡: [RECENT→OLD] 戰爭已持續數日\n├ 消息: \"Trump says Iran war will continue for as long as necessary but will be over 'very soon'\" (CBS, 2026-08-26)\n├ 市場反應: 油價第四週跌，Hormuz 流量恢復，伊朗-阿曼臨時協議 — 市場已反映 de-escalation\n├ My call: 去通脹主線延續，唔係新鮮 catalyst，油股反彈乏力",
-        "[RECENT] 📌 BTC — $83K 受阻，PCE 後插穿 $78K，BlackRock 稱宏觀基本面增強\n├ 故事年齡: [RECENT]\n├ 消息: \"Bitcoin faces major resistance at $83k\" (TradingView, 2026-08-26)\n├ 市場反應: PCE 鷹派數據後 BTC 插穿 $78K，但 BlackRock 稱「macro case strengthening」\n├ My call: 續報，$83K 阻力未破，debasement trade 同 PCE 鷹派博弈中",
-        "[RECENT] 📌 GLD — 黃金 $4700 下方回調，跌勢未盡但長倉可開始佈局\n├ 故事年齡: [RECENT]\n├ 消息: \"Gold Pullback Risk Builds Below 4,700 Resistance\" (TradingView, 2026-08-26)\n├ 市場反應: 黃金由高位回調，PCE 後受壓，「downtrend not over but longs can start positioning」\n├ My call: 續報，$4700 係關鍵阻力，debasement trade 回調係結構性買入機會",
-        "[NEW] 📌 URBN — Urban Outfitters 盤後 +9.5%，消費訊號\n├ 故事年齡: [NEW] (<6h)\n├ 消息: \"Stocks making the biggest moves after hours: ... Urban Outfitters\" (CNBC, 2026-08-26)\n├ 市場反應: 盤後 +9.5%，消費股業績反彈\n├ My call: 單一零售股 signal，同 Foot Locker/DKS 消費降級 theme 對照，值得留意但唔 action",
-        "[NEW] 📌 AVGO — NVDA vs AVGO 之爭重燃，AI 硬件雙雄比較\n├ 故事年齡: [NEW] (<6h)\n├ 消息: \"NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026?\" (247WallSt, 2026-08-26)\n├ 市場反應: NVDA 業績後 AI 硬件龍頭比較熱度升，AVGO 盤後 -0.3%\n├ My call: portfolio holding，AI 硬件雙雄，等 NVDA 開市後帶動 AVGO 反應"
-      ],
-      "analysis": "AI 由 hardware 蔓延到 software（NVDA 硬件 + CRM/CRWD/OKTA 軟件齊爆），確認 AI capex 週期未見頂。但宏觀面 PCE 通脹黏性 + Warsh 鷹派，債息升美元強，直接打擊 debasement trade。",
-      "risks": [
-        "NVDA sell-the-news 風險（連續 4 次 beat 後股價回落）",
-        "OpenAI 自研晶片 Jalapeño 威脅 NVDA margin",
-        "PCE 通脹黏性，Warsh 鷹派加息預期，壓制 growth 估值",
-        "Trump 逼退 Fed Governor，聯儲獨立性受壓"
-      ],
-      "my_take": "市場正在驗證關鍵命題：AI 資本開支週期是否見頂？NVDA 70% FY28 增長指引直接反駁「AI capex 見頂」熊論。但真正結構性訊號係 AI 由 hardware 蔓延到 software，呢個 broadening 先係最值得追嘅 trend。宏觀面則相反：PCE 黏性 + Warsh 鷹派打擊 debasement trade。AI 多頭 vs 通脹鷹派兩條主線爭奪資金。",
-      "key_takeaways": [
-        "NVDA FY28 增長指引 70% 反駁 AI capex 見頂論",
-        "AI 由 hardware 蔓延到 software（CRM/CRWD/OKTA 齊爆）",
-        "PCE 核心 3.3% 黏性，Warsh 鷹派預期升溫",
-        "伊朗戰爭去通脹主線延續，油價第四週跌"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-27",
       "time": "08:35 HKT",
@@ -6184,6 +6135,63 @@
         "VIX 15.21 貼年低 — complacency 過高"
       ],
       "my_take": "AI 業績潮（NVDA/CRM/CRWD/OKTA）確認 AI 盈利由 hardware 擴散到 software，但 PCE 黏性 + Warsh 鷹派壓制 debasement trade 同 growth 估值。AI 多頭方向正確，唔好 gap up 追高；聽日 Warsh Jackson Hole keynote 係本週決定性 catalyst。Neutral-to-bullish。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-27",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "AI 半導體 risk-on 延續（NVDA 業績 + 收購 Hugging Face），但半導體關稅陰影 + Jackson Hole Warsh 演說係短期最大變數",
+      "headlines": [
+        "[NEW] 半導體關稅：Trump 研擬新一輪半導體全面關稅，正中剛反彈板塊",
+        "[RECENT] NVDA $12.9B 收購 Hugging Face，買斷 open-source AI 生態",
+        "[RECENT] Jackson Hole：Warsh 周五演說，Fed 貨幣供應增速 Covid 以來最快",
+        "[NEW] Best Buy 業績超預期 + 上調指引，運算需求強勁",
+        "[NEW] Wendy's Trian 擱置私有化，股價插水"
+      ],
+      "opportunities": [
+        "NVDA: $12.9B 收購 Hugging Face（86x revenue）— 防守性收購，open-source 威脅 vs moat 強化",
+        "SEMIS: 半導體關稅風險 — 直接衝擊剛反彈的 NVDA/AVGO/AMD/MU/TSM",
+        "MACRO: Jackson Hole — Warsh 口頭鷹派 vs Fed 實際放水 paradox"
+      ],
+      "analysis": "AI 半導體 risk-on 延續，NVDA 業績 + Hugging Face 收購帶動。但半導體關稅陰影（Trump 研擬新一輪全面關稅）+ Jackson Hole Warsh 演說係短期最大變數。Hormuz 出口恢復 70% 確認油價去通脹主線，BTC 重上 $80K 測試供應牆。",
+      "risks": [
+        "半導體全面關稅",
+        "Warsh 鷹派演說（Jackson Hole 周五）",
+        "沙特或再戰胡塞，中東風險升溫"
+      ],
+      "my_take": "市場聚焦 NVDA 業績爆表，但兩個 underappreciated 風險：① 半導體關稅直接衝擊剛反彈嘅板塊；② Warsh 口頭鷹派 vs Fed 實際放水嘅 paradox — 流動性 tailwind 或比市場預期強。NVDA 收購 Hugging Face 係防守性，反映 open-source 對其 moat 嘅威脅。",
+      "key_takeaways": [
+        "NVDA $12.9B 收購 Hugging Face（86x revenue），防守性買斷 open-source 生態",
+        "半導體關稅係本 run 最大新風險，正中剛反彈板塊",
+        "Warsh Fed 貨幣供應增速 Covid 以來最快 — 口頭鷹派 vs 實際放水",
+        "Hormuz 出口恢復 70%，油價去通脹主線維持"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-27",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bullish — NVDA 業績爆表拉動 AI 半導體",
+      "headlines": [
+        "NVDA 業績爆表 +7%，Rosenblatt/Oppenheimer 上調目標價",
+        "NVDA $12.9B 收購 Hugging Face（86x revenue），等 official confirm",
+        "Trump 研擬半導體全面關稅，衝擊剛反彈嘅 SEMIS",
+        "Jackson Hole 開幕，Fed Chair Warsh 演說周五 10PM HKT"
+      ],
+      "focus": [
+        "NVDA — 業績爆表 +7%，今日 direction-setting",
+        "SEMIS — 關稅風險 vs NVDA 拉動",
+        "MRVL — 今晚 AMC，追落後 spillover"
+      ],
+      "analysis": "【開市掃瞄 — 2026-08-27 20:30 HKT】\n\n■ 今日重點頭條（按 market impact 排序）\n1. NVDA 業績爆表 +7%（CNBC / Rosenblatt、Oppenheimer 同步上調目標價）— AI 需求冇放緩跡象，係今日最強 catalyst。\n2. NVDA 以 $12.9B 收購 Hugging Face（86x revenue）— 防守性收購，買斷 open-source AI 生態咽喉，等 official confirm。\n3. 半導體全面關稅陰影 — Trump 研擬新一輪關稅，正中剛反彈嘅 NVDA/AVGO/AMD/MU/TSM。\n4. 「AI 基建過度依賴 Bank of Nvidia」質疑（24/7 Wall St）— 集中度風險浮面。\n5. Jackson Hole 開幕，Fed Chair Warsh 演說周五 10PM HKT（HIGH）。\n6. WEN 插水 — Trian 擱置私有化（Viper momentum 可留意）。\n7. BBY 業績超預期 + 上調指引 — 運算/消費電子需求強。\n8. BTC 重上 $80K，測試供應牆。\n9. NVO 降評至賣出，自高位瀉 70%。\n10. Anthropic $45B Nscale 數據中心 deal — AI capex 繼續加碼。\n\n■ 隔夜市場\nUS 收市（8/26）：SPY 766.08（+0.02%）、QQQ 711.37（+0.09%）、DIA 534.23（-0.19%）— 大市窄幅 flat，資金等 NVDA 業績。\n但 NVDA 收市後業績爆表 +7%，今朝應大幅高開，拉動成個 AI 半導體板塊 risk-on。\nVIX 14.95 — 極低，市場 complacent，配合周五 Warsh 演說構成唔對稱事件風險。\n10Y 4.66% — 債息企喺高位。\n黃金 GLD 421、油 USO 127（Hormuz 出口恢復 70%，油價風險溢價消退）；BTC $80K。\n\n■ 昨日爆升／暴跌榜（8/26 收市）\n爆升：ANF +35.7%（Abercrombie 業績爆表，唯一有規模嘅 mover）；其餘多為細價中概（CRE +165%、YYGH +84%、XPON +74%）— 投機盤，唔值得跟。\n暴跌：細價中概主導（GRML -48%、WETO -39%、AIXI -39%）；GENB -20.8%（Generate Biomedicines 破發）。\n活躍：NVDA 209.66（-1.59%，業績前 de-risk）、AAPL +1.15%、META +1.07%、INTC +0.87% — mega-cap 科技企穩等 NVDA。\nSector theme：NASDAQ Technology +0.92%、Real Estate +1.19%、Energy +0.95% 領漲；Communication Services -1.66% 跑輸。冇單一 sector 爆走，係 single-event driven（ANF、NVDA）。\n\n■ 今日重點事件（SOURCE OF TRUTH: macro_calendar.json）\n🟡 08:30PM HKT — Initial Jobless Claims（Aug/22）prev 206K fcast 208K\n🟡 08:30PM HKT — Goods Trade Balance Adv（Jul）prev -101.4B fcast -99B\n🟡 08:30PM HKT — Wholesale/Retail Inventories Adv（Jul）\n🔴 Jackson Hole Symposium 進行中；Fed Chair Warsh Speech 周五 10PM HKT（HIGH）\n🔴 Non-Farm Payrolls Annual Revision Prel（周五 10PM HKT）\n業績：MRVL 今晚 AMC（🎯 tracked）、ADSK AMC、加拿大銀行 RY/TD/CM BMO。\n\n■ Sector Watch\nMomentum：半導體/AI（NVDA 業績拉動）、Real Estate（+1.19% 有冇延續）。\nRisk：Communication Services（-1.66%）、半導體關稅陰影。\nRotation：資金噚日 de-risk 等 NVDA，業績出爐後今日半導體應有資金回流。\n\n■ Pre-market Opportunities（News Curator consolidate）\nNVDA（ACTION）：業績爆表 +7%、分析師上調目標價；但留意關稅陰影 + 高開後 profit-taking。今日係 AI 板塊 direction-setting day。\nSEMIS（WATCH）：關稅係最大 risk，NVDA 高開帶動 AVGO/AMD/MU/TSM 反彈，但關稅 headline 隨時反轉。\nMRVL（今晚 AMC 🎯）：NVDA 業績好 → MRVL 業績前有正面 spillover，留意追落後。\nWEN（WATCH）：Trian 擱置私有化插水，Viper momentum 可留意。\n\n■ 未來一個月業績重點\n今晚 8/27：MRVL AMC 🎯（$211B）、ADSK、RY/TD/CM。\n9/1：DELL（$293B）、PANW、MDT。\n9/2：AVGO 🎯（$1.69T 巨頭）— 緊接 NVDA 業績，若 AVGO 都好，AI capex thesis 全面坐實。\n9/3：CIEN、HPE、SNOW。\n9/8：ORCL 🎯（$429B）；9/10：ADBE 🎯（$109B）。\nAVGO（9/2）係下星期最關鍵：爆表 → 半導體 capex 故事完全 confirm；guide 失望 → 成個板塊 de-rate。\n\n■ Agenda\n今周 catalyst：NVDA 業績（已出 +7%）、MRVL 今晚、Jackson Hole Warsh 周五。\nKey levels：SPY 765 support / 767 resistance（窄幅待方向）；NVDA 224（+7% 後）係心理關口。\n\n■ My Take\nBias：Bullish（short-term）— NVDA 業績爆表係強 catalyst，AI 半導體 risk-on 延續。\n但兩個 underappreciated 風險：① 半導體關稅直接衝擊剛反彈嘅板塊；② Warsh 口頭鷹派 vs Fed 實際放水（貨幣供應增速 Covid 以來最快）嘅 paradox — 流動性 tailwind 或比市場預期強。\n今日最緊要睇 NVDA 高開後有冇 hold 住 +7%，定係 profit-taking。高開低走 → 成個 AI 板塊 momentum 熄火；hold 住 → AVGO（9/2）前都有正面 tailwind。\nVIX 14.95 太低 = complacency，配合周五 Warsh 演說，事件風險唔對稱，唔好追高得太盡。",
+      "risks": [
+        "半導體全面關稅陰影",
+        "Jackson Hole Warsh 口頭鷹派 vs Fed 實際放水",
+        "VIX 14.95 太低 = complacency"
+      ],
+      "my_take": "NVDA 業績爆表 +7% 係今日最強 catalyst，AI 半導體 risk-on 延續；但半導體關稅 + Jackson Hole Warsh 演說係兩個 underappreciated 風險。今日關鍵係 NVDA 高開後有冇 hold 住，VIX 14.95 太低，追高要留一手。"
     }
   ],
   "news_curator": [
