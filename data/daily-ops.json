@@ -6194,40 +6194,6 @@
       "my_take": "NVDA 業績爆表 +7% 係今日最強 catalyst，AI 半導體 risk-on 延續；但半導體關稅 + Jackson Hole Warsh 演說係兩個 underappreciated 風險。今日關鍵係 NVDA 高開後有冇 hold 住，VIX 14.95 太低，追高要留一手。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-28",
-      "time": "08:10 HKT",
-      "status": "success",
-      "market_direction": "NVDA 單日 +$442B 領漲科技，AI 軟件板塊（CRM/CRWD/OKTA）全面重估；Jackson Hole Warsh 演說前市場謹慎",
-      "headlines": [
-        "[RECENT] ACTION: NVDA — $442B 史上第二大單日暴漲，分析師喊 $1T 年營收",
-        "[RECENT] WATCH: SOFTWARE — CRM/CRWD/OKTA 齊創史上最佳單日，AI 軟件重估",
-        "[RECENT] WATCH: MACRO — Jackson Hole Warsh 演說，市場 hedge 美元反彈",
-        "[NEW] WATCH: MRVL — 上調指引但股價插，AI semi 分化",
-        "[NEW] ACTION: ENERGY — 歐洲天然氣庫存 20 年新低",
-        "[NEW] MEME: HOOD — Webull/Robinhood retail 情緒延續"
-      ],
-      "opportunities": [
-        "NVDA: 業績+Hugging Face 雙催化已反映大半，短線唔追高；等 Warsh 演說後回調係更好入場位",
-        "ENERGY/UNG/EQT: 冬季前天然氣最清晰 supply-demand 背離，結構性長倉機會",
-        "META: $18B 尾風險清 + brand 修復，portfolio holding 可繼續持有"
-      ],
-      "analysis": "US session 主線係 NVDA $442B 暴漲帶動科技，但更重要係 AI 行情由 hardware 擴散到 software（CRM +22%、CRWD 史上最佳、OKTA +29%）。Cramer 話 NVDA+CRM 業績推翻兩個 bear narrative（AI 無盈利、software 唔受惠 AI）。但 market breadth 收窄——NVDA 獨力拉指數，係隱憂。今日最大 catalyst 係 Warsh Jackson Hole 演說，鷹派 surprise 會令科技回調。",
-      "risks": [
-        "Warsh 演說鷹派 surprise → 科技股回調",
-        "Market breadth 收窄，NVDA 獨力支撐指數，反彈脆弱",
-        "MRVL 指引上調仍插水，AI semi 分化，second-tier 減倉風險",
-        "Trump 制裁中國銀行（Iran ties）隨時反轉 trade truce 利好"
-      ],
-      "my_take": "市場正經歷 rotation：由 AI hardware（NVDA 獨強）擴散到 AI software（CRM/CRWD/OKTA 齊創紀錄）。但一切都喺 Jackson Hole Warsh 演說嘅陰影下——呢個係今日真 binary catalyst，市場已開始 hedge 美元反彈。NVDA $442B 暴漲反映 rally 高度集中、breadth 收窄，係脆弱訊號。最清晰嘅結構性機會係歐洲天然氣（庫存 20 年新低），supply-demand 故事獨立於 Fed，係今次少有嘅長倉機會。",
-      "key_takeaways": [
-        "AI 行情由 hardware 擴散到 software，結構性 rotation",
-        "Jackson Hole Warsh 演說係今日最大 macro catalyst",
-        "歐洲天然氣庫存 20 年新低 = 最清晰結構性長倉",
-        "Market breadth 收窄係反彈脆弱警號"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-28",
       "time": "08:34 HKT",
@@ -6252,6 +6218,66 @@
         "breadth 極窄 = 脆弱訊號"
       ],
       "my_take": "一個引擎嘅牛市——AI hardware+software 獨強、breadth 極窄、VIX 14.51 深化 complacency。AI 重估有真業績支撐，但集中度極高係脆弱訊號。今晚 Warsh 演說係方向分水嶺：鷹派反轉、dove 延續到 AVGO(9/2)。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-28",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "AI 業績周收尾，科技股領漲；焦點轉向 Warsh Jackson Hole 演說，期貨觀望；比特幣衝3個月高位後回吐，黃金近歷史高位整固。",
+      "headlines": [
+        "[NEW] WATCH: MACRO — Warsh Jackson Hole 首秀演說今日登場",
+        "[NEW] WATCH: MRVL — 上調指引股價照插 8%",
+        "[NEW] WATCH: BTC — 衝3個月高位後回吐",
+        "[RECENT] WATCH: SOFTWARE — AI 變現落地全面重估",
+        "[NEW] WATCH: GOLD — 近歷史高位整固"
+      ],
+      "opportunities": [
+        "MACRO: Warsh Jackson Hole 演說係今日唯一 macro catalyst，市場押注「失望」（無清晰 rate path），Jackson Hole 歷史顯示 Fed 主席鮮少震盪股市，但通脹黏住令鷹派風險上升。",
+        "MRVL: AI semi 開始分化 — NVDA 暴漲 vs MRVL 插 8%，187% YTD 漲幅後面臨「指引唔夠好」考驗，分析師仍睇好。",
+        "BTC: 3個月高位 + CryptoQuant 稱熊市結束，礦工跑贏 AI 股，Strategy +10%，但係 Warsh 演說係雙面刃。",
+        "SOFTWARE: CRM「Claudeforce」+20% 帶動 Figma/Atlassian/Adobe 全面重估，AI 變現終於喺企業軟件落地。"
+      ],
+      "analysis": "今周係 AI 業績周收尾（NVDA/CRM/CRWD/OKTA/MRVL 全部出咗業績），市場由 AI 微觀 euphoria 轉向 macro。今日唯一大 catalyst 係 Warsh 首次 Jackson Hole 演說，市場押注失望（冇清晰 rate path），但通脹黏住（關稅+AI 夾擊）令鷹派 risk 上升。AI semi 開始分化：NVDA 暴漲但 MRVL 插水。比特幣衝3個月高位，但 Warsh 演說係雙面刃。",
+      "risks": [
+        "Warsh 演說若意外鷹派，可能打斷 AI 股反彈",
+        "AI semi 分化加劇（NVDA vs MRVL 背離）",
+        "比特幣衝高位後回吐，若 Warsh 鷹派可能 risk-off"
+      ],
+      "my_take": "今周係 AI 業績周，市場已充分定價 AI euphoria。今日焦點 100% 喺 Warsh Jackson Hole 演說 — 呢個先係左右成個 portfolio 嘅變數，而唔係 AI 個股。歷史話 Fed 主席鮮少喺 Jackson Hole 震盪市場，但 Warsh 首次演說 + 通脹黏住，令 tail risk 比平時高。我嘅 read：演說大機會「失望」（冇新 rate 訊號），市場反應有限；真正值得睇嘅係 MRVL 嘅 semi 分化 — 如果 AI semi 由「一齊升」轉向「揀股」，next leg 會更難 trade。",
+      "key_takeaways": [
+        "Warsh Jackson Hole 演說係今日唯一 macro catalyst，市場押注失望",
+        "AI semi 開始分化：NVDA 暴漲 vs MRVL 插 8%",
+        "比特幣衝3個月高位，礦工跑贏 AI 股",
+        "AI 變現落地：企業軟件全面重估（Figma/Atlassian/Adobe）",
+        "關稅+AI 夾擊令通脹黏住，Warsh 鷹派風險上升"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-28",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-leaning-bullish — 貼近高位 + complacent，今日全看 Warsh",
+      "headlines": [
+        "Fed Chair Warsh Jackson Hole 首秀 10pm HKT",
+        "軟件股集體 re-rating：CRM +22.6% / CRWD +20.5% / OKTA +28.6%",
+        "MRVL 上調指引照插 8% — AI semi 開始分化",
+        "Bitcoin 衝 3 個月高位後回吐；黃金貼近歷史高位整固"
+      ],
+      "focus": [
+        "軟件股 — AI 變現落地（CRM/CRWD/OKTA/ADBE）",
+        "AVGO 9/2 業績 — $1.7 兆 AI semi 方向驗證",
+        "MRVL — semi 分化 warning signal",
+        "Warsh 演說 — 今日唯一 macro 變數"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-08-28（週五）\n\n## Fed Context\nFOMC 下一個會議：**9 月 15-16**（有 dot plot + press conference）。已完成 Jan/Mar/Apr/Jun/Jul 五次會議。今日焦點係**新任 Fed 主席 Kevin Warsh 喺 Jackson Hole 首次公開演說**（HKT 10pm／ET 10am）——呢個係佢上任後第一個重大 policy signal 平台。市場普遍押注「失望」：冇新 rate 訊號，重申 data-dependent。但要注意 sticky inflation 背景（關稅 + AI capex 雙重推升），Warsh 若有任何偏鷹表述，會係 tail risk。VIX 只有 14.4，債息 10Y 4.67% 穩定——市場定價咗一個極度溫和嘅劇本，under-react 空間細、over-react 風險高。\n\n## 📰 今日重點頭條（Raw Headlines）\n1. [bloomberg] Warsh「唔太可能失去對債市嘅控制」——Jackson Hole 前哨\n2. [247wallst] Wall St 策略師：關稅 + AI 雙重夾擊令通脹黏住\n3. [cointelegraph] Bitcoin 熊市「結束」——CryptoQuant CEO 指價格指標重演 2023 復甦\n4. [investing_com] Needham 上調 AFRM 目標價至 $100（強勁業績）\n5. [investing_com] Morgan Stanley 上調 GAP 目標價至 $23（毛利改善）\n6. [investing_com] 委內瑞拉擬退出 OPEC（美委關係加深）\n7. [nytimes] 「拆解全球最強公司」——Google 反壟斷／FTC 調查 YouTube 續報\n8. [investing_com] 尼泊爾洪水重建料耗 $50 億，利好工程股\n9. [investing_com] Needham 上調 WDAY 目標價（agent 動能）\n10. [tradingview] 黃金技術面：$4604 retest trap，$4640 主動抬價\n\n## 🌍 隔夜市場\n- **美股收市**：SPY $771.10 (+0.66%)、QQQ $721.11 (+1.37%)、DIA $535.22 (+0.19%)——三大指數全部貼近歷史高位（SPY 距 52wk high 779 只差 ~1%）\n- **科技領漲**：QQQ (+1.37%) 明顯跑贏 SPY (+0.66%)，係軟件股業績帶動\n- **VIX 14.44**：極低，市場 complacent\n- **債息**：10Y 4.67%，穩定\n- **黃金**：$4,652 (+0.93%)，貼近歷史高位整固\n- **原油**：$82.82 (-0.85%)，委內瑞拉退出 OPEC 消息\n\n## 📈 昨日爆升／暴跌榜（上一交易日）\n**📈 有意義嘅爆升（剔除 penny／槓桿 ETF）：**\n- OKTA +28.6%（Okta 業績大超預期）\n- CRM +22.6%（Salesforce 業績爆表，AI 變現）\n- CRWD +20.5%（CrowdStrike 業績強勁）\n- NVDA +8.7%（半導體龍頭回升）\n**📉 暴跌榜**：主要係 penny／SPAC／微市值（SMJF -87%、KXIN -71%、BRNX -38%），唯一可辨認係 WEN -13.6%（Wendy's）\n**📊 活躍榜**：NVDA、MSTR +11.5%、INTC +4.4%、PLTR +4.7%、SOXL +5.5%、SMCI\n**Sector theme**：**軟件股集體 re-rating**——CRM/CRWD/OKTA 三家一齊業績爆表，AI 變現終於喺 software 落地。呢個係 AI trade 由 semi 擴散到 software 嘅明確信號。\n\n## 📡 今日重點事件（來源：macro_calendar.json）\n- 🔴 **10:00pm HKT｜Fed Chair Warsh Speech（Jackson Hole）**\n- 🔴 **10:00pm HKT｜Non Farm Payrolls Annual Revision Prel**（prev -911）\n- 🟡 9:45pm HKT｜Chicago PMI（Aug）prev 57.6 / fcast 57\n- 🟡 10:00pm HKT｜Michigan Consumer Sentiment Final（Aug）prev 55.2 / fcast 51\n- 🟡 全日｜Jackson Hole Symposium\n\n## 🔥 Sector Watch\n- **軟件**：momentum 最強，AI 變現落地（CRM/CRWD/OKTA/ADBE/WDAY 全線 re-rating）\n- **半導體**：揀股模式開始——NVDA +8.7% 強勢，但 MRVL 上調指引照插 8%（semi 分化）\n- **加密**：BTC 衝 3 個月高位後回吐，礦股活躍（MSTR +11.5%、MARA）\n- **黃金**：貼近歷史高位整固，Warsh 演說係關鍵催化\n- **能源**：委內瑞拉退出 OPEC 消息壓油價\n\n## 🎯 今日機會（News Curator 整合）\n- **軟件主題**：AI 變現落地，CRM/CRWD/OKTA/ADBE 續報 re-rating——今日可跟進 ADBE（Sep 10 業績前 positioning）\n- **MRVL（WATCH）**：上調指引但股價 -8%，係 semi 分化嘅 warning signal。若今日 follow-through 反彈，代表市場重新消化；若繼續跌，semi 進入「show me」模式\n- **GLD／黃金（WATCH）**：貼近歷史高位，Warsh 演說若偏鴿會進一步推升，偏鷹則回吐\n- **GAP +12%**：新 Old Navy CEO + 毛利改善，MS 上調目標價——消費零售回暖 signal\n- **AFRM**：Needham 上調至 $100，強勁業績\n\n## 📅 未來一個月業績重點\n- **9/1（週二）**：DELL $301B、PANW $277B、MDT $118B\n- **9/2（週三）**：**AVGO $1,692B 🎯**（下一個重大 AI semi 業績）、SNOW $109B、HPE $73B\n- **9/3（週四）**：CIEN $57B\n- **9/8（週二）**：**ORCL $429B 🎯**\n- **9/10（週四）**：**ADBE $115B 🎯**\n- **AVGO 係下週最重磅**：$1.7 兆市值，AI semi 方向嘅關鍵驗證。若 AVGO 指引強，semi 分化收窄；若指引弱，semi 進一步揀股。\n\n## 📋 今日 Agenda\n- 今日唯一焦點：**Warsh Jackson Hole 演說 10pm HKT**\n- 9/1：ISM Manufacturing + JOLTs\n- 9/4：NFP + 失業率\n- 9/15-16：**FOMC 會議（dot plot）**\n\n## 💡 My Take\n**Neutral-leaning-bullish。** 三大指數貼近歷史高位 + VIX 14.4，市場極度 complacent。今日 100% 係 Warsh——佢首次 Jackson Hole 演說，市場押注「失望」（冇新 signal），但 sticky inflation 背景下令 tail risk 比平時高。真正值得睇嘅唔係個股，而係兩個結構性 signal：① **軟件股 re-rating**（AI 變現由 semi 擴散到 software，健康嘅 broadening）；② **MRVL -8% 反映 semi 進入揀股模式**——AI 由「一齊升」轉向「揀對嘅先有得升」。呢個對後市 trading 難度係質變。若 Warsh 冇出意外，我傾向跟軟件 momentum；若佢偏鷹，gold 同 semi 會係最先受壓嘅兩個。",
+      "risks": [
+        "Warsh 偏鷹表述（sticky inflation）——gold/semi 先受壓",
+        "VIX 14.4 極度 complacent，over-react 風險高",
+        "semi 進入揀股模式，broad AI rally 結束"
+      ],
+      "my_take": "Neutral-leaning-bullish。三大指數貼近歷史高位 + VIX 14.4 極度 complacent。今日 100% 聚焦 Warsh Jackson Hole 首秀（10pm HKT），市場押注「失望」但 sticky inflation 令 tail risk 高。真正 signal 有二：軟件股集體 re-rating（AI 變現由 semi 擴散到 software，健康 broadening）；MRVL 上調指引照插 8%，semi 進入揀股模式。Warsh 冇意外就跟軟件 momentum，偏鷹則 gold/semi 先受壓。"
     }
   ],
   "news_curator": [
