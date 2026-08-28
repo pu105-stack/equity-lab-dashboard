@@ -6192,6 +6192,66 @@
         "VIX 14.95 太低 = complacency"
       ],
       "my_take": "NVDA 業績爆表 +7% 係今日最強 catalyst，AI 半導體 risk-on 延續；但半導體關稅 + Jackson Hole Warsh 演說係兩個 underappreciated 風險。今日關鍵係 NVDA 高開後有冇 hold 住，VIX 14.95 太低，追高要留一手。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-28",
+      "time": "08:10 HKT",
+      "status": "success",
+      "market_direction": "NVDA 單日 +$442B 領漲科技，AI 軟件板塊（CRM/CRWD/OKTA）全面重估；Jackson Hole Warsh 演說前市場謹慎",
+      "headlines": [
+        "[RECENT] ACTION: NVDA — $442B 史上第二大單日暴漲，分析師喊 $1T 年營收",
+        "[RECENT] WATCH: SOFTWARE — CRM/CRWD/OKTA 齊創史上最佳單日，AI 軟件重估",
+        "[RECENT] WATCH: MACRO — Jackson Hole Warsh 演說，市場 hedge 美元反彈",
+        "[NEW] WATCH: MRVL — 上調指引但股價插，AI semi 分化",
+        "[NEW] ACTION: ENERGY — 歐洲天然氣庫存 20 年新低",
+        "[NEW] MEME: HOOD — Webull/Robinhood retail 情緒延續"
+      ],
+      "opportunities": [
+        "NVDA: 業績+Hugging Face 雙催化已反映大半，短線唔追高；等 Warsh 演說後回調係更好入場位",
+        "ENERGY/UNG/EQT: 冬季前天然氣最清晰 supply-demand 背離，結構性長倉機會",
+        "META: $18B 尾風險清 + brand 修復，portfolio holding 可繼續持有"
+      ],
+      "analysis": "US session 主線係 NVDA $442B 暴漲帶動科技，但更重要係 AI 行情由 hardware 擴散到 software（CRM +22%、CRWD 史上最佳、OKTA +29%）。Cramer 話 NVDA+CRM 業績推翻兩個 bear narrative（AI 無盈利、software 唔受惠 AI）。但 market breadth 收窄——NVDA 獨力拉指數，係隱憂。今日最大 catalyst 係 Warsh Jackson Hole 演說，鷹派 surprise 會令科技回調。",
+      "risks": [
+        "Warsh 演說鷹派 surprise → 科技股回調",
+        "Market breadth 收窄，NVDA 獨力支撐指數，反彈脆弱",
+        "MRVL 指引上調仍插水，AI semi 分化，second-tier 減倉風險",
+        "Trump 制裁中國銀行（Iran ties）隨時反轉 trade truce 利好"
+      ],
+      "my_take": "市場正經歷 rotation：由 AI hardware（NVDA 獨強）擴散到 AI software（CRM/CRWD/OKTA 齊創紀錄）。但一切都喺 Jackson Hole Warsh 演說嘅陰影下——呢個係今日真 binary catalyst，市場已開始 hedge 美元反彈。NVDA $442B 暴漲反映 rally 高度集中、breadth 收窄，係脆弱訊號。最清晰嘅結構性機會係歐洲天然氣（庫存 20 年新低），supply-demand 故事獨立於 Fed，係今次少有嘅長倉機會。",
+      "key_takeaways": [
+        "AI 行情由 hardware 擴散到 software，結構性 rotation",
+        "Jackson Hole Warsh 演說係今日最大 macro catalyst",
+        "歐洲天然氣庫存 20 年新低 = 最清晰結構性長倉",
+        "Market breadth 收窄係反彈脆弱警號"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-28",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "一個引擎嘅牛市 — AI 獨強、breadth 極窄、等 Warsh 演說定方向",
+      "headlines": [
+        "CRM/CRWD/OKTA 業績齊爆 — AI 軟件史上最佳單日（+20~29%）",
+        "NVDA hold 住業績後升幅 +8.74% 到 227.98",
+        "MRVL 上調指引照插 -1.49% — second-tier AI semi de-rate",
+        "Warsh 今晚 10PM HKT 演說 = 今日最大 binary catalyst"
+      ],
+      "opportunities": [
+        "CRM/CRWD/OKTA: AI 軟件重估延續性，下站 AVGO(9/2) 終極驗證",
+        "UNG/EQT: 歐洲天然氣庫存 20 年新低，鷹派 hedge 方向",
+        "MRVL/AMD: second-tier semi de-rate 嘅 spillover 風險"
+      ],
+      "analysis": "【美股收市回顧 — 2026-08-28 08:30 HKT】（檢討 8/27 Thu 美國時段）\n\n■ 今日重點頭條（Raw Headlines）\n過去 24h 嘅 news_summary DB raw feed 低訊號主導——大部分係 TradingView 技術 setup（ENA/XAU/BTC 圖表）、insider 減持（Reddit 董事 -$820K、Schwab 董事 -$1M、Upstart CFO）同特朗普改名新聞。真正 drive market 嘅 catalyst 係三單 AI 軟件業績 + Warsh 演說預期，呢啲 News Curator 已捕捉。raw feed 冇遺漏重大事件。\n\n■ Market Recap\nSPY 771.10（+0.66%）、QQQ 721.11（+1.37%）、DIA 535.22（+0.19%）、IWM 299.81（+0.29%）。\nVIX 14.51（-4.6%）——再創本輪新低，complacency 進一步深化，配合今晚 Warsh 演說構成唔對稱事件風險。\nSector 分化極端：XLK +3.16%、SMH +3.10% 獨自領漲；XLP -1.38%、XLV -1.13%、XLY -1.09%、XLC -1.07%、XLRE -0.95% 全線跑輸。\nBreadth 極窄：QQQ +1.37% 對比 IWM +0.29%——係「一個引擎拉動」嘅典型，防守/消費/醫保全面退潮，資金高度集中喺 AI 一條主線。\n\n■ Notable Movers\nAI 軟件三箭齊發（史上最佳單日）：OKTA +28.63%、CRM +22.58%、CRWD +20.50%。\nNVDA +8.74% 到 227.98——業績後唔只 hold 住 +7%，仲 extend 咗，Morning Scan「高開有冇 hold 住」嘅關鍵測試 pass 咗。\nAI infra 跟升：NET +8.19%、DDOG +6.70%、PLTR +4.75%、AVGO +4.49%、SNOW +4.36%。\nSecond-tier AI semi 分化：MRVL -1.49%（上調指引照插）、AMD -0.89%——「贏家繼續贏，二線掉隊」。\nMETA -0.87%（$18B 尾風險清咗但今日唔郁）、GOOGL -0.39%（FTC YouTube 陰影）、BURL -7.64%（Seeking Alpha 話 overreaction）。\n\n■ News That Mattered\n1. AI 軟件業績潮 = 今日主角。NC 噚晚 20:07 已 flag「AI 軟件板塊（CRM/CRWD/OKTA）全面重估」WATCH——命中，而且幅度（+20~29%）遠超「重估」級別，係板塊級嘅 paradigm shift：AI 故事由 hardware（NVDA 獨強）正式擴散到 software。\n2. NC ACTION NVDA「短線唔追高，等 Warsh 後回調」——回調冇嚟，NVDA 由 +7% extend 到 +8.74%。方向保守，實質打咗臉；但個 caution 邏輯（Warsh 前唔追高）仍然成立。\n3. NC ACTION ENERGY（UNG/EQT）——今日 flat（UNG +0.19%、EQT -0.04%），歐洲天然氣庫存 20 年新低嘅 structural story 完整，但未有 price catalyst，繼續持倉等。\n4. NC WATCH MRVL「上調指引但股價插」——命中，second-tier AI semi de-rate 訊號確認，同 AMD -0.89% 互相印證。\n\n■ Opportunities Carry Forward\n1. AI 軟件重估延續性：CRM/CRWD/OKTA 三隻齊爆係板塊級 signal，唔係單一股票事件。下一步係「重估會唔會擴散去第二梯隊」（SNOW/DDOG/NET 已跟，但幅度收窄）。下星期 AVGO（9/2）業績係 AI capex thesis 嘅終極驗證——若 AVGO 爆，成個 AI 生態（hardware+software）坐實新一輪 re-rating。\n2. 歐洲天然氣結構性長倉（UNG/EQT）：庫存 20 年新低 + 冬季前 supply-demand 背離，story 獨立於 Fed。係今晚 Warsh 若鷹派時最好嘅 hedge 方向。\n3. Second-tier AI semi de-rate 嘅 spillover：MRVL/AMD 掉隊，若 AVGO 都 guide 失望，留意成個 semi 板塊（SMH +3.10% 今日升幅）回吐風險。\n\n■ Risks / Watchlist（今晚，SOURCE OF TRUTH: macro_calendar.json）\n🔴 10:00PM HKT — Fed Chair Warsh Speech（HIGH）← 今日真 catalyst，binary event\n🔴 10:00PM HKT — Non-Farm Payrolls Annual Revision Prel（HIGH）——年度基準修訂，可能改寫就業圖景，間接影響 Fed 立場\n🟡 09:45PM HKT — Chicago PMI（Aug）\n🟡 10:00PM HKT — Michigan Consumer Sentiment Final（Aug）\n明日（8/29 Sat）Jackson Hole Symposium 最後一日（MED）。\nFOMC：下次會議 Sep 15-16（有 projections），Warsh 今晚口風直接 set 呢個 meeting 嘅 tone。\n\n■ My Take\n今日係「一個引擎嘅牛市」——AI hardware + software 獨自拉動，breadth 極窄，防守板塊全面退潮。呢種極端集中度係脆弱訊號，唔係健康牛市。但短期 momentum 未熄：AI 重估有真業績支撐（CRM/CRWD/OKTA/NVDA 全係 beat）。今晚 Warsh 演說係方向分水嶺——鷹派（加息 signal）→ 集中度極高嘅 rally 最易反轉；dove → AI re-rating 延續到 AVGO（9/2）。Bias：neutral-to-bullish，但唔會喺 VIX 14.5 + Warsh 前加碼追高。",
+      "risks": [
+        "Warsh 口頭鷹派 → 集中度極高 rally 反轉",
+        "NFP 年度修訂可能改寫就業圖景",
+        "VIX 14.51 極低 = 唔對稱事件風險",
+        "breadth 極窄 = 脆弱訊號"
+      ],
+      "my_take": "一個引擎嘅牛市——AI hardware+software 獨強、breadth 極窄、VIX 14.51 深化 complacency。AI 重估有真業績支撐，但集中度極高係脆弱訊號。今晚 Warsh 演說係方向分水嶺：鷹派反轉、dove 延續到 AVGO(9/2)。"
     }
   ],
   "news_curator": [
