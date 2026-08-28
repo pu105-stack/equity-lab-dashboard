@@ -6278,6 +6278,37 @@
         "semi 進入揀股模式，broad AI rally 結束"
       ],
       "my_take": "Neutral-leaning-bullish。三大指數貼近歷史高位 + VIX 14.4 極度 complacent。今日 100% 聚焦 Warsh Jackson Hole 首秀（10pm HKT），市場押注「失望」但 sticky inflation 令 tail risk 高。真正 signal 有二：軟件股集體 re-rating（AI 變現由 semi 擴散到 software，健康 broadening）；MRVL 上調指引照插 8%，semi 進入揀股模式。Warsh 冇意外就跟軟件 momentum，偏鷹則 gold/semi 先受壓。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-08-29",
+      "time": "06:05 HKT",
+      "status": "success",
+      "market_direction": "AI 業績周收尾，硬件→軟件 broadening 主線；Warsh Jackson Hole 演說係最大 macro 變數，consumer crack（DKS）同 AI semi 二線分化（MRVL）係 bread 收窄警號。",
+      "opportunities": [
+        "🎯 UNG: 歐洲天然氣 supply-demand 背離（Qatar LNG 崩 96% + EU 庫存 20 年新低），獨立於 Fed 嘅結構性長倉",
+        "🎯 CRM: AI 變現落地，史上最佳季度 +22.58%，Anthropic $3.2B 回報，AI software paradigm shift",
+        "🎯 CRWD: 「Mythos moment」AI 網絡安全浪潮，史上最佳季度，結構性 demand driver",
+        "📡 NVDA: 業績爆表（Q2 翻倍 + FY28 +70%）反駁見頂熊論，但 OpenAI 晶片/ASIC/關稅未除",
+        "📡 GLD: Debasement trade 推金價 3 個月高位，但 PCE 黏性 + Warsh 鷹派係判定變數",
+        "📡 MU: 記憶體短缺 2017 最嚴重 vs Apple 中國晶片 + 50% 關稅，兩邊對壘",
+        "📡 META: $18B 尾風險清 + brand 修復 vs AI capex FCF 壓力"
+      ],
+      "risks": [
+        "⚠️ DKS: -30.7% 史上最差日，footwear 消費裂縫擴散至 NKE/LULU",
+        "⚠️ MRVL: 上調指引照插 -8%，AI semi 二線掉隊，breadth 收窄警號"
+      ],
+      "analysis": [
+        "本週兩條主線對撞：① AI earnings 確認需求冇見頂（NVDA Q2 翻倍 + FY28 +70% 指引，直接反駁「AI capex 見頂」熊論；AI software broadening——CRM/CRWD/OKTA 齊創史上最佳單日，AI 由 hardware 蔓延到 software 嘅 paradigm shift）；② debasement trade 撞上 Warsh 鷹派演說（Bessent TGA 買債推金價 3 個月高位，但 PCE 核心 3.3% 黏性 + Warsh Jackson Hole 首秀，實質利率方向係判定）。\n\n最清晰嘅結構性機會係歐洲天然氣——Qatar LNG 出口崩 96% + EU 庫存 20 年新低，supply-demand 完全獨立於 Fed。其次 AI software 重估（CRM/CRWD），但單日 +20~29% 後要揀位入。\n\n最大風險係兩處 breadth 收窄訊號：① consumer crack（DKS -30.7%、INTU 弱），消費降級由 footwear 擴散；② AI semi 二線分化（MRVL 上調指引照插 -8%、AMD 跌），市場由「一齊升」轉向「揀股」。呢兩個訊號都指向 rally 高度集中、脆弱——一個引擎拉動。"
+      ],
+      "my_take": "AI 主線 intact，但愈嚟愈揀股，唔好再一籃子買。真正乾淨嘅加倉係歐洲天然氣（UNG/EFT）——基本面背離同 Fed 無關，係本週最少變數嘅 trade。AI software（CRM/CRWD）係結構性 broadening，但單日 +20%+ 之後追高冇 edge，等回調。NVDA 需求 hard data 太硬，我 lean bullish，但 OpenAI 晶片 + 關稅係真 threat，等塵埃落定。Debasement trade（GLD）生死押喺 Warsh 一句話，演說前唔 pre-position。最擔心嘅係 DKS 消費裂縫同 MRVL 二線掉隊——breadth 收窄係早期警號，下星期如果擴散，成個 risk-on 都要重新評估。",
+      "focus": [
+        "AI Software Monetization: CRM, CRWD",
+        "European Nat Gas: UNG",
+        "AI Hardware Crossroads: NVDA",
+        "Debasement Trade: GLD",
+        "Consumer Downgrade: DKS"
+      ]
     }
   ],
   "news_curator": [
