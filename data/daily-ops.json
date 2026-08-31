@@ -6309,6 +6309,60 @@
         "Debasement Trade: GLD",
         "Consumer Downgrade: DKS"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-31",
+      "time": "08:10 HKT",
+      "status": "success",
+      "market_direction": "Stagflation 風險升溫：伊朗空襲推高油價 + Warsh 鷹派推高加息預期，夾擊 rate-sensitive 增長股；debasement trade 首現裂痕",
+      "headlines": [
+        "[NEW] ACTION: OIL (XOM/CVX) — 美國空襲伊朗 Hormuz，油價 +2%，地緣風險溢價重燃",
+        "[NEW] ACTION: AVGO/DELL/PANW/SNOW — 本周業績周，AI semi 試金石",
+        "[RECENT] WATCH: MACRO — Warsh 鷹派演說後市場押注 9 月加息",
+        "[RECENT] WATCH: NVDA — 周五反轉，$215 測試",
+        "[RECENT] WATCH: BTC — ETF 結束 9 日淨流入"
+      ],
+      "opportunities": [
+        "OIL (XOM/CVX): 伊朗空襲 Hormuz，oil +2%，Hormuz 佈雷 tail risk 未完全 priced",
+        "AVGO (9/2, EPS $3.22): AI semi 試金石；DELL (9/1, $51.3B backlog): 睇 AI server 變現"
+      ],
+      "analysis": "本周兩大主線（伊朗 + Warsh）指向同一方向：stagflation。油價成本衝擊 + 金融條件收緊，double squeeze 增長股。debasement trade（金+BTC）首現裂痕。",
+      "risks": [
+        "伊朗衝突升級 → Hormuz 關閉 → 油價 spike",
+        "就業強勁 → 9 月加息 → debasement trade 反轉"
+      ],
+      "my_take": "Contrarian angle：市場低估加息情景，能源/commodity 係唯一避風港。關鍵 watchlist：周五就業報告、AVGO 業績 (9/2)、伊朗會否報復。",
+      "key_takeaways": [
+        "伊朗空襲 + 油價 +2% 係 fresh catalyst，但 6 個月戰爭令市場已習慣低強度衝突",
+        "Warsh 鷹派 + 就業報告 = 本周 macro 決勝點",
+        "AVGO/DELL 業績係 AI 估值壓力測試"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-08-31",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "Debasement trade 首現裂痕——Warsh 鷹派壓低金/BTC，伊朗空襲推高油價，stagflation 雙擠壓",
+      "headlines": [
+        "Warsh Jackson Hole 鷹派 → 9 月加息押注升溫，10Y +5bp 至 4.72%、美元 +0.5%",
+        "NVDA 週五 nasty reversal (-4.57%)，測試 $215 業績後支撐",
+        "美國空襲伊朗 Larak Island，油價 +2%，旨在阻止 Hormuz 佈雷",
+        "Debasement trade 首現裂痕：GLD -3.24%、BTC 破 $80K",
+        "MRVL 上調指引照插 10%——AI semi 開始分化，broad rally 結束"
+      ],
+      "opportunities": [
+        "OIL (XOM/CVX): 伊朗空襲 + Hormuz tail risk，油價 +2%，stagflation 唯一避風港",
+        "DELL/PANW (9/1) + AVGO/SNOW (9/2): 本週 AI semi 業績試金石，重點睇指引"
+      ],
+      "analysis": "📊 Evening Review — 8月31日（週一）｜回顧週五 8/28 收市\n\n## Fed Context\nFOMC 下一個會議：**9 月 15-16**（有 dot plot + press conference）。已完成 Jan/Mar/Apr/Jun/Jul 五次。\n本週關鍵：**Warsh Jackson Hole 首秀（週五 10pm HKT）已落地，偏鷹**——市場由「押注失望」轉「押注 9 月加息」。10Y 債息 +5bp 至 4.72%，美元 +0.5% 至 99.70。\n週五就業報告（9/4）係決勝點：如果 NFP 強 + 油價衝擊令 CPI 黏住，9 月加息情景會由 tail risk 升做 base case。\n\n## 📰 今日重點頭條（Raw Headlines）\n1. [cnbc] NVDA 週五「nasty reversal」——元兇係 Fed 加息預期，$215 業績後測試（NVDA）\n2. [axios/ft] 美國空襲伊朗 Larak Island 火箭發射器——近一個月首次，旨在阻止 Hormuz 佈雷，油價 +2%（USO）\n3. [marketwatch] Warsh Jackson Hole 鷹派後加息機率上升，美股期貨持平\n4. [bloomberg] Oil Rises on Iran Tensions, US Stock Futures Dip——伊朗緊張 + 油升 + 期貨跌\n5. [tradingview] DELL $500 / PANW $390 / SNOW $335 業績測試——本週 AI semi 試金石\n6. [bloomberg] Bessent：G20 應考慮對中國加設貿易壁壘以收窄失衡\n7. [bloomberg] Shien 香港 IPO debut\n8. [tradingview] Gold Weekly Outlook：4,700 supply vs 4,300 liquidity（但週五金價實際 crack）\n9. [247wallst] Ripple 開始代客交易華爾街股票（XRP）\n\n（NC 已捕捉：#1、#2、#3、#5；raw news 額外見到：Bessent 對華貿易壁壘、Shien IPO）\n\n## 1. 📊 Market Recap（週五 8/28 收市）\n- **SPY** $769.35 (-0.23%)、**QQQ** $716.43 (-0.65%)、**DIA** $535.06 (-0.03%)——三大指數貼近歷史高位微跌，QQQ 明顯跑輸\n- **Sector**：贏家 = XLC 通訊 (+1.42%)、XLY 非必需消費 (+1.15%)、XLE 能源 (+0.63%)、XLF 金融 (+0.38%)；輸家 = XLK 科技 (-1.55%)、XLU 公用 (-1.04%)、XLI 工業 (-0.93%)\n- **VIX 14.43**：仍然極度 complacent，但債息/美元齊升揭示 underlying hawkish shift\n- **10Y 債息 4.67% → 4.72%**（+5bp）、美元 99.16 → 99.70——Warsh 鷹派直接推升\n- **Signal**：呢個係「rotation not selloff」——資金由 rate-sensitive 科技/半導體輪入 value/能源/通訊，唔係全面 risk-off\n\n## 2. 🔥 Notable Movers\n**📉 跌幅榜（有意義）**：\n- **MRVL -10.28%**：上調指引照插——AI semi 開始分化，broad rally 結束（Morning Scan 已 call）\n- **NVDA -4.57%**：週五 nasty reversal，收 $217.55，測試 $215 業績後支撐——元兇係 Fed 加息預期\n- **CRWD -4.19% / OKTA -3.86%**：軟件 momentum 反轉，週四 re-rating 獲利回吐\n- **DELL -3.39% / PANW -2.94%**：9/1 業績前 de-risk\n- **GLD -3.24%**：黃金單日 crack——debasement trade 首現裂痕\n- **BTC -3.02%**：跌破 $80K（$77.8K），ETF 淨流入斷纜\n\n**📈 升幅榜**：\n- MSFT +1.68% / AAPL +1.63% / CRM +1.57% / META +1.21%——mega-cap 軟件/通訊吸金，避開 semi\n- CVX +1.05%——伊朗地緣溢價\n\n**Signal**：mega-cap rotation 明顯——錢由 AI semi（NVDA/MRVL）流入 mega-cap 軟件（MSFT/CRM）同 value。半導體 broad beta 結束，揀股模式開始。\n\n## 3. 📰 News That Mattered\n1. **Warsh 鷹派落地（最大 catalyst）**：Jackson Hole 首秀偏鷹，市場由「押注失望」轉「押注 9 月加息」。直接後果 = debasement trade 首現裂痕（金 -3.24%、BTC 破 $80K）。\n2. **NVDA reversal**：AI semi 龍頭週五反轉，$215 測試。唔係業績問題，係估值 vs 加息預期嘅擠壓。\n3. **MRVL 上調指引照插 10%**：最清晰嘅「好業績救唔到估值」signal。\n4. **週末伊朗空襲（new overnight）**：美國空襲 Larak Island，旨在阻止 Hormuz 佈雷。油價 +2%，但 Hormuz 受干擾 tail risk 未完全 priced。\n5. **NC calls 覆盤**：\n   - ✅ OIL (XOM/CVX)——中咗，伊朗空襲令油價 +2%，能源 +0.63%\n   - ✅ MACRO Warsh 鷹派——完全中咗，gold/semi 受壓\n   - ✅ NVDA 反轉——中咗\n   - ✅ BTC 破位——中咗\n   - ⏳ AVGO/DELL/PANW/SNOW 業績周——pending，9/1-9/2 揭曉\n\n## 4. 🎯 Carry Forward\n- **能源 (XOM/CVX)**：伊朗 + stagflation 雙主線，Hormuz tail risk 未 priced。唯一明確避風港。\n- **本週業績周（DELL/PANW 9/1、AVGO/SNOW 9/2）**：AI semi 試金石。重點睇指引——MRVL 已示範「beat 冇用，guide 先係關鍵」。\n- **Gold crack 係 dip 定 trend?**：金 -3.24% 係 debasement unwind 嘅第一個 signal。如果 9 月加息機率持續上升，金/BTC 仲有下行；但伊朗地緣係反向支撐。呢個係本週最值得跟嘅 setup。\n- **Mega-cap 軟件（MSFT/CRM/AAPL）**：資金輪入目的地，broadening 嘅受益者。\n\n## 5. ⚠️ Risks / Watchlist\n- **今晚（8/31）10:30pm HKT**：Dallas Fed Manufacturing（MED）\n- **聽日（9/1）10:00pm HKT**：JOLTs 職位空缺（HIGH，prev 7.359M）+ ISM 製造業 PMI（HIGH，prev 55.6）——就業/製造業 data 會影響加息押注\n- **週五（9/4）就業報告**：本週決勝點。強 NFP + 油價衝擊 = 9 月加息情景升溫\n- **伊朗報復 → Hormuz 受干擾**：油價 tail risk，直接打擊 stagflation 情景\n- **Debasement unwind 加速**：金/BTC 若加息機率續升仍有下行\n\n## 6. 💡 My Take\n週五係「debasement trade 裂開」嘅一日——Warsh 鷹派令金 -3.24%、BTC 破 $80K，呢個係 regime signal 唔係 noise。加上週末伊朗空襲推高油價，兩條主線指向同一個方向：stagflation。市場過去一個月押注 Fed 寬鬆嘅 debasement trade 開始解體，energy/commodity 係唯一避風港。\n**明日 bias：cautious / risk-off lean**——rate-sensitive 增長股繼續受壓，能源 + value 防守。關鍵等 JOLTs + ISM（9/1）同週五就業報告定加息情景。\n",
+      "risks": [
+        "今晚 Dallas Fed Manufacturing (MED)；聽日 JOLTs + ISM (HIGH)",
+        "伊朗報復 → Hormuz 受干擾（油價 tail risk）",
+        "Debasement unwind 加速：金/BTC 若加息機率續升仍有下行"
+      ],
+      "my_take": "Debasement trade 首現裂痕（金 -3.24%、BTC 破 $80K），元兇係 Warsh 鷹派。週末伊朗空襲推高油價，兩條主線指向 stagflation。明日 bias 係 cautious/risk-off lean，能源係唯一避風港，等 JOLTs + ISM（9/1）同週五就業報告定加息情景。"
     }
   ],
   "news_curator": [
