@@ -6311,35 +6311,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-08-31",
-      "time": "08:10 HKT",
-      "status": "success",
-      "market_direction": "Stagflation 風險升溫：伊朗空襲推高油價 + Warsh 鷹派推高加息預期，夾擊 rate-sensitive 增長股；debasement trade 首現裂痕",
-      "headlines": [
-        "[NEW] ACTION: OIL (XOM/CVX) — 美國空襲伊朗 Hormuz，油價 +2%，地緣風險溢價重燃",
-        "[NEW] ACTION: AVGO/DELL/PANW/SNOW — 本周業績周，AI semi 試金石",
-        "[RECENT] WATCH: MACRO — Warsh 鷹派演說後市場押注 9 月加息",
-        "[RECENT] WATCH: NVDA — 周五反轉，$215 測試",
-        "[RECENT] WATCH: BTC — ETF 結束 9 日淨流入"
-      ],
-      "opportunities": [
-        "OIL (XOM/CVX): 伊朗空襲 Hormuz，oil +2%，Hormuz 佈雷 tail risk 未完全 priced",
-        "AVGO (9/2, EPS $3.22): AI semi 試金石；DELL (9/1, $51.3B backlog): 睇 AI server 變現"
-      ],
-      "analysis": "本周兩大主線（伊朗 + Warsh）指向同一方向：stagflation。油價成本衝擊 + 金融條件收緊，double squeeze 增長股。debasement trade（金+BTC）首現裂痕。",
-      "risks": [
-        "伊朗衝突升級 → Hormuz 關閉 → 油價 spike",
-        "就業強勁 → 9 月加息 → debasement trade 反轉"
-      ],
-      "my_take": "Contrarian angle：市場低估加息情景，能源/commodity 係唯一避風港。關鍵 watchlist：周五就業報告、AVGO 業績 (9/2)、伊朗會否報復。",
-      "key_takeaways": [
-        "伊朗空襲 + 油價 +2% 係 fresh catalyst，但 6 個月戰爭令市場已習慣低強度衝突",
-        "Warsh 鷹派 + 就業報告 = 本周 macro 決勝點",
-        "AVGO/DELL 業績係 AI 估值壓力測試"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-08-31",
       "time": "08:36 HKT",
@@ -6363,6 +6334,64 @@
         "Debasement unwind 加速：金/BTC 若加息機率續升仍有下行"
       ],
       "my_take": "Debasement trade 首現裂痕（金 -3.24%、BTC 破 $80K），元兇係 Warsh 鷹派。週末伊朗空襲推高油價，兩條主線指向 stagflation。明日 bias 係 cautious/risk-off lean，能源係唯一避風港，等 JOLTs + ISM（9/1）同週五就業報告定加息情景。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-08-31",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "油價因美伊互襲升破 $90，但鷹派 Fed (Warsh) 令股市期貨走低、金價回落 — 地緣溢價與 risk-off 並存",
+      "headlines": [
+        "[RECENT] 🎯 OIL — 美伊互襲（7月來首次），油價升破 $90，Hormuz 超級油輪觸雷",
+        "[RECENT] ⚠️ MACRO — Warsh 鷹派演說後，日圓破 160 觸發干預警戒，9月加息押注升溫",
+        "[NEW] ⚠️ AAPL — John Ternus 接任 CEO，AI 係首個大挑戰",
+        "[NEW] 🔥 MEME — GME 突然爆升，散戶再度聚集",
+        "[RECENT] ⚠️ GOLD — 金價回落，鷹派 Fed 令孳息高企",
+        "[NEW] ⚠️ SHIPPING — 中東衝突推高航運回報"
+      ],
+      "opportunities": [
+        "OIL (XOM/CVX): 美伊互襲升溫，油價 $90，地緣溢價重燃 — 但注意委內瑞拉供應可能壓頂",
+        "SHIPPING: 中東衝突延長航線，油輪運費受惠 — 長線資金轉向",
+        "GME: 散戶 meme 動能，適合短線 momentum trade"
+      ],
+      "analysis": "本時段主軸係地緣衝突升級 + 鷹派 Fed 雙線並行。油價受美伊互襲（7月來首次）推升至 $90，Hormuz 超級油輪觸雷、Baghdad 煉油廠爆炸，同時 Trump 計劃奪取委內瑞拉 650億桶儲備回填 SPR — 短期地緣溢價 vs 中期供應增加互相角力。另一方面 Warsh 鷹派演說令 9月加息押注升溫，日圓破 160、金價回落，顯示市場對「利率」比「戰爭」更敏感。",
+      "risks": [
+        "美伊衝突若擴大到 Hormuz 全面封鎖，油價可能進一步 spike，拖累全球股市",
+        "Warsh 鷹派若成真，9月加息將重壓高估值成長股 (NVDA 等)",
+        "委內瑞拉供應若大量釋放，可能逆轉油價漲勢"
+      ],
+      "my_take": "市場的 tell 係：金價喺地緣衝突升級下不升反跌，說明資金真正 focus 嘅係 Warsh 鷹派加息路徑，唔係戰爭。油價 $90 係地緣溢價，但 Trump 奪取委內瑞拉儲備係結構性供應變量，會 cap 住油價 spike。最 actionable 嘅唔係追油，而係留意 9月加息預期對 growth/tech 嘅壓制 — 呢個先係真正嘅資金流向訊號。",
+      "key_takeaways": [
+        "油價 $90 = 地緣溢價，非結構性短缺（委內瑞拉供應即將加入）",
+        "Warsh 鷹派 = 真正主軸，9月加息押注升溫，日圓破 160",
+        "金價不升反跌 = 市場擔心利率多過戰爭",
+        "Apple 換 CEO (Ternus)，AI 轉型係首個考驗"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-08-31",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautious — Warsh 鷹派壓制 growth，油價地緣溢價但 cap spike",
+      "headlines": [
+        "Jackson Hole：Warsh 鷹派演說推升 9 月加息機率",
+        "油價升破 $90，美伊互襲（7月來首次）",
+        "NVDA -4.57%，高估值 growth 首當其衝",
+        "金價不升反跌（GLD -3.24%）= 利率主導非戰爭"
+      ],
+      "focus": [
+        "能源（XOM/CVX）— 油價 $90 地緣溢價，但委內瑞拉協議 cap spike",
+        "高估值 growth/tech（NVDA/semi）— 加息預期壓制估值",
+        "AVGO 周二 earnings — AI 板塊風向標"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n主導事件：Kevin Warsh 喺 Jackson Hole 嘅鷹派演說，直接推升 9 月加息機率，CNBC 甚至警告「Fed 可能與財政部 at odds」。呢個係今個 weekend 唯一嘅 macro 主線。\n\n- 最新 FOMC 會議 = 7月28-29，minutes 已出（8月24），無新 statement 需要處理\n- 下次 FOMC = 9月中（未來 7 日 macro calendar 內無 FOMC，只有密集 Fed 講話）\n- 本週 Fed 講話：Barr（Tue）、Beige Book（Thu）、Waller（Thu）、Hammack（Fri）\n- 信號：Warsh 鷹派 → 債息/美元走強壓力 → 對高估值 growth/tech 係直接壓制\n\n## 📰 今日重點頭條\n\n1. [CNBC] Jackson Hole：Warsh 演說推升加息機率，Fed 或與財政部對立 — 市場主導事件\n2. [NYTimes] 油價升破 $90，美伊互襲（7月來首次）— 地緣溢價重燃\n3. [NPR] 美國與委內瑞拉達成石油協議 — 結構性供應變量，cap 住油價 spike\n4. [TradingView] 鷹派 Fed 壓力打擊金價（GLD）— 金價與地緣脫鈎\n5. [CNBC] Aon 以 $170億收購 USI Insurance Services（AON）\n6. [CoinDesk] Sberbank 計劃加 ETH/USDT 作加密貸款抵押品\n7. [Cointelegraph] Hyperliquid/Pump.fun 佔加密回購近 90%\n\n## 🌍 隔夜市場（上周五收盤）\n\n- SPY -0.23%（$769.35）\n- QQQ -0.65%（$716.43）— 科技跑輸\n- DIA -0.03%（$535.06）— 道指/價值持平，資金避險\n- NVDA -4.57%（$217.55）— 高估值 growth 首當其衝\n- GLD -3.24%（$408.89）— 金價不升反跌 = 利率主導，唔係戰爭\n- XOM +0.17% / CVX +1.06% — 能源受惠油價\n- VIX 15.23（+5.5%）— 絕對水平仍低，但 risk-off 升溫\n\n## 📈 昨日市場爆升／暴跌榜\n\nFMP movers 大部分係 penny stocks（+2000% 呢類係 reverse split / 短線 pump），無 institution 跟進價值。唯一 meaningful signal 係 NVDA 跌 4.57% 且打入 most active。\n\n- 爆升榜：NXL +2843%、VBIO +2365%、CHGA +2082% — 全部 $1-7 微cap，無跟進價值\n- 暴跌榜：BTAI -75%、WETO -50% — 同樣微cap\n- 活躍榜：NVDA -4.57%（唯一有意義）— 確認 growth 拋售\n\nSector theme：唔係 sector rotation，係 macro-driven risk-off。唯一明確方向 = energy up / gold down / tech down。\n\n## 📡 今日重點事件（macro_calendar.json）\n\n- 今日（Mon Aug 31）：Dallas Fed Mfg Index（MED，10:30PM HKT）\n- 本週 HIGH：JOLTs（Tue Sep 1）、ISM Mfg PMI（Tue Sep 1）、ISM Services PMI（Thu Sep 3）、NFP + Unemployment Rate（Fri Sep 4）\n- Fed 講話：Barr（Tue）、Beige Book（Thu）、Waller（Thu）、Hammack（Fri）\n\n呢個係 heavy macro week，NFP 係壓軸。若就業數據強，進一步坐實 Warsh 鷹派路徑，growth 再跌一浪。\n\n## 🔥 Sector Watch\n\n- 🔴 風險：高估值 growth/tech（NVDA、半導體、AI）— 加息預期升溫直接打擊估值倍數\n- 🟢 動量：能源（XOM/CVX）— 油價 $90 + 地緣溢價\n- 🟢 防禦：道指/價值（DIA 持平）— 資金輪動去 value/cash-like\n- ⚠️ Gold：金價與地緣脫鈎，若 GLD 跌穿 $400 係利率主導嘅確認信號\n\n## 🎯 Pre-market Opportunities（News Curator 整合）\n\n- **OIL（XOM/CVX）— ACTION**：美伊互襲 + Hormuz 觸雷，但 Trump-委內瑞拉協議 cap 住 spike。部署：唔追高，CVX 已 +1% 而 XOM 落後；若今日油價回調係加倉機會\n- **SHIPPING — ACTION**：航線延長受惠運費，但非 tracked、低流動性，觀察為主\n- **MACRO（Warsh 鷹派）— WATCH**：對 growth/tech 壓制。部署：留意 NVDA/semi 會唔會續跌，NFP 強勁可能再跌一浪\n- **AAPL — WATCH**：John Ternus 接任 CEO，AI 轉型首個考驗，無即時催化\n- **GOLD — WATCH**：金價不升反跌，若跌穿 $400 係確認利率主導\n- **CRYPTO（Cronos）— WATCH**：$75M 借貸漏洞，邊緣事件\n- **GME — MEME（Viper）**：散戶 momentum，非我範疇\n\n## 📅 未來一個月業績重點\n\n本週：\n- Sep 1 AMC：DELL、PANW（AI infra + 網絡安全）\n- Sep 1 BMO：MDT\n- Sep 2 AMC：AVGO 🎯（$1.77T，est EPS $2.83）— 半導體/AI 巨頭，喺 Warsh 鷹派 + NVDA 拋售下，係成個 AI 板塊風向標\n- Sep 2 AMC：SNOW、HPE\n- Sep 3 BMO：CIEN\n\n下週：\n- Sep 8：ORCL 🎯（雲/資料庫，AI infra）\n- Sep 10：ADBE 🎯（軟件，AI 貨幣化考驗）\n\n之後：Sep 23 CTAS、Sep 24 COST、Sep 30 MU 🎯（記憶體）、Oct 1 ACN 🎯 / NKE 🎯、Oct 8 PEP/DAL\n\n## 📋 Today's Agenda\n\n- 今日事件清淡（只有 Dallas Fed Mfg），係暴風雨前嘅寧靜 — 本周尾 NFP 先係重頭戲\n- Key levels：SPY 上周五收 $769.35；若 Warsh 鷹派發酵，留意 QQQ 會否再下試\n- AVGO 周二收市後 earnings — 本周最大單一 catalyst\n\n## 💡 My Take\n\nMarket bias：Neutral-to-cautious（短期偏 risk-off）\n\n核心 tell：金價喺美伊互襲下不升反跌（GLD -3.24%），說明資金真正 focus 係 Warsh 鷹派加息路徑，唔係戰爭。油價 $90 係地緣溢價，但 Trump-委內瑞拉協議係結構性供應變量，會 cap 住油價 spike。\n\n最 actionable 嘅唔係追油，而係：① 留意加息預期對 growth/tech 嘅持續壓制（NVDA -4.57% 已係先兆）；② 本周 heavy macro（ISM Mfg/Services + NFP），數據強 = 坐實鷹派 = growth 再跌；③ AVGO 周二 earnings 係 AI 板塊風向標，guide 弱就 NVDA/半導體連鎖反應。\n\n今日部署：輕倉，唔追油，唔撈 growth，等 NFP + AVGO 兩個 catalyst 出爐先落注。",
+      "risks": [
+        "Warsh 鷹派加息路徑壓制 growth/tech 估值",
+        "NFP 若強勁坐實鷹派，growth 再跌一浪",
+        "AVGO guide 弱引發半導體連鎖拋售"
+      ],
+      "my_take": "金價喺美伊互襲下不升反跌，資金真正 focus 係 Warsh 鷹派加息路徑。本周 heavy macro（ISM + NFP）+ AVGO earnings，喺 catalyst 出爐前保持輕倉，唔追油唔撈 growth。"
     }
   ],
   "news_curator": [
