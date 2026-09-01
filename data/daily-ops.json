@@ -6392,6 +6392,66 @@
         "AVGO guide 弱引發半導體連鎖拋售"
       ],
       "my_take": "金價喺美伊互襲下不升反跌，資金真正 focus 係 Warsh 鷹派加息路徑。本周 heavy macro（ISM + NFP）+ AVGO earnings，喺 catalyst 出爐前保持輕倉，唔追油唔撈 growth。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-01",
+      "time": "08:09 HKT",
+      "status": "success",
+      "market_direction": "風險趨避 — 油價升破$90 + Warsh鷹派9月加息預期，S&P受壓；金價逆勢下跌（避險失效）",
+      "headlines": [
+        "[NEW] ACTION: AMZN — FTC聯同22州起訴「秘密廣告附加費」，涉數十億美元",
+        "[RECENT] ACTION: OIL — 美伊衝突升級，伊朗反擊約旦/阿聯酋，油價升破$90",
+        "[RECENT] WATCH: MACRO — 日本債匯雙壓，日圓破160，Bessent要求日本加息",
+        "[RECENT] WATCH: GOLD — 金價無視伊朗衝突下跌，避險失效",
+        "[NEW] WATCH: TSLA — Cybercab推出預期，成S&P 500領漲股",
+        "[RECENT] WATCH: CRYPTO — Strategy恢復買入BTC $370M"
+      ],
+      "opportunities": [
+        "AMZN: FTC+22州起訴隱藏廣告費，對holding係downside risk，但廣告未傷AWS/AI主線",
+        "OIL: Brent升破$90，Hormuz受阻上行空間仍在，但Trump淡化規模",
+        "MSTR: 機構買入重啟，BTC卡$78-80K，升破可帶動MSTR/COIN/IBIT"
+      ],
+      "analysis": "市場被地緣升級（油價$90）與鷹派Fed（Warsh）兩股力量拉扯。關鍵signal係金價逆勢下跌——避險資金冇去黃金而係去咗現金/孳息，係「risk-off但唔係flight-to-safety」。AMZN FTC起訴係今個session最新鮮嘅單一股票catalyst。",
+      "risks": [
+        "日圓破160，若急升觸發carry unwind → 全球risk-off",
+        "美債孳息逼近20年高位，9月加息押注58%",
+        "Hormuz海峽若全面受阻，油價可能衝$100"
+      ],
+      "my_take": "本周pivot係周五就業報告——決定9月加息（58%已定價）係咪成真。若數據強→加息確定→股債雙殺；若弱→反彈。AMZN監管風險屬短線，長線睇AWS/AI基本面。",
+      "key_takeaways": [
+        "油價$90 + Warsh鷹派 = risk-off，但避險資金流向現金而非黃金",
+        "AMZN FTC起訴係最新鮮single-stock catalyst",
+        "周五就業報告係本周macro決勝點"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-01",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Risk-off day 2 — 小型股重挫 + 金價逆勢跌，利率主導非戰爭",
+      "headlines": [
+        "油價升破 $90，Energy +2.68% 一枝獨秀",
+        "金價無視美伊衝突再跌 3.4% — 避險失效，利率主導",
+        "TSLA +3.7% Cybercab 領漲 S&P，但 small caps (IWM -1.96%) 被沽",
+        "NVDA -3.16% / 半導體 -2.86%，growth 繼續受壓",
+        "AMZN 無視 FTC 起訴 +1.37% — 市場消化廣告費訴訟"
+      ],
+      "opportunities": [
+        "TSLA: Cybercab 持續催化，S&P 唯一強勢 mega-cap",
+        "MU: 價值 + 半導體超賣，等 semi 止跌先",
+        "AMZN: FTC overhang 被消化，相對 alpha",
+        "Energy: 油價 momentum，等 Hormuz 確認先加注"
+      ],
+      "analysis": "## 1. 📊 Market Recap\nRisk-off 第二日。S&P 500 -0.53%、Nasdaq -0.60%、Dow -0.68%，但真正嘅 signal 喺寬度：Russell 2000 小型股 -1.96% 領跌，VIX +2.83% 到 14.92。呢個唔係恐慌（VIX 仲喺 15 樓下），而係「去槓桿 + 換倉」——資金由小型股/利率敏感股撤出，湧入能源。\n\nSector 方面係一面倒嘅 risk-off 結構：\n- **Energy +2.68%** — 一枝獨秀，油價升破 $90，美伊互襲（7 月來首次）\n- **Cons Disc +0.61%** — 全靠 TSLA +3.7% 撐住，唔係 broad\n- **Utilities -2.20% / Industrials -2.05%** — 利率敏感，Warsh 鷹派直接受壓\n- **Semi -2.86%（最差）/ Tech -1.12%** — growth 繼續俾人沽，高估值首當其衝\n\n## 2. 🔥 Notable Movers\n- **TSLA +3.70%** — Cybercab 推出預期，成 S&P 500 唯一強勢 mega-cap（NC 嘅 call 中咗）\n- **USO +2.84%** — 油價 momentum，Hormuz 風險溢價\n- **MU +2.50%** — 價值盤，S&P 500 第三低估值嘅 re-rating 嘗試\n- **GLD -3.36%** — 金價喺美伊衝突下「連續第二日」逆跌，避險完全失效\n- **NVDA -3.16%** — $3.5B 投資 MediaTek 對抗自研晶片，但救唔到 growth 沽壓\n- **MSTR -3.25%** — 恢復買 BTC $370M 都托唔住，risk-off 蓋過加密 signal\n- **SMCI -3.07%** — AI semi 繼續分化殺\n\n## 3. 📰 News That Mattered（NC calls 檢討）\nNC 今日幾個 call 嘅 batting average 幾高：\n- ✅ **GOLD「避險失效」— 完全中**。金價無視伊朗衝突跌 3.4%，確認呢個係「利率主導」唔係「戰爭主導」嘅市場。\n- ✅ **TSLA「S&P 領漲」— 中**。Cybercab 成為今日唯一強勢 mega-cap。\n- ✅ **OIL「Hormuz 上行空間」— 中**。Energy 一枝獨秀。\n- ⚠️ **AMZN「FTC 起訴 downside」— 未應驗**。AMZN 反而 +1.37%，市場覺得「廣告費訴訟」傷唔到 AWS/AI 主線，overhang 暫時被消化。\n- ⚠️ **Strategy「BTC 買入 = 機構回歸」— 錯位**。MSTR -3.25%，risk-off 下 BTC 需求信號被完全無視。\n\nRaw headlines 今日冇 NC 漏咗嘅大 catalyst——主要係 micro-cap insider buy、earnings transcript 噪音。NC 嘅 coverage 係足夠嘅。\n\n## 4. 🎯 Opportunities Carry Forward\n- **TSLA**：Cybercab 係唯一有持續 catalyst 嘅 mega-cap，momo 未斷。但要留意佢 +3.7% 係咪已經 pre-run，追高要等 pullback。\n- **MU**：價值 + 半導體超賣，係 potential re-rating candidate，但 semi 仲未止跌，唔好接刀。\n- **Energy**：油價 momentum 係真嘅，但 +2.68% 之後追高係遲咗。要睇 Hormuz 有冇實際阻斷先加注。\n- **AMZN**：FTC overhang 被市場消化 + stock 相對強勢，如果今晚 macro 唔係太熱，佢係相對 alpha。\n\n## 5. ⚠️ Risks / Watchlist\n- **今晚 10pm HKT：ISM Manufacturing PMI + JOLTs**（兩個 HIGH）— 熱數據會直接推升 9 月加息押注（現 58%）。\n- **今晚 9:05pm HKT：Fed Barr 演說** — 任何鷹派口風都係 growth 嘅新壓力。\n- **周五 NFP（9/4 8:30pm HKT）** — 本周 pivot，決定 9 月加息係咪成真。NC 講得啱：呢個係決勝點。\n- **日圓 carry unwind** — Bessent 施壓日本加息，日圓若急升係全球 risk-off 導火線。\n- **FOMC Sep 15-16（有 dot plot + press conference）** — 大 event 前市場傾向去風險。\n\n## 6. 💡 My Take\n兩日連跌但 VIX 仲喺 14.9——市場 complacent 未解除，但係佢哋唔係唔驚，而係喺「慢慢」去槓桿。金價喺戰爭下逆跌係今日最重要嘅 signal：呢個係「利率市」唔係「避險市」，資金去咗現金同孳息，唔係去黃金。真正 pivot 係今晚 ISM + 周五 NFP。熱數據 → 9 月加息 58% 上 70%+ → growth 同 small caps 仲有得跌；soft 數據 → relief rally 一觸即發。短期輕倉係啱，但唔好完全離場——TSLA 同 Energy 有 real alpha，AMZN 係相對強勢。明日 bias：neutral-to-cautious，等今晚 10pm ISM 先再定方向。",
+      "risks": [
+        "今晚 10pm HKT ISM Manufacturing + JOLTs（HIGH）— 熱數據推升 9 月加息",
+        "周五 NFP — 9 月加息 58% 押注嘅決勝點",
+        "日圓 carry unwind 導火線（Bessent 施壓日本加息）",
+        "FOMC Sep 15-16 + dot plot"
+      ],
+      "my_take": "兩日連跌但 VIX 仲 14.9，complacent 未解除。金價戰爭下逆跌 = 利率主導非避險。Pivot 喺今晚 ISM + 周五 NFP：熱就 9 月加息 58%→70%+，growth/small caps 再跌；soft 就 relief rally。輕倉但唔好離場，TSLA + Energy 有 alpha。"
     }
   ],
   "news_curator": [
