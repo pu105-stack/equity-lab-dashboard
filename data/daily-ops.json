@@ -6394,38 +6394,6 @@
       "my_take": "金價喺美伊互襲下不升反跌，資金真正 focus 係 Warsh 鷹派加息路徑。本周 heavy macro（ISM + NFP）+ AVGO earnings，喺 catalyst 出爐前保持輕倉，唔追油唔撈 growth。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-01",
-      "time": "08:09 HKT",
-      "status": "success",
-      "market_direction": "風險趨避 — 油價升破$90 + Warsh鷹派9月加息預期，S&P受壓；金價逆勢下跌（避險失效）",
-      "headlines": [
-        "[NEW] ACTION: AMZN — FTC聯同22州起訴「秘密廣告附加費」，涉數十億美元",
-        "[RECENT] ACTION: OIL — 美伊衝突升級，伊朗反擊約旦/阿聯酋，油價升破$90",
-        "[RECENT] WATCH: MACRO — 日本債匯雙壓，日圓破160，Bessent要求日本加息",
-        "[RECENT] WATCH: GOLD — 金價無視伊朗衝突下跌，避險失效",
-        "[NEW] WATCH: TSLA — Cybercab推出預期，成S&P 500領漲股",
-        "[RECENT] WATCH: CRYPTO — Strategy恢復買入BTC $370M"
-      ],
-      "opportunities": [
-        "AMZN: FTC+22州起訴隱藏廣告費，對holding係downside risk，但廣告未傷AWS/AI主線",
-        "OIL: Brent升破$90，Hormuz受阻上行空間仍在，但Trump淡化規模",
-        "MSTR: 機構買入重啟，BTC卡$78-80K，升破可帶動MSTR/COIN/IBIT"
-      ],
-      "analysis": "市場被地緣升級（油價$90）與鷹派Fed（Warsh）兩股力量拉扯。關鍵signal係金價逆勢下跌——避險資金冇去黃金而係去咗現金/孳息，係「risk-off但唔係flight-to-safety」。AMZN FTC起訴係今個session最新鮮嘅單一股票catalyst。",
-      "risks": [
-        "日圓破160，若急升觸發carry unwind → 全球risk-off",
-        "美債孳息逼近20年高位，9月加息押注58%",
-        "Hormuz海峽若全面受阻，油價可能衝$100"
-      ],
-      "my_take": "本周pivot係周五就業報告——決定9月加息（58%已定價）係咪成真。若數據強→加息確定→股債雙殺；若弱→反彈。AMZN監管風險屬短線，長線睇AWS/AI基本面。",
-      "key_takeaways": [
-        "油價$90 + Warsh鷹派 = risk-off，但避險資金流向現金而非黃金",
-        "AMZN FTC起訴係最新鮮single-stock catalyst",
-        "周五就業報告係本周macro決勝點"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-01",
       "time": "08:34 HKT",
@@ -6452,6 +6420,63 @@
         "FOMC Sep 15-16 + dot plot"
       ],
       "my_take": "兩日連跌但 VIX 仲 14.9，complacent 未解除。金價戰爭下逆跌 = 利率主導非避險。Pivot 喺今晚 ISM + 周五 NFP：熱就 9 月加息 58%→70%+，growth/small caps 再跌；soft 就 relief rally。輕倉但唔好離場，TSLA + Energy 有 alpha。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-01",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "Risk-off：全球債券拋售、油價+3%、金價避險失效、股市flat-down；鷹派Fed+歐元區通脹>3%推升加息預期",
+      "headlines": [
+        "[RECENT] WATCH MACRO: 全球債券拋售加深，歐元區通脹重上3%",
+        "[RECENT] WATCH OIL: 美伊衝突，Trump揚言重擊但德黑蘭提議重返6月協議",
+        "[NEW] WATCH AAPL: 指控OpenAI銷毀證據",
+        "[NEW] WATCH GOOGL: 人才流失拖累股價",
+        "[NEW] WATCH CRYPTO: 加密ETF最大單周買入"
+      ],
+      "opportunities": [
+        "MACRO: 全球債券拋售——10年期孳息創新高，TLT逼近52週低位",
+        "OIL: 美伊衝突 de-escalation 信號（德黑蘭重返6月協議提議）",
+        "AAPL/GOOGL: AI 競爭（法律戰+人才流失）係 Ternus 上任後首個挑戰"
+      ],
+      "analysis": "全球債券拋售加深係 dominant macro driver，鷹派Fed+全球通脹黏性壓制科技股估值。美伊衝突已4日市場反映，但德黑蘭重返6月協議係潛在 de-escalation catalyst。",
+      "risks": [
+        "周五就業數據若強勁→加息預期進一步升溫",
+        "美伊衝突若升級→油價spike",
+        "AI人才流失結構性風險"
+      ],
+      "my_take": "stagflation 味道濃——避險失效（金價跌唔上），資金流向孳息。真正盯 de-escalation 信號，唔係衝突本身。周五就業數據係 macro 決勝點。",
+      "key_takeaways": [
+        "全球債券拋售加深，孳息創新高",
+        "金價避險失效，資金流向孳息",
+        "德黑蘭重返6月協議 = 潛在 de-escalation",
+        "周五就業數據係決勝點"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-01",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Risk-off / 中性偏淡（stagflation 味道，債券拋售主導）",
+      "headlines": [
+        "全球債券拋售加深，日本孳息突破關鍵位",
+        "油價 +2%，美伊衝突升級但德黑蘭提議重返6月協議",
+        "加州公用股崩潰：EIX -23%、PCG -20%（熱帶風暴 Edouard 風險）",
+        "今晚 DELL + PANW 業績，明日 AVGO 業績（AI hardware 接力）"
+      ],
+      "focus": [
+        "Healthcare / Real Estate — risk-off defensive 避風港",
+        "DELL + AVGO — AI hardware 敘事接力（今晚 + 明晚業績）",
+        "OIL — 伊朗 de-escalation 訊號係改變敘事嘅關鍵變數"
+      ],
+      "analysis": "【Fed Context — Macro Backdrop】\n\n冇新 FOMC statement。最新嘅 Fed 文件係 7/29 會議 minutes（已逾兩星期，非新催化）。下次 FOMC = Sep 15-16（附 dot plot + 記者會，係年內三個有 projection 嘅會議之一）。近期冇市場震盪級別嘅 Fed press release。\n\n主導 macro 敘事係「鷹派 Warsh + 歐元區通脹重上 3%」——市場開始 price in 聯儲局維持高位利率甚至唔排除再加息嘅可能。全球債券拋售（日本孳息突破關鍵位、英債 28 年高位、美 10 年期創新高）正正係呢個鷹派預期嘅實質化。TLT 已逼近 52 週低位。\n\n對今日嘅影響：長久期資產（高估值成長股、Communication Services、半導體）喺孳息上行環境下受壓，資金轉向 defensive（Healthcare、Real Estate）同 short-duration 價值股。今晚嘅 ISM Manufacturing + JOLTs 會係第一波考驗——若 JOLTs 職位空缺高過 7.3M 預期，鷹派敘事會進一步強化，債券拋售加深。\n\n【📰 今日重點頭條 — Raw Headlines】\n\n按 market impact 排序：\n\n1. 全球債券拋售加深，日本孳息突破關鍵位（investing.com）—— 今日 macro 主軸\n2. 油價 +2%，美伊衝突再升級推升供應憂慮（investing.com / USO）—— 但德黑蘭提議重返 6 月協議 = de-escalation 訊號\n3. 熱帶風暴 Edouard 或登陸前增強為颶風（ABC）—— 墨西哥灣能源 + 加州山火雙重風險\n4. Dell 股價有望受惠於 Nvidia 同 SpaceX 發展（DELL, NVDA）—— 今晚 DELL 業績（AMC）\n5. Palantir vs Intel：2026 下半年二選一（PLTR, INTC）\n6. Descartes 以 $120M 現金收購 Extensiv（DSGX）\n7. Gold 1H：跌咗咁多，見底未？（GLD）—— 避險失效嘅市場疑慮\n8. Seattle 樓市放緩，AI 重塑就業結構（Bloomberg）\n\n【🌍 隔夜市場】\n\nUS 收市（8/31）：SPY -0.30%、QQQ +0.05%、DIA -0.65% —— flat-to-down，科技企穩但 broad market 偏弱，反映債券拋售對 value-heavy 指數（DIA）壓力更大。\n\nSector rotation 明顯 risk-off：\n- 資金流入 Healthcare +1.28%、Real Estate +1.15%、Consumer Cyclical +0.91%\n- 流出 Communication Services -1.04%、Energy -0.60%\n- Utilities -0.02% 表面平淡，但掩蓋 EIX/PCG 嘅單點崩潰（見下）\n\n油價 +2~3%（美伊衝突），但金價平/微跌 —— 避險資產完全失效，資金由避險資產流向孳息。呢個係最反直覺、最值得警惕嘅 signal。債券（美 10 年期創新高）係真正嘅「risk-off 目的地」。\n\n【📈 昨日爆升／暴跌榜】\n\n爆升榜（Top 5，全部 penny/small cap，single-event driven）：\n- AEHL +83%、FSHPR +55%、NCRA +49.7%、GPRO +46%、YDDL +38%\n- 唯一值得留意係 GPRO（GoPro）+46% —— 但屬低價股投機性反彈，冇基本面跟進價值\n\n暴跌榜（Top 5，重點係兩隻加州公用股）：\n- FNGR -44%、WHLR -36%、GCL -26%、DAIC -25%、ZSQR -23.6%\n- ⚠️ EIX（Edison International）-23%、PCG（PG&E）-20% —— 加州公用股集體崩潰，結合熱帶風暴 Edouard 逼近，市場 price in 山火/風災 liability 風險。呢個係今日唯一有 sector theme 嘅 mover，唔係單一事件\n\n活躍榜：VVOS、CLGN、PCG、GPRO、NVDA、TSLL、NU、BITO\n- NVDA +1.48% 喺活躍榜 —— 半導體龍頭仍有資金關注，今晚 DELL 業績 + 明日 AVGO 業績係 AI hardware 敘事嘅接力點\n- TSLL（TSLA 2x 做多 ETF）+11% 上榜 —— 有資金炒 TSLA 反彈\n\nSector theme 總結：爆升暴跌主要係 penny stock 噪音，唯一真實主題係「加州公用股災害風險」。其餘冇 common sector，主要係 single-event driven。\n\n【📡 今日重點事件 — 全部來自 macro_calendar.json】\n\n🔴 HIGH（今晚）：\n- 10:00PM HKT｜ISM Manufacturing PMI｜prev 55.6 / fcast 55.2\n- 10:00PM HKT｜JOLTs Job Openings｜prev 7.359M / fcast 7.3M\n\n🟡 MEDIUM：\n- 09:05PM HKT｜Fed Barr Speech（鷹派陣營，留意對利率前曕嘅表態）\n- 10:00PM HKT｜ISM Manufacturing Employment｜prev 52.8\n- 04:30AM HKT｜API Crude Oil Stock Change｜prev 4.2M\n\n本週剩餘 HIGH：\n- Thu Sep 3｜ISM Services PMI（10:00PM HKT）\n- Fri Sep 4｜Non Farm Payrolls + Unemployment Rate（08:30PM HKT）← 本週 macro 決勝點\n\n今晚 ISM + JOLTs 係鷹派敘事嘅第一次實質考驗。JOLTs 若企穩 7.3M 以上，勞動力市場降溫嘅預期落空，孳息會再上行，壓長久期資產。\n\n【🔥 Sector Watch】\n\nMomentum（買入側）：Healthcare、Real Estate —— risk-off 下嘅 defensive 避風港，受惠孳息上行資金輪動\nRisk（回避側）：Utilities（加州災害 liability 單點風險，EIX/PCG 已示警）、Communication Services（高久期 + GOOGL 人才流失負面）、Energy（伊朗衝突 volatile，但 de-escalation 訊號可令溢價急退）\nRotation signal：由 high-duration growth/comm 轉向 defensive value 嘅輪動仲未結束。今晚 ISM 若偏強，會加速呢個輪動。\n\n【🎯 Pre-market Opportunities — 從 News Curator Consolidate】\n\nNews Curator 本時段無全新 ACTION（未反映 catalyst），主要係 WATCH 級別。結合 raw headlines，今日有實質催化嘅係以下幾項：\n\n- OIL（de-escalation 觀察）：德黑蘭提議重返 6 月協議係關鍵。若落實，油價溢價快速消退 + 債券拋售壓力緩解，係今日最值得盯嘅催化。油價回落 = 通脹預期回落 = 對成長股利好。\n- DELL（今晚 AMC 業績，est $4.72）：結合「Dell 受惠 Nvidia + SpaceX」headline，AI server 需求係焦點。結果會為明日 AVGO 業績定調 AI hardware 敘事。NVDA +1.48% 喺活躍榜，市場已開始布位。\n- AVGO（明日 Wed AMC，est $2.83，$1.76T 巨企 🎯）：本週最重要嘅 earnings。AI custom silicon 需求 + VMware 整合，係半導體板塊方向標。\n- AAPL（WATCH）：指控 OpenAI 銷毀證據，貿易機密訴訟升級。屬 legal noise，短期影響有限，但留意 AI 合作關係嘅 narrative risk。\n- GOOGL（WATCH）：AI 人才流失拖累股價。屬結構性負面，配合 Comm Services 板塊 -1.04%，暫時回避。\n- CRYPTO（WATCH）：BTC 企穩 $78K，加密 ETF 錄 10 月閃崩以來最大單周買入。risk-on 嘅隱藏 signal，同宏觀 risk-off 背道而馳，值得留意。\n\n【📅 未來一個月業績重點】\n\n本週：\n- Tue Sep 1｜DELL（$296B, est $4.72, AMC）—— AI server 需求，為 AVGO 定調\n- Tue Sep 1｜PANW（$303B, est $0.51, AMC）—— 網絡安全，CIBR 相關主題\n- Wed Sep 2｜AVGO（$1762B, est $2.83, AMC）🎯 —— 本週最重要，半導體方向標\n- Wed Sep 2｜SNOW / HPE（AMC）—— 數據雲 + 企業硬件\n- Thu Sep 3｜CIEN（BMO）—— 光纖/網絡設備\n- Tue Sep 8｜ORCL（$430B, est $1.40）🎯 —— 雲基建\n\n下週：\n- Thu Sep 10｜ADBE（$116B, est $4.86, AMC）🎯\n\n【📋 Today's Agenda】\n\nCatalyst schedule（HKT）：\n- 09:05PM｜Fed Barr Speech\n- 10:00PM｜ISM Manufacturing + JOLTs（HIGH）\n- 04:30AM｜API Crude\n- 今晚 AMC｜DELL、PANW 業績\n- 明日 Wed AMC｜AVGO 業績（本週關鍵）\n\nKey levels（SPY）：\n- 支持：764（昨日低點）、753（50 日均線）\n- 阻力：769（前收）、779（52 週高位）\n- SPY 現價 767，貼住前收附近，若 ISM 偏強跌穿 764，下一個支持係 50 日線 753。\n\n【💡 My Take】\n\nOverall bias：Risk-off / 中性偏淡（stagflation 味道濃）。\n\n今日最緊要睇實三樣嘢：\n1. ISM Manufacturing + JOLTs（10PM HKT）—— 鷹派敘事嘅第一波實質考驗，JOLTs 若高過 7.3M 會加速債券拋售\n2. 伊朗 de-escalation 訊號——若德黑蘭「重返 6 月協議」落實，油價溢價急退，會反向緩解債券拋售壓力。呢個係今日最可能改變敘事嘅變數\n3. DELL 業績（今晚 AMC）—— AI hardware 敘事嘅前哨，為明日 AVGO 定調\n\n改變之前 thesis 嘅 overnight signal：最值得警惕嘅係「金價喺伊朗衝突 + 油價升嘅環境下完全升唔上」——避險資產失效，資金全部流向孳息。呢個係資金面層面嘅結構性轉變，唔係單純嘅 headline 噪音。喺呢種環境下，defensive 板塊（Healthcare、Real Estate）會繼續跑贏，高估值成長股要等債券拋售見頂先有翻身機會。周五 NFP 先係真正嘅 macro 決勝點，今日同明日嘅 ISM/JOLTs 只係前菜。",
+      "risks": [
+        "JOLTs 若高過 7.3M，鷹派敘事強化，債券拋售加深",
+        "加州公用股災害 liability（EIX/PCG 已 -20%+）",
+        "金價避險失效 = 資金結構性轉向孳息，成長股受壓"
+      ],
+      "my_take": "Risk-off / 中性偏淡。全球債券拋售係主軸，避險資產（金價）失效係最反直覺嘅警示。今晚 ISM+JOLTs 考驗鷹派敘事，伊朗 de-escalation 係唯一可能改變敘事嘅變數。defensive 板塊跑贏，高估值成長股要等孳息見頂。周五 NFP 先係決勝點。"
     }
   ],
   "news_curator": [
