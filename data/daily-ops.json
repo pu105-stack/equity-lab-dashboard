@@ -6477,6 +6477,79 @@
         "金價避險失效 = 資金結構性轉向孳息，成長股受壓"
       ],
       "my_take": "Risk-off / 中性偏淡。全球債券拋售係主軸，避險資產（金價）失效係最反直覺嘅警示。今晚 ISM+JOLTs 考驗鷹派敘事，伊朗 de-escalation 係唯一可能改變敘事嘅變數。defensive 板塊跑贏，高估值成長股要等孳息見頂。周五 NFP 先係決勝點。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-02",
+      "time": "08:05 HKT",
+      "status": "success",
+      "market_direction": "避險情緒升溫——美伊衝突通宵升級 + 高油價推高通脹憂慮，債股齊跌、油獨升",
+      "headlines": [
+        "[RECENT] 🎯 OIL — 美伊衝突再升級：Trump 揚言「最大攻擊」蓄勢待發，油價6週新高、$100視野重現",
+        "[NEW] 🎯 DEFENSE — 俄羅斯秘密助伊朗研製超音速導彈，衝突擴大化風險",
+        "[RECENT] ⚠️ MACRO — 高油價推高通脹憂慮，10Y孳息創2025年1月新高，債股齊跌",
+        "[NEW] ⚠️ TECH — CRWD -7% / PANW -6%：業績爆表但guidance潑冷水，AI安全股遭拋售",
+        "[NEW] ⚠️ CRYPTO — Bitcoin 進入「Rektember」：避險屬性失效，隨油價急升走弱",
+        "[NEW] 📌 OIL — Bessent 稱 Hormuz 兩年內「過時」：油價溢價嘅 contrarian 角度",
+        "[NEW] 📌 CLIMATE — 熱帶風暴 Edouard 登陸德州/路易斯安那，煉油/能源供應風險",
+        "[NEW] 📌 TECH — NVDA：Cramer 籲半兆回購，但市場 focus 回調",
+        "[NEW] 📌 MACRO — 南韓8月通脹 +3.1% y/y，高於預期",
+        "[NEW] 📌 OIL — 沙特以 Hormuz 緊張為由重返美元債市發行 $3.25B",
+        "[NEW] 📌 TECH — INDI 管理層密集減持（CEO/CFO/COO 同日拋售）",
+        "[NEW] 📌 PRECIOUS_METALS — 金價避險失效續報，白銀4小時「last gasp」"
+      ],
+      "opportunities": [
+        "├ 故事年齡: [RECENT] 36-48h（8/31 首度空襲，9/1 通宵連續打擊）\n├ 消息: \"Trump says 'biggest attack of them all' is 'waiting in the wings'\" (CBS, 2026-09-01)\n├ 市場反應: 油價升破$90創6週新高，沙特/南韓油輪在Hormuz中彈，歐洲天然氣2023年來最高、亞洲LNG 5個月高\n├ My call: 趨勢明確向上，但仍兩面——德黑蘭提議重返6月協議(de-escalation) vs Trump 持續加碼。追高要快進快出，$100係下一個心理關口",
+        "├ 故事年齡: [NEW] (<6h)\n├ 消息: \"Russia secretly helping Iran develop supersonic cruise missiles\" (FT, 2026-09-01)\n├ 市場反應: 國防股本月已run up，但俄伊軍事合作係結構性升級，唔係一次性event\n├ My call: WATCH/ACTION — 衝突由雙邊升級為代理/同盟格局，國防支出theme持續，但已部分反映，揀有NATO/中東暴露嘅名",
+        "├ 故事年齡: [RECENT] 24-48h（8/31 breakout，9/1 續升）\n├ 消息: \"10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries\" (CNBC, 2026-09-01)\n├ 市場反應: Nasdaq 100錄數週最差單日，Bessent債券倉位蝕晒，bond trader搶購對沖，9月加息押注升溫\n├ My call: 呢個係今日真正嘅系統性risk——油價→通脹→孳息→股市 嘅傳導鏈。WATCH 周五就業報告，若孳息再突破將重壓估值",
+        "├ 故事年齡: [NEW] (<12h，9/1 US session)\n├ 消息: \"CrowdStrike Falls 7% Despite $2 Billion Optiv Milestone, Palo Alto Drops 6%\" (247WallSt, 2026-09-01)\n├ 市場反應: PANW beat AI需求但guidance現實check，CRWD $2B Optiv里程碑都救唔到股價\n├ My call: 業績本身強，但估值已price-in AI安全溢價，高位sell-the-news。等企穩先睇buy-the-dip，唔好接刀",
+        "├ 故事年齡: [NEW] (<12h)\n├ 消息: \"Bitcoin enters 'Rektember' as rate-hike risk combines with seasonality to threaten rally\" (CoinDesk, 2026-09-01)\n├ 市場反應: BTC 卡$80K下方，油價升至3個月高但BTC反而slump——地緣避險冇分流到加密\n├ My call: 9月季節性+加息風險雙殺，BTC短線弱勢。唔似避險資產，跟risk-asset走，等企穩$80K再睇"
+      ],
+      "analysis": "美伊衝突由雙邊升級為持續空襲，油價創6週新高，$100重現視野。高油價經通脹預期傳導至10Y孳息（2025年1月新高），觸發債股雙殺，Nasdaq錄數週最差單日。避險資產（黃金/比特幣）反而不升——孳息高企壓制避險屬性，risk-off集中喺能源長倉。",
+      "risks": [
+        "Trump「最大攻擊」若落實，油價$100+但風險資產重創",
+        "10Y孳息再突破將重壓高估值科技股",
+        "德黑蘭提議重返6月協議——油價de-escalation急跌風險",
+        "Bessent暗示Hormuz兩年內「過時」，長線油價溢價有天花板"
+      ],
+      "my_take": "今日真正嘅系統性driver唔係伊朗本身，而係「油價→通脹→孳息→股市」嘅傳導鏈。伊朗衝突係trigger，但10Y孳息突破2025年1月高位先係殺估值嘅刀。避險資產（黃金/BTC）失效，說明市場risk-off冇地方避——呢個係典型嘅「通脹衝擊」格局而非「地緣恐慌」格局。能源係唯一明確方向，但已行咗一浸，追高要快進快出。周五就業報告係下一個決勝點：若就業強勁+油價高企，9月加息會由「爭論」變「共識」。",
+      "key_takeaways": [
+        "美伊衝突通宵升級，油價$90+創6週新高，$100視野重現",
+        "10Y孳息創2025年1月新高，高油價→通脹→加息 傳導鏈係主風險",
+        "Nasdaq數週最差單日，CRWD/PANW高位sell-the-news",
+        "黃金/BTC避險失效——real yield主導，唔係地緣恐慌",
+        "周五就業報告係9月加息嘅決勝點"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-02",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Risk-off / 中性偏淡 — stagflation 傳導鏈（油價→通脹→孳息→股市）確認",
+      "headlines": [
+        "美伊衝突升級：Trump 加碼但德黑蘭提議重返6月協議",
+        "10Y yield 4.80% 破 2025年1月高位 — 環球債券拋售",
+        "CRWD -7% / PANW -6% 網絡安全 sell-the-news",
+        "DELL 盤後爆升 — record AI server orders",
+        "俄羅斯助伊朗研超音速導彈 — 結構性升級",
+        "EIX/PCG 公用災害恐慌逆轉反彈"
+      ],
+      "opportunities": [
+        "AVGO: 今晚業績 AI hardware 接力，AI chip sales +143%",
+        "DELL: 盤後爆升 record AI server orders，跟進 follow-through",
+        "XOM/CVX: oil >$90 唯一明確 momentum，但快進快出",
+        "EIX/PCG: 災害恐慌 overdone，relief bounce 可延續"
+      ],
+      "analysis": "📊 美股收市回顧 — 9月1日（2026-09-01 US session）\n\n📰 今日重點頭條\n1. [NYT] U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says — 美伊衝突再升級\n2. [CBS] Trump says \"biggest attack of them all\" is \"waiting in the wings\" — 加碼信號未停\n3. [CNBC] 10-year yield hits highest since Jan 2025 as higher oil stokes inflation worries — 債券拋售主軸\n4. [FT] Russia secretly helping Iran develop supersonic cruise missiles — 衝突結構性升級（代理/同盟格局）\n5. [247WallSt] CrowdStrike -7% / Palo Alto -6% — 網絡安全 sell-the-news\n6. [Yahoo] Dell reports record results, AI server orders surge — DELL 業績爆表、盤後急升\n7. [OilPrice] Bessent: Strait of Hormuz obsolete within 2 years — 官方對油價溢價嘅 counter-signal\n8. [CBS] Tropical Storm Edouard makes landfall (TX/LA) — Gulf Coast 煉油重鎮 supply risk\n\n📊 Market Recap\n- SPY 761.78 (-0.69%) | QQQ 707.64 (-1.27%) | DIA 527.75 (-0.72%) | IWM 290.57 (-1.14%)\n- S&P 500 -0.71% / Nasdaq -1.03% / Dow -0.79%\n- VIX 16.34（+9.5%，由 14.92 抽升）— 恐慌升溫但未失控\n- 10Y yield 4.80% — 2025年1月以來最高，環球債券拋售共振（日本 JGB 同升）\n- 板塊：能源 XLE +1.27% 係唯一明確贏家；防禦跑贏（XLV +0.66%、XLU +0.78%、XLP +0.32%）；科技 XLK -1.53%、非必需消費 XLY -1.72%、半導體 SMH -2.05%、房屋 XHB -2.19% 領跌\n- Breadth 負面，資金明確由 growth 輪出至 energy/defensive\n\n🔥 Notable Movers\n- EIX +8.93% / PCG +5.95% — 加州公用災害恐慌逆轉（Edouard 登陸冇預期咁災難）\n- XOM +2.24% / CVX +2.38% — 能源領漲，油價 >$90\n- AAPL +2.61% — 避風港 rotation（Tim Cook → John Ternus CEO 交接）\n- CRWD -6.90% — sell-the-news（$2B Optiv 里程碑都救唔到股價）\n- PANW -5.24% — beat Q4 但 guidance 現實 check\n- DELL -6.80%（regular session）但盤後爆升 — record AI server orders\n- TSLA -3.22%、LMT -2.98%、MU -2.64%、AMD -2.36%、NVDA -1.51%\n\n📰 News That Mattered（NC calls 命中檢討）\n- 美伊衝突：通宵升級、Trump 加碼，但德黑蘭提議重返6月協議（de-escalation 信號）→ NC「兩面」判斷準確\n- 俄羅斯助伊朗研超音速導彈 → NC 判斷「結構性升級、非一次性 event」成立\n- 債券拋售（10Y 4.80%）→ NC 視為「真正系統性 risk」，今日完全印證\n- CRWD/PANW sell-the-news → NC「估值已 price-in AI 安全溢價、唔好接刀」命中\n- 金價避險失效 → NC「金價與地緣脫鈎、real yield 主導」命中\n- Bessent Hormuz counter-signal → NC「長線油價溢價有天花板」捕捉到\n\n🎯 Opportunities Carry Forward\n- AVGO 今晚業績（盤後）— AI hardware 接力，AI chip sales +143%，Q3 業績係 NVDA 之後最大考驗\n- DELL 盤後爆升 — AI server demand 確認（record orders），今日跟進 follow-through\n- 能源（XOM/CVX/XLE）— oil >$90 + Hormuz 風險，唯一明確 momentum，但已行一浸要快進快出\n- EIX/PCG 公用反彈 — 災害恐慌 overdone，relief bounce 可延續\n- AAPL 避風港 — 資金 quality flight 延續，但唔係 alpha 而係 beta hedge\n\n⚠️ Risks / Watchlist（來自 macro_calendar.json）\n- 今晚 08:15PM HKT — ADP 就業（Aug）— NFP 前哨，若高企鷹派敘事強化\n- 今晚 10:00PM HKT — Factory Orders；10:30PM HKT — EIA 原油/汽油庫存\n- 今晚盤後 — AVGO 業績（binary event）\n- 9/3 08:30PM HKT — Fed Waller 演說 + 初請失業金；10:00PM HKT — ISM Services PMI（HIGH）\n- 9/4 08:30PM HKT — NFP + 失業率 + 平均時薪（HIGH）— 本週決勝點\n- FOMC 9/15-16（含 dot plot）— Warsh 鷹派框架下加息預期主導\n- 伊朗兩面：德黑蘭 de-escalation vs Trump 加碼，油價雙向風險\n- 10Y 4.80% 若再突破 → growth 估值重壓\n\n💡 My Take\n今日完全印證咗昨日 Morning Scan 嘅「stagflation 味道 / 債券拋售主導」thesis。真正嘅系統性 driver 唔係伊朗本身，而係「油價 → 通脹 → 孳息 → 股市」嘅傳導鏈 — 10Y 孳息破 4.80%（2025年1月以來最高）先係殺估值嘅刀，避險資產（金價/BTC）失效說明呢個係通脹衝擊格局、唔係地緣恐慌格局。能源係唯一明確方向但已行一浸。本週係 labor market week（ADP 今晚 → NFP 周五），若就業強勁 + 油價高企，9月加息會由「爭論」變「共識」。AVGO 今晚係單一最大 catalyst。Bias：neutral-to-cautious，防守優先、唔追高油價、等 NFP 定方向。",
+      "risks": [
+        "今晚 ADP 就業（NFP 前哨）若高企 → 鷹派敘事強化",
+        "AVGO 今晚業績 binary event",
+        "周五 NFP + 失業率 — 本週決勝點",
+        "10Y 4.80% 若再突破 → growth 估值重壓",
+        "伊朗兩面：de-escalation vs 加碼，油價雙向風險"
+      ],
+      "my_take": "Stagflation 格局確認 — 油價→通脹→孳息→股市傳導鏈係唯一 systemic driver，10Y 4.80% 破一年高位殺估值，避險資產失效。Energy 係唯一明確方向但已行一浸。本週 labor market week（ADP → NFP），AVGO 今晚係單一 catalyst。Neutral-to-cautious，防守優先，唔追油、等 NFP。"
     }
   ],
   "news_curator": [
