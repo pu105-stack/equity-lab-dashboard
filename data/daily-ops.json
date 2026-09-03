@@ -6566,6 +6566,69 @@
         "避險資產失效（金銀/BTC 齊跌），滯脹格局"
       ],
       "my_take": "Bearish（短期）。滯脹格局：戰爭 + 央行轉鷹 + 債券拋售，避險資產失效。今晚 AVGO 業績係拐點，NFP 決定 9月加息預期。唔追油價、唔追已跌 AI，等 AI infra 回調企穩先部署。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-03",
+      "time": "08:05 HKT",
+      "status": "success",
+      "market_direction": "油價由$93回軟、10Y孳息創Nov 2023新高，債券拋售加深壓AI/高估值股",
+      "headlines": [
+        "[NEW] ACTION: SNOW — AI軟體爆表，與AVGO硬體遭懲罰對比",
+        "[RECENT] ACTION: GOOGL — 廣告壟斷案免拆解",
+        "[NEW] WATCH: AVGO — 221% AI增長但股價照跌",
+        "[RECENT] WATCH: OIL — 衝突升級但油價回軟（續報）",
+        "[RECENT] WATCH: PLTR — 挫7%遭孳息打壓",
+        "[NEW] WATCH: MACRO — 10Y孳息創新高",
+        "[RECENT] WATCH: UBER — 裁員10%+倫敦robotaxi"
+      ],
+      "opportunities": [
+        "SNOW: AI軟體逆勢爆發，資金或由硬體轉向軟體",
+        "GOOGL: 廣告壟斷案免拆解，tail risk解除"
+      ],
+      "analysis": "今日driver係孳息。Broadcom業績好成咁都照跌，係rising yields下AI高估值unwinding，同PLTR挫7%一脈相承。Snowflake逆勢爆表暗示資金轉向軟體。",
+      "risks": [
+        "10Y孳息續升壓高估值股",
+        "伊朗衝突或突然重新升溫",
+        "AI硬體「sell the news」擴散"
+      ],
+      "my_take": "孳息係真正driver，唔係伊朗。戰爭trade已脫敏，勿追。下週Oracle業績係AI trade試金石。",
+      "key_takeaways": [
+        "Broadcom 221% AI增長仍跌 = 估值重置非基本面",
+        "Snowflake vs AVGO = 軟體轉強/硬體轉弱",
+        "10Y孳息創Nov 2023新高 = 全場最大風險"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-03",
+      "time": "08:36 HKT",
+      "status": "success",
+      "market_direction": "緊張嘅反彈 — small-cap 領漲但孳息 headwind 未解，AI 硬體遭 sell-the-news",
+      "headlines": [
+        "Trump：美國「隨時」打擊伊朗，但油價由 $93 回軟到 $90.77（war premium 消退）",
+        "10Y 孳息 4.79% 創 Nov 2023 新高，債券拋售持續壓制 AI/科技估值",
+        "AVGO Q3 AI 增長 221% 超預期但盤後照跌 —「sell the news」/ 估值重置",
+        "SNOW 業績爆表盤後狂飆 — 硬體→軟體輪動信號",
+        "PLTR -5.8% 無視 Army TITAN 合約，高估值遭孳息懲罰",
+        "GOOGL 廣告壟斷案免拆解，forced divestiture tail risk 解除",
+        "Chevron 委內瑞拉 $7B 擴產（CVX）"
+      ],
+      "opportunities": [
+        "SNOW: 盤後爆表，軟體/data AI 輪動 leader，睇 follow-through",
+        "ORCL: 下週業績係 AI trade 試金石，今日 +3.1% 資金提前佈局",
+        "GOOGL: 壟斷 overhang 解除，tail risk 移除有補漲空間",
+        "IWM: 小型股 +1.18% 反彈，睇可持續定 mean-reversion"
+      ],
+      "analysis": "# 美股收市回顧 — 2026-09-03（週四）\n\n## Fed Context — 宏觀背景\n\n- **下次 FOMC：Sep 15-16**（有 press conference + dot plot）。市場已 fully price in **9月加息25bp**，唔係減息。\n- **10Y 孳息 4.79%**（9/1），創 Nov 2023 新高；2Y 4.39%；10Y-2Y 利差 +0.40%（bear steepening，長端拋售主導）。\n- 本週 Fed 講話：今晚 Waller（8:30pm HKT）、明凌晨 Hammack（3:00am HKT）——兩個都要聽有冇為 9月加息「預熱」。ISM 服務業 PMI（今晚 10:00pm HKT）同週五 NFP 係加息預期嘅最後 data point。\n\n## 📰 今日重頭條（Raw Headlines）\n\n1. **Trump：美國「隨時」準備打擊伊朗**（CBS）— 地緣仍 high，但市場已脫敏。\n2. **Chevron 委內瑞拉 $7B 擴產**（CBS, CVX）— 能源供給面，壓油價。\n3. **Snowflake Q2 FY27 業績爆表**（Seeking Alpha, SNOW）— 盤後狂飆。\n4. **AVGO Q3 AI 增長 221% 但盤後照跌**（NC）— 硬體估值重置。\n5. **Apollo/ONEOK M&A call**（Seeking Alpha, APO/OKE）— 能源 M&A 訊號。\n6. 一堆 insider 交易噪音（DCOM/ANTX/HNVR）— 無意義，忽略。\n\n## 1. 📊 Market Recap\n\n今日（9/2 美股）**反彈**，同 Morning Scan 嘅 bearish 部署相反：\n\n| 指數 | 收盤 | 變動 |\n|------|------|------|\n| SPY | 765.16 | +0.44% |\n| QQQ | 709.24 | +0.23% |\n| DIA | 530.62 | +0.54% |\n| IWM | 294.01 | **+1.18%** |\n\n- **小型股領漲**（IWM +1.18%）— 資金 de-risk 到便宜嘅 value/small-cap，唔係全面 risk-on。\n- **科技滯後**（QQQ +0.23%）— 孳息壓住高估值。\n- **VIX -7%**（16.34 → 15.20）— 恐慌退潮。\n- **油價由 $93 高位回軟到 $90.77** — war premium 消退。\n- **金價反彈 +1.9%**（$4348 → $4432）— 避險需求部分恢復。\n\n## 2. 🔥 Notable Movers\n\n**跌（高估值遭孳息懲罰）：**\n- **PLTR -5.8%**（$169.46）— 無視 Army TITAN 合約，高估值 software 被孳息打壓。\n- **SNOW -4.4%**（常規時段 $305.84）— 但盤後爆表狂飆（見下）。\n- **NTAP -1.3%** — Q1 業績超預期照跌，同 AVGO pattern。\n- **MSFT -0.8%** — 大盤 software 冇跟反彈。\n\n**升：**\n- **NVDA +3.2%**（$224.41）— AI 硬體反彈，收回前日失地。\n- **ORCL +3.1%**（$145.75）— 下週業績前資金進場。\n- **UBER +1.6%** — 裁員 10% 被解讀為 cost discipline 利好。\n- **GOOGL +0.6%** — 廣告壟斷案免拆解，tail risk 解除。\n\n**盤後業績（真正 signal）：**\n- **AVGO**：Q3 AI 增長 221%、業績超預期，但盤後照跌 —「sell the news」/ 估值重置。\n- **SNOW**：業績爆表，盤後狂飆 — 軟體 vs 硬體嘅分岔。\n\n## 3. 📰 News That Mattered\n\n**NC calls 檢討：**\n- ✅ **GOOGL 免拆解** — 中。tail risk 解除，但今日只 +0.6%，市場反應克制（孳息壓制）。\n- ✅ **AVGO sell-the-news** — 中。Q3 超預期照跌，確認硬體 AI 估值重置。\n- ✅ **PLTR 高估值遭孳息打壓** — 中。挫 5.8%。\n- ✅ **油價回軟 war premium 消退** — 中。$93 → $90.77。\n- ⚠️ **SNOW 硬體→軟體輪動** — 部分中。SNOW 盤後狂飆，但 ORCL/NVDA 今日都升，唔係單純零和。\n\n**Morning Scan bearish thesis 檢討：**\n- ❌ **方向錯咗**：預測持續 risk-off，實際係反彈日。\n- ✅ **但核心邏輯驗證咗**：孳息懲罰高估值（PLTR/AVGO/NTAP 全中）。\n- 教訓：war premium 一旦消退，市場會先 de-risk 到便宜股，而唔係全面拋售。\n\n## 4. 🎯 Opportunities Carry Forward\n\n1. **SNOW — 軟體/data AI 輪動 leader**：盤後爆表，聽日睇有冇 follow-through。若開高企穩，係「硬體→軟體」輪動嘅確認信號。\n2. **ORCL — 下週業績係 AI trade 試金石**：今日 +3.1% 資金提前佈局。若 ORCL 業績強而股價照跌（重演 AVGO），等於宣判整個 AI 估值頂部。\n3. **GOOGL — 壟斷 overhang 解除**：+0.6% 反應克制，tail risk 移除後有補漲空間。\n4. **小型股/value 反彈**（IWM +1.18%）— 一日 mean-reversion 定可持續輪動？聽日若 IWM 再強 + QQQ 企穩，係 breadth 改善正信號。\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚（9/3）events（macro_calendar）：**\n- 🟡 8:30pm HKT — Initial Jobless Claims（prev 203K, fc 205K）\n- 🟡 8:30pm HKT — Fed Waller 演說（9月加息預熱？）\n- 🔴 10:00pm HKT — ISM 服務業 PMI（prev 54.1, fc 54.3）\n- 🟡 3:00am HKT — Fed Hammack 演說\n\n**聽日（9/4 週五）：**\n- 🔴 **NFP 非農就業（Aug）prev -23K, fc +58K**\n- 🔴 **失業率（Aug）prev 4.1%, fc 4.1%**\n\n**Structural risks：**\n- 10Y 孳息若破 5% → 高估值 AI/tech 進一步 de-rate。\n- FOMC Sep 15-16 加息落地 → 估值壓制。\n- 伊朗衝突未解除，油價隨時 re-spike。\n- AVGO「sell the news」若擴散到 ORCL/其他 AI 業績 → 整個 AI trade 見頂。\n\n## 6. 💡 My Take\n\n今日係「緊張嘅反彈」：市場 de-risk 到便宜嘅 small-cap/value（IWM +1.18%），而唔係全面 risk-on。核心 headwind（孳息創 Nov 2023 新高）完全未解，反彈引擎係 war premium 消退 + 恐慌退潮，唔係基本面改善。\n\n最重要嘅 signal 係業績季節嘅分岔：**硬體 AI 遭「sell the news」懲罰（AVGO/NTAP），軟體/data AI 獲獎勵（SNOW）**。呢個唔係 AI trade 死亡，而係 leadership 由硬體轉向軟體/數據。下週 ORCL 業績會係終極試金石——如果 ORCL 業績強而股價照跌，等於宣判 AI 估值頂部。\n\n**Tomorrow's bias：Neutral-to-cautious。** 反彈真實但脆弱，孳息仍係主導變數。NFP 週五係 swing factor——強勁（≥58K 甚至 beat）鞏固 9月加息、壓制 AI/科技；疲弱先能紓壓。今日唔追高，等 NFP 落地先定方向。",
+      "risks": [
+        "NFP 週五（9/4）— 強勁鞏固 9月加息、壓制 AI/科技",
+        "10Y 孳息破 5% → 高估值進一步 de-rate",
+        "FOMC Sep 15-16 加息落地",
+        "AVGO sell-the-news 擴散到 ORCL 等 AI 業績 → AI trade 見頂",
+        "伊朗衝突未解，油價隨時 re-spike"
+      ],
+      "my_take": "緊張嘅反彈——small-cap 領漲（IWM +1.18%）但孳息創 Nov 2023 新高未解。業績季節出現硬體/軟體分岔：AVGO/NTAP 硬體遭 sell-the-news，SNOW 軟體爆表狂飆。唔係 AI trade 死亡，係 leadership 由硬體轉向軟體/數據。下週 ORCL 業績係終極試金石。NFP 週五係 swing factor，今日唔追高。"
     }
   ],
   "news_curator": [
