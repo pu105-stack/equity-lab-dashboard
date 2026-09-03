@@ -6568,38 +6568,6 @@
       "my_take": "Bearish（短期）。滯脹格局：戰爭 + 央行轉鷹 + 債券拋售，避險資產失效。今晚 AVGO 業績係拐點，NFP 決定 9月加息預期。唔追油價、唔追已跌 AI，等 AI infra 回調企穩先部署。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-03",
-      "time": "08:05 HKT",
-      "status": "success",
-      "market_direction": "油價由$93回軟、10Y孳息創Nov 2023新高，債券拋售加深壓AI/高估值股",
-      "headlines": [
-        "[NEW] ACTION: SNOW — AI軟體爆表，與AVGO硬體遭懲罰對比",
-        "[RECENT] ACTION: GOOGL — 廣告壟斷案免拆解",
-        "[NEW] WATCH: AVGO — 221% AI增長但股價照跌",
-        "[RECENT] WATCH: OIL — 衝突升級但油價回軟（續報）",
-        "[RECENT] WATCH: PLTR — 挫7%遭孳息打壓",
-        "[NEW] WATCH: MACRO — 10Y孳息創新高",
-        "[RECENT] WATCH: UBER — 裁員10%+倫敦robotaxi"
-      ],
-      "opportunities": [
-        "SNOW: AI軟體逆勢爆發，資金或由硬體轉向軟體",
-        "GOOGL: 廣告壟斷案免拆解，tail risk解除"
-      ],
-      "analysis": "今日driver係孳息。Broadcom業績好成咁都照跌，係rising yields下AI高估值unwinding，同PLTR挫7%一脈相承。Snowflake逆勢爆表暗示資金轉向軟體。",
-      "risks": [
-        "10Y孳息續升壓高估值股",
-        "伊朗衝突或突然重新升溫",
-        "AI硬體「sell the news」擴散"
-      ],
-      "my_take": "孳息係真正driver，唔係伊朗。戰爭trade已脫敏，勿追。下週Oracle業績係AI trade試金石。",
-      "key_takeaways": [
-        "Broadcom 221% AI增長仍跌 = 估值重置非基本面",
-        "Snowflake vs AVGO = 軟體轉強/硬體轉弱",
-        "10Y孳息創Nov 2023新高 = 全場最大風險"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-03",
       "time": "08:36 HKT",
@@ -6629,6 +6597,63 @@
         "伊朗衝突未解，油價隨時 re-spike"
       ],
       "my_take": "緊張嘅反彈——small-cap 領漲（IWM +1.18%）但孳息創 Nov 2023 新高未解。業績季節出現硬體/軟體分岔：AVGO/NTAP 硬體遭 sell-the-news，SNOW 軟體爆表狂飆。唔係 AI trade 死亡，係 leadership 由硬體轉向軟體/數據。下週 ORCL 業績係終極試金石。NFP 週五係 swing factor，今日唔追高。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-03",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "風險資產分化：債券孳息高企壓 AI trade，但 SNOW/CIEN 逆勢強。Yen 急升係最大 macro 變數。油價/歐洲能源升溫成新催化。",
+      "headlines": [
+        "[NEW] ACTION: TSLA — Cybercab 更新預告，股價逼近日高",
+        "[NEW] WATCH: MACRO — Yen 急升創一個月高位，carry unwind 風險",
+        "[RECENT] WATCH: OIL/IRAN — 伊朗襲科威特，歐洲能源成本急升",
+        "[NEW] WATCH: CPB — Campbell's Q4 miss，消費疲弱",
+        "[RECENT] WATCH: TECH — AI cloud 數學已破 + 數據中心反彈"
+      ],
+      "opportunities": [
+        "TSLA: Cybercab catalyst，股價 $357 逼近日高",
+        "SNOW/CIEN: AI 需求基本面仍強，估值重置多過基本面惡化",
+        "OIL/ENERGY: 歐洲能源成本急升，最被低估嘅通脹變數"
+      ],
+      "analysis": "債券孳息（10Y 創 2023年11月高位）+ Yen 急升雙雙壓住 AI trade，但 SNOW/CIEN 業績顯示 AI 需求仍強。油價因伊朗襲科威特反彈，歐洲能源成本急升成新催化。",
+      "risks": [
+        "Yen carry unwind 係 risk assets 最大 tail risk",
+        "AI capex 反彈 + 數據中心政治風險",
+        "消費疲弱（CPB miss）擴散風險"
+      ],
+      "my_take": "而家係「估值重置」多過「基本面惡化」。油價/歐洲能源係最被低估變數——市場一直當戰爭溢價消退，但伊朗襲科威特 + TTF 天然氣 80 歐元顯示 energy 通脹風險重新升溫。TSLA Cybercab 係 Viper 值得盯嘅短線 catalyst。",
+      "key_takeaways": [
+        "Yen 急升 + 債券孳息高企 = AI trade 雙重壓力",
+        "SNOW/CIEN 業績逆勢強，AI 基本面未壞",
+        "歐洲能源成本急升係被低估嘅通脹催化"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-03",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral 偏防守（孳息高位 + Yen carry unwind 壓 growth，地緣推油金）",
+      "headlines": [
+        "美伊戰爭升級 — 伊朗襲科威特，Lloyd's £1.4bn 損失，LNG/TTF 急升",
+        "黃金 +2.78% 破 $4487 避險；10Y 孳息 4.80% 企 2023年11月高位",
+        "AI 業績分化：SNOW/CIEN 強 vs AVGO 照跌；CPB -7% 消費疲弱"
+      ],
+      "focus": [
+        "TSLA — Cybercab 催化逼近日高 $360",
+        "能源/油氣 — 伊朗衝突 + 歐洲能源成本急升",
+        "SNOW — Cantor bullish $647，AI 需求 confirmed",
+        "Yen/carry unwind — risk assets 最大 tail risk"
+      ],
+      "analysis": "🌅 Morning Scan — 9月3日（四）\n\n📰 今日重點頭條（按 market impact 排序）\n1. 【地緣·主導】美伊戰爭升級 — 伊朗襲擊科威特、聲稱攻擊美軍基地（科威特/UAE）。Lloyd's 戰爭損失升至 £1.4bn，亞洲 LNG 價格創 2022 年以來新高，TTF 天然氣 80 歐元。（能源、油氣、航運）\n2. 【避險】黃金 +2.78% 破 $4487，避險資金湧入；美元指數 -0.43%。\n3. 【孳息】10Y 美債孳息 4.80%，企 2023 年 11 月高位，持續打壓 AI/growth trade。\n4. 【AI 業績分化】SNOW（Cantor 上調目標價至 bullish $647）、CIEN（beat $0.39）、AVGO（Cantor 上調但股價照跌）— 基本面強，但估值重置。\n5. 【消費疲弱】CPB Campbell's Q4 miss、-7%、下修全年指引 — 消費降級訊號。\n6. 【個股催化】TSLA Cybercab（無方向盤、無踏板）逼近日高 $360。\n7. 【FX/carry】Yen 急升創一個月高位（BoJ 加息預期 + 干預傳聞）— carry unwind 係最大 tail risk。\n\n🌍 隔夜市場\n- 美股（Sep 2 收市）：SPY 765.16 (+0.44%)、QQQ 709.24 (+0.23%)、DIA 530.62 (+0.54%) — 三大指數溫和上漲。\n- VIX 15.38 (+1.18%) — 仍然偏低，equity 未恐慌，但黃金/油價反映 risk-off 轉向。\n- 10Y 孳息 4.80%（企高位）。\n- WTI 油 $92.18 (+1.29%) — 地緣升溫反彈。\n- 黃金 $4487 (+2.78%) — 大幅避險買盤。\n- 美元指數 99.13 (-0.43%) — 走弱。\n\n📈 昨日爆升／暴跌榜\n- 爆升：多為 penny stocks（FSHPR +159%、VIOT +84%、BIAF +48%、GPRO +37%），無機構性意義。\n- 暴跌：同為 microcap（ADBT -53%、TCRX -43%、CDT -38%）— 無系統性。\n- 活躍：NVDA +3.2%（$224.41）最值得睇 — AI 龍頭反彈，2x short NVDA（NVD）-6.4% 印證資金回補。\n- Sector theme：爆升/暴跌榜以 microcap 為主，無 clear sector rotation；真正 signal 喺 NVDA 反彈 + 能源/黃金避險。\n\n📡 今日重點事件（HKT）\n- 08:30PM — Initial Jobless Claims（prev 203K，fcast 205K）\n- 08:30PM — Fed Waller 講話\n- 10:00PM — 🔴 ISM Services PMI（prev 54.1，fcast 54.3）\n- 03:00AM — Fed Hammack 講話\n- 本週：Fri NFP + 失業率（就業市場係下一個 macro 焦點）\n\n🔥 Sector Watch\n- 能源/油氣（強）：伊朗衝突 + LNG/TTF 急升 + 歐洲能源成本 — 戰爭溢價重新定價，energy 係被低估嘅變數。\n- AI/科技（分歧）：孳息高位壓 valuation，但 SNOW/CIEN 業績證明需求強 — 估值重置多過基本面惡化。\n- 消費（弱）：CPB miss + 下修指引，消費降級風險。\n- 黃金/避險（升）：金價 +2.78% 反映資金轉向防守。\n\n🎯 Pre-market Opportunities\n- 🎯 TSLA（ACTION）：Cybercab 催化逼近日高 $360。Catalyst-driven momentum，等具體發佈；短線值得盯。\n- 👀 能源/油氣：伊朗襲科威特 + 歐洲能源成本急升，油價/天然氣係下一個驚喜來源。\n- 👀 Yen/carry unwind：Yen 急升係 risk assets 最大 tail risk，今日 ISM + 就業數據會放大波動。\n- 👀 SNOW：業績強 + Cantor bullish $647，AI 需求基本面 confirmed。\n- 👀 CPB：消費疲弱訊號，留意會唔會擴散到其他消費股。\n\n📅 未來一個月業績重點\n- 已出：CIEN（beat $0.39，$51B）\n- 9/8（二）ORCL 🎯 $407B — AI/cloud 基建需求指標，會影響成個 AI trade。\n- 9/10（四）ADBE 🎯 $111B — 消費數碼化 + AI 應用，睇佢會唔會跟 CPB 消費疲弱。\n- 下週無其他 notable — 焦點集中喺 macro（NFP/PPI）。\n\n📋 Today's Agenda\n- 就業數據前哨（Jobless Claims + 週五 NFP）— 就業市場會左右 Fed 路徑預期。\n- ISM Services PMI（10:00PM）— 服務業通脹/需求。\n- Fed Waller/Hammack 講話 — 對孳息高企嘅態度。\n- Key levels：SPY 765 附近，support 761 / resistance 769。\n\n💡 My Take\nBias：Neutral 偏防守。兩大 macro 變數（10Y 孳息 4.80% 高位 + Yen carry unwind）壓住 AI/growth trade，但地緣（伊朗/油價/金價）開咗一條 risk-off 嘅第二戰線。SNOW/CIEN 業績確認 AI 基本面仍然強 — 而家係估值重置，唔係基本面惡化，所以唔應該全面轉 bear，但唔好喺孳息未見頂前追高 growth。\n\n今日最緊要睇實：① 油價/天然氣會唔會繼續衝（伊朗衝突升溫）② ISM Services + 就業數據（Fed 路徑）③ Yen 走勢（carry unwind 警號）④ NVDA 反彈有冇後續（AI trade 情緒指標）。\n\nOvernight signal：黃金 +2.78% 係最值得警惕嘅訊號 — equity VIX 仲係低（15.38），但資金已經喺商品/避險市場 re-price 戰爭溢價。能源通脹可能係下一個驚喜來源，呢個係今個星期比 AI trade 更重要嘅 macro 變數。\n",
+      "risks": [
+        "Yen 急升觸發 carry unwind",
+        "消費疲弱（CPB miss）擴散",
+        "10Y 孳息未見頂，growth 估值續壓",
+        "伊朗衝突進一步升級（油金再衝）"
+      ],
+      "my_take": "Neutral 偏防守：孳息高位 + Yen carry unwind 壓 growth，但 SNOW/CIEN 業績證明 AI 基本面仍強（估值重置非基本面惡化）。地緣風險（伊朗/油金）係被低估嘅第二戰線，能源通脹可能係下一個驚喜。"
     }
   ],
   "news_curator": [
