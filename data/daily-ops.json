@@ -6656,38 +6656,6 @@
       "my_take": "Neutral 偏防守：孳息高位 + Yen carry unwind 壓 growth，但 SNOW/CIEN 業績證明 AI 基本面仍強（估值重置非基本面惡化）。地緣風險（伊朗/油金）係被低估嘅第二戰線，能源通脹可能係下一個驚喜。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-04",
-      "time": "08:04 HKT",
-      "status": "success",
-      "market_direction": "Risk-on — 加息恐慌消退，S&P 500 單月最佳日，AI trade 反彈（NVDA +1.8% 逼近新高、META +3%）。油價連升4日 + 柴油新高構成通脹隱憂。",
-      "headlines": [
-        "[RECENT] ACTION: NVDA — 收購 Hugging Face $12.9B，AI 軟件護城河加深",
-        "[NEW] WATCH: ADBE — CEO 交接（Narayen → Chakravarthy）",
-        "[RECENT] WATCH: LULU — Q2 miss + 指引疲弱，消費疲弱訊號",
-        "[RECENT] WATCH: MACRO — 加息恐慌消退，S&P 單月最佳日",
-        "[NEW] MEME: MSTR/CIFR/WULF — 加密財政+數據中心股集體爆升"
-      ],
-      "opportunities": [
-        "NVDA: Hugging Face $12.9B 收購，AI 軟件護城河加深，股價逼近新高",
-        "AI 模型競賽: OpenAI Astra (GPT-6) 聲稱超越 Anthropic，MSFT 受惠"
-      ],
-      "analysis": "市場由加息恐慌急轉 risk-on。S&P 500 錄單月最佳日，交易員削減加息押注，AI trade 重新領漲。NVDA 收購 Hugging Face 係本 session 最重要結構性故事。油價連升4日 + 柴油逼近紀錄高位，係被 AI 反彈掩蓋嘅通脹隱憂。",
-      "risks": [
-        "油價連升4日 + 柴油逼近歷史高位 → 通脹隱憂",
-        "Fed 內部分歧：部分官員仍談加息，Vance 施壓減息",
-        "消費疲弱訊號持續（LULU 繼 CPB 後）"
-      ],
-      "my_take": "市場由「加息恐慌」急轉「risk-on」——AI trade 重新領漲。但油價連升4日 + 柴油逼近紀錄高位，係一個被 AI 反彈掩蓋嘅通脹隱憂。NVDA 收購 Hugging Face 係本 session 最重要結構性故事。",
-      "key_takeaways": [
-        "NVDA $12.9B 收購 Hugging Face，AI 軟件層納入護城河",
-        "加息恐慌消退，S&P 500 單月最佳日",
-        "油價連升4日 + 柴油新高，通脹隱憂重燃",
-        "消費疲弱訊號持續（LULU、CPB）",
-        "加密財政+數據中心股集體爆升（Viper 短線）"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-04",
       "time": "08:34 HKT",
@@ -6715,6 +6683,64 @@
         "MSTR/CIFR/WULF meme 股升幅過急回吐風險"
       ],
       "my_take": "Risk-on 全面回歸：加息恐慌消退，S&P +1.05% 但 10Y 孳息仍企 4.79% 未回落，市場係 re-pricing 加息機率而非孳息本身。硬體→軟體輪動確認（SNOW +16.6%、PLTR +7.7% vs AVGO -2.7%），加密財政股 MSTR +17.6%、CIFR +14.4% 爆升反映 high-beta 胃納回歸。今晚 NFP 係 swing factor——強勁數據可逆轉 risk-on。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-04",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "美股就業數據（NFP）前夕偏穩；油價四連升後回穩（Brent ~$96）；加密貨幣反彈；VW 重組領漲歐洲；美元挫、日圓急升。",
+      "headlines": [
+        "[RECENT] ACTION: AAPL — John Ternus 接棒，AI 事件(~Sep 10)成關鍵考驗",
+        "[RECENT] ACTION: BTC-USD — 比特幣收復$81K + ETF流入$7.31億創新高",
+        "[NEW] WATCH: OIL — 阿根廷威脅制裁 Falklands 油企",
+        "[NEW] WATCH: MACRO — 8月非農今晚公佈",
+        "[NEW] WATCH: MACRO — 挪威主權基金削美國國債",
+        "[NEW] MEME: ZEC-USD — Zcash 空頭擠壓+20%"
+      ],
+      "opportunities": [
+        "AAPL: John Ternus 接棒後 AI 事件(~Sep 10)成關鍵，市場已反映換帥，catalyst 係 AI 發佈",
+        "BTC-USD: 加息恐慌消退 + ETF 流入創新高，Reptember 反彈成真",
+        "ZEC-USD: 空頭擠壓 +20%，Viper 短線 momentum play"
+      ],
+      "analysis": "市場焦點由地緣（Iran）轉向就業數據。油價四連升後已現「事件跟進」而非新鮮 catalyst，反而係 Falklands 呢個新角先有 edge。加密貨幣由 Rektember 反彈係真 reversal，Zcash 空頭擠壓係 Viper 短線 play。",
+      "risks": [
+        "NFP 過熱 → 5% 孳息重臨，壓高估值 AI trade",
+        "挪威基金 + 央行去美元化 → 長端孳息結構性壓力",
+        "日圓急升 → carry unwind 風險"
+      ],
+      "my_take": "真正 macro 隱憂係挪威基金 + 央行去美元化 + 債市拋售——呢個組合對長端孳息係結構性壓力，會繼續壓住高估值 AI trade。今晚 NFP 係關鍵分水嶺。",
+      "key_takeaways": [
+        "油價四連升後，地緣 story 成熟，Falklands 係新 angle",
+        "加密貨幣 reversal 成真，Zcash 空頭擠壓供 Viper",
+        "NFP 今晚係關鍵：轉弱利成長股，過熱則 5% 孳息重臨"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-04",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-bullish（NFP 前 risk-on，binary 待定）",
+      "headlines": [
+        "中美軍方指揮官 2 年來首度會談（地緣降溫）",
+        "挪威 $2 萬億主權基金擬削美債持倉（結構性孳息壓力）",
+        "ByteDance 取 $29.6B 貸款加碼 AI（AI capex 競賽）",
+        "英國重申 Falklands 支持「unwavering」（地緣溢價）"
+      ],
+      "focus": [
+        "Crypto 板塊（HOOD/MSTR/MARA/礦企）— ETF 流入創新高，真 reversal",
+        "NFP（Aug）prev -23K — binary catalyst，決定方向",
+        "AAPL AI event ~Sep 10 — event-driven window",
+        "債市結構壓力（挪威去美債/去美元化）— cap 反彈高度"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-09-04（星期五）\n\n## Fed Context — macro backdrop\n- 下次 FOMC：Sep 15-16*（帶 SEP dot plot + 記者會），距離約 11 日。今次係「有 SEP」嘅會議，對長端孳息定價係關鍵 event。\n- 近 7 日無新 Fed press release；近 90 日無新 FOMC statement（最新係 Jul 28-29 會議 minutes，Aug 19 公佈）。無新 Kevin Warsh signal 喺新聞流出現。\n- Macro backdrop：市場焦點由 Fed 政策轉向就業數據。今晚 NFP（Aug）係首要 catalyst。重點唔係 Fed 而係數據本身。\n\n## 今日重點頭條（raw landscape，24h）\n1. 中美軍方指揮官相隔 2 年恢復會談（加拿大）— 地緣降溫 signal，利多風險資產。\n2. 英國 No 10 重申對 Falklands 支持「unwavering」— 阿根廷 Milei 制裁威脅升級，地緣溢價。\n3. 美國柴油價格創新高；Vance 淡化 Iran 戰爭對油價影響 — 能源通脹壓力。\n4. ByteDance 取得 $29.6B 貸款加碼 AI 投資（TikTok 母公司）— AI capex 競賽續燒。\n5. Marvell + TSMC 被點名「淘金潮必買」（MRVL, TSM）— 半導體/AI 基建敘事。\n6. Guggenheim 重申 Lululemon 評級但質疑銷售（LULU）— 消費疲弱訊號。\n7. Rosenblatt 重申 CRWD Buy，睇 AI 產品 — 網絡安全 AI 動能。\n8. Samsara（IOT）目標價上調至 $51 — ARR 增長強勁。\n9. Valero（VLO）被降級「peak is near」— 煉油利潤見頂訊號。\n10. 挪威 $2 萬億主權基金擬削減美國國債持倉 — 結構性長端孳息壓力。\n\n## 隔夜市場\n- 美股上交易日收升：SPY 773.17（+1.05%）、QQQ 717.67（+1.19%）、DIA 536.93（+1.19%）。三大指數齊升，risk-on。\n- SPY 距離 52 週高位（779.37）僅 0.8%，處於高位附近；50D MA 756、200D MA 712。\n- 亞洲/歐洲：油價四連升後回穩（Brent ~$96）；VW 重組領漲歐洲（裁員 5 萬獲批，+6%）；美元挫、日圓急升（carry unwind 訊號）。\n- Crypto：BTC 收復 $81K，ETF 單日流入 $731M（1 月以來最高）。Zcash 空頭擠壓 +20% 破 $1,000。\n\n## 昨日市場爆升／暴跌榜\n📈 爆升榜（crypto 主導，單一主題）：\n- CHPT +75%（EV 充電）、SPWR +58%（太陽能）— 潔淨能源 rebound\n- HOOD +16.6%、MSTR +17.6%、MARA +10.8% — crypto 龍頭\n- 大量 2x 槓桿 crypto ETF（MSTR/HOOD/COIN/RIOT/MARA/XRP/DOGE）— 純 momentum\n- CAN +28%、BTCS +20%、ABTC +19% — 比特幣礦企\n- AIB +19%（AI 數據中心）\n📉 暴跌榜（SPAC 爆雷 + biotech + 反向 ETF）：\n- NCT -90%、ADBT -80% — SPAC 歸零\n- RARE -44%（Ultragenyx 生技）— 臨床失敗\n- SMST -35%、CONI -21% — 2x 做空 MSTR/COIN 反向 ETF（被 crypto 反彈軋爆）\n- PSNY -28%（Polestar）\n📊 活躍榜：NVDA +1.8%、TSLA +5.4%、AVGO -2.7%、INTC +1.8%、MSTR、HOOD、SPCX（SpaceX +6.4%）\n\nSector theme：crypto + AI 基建係單一主線，唔係 broad rotation。反向 ETF 被軋 = 空頭投降。\n\n## 今日重點事件（SOURCE OF TRUTH: macro_calendar.json）\n🔴 20:30 HKT — Non Farm Payrolls (Aug)：prev -23K，fcast +56K\n🔴 20:30 HKT — Unemployment Rate (Aug)：prev 4.1%，fcast 4.1%\n🟡 20:30 HKT — Average Hourly Earnings MoM（prev 0.1 → fcast 0.3）/ YoY（prev 3.2 → fcast 3.0）\n🟡 20:30 HKT — Participation Rate（prev 61.4）\n\n⚠️ 關鍵：prev NFP 係 -23K（負數！）— 上個月非農係收縮，屬極端 shock。今晚反彈預期 +56K。呢個係 binary catalyst：弱 → 加息恐慌消退、利多成長股；熱 → 5% 孳息惡夢重臨、壓高估值 AI trade。\n\n## Sector Watch\n- 🔥 Momentum：Industrials +3.29%、Financial Services +1.66%、Real Estate +1.84%、Consumer Cyclical +1.09%、Technology +1.00%\n- ⚠️ 落後：Basic Materials -1.21%、Utilities -1.19%、Healthcare -0.62%\n- Rotation signal：資金由防禦（Utilities/Basic Materials）轉向 cyclicals + 金融 + 科技。利率敏感嘅 Real Estate +1.84% 反映「孳息見頂」定價。\n\n## Pre-market Opportunities（News Curator consolidate）\n🎯 ACTION — AAPL：John Ternus 接棒 CEO，AI event（~Sep 10）係真正 catalyst。換帥已反映（Sep 2 rally），焦點應放喺 AI 發佈能否落地。部署：Sep 10 前後係 event-driven window，唔好喺 NFP 日追價。\n🎯 ACTION — CRYPTO（BTC-USD / 礦企 / HOOD / MSTR）：BTC 收復 $81K + ETF 流入 $731M 創新高 = 真 reversal，唔係 Rektember 反彈。部署：follow-through 要睇今晚 NFP——若數據弱、美元續挫、孳息回落，crypto 有第二波。留意 MSTR（+17.6%）、HOOD（+16.6%）、MARA。\n⚠️ WATCH — OIL/Falklands：Milei 威脅制裁 Falklands 油企，探勘股重挫；油價已四連升，地緣溢價部分已反映。部署：Falklands 係新角，edge 喺呢度，但注意英國「unwavering」回應 = 政治僵持，唔係速決。\n⚠️ WATCH — TSLA：Cybercab 首秀平淡，與 hype 背離。部署：避免追 +5.4% 嘅反彈，除非有後續催化。\n\n## 未來一個月業績重點\n- 本週（Sep 10，AMC）：ORCL（$444B，est EPS $1.40）＋ ADBE（$114B，est $4.86）— 兩隻都係 tracked，同晚 software 雙響，再撞 AAPL AI event，形成「Sep 10 AI/軟件 cluster」。\n- Sep 23：CTAS；Sep 24：COST（$410B）\n- Sep 30：MU（AMC，記憶體龍頭，est EPS $31.17）— 對半導體板塊係風向標。\n- Oct 1：ACN（BMO，tracked）＋ NKE（AMC，tracked）— 諮詢 + 消費雙線。\n- Oct 8：PEP、DAL。\n- Oct 13：銀行業績開跑 — JPM、GS、WFC、C、BLK（＋JNJ）— 金融板塊 catalyst。\n\n## Today's Agenda\n- 20:30 HKT：NFP（全晚唯一大事，決定方向）\n- Key levels（SPY）：阻力 779（52 週高）、支撐 765（前收）→ 756（50D MA）。高位附近，向上空間靠數據突破，向下有 50D MA 托底。\n\n## My Take\n整體 bias：Neutral-to-bullish，但今晚 NFP 係 binary。Risk-on 動能（crypto + AI 基建）強，但 -23K 嘅 prior 係地雷——市場挾住「孳息見頂」嘅預期衝高位，一旦 NFP 過熱，5% 孳息惡夢會立即反噬高估值 AI trade。真正嘅結構性隱憂係債市：挪威基金去美債 + 去美元化 + 日圓 carry unwind，呢個組合對長端孳息係持續壓力，會限制任何反彈嘅高度。\n\n今日最緊要睇實：① NFP（20:30）② crypto follow-through（HOOD/MSTR/MARA）③ 美元/日圓走勢。唔好喺 NFP 出爐前追高。\n",
+      "risks": [
+        "NFP 過熱 → 5% 孳息惡夢重臨，壓高估值 AI trade",
+        "挪威基金去美債 + 日圓 carry unwind → 長端孳息結構性上升",
+        "Falklands/伊朗地緣升級 → 油價再衝"
+      ],
+      "my_take": "Risk-on 動能強（crypto 真 reversal + AI 基建），但今晚 NFP 係 binary catalyst，prev -23K 係地雷。市場已挾住「孳息見頂」預期衝高位，SPY 距 52 週高僅 0.8%。真正結構性隱憂係債市（挪威去美債 + 去美元化 + carry unwind）壓長端孳息，會 cap 反彈高度。部署：唔喺 NFP 前追高，睇實 crypto follow-through 同美元/日圓。Sep 10 有 ORCL+ADBE+AAPL AI event 三重 cluster，係下一個 event-driven 窗口。"
     }
   ],
   "news_curator": [
