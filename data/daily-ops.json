@@ -6654,6 +6654,67 @@
         "伊朗衝突進一步升級（油金再衝）"
       ],
       "my_take": "Neutral 偏防守：孳息高位 + Yen carry unwind 壓 growth，但 SNOW/CIEN 業績證明 AI 基本面仍強（估值重置非基本面惡化）。地緣風險（伊朗/油金）係被低估嘅第二戰線，能源通脹可能係下一個驚喜。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-04",
+      "time": "08:04 HKT",
+      "status": "success",
+      "market_direction": "Risk-on — 加息恐慌消退，S&P 500 單月最佳日，AI trade 反彈（NVDA +1.8% 逼近新高、META +3%）。油價連升4日 + 柴油新高構成通脹隱憂。",
+      "headlines": [
+        "[RECENT] ACTION: NVDA — 收購 Hugging Face $12.9B，AI 軟件護城河加深",
+        "[NEW] WATCH: ADBE — CEO 交接（Narayen → Chakravarthy）",
+        "[RECENT] WATCH: LULU — Q2 miss + 指引疲弱，消費疲弱訊號",
+        "[RECENT] WATCH: MACRO — 加息恐慌消退，S&P 單月最佳日",
+        "[NEW] MEME: MSTR/CIFR/WULF — 加密財政+數據中心股集體爆升"
+      ],
+      "opportunities": [
+        "NVDA: Hugging Face $12.9B 收購，AI 軟件護城河加深，股價逼近新高",
+        "AI 模型競賽: OpenAI Astra (GPT-6) 聲稱超越 Anthropic，MSFT 受惠"
+      ],
+      "analysis": "市場由加息恐慌急轉 risk-on。S&P 500 錄單月最佳日，交易員削減加息押注，AI trade 重新領漲。NVDA 收購 Hugging Face 係本 session 最重要結構性故事。油價連升4日 + 柴油逼近紀錄高位，係被 AI 反彈掩蓋嘅通脹隱憂。",
+      "risks": [
+        "油價連升4日 + 柴油逼近歷史高位 → 通脹隱憂",
+        "Fed 內部分歧：部分官員仍談加息，Vance 施壓減息",
+        "消費疲弱訊號持續（LULU 繼 CPB 後）"
+      ],
+      "my_take": "市場由「加息恐慌」急轉「risk-on」——AI trade 重新領漲。但油價連升4日 + 柴油逼近紀錄高位，係一個被 AI 反彈掩蓋嘅通脹隱憂。NVDA 收購 Hugging Face 係本 session 最重要結構性故事。",
+      "key_takeaways": [
+        "NVDA $12.9B 收購 Hugging Face，AI 軟件層納入護城河",
+        "加息恐慌消退，S&P 500 單月最佳日",
+        "油價連升4日 + 柴油新高，通脹隱憂重燃",
+        "消費疲弱訊號持續（LULU、CPB）",
+        "加密財政+數據中心股集體爆升（Viper 短線）"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-04",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 反彈（預期轉向驅動，非孳息見頂）",
+      "headlines": [
+        "Risk-on：加息恐慌消退，S&P 錄單月最佳日，VIX 回落到 14.32",
+        "硬體→軟體輪動確認：SNOW +16.6% / PLTR +7.7% vs AVGO -2.7%",
+        "NVDA 收購 Hugging Face $12.9B，AI 軟件護城河加深",
+        "加密財政/數據中心股爆升：MSTR +17.6%、CIFR +14.4%、WULF +9.5%",
+        "TSLA 無方向盤車款試乘（Robotaxi 落地信號，NC 未 cover）"
+      ],
+      "opportunities": [
+        "SNOW: 軟體 AI 輪動 leader，等回調唔追高",
+        "ORCL: 下週業績 AI trade 終極試金石，資金已佈局",
+        "NVDA: 軟件護城河加深，突破新高係趨勢確認",
+        "TSLA: Robotaxi catalyst raw news 先見，值得深挖"
+      ],
+      "analysis": "# 美股收市回顧 — 9月3日（週三）US Session\n\n## 📰 今日重點頭條\n- [NYT] Tesla 開始提供無方向盤車款試乘（TSLA）— raw news 先見到，NC 冇 cover。Robotaxi 落地信號，值得深挖 catalyst。\n- [NC] NVDA 收購 Hugging Face $12.9B — AI 軟件護城河加深，股價逼近新高。\n- [NC] OpenAI Astra (GPT-6) 聲稱超越 Anthropic — MSFT 受惠。\n- [NC] ADBE CEO 交接（Narayen → Chakravarthy）— 股價 +2.13% 反映市場認同交接。\n- [NC] LULU Q2 miss + 指引疲弱 — 消費疲弱訊號，但股價 +1.42% 反映 risk-on tape 未即時傳導。\n- [raw] 大量中小型科技股高管減持（Pulmonx、Pagaya、Omada、Cricut）— 冇個別重大意義，反映套現情緒。\n\n## 📊 Market Recap\nRisk-on 全面回歸。SPY +1.05%（773.17）、QQQ +1.19%（717.67）、DIA +1.19%（536.93）三大指數齊升，S&P 錄單月最佳日。VIX 由 15.20 回落到 14.32（-5.8%）——恐慌退潮。\n\n關鍵 nuance：10Y 孳息仍企 4.79%（Nov 2023 以來高位，未回落）。市場今日唔係因為孳息跌而升，而係 re-pricing 加息機率——交易員削減 9 月加息押注。呢個係「預期轉向」驅動嘅反彈，唔係「孳息見頂」驅動。\n\nSector rotation 明顯 risk-on：\n- 領漲：XLF +1.56%、XLY +1.39%、XLK +1.29%、XLI +1.03%\n- 落後：XLE -0.74%、XLP -0.32%、XLV +0.18%\n防禦板塊（staples/health）落後、金融/消費/科技領漲——典型 risk-on 輪動。\n\nSmall-cap IWM 只 +0.40%，明顯 lag 大市。昨日 Evening Review 提出「IWM 反彈可持續性」疑問——今日答案係唔可持續，資金回流 large-cap AI/科技。\n\n## 🔥 Notable Movers\n升幅榜：\n- MSTR +17.56%、CIFR +14.43%、WULF +9.51% — 加密財政 + 數據中心股集體爆升，high-beta risk-on 最明確訊號。\n- SNOW +16.55% — 連續第二日爆升，software/data AI 輪動 leader，昨日 Evening Review call 大中。\n- PLTR +7.71% — 反彈，收復前日 -5.8% 失地。\n- ORCL +5.69% — 下週業績前資金提前佈局，AI trade 試金石。\n- META +3.01%、MSFT +2.68%、NVDA +1.80% — AI 龍頭全面反彈。\n\n跌幅榜：\n- AVGO -2.74% — 繼續 sell-the-news，Q3 AI 增長 221% 超預期但估值重置未完成。\n\n## 📰 News That Mattered\n- 加息恐慌消退：市場由「緊張反彈」轉「risk-on」，交易員削減 9 月加息押注。\n- 硬體→軟體輪動確認：SNOW/PLTR/ORCL 升，AVGO 跌。唔係 AI trade 死亡，係 leadership 轉移——昨日 thesis 今日驗證。\n- NVDA 收購 Hugging Face：結構性故事——AI 軟件層納入護城河，唔單止硬件。\n- 油價 $91.65 連升4日 + 柴油逼近歷史高位：通脹隱憂被 AI 反彈掩蓋。注意 XLE 反而 -0.74%——油價升但能源股跌，energy equity 資金撤離。\n\n昨日 NC / Evening Review calls 檢討：\n- ✅ SNOW 軟體輪動 leader：大中（+16.55%）\n- ✅ ORCL AI 試金石：中（+5.69% 提前佈局）\n- ✅ GOOGL 壟斷解除補漲：小中（+1.59%）\n- ❌ IWM 小型股可持續：miss（+0.40% lag）\n- ❌ AVGO sell-the-news 擴散到 AI：錯（AI 全面反彈）\n\n## 🎯 Opportunities Carry Forward\n- SNOW：軟體/data AI 輪動 leader，連續兩日爆升，留意 follow-through 定短期過熱。唔追高，等回調。\n- ORCL：下週業績係 AI trade 終極試金石，今日 +5.69% 反映資金已佈局，業績前保持觀察。\n- NVDA：收購 Hugging Face 加深軟件護城河，股價逼近新高 $236，突破新高係趨勢確認信號。\n- TSLA：NYT 報導無方向盤車款試乘（Robotaxi 落地），raw news 先見到、NC 未 cover——值得深挖 catalyst。\n\n## ⚠️ Risks / Watchlist\n今晚（8:30pm HKT）八月就業數據 —— 本週最重要 swing factor：\n- Non Farm Payrolls (Aug) — HIGH\n- Unemployment Rate (Aug) — HIGH\n- Average Hourly Earnings MoM/YoY (Aug) — MEDIUM\n強勁 NFP → 鞏固 9 月加息、逆轉今日 risk-on；疲弱 → 進一步 relief rally。\n\n其他風險：\n- 10Y 孳息仍企 4.79% 高位——若破 5% 會再度 de-rate 高估值。\n- FOMC Sep 15-16（有 dot plot + press conference）——加息落地風險。\n- 油價 $91.65 高位 + 柴油逼近紀錄——能源通脹可能係下一個被重新定價嘅風險。\n- 加密財政/數據中心股（MSTR/CIFR/WULF）meme 性質強，升幅過急有回吐風險。\n\n## 💡 My Take\n今日係「預期轉向」驅動嘅 risk-on 反彈——加息恐慌消退，AI trade 全面回歸，但 10Y 孳息未真正回落。硬體→軟體輪動確認（SNOW/PLTR 升、AVGO 跌），加密財政股爆升反映 high-beta 風險胃納回歸。今晚 NFP 係 single point of failure——強勁數據可以即刻逆轉呢個 risk-on。明日 bias：neutral-to-bullish，等 NFP 落地先落注。\n",
+      "risks": [
+        "NFP 今晚 8:30pm HKT（HIGH）— 強勁可逆轉 risk-on",
+        "10Y 孳息仍企 4.79% 高位，破 5% 再 de-rate",
+        "FOMC Sep 15-16 加息落地風險",
+        "油價 $91.65 高位，能源通脹可能被重新定價",
+        "MSTR/CIFR/WULF meme 股升幅過急回吐風險"
+      ],
+      "my_take": "Risk-on 全面回歸：加息恐慌消退，S&P +1.05% 但 10Y 孳息仍企 4.79% 未回落，市場係 re-pricing 加息機率而非孳息本身。硬體→軟體輪動確認（SNOW +16.6%、PLTR +7.7% vs AVGO -2.7%），加密財政股 MSTR +17.6%、CIFR +14.4% 爆升反映 high-beta 胃納回歸。今晚 NFP 係 swing factor——強勁數據可逆轉 risk-on。"
     }
   ],
   "news_curator": [
