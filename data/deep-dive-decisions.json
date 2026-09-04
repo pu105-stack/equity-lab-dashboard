@@ -1,4 +1,89 @@
 {
-  "decisions": [],
-  "last_synced": "2026-08-29T12:13:35.810847+08:00"
+  "decisions": [
+    {
+      "ticker": "SNOW",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "AI 軟體輪動嘅領頭羊：Q2 FY27 業績爆表，盤後狂飆、常規時段 +16.55% 連續第二日爆升，Cantor 上調目標價至 $647。同硬體（AVGO 業績好照跌）形成鮮明對比，確認資金由「硬體→軟體/數據」嘅結構性輪動——呢個唔係單季反彈，係 AI trade 領導權轉移。風險只係短線升幅過急、追高要等回調，但 thesis 係 clean bullish。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "CPB",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "消費降級嘅明確訊號：Campbell's Q4 miss -7% + 下修全年指引，配合 LULU Q2 miss + 指引疲弱、DKS 上週 -30.7%，消費疲弱由食品到鞋類到服飾全線擴散。呢個係底層需求走弱，唔係個股問題。若消費疲弱持續，會壓低 XLY 整體估值 + 強化 Fed 對「內需轉弱」嘅鴿派論證。唔好撈底消費股。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "USO",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "油價 6 週新高（$93）crowded，已連升 4 日。市場已充分定價伊朗衝突，且多個 de-escalation 訊號潛伏：Bessent 稱 Hormuz 兩年內「過時」、德黑蘭曾提議重返 6 月協議、Chevron 委內瑞拉 $7B 擴產加供應、挪威基金去美債反映資金轉向。XLE 反而 -0.74%（油升能源股跌）顯示 energy equity 資金撤離。追高係 crowded trade，回報風險比差。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "AVGO",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "最清晰嘅「好業績救唔到估值」signal：Q3 AI 增長 221%、業績超預期，盤後照跌 -2.74%。配合 MRVL 上調指引照插 -8%、NTAP 超預期照跌，硬體 AI 估值重置係板塊級，唔係個股。當連 221% AI 增長都撐唔住股價，代表硬體 AI 估值頂部已現，資金正由硬體轉向軟體（SNOW）。唔好接刀。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "BTC-USD",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "加密由「Rektember」真 reversal：BTC 收復 $81K，ETF 單日流入 $731M 創 1 月以來新高，MSTR +17.6%、HOOD +16.6%、MARA/CIFR/WULF 集體爆升，空頭反向 ETF 被軋爆。Bull：ETF 流入係機構真金白銀，follow-through 要睇 NFP——若數據弱、美元續挫、孳息回落有第二波。Bear：加密財政股 meme 性質強、升幅過急有回吐風險，屬 high-beta risk-on 嘅最脆一環。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "廣告壟斷案免拆解，forced divestiture tail risk 解除，理論上有補漲空間。但市場反應克制（+0.6% / +1.59%），反映孳息壓制 + 結構性疑慮未清：AI 人才流失、Berkshire 增持 vs Tiger Global 減持 45% 機構分歧。Tail risk 移除係 positive，但唔係乾淨嘅 bullish——補漲要等孳息見頂先釋放。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "TSLA",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "Cybercab（無方向盤/無踏板）催生 catalyst-driven momentum，逼近日高 $360，係 S&P 500 唯一強勢 mega-cap（+3.7%）。但 Sep 4 NC 已警示「Cybercab 首秀平淡，與 hype 背離」——催化劑可能已 pre-run。Bull：Robotaxi 落地係結構性故事。Bear：首秀平淡 vs 高期待，追高風險大。等具體發佈確認，唔好喺 hype 高峰接。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "AAPL",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "John Ternus 接棒 CEO，市場已反映換帥（Sep 2 rally），真正 catalyst 係 ~Sep 10 AI 發佈。Bull：AI event 若落地成真，係蘋果 AI 轉型嘅 first real proof point。Bear：換帥溢價已反映、Mac/iPad 加價 20% 可能壓需求、AI 發佈若雷聲大雨點小會反噬。event-driven window，等 AI 發佈先落注。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "ORCL",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "下週（9/8）業績係成個 AI trade 嘅終極試金石。資金已提前佈局（+3.1% → +5.69%），反映市場押注 AI/cloud 基建需求強。Binary event：若業績強而股價照跌（重演 AVGO 劇本），等於宣判 AI 估值頂部；若業績強且企穩，AI trade 有下一浪。業績前唔好 pre-position，等結果。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "兩邊都重注。Bull：$12.9B 收購 Hugging Face 將 AI 軟體層納入護城河、SpaceX 獨家協議推升營收預測 70%、股價逼近歷史新高 $236，突破新高係趨勢確認。Bear：10Y 孳息 4.79% 高位壓高估值、FOMC 9/15-16 加息落地風險、AI capex 見頂憂慮未除。我 lean bullish——需求 hard data 太硬——但孳息見頂前唔追高。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "COHR",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "NVDA 投資 $2B，光頻寬（optical interconnects）被點名為下一個 AI 樽頸。AI 伺服器 scale-out 令光模組/頻寬需求結構性上升，COHR 係 pure-play。呢個係 AI infra 嘅「下一個 NVDA 式樽頸」故事，獨立於 Fed 政策同地緣。風險係已 run up，但結構性 tailwind 明確。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "DELL",
+      "status": "deep_dive",
+      "updated_at": "2026-09-04",
+      "reasoning": "AI 伺服器需求嘅 hard data：record AI server orders，上調 FY27 指引，業績盤後爆升 +9%。同 NVDA SpaceX 獨家協議、AI infra 主題一脈相承，係「AI capex 見頂」熊論最直接嘅反駁——訂單係實數，唔係 narrative。獨立於地緣/伊朗衝突，回調係買入機會。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-09-05T06:04:01.977433+08:00"
 }
