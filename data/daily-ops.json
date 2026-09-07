@@ -6776,39 +6776,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-07",
-      "time": "08:04 HKT",
-      "status": "success",
-      "market_direction": "Risk-off 邊緣：美伊衝突升級推升油價，Fed 加息恐慌先係真正風險",
-      "headlines": [
-        "[RECENT] ACTION: OIL — 美伊衝突升級，油價升至地緣風險溢價",
-        "[RECENT] ACTION: NVDA — 首次年度預測 + 70% 增長指引",
-        "[RECENT] ACTION: CRYPTO — BTC ETF 三週流入 $3.8B",
-        "[RECENT] WATCH: MACRO — Fed 9月加息恐慌",
-        "[RECENT] WATCH: AAPL — iPhone 發佈會，新 CEO 首秀",
-        "[RECENT] WATCH: PRECIOUS_METALS — 黃金逼近 $5,000"
-      ],
-      "opportunities": [
-        "OIL: 美伊衝突升級，供應中斷風險溢價未完全反映",
-        "NVDA: 首次年度預測 + 70% 增長指引，市值劍指超越 Apple/Alphabet",
-        "BTC-USD: ETF 三週流入 $3.8B，站穩 $8 萬"
-      ],
-      "analysis": "美伊衝突升級推升油價（微升），伊朗威脅「更痛苦」報復，Hormuz 僵持。Fed 加息恐慌：熱 CPI + 16.2萬職位 + Trump 施壓 Warsh，9月16日 FOMC 可能轉向加息。科技催化劑：NVDA 首次年度預測、AAPL iPhone 發佈會。",
-      "risks": [
-        "Fed 9月加息（熱 CPI 觸發）",
-        "美伊衝突進一步升級導致油價急升",
-        "科技股估值在加息預期下承壓"
-      ],
-      "my_take": "市場對美伊衝突反應輕微 = risk premium 未完全反映。真正 macro 風險係 Fed 可能由減息轉加息。",
-      "key_takeaways": [
-        "美伊衝突升級，油價升至地緣風險溢價（未完全反映）",
-        "Fed 9月16日 FOMC 可能由減息轉加息（熱 CPI + 16.2萬職位）",
-        "NVDA 首次年度預測，市值劍指超越 Apple/Alphabet",
-        "黃金逼近 $5,000，各國央行撤離紐約金庫"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-07",
       "time": "08:34 HKT",
@@ -6836,6 +6803,64 @@
         "Labor Day 長週末 gap risk（伊朗/Hormuz 升級）"
       ],
       "my_take": "週五係 AI trade 內部 quality rotation（半導體 TSM/NVDA 接棒，巨型科技 AAPL/TSLA 獲利了結），基本面無惡化。但核心風險喺前面：Sep 11 熱 CPI（MoM forecast 0.4% vs prev 0.1%）+ Sep 16 FOMC 加息 vs 減息 binary，而 VIX 仲喺 14.5 complacent。部署應該係持有 semis/能源/黃金避險 carry，減巨型科技敞口，等 CPI 出嚟先定 FOMC 前方向。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-07",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "美伊油輪戰升級推高油價；強勁就業重燃加息預期，壓低黃金、推升債息日圓。美國勞動節休市。",
+      "headlines": [
+        "[RECENT] ACTION OIL: 美伊油輪戰升級，油價7週高位，Goldman睇$120",
+        "[RECENT] WATCH GLD: 黃金跌破$4,400，強勁就業重燃加息預期",
+        "[RECENT] WATCH MACRO: 債息攀升，SocGen警告5.5%擊穿股市",
+        "[NEW] WATCH MACRO: 中國注資$540億銀行保險，股份照跌",
+        "[RECENT] WATCH MACRO: 日圓6個月高位",
+        "[NEW] WATCH NVO: 叫停兩項心血管試驗",
+        "[RECENT] WATCH ORCL: 跌20%後華爾街喊翻倍"
+      ],
+      "opportunities": [
+        "OIL: 美伊油輪戰升級，油價7週高位，印度基準破$100，Goldman睇$120",
+        "ORCL: 跌20%後華爾街喊翻倍，AI數據中心用HPE Juniper"
+      ],
+      "analysis": "本週核心係「就業超預期→加息重燃」再定價：債息升、黃金跌、日圓升、加密貨幣受壓。油價逆勢向上係地緣供應風險獨立於貨幣政策。",
+      "risks": [
+        "油價破$100會反推通脹預期，Fed加息vs通脹矛盾加劇",
+        "債息若升至5.5%擊穿股市（SocGen警告）",
+        "中國注資力度被市場質疑，股價照跌"
+      ],
+      "my_take": "本週核心係「就業超預期 → 加息重燃」嘅再定價：債息升、黃金跌、日圓升、加密貨幣受壓。但油價逆勢向上，係地緣（美伊油輪戰）供應風險獨立於貨幣政策。真正值得跟嘅係兩條線：(1) 油價若破 $100 並企穩，會反過嚟推升通脹預期，令 Fed 加息 vs 通脹嘅矛盾更加尖銳；(2) 中國 $540 億注資屬政策托底訊號，但股價照跌反映市場唔信力度夠——若跟進更多刺激，中資金融/A股可能係下一波。",
+      "key_takeaways": [
+        "美伊油輪戰升級，油價7週高位，地緣溢價未完全反映",
+        "強勁就業(16.2萬職位)重燃加息預期，壓低黃金推升債息日圓",
+        "中國$540億注資屬托底訊號但市場唔信"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-07",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautious — 加息重燃 vs 油價供應衝擊嘅再定價週",
+      "headlines": [
+        "美伊油輪戰升級，油價 7 週高位、印度基準破 $100、Goldman 睇 $120",
+        "強勁就業數據重燃加息預期，10Y 債息 ~4.78%、黃金跌破 $4400",
+        "ORCL 跌近 20% 後華爾街喊翻倍，週四盤後業績係 AI trade 試金石",
+        "中國向銀行/保險注資 $540 億，惟股份照跌",
+        "今日美國勞動節休市，無 US session"
+      ],
+      "focus": [
+        "OIL / 能源 — 美伊地緣供應風險，破 $100 反推通脹預期",
+        "ORCL — 週四盤後業績，AI trade 換位第一張牌",
+        "10Y 債息 — 破 5% 會擊穿股市（SocGen 警告）"
+      ],
+      "analysis": "## Fed Context\n無新 FOMC statement。上次會議 Jul 28-29（minutes 已於 8/24 公布），下次 FOMC 係 9月15-16（有 dot plot + 記者會）。就業數據強勁 → 市場重燃加息預期，10年期債息 ~4.78%，SocGen 警告 5.5% 會擊穿股市。油價因美伊油輪戰飆升，屬供應衝擊、獨立於貨幣政策，但會推高通脹預期，令 Fed「加息 vs 通脹」矛盾更尖銳。今日美國勞動節休市，無新 Fed 言論。\n\n## 今日重點頭條\n1. [地緣/油] 美軍襲擊伊朗油輪 → 伊朗威脅「更痛」報復 + 規劃 Hormuz 外圍禁區 → Saudi Aramco 設施中彈。油價 7 週高位、印度基準破 $100、Goldman 睇 $120。\n2. [宏觀] 強勁就業數據重燃加息預期 → 債息升、黃金跌破 $4400、日圓 6 個月高位。\n3. [個股] ORCL 2026 跌近 20%，華爾街喊翻倍 + AI 數據中心用 HPE Juniper。\n4. [個股] NVO 叫停兩項心血管試驗。\n5. [宏觀/中國] 中國向銀行/保險注資 $540 億，惟股份照跌。\n6. [AI trade] AMD/INTC 大升 NVDA 滯後 — AI trade 換位跡象。\n7. [個股] TSLA 想被視為 AI 公司（股價弱，TSLL -12%）。\n8. [航天] SpaceX 對手首次發射火箭（RKLB 競爭格局）。\n\n## 隔夜市場\n- 美股上週五收市：Dow -0.53%（DIA $534）、SPY -0.39%（$770）、QQQ +0.18%（$719）— 科技跑贏，防禦/週期落後。\n- VIX 15.26（+5%）、10年債息 4.78%（+2bp）、美元指數 98.95（-0.2%）。\n- 油 WTI $91.5（7週高位）、金 $4476（GLD 失守 200日線，自 $5097 高位回落 ~20%）。\n- 亞洲：日經 +2.12%（66,400）、恒指 -0.93%（25,413）。\n- 今日美國勞動節休市 — 無 US session。\n\n## 昨日爆升/暴跌榜（上週五）\n- Gainers：FSHPR +93%、IMRN +62%、CDTG +47% — 全部 penny stock/SPAC，無機構級 mover。\n- Losers：BANL -41%、TRBG -38%、BTAI -37% — 同樣 micro-cap，無系統性。\n- Most Active：GPRO +22%（GoPro）、TSLL -12%（TSLA 2x bull，反映 TSLA 弱）、NVDA +0.84%（量能大、漲幅小 → 換手劇烈）。\n- Sector theme：Utilities +3.37% 領漲（防禦/數據中心電力）、Financials +0.93%（加息預期利好息差）；Consumer Cyclical -0.87%、Consumer Defensive -0.95% 落後；Energy -0.75% 與油價升背馳。市場偏向防禦，唔係 risk-on。\n\n## 今日重點（macro calendar — source of truth）\n- 今日（9/7）無 HIGH/MEDIUM 美國經濟事件 — 勞動節休市。\n- 本週 HIGH USD events：\n  - Thu 9/10 08:30pm HKT — PPI MoM\n  - Thu 9/10 10:00pm HKT — Existing Home Sales\n  - Fri 9/11 08:30pm HKT — CPI（Core MoM + 整體 YoY/MoM）\n  - Fri 9/11 10:00pm HKT — Michigan Consumer Sentiment Prel\n- CPI（週五）係本週最重要 catalyst — 會驗證/推翻「加息再定價」。\n\n## Sector Watch\n- 防禦轉強：Utilities +3.37%、Financials +0.93%（息差利好）、Real Estate +0.05%。\n- 落後：Consumer Cyclical -0.87%、Consumer Defensive -0.95%（消費承壓）。\n- Energy：油價升但能源股週五 -0.75%，背馳 — 油價若企穩 >$90 有補漲空間。\n- Tech：+0.73% 但 AI trade 內部換位（NVDA 滯後，AMD/INTC/ORCL 動）。\n\n## 機會（從 News Curator consolidate）\n🎯 ACTION — OIL（地緣供應風險）：美伊油輪戰升級，Hormuz 風險真實。油企、能源 ETF、油服（SLB）係主要受惠；油價破 $100 會反推通脹預期。\n📡 WATCH — GLD/黃金：跌破 200日線、就業強勁壓制，但地緣風險 + 若 CPI 走高可反彈 — 兩面，等方向。\n📡 WATCH — ORCL（Thu 業績）：跌 20% 後華爾街喊翻倍，AI 數據中心需求係催化，業績係 AI trade 情緒試金石。\n📡 WATCH — 中資金融：$540 億注資係托底訊號，股價照跌反映信心不足；等更多刺激。\n📡 WATCH — CRYPTO：BTC $79-83k 承壓，巨鯨轉沽。\n📌 NOTE — AI trade 換位：AMD/INTC 領漲 NVDA 滯後，ORCL/ADBE 業績確認。\n\n## 未來一個月業績重點\n本週：\n- Thu 9/10 ORCL（$444B，AMC）🎯 — AI 數據中心 + 雲轉型，跌 20% 後係轉捩點。\n- Thu 9/10 ADBE（$114B，AMC）🎯 — 創意/生成式 AI 變現進度。\n下週：無重點 earnings，FOMC 9/15-16 主導。\n後續：9/23 CTAS、9/24 COST、9/30 MU 🎯（$1.08T 記憶體週期）、10/1 ACN 🎯 + NKE、10/8 PEP/DAL、10/13 銀行股（JPM/GS/WFC/C/BLK）啟動業績季、10/14 ASML/BAC/MS、10/15 TSM 🎯（$2.16T 半導體龍頭）、10/16 SLB。\n\n## Agenda\n- 今日：US 休市（勞動節）。\n- Tue：開市 — 消化油價 + 債息。\n- Thu：PPI + ORCL/ADBE 業績（盤後）。\n- Fri：CPI + Michigan 信心 — 本週最大 catalyst。\n- 下週：FOMC 9/15-16 + dot plot + 記者會。\n- Key levels：SPY support ~$756（50日線）、resistance ~$773（前高）/ $779（年高）。\n\n## My Take\nBias：本週 Neutral-to-cautious。\n核心矛盾：強勁就業 → 加息重燃（債息升、黃金跌、成長股壓力）vs 油價供應衝擊（推高通脹預期，令 Fed 加息 vs 通脹矛盾尖銳）。呢個係「再定價」週，唔係 trend 週。\n今日冇 US session，真正戰場係週二開市點消化：(1) 油價會唔會因長週末地緣升級而跳空高開；(2) 週五 CPI 一錘定音 — 高 CPI → 加息預期坐實、成長股再受壓；低 CPI → 反彈。\n最緊要睇實：油價（破唔破 $100）、10年債息（破唔破 5%）、週五 CPI。部署上，高倍數科技喺 CPI + FOMC 前唔好追，傾向能源（地緣對沖）+ 優質防禦；ORCL 業績（Thu）係 AI trade 換位嘅第一張牌。",
+      "risks": [
+        "油價地緣溢價若突然緩和，能源多頭回吐",
+        "週五 CPI 高於預期 → 加息預期坐實，成長股再受壓",
+        "FOMC 9/15-16 dot plot 若偏鷹，long-duration 資產有下殺風險"
+      ],
+      "my_take": "本週 Neutral-to-cautious。核心矛盾：強勁就業重燃加息預期（債息升、黃金跌）vs 油價供應衝擊推高通脹（令 Fed 兩難更尖銳）。今日勞動節休市，戰場喺週二開市同週五 CPI。部署：高倍數科技 CPI/FOMC 前唔追，傾能源（地緣對沖）+ 優質防禦；ORCL 週四業績係 AI trade 換位第一張牌。"
     }
   ],
   "news_curator": [
