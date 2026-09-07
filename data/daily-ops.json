@@ -6774,6 +6774,68 @@
         "Energy War Premium Peak: USO",
         "Consumer Downgrade: CPB"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-07",
+      "time": "08:04 HKT",
+      "status": "success",
+      "market_direction": "Risk-off 邊緣：美伊衝突升級推升油價，Fed 加息恐慌先係真正風險",
+      "headlines": [
+        "[RECENT] ACTION: OIL — 美伊衝突升級，油價升至地緣風險溢價",
+        "[RECENT] ACTION: NVDA — 首次年度預測 + 70% 增長指引",
+        "[RECENT] ACTION: CRYPTO — BTC ETF 三週流入 $3.8B",
+        "[RECENT] WATCH: MACRO — Fed 9月加息恐慌",
+        "[RECENT] WATCH: AAPL — iPhone 發佈會，新 CEO 首秀",
+        "[RECENT] WATCH: PRECIOUS_METALS — 黃金逼近 $5,000"
+      ],
+      "opportunities": [
+        "OIL: 美伊衝突升級，供應中斷風險溢價未完全反映",
+        "NVDA: 首次年度預測 + 70% 增長指引，市值劍指超越 Apple/Alphabet",
+        "BTC-USD: ETF 三週流入 $3.8B，站穩 $8 萬"
+      ],
+      "analysis": "美伊衝突升級推升油價（微升），伊朗威脅「更痛苦」報復，Hormuz 僵持。Fed 加息恐慌：熱 CPI + 16.2萬職位 + Trump 施壓 Warsh，9月16日 FOMC 可能轉向加息。科技催化劑：NVDA 首次年度預測、AAPL iPhone 發佈會。",
+      "risks": [
+        "Fed 9月加息（熱 CPI 觸發）",
+        "美伊衝突進一步升級導致油價急升",
+        "科技股估值在加息預期下承壓"
+      ],
+      "my_take": "市場對美伊衝突反應輕微 = risk premium 未完全反映。真正 macro 風險係 Fed 可能由減息轉加息。",
+      "key_takeaways": [
+        "美伊衝突升級，油價升至地緣風險溢價（未完全反映）",
+        "Fed 9月16日 FOMC 可能由減息轉加息（熱 CPI + 16.2萬職位）",
+        "NVDA 首次年度預測，市值劍指超越 Apple/Alphabet",
+        "黃金逼近 $5,000，各國央行撤離紐約金庫"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-07",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Rotation（半導體強、巨型科技弱），VIX 14.5 complacent",
+      "headlines": [
+        "NVDA 首次年度預測 + 70% 增長指引，AI trade 核心引擎再確認",
+        "TSM 台積電 $3 萬億市值預測，週五 +2.85% 破頂",
+        "美伊衝突升級推升油價，Hormuz 供應中斷未完全反映",
+        "TSLA Cybercab 調查壓過成本優勢，週五 -5.92%",
+        "AAPL iPhone 發佈會 + 新 CEO Ternus 首秀，sell the news -2.51%"
+      ],
+      "opportunities": [
+        "TSM: $3 萬億預測 + 放量破頂，半導體龍頭動能最純",
+        "NVDA: 首次年度預測落地後無 sell the news，AI 基建核心 carry",
+        "OIL: 美伊地緣溢價未完全反映，長週末升級則週二 gap up",
+        "GOLD: 逼近 $5,000 + 央行撤離紐約金庫，避險 carry",
+        "BTC: ETF 三週流入 $3.8B，reversal 確認"
+      ],
+      "analysis": "# 美股收市回顧 — 2026-09-04 收市（檢討於 09-07 Labor Day 假期）\n\n## 📰 今日重點頭條\n1. **NVDA 首次年度預測 + 70% 增長指引** — 市值劍指超越 Apple/Alphabet，AI trade 核心引擎再確認（NC ACTION ✓）\n2. **TSM 台積電 $3 萬億市值預測** — 週五 +2.85% 破頂，半導體訂單動能強（NC WATCH/portfolio ✓）\n3. **美伊衝突升級推升油價** — Hormuz 供應中斷未完全反映，地緣風險溢價仍在（NC ACTION ✓）\n4. **黃金逼近 $5,000** — 各國央行撤離紐約金庫，去美元化結構性趨勢（NC WATCH ✓）\n5. **TSLA Cybercab 調查 vs Goldman 成本優勢** — 週五 -5.92%，調查憂慮勝出（NC WATCH ✓）\n6. **AAPL iPhone 發佈會確定 + 新 CEO Ternus 首秀** — 週五 -2.51%，sell the news（NC WATCH ✓）\n7. **BTC ETF 三週流入 $3.8B** — BTC 站穩 $8 萬，crypto reversal 確認（NC ACTION ✓）\n8. **Weekend raw：** Amazon Prime Air 貨機邁阿密墜毀 5 死（AMZN，營運事故非系統性）、德國 AfD 贏 Saxony-Anhalt 州選（歐洲政治 signal）、Solstice/Element Solutions $14.5B 合併告吹（SOLS/ESI）\n\n## 1. 📊 Market Recap\n**週五（Sep 4）係 rotation 日，唔係 correction。** 半導體領跑、巨型科技 profit-taking、防禦/能源靠油價撐住。\n\n| 指數 | 週五 | 週變幅 |\n|---|---|---|\n| SPY | 770.19 (-0.39%) | +0.41% |\n| QQQ | 718.96 (+0.18%) | +0.31% |\n| DIA | 534.08 (-0.53%) | +0.47% |\n| VIX | 14.53 (+1.5%) | 極低 |\n\n- **VIX 14.5 係最大 red flag** — 下週 CPI（Sep 11）+ FOMC（Sep 16）兩個高風險事件在即，市場卻完全無 risk premium。呢個 complacency 先係真正風險。\n- **今日係 Labor Day，美股休市**，下次 session 係週二 Sep 8。長週末 = gap risk。\n\n## 2. 🔥 Notable Movers\n- **TSM +2.85%**（428.91）— $3 萬億預測 + 半導體訂單強，放量 12.3M（近週平均 ~7M），真金白銀追入\n- **NVDA +0.84%**（230.36）— 首次年度預測 + 70% 指引，量能 135M 維持高位，AI 基建動能 intact\n- **AAPL -2.51%**（319.97）— iPhone 發佈會 + 新 CEO Ternus 首秀，獲利了結；留意係「sell the news」定「對新領導缺信心」\n- **TSLA -5.92%**（354.08）— Cybercab 調查憂慮壓過 Goldman 成本優勢；放量 64.8M，動能轉弱\n- **CRM -1.97%**（259.23）— Salesforce AI 數字 mixed，portfolio 持有\n\n**Rotation signal：** 資金由「巨型科技」轉向「半導體/AI 基建」— TSM/NVDA 強 vs AAPL/TSLA 弱。呢個係 AI trade 內部嘅 quality rotation，唔係 risk-off。\n\n## 3. 📰 News That Mattered\n- **NVDA 首次年度預測 + 70% growth guide** — 確認 AI capex 競賽未減速，係成個 AI trade 嘅定海神針\n- **美伊衝突升級** — 油價 geopol premium 未完全反映，若 Hormuz 關閉或伊朗攻擊美國盟友，油價可急升\n- **TSLA Cybercab 調查** — 監管風險具體化，壓過成本面利好\n- **Fed 加息恐慌（核心 macro 風險）** — 熱 CPI + 16.2 萬職位 + Trump 施壓 Warsh，9 月 16 日 FOMC 可能由減息轉加息，係科技/成長股最大威脅\n\n**NC 表現 review：** NC 嘅 ACTION 三條（OIL / NVDA / CRYPTO）全部命中或維持 — NVDA 週五 +0.84%、crypto 站穩、油價 geopol premium 成立。WATCH 嘅 TSM/AAPL/TSLA/黃金全部有催化。NC 今次 coverage 高質。\n\n## 4. 🎯 Opportunities Carry Forward\n- **TSM** — $3 萬億預測 + 放量破頂，半導體龍頭動能最純，回調即係加倉位（portfolio 持有）\n- **NVDA** — 首次年度預測落地後無 sell the news，反而 +0.84%，係強勢信號；AI 基建核心仍係最穩嘅 carry\n- **OIL (能源)** — 美伊地緣溢價未完全反映，長週末期間若有升級，週二油股 gap up\n- **黃金/貴金屬** — 逼近 $5,000 + 央行撤離紐約金庫，去美元化結構性買盤，係對沖 Fed 加息風險嘅避險 carry\n- **BTC/加密** — ETF 三週流入 $3.8B，reversal 確認，risk-on 動能標的\n\n## 5. ⚠️ Risks / Watchlist\n- **CPI（Sep 11 週五 8:30pm HKT）** — Inflation MoM forecast **0.4% vs prev 0.1%**（明顯升溫），Core YoY fcst 2.4%。若 hot → 5% 孳息惡夢重臨，直接壓高估值 AI trade\n- **FOMC（Sep 16 週三 2:00am HKT）** — Fed rate decision（prev 3.75%）+ Economic Projections + dot plot + press conference。**加息 vs 減息 binary** 係本週最大 single catalyst\n- **VIX 14.5 complacency** — 市場對 CPI+FOMC 窗口零對沖，任何 surprise 都會放大波動\n- **Labor Day 長週末 gap risk** — 地緣（伊朗/Hormuz）升級無法盤中反應，週二可能 gap\n- **地緣政治** — 伊朗/Hormuz、德國 AfD 州選勝出（歐洲政局右轉）\n\n## 6. 💡 My Take\n週五係 AI trade 內部嘅 quality rotation（半導體接棒巨型科技），基本面無惡化。但真正嘅定價風險喺前面：**Sep 11 熱 CPI（MoM 0.4% forecast）+ Sep 16 FOMC 加息 vs 減息 binary**，而 VIX 仲喺 14.5 瞓緊。市場係用一個無風險溢價嘅姿勢行入呢個窗口。\n\n**Tomorrow's bias：中性偏防守。** 週二重開唔應該追高 — CPI 前部署應該係「持有 semis/能源/黃金避險 carry，減巨型科技敞口」，等 Sep 11 CPI 出嚟先決定 Sep 16 FOMC 前嘅方向。若 CPI 真係 hot（MoM ≥0.4%），Fed 加息恐慌會正式啟動，屆時 NVDA/TSM 嘅高估值會係第一個被槓桿化拋售嘅對象。\n",
+      "risks": [
+        "CPI (Sep 11): MoM forecast 0.4% vs prev 0.1%，hot CPI = 5% 孳息惡夢",
+        "FOMC (Sep 16): 加息 vs 減息 binary + dot plot + press conference",
+        "VIX 14.5 complacent，CPI+FOMC 窗口零對沖",
+        "Labor Day 長週末 gap risk（伊朗/Hormuz 升級）"
+      ],
+      "my_take": "週五係 AI trade 內部 quality rotation（半導體 TSM/NVDA 接棒，巨型科技 AAPL/TSLA 獲利了結），基本面無惡化。但核心風險喺前面：Sep 11 熱 CPI（MoM forecast 0.4% vs prev 0.1%）+ Sep 16 FOMC 加息 vs 減息 binary，而 VIX 仲喺 14.5 complacent。部署應該係持有 semis/能源/黃金避險 carry，減巨型科技敞口，等 CPI 出嚟先定 FOMC 前方向。"
     }
   ],
   "news_curator": [
