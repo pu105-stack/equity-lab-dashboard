@@ -6863,38 +6863,6 @@
       "my_take": "本週 Neutral-to-cautious。核心矛盾：強勁就業重燃加息預期（債息升、黃金跌）vs 油價供應衝擊推高通脹（令 Fed 兩難更尖銳）。今日勞動節休市，戰場喺週二開市同週五 CPI。部署：高倍數科技 CPI/FOMC 前唔追，傾能源（地緣對沖）+ 優質防禦；ORCL 週四業績係 AI trade 換位第一張牌。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-08",
-      "time": "08:08 HKT",
-      "status": "success",
-      "market_direction": "油價逼近 $100 主導市場，Dow futures 跌 300 點，債息上升",
-      "headlines": [
-        "[NEW] ACTION: OIL — 油價逼近 $100，Dow -300 債息升",
-        "[NEW] WATCH: NVS — Pelacarsen 心臟藥三期失敗",
-        "[NEW] WATCH: MACRO — 加拿大關稅午夜生效",
-        "[RECENT] ACTION: COPPER — 銅價歷史新高",
-        "[RECENT] WATCH: AAPL — $2,000 摺疊 iPhone 發佈會"
-      ],
-      "opportunities": [
-        "OIL: 美伊油輪戰升級，油價逼近 $100，Goldman 警告或見 $120",
-        "COPPER: 銅價創歷史新高，1994 年以來最長升浪，結構性供應短缺",
-        "NVS: Pelacarsen 三期失敗，單一 pipeline 挫折，WATCH"
-      ],
-      "analysis": "本週 macro 焦點：US CPI + ECB + Iran + Apple event。核心矛盾係油價/關稅推升通脹 → Fed 加息預期 → 債息升 → 股市承壓。",
-      "risks": [
-        "油價持續上升 → 通脹 → Fed 加息",
-        "關稅戰擴散至加拿大",
-        "債息 5.5% 會擊穿股市"
-      ],
-      "my_take": "油價係當下最關鍵變數。Goldman 話 $120，但 FT 話貴油會自我修正。如果 Hormuz 真係封鎖先係真 catalyst。銅價歷史新高係被低估嘅結構性故事，比油更有持續性。",
-      "key_takeaways": [
-        "油價逼近 $100，Dow futures -300，債息升",
-        "NVS 心臟藥 Pelacarsen 失敗",
-        "加拿大關稅午夜生效",
-        "銅價歷史新高，1994 年以來最長升浪"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-08",
       "time": "08:34 HKT",
@@ -6922,6 +6890,75 @@
         "下週 FOMC 9/15-16 dot plot 偏鷹 → long-duration 下殺"
       ],
       "my_take": "美股休市但隔夜不平靜：商品全線升（油/銅/金）、債息向上、Dow -300，滯脹格局未變。銅嘅結構性新高比油嘅地緣溢價更 durable；CPI 週五係 binary event，之前 Neutral-to-cautious。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-08",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "Risk-off — 油價逼近 $100 + 胡塞襲擊沙特能源設施 + Fed 加息預期升溫，Dow futures -300，債息升",
+      "headlines": [
+        "[NEW] ⚠️ OIL — 胡塞襲擊沙特能源設施 73 傷，Goldman 轉軚睇 $120 Brent，油價逼近 $100",
+        "[NEW] 🎯 BE — Bloom Energy 確認納入 S&P 500，Pelosi 早前 $3M 押注",
+        "[NEW] 🎯 TSM — TSMC/三星承諾採用 ASML 最新機台，AI 需求驅動",
+        "[NEW] ⚠️ MACRO — Fed 加息機率逼近 60%，油價通脹 + 週五 CPI 成關鍵",
+        "[NEW] ⚠️ CRYPTO — BTC 失守 $79K，巨鯨轉淨沽，Fed 加息壓制風險資產",
+        "[NEW] 📌 TECH — Mistral 集資 €30億 / $24B 估值，三星領投歐洲 AI 冠軍",
+        "[RECENT] 📌 FIN — EverBank-WaFd $39億逆向合併，區域銀行整合",
+        "[RECENT] 📌 DEFENSE — SpaceX 有望受惠 Nasdaq 100 權重上調",
+        "[RECENT] 📌 NVS 續報 — Lp(a) 膽固醇藥競賽震動，外溢 AMGN/IONS",
+        "[RECENT] ⚠️ MACRO — 日圓 6 個月高位，日本拋美債 $800 億（干預風險）",
+        "[RECENT] 📌 CLIMATE — Hurricane Lowell 逼近夏威夷，30 呎巨浪",
+        "[NEW] ⚠️ AAPL — Sept 9 發佈會前夕，摺疊 iPhone + Ternus 首秀"
+      ],
+      "opportunities": [
+        "[NEW] 🎯 BE — Bloom Energy 確認納入 S&P 500，Pelosi 早前 $3M 押注",
+        "[NEW] 🎯 TSM — TSMC/三星承諾採用 ASML 最新機台，AI 需求驅動",
+        "[NEW] ⚠️ OIL — 胡塞襲擊沙特能源設施 73 傷，Goldman 轉軚睇 $120 Brent，油價逼近 $100",
+        "[NEW] ⚠️ MACRO — Fed 加息機率逼近 60%，油價通脹 + 週五 CPI 成關鍵",
+        "[NEW] ⚠️ CRYPTO — BTC 失守 $79K，巨鯨轉淨沽，Fed 加息壓制風險資產",
+        "[RECENT] ⚠️ MACRO — 日圓 6 個月高位，日本拋美債 $800 億（干預風險）",
+        "[NEW] ⚠️ AAPL — Sept 9 發佈會前夕，摺疊 iPhone + Ternus 首秀"
+      ],
+      "analysis": "油價通脹主導：Houthi 襲擊沙特 + Goldman $120 Brent，Fed 加息機率 60%，週五 CPI 決勝。",
+      "risks": [
+        "油價逼近 $100 傳導核心通脹，Fed 9 月加息 tail risk",
+        "BTC 失守 $79K，巨鯨轉淨沽",
+        "日圓 6 個月高位 + 日本拋美債，carry trade 平倉風險"
+      ],
+      "my_take": "市場未 fully price Fed 加息 scenario，CPI 前係最大 opportunity/risk gap。",
+      "key_takeaways": [
+        "油價逼近 $100，Goldman 睇 $120 Brent",
+        "Fed 加息機率 60%，週五 CPI 決勝",
+        "BE 納入 S&P 500，TSM/三星採用 ASML 最新機台"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-08",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-risk-off (rotation 多過 panic)",
+      "headlines": [
+        "油價逼近 $100 — Houthi 襲擊沙特 + Goldman 睇 $120 Brent",
+        "Fed 加息機率升至 ~60%，週五 CPI 成決勝局",
+        "Bloom Energy 確認納入 S&P 500（Pelosi $3M 押注）",
+        "TSMC/三星採用 ASML 最新機台，AI 需求驅動半導體",
+        "加拿大報復性關稅，Trump 警告升級"
+      ],
+      "focus": [
+        "能源/國防 — 油價逼近 $100，天然 hedge",
+        "半導體 — TSM/ASML catalyst，AI 動能持續",
+        "BE — S&P 500 納入，index fund 被動買盤"
+      ],
+      "analysis": "## Fed Context\n\n今個 session 冇新 FOMC 決定——上一個 meeting 係 7月28-29日，minutes 早已出街，無需重新分析。真正焦點係下星期 **9月15-16日 FOMC**（季度 SEP meeting，有 press conference + 新 dot plot），而市場正喺度重新定價一個方向性轉變：**由減息轉為加息**。\n\n油價逼近 $100（Houthi 襲擊沙特能源設施 73 傷、沙特揚言報復、Goldman 轉軚睇 $120 Brent、美伊僵局持續），直接推高 Fed 加息機率至 ~60%。如果週五 CPI 確認油價傳導到核心通脹，9月16日加息嘅 tail risk 會變成 base case。市場仲未 fully price 呢個 scenario——Nasdaq 只係 mild risk-off，QQQ 尋日仲係微升。呢個 gap 就係今個星期最大嘅 opportunity / risk。\n\n## 隔夜市場\n\n- SPY $770.19 (-0.39%)、QQQ $718.96 (+0.18%)、DIA $534.08 (-0.53%) —— 明顯係 rotation：科技/AI 頂住，油價敏感嘅 Dow 拖累\n- VIX 15.72 (+2.75%) —— 有啲緊張但未恐慌，市場仲喺觀望\n- 10Y 債息 4.78% (+0.46%) —— 債息升緊，反映加息預期升溫\n- WTI 原油 $93.93 (+2.68%)，逼近 $100；Brent 亦逼近三位數\n- 黃金 $4437 (+0.18%) —— 避險需求溫和，未見恐慌性搶購\n- 今日 pre-market：Dow futures -300，延續隔夜弱勢\n\n## 昨日爆升/暴跌榜（NASDAQ 微細股 noise 居多，篩走無分析價值嘅 penny stock / SPAC）\n\n真正值得留意嘅 movers：\n- **SOXL +9.87%**（半導體 3x 槓桿）—— 反映 SOX 尋日升 ~3%，TSM/ASML catalyst + AI 需求\n- **INTC +4.51%** —— 半導體板塊整體強勢\n- **TSLA -5.92%** —— Cybercab 部署後即被調查 + 宏觀風險迴避，TSLL (2x) -11.85%\n- **PATH (UiPath) -16.6%、GWRE (Guidewire) -19.9%** —— 軟件股有拋售，同 AI 硬件強勢形成對比\n- **GPRO +22%** —— GoPro 有獨立 catalyst，跟進中\n- 大量 +2287% / +1900% 嗰啲係微細股 / SPAC 空殼，無分析價值，ignore\n\n## 今日重點事件（macro calendar — 事實來源）\n\n- 今日 8:15PM HKT：ADP Employment Change Weekly (MED)\n- 週四 9/10 8:30PM HKT：PPI MoM (HIGH)\n- 週四 9/10 10:00PM HKT：Existing Home Sales (HIGH)\n- **週五 9/11 8:30PM HKT：CPI 核心/整體 MoM + YoY (HIGH) —— 本週決勝局**\n- 週五 9/11 10:00PM HKT：Michigan Consumer Sentiment Prel (HIGH)\n- 地緣：Houthi 襲擊沙特、加拿大報復性關稅 + Trump 警告升級、美伊僵局\n\n## Sector Watch\n\n- **Momentum：** Utilities +3.37%（Bloom Energy 納入 S&P 500 + AI 電力需求 + 防守性資金）、Financials +0.93%（高息利好銀行）、Technology +0.73%、半導體（SOXL +9.87%）\n- **Risk：** Consumer Cyclical -0.87%、Consumer Defensive -0.95%（油價傳導消費）、Energy -0.75%（油價升但 NASDAQ 能源股跌，可能獲利回吐）\n- **Rotation theme：** 油價受益者（能源巨頭、國防、XLE）vs 油價受害者（航空、汽車、消費）。資金由消費/運輸轉向 AI + 防守 + 銀行\n\n## 機會（從 News Curator consolidate + raw headlines 交叉驗證）\n\n- 🎯 **BE（Bloom Energy）** —— 確認納入 S&P 500，Pelosi 早前 $3M 押注。Utilities 尋日 +3.37% 已反映部分。部署：留意開市後 S&P index fund 被動買盤追入。\n- 🎯 **TSM** —— TSMC/三星承諾採用 ASML 最新機台，AI 需求驅動。半導體尋日已強勢（SOXL +9.87%），今日有望延續。部署：跟半導體 momentum，但留意加息預期會唔會壓制高估值 AI。\n- ⚠️ **OIL / 能源** —— Houthi 襲擊 + Goldman $120 Brent，油價逼近 $100。部署：能源巨頭（XOM/CVX）、國防股係天然 hedge；但留意 Fed 加息反過來壓制風險資產。\n- ⚠️ **AAPL** —— Sept 9 發佈會前夕（摺疊 iPhone + Ternus 首秀）。部署：發佈會前一日，留意「buy the rumor / sell the news」博弈。\n\n## 未來一個月業績重點\n\n本週兩個 tracked ticker：\n- **ORCL（9/10 AMC，est EPS $1.40）** —— AI/雲端 bellwether，Oppenheimer 已重申雲端需求展望。ORCL 業績係 AI 資本開支主題嘅領先指標，對成個 AI 板塊有放大效應。\n- **ADBE（9/10 AMC，est EPS $4.86）** —— AI 變現能力嘅測試。軟件股近期弱勢（PATH/GWRE 尋日大跌），ADBE 業績會定調軟件板塊方向。\n\n下週無 tracked 巨企業績。留意 CPI 之後嘅 Fed 定價轉向。\n\n## Agenda\n\n- 今日：ADP 就業（8:15PM HKT）\n- 週三：AAPL 發佈會（摺疊 iPhone）\n- 週四：PPI + ORCL/ADBE 業績\n- 週五：CPI 決勝局 + Michigan sentiment\n- 下週二/三：FOMC（9/15-16，加息 vs 減息嘅關鍵轉捩點）\n\nKey levels：SPY 支撐 $768-770，50日線 $757 係下一道關；阻力 $779（year high）。跌破 $757 先確認更深回調。\n\n## My Take\n\n整體 bias：**中性偏風險迴避，但唔係恐慌——係 rotation。** 油價通脹係今個 session 嘅核心催化，Fed 加息預期由 0 升到 60% 係一個 regime shift，市場仲未完全消化。\n\n今日最緊要睇實：\n1. **油價** —— 會唔會突破 $100？破咗就通脹 narrative 進一步升溫\n2. **債息 / 10Y** —— 4.78% 會唔會上 4.9-5.0%？債息升係 risk asset 最大殺手\n3. **AI 動能頂唔頂得住** —— SOXL +9.87% 反映資金仲喺追 AI，但加息預期會唔會令高估值 AI 回調\n\n改變 thesis 嘅 overnight signal：油價破 $100 + 債息破 5% 同時出現，先會令「rotation」變成「全面 risk-off」。暫時只係溫和迴避，未到恐慌。\n",
+      "risks": [
+        "油價破 $100 觸發 Fed 加息 base case",
+        "10Y 債息上 5% 壓制風險資產",
+        "CPI 高過預期確認油價傳導核心通脹",
+        "TSLA Cybercab 調查擴大"
+      ],
+      "my_take": "油價通脹係今個 session 核心催化——Houthi 襲擊沙特 + Goldman 睇 $120 Brent，推高 Fed 加息機率至 60%。但市場係 rotation 多過 panic（QQQ 微升、SOXL +9.87%、Utilities +3.37%）。睇實油價破唔破 $100、10Y 破唔破 5%，兩樣一齊先觸發全面 risk-off。週五 CPI 係決勝局。"
     }
   ],
   "news_curator": [
