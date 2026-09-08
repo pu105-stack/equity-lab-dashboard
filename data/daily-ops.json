@@ -6861,6 +6861,67 @@
         "FOMC 9/15-16 dot plot 若偏鷹，long-duration 資產有下殺風險"
       ],
       "my_take": "本週 Neutral-to-cautious。核心矛盾：強勁就業重燃加息預期（債息升、黃金跌）vs 油價供應衝擊推高通脹（令 Fed 兩難更尖銳）。今日勞動節休市，戰場喺週二開市同週五 CPI。部署：高倍數科技 CPI/FOMC 前唔追，傾能源（地緣對沖）+ 優質防禦；ORCL 週四業績係 AI trade 換位第一張牌。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-08",
+      "time": "08:08 HKT",
+      "status": "success",
+      "market_direction": "油價逼近 $100 主導市場，Dow futures 跌 300 點，債息上升",
+      "headlines": [
+        "[NEW] ACTION: OIL — 油價逼近 $100，Dow -300 債息升",
+        "[NEW] WATCH: NVS — Pelacarsen 心臟藥三期失敗",
+        "[NEW] WATCH: MACRO — 加拿大關稅午夜生效",
+        "[RECENT] ACTION: COPPER — 銅價歷史新高",
+        "[RECENT] WATCH: AAPL — $2,000 摺疊 iPhone 發佈會"
+      ],
+      "opportunities": [
+        "OIL: 美伊油輪戰升級，油價逼近 $100，Goldman 警告或見 $120",
+        "COPPER: 銅價創歷史新高，1994 年以來最長升浪，結構性供應短缺",
+        "NVS: Pelacarsen 三期失敗，單一 pipeline 挫折，WATCH"
+      ],
+      "analysis": "本週 macro 焦點：US CPI + ECB + Iran + Apple event。核心矛盾係油價/關稅推升通脹 → Fed 加息預期 → 債息升 → 股市承壓。",
+      "risks": [
+        "油價持續上升 → 通脹 → Fed 加息",
+        "關稅戰擴散至加拿大",
+        "債息 5.5% 會擊穿股市"
+      ],
+      "my_take": "油價係當下最關鍵變數。Goldman 話 $120，但 FT 話貴油會自我修正。如果 Hormuz 真係封鎖先係真 catalyst。銅價歷史新高係被低估嘅結構性故事，比油更有持續性。",
+      "key_takeaways": [
+        "油價逼近 $100，Dow futures -300，債息升",
+        "NVS 心臟藥 Pelacarsen 失敗",
+        "加拿大關稅午夜生效",
+        "銅價歷史新高，1994 年以來最長升浪"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-08",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautious — 供應衝擊滯脹 + 銅歷史新高，CPI 前 binary 待定",
+      "headlines": [
+        "胡塞襲擊 Saudi Aramco，Brent $97 逼近 $100，Dow futures -300",
+        "銅價創歷史新高 $6.76/lb，1994 年來最長升浪",
+        "SocGen 警告 10Y 5.5% 擊穿股市；10Y 4.78%、30Y 5.25%",
+        "美伊油輪戰升級，伊朗威脅 Hormuz 外圍報復",
+        "NVS 心臟藥 Pelacarsen 三期失敗",
+        "AAPL 傳 $2,000 摺疊 iPhone，9/9 發佈會",
+        "中國向銀行/保險注資 $540 億，股份照跌"
+      ],
+      "opportunities": [
+        "COPPER: 歷史新高 + 結構性供應短缺 + 電氣化/AI，比油地緣溢價更 durable",
+        "OIL: Brent $97 逼近 $100，地緣溢價但 self-correcting，追高風險大",
+        "AAPL: 9/9 發佈會摺疊 iPhone 催化，但上週五 -2.5% 已反映部分疲弱"
+      ],
+      "analysis": "## Fed Context\n- 無新 FOMC statement。上次 Jul 28-29，下次 FOMC 9/15-16（有 dot plot + 記者會）—— 進入 silent period 前嘅最後數據窗口。\n- 強勁就業重燃加息預期：10Y 4.78%、30Y 5.25%、5Y 4.55%，全線向上。SocGen 警告 10Y 破 5.5% 會擊穿股市 —— 現時距 threshold 約 72bp，方向向上但未到臨界。\n- 油/銅升係供應衝擊，獨立於貨幣政策，但推高通脹預期 → 令 Fed「加息 vs 通脹」矛盾更尖銳。滯脹格局，唔係正常 risk-on。\n\n## 今日重頭條\n1. [地緣/油] 胡塞武裝襲擊 Saudi Aramco 煉油廠 → 油價續升，Brent $97 逼近 $100、WTI $92.5。Dow futures 跌 300 點。\n2. [商品] 銅價創歷史新高 $6.76/lb（+2.4%），1994 年來最長升浪 —— 結構性供應短缺 + 電氣化/AI 需求。\n3. [宏觀/債] SocGen 警告 10Y 5.5% 擊穿股市；10Y 4.78%、30Y 5.25%，債息全線向上。\n4. [地緣] 美伊油輪戰升級，伊朗威脅 Hormuz 外圍報復，市場預期「更痛」反擊。\n5. [個股] NVS 心臟藥 Pelacarsen 三期失敗，股價受壓（-1.9%）。\n6. [個股] AAPL 傳 $2,000 摺疊 iPhone，9/9 發佈會 —— 短期催化。\n7. [中國] 中國向銀行/保險注資 $540 億，惟股份照跌 —— 刺激力度被質疑。\n8. [半導體] MU 台灣罷工威脅；NVDA 稱「AGI has arrived」—— AI trade 換位跡象。\n9. [美股] 美國勞動節（9/7）休市 —— 本 review 無新 US session，上個 session 係上週五 9/4。\n\n## 1. Market Recap\n- 美國 9/7 勞動節休市，無 equity session。上個交易 session（上週五 9/4）：Dow -0.53%、SPY -0.39%、QQQ +0.18% —— 科技跑贏，防禦/週期落後。\n- 隔夜 futures（假期淡市）：Dow -300（YM -0.64%）、S&P -0.17%、Nasdaq +0.14% —— 科技 resilient，價值/週期承壓。\n- VIX 15.3（+5%）—— 仍處 complacent 低位，同地緣風險唔匹配，係個潛在 risk。\n- 債息 10Y 4.78%（+2bp）、30Y 5.25% —— 利率 headwind 未解。\n- 商品全線升：油 +1.1%、銅 +2.4%、金 +1.0% —— 供應衝擊 + 避險。\n\n## 2. Notable Movers\n- 今日無 equity movers（休市）。真正 movers 喺商品：銅 +2.4%（$6.76/lb 歷史新高）、油 +1.1%（Brent $97 七週高位）、金 +1.0%（$4,474，但 GLD 已失 200 日線）。\n- 上週五重溫：MU +6.1%（台灣罷工預期）、NVDA +0.84%（量能大、漲幅小 → 換手劇烈）；AAPL -2.5%、NVS -1.9%、XOM/CVX 跌（油價升但能源股背馳）。\n\n## 3. News That Mattered\n- 確認催化：胡塞襲擊 Saudi Aramco（油供應衝擊）、美伊油輪戰升級（地緣溢價）、SocGen 5.5% 警告（債息焦慮）。\n- NC calls 回顧（9/8 08:08）：OIL ✓ 中（油價逼近 $100、Dow -300、債息升全部兌現）；COPPER ✓ 中（銅歷史新高坐實）；NVS ✓ 中（Pelacarsen 失敗確認）；AAPL 待 9/9 發佈會；MACRO（加拿大報復關稅）待觀察。\n- 隔夜新增：中國 $540 億注資銀行/保險（股價照跌，市場嫌力度唔夠）、MU 台灣罷工。\n\n## 4. Opportunities Carry Forward\n- COPPER（結構性首選）：銅創歷史新高、1994 年來最長升浪，供應短缺 + 電氣化/AI 需求係可持續 story，比油嘅地緣溢價更 durable。FCX +0.2%、COPX -0.65% 上週五未完全反映。\n- OIL（地緣溢價、短線）：Brent $97 逼近 $100，但 FT 指貴油正為自身回落鋪路（需求破壞）。追高風險大，留意今晚 API 庫存。\n- AAPL（事件催化）：9/9 發佈會，摺疊 iPhone 傳聞 —— 短線 catalyst，但上週五 -2.5% 已反映部分疲弱。\n\n## 5. Risks / Watchlist\n- 今晚（9/8）：ADP Employment Change Weekly 08:15PM HKT（MED，次要）。\n- 本週重大（macro_calendar source of truth）：Thu 9/10 08:30PM HKT PPI MoM + Core PPI + Jobless Claims（HIGH）；Fri 9/11 08:30PM HKT CPI（Aug）Core Inflation MoM/YoY + Inflation Rate YoY/MoM（HIGH）—— 本週最重要，直接定加息預期走向；Fri 9/11 10:00PM HKT Michigan Consumer Sentiment（HIGH）。\n- 下週 FOMC 9/15-16（dot plot + 記者會）—— silent period 前最後數據窗口。\n- 隔夜風險：油地緣溢價若突然緩和 → 能源多頭回吐；銅過熱回調；債息持續向上壓成長股。\n- 持倉風險：唔知你哋有冇持倉，但若持 long-duration 成長股，CPI 高於預期會直接受壓。\n\n## 6. My Take\n- 今日美股休市，但隔夜一啲都唔平靜 —— 商品全線升、債息向上、Dow futures -300。核心矛盾冇變：供應衝擊推通脹 → 加息預期 → 債息升 → 股市承壓，滯脹格局。\n- 最重要 takeaway：銅價歷史新高係被低估嘅結構性 story，比油嘅地緣溢價更有持續性；油嘅 $100 攻防戰係本週最易爆嘅變數，但地緣溢價本質 self-correcting。\n- 明天 bias：Neutral-to-cautious。CPI（週五）係 binary event，市場會用 PPI（週四）做預演。商品焦慮 cap risk appetite，但科技（Nasdaq +0.14% overnight）顯示資金未走。等 CPI 落地先有方向。",
+      "risks": [
+        "Fri CPI 高於預期 → 加息預期坐實，成長股受壓",
+        "油地緣溢價突然緩和 → 能源多頭回吐",
+        "銅過熱回調 + 債息持續向上壓 long-duration",
+        "下週 FOMC 9/15-16 dot plot 偏鷹 → long-duration 下殺"
+      ],
+      "my_take": "美股休市但隔夜不平靜：商品全線升（油/銅/金）、債息向上、Dow -300，滯脹格局未變。銅嘅結構性新高比油嘅地緣溢價更 durable；CPI 週五係 binary event，之前 Neutral-to-cautious。"
     }
   ],
   "news_curator": [
