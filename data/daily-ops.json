@@ -6961,37 +6961,6 @@
       "my_take": "油價通脹係今個 session 核心催化——Houthi 襲擊沙特 + Goldman 睇 $120 Brent，推高 Fed 加息機率至 60%。但市場係 rotation 多過 panic（QQQ 微升、SOXL +9.87%、Utilities +3.37%）。睇實油價破唔破 $100、10Y 破唔破 5%，兩樣一齊先觸發全面 risk-off。週五 CPI 係決勝局。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-09",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "油價主導 risk-off：US-Iran 衝突升級（美軍摧毀5艘伊朗油輪），S&P -0.55% 但科技股韌性，油價逼近 $100",
-      "headlines": [
-        "[RECENT] 🎯 QCOM — 亞馬遜獲$4B認股權證，多代AI芯片協議引爆半導體",
-        "[RECENT] ⚠️ OIL (續報) — 美軍摧毀5艘伊朗油輪，油價逼近$100",
-        "[RECENT] ⚠️ AAPL — 今日摺疊iPhone發佈會，Ternus首秀",
-        "[RECENT] ⚠️ MACRO — Fed利率決策兩難，週五CPI成關鍵",
-        "[RECENT] ⚠️ F — Trump政府「深切關注」福特中國關聯"
-      ],
-      "opportunities": [
-        "QCOM: 亞馬遜獲$4B認股權證+多代AI芯片協議，AI基建trade新催化劑",
-        "OIL: 美軍摧毀5艘伊朗油輪，能源股(XOM/CVX/COP)受惠但地緣溢價部分反映"
-      ],
-      "analysis": "US session 由 US-Iran 衝突升級主導，油價逼近 $100 關鍵位。半導體方面 QCOM-Amazon 芯片協議係新鮮催化劑，AI 基建股反彈。Apple 今日發佈會係日內 catalyst。",
-      "risks": [
-        "伊朗報復風險未消除，油價衝破$100或引發更大risk-off",
-        "週五CPI若高於預期，Fed加息機率已逼近60%",
-        "美加貿易戰升級，Bombardier/Ford供應鏈受壓"
-      ],
-      "my_take": "油價$100係今日嘅錨。真正incremental catalyst係QCOM-Amazon半導體協議。科技股跑贏大市顯示資金躲入AI/semi。",
-      "key_takeaways": [
-        "US-Iran衝突由襲擊升級到美軍直接摧毀油輪+報復威脅",
-        "QCOM-Amazon $4B認股權證+多代AI芯片協議，半導體AI trade催化劑",
-        "Apple今日摺疊iPhone發佈會+Ternus首秀",
-        "Fed利率決策兩難，週五CPI成關鍵"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-09",
       "time": "08:35 HKT",
@@ -7016,6 +6985,66 @@
         "ORCL 業績若 AI capex 失望 → 成個 AI complex 重估"
       ],
       "my_take": "油價主導 risk-off 但資金躲入 AI/semi — rotation 多過 panic。QCOM-Amazon 協議係今日真正新催化劑。未來 48 小時兩大 binary：ORCL 業績 + 週五 CPI。Bias：CPI 前 neutral-to-cautious，AI infra 相對強勢。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-09",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "油價突破 $100 主導 risk-off，但結構係 hawkish repricing：就業強+油價通脹→加息預期，壓低黃金、推升美元。科技韌性，BTC 升 vs 黃金跌。",
+      "headlines": [
+        "[NEW] OIL $100: Brent 突破 $100（7月來首次），伊朗向約旦美軍基地發射導彈",
+        "[NEW] AAPL: 摺疊 iPhone 今日發佈，$2,000 起，Ternus 首秀",
+        "[NEW] GOOGL: $15B 歐洲 AI 基建投資",
+        "[NEW] Bessent: 「I am the house now」，日圓 + 債券回購",
+        "[RECENT] MACRO: 強勁就業報告重燃 Fed 加息風險"
+      ],
+      "opportunities": [
+        "XOM/CVX: Brent 突破 $100，US-Iran 衝突第四日連升，能源股結構性受惠",
+        "GOOGL: $15B 歐洲 AI 基建，AI capex 再添催化",
+        "AAPL: 摺疊 iPhone 今日發佈，日內 catalyst"
+      ],
+      "analysis": "US-Iran 衝突升級至第四日，Brent 突破 $100。但真正轉折係市場將油價重新定價為通脹→加息（黃金逆勢跌、美元升、BTC 升），而唔係 pure risk-off。CPI 週五 + FOMC 下週係關鍵。",
+      "risks": [
+        "Fed 喺油價供應衝擊+就業強勁下加息 = stagflation 政策錯誤",
+        "油價連升四日，動能已延伸，追高風險",
+        "美加貿易戰升級，全球 trade risk 擴散"
+      ],
+      "my_take": "油價 +2.87% 但黃金 -1.73% 嘅背離係今日最關鍵 signal——市場喺 pricing 加息唔係避險。BTC 升、黃金跌，加密貨幣成為新避險替代。",
+      "key_takeaways": [
+        "油價破 $100 = 第4日連升，已部分反映，追高要謹慎",
+        "黃金逆勢跌 = hawkish repricing，唔好當佢係避險",
+        "CPI 週五 + FOMC 下週 = 真正嘅 macro catalyst",
+        "BTC 成避險替代，伊朗用 crypto 繞制裁 = 結構性主題"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-09",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautious — hawkish repricing（油價破$100 + 強勁就業 → Fed 加息風險重估）",
+      "headlines": [
+        "油價 Brent 破 $100，USO +2.87% 但黃金 GLD -1.73% — hawkish repricing 背離",
+        "AAPL 摺疊 iPhone 今日發佈（$2,000 起），新 CEO Ternus 首秀",
+        "INTC +9.05% — 公司準備進一步加價",
+        "GOOGL $15B 歐洲 AI 基建投資",
+        "本週兩大催化劑：週五 CPI + 下週 FOMC（9/15-16 dot plot）"
+      ],
+      "focus": [
+        "XOM/CVX — 油價破 $100 結構性順風",
+        "ORCL/ADBE — 明日 AMC earnings（均 tracked）",
+        "AAPL — 今日 event 日內 catalyst",
+        "INTC — +9% 加價主題 follow-through"
+      ],
+      "analysis": "# Morning Scan — 2026-09-09\n\n## 📰 今日重頭戲\n油價破 $100 係 headline，但真正嘅 macro 轉折係「hawkish repricing」——市場將油價衝擊重新定價為「通脹 → 加息」而唔係「戰爭 → 避險」。最有力嘅證據：油價 USO +2.87%，但黃金 GLD -1.73%，兩者背離。黃金冇跟油價升反而跌，說明資金喺 pricing Fed 加息（強勁就業 + 油價推高通脹），唔係 pure risk-off。BTC 逆勢升，成為「數碼黃金」避險替代。\n\n今週兩個關鍵催化劑：**週五 CPI（9/11）+ 下週 FOMC（9/15-16，含 dot plot）**。全週都係圍繞呢兩個 event 嘅 positioning。\n\n## 🌍 隔夜市場（Sep 8 close）\n- SPY $765.96（-0.55%）｜QQQ $718.36（-0.08%）｜DIA $528.03（-1.13%）\n- 科技韌性 vs 工業弱勢：QQQ 幾乎 flat，DIA 跌 1.13%——油價成本壓力壓喺 Dow 成份股（工業、運輸、消費）身上\n- 油價 Brent 破 $100（7月來首次），USO $146.03（+2.87%）\n- 黃金 GLD $399.72（-1.73%）——hawkish repricing 壓制避險資產\n- NVDA $225.73（-2.01%）——高位回吐，AI 龍頭近 yearHigh $236.54 有 fatigue\n\n## 📈 昨日爆升／暴跌榜（FMP previous session）\n爆升榜全係 microcap（GCDT +150%、INDP +52% 等），冇大型股——說明爆升係散戶/事件驅動，唔係機構 sector rotation。真正值得睇嘅係 Most Active 入面嘅大型股：\n- **INTC +9.05%（$104.47）**——「公司準備進一步加價」催化，係呢輪最實質嘅大資金異動，值得 follow-through\n- **NVDA -2.01%**——量最大，高位獲利回吐\n- **NOK +6.28%**、**ARBE +16.93%**——邊緣動能\n\n## 📡 今日重點事件（macro_calendar.json — 唯一 truth）\n今日（9/9）冇 HIGH 事件，主要係 MED：MBA 房貸利率、ADP 週度就業、API 原油庫存。\n真正重點喺今週後半：\n- **週四 9/10**：PPI MoM（20:30 HKT）＋ Existing Home Sales（22:00）——PPI 係 CPI 前哨，油價會推高 PPI\n- **週五 9/11**：CPI 全家桶（Core/Headline MoM+YoY，20:30）＋ Michigan 消費信心（22:00）——**本週最大事件**。油價破 $100 若滲入 CPI，直接 trigger hawkish repricing\n- **週三 9/16**：Retail Sales（20:30）\n- **週四 9/17 02:00 HKT**：FOMC 利率決定 + Economic Projections（dot plot）＋ 02:30 記者會\n\n## Fed Context\n上週冇新 FOMC statement（上次 Jul 28-29）。下次 FOMC **9/15-16（有 dot plot）**。核心變數：Warsh 主政下嘅加息風險，被「強勁就業 + 油價通脹」重新點燃。如果 CPI 週五超預期，市場會開始 price 9 月加息，長 duration 科技股首當其衝。Bessent（「I am the house now」）嘅日圓干預 + 債券回購係另一條線，但係 secondary。\n\n## 🔥 Sector Watch\n- **能源（XOM +0.75%、CVX +0.67%）**：油價破 $100 結構性受惠，係現階段最 clean 嘅 momentum trade。但係雙刃劍——油價高企會 feed CPI → 更 hawkish → 反噬 growth\n- **半導體**：QQQ 韌性但 NVDA 高位回吐，INTC +9% 係亮點——「加價」主題若擴散，對硬件有支撐\n- **貴金屬**：gold 逆勢跌 = hawkish repricing 嘅領先 indicator，呢個背離要一直盯實\n- **工業/Dow**：油價成本壓力最直接受害，DIA -1.13% 已反映\n\n## 🎯 Pre-market Opportunities\n- **XOM/CVX（OIL）**：Brent 破 $100 + US-Iran 衝突第四日 + Chevron 加倍委內瑞拉鑽井。能源係本週最確定嘅順風。但記住油價嘅「通脹反噬」邏輯——呢個 trade 有自我限制\n- **AAPL（foldable iPhone 今日發佈）**：$2,000 起、新 CEO Ternus 首秀。日內 catalyst，但股價已 -1.17% 反映「sell the news」風險。事件交易，唔係持倉理由\n- **GOOGL（$15B 歐洲 AI 基建）**：AI capex 主題再添柴，加埋 Google Cloud/Accenture 交易。長線 AI capex 主題冇動搖\n- **ORCL（明日 AMC earnings）**：OpenAI 生態系統回暖推升 +2.36%，earnings 前有 momentum。注意 earnings 係高波動事件\n- **ADBE（明日 AMC earnings）**：股價 -3.47% 領跌，市場對 earnings 有憂慮。低預期反而係 potential 反彈條件\n\n## 📅 未來一個月業績重點\n- **9/10 ORCL AMC（$457B，est $1.40）🎯**：AI 數據中心需求係核心，OpenAI 生態回暖係 catalyst\n- **9/10 ADBE AMC（$102B，est $4.86）🎯**：AI 變現能力被質疑，股價已先跌，low bar\n- **9/23 CTAS**、**9/24 COST**：消費板塊 read-through\n- **9/30 MU（$1.13T，est $31.17）🎯**：記憶體週期 + AI HBM 需求，係半導體重要風向標\n- **10/1 ACN BMO 🎯 + NKE AMC 🎯**：Accenture 睇 AI 服務需求，NKE 睇消費\n- **10/8 PEP、DAL**：消費 + 航空\n\n## 📋 Today's Agenda\n- 今日：AAPL foldable iPhone 發佈（日內 catalyst）、ADP 週度就業、API 原油\n- 週四：PPI + ORCL/ADBE earnings\n- 週五：CPI（本週最大）+ Michigan 信心\n- 下週三：FOMC + dot plot\n- SPY 關鍵位：$765（dayLow/support）vs $779.37（yearHigh/resistance）。QQQ 企穩 $715 之上 = 科技韌性未破\n\n## 💡 My Take\nBias：**Neutral-to-cautious**。唔係 outright bearish——科技韌性（QQQ -0.08%）同 AI capex 主題（GOOGL、ORCL）都仲喺度，但「油價 → 通脹 → hawkish Fed」嘅 repricing 係一個未完成嘅 risk，而週五 CPI 係判決點。\n\n今日最緊要盯實三樣：① 油價有冇續升（決定 CPI 壓力）② gold 有冇反彈（決定係 risk-off 定 hawkish repricing）③ AAPL event 後股價反應（sell the news 定 follow-through）。\n\n改變我 thesis 嘅 signal：如果 gold 開始跟油價一齊升，就由「hawkish repricing」轉為「pure risk-off 避險」，咁就要全面轉防守。",
+      "risks": [
+        "油價→通脹→Fed 加息 反噬長 duration 科技股",
+        "CPI 週五超預期 = hawkish repricing 加速",
+        "FOMC dot plot（9/15-16）鷹派超預期",
+        "AAPL event 後 sell-the-news 拖累科技 sentiment"
+      ],
+      "my_take": "Neutral-to-cautious。科技韌性（QQQ -0.08%）同 AI capex 主題仲喺度，但「油價→通脹→hawkish Fed」repricing 係未完成嘅 risk。週五 CPI 係判決點，FOMC（9/15-16 dot plot）跟尾。盯實油價有冇續升、gold 有冇反彈、AAPL event 後 sell-the-news 定 follow-through。Gold 若跟油價一齊升＝轉 pure risk-off，要全面轉防守。"
     }
   ],
   "news_curator": [
