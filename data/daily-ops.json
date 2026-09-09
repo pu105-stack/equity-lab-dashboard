@@ -6959,6 +6959,63 @@
         "TSLA Cybercab 調查擴大"
       ],
       "my_take": "油價通脹係今個 session 核心催化——Houthi 襲擊沙特 + Goldman 睇 $120 Brent，推高 Fed 加息機率至 60%。但市場係 rotation 多過 panic（QQQ 微升、SOXL +9.87%、Utilities +3.37%）。睇實油價破唔破 $100、10Y 破唔破 5%，兩樣一齊先觸發全面 risk-off。週五 CPI 係決勝局。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-09",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "油價主導 risk-off：US-Iran 衝突升級（美軍摧毀5艘伊朗油輪），S&P -0.55% 但科技股韌性，油價逼近 $100",
+      "headlines": [
+        "[RECENT] 🎯 QCOM — 亞馬遜獲$4B認股權證，多代AI芯片協議引爆半導體",
+        "[RECENT] ⚠️ OIL (續報) — 美軍摧毀5艘伊朗油輪，油價逼近$100",
+        "[RECENT] ⚠️ AAPL — 今日摺疊iPhone發佈會，Ternus首秀",
+        "[RECENT] ⚠️ MACRO — Fed利率決策兩難，週五CPI成關鍵",
+        "[RECENT] ⚠️ F — Trump政府「深切關注」福特中國關聯"
+      ],
+      "opportunities": [
+        "QCOM: 亞馬遜獲$4B認股權證+多代AI芯片協議，AI基建trade新催化劑",
+        "OIL: 美軍摧毀5艘伊朗油輪，能源股(XOM/CVX/COP)受惠但地緣溢價部分反映"
+      ],
+      "analysis": "US session 由 US-Iran 衝突升級主導，油價逼近 $100 關鍵位。半導體方面 QCOM-Amazon 芯片協議係新鮮催化劑，AI 基建股反彈。Apple 今日發佈會係日內 catalyst。",
+      "risks": [
+        "伊朗報復風險未消除，油價衝破$100或引發更大risk-off",
+        "週五CPI若高於預期，Fed加息機率已逼近60%",
+        "美加貿易戰升級，Bombardier/Ford供應鏈受壓"
+      ],
+      "my_take": "油價$100係今日嘅錨。真正incremental catalyst係QCOM-Amazon半導體協議。科技股跑贏大市顯示資金躲入AI/semi。",
+      "key_takeaways": [
+        "US-Iran衝突由襲擊升級到美軍直接摧毀油輪+報復威脅",
+        "QCOM-Amazon $4B認股權證+多代AI芯片協議，半導體AI trade催化劑",
+        "Apple今日摺疊iPhone發佈會+Ternus首秀",
+        "Fed利率決策兩難，週五CPI成關鍵"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-09",
+      "time": "08:35 HKT",
+      "status": "success",
+      "market_direction": "Risk-off 但科技/semi 韌性 — rotation 多過 panic（油價主導）",
+      "headlines": [
+        "美軍摧毀 5 艘伊朗油輪，油價逼近 $100 主導 risk-off",
+        "QCOM-Amazon $4B 認股權證 + 多代 AI 芯片協議，AI infra 反彈",
+        "AAPL 摺疊 iPhone 發佈會，股價 -1.17%（sell the news）",
+        "黃金反常下跌 -1.73%，地緣避險失效（real rates 訊號）"
+      ],
+      "opportunities": [
+        "ORCL: 明日 AMC 業績，AI capex bellwether，今日 +2.36% 已 positioning",
+        "QCOM: Amazon AI 芯片協議，fresh catalyst，GLW/AVGO/AMD/QCOM basket",
+        "BE: S&P 500 納入被動買盤仍有 flow，但 chase risk 大"
+      ],
+      "analysis": "## 今日重點頭條（raw headlines）\n\n- **[cnbc_top] 美軍摧毀 5 艘伊朗油輪（Centcom 確認）** — 地緣/USO — 油價逼近 $100，成今日 risk-off 主導\n- **[seeking_alpha] AVGO 於 Goldman Sachs Communacopia + Tech 大會發言** — AI 基建主題\n- **[bbc_tech] Meta 印度推廣 CSAM 廣告報告** — META（reputational，非 market-moving）\n- **[tradingview] Gold Crashes Toward Zone Buy** — GLD -1.73%，地緣風險下黃金反而跌（重要 divergence）\n- **[cnbc_markets] Wednesday's big stock stories** — 明日焦點預告\n- [fed] 多條舊 FOMC Longer-Run Goals 歸檔（2021-2024）— 歷史文件，非新事件，ignore\n\n## 1. Market Recap\n\n油價主導嘅 rotation day：Dow（油價敏感 + 能源成本）最傷，Nasdaq 靠 semi 頂住。\n\n| Index | 收市 | 變幅 |\n|---|---|---|\n| SPY | 765.96 | **-0.55%** |\n| QQQ | 718.36 | **-0.08%** |\n| DIA | 528.03 | **-1.13%** |\n| IWM | 294.67 | -0.45% |\n\n- VIX ~15.3（由 9/4 嘅 14.53 連日回升），緊張但未恐慌\n- **贏家：** Energy +1.11%、Utilities +0.86%、Technology +0.32%\n- **輸家：** Healthcare **-2.52%**、Financials -1.38%、Materials -0.95%、Cons Disc -0.80%\n\n## 2. Notable Movers\n\n- **BE +9.63%** — S&P 500 納入確認，被動買盤湧入（Morning Scan 頭號 call 全中）\n- **GLW +7.56%** — AI 光纖/玻璃，QCOM-Amazon 協議 halo 效應\n- **AMD +5.90%** — semi momentum 最強（NC 漏咗呢個最大 gainer）\n- **QCOM +3.17%** — Amazon $4B 認股權證 + 多代 AI 芯片協議（intraday 曾 +8.7% 後回落）\n- **AVGO +2.98%、TSM +2.35%** — 半導體板塊整體強勢\n- **LMT +2.07%** — 國防股受地緣帶動\n- **ADBE -3.47%** — 明日業績前拋售 + AI 軟體憂慮\n- **NVDA -2.01%** — AI 硬件內部輪動，資金由巨頭轉向 semi 上游\n\n## 3. News That Mattered\n\n- **US-Iran 升級**：美軍直接摧毀伊朗油輪（非「襲擊」級別），伊朗威脅報復，油價逼近 $100（USO +2.87%）\n- **QCOM-Amazon AI 芯片協議** — 今日真正嘅 incremental catalyst，非宏觀 noise\n- **AAPL 摺疊 iPhone 發佈會** — -1.17%（sell the news / 市場反應平淡）\n- **黃金反常下跌 -1.73%** — 地緣風險升溫但黃金跌，可能係美元走強 / real rates 訊號，值得跟\n- **Healthcare -2.52%** — 未有確認 catalyst，需 overnight 跟進\n\n**News Curator 覆盤：**\n- ✅ ACTION QCOM 中（+3.17%）\n- ✅ WATCH OIL 中（USO +2.87%）\n- ✅ WATCH AAPL 中（發佈會，-1.17%）\n- ⚠️ 但 NC 漏咗：AMD +5.90%（最大 semi gainer）、黃金 crash、Healthcare 拋售\n\n## 4. Opportunities Carry Forward\n\n- 🎯 **ORCL 明日 AMC 業績（est $1.40）** — AI capex bellwether，今日 +2.36% 反映資金提前 positioning。業績係成個 AI 板塊嘅領先指標，有放大效應\n- 🎯 **QCOM-Amazon 協議** — AI infra 新鮮催化劑，GLW/AVGO/AMD/QCOM 呢個 basket 可能 multi-day 延續\n- 📡 **週五 CPI（9/11）** — binary 決勝局，核心問題係油價有冇傳導到核心通脹\n- 📡 **BE** — S&P 500 納入被動買盤下週仍有 flow，但今日 +9.63% 後 chase risk 大\n\n## 5. Risks / Watchlist\n\n**今晚（macro calendar，MED）**：MBA Mortgage Rate（7pm）、ADP Employment Weekly（8:15pm）、API Crude Oil（4:30am）\n**明日 HIGH**：PPI MoM Aug（8:30pm）、Existing Home Sales（10pm）\n**週五 HIGH**：CPI 核心/整體（8:30pm）+ Michigan 情緒（10pm）— 本週決勝局\n\n- **FOMC 9/15-16（下週）** — 季度 SEP 會議，有 dot plot + press conference，市場正由減息重新定價到**加息**（~60% 機率）\n- **油價破 $100** → Fed 加息 base case → 廣義 risk-off，但科技股仍韌性（呢個 gap 係最大 risk）\n- **黃金反常下跌** — 地緣避險失效，可能係 real rates 訊號，留意\n- **ORCL 業績** — 若 AI capex guide 失望，成個 AI complex 重估下行\n\n## 6. My Take\n\n油價主導 risk-off，但資金躲入 AI/semi — **rotation 多過 panic**（Morning Scan thesis 全中）。QCOM-Amazon 協議係今日真正新催化劑，AI infra 係 risk-off 中嘅避風港。未來 48 小時兩大 binary：ORCL 業績（明晚）+ CPI（週五）。Bias：CPI 前 neutral-to-cautious，但 AI infra/semi 相對強勢值得重點跟。\n",
+      "risks": [
+        "油價破 $100 → Fed 加息 base case → 廣義 risk-off",
+        "週五 CPI 係 binary 決勝局（油價傳導核心通脹？）",
+        "FOMC 9/15-16 dot plot，市場正由減息定價轉向加息",
+        "ORCL 業績若 AI capex 失望 → 成個 AI complex 重估"
+      ],
+      "my_take": "油價主導 risk-off 但資金躲入 AI/semi — rotation 多過 panic。QCOM-Amazon 協議係今日真正新催化劑。未來 48 小時兩大 binary：ORCL 業績 + 週五 CPI。Bias：CPI 前 neutral-to-cautious，AI infra 相對強勢。"
     }
   ],
   "news_curator": [
