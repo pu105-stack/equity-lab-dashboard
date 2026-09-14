@@ -7045,6 +7045,97 @@
         "AAPL event 後 sell-the-news 拖累科技 sentiment"
       ],
       "my_take": "Neutral-to-cautious。科技韌性（QQQ -0.08%）同 AI capex 主題仲喺度，但「油價→通脹→hawkish Fed」repricing 係未完成嘅 risk。週五 CPI 係判決點，FOMC（9/15-16 dot plot）跟尾。盯實油價有冇續升、gold 有冇反彈、AAPL event 後 sell-the-news 定 follow-through。Gold 若跟油價一齊升＝轉 pure risk-off，要全面轉防守。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-10",
+      "time": "08:04 HKT",
+      "status": "success",
+      "market_direction": "油價破$100主導—通脹+加息預期壓制風險資產，S&P收跌",
+      "headlines": [
+        "Apple 摺疊iPhone Duo $1,999正式發佈，新CEO Ternus首秀 (FT/NYT, 2026-09-09)",
+        "油價破$100（自7月首次），US-Iran衝突持續，Trump稱戰爭中期選舉後結束 (CBS/Bloomberg, 2026-09-09)",
+        "Crypto.com區塊鏈回滾2小時抹掉$74M漏洞 (247WallSt, 2026-09-09)",
+        "SEC批准XRP/BTC/ETH/SOL納入Nasdaq Texas商品信託 (247WallSt, 2026-09-09)",
+        "Chewy -11% FCF miss、Pinterest -8%溢價估值鬆動 (247WallSt, 2026-09-09)",
+        "前Fed官員籲加息，油價通脹+PPI/CPI成關鍵 (MarketWatch/247WallSt, 2026-09-09)"
+      ],
+      "opportunities": [
+        "OIL: Brent破$100，能源股結構性受惠(XOM+40% YTD)",
+        "AAPL: 摺疊iPhone Duo $1,999登場，ASP上行",
+        "MSTR: 公司債券替代BTC購入，treasury stress訊號"
+      ],
+      "analysis": "油價係今日唯一macro driver。Brent破$100唔係fresh catalyst—衝突已第五日，市場由risk-on炒戰爭轉向risk-off驚通脹。關鍵係週四PPI+週五CPI，若通脹超預期Fed加息機率走高，risk assets第二浪下行。",
+      "risks": [
+        "Fed加息機率走高，risk assets下行",
+        "油價通脹傳導至消費，壓縮利潤率",
+        "社交媒體溢價估值鬆動蔓延"
+      ],
+      "my_take": "油價帶動能源股結構性受惠，而唔係追油價時機。真正關鍵係CPI/PPI—若通脹超預期，Fed加息機率由60%走高，risk assets有第二浪下行。",
+      "key_takeaways": [
+        "Brent破$100，衝突第五日，市場轉risk-off驚通脹",
+        "週四PPI+週五CPI成Fed決策關鍵",
+        "Crypto.com回滾暴露中心化風險",
+        "社交媒體溢價估值鬆動(CHWY/PINS/RDDT/SNAP)"
+      ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-14",
+      "time": "08:05 HKT",
+      "status": "success",
+      "market_direction": "風險規避 — AI 放慢恐慌 + Fed 加息 87% 機率 + 油價上升，三重壓力壓制科技股",
+      "headlines": [
+        "Anthropic 領頭呼籲 AI 放慢發展，Altman/Musk 加入，Trump 反駁 — 科技期貨下挫 (FT/NYT, 2026-09-13)",
+        "Fed 週三議息 87% 機率加息，油價推高通脹預期 (Yahoo Finance, 2026-09-13)",
+        "海灣國家推遲與伊朗 Hormuz 談判，伊朗船隻遇襲 — 油價升 $3+ (FT/CNBC, 2026-09-13)",
+        "Larry Ellison 取消 $7.5B Oracle 股份出售計劃 (FT/CNBC, 2026-09-12)",
+        "Anthropic 連續兩季盈利，Nvidia 傳考慮 $10B 投資其 IPO (FT/Reuters, 2026-09-13)"
+      ],
+      "opportunities": [
+        "OIL: Hormuz 供應中斷升級（談判推遲+船隻遇襲+柴油破紀錄），能源受惠但已大幅反映，逢回調買",
+        "ORCL: Ellison 取消 $7.5B 出售計劃 = 內部人信心訊號，股價 -54% 後 contrarian 機會"
+      ],
+      "analysis": "本週末（US session）主旋律係風險規避。三大主題交織：① AI 放慢恐慌 — Anthropic 領頭（且連續兩季盈利），Altman/Musk 加入呼籲減速，Trump 反駁，科技期貨週日下挫。但 Anthropic 盈利本身證明 AI 變現有效，放慢敘事可能係自利性 regulatory moat。② Fed 週三議息 87% 機率加息 — 油價推高通脹，Warsh 鷹派立場下真正風險係 dot plot 指引。③ Hormuz 供應中斷 — Saudi 管道關閉、伊朗船隻遇襲、談判推遲、柴油破紀錄，油價升 $3+。市場結構：週五收 SPY +0.85%、QQQ +0.87%（收高），但週末催化劑指向週一低開。",
+      "risks": [
+        "Fed 加息 + 油價上升 = 停滯性通脹風險，對 growth/crypto 不利",
+        "AI 放慢恐慌若持續，科技股（NVDA/MSFT/GOOGL）承壓",
+        "油股已 +40% YoY（XOM），追高風險大"
+      ],
+      "my_take": "真正嘅主線唔係 AI 放慢，而係 Fed 週三加息 + 油價。AI 放慢係週末噪音 — Anthropic 盈利 + Trump 反駁，放慢敘事偏自利，AI capex 週期（NVDA/hyperscaler/DELL）根本未斷。反而 Hormuz 供應中斷係硬催化劑，油價 gap up 會推高通脹 → 強化 Fed 加息，形成停滯性通脹風險。短期 risk-off 科技，能源續強。ORCL 嘅 Ellison 取消出售係最被低估嘅訊號 — 內部人喺 -54% 低位取消 $7.5B 出售，值得留意週一開盤確認。",
+      "key_takeaways": [
+        "Fed 週三（9/16）加息 87% 機率 — 本週最大 macro 事件",
+        "Hormuz 供應中斷升級，油價 gap up，能源續強",
+        "AI 放慢恐慌偏週末噪音，Anthropic 盈利證明 AI 變現有效",
+        "ORCL Ellison 取消 $7.5B 出售 = contrarian 內部人訊號"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-14",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-bearish — FOMC 前 risk-off，能源強科技弱",
+      "headlines": [
+        "Hormuz 供應中斷升級（伊朗船隻遇襲+談判推遲）",
+        "Fed 加息預期飆至 87%，BNP 稱需 3 次加息",
+        "DELL 歷史新高，AI buildout 反證 AI 放慢敘事",
+        "ORCL 業績失望後 Ellison 取消 $7.5B 出售 = 內部人信心"
+      ],
+      "opportunities": [
+        "XOM/CVX: Hormuz 供應中斷硬催化，Brent $107 未見頂",
+        "DELL: AI server 歷史新高，AI 放慢敘事最有力反證",
+        "NVDA: $10B Anthropic IPO 投資長期正催化",
+        "ORCL: Ellison 取消出售 = 內部人信心，-7% 後 contrarian"
+      ],
+      "analysis": "# Evening Review — 2026-09-14\n\n## 📰 今日重點頭條（週末 raw news 掃描）\n\n按 market impact 排序：\n\n1. **Hormuz 供應中斷升級** — 伊朗船隻遇襲 + 胡塞擴張控制航道 + Hormuz 談判推遲，亞股週一偏軟（USO/XOM/CVX）\n2. **Fed 加息預期飆至 87%** — Schwab 指上週五 CPI 可能觸發「下週就加息」；BNP 稱美國可能需要 3 次加息（macro-wide reprice）\n3. **Kevin Warsh 嘅「zig vs zag」** — 債市想加息，但 Warsh 會唔會照跟？今次 FOMC 最大變數\n4. **DELL 歷史新高** — AI buildout 推至 record high（AI 放慢敘事嘅反證）\n5. **「加息係為 Wall Street，唔係為通脹」** — 經濟學家質疑加息動機\n6. **AI 放慢恐慌** — Anthropic（盈利驅動）領頭，Altman/Musk 加入，Trump 反駁\n7. **NVDA $10B 投資 Anthropic 破紀錄 IPO** — contrarian 正催化\n8. **ORCL Ellison 取消 $7.5B 出售** — 內部人信心\n9. **DKNG/FLUT 法院裁定預測市場屬博彩** — 雙雙跳升\n\n## 1. 📊 Market Recap — 上週五 risk-on 收爐，weekend 已 reversal\n\n上週五（9/11）係一個 classic relief rally：\n- S&P 500 +0.86% → 7,657；Nasdaq +0.96% → 26,333；Dow +0.98% → 52,573\n- VIX -11.2% → 15.84，恐慌退潮\n- 催化劑：油價星期五一度回落（Hormuz 會議 hope），WTI 由 $102 回吐至 $100\n\n但呢個 rally 係「借返嚟」嘅——同一天 CPI 出爐偏熱，Schwab 當日已警告「可能下週就加息」。週末 Hormuz 會議推遲 + 伊朗船隻遇襲，油價重新 climb（WTI $102.6 / Brent $107.5），亞股週一已經喺跌。**星期五嘅 risk-on 已經被 weekend 抹走，星期一開盤 gap down 風險高。**\n\nVolume/breadth：ORCL 兩日放量 79M/56M（正常 ~25M），顯示 AI complex 喺度 reprice，唔係 passive drift。\n\n## 2. 🔥 Notable Movers\n\n- **DELL +11.98% → $567（歷史新高）** — AI server buildout 動能未斷，直接打臉「AI 放慢」敘事，係最有力嘅 counter-signal。\n- **DKNG +4.34% / FLUT +1.91%** — 法院裁定預測市場屬博彩，等於為業務模式開綠燈，合法化 = 擴張想像空間。\n- **ORCL -1.74% → $150（兩日累計 -7%，3x 量）** — 上週三業績 AI capex 失望，持續失血。9/9 review 已 flag：「ORCL 業績若 AI capex 失望 → 成個 AI complex 重估」——**中了**。\n- **NVDA -0.03%** — 表面平，但 AI 放慢 + Fed 加息雙重壓力下守得住 $218，韌性。\n- **XOM +0.46% / CVX +0.61%** — 能源穩步向上，油價結構性受惠，但已 +40% YoY，追高有風險。\n\n## 3. 📰 News That Mattered — NC calls 檢討\n\n**NC 上週 call 對不對？**\n\n✅ **中咗：**\n- OIL/Hormuz 供應中斷 → 週末升級（談判推遲+船隻遇襲），完全兌現\n- DELL AI buildout 歷史新高 → +12%\n- DKNG/FLUT 博彩裁定 → 跳升\n- ORCL contrarian → 但「-54%」呢個數字我喺 price 上 verify 唔到（ORCL 兩日 -7% 唔係 -54%），NC 呢度有誤差\n\n⚠️ **NC under-weight 咗：**\n- **上週五 CPI 係 hike repricing 嘅真正 catalyst** — NC 講「Fed 87% 加息」但冇明確標記 CPI 係觸發點\n- **「3 次加息」嘅 hawkish escalation** — BNP 講 3 次，唔係 1 次，比 NC 講嘅更鷹\n- **Kevin Warsh 個人 stance** — 「zig vs zag」係今次 FOMC 最大變數，NC 完全冇 cover\n\n**新 overnight development：**\n- Hormuz 談判推遲（原本上週五 hope 嘅會議泡湯）\n- 伊朗船隻遇襲 + 胡塞擴張航道\n- 「加息係為 Wall Street 唔係通脹」嘅另類 framing\n\n## 4. 🎯 Opportunities Carry Forward\n\n- **OIL (XOM/CVX/能源)** — Hormuz 供應中斷係硬催化，Brent $107 未見頂。逢回調買，唔好追 gap。能源係少數喺 hawkish Fed + 高油價下雙重受惠嘅 sector。\n- **DELL** — AI server 動能 + 歷史新高，係「AI 放慢」敘事最有力反證。若星期一唔跟 AI complex 跌，就係相對強勢 confirm。\n- **ORCL** — Ellison 取消 $7.5B 出售 = 內部人信心，-7% 後（唔係 -54%）嘅 contrarian。但 FOMC 前夕 AI complex 有壓力，等 FOMC 後再定奪。\n- **NVDA** — $10B Anthropic IPO 投資係長期正催化，但短期被「放慢」敘事 + Fed 壓制。FOMC 後若 AI 恐慌係噪音，NVDA 反彈最有力。\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚（週一）**：quiet — 只有 bill auctions，冇 major event。真正 risk 喺之後幾日。\n\n**本週 macro 路徑（from macro_calendar.json）：**\n- 週二 8:15PM HKT — ADP Employment Change Weekly（medium）\n- 週二 8:30PM HKT — NY Empire State Manufacturing（medium）\n- 週三 8:30PM HKT — **Retail Sales MoM (Aug)**（HIGH）—— FOMC 前最後一個關鍵數據，若 retail 偏熱 = 強化加息\n- **週四 2:00AM HKT — FOMC Rate Decision + Economic Projections（dot plot）**（HIGH）\n- **週四 2:30AM HKT — Fed Press Conference**（HIGH）—— Warsh 講嘢係全週最高風險 moment\n\n**核心 risk：**\n- **Warsh 嘅 dot plot 若顯示 3 次加息路徑** → 債市 + 股市雙殺，長 duration 科技股最傷\n- **油價若突破 $110** → 停滯性通脹 scenario 全面發酵，Fed 被迫加息 = policy error\n- **AI 放慢敘事若由噪音轉實質** — Anthropic 呼籲 + ORCL 業績失望形成共振，AI complex 有 second leg down 風險\n- **Warsh 若 zig（唔加息）** → 債市失望，可能「sell the news」式波動\n\n（⚠️ 持倉風險：我唔知你哋有冇持倉，唔作任何持倉假設。）\n\n## 6. 💡 My Take\n\n上週五嘅 risk-on 係「借返嚟」嘅 relief rally，週末已經被 Hormuz 升級 + CPI 觸發嘅加息恐慌 reversal。真正主線係**星期四凌晨 FOMC**——Kevin Warsh 係咪跟債市加息、dot plot 幾鷹，先係決定性變數，AI 放慢係噪音。\n\n**Tomorrow's bias：Neutral-to-bearish。** 能源相對強勢，科技/AI 短線有壓力，FOMC 前 risk-off。真正嘅交易機會喺 FOMC 之後——若 Warsh 只加 1 次（唔係 3 次）或者 dot plot 冇預期咁鷹，就會有 relief squeeze；若 dot plot 鷹派超預期，AI complex 有 second leg down。",
+      "risks": [
+        "週四凌晨 FOMC dot plot 若顯示 3 次加息 → 雙殺長 duration 科技",
+        "油價突破 $110 → 停滯性通脹 + Fed policy error",
+        "AI 放慢敘事由噪音轉實質 → AI complex second leg down",
+        "週三 Retail Sales 偏熱 → 強化加息"
+      ],
+      "my_take": "上週五 risk-on 係借返嚟嘅 relief rally，週末被 Hormuz 升級 + CPI 觸發嘅加息恐慌 reversal。真正主線係週四凌晨 FOMC（Kevin Warsh 加唔加息、dot plot 幾鷹）。Bias：Neutral-to-bearish，能源相對強，FOMC 後先有真機會。"
     }
   ],
   "news_curator": [
