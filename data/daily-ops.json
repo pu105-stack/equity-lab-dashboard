@@ -7080,37 +7080,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-14",
-      "time": "08:05 HKT",
-      "status": "success",
-      "market_direction": "風險規避 — AI 放慢恐慌 + Fed 加息 87% 機率 + 油價上升，三重壓力壓制科技股",
-      "headlines": [
-        "Anthropic 領頭呼籲 AI 放慢發展，Altman/Musk 加入，Trump 反駁 — 科技期貨下挫 (FT/NYT, 2026-09-13)",
-        "Fed 週三議息 87% 機率加息，油價推高通脹預期 (Yahoo Finance, 2026-09-13)",
-        "海灣國家推遲與伊朗 Hormuz 談判，伊朗船隻遇襲 — 油價升 $3+ (FT/CNBC, 2026-09-13)",
-        "Larry Ellison 取消 $7.5B Oracle 股份出售計劃 (FT/CNBC, 2026-09-12)",
-        "Anthropic 連續兩季盈利，Nvidia 傳考慮 $10B 投資其 IPO (FT/Reuters, 2026-09-13)"
-      ],
-      "opportunities": [
-        "OIL: Hormuz 供應中斷升級（談判推遲+船隻遇襲+柴油破紀錄），能源受惠但已大幅反映，逢回調買",
-        "ORCL: Ellison 取消 $7.5B 出售計劃 = 內部人信心訊號，股價 -54% 後 contrarian 機會"
-      ],
-      "analysis": "本週末（US session）主旋律係風險規避。三大主題交織：① AI 放慢恐慌 — Anthropic 領頭（且連續兩季盈利），Altman/Musk 加入呼籲減速，Trump 反駁，科技期貨週日下挫。但 Anthropic 盈利本身證明 AI 變現有效，放慢敘事可能係自利性 regulatory moat。② Fed 週三議息 87% 機率加息 — 油價推高通脹，Warsh 鷹派立場下真正風險係 dot plot 指引。③ Hormuz 供應中斷 — Saudi 管道關閉、伊朗船隻遇襲、談判推遲、柴油破紀錄，油價升 $3+。市場結構：週五收 SPY +0.85%、QQQ +0.87%（收高），但週末催化劑指向週一低開。",
-      "risks": [
-        "Fed 加息 + 油價上升 = 停滯性通脹風險，對 growth/crypto 不利",
-        "AI 放慢恐慌若持續，科技股（NVDA/MSFT/GOOGL）承壓",
-        "油股已 +40% YoY（XOM），追高風險大"
-      ],
-      "my_take": "真正嘅主線唔係 AI 放慢，而係 Fed 週三加息 + 油價。AI 放慢係週末噪音 — Anthropic 盈利 + Trump 反駁，放慢敘事偏自利，AI capex 週期（NVDA/hyperscaler/DELL）根本未斷。反而 Hormuz 供應中斷係硬催化劑，油價 gap up 會推高通脹 → 強化 Fed 加息，形成停滯性通脹風險。短期 risk-off 科技，能源續強。ORCL 嘅 Ellison 取消出售係最被低估嘅訊號 — 內部人喺 -54% 低位取消 $7.5B 出售，值得留意週一開盤確認。",
-      "key_takeaways": [
-        "Fed 週三（9/16）加息 87% 機率 — 本週最大 macro 事件",
-        "Hormuz 供應中斷升級，油價 gap up，能源續強",
-        "AI 放慢恐慌偏週末噪音，Anthropic 盈利證明 AI 變現有效",
-        "ORCL Ellison 取消 $7.5B 出售 = contrarian 內部人訊號"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-14",
       "time": "08:34 HKT",
@@ -7136,6 +7105,64 @@
         "週三 Retail Sales 偏熱 → 強化加息"
       ],
       "my_take": "上週五 risk-on 係借返嚟嘅 relief rally，週末被 Hormuz 升級 + CPI 觸發嘅加息恐慌 reversal。真正主線係週四凌晨 FOMC（Kevin Warsh 加唔加息、dot plot 幾鷹）。Bias：Neutral-to-bearish，能源相對強，FOMC 後先有真機會。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-14",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "中東危機再升級 + AI slowdown 深化，資金輪動至油氣/加密/白銀",
+      "headlines": [
+        "[RECENT] ACTION: OIL (XOM/CVX) — 伊朗擊落美軍無人機，柴油破歷史新高",
+        "[RECENT] WATCH: TECH/AI (NVDA/MSFT/GOOGL/LRCX) — AI slowdown 深化，歐洲科技股六週低",
+        "[NEW] ACTION: BTC — 加密跑贏 AI 拋售升至 $78K，CLARITY Act 週二表決",
+        "[RECENT] WATCH: MACRO — Fed 議息週，10年期逼近 5%",
+        "[NEW] NOTE: SLV — 白銀多頭集結",
+        "[NEW] NOTE: STLA — Morgan Stanley 下調評級"
+      ],
+      "opportunities": [
+        "OIL (XOM/CVX): 伊朗擊落美軍無人機 + 柴油破紀錄，Brent $108 四個月高，美軍介入紅海係新 catalyst",
+        "BTC (BTC-USD): 加密跑贏 AI 拋售，CLARITY Act 週二 make-or-break 表決"
+      ],
+      "analysis": "中東危機（沙特管道 9/12 關閉）持續升級，今日新增伊朗擊落美軍無人機 + 美軍或介入紅海。油價 Brent $108、柴油破紀錄、歐洲天然氣 +6%。AI slowdown（Anthropic/Altman 9/12 呼籲）今日轉為實際 repricing：歐洲科技股六週低、LRCX 暴跌。資金唔係離場而係輪動：油氣、加密（BTC $78K）、白銀跑贏。Fed 週三議息係本週最大 macro catalyst，10年期逼近 5%。",
+      "risks": [
+        "Fed 週三加息會同時打擊 AI 估值 + 加密 + 黃金",
+        "中東危機若美軍介入紅海，油價再上行但風險資產承壓",
+        "AI slowdown 若深化，半導體設備（LRCX）續跌"
+      ],
+      "my_take": "中東 + AI slowdown 雙重壓力，但資金係輪動唔係離場。Fed 週三議息係本週最重要 catalyst：加息會同時打擊 AI 估值 + 加密，利好美元。油價 $108 已部分反映危機，但美軍介入紅海會打開新一輪上行。",
+      "key_takeaways": [
+        "伊朗擊落美軍無人機係今日最新 escalation，柴油破歷史新高",
+        "AI slowdown 由呼籲轉為實際 repricing（歐洲科技股六週低）",
+        "BTC $78K + CLARITY Act 週二表決，加密獨立行情",
+        "白銀跑贏黃金（金價自伊朗戰爭以來下跌）"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-14",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Cautious（Fed 前）",
+      "headlines": [
+        "伊朗擊落美軍無人機 + 柴油破紀錄，Brent $108 四個月高",
+        "AI slowdown 深化：LRCX 較高位跌 32%，歐洲科技股六週低",
+        "10Y 逼近 5%、87% 加息機率，Fed 週三（Thu 凌晨 2am HKT）議息",
+        "BTC $78K + CLARITY Act 週二表決，加密獨立行情"
+      ],
+      "focus": [
+        "OIL (XOM/CVX) — 中東危機 + 貼 year high",
+        "TECH/AI (NVDA/LRCX) — Fed 前等方向",
+        "Fed 決定 — 本週唯一 macro 主導",
+        "白銀 (SLV) — 跑贏黃金，risk-on 輪動信號"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-09-14 (Mon) 20:30 HKT\n\n═══════════════════════════════════════\n🏦 Fed Context — 宏觀背景\n═══════════════════════════════════════\n本週最大 macro 變數：聯儲局議息。加息週期確認，市場定價 87% 加息機率，10年期國債孳息 Sep 10 已升至 4.95%（逼近 5% 關口），VIX 由 15.7 升到 17.8。呢個係「加息週期」而唔係減息 — 通脹（伊朗戰爭推高油價 Brent $108、柴油破歷史新高）+ 中東地緣風險係主因。\n\n• 下次 FOMC 決定：星期四凌晨 2 點 HKT（美國星期三下午 2 點 ET）\n• 今次係 full 版本 meeting — 有 Economic Projections（dot plot）+ Press Conference，唔係平淡嘅 routine\n• 冇新 FOMC statement（上一個係 2021-2024 歷史「Longer-Run Goals」框架，非近期會議聲明），Kevin Warsh 冇新 signal\n• 本週冇 market-moving 嘅 Fed press release（近期都係監管/社區銀行 routine）\n\n加息對市場嘅影響鏈：高 duration 資產（AI/科技估值、加密、黃金）受壓，利好美元、能源、金融。所以今日開市前嘅核心問題係 — Fed 會唔會 hawkish 加息（加息 + 鷹派 dot plot）定 dovish 加息（加息但暗示 pause）。\n\n═══════════════════════════════════════\n📰 今日重點頭條（Raw Headlines）\n═══════════════════════════════════════\n1. 沙特 pipeline shutdown → 歐洲天然氣價格 +6%（oilprice）— UNG/XOM/CVX\n2. 「Saudi Under Attack: Oil Should Be Above $200」（Seeking Alpha）— USO\n3. Silver bulls gaining strength，into the Fed「liquidity grab」目標 $80（TradingView）— SLV\n4. Gold comeback amid rate hikes（TradingView）— GLD\n5. GM「underappreciated」growth driver — UBS（CNBC）— GM\n6. LRCX 50-day EMA caps recovery（TradingView）— LRCX（AI slowdown 核心）\n7. TLT double bottom（TradingView）— TLT（債價見底 = 孳息見頂？）\n8. Materion rating upgrade（Seeking Alpha）— MTRN\n\nHeadline 訊號好一致：能源/白銀/加密 bullish，科技（LRCX）bearish，債券疑似見底。呢啲 raw headline 同 News Curator 嘅 ACTION/WATCH 完全吻合。\n\n═══════════════════════════════════════\n🌍 隔夜市場\n═══════════════════════════════════════\n• 美股上星期五反彈：SPY $764.29（+0.85%）、QQQ $714.88（+0.87%）、DIA $525.79（+0.97%）\n• 10Y 4.95%（Sep 10）、VIX 17.84（持續上升）\n• 油：Brent $108 四個月高，但 USO 上星期五 -2.2%（$154.90）短暫回吐；XOM $166、CVX $214 均貼近 year high\n• 金 $398（GLD，遠離 year high $509）；白銀 $58.12（+1.08%，跑贏黃金）— 白銀強勢係 risk-on 輪動嘅信號\n• 天然氣：歐洲 +6%（沙特 pipeline），但 UNG $10.17 偏弱\n• 亞洲/歐洲：歐洲科技股六週低（AI slowdown 由言論轉為實際 repricing）\n\n關鍵觀察：指數反彈但結構分化 — 上星期五係「value/cyclical 領漲、科技/公用落後」嘅輪動，唔係 broad rally。\n\n═══════════════════════════════════════\n📈 昨日市場爆升／暴跌榜\n═══════════════════════════════════════\n📈 Top Gainers（全是 penny/microcap）：\n  IPDN +2498% | HUBC +1944% | CPOP +1344% | NXXT +851% | CHPGR +125%\n📉 Top Losers（全是 microcap）：\n  OPTT -33% | UCAR -33% | CDT -27% | CVV -25% | ADBT -25%\n📊 Most Active：\n  TRUG +76% | BDRX +97% | KHC（Kraft Heinz）| ACVA +44% | TNON\n\n結論：movers 冇質量，全部係低價股投機/沽空 squeeze，冇 sector theme。主流資金喺輪動，唔係喺呢啲 penny 度。唯一「正常」股票係 KHC（Kraft Heinz，防禦性 consumer staple）同 ACVA（ACV Auctions，+44% 有基本面）。\n\n═══════════════════════════════════════\n📡 今日重點事件（Source of Truth: macro_calendar.json）\n═══════════════════════════════════════\n今日（Sep 14 Mon）冇 HIGH/MEDIUM 美國事件 — 相對平靜，但本週後半係重中之重：\n\n🔴 Wed Sep 16 8:30pm HKT — Retail Sales MoM（Aug）\n🔴 Thu Sep 17 2:00am HKT — Fed Interest Rate Decision\n🔴 Thu Sep 17 2:00am HKT — FOMC Economic Projections（dot plot）\n🔴 Thu Sep 17 2:30am HKT — Fed Press Conference（Powell）\n🔴 Thu Sep 17 8:30pm HKT — Housing Starts + Building Permits（Aug）\n\n⚠️ 注意：Fed 決定喺香港時間星期四凌晨 2 點 — 香港交易員星期四朝早起身先知結果。零售銷售（Wed 8:30pm HKT）係 Fed 前最後一個 hard data。\n\n═══════════════════════════════════════\n🔥 Sector Watch\n═══════════════════════════════════════\n領先（previous session）：\n  Real Estate +1.15% | Industrials +0.53% | Basic Materials +0.47% | Consumer Cyclical +0.39%\n落後：\n  Technology -0.53% | Healthcare -1.01% | Utilities -1.49%\n\nRotation 訊號好清晰：資金出「科技/AI + 債券代理（utilities/healthcare）」，入「value/cyclical/real estate」。Energy 平手（+0.01%）— 油價危機已 price-in，冇跟油價衝高，呢個係一個 signal：能源股可能需要新 catalyst（美軍紅海介入）先再上。\n\n═══════════════════════════════════════\n🎯 Pre-market Opportunities（Consolidated from News Curator）\n═══════════════════════════════════════\nACTION：\n• OIL（XOM/CVX）：伊朗擊落美軍無人機 + 柴油破紀錄 + Brent $108 四個月高。美軍或介入紅海係新 catalyst。XOM $166（貼 year high $176）、CVX $214（貼 year high $217）。部署：追突破 year high，但注意油價已部分 price-in + 若 Fed 加息推高美元短期壓油價 — 用 year high 做止蝕參考。\n• BTC（BTC-USD）：$78K 跑贏 AI 拋售，CLARITY Act 週二 make-or-break 表決。獨立行情，同科技股脫鈎。\n\nWATCH：\n• TECH/AI（NVDA/MSFT/GOOGL/LRCX）：AI slowdown 深化。LRCX $298 已較 year high $438 跌 32%，跌穿 50dMA。但 mega-cap（NVDA $218 平、MSFT $496 +0.65%）頂得住。Fed 週三係第二 catalyst。部署：唔急於入，等 Fed 結果先判斷係「健康 correction」定「trend reversal 開始」。\n• MACRO：Fed + 10Y 逼近 5% — 呢個係本週所有 trade 嘅 backdrop。\n\n═══════════════════════════════════════\n📅 未來一個月業績重點\n═══════════════════════════════════════\n• 呢個星期（≤7日）：冇 notable earnings — 業績好淡\n• 下星期（8-14日）：CTAS（Wed Sep 23）、COST（Thu Sep 24）\n• 冇 tracked ticker 喺未來兩週 report\n\n業績好淡，意味住 Fed 決定係唯一 macro 主導，冇 earnings 可以對沖/分散注意力。CTAS/COST 下星期先嚟，今日唔使理。\n\n═══════════════════════════════════════\n📋 Today's Agenda\n═══════════════════════════════════════\n• 本週 catalyst 次序：Fed 決定（Thu 凌晨 2am HKT）> Retail Sales（Wed 8:30pm HKT）> 中東 escalation 發展\n• Key levels：SPY support $758（50dMA）、resistance $779（year high）；10Y 5% 心理關口\n• 部署原則：Fed 前控制風險，等 Fed 結果先加倉。能源/白銀係相對強勢嘅對沖方向。\n\n═══════════════════════════════════════\n💡 My Take\n═══════════════════════════════════════\nBias：Fed 前 Neutral-to-Cautious。\n\n核心判斷：呢個係「輪動」唔係「崩盤」。上星期五指數反彈（SPY/QQQ/DIA 全升），但 VIX 升 + 10Y 逼近 5% + 中東 escalation 令反彈唔穩固。資金由 tech/AI 轉去 energy/value/cyclical，白銀跑贏黃金係 risk-on 輪動嘅確認信號。\n\n今日最緊要睇實：Fed 決定 + dot plot + Powell presser（Thu 凌晨 2am-3:30am HKT）。87% 已定價加息，所以重點唔係「加唔加」而係「加完點講」：\n- Hawkish hike（加息 + 鷹派 dot plot）→ 加速 tech selloff + 推 10Y 過 5%，利好美元/能源，AI 估值再壓一輪\n- Dovish hike（加息但暗示 pause）→ relief rally，LRCX 呢類超跌半導體反彈\n\n改變 thesis 嘅 overnight signal：中東如果由「擊落無人機」升級到「美軍實質介入紅海」，油價會打開新一輪上行，同時會令 Fed 更難暫停加息（油價推高通脹 = 更 hawkish）— 呢個係本週最 tail-risk 嘅情景。",
+      "risks": [
+        "Fed hawkish hike → 加速 tech selloff + 10Y 破 5%",
+        "中東升級（美軍紅海介入）→ 油價再上 + Fed 更難 pause",
+        "AI slowdown 由輪動變 trend reversal（若 mega-cap 失守）"
+      ],
+      "my_take": "Fed 前 Neutral-to-Cautious。本週係加息週期嘅 full-meeting（dot plot + presser），87% 定價加息，10Y 逼近 5%。資金喺輪動唔係崩盤 — 出 tech/AI/utilities，入 energy/value/cyclical，白銀跑贏黃金確認 risk-on 輪動。核心 catalyst 係 Fed 決定（Thu 凌晨 2am HKT），重點唔係加唔加而係鷹定鴿。中東 escalation（美軍紅海介入）係 tail-risk，會同時推高油價同令 Fed 更 hawkish。"
     }
   ],
   "news_curator": [
