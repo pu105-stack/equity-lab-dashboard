@@ -26,39 +26,6 @@
       "my_take": "Fed 前 defensive rotation，AI slowdown 已由輪動轉 trend reversal（SMH -4.75%）。核心變數係週四凌晨 FOMC：25bp 加息已定價，dot plot 鷹定鴿先係真 catalyst。dovish → semis 反彈；hawkish → 再插。加密（COIN/MSTR）係唯一同 macro 脫鈎嘅獨立行情。明日 bias：Neutral-to-Cautious，等 dot plot。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-15",
-      "time": "08:05 HKT",
-      "status": "success",
-      "market_direction": "美股週一收跌：AI slowdown 呼籲重挫 chipmaker、油價 $109、10年期國債觸及 5%、Fed 加息週壓力，資金轉向防守股",
-      "headlines": [
-        "[NEW] ACTION: OIL — 沙地關閉出口管道，油價衝上 $109",
-        "[NEW] ACTION: BTC — CLARITY Act 今日表決，SEC 主席 Atkins 表態支持",
-        "[NEW] WATCH: TECH/AI — Trump 聯線 Huang 反擊 slowdown，市場未買帳",
-        "[RECENT] WATCH: MACRO — 10年期國債觸及 5%，Fed 加息週壓力升溫",
-        "[RECENT] WATCH: DEFENSE — Houthi 新一波攻擊 + 美軍彈藥短缺",
-        "[NEW] NOTE: BAC — Q3 投行費用預計跌超 10%"
-      ],
-      "opportunities": [
-        "OIL: 沙地關閉出口管道推油價至 $109，柴油破紀錄、美煉油股 rally。但 Hormuz/伊朗 theme 已 run 數週，追高風險大，等 pullback 再諗 XOM/CVX",
-        "BTC: CLARITY Act 今日表決，Trump 讓步加 Atkins 支持提高通過機率，但 Warren 開火、民主黨要求更多讓步，二元事件波動大",
-        "NVDA/AVGO: Trump+Huang+Hock Tan 齊反擊 slowdown 敘事，但市場仍賣。若 slowdown 只係談判籌碼，反彈可期，等 confirm"
-      ],
-      "analysis": "美股週一三大敘事打架：AI slowdown（Amodei/Altman/Musk）vs AI 反駁（Trump/Huang/Hock Tan）；油價 $109 通脹 vs Fed 加息；加密監管 CLARITY Act。市場最終以防守姿態收場 — tech 跌、能源升、10yr 觸 5%。",
-      "risks": [
-        "10年期國債 5% + Fed 加息 = 壓住所有 risk asset 嘅 macro overhang",
-        "油價 $109 推高通脹預期，可能逼 Warsh 更鷹",
-        "AI slowdown 若為真（非談判姿態），NVDA/semis 有更大下行"
-      ],
-      "my_take": "Trump 對 AI slowdown 嘅強烈反彈（仲打埋電話上台）係 signal — 白宮唔會容忍 AI capex 熄火。slowdown 更可能係談判姿態而唔係真實 capex 見頂，NVDA/semis 回調可能係買入機會而非逃命。但呢個 thesis 要等 Broadcom 業績或 NVDA earnings confirm。",
-      "key_takeaways": [
-        "油價 $109 + 柴油破紀錄：能源係唯一避風港，但已 run up",
-        "10yr 觸 5%：Fed 加息週係最大 macro 風險",
-        "CLARITY Act 今日表決：crypto 二元事件",
-        "AI slowdown 敘事被 Trump/Huang 反擊：關注反彈信號"
-      ]
-    },
-    {
       "pipeline": "開市掃瞄",
       "date": "2026-09-14",
       "time": "20:34 HKT",
@@ -3081,6 +3048,64 @@
         "FOMC hawkish surprise from Warsh could deepen tech rout"
       ],
       "my_take": "Cautious bearish, rotation > crash. AI chip rout + Japan quake + FOMC eve = risk-off. Old economy beats (KO/UPS/CARR) confirm rotation thesis. Wait for META/MSFT earnings + FOMC before adding AI exposure. Consumer Confidence tonight is the wildcard."
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-15",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "三重壓力下的 risk-off 週：油價供應中斷 + Fed 加息定局 + AI slowdown 續壓晶片股",
+      "headlines": [
+        "[NEW] ACTION OIL — 沙特管道維修或需數週，油價上衝 $109",
+        "[NEW] WATCH MACRO — 10年期美債息創2007年新高，Fed 加息成定局",
+        "[NEW] WATCH GLD/SLV — 貴金屬轉跌，銀價跌穿 $64",
+        "[RECENT] WATCH AVGO — Hock Tan 力撐 $230B AI 營收目標",
+        "[NEW] WATCH BTC — CLARITY Act 機率跌至 16%，BTC 失守 $78K"
+      ],
+      "opportunities": [
+        "XOM/CVX: 沙特東向西管道維修「或需數週」，供應中斷由暫時升級為持續數週",
+        "AVGO: 基本盤 vs 市場情緒背離，等 Fed 落地後再判斷係 dip 定轉勢"
+      ],
+      "analysis": "油價供應中斷係本周主線，沙特東向西管道遭無人機攻擊後維修或需數週，Brent 逼近 $109，柴油創歷史新高。油價推高通脹預期，令 Fed 加息成定局（機率>90%，2023年來首次），10年期美債息創2007年新高。貴金屬因加息+孳息上升而反轉，金價數週低位、銀價跌穿 $64。AI slowdown 敘事續壓晶片股，但 Broadcom CEO 力撐 $230B 營收目標。加密 CLARITY Act 今日表決，機率跌至 16%。",
+      "risks": [
+        "Fed「不止加一次」narrative 坐實 → 成長股/加密/AI infra 進一步受壓",
+        "油價持續高企 → stagflation 風險，消費股/運輸股受擠壓",
+        "CLARITY Act 若否決 → 加密市場短期拋售"
+      ],
+      "my_take": "共同主線係 Fed：油價推高通脹 → 逼 Fed 加息 → 打擊黃金、加密、成長股、AI infra。但 AI slowdown 敘事正被 Trump+Huang 同 Broadcom CEO 反駁，油價先係利率上移真正 driver。Contrarian：若加息已 price in，Fed 落地後被沽得最狠嘅 AI 名可能反彈，油則係最乾淨 bull case。最大風險係「兩次加息」narrative 坐實。",
+      "key_takeaways": [
+        "油價供應中斷升級為持續數週 — XOM/CVX 最直接",
+        "Fed 加息成定局，10年期美債息創2007年新高",
+        "貴金屬一日反轉 — 加息預期壓過避險需求",
+        "CLARITY Act 機率跌至 16%，今日表決係 binary catalyst"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-15",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Bearish — FOMC 前 risk-off",
+      "headlines": [
+        "FOMC 決策週：加息機率 >90%（2023年來首次），10年期美債息創2007年新高",
+        "沙特管道維修「或需數週」，Brent 逼近 $109，油價供應中斷升級",
+        "NVDA -3.36% / AVGO -4.77%，AI 晶片股續跌",
+        "銀價跌穿 $64、金價數週低位，貴金屬 risk-off",
+        "NOK -13.25% 單日暴跌（需跟進 catalyst）"
+      ],
+      "focus": [
+        "能源 (XOM/CVX) — oil supply shock 最直接 exposure",
+        "AI 反彈 candidate (NVDA/AVGO) — Fed 落地後可能反彈",
+        "FOMC 決策 (週四 02:00 AM HKT) — 本週唯一真正 driver"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-09-15（FOMC 決策週）\n\n## 📰 今日重點頭條\n1. 【Fed】FOMC 會議 9/15-16 進行中，市場定價加息機率 >90%（2023 年來首次），10 年期美債息創 2007 年新高 —— 呢個係今日唯一真正 driver。\n2. 【油】沙特東向西管道維修「或需數週」，Brent 逼近 $109，供應中斷由暫時性升級為持續性（USO +1.14%，遠高於 50/200 日線）。\n3. 【晶片】AI slowdown 續壓：NVDA -3.36%、AVGO -4.77%（AVGO 已跌穿 50/200 日線，技術面破位）。\n4. 【貴金屬】金銀反轉：GLD -1.49%、SLV -2.20%，雙雙跌穿 200 日線，與週一多頭 framing 完全背離。\n5. 【加密】BTC 回吐至 $77K，CLARITY Act 今日表決、通過機率跌至 16%。\n6. 【單股】NOK -13.25% 單日暴跌（活躍榜），需跟進 catalyst。\n7. 【AI 反駁】Broadcom CEO Hock Tan 力撐 $230B AI 營收目標，試圖對沖 slowdown 敘事。\n8. 【券商】Mizuho 下調 Corning (GLW) 目標價（資本需求憂慮）；重申 Oracle (ORCL) 強勁業績。\n\n## 🌍 隔夜市場\n- 三大指數齊跌：SPY -0.45% ($760.88)、QQQ -0.80% ($709.18)、DIA -0.25% ($524.49)。Nasdaq 領跌，科技/晶片係主要拖累。\n- SPY 現價 $760.88 正貼住 50 日線 ($758.94)，離 year high $779.37 約 -2.4%；QQQ $709.18 亦貼住 50 日線 ($710.34)。兩者都喺關鍵技術位。\n- 油價係唯一強勢 asset：USO $156.66 遠高於 200 日線 $109.55，能源係資金避風港。\n- 債息壓力：10 年期美債息 2007 年新高，壓制成長股估值。\n\n## 📈 昨日市場爆升／暴跌榜\n- 爆升榜：FTFT +179%、NCT +67%、BMGL +56%、SCNI +47%、VEEA +47% —— 全部 penny/micro-cap，冇 sector theme，純資金炒作，無跟進價值。\n- 暴跌榜：CTNT -87%、QCLS -67%、ADBT -58%、BURU -47%、CLLS -41% —— 同樣係 penny 股崩跌，無資訊含量。\n- 活躍榜：唯一有資訊量嘅係 NVDA -3.36% 同 NOK -13.25%。NOK 單日 -13% 係重大 catalyst，值得查原因。\n- Sector theme：極端 movers 冇 sector 共性，係 single-event / 資金博弈，反映大盤正喺 FOMC 前嘅無方向整理。\n\n## 📡 今日重點事件（FOMC 決策週）\n今日 MED 級別：ADP 就業（08:15PM HKT）、紐約州製造業指數（08:30PM HKT）。\n本週重磅（全部圍繞 Fed）：\n- 週四 02:00 AM HKT —— Fed 利率決策（加息預期 >90%）\n- 週四 02:00 AM HKT —— FOMC 經濟預測（dot plot / SEP）\n- 週四 02:30 AM HKT —— Powell 記者會\n- 週四 08:30 PM HKT —— 零售銷售、新屋開工/營建許可\n\n## 🔥 Sector Watch\n- 強勢：能源（oil supply shock 係最乾淨嘅 fundamental bull case）。\n- 弱勢：科技/晶片（AI slowdown + 加息雙重打擊）、貴金屬（GLD/SLV 跌穿 200 日線）、加密（BTC 回吐）。\n- Rotation signal：資金由成長/貴金屬/加密流出，湧向能源 + 現金，典型 risk-off。\n\n## 🎯 Pre-market Opportunities\n- XOM/CVX (OIL)：沙特管道維修「數週」令供應中斷持續化，油股係最直接 exposure。但已 run 一段（XOM 高於 50/200 日線、USO 遠超 200 日線），追高要控制風險。\n- NVDA/AVGO (反彈 candidate)：若加息係「定局」已 price in，Fed 落地後被沽得最狠嘅 AI 名可能反彈。但 AVGO 技術面已破位（低於 50/200 日線），反彈需要 catalyst 確認，唔好撈底撈得太早。\n- GLD/SLV：貴金屬 reversal 係重要 signal —— 通脹避險 trade 正輸俾加息 narrative，短期唔好接刀。\n\n## 📅 未來一個月業績重點\n本週 + 下週大型業績幾乎真空（業績淡季，正處 Q2 已過、Q3 未到嘅空窗期）。本週 0 間 notable、下週僅 CTAS (9/23) 同 COST (9/24)。意味住 Fed 決策完全獨大，冇 earnings 分散注意力。COST ($401B) 下週四係唯一值得留意嘅巨型零售名，但距離仲有一週。\n\n## 📋 Today's Agenda\n- 今日（週二）：FOMC 會議第 1 日，市場進入觀望 mode。\n- 關鍵位：SPY 50 日線 $758.94 係 support（現正貼住），跌破就睇 $744；上破 $779 year high 先係趨勢確認。\n- 明日（週三）：FOMC 決策日，2pm ET 出結果 + dot plot。\n\n## 💡 My Take\n市場方向：Neutral-to-Bearish（FOMC 前 risk-off 觀望）。共同主線係 Fed：油價推高通脹 → 逼 Fed 加息 → 打擊貴金屬、加密、成長股、AI infra。呢個 narrative 短期唔會轉向，直到 Fed 落地。\n\n今日最緊要睇實：\n1. 美債息會唔會再破新高 —— 呢個係 risk-off 嘅溫度計。\n2. 油價 $109 守唔守得住 —— 油價先係利率上移嘅真正 driver。\n3. AVGO 反彈 signal —— AI 名嘅先行指標，睇 Hock Tan 反駁有冇止住跌勢。\n\nContrarian 角度：加息若係「定局」（>90% price in），Fed 落地後最被沽嘅 AI 名可能反彈；但「未來一年至少加兩次」嘅 narrative 若坐實，反彈係逃命波而唔係趨勢反轉。最大風險唔係加息本身，而係 dot plot 暗示兩次加息。油係最乾淨嘅 bull case，但追高需謹慎；貴金屬短期唔好接刀。",
+      "risks": [
+        "dot plot 坐實「兩次加息」narrative → 反彈變逃命波",
+        "油價供應中斷若比預期更快解決 → 油股回吐",
+        "AVGO 技術面已破位，撈底過早風險",
+        "美債息再破新高 → risk-off 加劇"
+      ],
+      "my_take": "FOMC 決策週 risk-off：油價供應中斷推高通脹 → Fed 加息（>90% price in）→ 壓制貴金屬、加密、AI。油 (XOM/CVX) 係最乾淨 bull case 但已 run；AI 名 (NVDA/AVGO) 係 Fed 落地後嘅反彈 candidate 但 AVGO 已破位；貴金屬唔好接刀。最大風險係 dot plot 坐實「兩次加息」narrative。"
     }
   ],
   "news_curator": [
