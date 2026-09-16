@@ -3108,39 +3108,6 @@
       "my_take": "FOMC 決策週 risk-off：油價供應中斷推高通脹 → Fed 加息（>90% price in）→ 壓制貴金屬、加密、AI。油 (XOM/CVX) 係最乾淨 bull case 但已 run；AI 名 (NVDA/AVGO) 係 Fed 落地後嘅反彈 candidate 但 AVGO 已破位；貴金屬唔好接刀。最大風險係 dot plot 坐實「兩次加息」narrative。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-16",
-      "time": "08:05 HKT",
-      "status": "success",
-      "market_direction": "美股連跌兩日，油價$105+債息5%雙重壓力，FOMC加息決策前夕",
-      "headlines": [
-        "[RECENT] WATCH: CRYPTO — CLARITY Act 參議院否決，加密監管立法落空",
-        "[RECENT] WATCH: OIL — 柴油出口禁令醞釀＋利比亞中斷，能源部長稱數日修復",
-        "[RECENT] WATCH: MACRO — Bessent 債市干預遭反擊，FOMC 加息決策日逼近",
-        "[RECENT] WATCH: ORCL — 五連跌，$40B 融資在利率上升下風險浮現",
-        "[RECENT] NOTE: DEFENSE — CBO 伊朗戰爭耗資$38B，加劇通膨",
-        "[RECENT] NOTE: TECH — OpenAI 擬$1.2T估值融資"
-      ],
-      "opportunities": [
-        "CRYPTO: CLARITY Act 落空，Coinbase -6%、Circle -8%、BTC $77K — 市場已消化，等過度回調",
-        "OIL: 柴油禁令+利比亞中斷 vs 能源部長「數日修復」— 易升難大跌，追高風險大",
-        "MACRO: Bessent 債市干預失敗，10yr 5%+ — Fed 若加息成長股再受壓",
-        "ORCL: 五連跌+$40B融資成本上升 — 高負債股在利率上升環境承壓"
-      ],
-      "analysis": "兩大 macro 壓力（油價 + 債息）主導，市場避險。CLARITY Act 落空係最大 NEW，但跌勢集中直接受惠股（COIN/CRCL），BTC 跌幅有限。Bessent 債市干預失敗反映債市失控，FOMC 加息決策日逼近。油價官方口徑 de-escalation（「數日修復」），但利比亞/Hormuz 續添 risk premium。",
-      "risks": [
-        "Fed 若加息，成長股/高負債股（ORCL）再受壓",
-        "油價若衝破 $110，通膨預期失控",
-        "柴油出口禁令若落實，煉油股受政策衝擊"
-      ],
-      "my_take": "真正 NEW 嘅係 CLARITY Act 落空（已 priced）同 Bessent 債市干預失敗（反映債市失控）。FOMC 加息若成真，成長股+高負債股再受壓，利好現金/短債。油價官方口徑開始 de-escalation，追高風險大。",
-      "key_takeaways": [
-        "CLARITY Act 否決 → 加密監管催化劑消失，但市場已消化",
-        "Bessent 債市干預失敗 → 債市失控，Fed 加息壓力大",
-        "油價 de-escalation 訊號 vs 利比亞/Hormuz 供應中斷"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-16",
       "time": "08:34 HKT",
@@ -3164,6 +3131,56 @@
         "ORCL 高負債 + 息口上升，五連跌勿接刀"
       ],
       "my_take": "典型 pre-FOMC 有序避險：加息已完全 price in，VIX 17.2 反映 complacency。風險不對稱地喺 dot plot——「one and done」就 relief rally，「兩次加息」就反彈變逃命波。油係唯一乾淨 bull 但已 crowded。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-16",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "油價再創年內新高，能源股追落後；美股偏軟，聚焦 FOMC 加息決策",
+      "headlines": [
+        "[NEW] OIL: Houthis 瞄準麥加紅線，油價衝年內新高",
+        "[NEW] MACRO: FOMC 決策日，Fed 料加息",
+        "[NEW] LNG: Hormuz 危機促買家轉向美國天然氣",
+        "[RECENT] CRYPTO: CLARITY Act 否決，BTC ETF 流出 $450M"
+      ],
+      "opportunities": [
+        "OIL (USO/XOM/CVX): 麥加紅線升級，能源股追落後",
+        "LNG (Cheniere): 催化劑未反映，Hormuz 結構性利好"
+      ],
+      "analysis": "油係今次 session 唯一催化劑與市場確認同向嘅主題，持續升級中。",
+      "risks": [
+        "油價已處年內高位，追高有回調風險",
+        "Fed 若鷹派超預期，風險資產承壓"
+      ],
+      "my_take": "能源股相對油價有 catch-up 空間；Fed 變數係 Warsh 措辭而非加息本身。",
+      "key_takeaways": [
+        "麥加紅線係全新升級",
+        "能源股追落後係核心機會",
+        "Fed 加息已 priced in，睇 Warsh"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-16",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautious (FOMC 前)，Energy bullish",
+      "headlines": [
+        "油價衝年內新高 $109：Houthis 麥加紅線 + 擊落沙特戰機",
+        "FOMC 決策日：料加息至 4.00%，Warsh 措辭係關鍵",
+        "BTC 失守 $78K，ETF 單日流出 $450M"
+      ],
+      "focus": [
+        "Energy (USO/XOM/CVX) — 油價催化劑持續升級 + 市場確認"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-09-16\n\n## Fed Context — FOMC 決策日\n\n今晚（9月17日 02:00AM HKT）係 FOMC 決策日。市場預期 Fed 加息 25bp，聯邦基金利率上限由 3.75% → 4.00%（即目標區間 3.50-3.75% → 3.75-4.00%）。同時公布 Economic Projections（dot plot），半個鐘後（02:30AM）Warsh 記者會。\n\n關鍵 macro 背景（FRED 驗證）：\n- 10Y 美債息 4.97%（DGS10, 9/14），2007 年以來新高，逼近 5% 心理關\n- 2Y 4.65%，期限利差 +0.33%（正斜率，冇倒掛）\n- VIX 17.1（calm，市場未恐慌）\n- 有效聯邦基金利率 DFF 3.63%（現行 3.50-3.75% 區間中位附近）\n\n加息 25bp 本身已大程度 priced in。真正變數係 Warsh 措辭（hawkish 定 dovish）+ dot plot 對 2027 終端利率嘅指引。油價 $109 通脹黏性下，Warsh 有誘因 keep hawkish——呢個係向下嘅 tail risk。冇新 FOMC statement 要 fetch（決策未公布，DB 最新 statement 係 2022 年 Longer-Run Goals，唔 relevant）。\n\n## 📰 今日重點頭條\n\n1. 油價衝年內新高 $109：Houthis 瞄準麥加「紅線」+ 擊落沙特戰機（USO/XOM/CVX）\n2. FOMC 決策日：Fed 料加息至 4.00% 上限，Warsh 措辭係關鍵（MACRO）\n3. 日本央行料加息至 31 年高位（BOJ）\n4. BTC 失守 $78K，BTC ETF 單日流出 $450M（BTC-USD）\n5. 10 年期美債息處 5%（2007 年以來新高）\n6. 金價守 $4,300 等 Fed，銀價反彈（GLD/SLV）\n7. Hormuz 危機促 LNG 買家轉向美國（Cheniere/LNG）\n8. 加拿大受邀成歐盟首個「準會員」；中美峰會前商討能源/農產品關稅下調\n9. MU 企穩 $927；Cisco 超買創科網泡沫以來新高\n\n## 🌍 隔夜市場\n\n- 美股盤前偏軟：SPY 757.39 (-0.46%)、QQQ 704.54 (-0.65%)、DIA 521.23 (-0.62%)\n- VIX 17.1，情緒 calm\n- 10Y 4.97%、2Y 4.65%，期限利差 +0.33%（未倒掛）\n- 油價 $109 年內新高（USO 161.86, +3.3%）\n- 金價 $4,300 守穩（GLD 394.15, +0.33%）\n\n## 📈 昨日市場爆升／暴跌榜\n\nFMP movers 全部係 micro-cap penny stocks，對 trading desk 冇實質意義：\n- 爆升：RETO +676%、VEEA +149%、MEDS +87%、FBDT +56%、PDSB +47%（全部 sub-$6 細價股）\n- 暴跌：FEED -69%、HCAI -67%、CTNT -59%、LKSPR -50%、SOBR -48%（同樣 micro-cap）\n- 活躍：PDSB、ADBT、CTNT、RETO、VEEA\n\n**Sector theme：冇。** 呢啲係 single-event / 低流通量 penny stock 波動，唔係 sector rotation。真正嘅資金流向喺 energy（USO +3.3%、XOM +2.5%）。\n\n## 📡 今日重點事件（macro_calendar.json — source of truth）\n\n- 🔴 08:30PM HKT — Retail Sales MoM (Aug)，prev -0.6% fcast +0.8%（FOMC 前最重要 hard data）\n- 🟡 08:30PM — Retail Sales Ex Autos / Control Group / Import & Export Prices\n- 🟡 10:00PM — NAHB Housing Index / Business Inventories\n- 🟡 10:30PM — EIA Crude & Gasoline Stocks（油價敏感）\n- 🔴 02:00AM HKT（9/17）— **Fed Rate Decision**（prev 3.75 → fcast 4.00）\n- 🔴 02:00AM — FOMC Economic Projections（dot plot）\n- 🔴 02:30AM — **Fed Press Conference**（Warsh）\n\n本週餘下 HIGH：Thu 9/17 08:30PM Housing Starts + Building Permits。\n\n## 🔥 Sector Watch\n\n- **Energy（強勢）**：油價 $109 年內新高，XOM +2.5%，能源股相對油價有 catch-up 空間。Hormuz 地緣風險未解除，catalyst 持續升級。\n- **Financials/Banks（關注）**：加息環境利好 net interest margin，但 10Y 5% 對長期信貸需求係壓力。\n- **Tech/Semis（中性偏軟）**：QQQ -0.65%，MU 企穩 $927 但 Cisco 超買。今晚 dot plot 若偏 hawkish，growth 股首當其衝。\n- **Crypto（風險）**：BTC 失守 $78K，ETF 流出 $450M，趨勢向下。\n- **Precious Metals（中性）**：金 $4,300 守穩等 Fed，銀反彈，反映 hedge 需求。\n\n## 🎯 Pre-market Opportunities（News Curator 重點）\n\n- **OIL/能源 (USO/XOM/CVX)** — ACTION。唯一「催化劑 + 市場確認」同向主題。麥加紅線係全新升級，唔係舊聞翻炒。能源股相對油價有 catch-up 空間。部署：等 FOMC 塵埃落定後，若油價守 $109 上方，能源股係今日最乾淨嘅 momentum 題材。\n- **LNG (Cheniere)** — WATCH。Hormuz 危機促 LNG 買家轉向美國，但今日 -1.2%，催化劑未反映。睇實會唔會追落後。\n- **金/銀 (GLD/SLV)** — WATCH。FOMC 若 dovish surprise，貴金屬有反彈空間；若 hawkish，金價 $4,300 可能失守。\n- **BTC** — WATCH（下行）。$78K 失守 + $450M ETF 流出，趨勢弱，唔好接刀。\n\n## 📅 未來一個月業績重點\n\n業績期進入淡靜期，未來一個月重點得三間：\n- **CTAS**（9/23 Wed BMO, $80B）— 制服/服務，對經濟活動敏感\n- **COST**（9/24 Thu AMC, $408B）— 零售巨頭，消費信號\n- **MU**（9/30 Wed AMC, $1044B, 🎯 tracked）— 記憶體巨頭，$927 高位，AI/HBM demand 驗證點\n\n下一波大業績要等 10 月中銀行股開季。呢個星期業績唔係主角，FOMC 先係。\n\n## 📋 Today's Agenda\n\n- 08:30PM HKT：Retail Sales（Aug）— FOMC 前最後一個 hard data，若反彈不及預期可能 soft 化 Warsh 立場\n- 02:00AM HKT：Fed Rate Decision + dot plot\n- 02:30AM HKT：Warsh 記者會\n- Key levels：SPY 757，下方支撐 750 / 745；上方阻力 762 / 770\n\n## 💡 My Take\n\n**整體 bias：Neutral-to-cautious（FOMC 前），Energy bullish。**\n\n今晚係 FOMC 決策日，市場以 risk-off 姿態等結果（三大指數盤前全線偏軟）。加息 25bp 已大程度 priced in，所以真正決定方向嘅唔係數字，而係 Warsh 措辭 + dot plot 對終端利率嘅指引。喺油價 $109 通脹黏性下，Warsh 有誘因偏 hawkish——呢個係向下嘅 tail risk。\n\n唯一乾淨嘅方向係 energy：油價催化劑（麥加紅線）持續升級 + 市場確認（USO +3.3%、XOM +2.5%）同向，能源股相對油價仲有 catch-up 空間。呢個主題受 FOMC 影響較細——地緣風險係獨立變數。\n\n今日最緊要睇實：Retail Sales 數字（08:30PM）+ Warsh 措辭（02:30AM）。Overnight signals 有冇改變之前 thesis？冇重大改變——oil theme 強化咗，crypto 弱化咗，其餘照舊。",
+      "risks": [
+        "Warsh 偏 hawkish 語氣 + dot plot 上調終端利率 → growth 股受壓",
+        "Retail Sales 若弱於預期 → 滯脹憂慮升溫",
+        "BTC 跌破 $78K 趨勢下行，風險資產情緒傳導"
+      ],
+      "my_take": "FOMC 決策日，市場 risk-off 等結果。加息 25bp 已 priced in，真正變數係 Warsh 措辭 + dot plot。唯一乾淨方向係 energy——油價 $109 年內新高（麥加紅線）催化劑持續升級，能源股有 catch-up 空間。Bias：Neutral-to-cautious，Energy bullish。"
     }
   ],
   "news_curator": [
