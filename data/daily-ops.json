@@ -3106,6 +3106,64 @@
         "美債息再破新高 → risk-off 加劇"
       ],
       "my_take": "FOMC 決策週 risk-off：油價供應中斷推高通脹 → Fed 加息（>90% price in）→ 壓制貴金屬、加密、AI。油 (XOM/CVX) 係最乾淨 bull case 但已 run；AI 名 (NVDA/AVGO) 係 Fed 落地後嘅反彈 candidate 但 AVGO 已破位；貴金屬唔好接刀。最大風險係 dot plot 坐實「兩次加息」narrative。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-16",
+      "time": "08:05 HKT",
+      "status": "success",
+      "market_direction": "美股連跌兩日，油價$105+債息5%雙重壓力，FOMC加息決策前夕",
+      "headlines": [
+        "[RECENT] WATCH: CRYPTO — CLARITY Act 參議院否決，加密監管立法落空",
+        "[RECENT] WATCH: OIL — 柴油出口禁令醞釀＋利比亞中斷，能源部長稱數日修復",
+        "[RECENT] WATCH: MACRO — Bessent 債市干預遭反擊，FOMC 加息決策日逼近",
+        "[RECENT] WATCH: ORCL — 五連跌，$40B 融資在利率上升下風險浮現",
+        "[RECENT] NOTE: DEFENSE — CBO 伊朗戰爭耗資$38B，加劇通膨",
+        "[RECENT] NOTE: TECH — OpenAI 擬$1.2T估值融資"
+      ],
+      "opportunities": [
+        "CRYPTO: CLARITY Act 落空，Coinbase -6%、Circle -8%、BTC $77K — 市場已消化，等過度回調",
+        "OIL: 柴油禁令+利比亞中斷 vs 能源部長「數日修復」— 易升難大跌，追高風險大",
+        "MACRO: Bessent 債市干預失敗，10yr 5%+ — Fed 若加息成長股再受壓",
+        "ORCL: 五連跌+$40B融資成本上升 — 高負債股在利率上升環境承壓"
+      ],
+      "analysis": "兩大 macro 壓力（油價 + 債息）主導，市場避險。CLARITY Act 落空係最大 NEW，但跌勢集中直接受惠股（COIN/CRCL），BTC 跌幅有限。Bessent 債市干預失敗反映債市失控，FOMC 加息決策日逼近。油價官方口徑 de-escalation（「數日修復」），但利比亞/Hormuz 續添 risk premium。",
+      "risks": [
+        "Fed 若加息，成長股/高負債股（ORCL）再受壓",
+        "油價若衝破 $110，通膨預期失控",
+        "柴油出口禁令若落實，煉油股受政策衝擊"
+      ],
+      "my_take": "真正 NEW 嘅係 CLARITY Act 落空（已 priced）同 Bessent 債市干預失敗（反映債市失控）。FOMC 加息若成真，成長股+高負債股再受壓，利好現金/短債。油價官方口徑開始 de-escalation，追高風險大。",
+      "key_takeaways": [
+        "CLARITY Act 否決 → 加密監管催化劑消失，但市場已消化",
+        "Bessent 債市干預失敗 → 債市失控，Fed 加息壓力大",
+        "油價 de-escalation 訊號 vs 利比亞/Hormuz 供應中斷"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-16",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "連跌兩日，有序避險，FOMC 前夕",
+      "headlines": [
+        "CLARITY Act 否決 → 加密崩跌 (COIN -10.10%, MSTR -5.36%)",
+        "Bessent 債市干預失敗 → 10yr 5% (2007 新高)",
+        "油價 WTI $105.7，沙特管道+利比亞供應中斷 → 能源獨強",
+        "ORCL 五連跌 -3.07%，$40B 融資息口壓力",
+        "SPY 跌穿 50 日線 $758.94"
+      ],
+      "opportunities": [
+        "NVDA/AVGO: FOMC 落地後若偏鴿，short-covering 反彈 candidate",
+        "XOM/CVX: 油價唯一乾淨 fundamental，但 crowded 追高風險升"
+      ],
+      "analysis": "## 📊 Market Recap\n\n美股連續第二日下跌，但跌勢溫和、非恐慌。SPY -0.46% ($757.39)、QQQ -0.65% ($704.54)、DIA -0.62% ($521.23)。關鍵技術位：SPY 正式跌穿 50 日線 ($758.94)，QQQ 亦跌破 50 日線 ($710.34)——Morning Scan 已預告呢個位，今日坐實。\n\nVIX 收 17.2，幾乎冇動（前日 17.1）。呢個係今日最反直覺嘅 signal：油價 $105、10 年債息 5%、仲要係 2023 年來首次加息，但 VIX 完全冇 panic。市場係「有序避險」而非「恐慌拋售」。\n\n## 🔥 Notable Movers\n\n升勢集中喺能源：XOM +2.57%、CVX +2.64%、USO +3.32%——油價供應中斷係唯一乾淨嘅 fundamental bull。NOK +1.97% 係週一 -13% 後嘅技術反彈，冇新 catalyst。\n\n跌勢集中喺兩個 cluster：\n1. 加密：COIN -10.10%、MSTR -5.36%——CLARITY Act 正式否決（Morning Scan 已標 16% 通過機率，今日坐實）。\n2. 高負債/成長：ORCL -3.07%（五連跌，$40B 融資喺息口上升下成本暴增）、AVGO -1.58%（技術面持續破位）。\n\nSector rotation 清晰：資金由消費 (XLY -1.75%)、公用 (XLU -1.20%)、通訊 (XLC -0.90%) 流出，湧入能源 (XLE +2.17%) 同原材料 (XLB +0.48%)。典型 stagflation 對沖格局。\n\n## 📰 News That Mattered\n\n三個 confirmed catalyst 主宰今日：\n\n1. **CLARITY Act 否決**：加密監管催化劑正式消失。COIN -10%、Circle -8%、MSTR -5%。但注意——呢個結果 Morning Scan 已經 price in（16% 機率），所以跌幅反映「確認」多過「意外」。BTC 企 $75-77K，冇崩潰。\n\n2. **Bessent 債市干預失敗**：財長試圖壓低長債息，失敗。10yr 企 5%（2007 年新高），2yr 4.65%。呢個係最重要嘅 macro signal——債市唔聽話，FOMC 今晚加息嘅壓力更大。\n\n3. **油價供應中斷持續**：沙特管道「數週」維修 + 利比亞/Hormuz 風險，WTI $105.7。但能源部長開始講「數日修復」嘅 de-escalation 口徑——油價 bull 已 run 一段，追高風險上升。\n\nMorning Scan calls 覆盤：\n- ✅ XOM/CVX 油股 bull——完全命中（XOM +2.57%、CVX +2.64%）\n- ✅ CLARITY Act 低機率——坐實否決\n- ⚠️ GLD/SLV「唔好接刀」——今日反彈（GLD +0.33%、SLV +1.21%），貴金屬有企穩跡象\n- ⚠️ NVDA/AVGO 反彈 candidate——NVDA +0.57% 企穩，AVGO -1.58% 仍未止跌\n- ❌ SPY 50 日線 support $758.94——正式跌穿\n\n## 🎯 Opportunities Carry Forward\n\n1. **FOMC 落地後嘅 AI 反彈 trade**（明日核心 setup）：被沽得最狠嘅 NVDA/AVGO，若今晚 dot plot 唔坐實「兩次加息」，有望 short-covering 反彈。但 AVGO 技術面已破位，反彈要 catalyst 確認，唔好撈底撈太早。\n\n2. **油股 momentum**：唯一乾淨 fundamental，但 crowded + de-escalation 口徑浮現。追高性價比下降，回調先諗。\n\n3. **加密 event-driven 完結**：CLARITY Act 死咗，短期冇催化劑。COIN -10% 後可能過度反映，但冇新 catalyst 就冇反彈理由。觀望。\n\n## ⚠️ Risks / Watchlist\n\n今晚（overnight）三件大事，全部圍繞 FOMC：\n- 08:30 PM HKT —— Retail Sales (Aug)，FOMC 前最後數據\n- 02:00 AM HKT —— Fed 利率決策（>90% price in 加息，2023 年來首次）\n- 02:00 AM HKT —— FOMC Economic Projections (dot plot)\n- 02:30 AM HKT —— Powell 記者會\n\n最大風險：dot plot 坐實「兩次加息」narrative → 反彈變逃命波。高負債成長股（ORCL）同息口敏感板塊（XLU/XLRE）最脆弱。\n\n第二風險：VIX 17.2 嘅 complacency。市場已完全 price in 加息，若 Powell 意外更 hawkish，vol spike 係不對稱嘅。\n\n## 💡 My Take\n\n今日係典型 pre-FOMC 有序避險日——冇 panic，但資金明確由成長/加密撤向能源同現金。真正嘅故事係 complacency：油 $105、債息 5%、加息前夕，VIX 得 17.2。加息已完全 price in，所以風險不對稱地喺 dot plot 嗰邊——若 Powell 唱「one and done」，被沽得最狠嘅 AI/加密會 short-covering 反彈；若坐實兩次加息，反彈就係逃命波。我嘅 bias：FOMC 前中性，但若 message 偏鴿，傾向 post-FOMC relief rally。",
+      "risks": [
+        "dot plot 坐實「兩次加息」→ 反彈變逃命波",
+        "VIX 17.2 complacency → hawkish 意外令 vol spike 不對稱",
+        "ORCL 高負債 + 息口上升，五連跌勿接刀"
+      ],
+      "my_take": "典型 pre-FOMC 有序避險：加息已完全 price in，VIX 17.2 反映 complacency。風險不對稱地喺 dot plot——「one and done」就 relief rally，「兩次加息」就反彈變逃命波。油係唯一乾淨 bull 但已 crowded。"
     }
   ],
   "news_curator": [
