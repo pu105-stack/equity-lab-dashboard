@@ -3183,39 +3183,6 @@
       "my_take": "FOMC 決策日，市場 risk-off 等結果。加息 25bp 已 priced in，真正變數係 Warsh 措辭 + dot plot。唯一乾淨方向係 energy——油價 $109 年內新高（麥加紅線）催化劑持續升級，能源股有 catch-up 空間。Bias：Neutral-to-cautious，Energy bullish。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-17",
-      "time": "08:08 HKT",
-      "status": "success",
-      "market_direction": "Fed 2023年來首次加息，SPY 僅 -0.44% 但 10yr 債息升返 5%、美元急升；油價由高位回落（USO -3.5%），國防逆勢走強",
-      "headlines": [
-        "[RECENT] ⚠️ MACRO: Fed 首次加息 + Trump 要求 1%",
-        "[RECENT] 🎯 OIL: 沙特恢復管道油價回落（多頭反轉）",
-        "[RECENT] ⚠️ DEFENSE: F-35 售沙特 + 中國竊密警告",
-        "[NEW] ⚠️ CLIMATE: Holtec 撤回核能 IPO",
-        "[RECENT] ⚠️ TECH: Micron 財報考驗"
-      ],
-      "opportunities": [
-        "OIL: 沙特恢復管道 + Fed 加息(強美元) 令油價回落，能源股 EOG/COP/OXY 已跌 5-6%，多頭 thesis 正在 unwinding",
-        "DEFENSE: LMT +0.7%，伊朗戰爭 + 沙特軍售結構性利好，但 F-35 中國竊密爭議延遲交付風險",
-        "MACRO: 加息進入強經濟環境(零售強勁+收入創新高)，銀行 NIM 利好 vs growth 估值壓縮"
-      ],
-      "analysis": "Fed 加息本身已被預期(SPY 僅 -0.44%)，真正 reprice 喺債息(5%)同美元。Trump 1% 要求引爆 Fed 獨立性大戰係下一波 tail risk。油價 spike 正在 unwinding，但實體供應仍緊(tanker $1M/day)。",
-      "risks": [
-        "Fed 獨立性大戰(Trump vs Warsh)",
-        "油價回落但實體供應仍緊，方向未明",
-        "AI 數據中心能源/安全成本政治化",
-        "核能/AI 電力估值開始遭審視"
-      ],
-      "my_take": "今日核心唔係 Fed 加息(已 priced in)，而係三個 secondary effects：① Trump 1% 要求引爆 Fed 獨立性大戰 = 真正 tail risk；② 油價 spike unwinding，唔好追跌；③ 加息進入強經濟環境 = 非衰退性加息，銀行利好 growth 逆風。市場 miss 咗：債息 5% + 美元急升先係真正 reprice，會透過高實際利率慢慢滲透去 growth 估值。",
-      "key_takeaways": [
-        "Fed 加息已 priced in，equities 反應溫和",
-        "債息 5% + 美元急升 = 真正 reprice 信號",
-        "油價多頭 thesis 反轉，能源股已跌 5-6%",
-        "國防股逆勢走強，伊朗戰爭持續 bid"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-17",
       "time": "08:33 HKT",
@@ -3242,6 +3209,65 @@
         "今晚Housing Starts+Building Permits(08:30PM HKT)"
       ],
       "my_take": "Fed 加息已 priced in，真正故事係 Trump 1% 引爆 Fed 獨立性大戰 + dot plot「higher for longer」上移。能源 thesis 被沙特恢復管道反轉，clean direction 轉向 defense。市場 miss 咗債息 5% + 美元急升嘅 reprice。Bias：Neutral-to-cautious。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-17",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "Fed 加息餘波主導：10年期美債孳息重返5%，油價由$103高位回落，伊朗戰爭「有望接近尾聲」",
+      "headlines": [
+        "[NEW] WATCH: DEFENSE — Trump 稱伊朗戰爭「有望接近尾聲」，國防股/油價見頂風險",
+        "[RECENT] ACTION: GNRC — Amazon 獲權入股 Generac，股價飆逾40%",
+        "[RECENT] ACTION: CRM — Salesforce 上調FY2030營收目標至$63B + $25B回購",
+        "[NEW] WATCH: MACRO — BoE 逆Fed維持3.75%，英美政策分化",
+        "[NEW] WATCH: MACRO — 中國減持美債至2008年新低"
+      ],
+      "opportunities": [
+        "GNRC: Amazon入股消息帶動+40%，電力/能源板塊結構性催化，但要留意單日漲幅過大",
+        "CRM: $63B FY2030目標超越預期 + $25B回購 + Guggenheim調高目標價至$300，基本面強勁",
+        "DEFENSE: 伊朗戰爭降級訊號 = 國防股(LMT/RTX)見頂風險，油價進一步回落空間"
+      ],
+      "analysis": "Fed首次加息(2023年來)後，市場進入消化期。Warsh鷹派立場確認，10年期孳息重返5%。Trump對Fed開火並威脅對墨歐貿易，但市場開始「buy the dip」。關鍵新催化：Trump稱伊朗戰爭「有望接近尾聲」——若成真，地緣風險溢價加速消退，利好equities利淡國防/油價。",
+      "risks": [
+        "伊朗戰爭降級若屬誤判，油價可能重拾升勢",
+        "10年期孳息5%+持續，科技股估值壓力未解除",
+        "Trump貿易戰升級威脅（墨西哥/歐洲）"
+      ],
+      "my_take": "今日主線係「de-escalation + hawkish Fed」嘅拉鋸。Fed加息壓估值，但伊朗戰爭降級+油價回落提供通脹緩解，兩者對沖。最值得關注嘅係油價：由$103回落+Trump官宣「接近尾聲」，若戰爭真結束，能源成本下降係最大嘅通脹降溫劑，反而支持股市中期反彈。個股層面，GNRC(Amazon入股)同CRM($63B目標)係最乾淨嘅ACTION，其餘係macro noise。",
+      "key_takeaways": [
+        "伊朗戰爭「有望接近尾聲」= 本窗口最大新催化（de-escalation）",
+        "Fed鷹派+孳息5%，但市場開始buy the dip",
+        "GNRC +40%（Amazon入股）、CRM $63B目標 = 最乾淨嘅個股機會",
+        "BoE逆Fed維持3.75%，英美政策分化"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-17",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautiously-bullish",
+      "headlines": [
+        "Fed 加息 25bps 至 3.75-4.00%（12-0），SEP 暗示今年再有一次加息",
+        "伊朗戰爭「接近尾聲」，油價由 $103 回落",
+        "Amazon 入股 GNRC（+40%）、Salesforce 上調目標 + $25B 回購",
+        "BoE 逆 Fed 維持 3.75%，英美政策分化",
+        "10Y 美債重返 5.0%，VIX 17.2 平靜"
+      ],
+      "focus": [
+        "CRM — FY2030 $63B 目標 + Guggenheim $300 PT，Fed 陰影下回調係 catalyst",
+        "能源/國防 — 伊朗降級，油價跌破 $95 = 國防見頂、能源續跌",
+        "10Y 5.0% 關口 — 突破則放棄 bullish thesis"
+      ],
+      "analysis": "# Morning Scan — 2026-09-17 (Thu) 20:30 HKT\n\n## Fed Context — Hawkish Hike, 但 De-escalation 對沖\n\n**FOMC 9/15-16 結果：加息 25bps 至 3.75%–4.00%（12-0 全票通過）。** 呢個係本 Morning Scan 首度覆蓋 FOMC statement 全文。\n\n**Statement 三個關鍵 signal：**\n1. 「Inflation remains elevated... The Committee will deliver price stability」— 語氣直接，冇再用「making progress toward 2%」嘅緩和措辭，係 Hawkish 升級。\n2. 「Economic activity is expanding at a solid pace... Productivity growth is strong, capital investment robust」— 承認經濟強，有條件繼續加息。\n3. 「Uncertainty remains elevated owing to geopolitical developments」— 首次喺 statement 明確指向地緣政治（伊朗戰爭）。\n\n**SEP 點陣圖（9/16 發布）：**\n- PCE inflation 2026 中位數 **3.7%**（遠高於 2% 目標）、Core PCE **3.4%** — 呢個係加息嘅根本原因。\n- 聯邦基金利率 2026 中位數 **4.1%**（vs 現時 mid 3.875%）→ **暗示今年仲有一次 25bps 加息**。2027 維持 4.1%，longer-run 3.2%。\n- 失業率 2026 中位數 4.1%、GDP 2.3% — 冇 recession 風險定價。\n\n**下次 FOMC：10/27-28，再有 12/8-9。** Goldman 已轉軚預測 10 月再加息，同 SEP 點陣圖一致。\n\n**政策分化：** BoE 逆 Fed 維持 3.75% 不變，英美貨幣政策正式分道。中國減持美債至 2008 年新低，係孳息上行嘅結構性壓力。\n\n**我的判斷：** 加息本身係 negative for valuation，但市場 VIX 只係 17.2（低恐慌）、Nasdaq 幾乎平收，反映市場已經 price in 咗大部份。真正嘅變數係伊朗戰爭降級 + 油價回落提供嘅通脹緩解，同 Fed 加息形成對沖。如果油價企穩喺 $95 以下，呢個 de-escalation 催化劑會蓋過加息陰影。\n\n---\n\n## 📰 今日重點頭條\n\n1. **Fed 加息 25bps 至 3.75-4.00%**（12-0）— 通脹仍高企，SEP 暗示今年再有一次加息。10年期美債孳息重返 5.0%。（Fed / WSJ）\n2. **BoE 逆 Fed 維持利率 3.75% 不變** — 英美政策分化，英鎊壓力。（CNBC）\n3. **伊朗戰爭「有望接近尾聲」** — Trump 官宣，油價由 $103 高位回落，能源股 -2.8%。（CNBC / 央視）\n4. **Amazon 獲權入股 Generac（GNRC）** — 股價飆逾 40%，電力/能源結構性催化，但單日漲幅過大要小心。（Investing）\n5. **Salesforce 上調 FY2030 營收目標至 $63B + $25B 回購** — Guggenheim 目標價 $300。（Investing）\n6. **中國減持美債至 2008 年新低** — 孳息上行嘅結構性壓力。（FT）\n7. **Goldman 轉軚預測 10 月再加息 + Trump 威脅對墨歐貿易** — 貿易戰升級風險。（CNBC）\n8. **金價 Fed 後企穩 ~$4234** — 避險 + 央行買盤支撐。（TradingView）\n9. **Oracle 2026 大跌後，分析師稱 12 個月內或近三倍** — ORCL 反彈 +2.06%。（247WallSt）\n10. **NVDA Fed 後企穩** — 「breakout 定 relief bounce」爭論。（TradingView）\n\n---\n\n## 🌍 隔夜市場（9/16 FOMC 日收市）\n\n- **SPY $754.05（-0.44%）** — 溫和下跌，冇恐慌\n- **QQQ $704.72（+0.03%）** — 科技平收，資金冇撤離成長股\n- **DIA $515.22（-1.15%）** — 道指跌幅最大，利率敏感嘅價值/派息股受壓\n- **VIX 17.2** — 低恐慌，市場平靜消化加息\n- **10Y 美債 5.00%** — 重返 5%，係估值嘅最大天花板\n- **油價由 $103 回落**（伊朗降級）、**金價 $4234 企穩**\n- **Sector：** 能源 -2.78%、金融 -1.77%、通訊 -1.11% 領跌；工業 +2.38%、醫療 +0.16% 逆勢\n\n**Signal：** 加息日道指跌、科技平收，係「quality rotation」唔係「risk-off」。資金冇恐慌，只係由利率敏感板塊移去成長/防禦。\n\n---\n\n## 📈 昨日爆升／暴跌榜\n\n**爆升榜（多為 penny/microcap，質素低，唔建議跟）：**\n- DLXY +451%、MEDS +275%、SNYR +233%、QCLS +118% — 全部係 $0.3-$6 嘅微市值股，single-event driven，無跟進價值。\n\n**真正值得睇嘅 catalyst：**\n- **GNRC +40%（Amazon 入股）** — 唯一有基本面支撐嘅大升。電力/備用電源結構性需求 + Amazon 背書，但 +40% 後追入風險高。\n\n**暴跌榜（生物科技/微市值為主）：**\n- XBIO -49%、CUPR -45%、MYSE -35%、RETO -34% — 高波動微市值，無 sector 共性。\n\n**活躍榜：** SNYR、DLXY、QCLS、CTNT 等微市值霸榜，反映資金喺 junk 股炒作，唔係健康嘅板塊輪動。\n\n**Sector theme：** 冇一個健康嘅 sector 主題。真正嘅資金信號係能源 -2.78%（油價回落）同工業 +2.38%（國防/基建預期仍在）。呢兩條線今日繼續跟。\n\n---\n\n## 📡 今日重點事件（8:30pm HKT 開市前後）\n\n全部數據來自 macro_calendar.json：\n\n- 🟡 **初領失業金（Initial Jobless Claims）** — prev 206k，fcast 208k\n- 🟡 **費城聯儲製造業指數** — prev 47.4，**fcast 30.5（大跌預期）** — 值得盯，若真跌咁多反映製造業急降溫\n- 🔴 **建屋許可（Building Permits）** — prev 1.433M，fcast 1.41M\n- 🔴 **新屋動工（Housing Starts）** — prev 1.239M，fcast 1.31M\n- 🟡 **成屋待售銷售（Pending Home Sales）** — 10:00pm HKT\n\n**地緣政治：** 下週四（9/24）Trump-Xi 峰會，HIGH importance。伊朗戰爭「接近尾聲」係今週最大嘅 de-escalation 催化劑。\n\n**明日（9/18）：** 工業生產（MED）+ Fed Bowman 演講（MED）。\n\n---\n\n## 🔥 Sector Watch\n\n**有 momentum：**\n- **工業（+2.38%）** — 國防/基建預期仍在，但留意 LMT/RTX 見頂風險（伊朗降級）\n- **醫療（+0.16%）** — 防禦性資金避風港，Fed 加息下相對強\n\n**有風險：**\n- **能源（-2.78%）** — 油價回落 + 伊朗降級，雙重打壓\n- **金融（-1.77%）** — 加息日跌，但利率走高理論上利好 net interest margin，跌得莫名其妙，可視為超跌\n- **通訊（-1.11%）** — 利率敏感\n\n**Rotation signal：** 由「利率敏感價值股」→「成長 + 防禦」嘅 quality rotation。若 10Y 企穩 5% 唔再升，呢個 rotation 會持續；若 10Y 衝 5.25%+，全線 risk-off。\n\n---\n\n## 🎯 Pre-market Opportunities\n\n**ACTION（高信心）：**\n- **CRM $250.54（-2.0%）** — FY2030 目標 $63B + $25B 回購 + Guggenheim $300 PT。今日 -2% 係 Fed 陰影下嘅回調，係相對乾淨嘅 catalyst。部署：等企穩 $245-250 區間，$300 PT 有 20% 空間，但要注意 $250 係 50 日均線附近嘅支撐。\n- **GNRC $175.11（+0.05% 盤前）** — Amazon 入股係結構性催化，但 +40% 後追入風險高。部署：唔追高，等回調至 +40% 漲幅嘅 50% retracement（約 $150）先考慮。\n\n**WATCH（有 catalyst 但未確認）：**\n- **DEFENSE（LMT $537 +0.71%、RTX $196.83 +0.68%）** — 伊朗降級 = 見頂風險。今日國防股逆勢微升，係最後嘅派發定係誤判降級？睇實油價，若跌破 $95，國防股會加速回落。\n- **ORCL $143.24（+2.06%）** — 247WallSt 稱 12 個月近三倍，但 ORCL 2026 已大跌，係「deep value」定「value trap」？等業績。\n- **NVDA $213.90（+0.82%）** — Fed 後企穩，10Y 5% 係 AI 估值的最大敵人。若 10Y 回落，NVDA 有 breakout 條件；若 10Y 續升，純 relief bounce。\n- **MU $926.55（-0.11%）** — 9/30 業績（🎯），memory supercycle 邏輯，但 mcap 已 $1T+，估值透支，業績前觀望。\n\n---\n\n## 📅 未來一個月業績重點\n\n- **9/23（三）CTAS $80B** — B2B 服務，經濟強嘅 proxy，指引反映企業信心\n- **9/24（四）COST $400B** — 消費股風向標，同 Trump-Xi 峰會撞期\n- **9/30（三）MU $1T 🎯** — memory 週期，業績指引決定半導體全板塊方向\n- **10/1（四）ACN $129B 🎯** — AI 服務需求嘅直接讀數\n- **10/1（四）NKE $54B 🎯** — 消費疲弱定復甦嘅關鍵驗證\n\n**影響：** MU 係下個最重要 catalyst — memory 指引會連鎖影響 NVDA/AMD/半導體設備全線。COST 反映中產消費力，係 Fed 加息後第一個大型消費業績。\n\n---\n\n## 📋 Today's Agenda\n\n- **8:30pm HKT** — 初領失業金 + 費城聯儲製造業 + 建屋許可 + 新屋動工（集中開市前）\n- **10:00pm HKT** — 成屋待售銷售\n- **今晚焦點** — 10Y 孳息會唔會突破 5.0% 向上（Goldman 加息預期發酵）；油價會唔會跌穿 $95（伊朗降級確認）\n- **Key levels：** SPY 支撐 $749.60（昨日低點）、$744；阻力 $761.65（昨日高點）、$770。QQQ 支撐 $700、阻力 $711.85。\n\n---\n\n## 💡 My Take\n\n**Overall bias：Neutral-to-cautiously-bullish。**\n\nFed 加息係 headwind，但市場用 VIX 17 嘅平靜消化咗。真正嘅 story 係「hawkish Fed vs de-escalation」嘅拉鋸，而我 lean 向 de-escalation 贏：\n\n1. **油價回落係最強嘅通脹降溫劑。** Fed 自己都講「geopolitical developments」係不確定性來源。如果伊朗戰爭真結束，能源成本下降直接對沖加息嘅緊縮效果，SEP 嘅 3.7% PCE 預測可能都要下修。\n2. **市場結構健康。** 加息日道指跌、科技平收 = quality rotation，唔係 panic。VIX 17 冇恐慌溢價。\n3. **SEP 暗示只再有一次加息**（中位數 4.1% vs 現時 3.875%），唔係連續加息循環。\n\n**今日最緊要睇實：**\n- **10Y 會唔會突破 5.0% 並加速向上？** 呢個係唯一能破壞 de-escalation thesis 嘅變數。若 10Y 衝 5.25%，全線 risk-off，放棄 bullish 判斷。\n- **油價會唔會跌穿 $95？** 係 de-escalation 嘅確認信號。\n\n**改變 thesis 嘅 overnight signal：** 費城聯儲製造業若暴跌至 fcast 30.5（vs prev 47.4），反映製造業急降溫，會增加「Fed 加息加錯」嘅衰退擔憂，反而利好減息預期、利淡能源/工業。\n",
+      "risks": [
+        "10Y 突破 5.0% 加速向上（Goldman 預測 10 月加息）→ 全線 risk-off",
+        "費城聯儲製造業暴跌至 30.5 → 製造業急降溫、衰退擔憂",
+        "中國減持美債 → 孳息結構性上行壓力",
+        "Trump 對墨歐貿易威脅 → 貿易戰升級"
+      ],
+      "my_take": "Neutral-to-cautiously-bullish。Fed 加息係 headwind，但油價回落（伊朗降級）提供通脹緩解，兩者對沖。SEP 暗示只再有一次加息，唔係連續循環。市場以 quality rotation（道指跌、科技平收、VIX 17）平靜消化。今日盯實兩條線：10Y 若突破 5.0% 加速向上 = 放棄 bullish；油價若跌穿 $95 = de-escalation 確認。最緊要 catalyst 係下週 MU 業績同 9/24 Trump-Xi 峰會。"
     }
   ],
   "news_curator": [
