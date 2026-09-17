@@ -3181,6 +3181,67 @@
         "BTC 跌破 $78K 趨勢下行，風險資產情緒傳導"
       ],
       "my_take": "FOMC 決策日，市場 risk-off 等結果。加息 25bp 已 priced in，真正變數係 Warsh 措辭 + dot plot。唯一乾淨方向係 energy——油價 $109 年內新高（麥加紅線）催化劑持續升級，能源股有 catch-up 空間。Bias：Neutral-to-cautious，Energy bullish。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-17",
+      "time": "08:08 HKT",
+      "status": "success",
+      "market_direction": "Fed 2023年來首次加息，SPY 僅 -0.44% 但 10yr 債息升返 5%、美元急升；油價由高位回落（USO -3.5%），國防逆勢走強",
+      "headlines": [
+        "[RECENT] ⚠️ MACRO: Fed 首次加息 + Trump 要求 1%",
+        "[RECENT] 🎯 OIL: 沙特恢復管道油價回落（多頭反轉）",
+        "[RECENT] ⚠️ DEFENSE: F-35 售沙特 + 中國竊密警告",
+        "[NEW] ⚠️ CLIMATE: Holtec 撤回核能 IPO",
+        "[RECENT] ⚠️ TECH: Micron 財報考驗"
+      ],
+      "opportunities": [
+        "OIL: 沙特恢復管道 + Fed 加息(強美元) 令油價回落，能源股 EOG/COP/OXY 已跌 5-6%，多頭 thesis 正在 unwinding",
+        "DEFENSE: LMT +0.7%，伊朗戰爭 + 沙特軍售結構性利好，但 F-35 中國竊密爭議延遲交付風險",
+        "MACRO: 加息進入強經濟環境(零售強勁+收入創新高)，銀行 NIM 利好 vs growth 估值壓縮"
+      ],
+      "analysis": "Fed 加息本身已被預期(SPY 僅 -0.44%)，真正 reprice 喺債息(5%)同美元。Trump 1% 要求引爆 Fed 獨立性大戰係下一波 tail risk。油價 spike 正在 unwinding，但實體供應仍緊(tanker $1M/day)。",
+      "risks": [
+        "Fed 獨立性大戰(Trump vs Warsh)",
+        "油價回落但實體供應仍緊，方向未明",
+        "AI 數據中心能源/安全成本政治化",
+        "核能/AI 電力估值開始遭審視"
+      ],
+      "my_take": "今日核心唔係 Fed 加息(已 priced in)，而係三個 secondary effects：① Trump 1% 要求引爆 Fed 獨立性大戰 = 真正 tail risk；② 油價 spike unwinding，唔好追跌；③ 加息進入強經濟環境 = 非衰退性加息，銀行利好 growth 逆風。市場 miss 咗：債息 5% + 美元急升先係真正 reprice，會透過高實際利率慢慢滲透去 growth 估值。",
+      "key_takeaways": [
+        "Fed 加息已 priced in，equities 反應溫和",
+        "債息 5% + 美元急升 = 真正 reprice 信號",
+        "油價多頭 thesis 反轉，能源股已跌 5-6%",
+        "國防股逆勢走強，伊朗戰爭持續 bid"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-17",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Fed加息25bp+dot plot hawkish，股市溫和但債市/匯市reprice",
+      "headlines": [
+        "Fed 2023年來首次加息至4%，dot plot全面上移(hawkish)",
+        "Trump 要求1%或以下，Fed獨立性大戰開打",
+        "沙特恢復管道，油價由$109急回(USO -3.5%)",
+        "10yr債息重返5% + 美元急升",
+        "F-35售沙特+中國竊密警告，LMT逆勢+0.7%"
+      ],
+      "opportunities": [
+        "DEFENSE (LMT/RTX/NOC): F-35售沙特+中國竊密警告，唯一clean催化劑theme",
+        "銀行/短期債: dot plot higher-for-longer+期限利差正斜率，市場未消化",
+        "MU (9/30財報): 企穩$926，AI/HBM demand驗證點",
+        "強美元trade: 美元急升係市場miss咗嘅reprice"
+      ],
+      "analysis": "📊 Evening Review — 9月17日（美股收市檢討）\n\n## Fed Context — macro backdrop\n\n昨晚 FOMC 塵埃落定，Warsh 任內首個重大政策動作：\n\n- **加息 25bp** → 聯邦基金利率區間 3.75–4.00%，2023 年以來首次加息\n- **Dot plot 全面上移（hawkish）**：2026 中位數 3.8% → 4.1%、2027 3.6% → 4.1%、2028 3.4% → 3.9%。即係 median 成員仲預期多一次加息，而且 2027 都守喺 4% 附近 — \"higher for longer\" 唔單止確認，仲加碼咗（對比 6 月 projection）\n- **Statement 結尾一句 \"The Committee will deliver price stability\"** — 異常鷹派收尾，明示通脹未馴服前唔會手軟\n- 經濟描述：activity expanding at solid pace、spending resilient、inflation remains elevated\n\n但真正嘅 story 唔係 Fed 做咗咩，而係 **Trump 當場反擊**：公開要求利率「1% 或以下」，同 Fed 4% 正面衝突。Fed 獨立性大戰正式開打 — 呢個先係下一波 tail risk，比加息本身重要。\n\n## 📰 今日重點頭條（raw news landscape）\n\n1. Fed 2023 年來首次加息至 4%，dot plot 上移 — MACRO（NC 有 cover）\n2. Trump 要求 1% 或以下、但仍信任 Warsh — Fed 獨立性大戰（NC 有 cover）\n3. 沙特恢復管道，油價由 $109 高位急回 — USO/XOM/CVX（NC 有 cover，但係反轉）\n4. 10yr 債息重返 5% + 美元急升 — MACRO（NC 有 cover）\n5. F-35 售沙特 + 中國竊密警告 — LMT（NC 有 cover）\n6. Holtec 撤回核能 IPO — AI 板塊「完美風暴」（NC 有 cover）\n7. MU 企穩 $926，Micron 財報考驗 9/30（NC 有 cover）\n8. 金價測試通道支撐，Fed 加息壓過伊朗避險 — GLD（NC 有 cover）\n9. BoE 維持利率但能源衝擊掀起加息討論 — raw news（NC 冇重點 cover）\n10. 眾議院通過數據中心能源成本保護法案 — raw news（NC 冇 cover）\n\n## 📊 Market Recap\n\n- **SPY 754.05 (-0.44%)**、**QQQ 704.72 (+0.03%)** 持平、**DIA 515.22 (-1.15%)**\n- S&P 500 7551.81 (-0.45%)、Nasdaq 25978 (+0.0%)、Dow 51462 (-1.21%)\n- **VIX 17.71 (+2.97%)** — 輕微避險升溫，但仍處低位，市場冇恐慌\n- 板塊分化劇烈：**XLE 能源 -2.88%**（唯一重災區）、**XLF 金融 -1.62%**、XLY -0.63%；**XLK 科技 +0.10%**、XLV +0.07% 抗跌\n- 加息落咗地，股市反應溫和（25bp 已 priced in），真正 reprice 喺債市（10yr → 5%）同匯市（美元急升）\n\n## 🔥 Notable Movers\n\n- **XOM -3.54%、CVX -2.86%、USO -3.52%** — 油價崩，能源板塊全軍覆沒。沙特恢復管道係單一催化劑，直接 KO 咗「麥加紅線」地緣 escalation thesis\n- **LMT +0.71%** — 國防逆勢走強，F-35 售沙特 + 中國竊密警告雙催化劑\n- **MU -0.11%（$926）** — 記憶體巨頭企穩，9/30 財報前冇大波動，AI/HBM demand 係關鍵\n- **GLD -0.61%、SLV -0.83%** — 金價由 $394 回落到 $392，Fed 加息 + 強美元壓過咗伊朗避險需求\n- **XLF -1.62%** — 銀行股逆加息走弱，反映市場擔心「higher for longer」對信貸需求嘅壓制\n\n## 📰 News That Mattered — post-mortem\n\n**Morning Scan thesis 檢討：**\n\n1. **「Energy bullish」→ ❌ 錯咗。** 昨晚最大嘅 call 係能源股 catch-up（油價 $109 年內新高、麥加紅線 catalyst 升級），結果沙特恢復管道一個催化劑就反轉晒 — USO -3.5%、XOM -3.5%。教訓：**單一地緣 escalation thesis 喺有具體供應恢復路徑時係脆弱嘅**，escalation 同 de-escalation 都係同一枚硬幣兩面。\n\n2. **「加息 25bp 已 priced in，Warsh 措辭 + dot plot 係關鍵」→ ✅ 方向啱。** 股市確實溫和（SPY -0.44%），但真正 surprise 唔係 Warsh 措辭，而係 **dot plot 上移**（2026 中位數 3.8→4.1，即係仲預期加多次）+ **Trump 1% 反擊**。Morning Scan 有 flag「Warsh 偏 hawkish」做 risk，但冇預料到 Trump-Fed 大戰呢個維度。\n\n3. **「金價 $4,300 守穩」→ ⚠️ 部分啱。** GLD -0.6% 回落，加息 + 強美元壓過避險需求，但未跌穿通道支撐。貴金屬嘅避險邏輯被加息邏輯蓋過。\n\n**今日最大嘅 miss（raw news 先見到）：**\n- BoE 能源衝擊掀起加息討論 — 全球加息周期可能未到頂，呢個係 cross-border macro signal\n- 數據中心能源成本法案 — 對 AI 基建有潛在成本壓力，同 Holtec 撤回 IPO 一齊指向 AI 板塊嘅能源供給風險\n\n## 🎯 Opportunities Carry Forward\n\n- **DEFENSE (LMT/RTX/NOC)** — 今日唯一「催化劑 + 市場確認」同向嘅 clean theme。F-35 售沙特 + 中國竊密警告係實質 geopolitics，同油價唔同（唔係供應恢復可以 reverse）。國防股逆勢走強，值得明天繼續跟進。\n- **「higher for longer」受益者 — 銀行/短期債** — dot plot 上移 + 10yr 5%，期限利差正斜率，銀行 NIM 有支撐，但今日 XLF 反而跌 — 市場未消化，係 potential 錯配機會。\n- **MU (9/30 財報)** — 企穩 $926，AI/HBM demand 驗證點逼近，係下一個可 carry forward 嘅 single-name catalyst。\n- **強美元 trade** — 美元急升係今日市場 miss 咗嘅 reprice，跨國企業盈利 + 新興市場有下行壓力，係 macro 層面 carry forward 主題。\n\n## ⚠️ Risks / Watchlist\n\n**今晚（9/17 08:30PM HKT 起）要睇實嘅 macro events（macro_calendar.json）：**\n- 🔴 08:30PM HKT — **Housing Starts (Aug)** + Building Permits Prel (Aug)\n- 🟡 08:30PM — Initial Jobless Claims、Philadelphia Fed Manufacturing Index\n- 🟡 10:00PM — Pending Home Sales MoM/YoY\n\n**Overnight risks：**\n- **Fed 獨立性大戰** — Trump 1% vs Fed 4%，若 Trump 升級施壓（換人、公開炮轟），會打擊美元信用 + 債市，係最大 tail risk\n- **油價技術性反彈** — 沙特恢復管道後油價 -3.5%，但實體供應仍緊（NC 觀點），追跌有 squeeze 風險\n- **10yr 5% + 強美元** — 對 long-duration 資產（科技、REITs、small caps）係持續 reprice 壓力\n\n## 💡 My Take\n\n今日唔係 Fed 加息（已 priced in），而係 **三個 secondary effects**：① Trump 1% 要求引爆 Fed 獨立性大戰 = 真正 tail risk；② dot plot「higher for longer」上移，利率 2027 都守 4%，market 未完全消化；③ 油價 spike unwinding，唔好追跌但 momentum trade 已死。市場真正 miss 咗嘅係債息 5% + 美元急升 — 呢個先係資產配置層面嘅 reprice。明日 bias：Neutral-to-cautious，clean direction 由 energy 轉向 defense，重點睇 Fed 獨立性大戰點演變。\n",
+      "risks": [
+        "Fed獨立性大戰(Trump 1% vs Fed 4%)係最大tail risk",
+        "油價技術性反彈風險(實體供應仍緊)",
+        "10yr 5%+強美元對long-duration資產持續reprice壓力",
+        "今晚Housing Starts+Building Permits(08:30PM HKT)"
+      ],
+      "my_take": "Fed 加息已 priced in，真正故事係 Trump 1% 引爆 Fed 獨立性大戰 + dot plot「higher for longer」上移。能源 thesis 被沙特恢復管道反轉，clean direction 轉向 defense。市場 miss 咗債息 5% + 美元急升嘅 reprice。Bias：Neutral-to-cautious。"
     }
   ],
   "news_curator": [
