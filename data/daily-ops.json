@@ -3268,6 +3268,62 @@
         "Trump 對墨歐貿易威脅 → 貿易戰升級"
       ],
       "my_take": "Neutral-to-cautiously-bullish。Fed 加息係 headwind，但油價回落（伊朗降級）提供通脹緩解，兩者對沖。SEP 暗示只再有一次加息，唔係連續循環。市場以 quality rotation（道指跌、科技平收、VIX 17）平靜消化。今日盯實兩條線：10Y 若突破 5.0% 加速向上 = 放棄 bullish；油價若跌穿 $95 = de-escalation 確認。最緊要 catalyst 係下週 MU 業績同 9/24 Trump-Xi 峰會。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-18",
+      "time": "08:07 HKT",
+      "status": "success",
+      "market_direction": "週四 post-Fed 反彈：科技股領漲，油價回落，孳息回落。週五期貨微幅波動。",
+      "headlines": [
+        "[NEW] 🎯 NVDA — Jensen Huang 稱明年晶片銷量翻倍",
+        "[NEW] ⚠️ TECH — 晶片股延續反彈（MU/INTC 領漲）",
+        "[NEW] ⚠️ OIL — 柴油創新高但原油回落",
+        "[NEW] ⚠️ MACRO — 10年期美債百年最差走勢",
+        "[RECENT] ⚠️ DEFENSE — 美伊緩和 vs Houthi 升級"
+      ],
+      "opportunities": [
+        "NVDA: CEO 前瞻銷量指引（明年翻倍）+ 半導體復甦 + AI 基建 capex",
+        "OIL: 裂解價差拉闊，refiners 受惠但原油回落",
+        "MACRO: 孳息見頂跡象 vs 財政危機 tail risk"
+      ],
+      "analysis": "Fed 加息後首個完整交易日，市場焦點轉向半導體復甦（NVDA/MU/INTC）。油價回落反映美伊緩和 base case，但柴油/精煉產品緊張。10年期美債百年最差走勢揭示債市長期熊市未完。",
+      "risks": [
+        "美債財政危機（Gundlach）",
+        "Houthi 推進 Marib 升級風險",
+        "柴油價格衝擊美國經濟"
+      ],
+      "my_take": "市場焦點由 Fed 加息轉向晶片復甦 + 油價回落。NVDA CEO 前瞻指引係最強催化，配合 AI 基建 capex 持續。最大 tail risk 係美債財政危機與地緣雙向風險。",
+      "key_takeaways": [
+        "NVDA CEO 稱明年晶片銷量翻倍 — 最強 bullish 催化",
+        "柴油創新高但原油回落 — 裂解價差拉闊，refiners 受惠",
+        "10年期美債百年最差走勢 — 債市長期熊市未結束"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-18",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Fed 加息後 risk-on 反彈，半導體領漲",
+      "headlines": [
+        "FOMC 加息 25bp 後市場消化，週四 risk-on 反彈（VIX -12.8%）",
+        "NVDA CEO 稱明年晶片銷量翻倍，帶動半導體全線噴出（INTC +7.7%、AMD +6.4%）",
+        "柴油創新高但原油回落，裂解價差拉闊（refiners 受惠）",
+        "Gundlach 警告 10 年美債百年最差走勢 + 財政危機",
+        "Crusoe 融資 $3.9B 建 AI data center（AI capex 未見頂）"
+      ],
+      "opportunities": [
+        "半導體: MU/INTC/AMD/AVGO 復甦 momentum，但真正考驗係 MU 9/30 earnings",
+        "refiners: 裂解價差拉闊（柴油創新高 vs 原油回落）"
+      ],
+      "analysis": "# 美股收市回顧 — 2026-09-18（週四收市）\n\n## 1. Market Recap\nFed 加息後首個完整交易日，risk-on 明確反彈：\n- S&P 500 **+1.14%** (7637.76)、Nasdaq **+1.69%** (26418.30)、Dow **+0.61%** (51778.04)\n- VIX **-12.8%** 收 15.44 — 恐慌資金撤離，反彈有質素\n- 結構：科技領漲（XLK +2.25%、SMH +2.76%），金融持平（XLF -0.09%），防禦股偏弱\n\n## 2. Notable Movers\n半導體全線噴出，係今日唯一主線：\n- **INTC +7.67%**、**AMD +6.36%**、**MU +5.50%**、**MRVL +4.81%**、NVDA +2.54%、AVGO +2.29%\n- 催化：Jensen Huang 稱明年晶片銷量翻倍 + AI 基建 capex 續升（Crusoe 融資 $3.9B）\n- 能源分裂：USO -0.55%（原油回落）vs XLE +0.70%（refiners 受惠裂解價差拉闊）\n- 防禦股受壓：RTX -1.67%、NOC -1.28%、GD -1.12%（美伊緩和壓制 TACO trade）\n\n## 3. News That Mattered\n1. **FOMC（Sep 15-16）加息 25bp + SEP + press conference** — 鷹派，但市場用一日就消化\n2. **NVDA CEO 前瞻指引（銷量翻倍）** — 今日最強催化，帶動整個 semis 板塊\n3. 沙特管道中斷 → 柴油創新高，但原油回落（裂解價差拉闊）\n4. Gundlach 警告 10 年美債「百年最差走勢」+ 財政危機\n5. Crusoe 融資 $3.9B 建 AI data center — AI capex 未見頂\n\n## News Curator 檢討（今朝 calls）\n- ACTION NVDA ✅ 命中（+2.54%，帶動整個 semis）\n- WATCH TECH（MU/INTC/AMD/AVGO）✅ 命中（全線 2-7%）\n- WATCH OIL ✅ 命中（柴油高企、原油回落）\n- WATCH DEFENSE ⏳ 進行中（美伊緩和壓制防禦股）\n- WATCH MACRO ⏳ ongoing tail risk（財政危機未爆）\n\n## 4. Opportunities Carry Forward\n- **半導體復甦 momentum**：短線強勢，但真正考驗係 **MU 9/30 earnings** — 屆時先 confirm 係咪真復甦\n- **refiners（裂解價差）**：柴油創新高 vs 原油回落，煉油商 margin 擴張\n- 警惕：半導體單日 5-7% 拉升後已短線超買，追高風險上升\n\n## 5. Risks / Watchlist\n- 今晚 9:15pm HKT **Industrial Production (Aug)**、9:30pm **Fed Bowman speech**（MEDIUM）\n- **財政危機 tail risk**（Gundlach）— 睇住 10yr 孳息走勢\n- 地緣雙向：美伊緩和 vs Houthi 升級\n- 下週催化：CTAS (9/23)、COST (9/24)、**MU (9/30 after-hours)**\n\n## 6. My Take\nFed 加息後市場用一日就消化，焦點明確轉向 AI/半導體復甦。NVDA 銷量翻倍指引係最強催化，帶動整個 semis。明天 bias：**中性偏多**，但半導體短線超買，追高要小心；真正 confirmation 要等 MU earnings（9/30）先知道呢波係咪真復甦定係 dead cat bounce。",
+      "risks": [
+        "半導體短線超買（單日 5-7% 拉升）",
+        "財政危機 tail risk（Gundlach）— 睇住 10yr",
+        "地緣雙向：美伊緩和 vs Houthi 升級"
+      ],
+      "my_take": "Fed 加息消化後，市場焦點轉向 AI/半導體復甦。NVDA 銷量翻倍指引帶動整個 semis 噴出。明天中性偏多，但半導體短線超買，等 MU earnings（9/30）確認真復甦。"
     }
   ],
   "news_curator": [
