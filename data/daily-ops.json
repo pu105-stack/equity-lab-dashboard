@@ -3352,6 +3352,39 @@
         "Trump-Xi Summit（下週四）+ 南海升溫 — geopolitics 不確定性"
       ],
       "my_take": "Cautiously Bullish（短期）。市場有質素咁消化咗 hawkish hike（VIX -12.8%），但 dot plot 仍暗示多一次加息係 tail risk。今日盯三樣：INTC-SK Hynix 傳聞會否坐實（semi game-changer）、Fed Bowman 會否 reinforce 二次加息、油價/柴油 divergence（沙特斷歐洲供給係未爆 catalyst）。OIL crack spread 係最 under-appreciated 嘅下週 trade。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-09-19",
+      "time": "06:02 HKT",
+      "status": "success",
+      "market_direction": "Fed hawkish 加息落地但市場用一日消化，油價回落 + 半導體復甦反彈帶動 risk-on；但 dot plot 暗示再有一次加息 + 財政危機 tail risk 未除。",
+      "opportunities": [
+        "🎯 AAPL: Evercore ISI 看漲新 iPhone 定價上調——新機更貴，直接推升 ASP 同毛利。盤前動能正向，屬 portfolio holding。iPhon...",
+        "🎯 CRM: Salesforce 上調 FY2030 營收目標至 $63B + $25B 回購，配合 Guggenheim $300 目標價。AI 軟體動能（Agentfo...",
+        "🎯 INTC: 傳與 SK Hynix 洽談代工合作，股價 +7.67% 至 $108.80，分析師看兩年內 $200。代工合作若成真，係 INTC 由「掉隊者」轉「AI 代工..."
+      ],
+      "watches": [
+        "📡 NVDA: Bull：Jensen Huang 稱明年晶片銷量翻倍 + Crusoe $3.9B AI 基建融資，AI capex 未見頂。Bear：AI slowdown...",
+        "📡 MU: 9/30 earnings 係成個半導體復甦 narrative 嘅終極試金石。股價企穩 $926/$927，今週全板塊 5-7% 拉升（INTC/AMD/MU...",
+        "📡 GNRC: Amazon 獲權入股，股價單日飆逾 40%。電力/能源係 AI 基建嘅下一個樽頸，Generac 喺 backup power / 微電網有結構性地位。Bea...",
+        "📡 BRK.B: Warren Buffett 辭任 Berkshire 主席，長子 Howard 接任（Greg Abel 早係 CEO）。象徵意義大於操作影響，但資本配置哲學...",
+        "📡 VLO: 裂解價差拉闊嘅兩面：Bull——柴油創新高、沙特斷歐洲煉油廠下月供應，refiners 毛利結構性擴張。Bear——原油回落跌穿 $100 + 特朗普官宣伊朗戰..."
+      ],
+      "risks": [
+        "⚠️ LMT: 特朗普官宣伊朗戰爭「有望接近尾聲」，直接打擊國防股嘅 TACO trade 溢價。LMT/RTX 喺美伊緩和 + 補庫存 catalyst 消退下見頂風險上升。...",
+        "⚠️ ORCL: 五連跌，$40B 融資喺加息週期下成本暴增，Meta vs Oracle 被點名 AI capex 回收速度最慢。AI 基建 capex 燒錢 vs 回收 ti...",
+        "⚠️ BTC-USD: CLARITY Act 否決 = 加密監管催化劑消失，BTC ETF 單日流出 $450M，失守 $78K。Fed 加息推高實際利率，零息資產喺 real yi..."
+      ],
+      "analysis": "本週主線：Fed 2023 年來首次加息（25bp 至 3.75-4.00%）+ hawkish dot plot（暗示再有一次加息）係最大 macro 事件，但市場用一日就消化，risk-on 反彈（SPY +1.14%、QQQ +1.69%）。同時伊朗戰爭 de-escalation（特朗普官宣有望接近尾聲）令油價由 $109 高位回落，半導體復甦 momentum 成為最強個股催化（Jensen Huang 銷量翻倍 + INTC SK Hynix 代工）。最大 tail risk 係：① Fed 獨立性大戰（Trump 要求 1%）② Gundlach 財政危機（10yr 債息 5%）③ 美股基金連續 4 週流出。",
+      "my_take": "今週係「加息落地 + 供應鏈反轉」嘅轉折週。我嘅 read：半導體復甦係最值得追嘅主線，但真正嘅確認要等 MU 9/30 earnings——業績前唔好重倉追高，短線已超買。能源 theme 由「原油 bull」轉向「refiner 裂解價差」，方向高度依賴地緣，屬兩面。國防股同加密係最明確嘅風險：一個靠戰爭 premium，一個靠監管 catalyst，兩個支撐都啱啱消失。整體 risk-on 反彈有質素（VIX -12.8%），但 dot plot 暗示仲有一次加息，追高要留一手。",
+      "focus": [
+        "Semi Recovery: NVDA, MU, INTC",
+        "Energy Crack Spread: VLO",
+        "iPhone ASP: AAPL",
+        "AI Power: GNRC",
+        "Risk Off: LMT, ORCL, BTC-USD"
+      ]
     }
   ],
   "news_curator": [

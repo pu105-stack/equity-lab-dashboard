@@ -1,4 +1,82 @@
 {
-  "decisions": [],
-  "last_synced": "2026-09-05T12:16:40.587425+08:00"
+  "decisions": [
+    {
+      "ticker": "INTC",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "傳與 SK Hynix 洽談代工合作，股價 +7.67% 至 $108.80，分析師看兩年內 $200。代工合作若成真，係 INTC 由「掉隊者」轉「AI 代工選項」嘅結構性 catalyst。配合 Jensen Huang 銷量翻倍帶動半導體全線復甦，INTC 係最被低估嘅落後補漲標的。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "9/30 earnings 係成個半導體復甦 narrative 嘅終極試金石。股價企穩 $926/$927，今週全板塊 5-7% 拉升（INTC/AMD/MU/MRVL）後，真正考驗係 Micron 會唔會 confirm 記憶體復甦。Bull：AI 記憶體需求結構性上升。Bear：若指引失望，全板塊回吐。二元 event，業績前唔好 pre-position。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "CRM",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "Salesforce 上調 FY2030 營收目標至 $63B + $25B 回購，配合 Guggenheim $300 目標價。AI 軟體動能（Agentforce）開始兌現喺長期指引，唔再係講故事。回購 + 上調指引 = 管理層用真金白銀 + 數字背書，clean bullish。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "GNRC",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "Amazon 獲權入股，股價單日飆逾 40%。電力/能源係 AI 基建嘅下一個樽頸，Generac 喺 backup power / 微電網有結構性地位。Bear：單日 +40% 升幅過急，追高風險大，Amazon 入股細節（股份比例、條款）未明。等回調確認後再睇。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "BRK.B",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "Warren Buffett 辭任 Berkshire 主席，長子 Howard 接任（Greg Abel 早係 CEO）。象徵意義大於操作影響，但資本配置哲學會否轉變係未來最大變數——Buffett 式嘅耐心/價值/現金儲備係 BRK 溢價核心。唔係即刻 trade，但係長線觀察嘅結構性轉捩點。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "VLO",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "裂解價差拉闊嘅兩面：Bull——柴油創新高、沙特斷歐洲煉油廠下月供應，refiners 毛利結構性擴張。Bear——原油回落跌穿 $100 + 特朗普官宣伊朗戰爭「有望接近尾聲」，能源成本下行壓制成品油價格。煉油 margin 係今週唯一「供應短缺」未充分反映嘅 theme，但方向高度依賴地緣走勢。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "特朗普官宣伊朗戰爭「有望接近尾聲」，直接打擊國防股嘅 TACO trade 溢價。LMT/RTX 喺美伊緩和 + 補庫存 catalyst 消退下見頂風險上升。defense 過去一週靠戰爭升級邏輯支撐，一旦戰爭 narrative 反轉，premium 快速蒸發。唔好接刀。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "ORCL",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "五連跌，$40B 融資喺加息週期下成本暴增，Meta vs Oracle 被點名 AI capex 回收速度最慢。AI 基建 capex 燒錢 vs 回收 timeline 不明，喺債息 5% 環境下，高負債 + 低回收係雙殺。Ellison 取消 $7.5B 出售嘅內部人信心信號，未能扭轉資金流出。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "BTC-USD",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "CLARITY Act 否決 = 加密監管催化劑消失，BTC ETF 單日流出 $450M，失守 $78K。Fed 加息推高實際利率，零息資產喺 real yield 上升環境下最不利。MSTR/COIN 跟跌確認資金撤離。監管空窗 + 加息雙重壓制，短期冇 catalyst 撐場，下行風險大於上行。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "Bull：Jensen Huang 稱明年晶片銷量翻倍 + Crusoe $3.9B AI 基建融資，AI capex 未見頂。Bear：AI slowdown 恐慌未散 + Fed hawkish dot plot 壓高估值 + 單日拉升後短線超買。真正嘅考驗係 MU 9/30 earnings 確認 demand。lean bullish，但短線唔追高，等回調或業績 confirm。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "AAPL",
+      "status": "deep_dive",
+      "updated_at": "2026-09-18",
+      "reasoning": "Evercore ISI 看漲新 iPhone 定價上調——新機更貴，直接推升 ASP 同毛利。盤前動能正向，屬 portfolio holding。iPhone 係全世界最確定嘅現金流機器，定價權 story 喺消費放緩環境下特別珍貴。冇重大 unresolved risk，clean bullish。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-09-19T06:02:36.185165+08:00"
 }
