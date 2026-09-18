@@ -3270,37 +3270,6 @@
       "my_take": "Neutral-to-cautiously-bullish。Fed 加息係 headwind，但油價回落（伊朗降級）提供通脹緩解，兩者對沖。SEP 暗示只再有一次加息，唔係連續循環。市場以 quality rotation（道指跌、科技平收、VIX 17）平靜消化。今日盯實兩條線：10Y 若突破 5.0% 加速向上 = 放棄 bullish；油價若跌穿 $95 = de-escalation 確認。最緊要 catalyst 係下週 MU 業績同 9/24 Trump-Xi 峰會。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-18",
-      "time": "08:07 HKT",
-      "status": "success",
-      "market_direction": "週四 post-Fed 反彈：科技股領漲，油價回落，孳息回落。週五期貨微幅波動。",
-      "headlines": [
-        "[NEW] 🎯 NVDA — Jensen Huang 稱明年晶片銷量翻倍",
-        "[NEW] ⚠️ TECH — 晶片股延續反彈（MU/INTC 領漲）",
-        "[NEW] ⚠️ OIL — 柴油創新高但原油回落",
-        "[NEW] ⚠️ MACRO — 10年期美債百年最差走勢",
-        "[RECENT] ⚠️ DEFENSE — 美伊緩和 vs Houthi 升級"
-      ],
-      "opportunities": [
-        "NVDA: CEO 前瞻銷量指引（明年翻倍）+ 半導體復甦 + AI 基建 capex",
-        "OIL: 裂解價差拉闊，refiners 受惠但原油回落",
-        "MACRO: 孳息見頂跡象 vs 財政危機 tail risk"
-      ],
-      "analysis": "Fed 加息後首個完整交易日，市場焦點轉向半導體復甦（NVDA/MU/INTC）。油價回落反映美伊緩和 base case，但柴油/精煉產品緊張。10年期美債百年最差走勢揭示債市長期熊市未完。",
-      "risks": [
-        "美債財政危機（Gundlach）",
-        "Houthi 推進 Marib 升級風險",
-        "柴油價格衝擊美國經濟"
-      ],
-      "my_take": "市場焦點由 Fed 加息轉向晶片復甦 + 油價回落。NVDA CEO 前瞻指引係最強催化，配合 AI 基建 capex 持續。最大 tail risk 係美債財政危機與地緣雙向風險。",
-      "key_takeaways": [
-        "NVDA CEO 稱明年晶片銷量翻倍 — 最強 bullish 催化",
-        "柴油創新高但原油回落 — 裂解價差拉闊，refiners 受惠",
-        "10年期美債百年最差走勢 — 債市長期熊市未結束"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-18",
       "time": "08:33 HKT",
@@ -3324,6 +3293,65 @@
         "地緣雙向：美伊緩和 vs Houthi 升級"
       ],
       "my_take": "Fed 加息消化後，市場焦點轉向 AI/半導體復甦。NVDA 銷量翻倍指引帶動整個 semis 噴出。明天中性偏多，但半導體短線超買，等 MU earnings（9/30）確認真復甦。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-18",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 反彈，油價續跌第3日，金價創週高",
+      "headlines": [
+        "[NEW] WATCH: BRK.B — Warren Buffett 辭任 Berkshire 主席，長子 Howard 接任",
+        "[NEW] WATCH: MACRO — 日本央行加息至31年高位，日圓反跌；全球加息週期成形",
+        "[NEW] WATCH: OIL — 沙特斷歐洲原油供應，柴油創新高但原油續跌",
+        "[NEW] WATCH: NSRGY — 俄羅斯接管雀巢俄國業務",
+        "[NEW] ACTION: AAPL — Evercore 看漲新 iPhone 定價上調"
+      ],
+      "opportunities": [
+        "AAPL: Evercore 看漲新 iPhone（更高定價），盤前動能正向 — portfolio holding，留意新機銷量",
+        "BRK.B: Buffett 辭任主席 — 象徵意義大於操作影響，重點睇資本配置方向",
+        "OIL: 沙特斷歐洲供應係未反映 catalyst，但原油/柴油走勢背離要小心"
+      ],
+      "analysis": "今日亞洲/歐洲 session 三大主題：① Buffett 辭任 Berkshire 主席（一代交棒）② 全球央行加息週期成形（日央行31年高位、Fed 已加、BoE 按兵）③ 油價進入成熟期（原油回落、柴油創新高、沙特斷歐洲供應）。",
+      "risks": [
+        "全球加息週期 + 美股基金連續4週流出",
+        "俄羅斯沒收西方資產升級（雀巢/Auchan）",
+        "中菲南海碰撞、伊朗戰爭後續"
+      ],
+      "my_take": "市場 risk-on 反彈（科技領漲、油跌、金漲），但背後係加息週期成形 + 資金流出嘅緊張背景。Buffett 交棒係象徵性里程碑；油價故事已成熟，沙特斷歐洲供應係下一個未反映 catalyst。",
+      "key_takeaways": [
+        "Buffett 辭任 Berkshire 主席，長子 Howard 接任",
+        "日本央行加息至31年高位，日圓反跌",
+        "沙特斷歐洲原油供應，柴油創新高但原油續跌",
+        "全球央行加息週期成形，美股基金連續4週流出"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-18",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish — 有質素嘅 post-Fed 反彈，但 dot plot 壓頂",
+      "headlines": [
+        "INTC +7.67% 傳 SK Hynix 洽談代工合作 — semi 板塊 game-changer catalyst",
+        "Buffett 辭任 Berkshire 主席，長子 Howard 接任 — 一代交棒",
+        "AAPL：Evercore 看漲新 iPhone 定價上調，盤前動能正向",
+        "沙特斷歐洲原油供給，柴油新高但原油連跌 — crack spread 未反映"
+      ],
+      "focus": [
+        "INTC — SK Hynix Foundry 傳聞，tracked ticker，semi 最重磅 catalyst",
+        "AAPL — Evercore 看漲新 iPhone 定價，盤前動能正向",
+        "Energy/煉油 — 沙特斷供 + 柴油新高 vs 原油跌，crack spread 故事",
+        "Fed Bowman 09:30PM — hawk 會否 reinforce 二次加息預期"
+      ],
+      "analysis": "# Morning Scan — 2026-09-18 (Fri) 20:30 HKT\n\n## Fed Context — 加息後第二日，市場未驚，但 hawkish dot plot 仍然壓頂\n\nFOMC 9/15-16 加息 25bp 至 3.75–4.00%（2023 年以來首次）已經塵埃落定，本週前幾次 Morning Scan 已完整覆蓋 statement + dot plot。今日嘅 Fed context 唔係「有咩新動作」，而係「市場點樣消化呢個 hawkish 動作」：\n\n- **市場反應有質素**：加息後首個完整交易日 SPY +1.14%、QQQ +1.69%、VIX -12.8% 收 15.44 — 恐慌資金真金白銀撤離，唔係縮量反彈。\n- **但 dot plot 係 hawkish**：2026 median 由 3.8% → 4.1%，即 median 成員仲預期多一次加息，2027 都守喺 4% 附近。「higher-for-longer」唔係講笑。\n- **今日兩個 Fed 事件（MED，唔算重磅）**：09:15PM Industrial Production MoM（prev 0.2 / fcast 0.3）；09:30PM Fed Bowman Speech — Bowman 係出名 hawk，佢今日講乜要留意會唔會 reinforce 第二度加息預期。\n- **下次 FOMC：Oct 27-28**，中間隔咗成個 Trump-Xi Summit（9/24）同一次 Durable Goods（9/25），所以未來五週 Fed 都係「observing mode」，反而 geopolitics 同數據會主導。\n\n**我嘅讀法**：市場用一日就消化咗一個 hawkish hike，係因為 (1) 加息幅度細、早被 priced in；(2) 經濟數據仍強（HSBC Kettner 都話 earnings 頂得住加息）。但 dot plot 話仲有一次 — 呢個係一條未引爆嘅 tail risk，唔好當無事。\n\n## 📰 今日重點頭條\n\n1. 【AAPL】Evercore ISI 看漲新 iPhone 定價上調，稱新機更貴、盤前動能正向（CNBC Markets）— 今日最直接嘅個股 catalyst。\n2. 【BRK.B】Warren Buffett 辭任 Berkshire 主席，長子 Howard 接任（News Curator 首推）— 一代交棒，象徵意義大於操作影響（Greg Abel 早係 CEO），但資本配置哲學會否轉變係未來變數。\n3. 【INTC】Intel 傳與 SK Hynix 洽談代工合作，股價 +7.67% 至 $108.80（Motley Fool / Seeking Alpha）— 今日真正嘅重磅 semiconductor catalyst。\n4. 【MACRO/日圓】日本央行加息至 31 年高位，日圓反跌；全球加息週期成形，美股基金連續 4 週流出 — 資金面係中期隱憂。\n5. 【OIL】沙特通知歐洲煉油廠下月無原油，柴油創新高但原油連跌第 3 日（一度跌穿 $100）— 供給收緊訊號未被市場反映，係下一個未爆 catalyst。\n6. 【NSRGY】俄羅斯接管雀巢俄國業務（Putin 收緊西方資產）— 西方資產遭沒收升級。\n7. 【DEFENSE】中菲沙比納淺灘碰撞，南海局勢再升溫 — 配合下週 Trump-Xi Summit 嘅 geopolitics 背景。\n8. 【FSLR】美國太陽能關稅或成定價權 catalyst（TradingView）— 清潔能源 sector 有政策東風。\n9. 【ON】ON Semiconductor 連跌 3 個月後，華爾街仍看漲 120% 回報 — 價值派喺 AI 回調中搵機會。\n10. 【GOLD】金價 post-Fed 復蘇，XAUUSD 睇 4,440 retest（GLD +1.7%）— 避險 + 加息週期對沖邏輯並存。\n\n## 🌍 隔夜市場\n\n- **US close（週四，加息後首個完整交易日）**：S&P 500 +1.14% (7637.76)、Nasdaq +1.69% (26418.30)、Dow +0.61% (51778.04)。\n- **結構**：科技領漲（XLK +2.25%、SMH +2.76%）、金融持平（XLF -0.09%）、防禦股偏弱 — 典型 risk-on。\n- **VIX -12.8% 收 15.44**：恐慌撤離，反彈有質素。\n- **Bond**：10Y 美債息仍喺 5% 附近高位（2007 年以來），加息週期下 yield 高企係估值壓制。\n- **Commodity**：油價連跌第 3 日（USO -0.6%，原油一度跌穿 $100）；金價創週高（GLD +1.7%）。美元偏強。\n- **亞洲/歐洲 overnight**：日央行加息至 31 年高位但日圓反跌；亞洲股市反應分化。\n\n## 📈 昨日市場爆升／暴跌榜（Previous Session）\n\n> 註：FMP movers 今日大部份係 micro-cap 垃圾股（AEMD +374%、RETO -89% 呢類），無分析價值，直接 skip。真正值得睇嘅係 actives 榜入面嗰隻大藍籌。\n\n- **📊 唯一值得跟：INTC +7.67% 至 $108.80**（成交量 1.48 億，dayHigh $111.37）— 傳 SK Hynix 洽談代工合作。呢個係 tracked ticker，Intel Foundry 一直係佢轉型 story 嘅核心；如果 SK Hynix 真係入股/合作，會係 Foundry 業務嘅重大 validation。但注意：係「傳聞/rumored」，未有官方確認，今日要睇有冇 follow-through。\n- **爆升/暴跌榜其餘全部係 penny stocks**（AEMD、PAAI、DAIC、DTSS 呢類），典型 pump-and-dump，唔追。\n\n## 📡 今日重點事件（Source: macro_calendar.json）\n\n- 🟡 **09:15PM HKT** — Industrial Production MoM (Aug)，prev 0.2 / fcast 0.3。\n- 🟡 **09:30PM HKT** — Fed Bowman Speech（hawk，留意會否 reinforce 第二度加息）。\n- 🔴 **下週四 9/24 08:00AM HKT** — **Trump-Xi Summit**（本週最大 geopolitics event，中美關係 + 南海 + 貿易全押喺度）。\n- 🔴 **下週五 9/25 08:30PM HKT** — Durable Goods Orders MoM (Aug)。\n\n今日係週五，macro 面偏輕，主導權喺個股 catalyst 同 geopolitics 預期（Trump-Xi Summit 前夕）。\n\n## 🔥 Sector Watch\n\n- **Energy（+2.14%）— 唯一真正強勢 sector**：油價跌但 Energy sector 升，反映資金買緊「柴油/成品油 crack spread」故事（沙特斷歐洲原油供給 → 煉油毛利擴張）。呢個係 News Curator 講嘅「未反映 catalyst」，值得追緊。\n- **Technology（+0.55%）/ Semiconductor（SMH +2.76%）**：post-Fed 反彈主軸，INTC 嘅 SK Hynix 消息係新火種，睇會唔會點燃整個 semi 板塊。\n- **Healthcare（+0.46%）**：溫和轉強，非主力。\n- **防禦股（Consumer Defensive -0.36%、Utilities -0.38%）偏弱**：印證 risk-on，資金離開防禦。\n\n## 🎯 Pre-market Opportunities（News Curator Consolidate + raw headlines）\n\n- **AAPL（ACTION）**：Evercore 看漲新 iPhone 定價上調。新機更貴 = 均價上移 = 毛利擴張邏輯。今日可以跟動能，但要留意係咪已經 price in（盤前已正向）。\n- **INTC（我自己升級，值得 WATCH→潛在 ACTION）**：SK Hynix Foundry 傳聞係今年 semi 最重磅嘅單一 catalyst 之一。今日部署：睇官方確認 + 有冇 follow-through 先，唔追高（+7.67% 之後 short-term 有回吐風險）。\n- **BRK.B（WATCH）**：Buffett 交棒係長線治理變數，非今日 trade。\n- **OIL / 煉油股（WATCH）**：沙特斷歐洲原油供給 + 柴油新高，但原油回落 — 呢個 divergence 係下一個 catalyst。睇 crack spread 受惠股（Valero VLO、Marathon MPC 呢類）。\n- **DEFENSE（WATCH）**：南海升溫 + Trump-Xi Summit 前夕，國防股有 geopolitics beta。\n\n## 📅 未來一個月業績重點\n\n- **今個星期**：\n  - **CTAS（9/23，$79B，BMO）** — 制服租賃龍頭，經濟晴雨表，non-notable for 我哋但反映景氣。\n  - **COST（9/24，$396B，AMC）** — 消費巨企，睇 membership + 消費韌性，會影響整個 consumer 板塊情緒。\n- **下個星期（重點，3 隻 tracked 🎯）**：\n  - **MU 🎯（9/30，AMC，est EPS $31.24）** — 記憶體龍頭，AI HBM 需求係核心，SK Hynix 係佢直接競爭對手。INTC-SK Hynix 消息 + MU earnings 會一齊定調 memory 板塊方向。\n  - **ACN 🎯（10/1，BMO，est $3.19）** — 咨詢龍頭，AI 服務 demand 晴雨表。\n  - **NKE 🎯（10/1，AMC，est $0.44）** — 消費 + 中國市場暴露，Trump-Xi Summit 後第一個 tracked 消費股 earnings。\n\n## 📋 Today's Agenda\n\n- **今日（週五）**：輕 macro，主導權喺 INTC semi catalyst + AAPL iPhone 動能 + 油/煉油 crack spread 故事。收市後進入週末，Trump-Xi Summit（下週四）前可能有一啲 geopolitics 定價。\n- **Key levels**：SPY 企穩 50 日線上方（前日 $758.94 已收復）；QQQ 亦收復 50 日線。SPY 7637 係昨日收市高位，站穩呢個位 = 反彈延續；跌穿 50 日線 = 反彈夭折。\n\n## 💡 My Take\n\n**Overall bias：Cautiously Bullish（短期），但唔好同 dot plot 對賭。**\n\n今日核心一句：**市場用一日消化咗 hawkish hike，反彈有質素（VIX -12.8%），但 hawkish dot plot 仍暗示多一次加息，呢個係未引爆嘅 tail risk。**\n\n今日最緊要睇實三樣嘢：\n1. **INTC 嘅 SK Hynix 傳聞有冇官方確認** — 如果坐實，係 semi 板塊嘅 game-changer（直接利好 INTC Foundry story，間接利好成個 AI 基建供應鏈）；如果係流料，+7.67% 會回吐。\n2. **Fed Bowman 09:30PM 講乜** — 佢係最 hawk 成員之一，如果佢強烈暗示 10 月再加息，會打擊今日 risk-on 情緒。\n3. **油價 divergence** — 原油跌但柴油/成品油短缺深化 + Energy sector 逆勢升，沙特斷歐洲供給係未反映 catalyst，下週可能爆。\n\n**改變我 thesis 嘅 signal**：如果今日 SPY 跌穿 50 日線（反彈夭折）+ VIX 重新抽高，我會轉向「risk-on 反彈只係一日行情，加息週期開始壓估值」。反之，如果 INTC catalyst 坐實 + 科技繼續領漲，我會更確認「加息係 shallow、經濟韌性主導」嘅 bull case。\n\n**一句俾 Oscar**：今日唔係「等新聞」嘅日子，而係「驗證反彈質素 + 睇 INTC 係咪真 catalyst」嘅日子。OIL/煉油 crack spread 係我眼中最 under-appreciated 嘅下週 trade。",
+      "risks": [
+        "Hawkish dot plot 仍暗示多一次加息（2026 median 4.1%）— 未引爆 tail risk",
+        "美股基金連續 4 週流出 + 全球加息週期成形 — 資金面中期隱憂",
+        "INTC 消息屬「傳聞」，未官方確認，+7.67% 後有回吐風險",
+        "Trump-Xi Summit（下週四）+ 南海升溫 — geopolitics 不確定性"
+      ],
+      "my_take": "Cautiously Bullish（短期）。市場有質素咁消化咗 hawkish hike（VIX -12.8%），但 dot plot 仍暗示多一次加息係 tail risk。今日盯三樣：INTC-SK Hynix 傳聞會否坐實（semi game-changer）、Fed Bowman 會否 reinforce 二次加息、油價/柴油 divergence（沙特斷歐洲供給係未爆 catalyst）。OIL crack spread 係最 under-appreciated 嘅下週 trade。"
     }
   ],
   "news_curator": [
