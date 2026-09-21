@@ -3385,6 +3385,64 @@
         "AI Power: GNRC",
         "Risk Off: LMT, ORCL, BTC-USD"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-21",
+      "time": "08:06 HKT",
+      "status": "success",
+      "market_direction": "鷹派 Fed + 油價 shock + 地緣多線衝突 vs melt up narrative；Dow 3週連跌，QQQ 領先",
+      "headlines": [
+        "[RECENT] WATCH OIL: 沙特首都遭 Houthi 導彈襲擊，原油止跌回升",
+        "[NEW] ACTION MSFT: Bill Ackman 建倉 $24億「核心持倉」",
+        "[NEW] WATCH CRWD/PANW: AI slowdown trade 輪動至 cybersecurity",
+        "[RECENT] ACTION COIN/HOOD/CRCL: SEC 代幣化股票規則催化",
+        "[RECENT] WATCH CRYPTO: BTC 企穩 $80K，Solana +10% altcoin rotation"
+      ],
+      "opportunities": [
+        "MSFT: Ackman $24億建倉，sentiment 利好 portfolio holding",
+        "COIN/HOOD/CRCL: SEC 代幣化股票規則，早期贏家浮現",
+        "OIL(CVX/USO): 沙特首都受襲，原油溢價再添一重"
+      ],
+      "analysis": "最大 underappreciated risk 係油價 shock——supply-side inflation shock 逼 Fed 保持 restrictive，打擊 melt-up 論述。AI slowdown narrative 成形，cybersecurity 受惠、Huang 反駁。",
+      "risks": [
+        "油價 shock（motor oil 四倍、柴油新高）→ 通脹 → Fed 更 hawkish",
+        "AI capex 見頂 risk → Mag7 集中度風險",
+        "地緣多線衝突（伊朗戰爭、沙特、俄烏、北韓導彈）"
+      ],
+      "my_take": "市場被鷹派 Fed + 油價 shock vs melt up 拉扯。油價係領先指標：USO 突破 $163 前高即通脹 shock 論述全面發酵。",
+      "key_takeaways": [
+        "油價 shock 係最大未反映風險",
+        "AI slowdown 輪動至 cybersecurity (CRWD/PANW)",
+        "MSFT 受 Ackman 建倉支撐",
+        "SEC 代幣化股票催化 crypto infra (COIN/HOOD/CRCL)"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-21",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Cautiously Bullish — melt-up momentum 壓倒 structural headwind",
+      "headlines": [
+        "COIN +11.7% / HOOD +9.1%：SEC 代幣化規則催化確認（NC ACTION 命中）",
+        "SNDK +11%：記憶體/semi momentum，NC 未 cover 嘅新 catalyst",
+        "VIX 跌至 14.81，risk-on rotation；Dow 連續第3週下跌",
+        "CRWD -3.3% / PANW -3.1%：NC「cybersecurity 輪動」call 反向落空"
+      ],
+      "opportunities": [
+        "COIN/HOOD: SEC 代幣化 multi-day theme，但追高風險大，等回調/確認",
+        "ASML/AMD/AVGO/TSM: AI capex 未見頂，semi strength 延續",
+        "SNDK: +11% 需 catalyst 確認，暫列 watch"
+      ],
+      "analysis": "📊 Evening Review — 9月18日（美股週五收市）｜9月21日 08:30 HKT\n\n## 📰 今日重頭新聞（raw headlines，括號=NC 是否捕捉）\n- [IBD/yfinance] 「Robinhood、Sandisk、AMD、Moderna 衝入 buy zone」（HOOD/SNDK/AMD/MRNA）— COIN/HOOD 屬 NC ACTION 命中；**SNDK +11% 係 NC 未 cover 嘅新 catalyst**\n- [yfinance] Google 押注芬蘭寒冷天氣＋核電撐 AI buildout（GOOGL）— AI capex 未見頂嘅實證\n- [cnbc] 期指微升，Dow 連續第3週下跌 — NC「Dow 3週連跌」macro watch 確認\n- [yahoo] Independence Realty Trust + Centerspace 合併成 $8.1B 公寓巨頭（IRT/CSR）\n- [tradingview] 「Et tu? Ripping Stocks, Cratering Currencies, & Soaring Yields」— 股市強、匯市弱、債息高嘅分裂格局\n- [tradingview] Gold/Oil/Dollar/Silver/NatGas 展望（GLD/SLV/UNG）\n- [cbs/60min] 數據中心開發商想隱藏追蹤 — AI infra 地方阻力（noise）\n\n## 📊 Market Recap\n- SPY -0.12% 收 761.69（貼年高、近乎平）｜QQQ +0.63% 收 721.45（**tech 領先、創高**）｜DIA -0.48% 收 515.88（Dow 連續第3週下跌）｜IWM -0.47%\n- VIX -4.08% 至 **14.81**（多週低位）— 鷹派 Fed + 油價 shock 下，risk appetite 反而升\n- Sector：贏家 = XLK +0.82%、XLI +0.44%；輸家 = XLB -1.42%、XLU -1.42%、XLC -1.37%、XLRE -0.95%、XLP -0.83%\n- 訊號：典型 risk-on rotation —— growth/tech 抽高、defensives（公用/必需消費/原料）被沽。**唔係全面升市，係資金換馬去科技同 momentum**\n\n## 🔥 Notable Movers\n- 🚀 COIN +11.66%｜HOOD +9.12%｜SNDK +10.99% — 今日三大贏家\n- 🚀 ASML +3.08%｜AVGO +2.97%｜AMD +2.70%｜NVDA +1.34%｜TSM +1.02% — semi 全面走強\n- 🔻 CRWD -3.28%｜PANW -3.06% — cybersecurity 被沽（NC 反方向）\n- 🔻 MRNA -2.55%｜MSFT -0.80%｜USO -0.96%｜CVX -0.97%\n\n## 📰 News That Mattered（NC calls 檢討）\n**命中：**\n- ✅ COIN/HOOD（SEC 代幣化規則）：**大中** — COIN +11.7%、HOOD +9.1%，catalyst 確認\n- ✅ ASML/TSM（繪畫 AI chip 版圖）：+3.08%/+1.02%\n- ✅ NVDA（Huang 監管 tailwind）：+1.34%（溫和）\n- ✅ MACRO「Dow 3週連跌」：確認\n\n**落空：**\n- ❌ CRWD/PANW「AI slowdown 輪動至 cybersecurity」：**方向反了** — 兩隻都跌 -3%。若 AI slowdown 真係發酵，semi 唔會 +3% 咁抽\n- ❌ MSFT（Ackman 建倉）：-0.80%，冇 pop —— 呢個係 sentiment 慢火，唔係即時 catalyst\n- ⚠️ OIL（CVX/USO）：方向錯 —— 油價回調 -0.96%，USO 收 153.82，遠低於 $163 前高\n\n**關鍵 insight：** 今日 price action 直接反駁「AI slowdown」論述。若 AI capex 真見頂，semi（ASML/AMD/AVGO）唔會 +3% 抽、cybersecurity 唔會俾人沽 -3%。市場話緊你：**AI 開支仲好強**。\n\n## 🎯 Opportunities Carry Forward\n- **COIN/HOOD（SEC 代幣化）**：multi-day theme，唔係一日行情。但 +11%/+9% 單日爆升後追高風險大 —— 等回調買定等 continuation 確認，唔好 hand-chase\n- **ASML/AMD/AVGO/TSM**：AI capex 未見頂，semi strength 值得 carry。AMD 喺 buy zone 但未爆（+2.7%），相對落後\n- **SNDK +11%**：記憶體/semi momentum，但 raw news 冇明確 catalyst —— 要先搞清楚 driver 先追，暫列 watch\n- **GOOGL**：芬蘭核電 AI buildout 消息，係 AI infra 主題嘅實證，但今日 +0.64% 冇反應，睇會唔會補漲\n\n## ⚠️ Risks / Watchlist（今晚＋本週 macro，source = macro_calendar.json）\n**今晚（週一）：**\n- 🟡 6:30pm HKT Fed Goolsbee 演講｜8:30pm Chicago Fed National Activity Index（前值 -0.08）\n\n**本週關鍵（HIGH）：**\n- 🔴 **9/24 8:00am 特朗普–習近平峰會** — 本週最大 wildcard：貿易 de-escalation = melt-up 延續；對抗/關稅 = shock 打斷敘事\n- 🔴 **9/25 8:30pm Durable Goods Orders MoM**（預期 -0.5% vs 前值 +1.1%）— 硬數據考驗\n- 🟡 9/23 9:45pm S&P Global PMI Flash（Composite 前值 56）— 直接考驗「AI slowdown / 製造業」論述\n- 🟡 9/23 API/EIA 原油庫存、9/24 Jobless Claims\n\n**Overnight tail risk：**\n- 油價係 underappreciated risk：USO 153.82 遠低於 $163 前高。若沙特/Houthi 局勢再升級、USO 破 $163，supply-side 通脹 shock 重燃，直接攻擊「S&P 9,000」melt-up 論述\n\n## 💡 My Take\n今日市場話咗兩件事：鷹派 Fed + 油價 shock 嘅 structural headwind 係真，但短期 momentum 完全壓倒佢哋 —— VIX 俾人沽到 14.81、semi/crypto-tokenization 爆升，risk-on 換馬而非全面升市（SPY 平、Dow 3週跌）。**最緊要嘅 takeaway：AI slowdown 論述第一次測試就失敗**，semi 抽高係最直接證據。\n\n明日 bias：**短線 cautiously bullish**（momentum + 低 VIX），但本週兩個 HIGH（Trump-Xi 峰會 9/24、Durable Goods 9/25）隨時反轉敘事。真正要盯實嘅係油價 —— 若 USO 破 $163，成個 risk-on 框架要推倒重來。\n",
+      "risks": [
+        "Trump-Xi 峰會 (9/24, HIGH)：貿易 de-escalation vs 對抗 shock",
+        "Durable Goods Orders MoM (9/25, HIGH)：預期 -0.5%",
+        "油價 USO 若破 $163 前高，supply-side 通脹 shock 重燃",
+        "S&P Global PMI Flash (9/23) 考驗 AI slowdown 論述"
+      ],
+      "my_take": "鷹派 Fed + 油價 shock 之下，melt-up momentum 短期完勝：VIX 沽到 14.81、semi/crypto-tokenization 爆升。AI slowdown 論述首次測試即失敗（semi +3%、cybersecurity -3%）。本週兩大 HIGH（Trump-Xi 峰會、Durable Goods）+ 油價 $163 前高係三大轉折點，短線 cautiously bullish。"
     }
   ],
   "news_curator": [
