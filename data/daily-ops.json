@@ -3387,38 +3387,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-21",
-      "time": "08:06 HKT",
-      "status": "success",
-      "market_direction": "鷹派 Fed + 油價 shock + 地緣多線衝突 vs melt up narrative；Dow 3週連跌，QQQ 領先",
-      "headlines": [
-        "[RECENT] WATCH OIL: 沙特首都遭 Houthi 導彈襲擊，原油止跌回升",
-        "[NEW] ACTION MSFT: Bill Ackman 建倉 $24億「核心持倉」",
-        "[NEW] WATCH CRWD/PANW: AI slowdown trade 輪動至 cybersecurity",
-        "[RECENT] ACTION COIN/HOOD/CRCL: SEC 代幣化股票規則催化",
-        "[RECENT] WATCH CRYPTO: BTC 企穩 $80K，Solana +10% altcoin rotation"
-      ],
-      "opportunities": [
-        "MSFT: Ackman $24億建倉，sentiment 利好 portfolio holding",
-        "COIN/HOOD/CRCL: SEC 代幣化股票規則，早期贏家浮現",
-        "OIL(CVX/USO): 沙特首都受襲，原油溢價再添一重"
-      ],
-      "analysis": "最大 underappreciated risk 係油價 shock——supply-side inflation shock 逼 Fed 保持 restrictive，打擊 melt-up 論述。AI slowdown narrative 成形，cybersecurity 受惠、Huang 反駁。",
-      "risks": [
-        "油價 shock（motor oil 四倍、柴油新高）→ 通脹 → Fed 更 hawkish",
-        "AI capex 見頂 risk → Mag7 集中度風險",
-        "地緣多線衝突（伊朗戰爭、沙特、俄烏、北韓導彈）"
-      ],
-      "my_take": "市場被鷹派 Fed + 油價 shock vs melt up 拉扯。油價係領先指標：USO 突破 $163 前高即通脹 shock 論述全面發酵。",
-      "key_takeaways": [
-        "油價 shock 係最大未反映風險",
-        "AI slowdown 輪動至 cybersecurity (CRWD/PANW)",
-        "MSFT 受 Ackman 建倉支撐",
-        "SEC 代幣化股票催化 crypto infra (COIN/HOOD/CRCL)"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-21",
       "time": "08:33 HKT",
@@ -3443,6 +3411,64 @@
         "S&P Global PMI Flash (9/23) 考驗 AI slowdown 論述"
       ],
       "my_take": "鷹派 Fed + 油價 shock 之下，melt-up momentum 短期完勝：VIX 沽到 14.81、semi/crypto-tokenization 爆升。AI slowdown 論述首次測試即失敗（semi +3%、cybersecurity -3%）。本週兩大 HIGH（Trump-Xi 峰會、Durable Goods）+ 油價 $163 前高係三大轉折點，短線 cautiously bullish。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-21",
+      "time": "20:08 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 反彈 — 油價連跌 + 債券反彈 + Trump-Xi 峰會前 de-escalation，逆轉上輪「伊朗戰爭溢價」framing",
+      "headlines": [
+        "[RECENT] ACTION OIL: 油價連跌，交易員押注伊朗外交（逆轉戰爭溢價）",
+        "[NEW] ACTION BTC: 突破 $85K 八個月高位，逼空 $648M",
+        "[NEW] WATCH NVO/LLY: CagriSema 數據勝 Lilly 但股價照跌",
+        "[RECENT] WATCH MACRO: 中美 AI 安全對話，Trump-Xi 峰會前",
+        "[NEW] MEME CRYPTO: ETH L2 +26%，NEAR +80% altcoin rotation"
+      ],
+      "opportunities": [
+        "OIL(USO): De-escalation trade——油價連跌+債券反彈，能源/國防溢價重估",
+        "BTC: $85K 突破型逼空，altcoin rotation 啟動",
+        "CRYPTO(SECZ): 代幣化 theme 延續，Securitize 暴漲"
+      ],
+      "analysis": "最大 macro shift 係 de-escalation reversal：上輪「伊朗戰爭溢價」被市場否定，油價連跌、債券反彈、risk-on 回歸。但 risk-on 太快——Dow 3週連跌、鷹派 Warsh Fed 未變，債券反彈只係油價跌驅動嘅通脹溢價收縮。",
+      "risks": [
+        "伊朗仍放狠話，油價「外交解決」邏輯若一廂情願，能源溢價快速回流",
+        "Trump-Xi 峰會不及預期 → de-escalation trade 快速反轉",
+        "Warsh 鷹派 Fed 回馬槍 vs 債券反彈"
+      ],
+      "my_take": "本 session 係清晰 de-escalation reversal，但 risk-on 回歸太快。伊朗仲放緊狠話，油價跌嘅「外交解決」邏輯係最值得 hedge 嘅風險。",
+      "key_takeaways": [
+        "油價連跌+債券反彈=de-escalation trade，逆轉戰爭溢價",
+        "BTC $85K 逼空 $648M，altcoin rotation 啟動",
+        "NVO CagriSema 勝 Lilly 但 pipeline 憂慮主導",
+        "中美 AI 對話 + Trump-Xi 峰會前緩和"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-21",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Cautiously-Bullish（窄幅）",
+      "headlines": [
+        "BTC 突破 $85K 逼空，加密板塊 risk-on",
+        "Fed 鷹派加息（9/15-16），Warsh 被比作 Volcker，10Y 站 5% 邊緣",
+        "Trump-Xi 峰會前 de-escalation，油價連跌、能源溢價回吐",
+        "美股窄幅：SPY/QQQ 強，Dow/細價股三週連跌"
+      ],
+      "focus": [
+        "NVDA / 大型科技 — 窄幅市場中 carry 大市",
+        "金融股 — 加息淨息差受惠",
+        "加密板塊（BTC/ETH）— 逼空 momentum 但追高風險大",
+        "能源回吐 — de-escalation trade"
+      ],
+      "analysis": "# 開市掃瞄 Morning Scan — 2026-09-21（一）\n\n## 市場總覽：De-escalation 反彈，但窄幅、脆弱\n\n今日開市前嘅 story 好清晰：**上輪「伊朗戰爭溢價」正被市場否定，risk-on 回歸**——油價連跌、美債反彈、BTC 逼空破 $85K。但呢個反彈嘅 quality 好差：SPY/QQQ 強、Dow/細價股弱，係典型嘅 **鷹派 Fed + 高息環境下嘅 narrow market**。Kevin Warsh 主導嘅 Fed 啱啱喺 9 月 15-16 加息（市場話「Removed a Dose of Accommodation」），10Y 站穩 5% 邊緣，呢個 macro backdrop 冇變過。\n\n## 1. 🌍 隔夜市場\n\n**美股（上週五收市）——明顯 divergence：**\n- SPY $761.69｜企穩 50dMA（$759.7）之上，貼近歷史高位\n- QQQ $721.45｜企穩 50dMA（$709.9）之上\n- DIA $515.88｜**跌穿 50dMA（$528.4）** — Dow 三週連跌，最弱\n- IWM $284.10｜**跌穿 50dMA（$295.1）** — 細價股滯後\n\n**Signal:** 大型科技股（NVDA 昨日 +0.8%、喺 most active 榜）carry 大市，但 Dow 同 Russell 2000 已經轉弱。呢個係高息 + 加息環境下資金避開利率敏感板塊嘅典型 pattern。\n\n**債市 / 波動率：**\n- 10Y 債息 4.94%（由 FOMC 當日 5.01% 回落）— 油價跌 → 通脹溢價收縮 → 債券反彈\n- 2s10s 息差 +0.25% — 曲線維持正斜率，冇衰退訊號\n- VIX 15.4 — 極低，市場 complacent，冇 hedge 需求\n\n**商品 / 外匯 / 加密：**\n- 原油 USO $153.82（日 -0.96%），但相對 200dMA（$111）仲高 **~38%** — 巨大 run-up 後嘅回調\n- 黃金 GLD $401.17（+0.71%），但**仍喺 200dMA（$416）之下** — 黃金 downtrend 未逆轉，就算有「safe-haven rebound」headline\n- BTC $85,177（**+4.95%**）— 突破 $85K 八個月高位，逼空 $648M\n\n## 2. 📡 今日重點事件\n\n**今日（週一，HKT）：**\n- 🟡 08:00 HKT｜聯合國大會（UN General Assembly，全週）\n- 🟡 18:30 HKT｜Fed Goolsbee 演講（留意鷹/鴿 tone）\n- 🟡 20:30 HKT｜芝加哥 Fed 全國活動指數（Aug，prev=-0.08）\n\n**本週 HIGH impact：**\n- 🔴 **週四 9/24 08:00 HKT｜Trump-Xi 峰會** ← 全週最重要 catalyst\n- 🔴 週五 9/25 20:30 HKT｜Durable Goods Orders MoM（Aug，prev=+1.1，fcast=-0.3）\n\n## 3. 🔥 Sector Watch\n\n**Sector 表現（最新 snapshot）：**\n| 強勢 | 弱勢 |\n|---|---|\n| Technology +1.48% | Communication Services -2.34% |\n| Financial Services +1.19%（加息受惠） | Energy -1.55%（de-escalation） |\n| | Utilities -1.51%（高息打擊） |\n\n**Rotation signal:** 資金由 energy/utilities 流向 tech/financials。能源溢價回吐 + 銀行受惠加息，呢個係清晰嘅 de-escalation rotation。但要警惕 Comm Services 暴跌（-2.34%），可能係個別重磅股（Meta/GOOGL 呢類）有壓力。\n\n## 4. 🎯 Pre-market Opportunities\n\n**ACTION（高信心）：**\n- **BTC-USD / 加密板塊**：突破 $85K 逼空 + ETF/代幣化催化劑（SECZ、ECB Pontes）。但已經單日 +5%，追高風險大 — 唔好喺逼空頂部追，等回調。\n- **能源溢價回吐（short energy / 受惠嘅 consumer）**：油價由巨大 run-up 回調，若 Trump-Xi 峰會落實關稅緩和，LNG/原油溢價會繼續收縮（Bloomberg：「US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs」— 留意呢個係利好 LNG 出口商，唔係利淡）。\n\n**WATCH（催化劑待確認）：**\n- **NVO/LLY**：CagriSema 數據勝 Zepbound 但 NVO 照跌（post-Wegovy growth + 裁員憂慮）— 減肥藥競爭格局有變，等週四前後 Trump-Xi 峰會對中國市場准入嘅影響。\n- **金融股（受惠加息）**：Warsh 加息 stance 下銀行 net interest margin 改善，係最乾淨嘅 macro 受惠者。\n- **MRK**：Seeking Alpha 下調評級「Overvalued And Overbought」— 留意 downgrade 有冇 follow-through。\n\n## 5. 📅 未來一個月業績重點\n\n**本週（輕盈週）：**\n- 週三 9/23｜CTAS（$79B，BMO，est EPS $1.35）— 經濟活動指標\n- 週四 9/24｜COST（$396B，AMC，est EPS $6.48）— 消費韌性 indicator\n\n**下週（tracked 密集）：**\n- 週三 9/30｜MU（🎯，$1.1T，AMC，est EPS $31.24）— 記憶體 cycle + AI HBM 需求，會帶動成個半導體板塊\n- 週四 10/1｜ACN（🎯，BMO，est $3.19）— AI 服務需求 indicator\n- 週四 10/1｜NKE（🎯，AMC，est $0.44）— 消費 + 中國 exposure（Trump-Xi 關稅直接相關）\n\n**一句話：** 本週業績淡靜，焦點喺 macro（Trump-Xi 峰會）。下週 MU 係第一個 AI 半導體重磅業績，會係成個 AI trade 嘅 test。\n\n## 6. 📋 Today's Agenda\n\n- **SPY 關鍵位：** 支持 $750（心理位）、$716（200dMA）；阻力 $765+（歷史高位區）。窄幅市場下，突破要靠 Trump-Xi 峰會好消息。\n- **本週 catalyst schedule：** 週四 Trump-Xi 峰會（最大變數）→ 週五 Durable Goods → 下週 MU/ACN/NKE 業績。\n- **Key risk：** 伊朗仲放緊狠話（「expand geography of war」），油價跌嘅「外交解決」邏輯若係一廂情願，能源溢價會快速回流 — 呢個係最值得 hedge 嘅風險。\n\n## 7. 💡 My Take\n\n**Bias：Neutral-to-Cautiously-Bullish，窄幅。**\n\n今日唔係「all clear」嘅 risk-on，係「油價跌驅動嘅通脹溢價收縮」反彈。核心矛盾：**鷹派 Warsh Fed（10Y 5%）對住 de-escalation 樂觀情緒**。Dow 三週連跌已經話咗俾你聽，市場對高息仲係好敏感。\n\n最緊要睇實三樣嘢：\n1. **Trump-Xi 峰會（週四）** — 有冇實質關稅減免？冇嘅話，de-escalation trade 會快速反轉。\n2. **油價會唔會再跌** — 係今次反彈嘅 fuel，油價反彈 = 通脹溢價回流 = 債息再上 = 科技股壓力。\n3. **BTC $85K 企唔企得穩** — 逼空完咗係回調定係新趨勢，會係 risk appetite 嘅溫度計。\n\nOvernight signal 冇改變我上週 thesis：**高息 + 窄幅市場下，跟大科技（NVDA 等）+ 金融股，避開利率敏感（utilities/REIT）同已透支嘅能源 long。**",
+      "risks": [
+        "伊朗戰爭溢價回流（外交解決一廂情願）",
+        "Trump-Xi 峰會冇實質成果 → de-escalation trade 反轉",
+        "窄幅市場：Dow/細價股持續走弱，broad market 惡化"
+      ],
+      "my_take": "De-escalation 反彈但窄幅脆弱。鷹派 Warsh Fed（10Y 5%）vs Trump-Xi 峰會樂觀情緒，兩股力量對衝。跟大科技+金融，避開能源 long 同利率敏感板塊。週四 Trump-Xi 峰會係最大 swing factor。"
     }
   ],
   "news_curator": [
