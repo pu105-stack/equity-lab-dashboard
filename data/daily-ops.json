@@ -3469,6 +3469,66 @@
         "窄幅市場：Dow/細價股持續走弱，broad market 惡化"
       ],
       "my_take": "De-escalation 反彈但窄幅脆弱。鷹派 Warsh Fed（10Y 5%）vs Trump-Xi 峰會樂觀情緒，兩股力量對衝。跟大科技+金融，避開能源 long 同利率敏感板塊。週四 Trump-Xi 峰會係最大 swing factor。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-22",
+      "time": "08:06 HKT",
+      "status": "success",
+      "market_direction": "Nasdaq 破頂、AI 樂觀重燃、債息回落 — 科技股反彈，鷹派 Fed 被市場 ignore；原油~$100 但柴油/航空燃油創紀錄",
+      "headlines": [
+        "[RECENT] ACTION: PARA/WBD — $110bn Warner Bros 合併清障",
+        "[RECENT] ACTION: 煉油股 — 全球煉油緊縮推柴油創紀錄",
+        "[RECENT] WATCH: Trump-Xi 峰會本周 — 稀土出口急降",
+        "[RECENT] WATCH: 德州暫停數據中心許可 — AI buildout 遇電網瓶頸",
+        "[RECENT] WATCH: META Muse 13年最佳單月",
+        "[RECENT] MEME: 隱私幣 ZEC/XMR 單月+90%"
+      ],
+      "opportunities": [
+        "PARA/WBD: 反壟斷訴訟和解，$110bn 合併最後障礙清除，merger arbitrage",
+        "PSX/MPC/VLO: 煉油 crack spread 創紀錄，柴油/航空燃油緊缺",
+        "TSM: 先進封裝 boom，結構性受惠"
+      ],
+      "analysis": "美股周一強勢反彈，Nasdaq 破頂、AI 樂觀重燃、債息回落，市場將 Warsh 加息視為已反映甚至鴿派。但表層強勢下有多個背離：原油~$100 但煉油產品（柴油/航空燃油）創紀錄、德州暫停數據中心許可威脅 AI capex、Wells Fargo 下調目標至 7,700 警告 5-10% 下行。核心機會在媒體併購（PARA/WBD）同煉油裂解價差。",
+      "risks": [
+        "鷹派 Fed（Warsh）下一步 — 區域銀行 KRE 脆弱",
+        "S&P 500 26 年最高估值 + breadth 惡化",
+        "柴油/航空燃油危機蔓延（Europe fuel crisis）",
+        "Texas 數據中心許可凍結威脅 AI capex 週期"
+      ],
+      "my_take": "市場正在「科技股 AI 樂觀」同「鷹派 Fed + 油價 shock」之間拉扯，而周一選擇了前者。但背離訊號明顯：油價 shock 轉移到煉油產品（crack spread 創紀錄），這才是真正的實體經濟通脹源。煉油股（PSX/MPC/VLO）係被忽略的受益者。同時 media 併購（PARA/WBD）係罕見的事件驅動機會，值得跟進。",
+      "key_takeaways": [
+        "Nasdaq 破頂但 breadth 惡化 — 反彈集中喺科技",
+        "煉油 crack spread 創紀錄 — 煉油股係 hidden winner",
+        "PARA/WBD $110bn 合併清障 — merger arb 機會",
+        "德州數據中心凍結 — AI buildout 嘅第一個實體約束"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-22",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Risk-on：Nasdaq 新高（QQQ +2.78%），META +11% 領軍，能量/防禦失血",
+      "headlines": [
+        "Nasdaq 收市創新高，AI 樂觀重燃（investing_com）",
+        "META +11.34%：Muse AI 13 年最佳單月，AI 重新估值",
+        "德州 Abbott 暫停數據中心許可，直至電網審計",
+        "共和黨籲 Trump 禁止美國柴油出口 — 煉油股 MPC/PSX/VLO 跌 4-5%"
+      ],
+      "opportunities": [
+        "META: Muse AI re-rating 有 momentum，睇 AI 板塊有冇 follow-through",
+        "WBD: Paramount 合併反壟斷清障，merger arb spread 收窄",
+        "TSM: 先進封裝 boom 確認，下週 MU 業績係 AI 半導體 test",
+        "Refiners (PSX/MPC/VLO): crack spread 政治化，雙向 trade"
+      ],
+      "analysis": "# 美股收市回顧 Evening Review — 2026-09-22（週二）\n\n## 📰 今日重點頭條（Raw Headlines）\n\n1. **Nasdaq 收市創新高，AI 樂觀重燃、債息回落**（investing_com）— 今日市場主線\n2. **德州州長 Abbott 暫停所有數據中心許可，直至電網審計完成**（investing_com）— NC 捕捉到（WATCH 數據中心反彈）\n3. **Bitcoin 突破全部阻力，進入歷史新高區域**（tradingview）— 加密 risk-on 延續\n4. **Trump 施壓 Zelenskyy 停止攻擊俄羅斯煉油廠**（FT）— 柴油/煉油板塊頭條\n5. **「止血」：共和黨籲 Trump 禁止美國柴油出口**（FT）— 煉油股下跌真正 catalyst\n6. **Silver Lake 起訴 Carl Icahn 及對沖基金，涉 Endeavor 收購**（investing_com）— media M&A\n7. **被禁新聞機構（CNN/MSNBC/Politico）起訴 Trump 侵犯新聞自由**（CBS）\n\nNC 捕捉到：數據中心許可（✓）、BTC ATH（✓）、META Muse AI（✓）。Raw 先見到：Trump-Zelenskyy 煉油 + 柴油出口禁令 — 呢個係 refiners 暴跌嘅真正 catalyst，NC #2 冇捕捉到「政治干預」呢個角度。\n\n## 1. 📊 Market Recap\n\n**指數（週一收市）：**\n- QQQ $741.47（**+2.78%**）— Nasdaq 創歷史新高\n- SPY $773.50（**+1.55%**）— 突破歷史高位，收喺 $765 阻力之上\n- DIA $519.78（**+0.76%**）— Dow 止跌反彈（三週連跌後首次像樣反彈）\n- IWM $285.58（**+0.52%**）— 細價股仍然滯後\n- VIX 14.87 — 極低，市場 complacent，冇 hedge 需求\n\n**Sector（贏家/輸家）：**\n| 贏家 | 輸家 |\n|---|---|\n| Comm Services +3.56%（META 驅動）| Energy -2.88%（de-escalation）|\n| Tech +2.77% | Utilities -1.07% |\n| Consumer Disc +1.08% | Staples -1.06% |\n\n**Signal:** 呢個唔係「narrow market」— 係一個清晰嘅 risk-on rotation：資金由 energy/防禦板塊流向 tech/comm services。Morning Scan 話「窄幅脆弱」，但市場實際係 broad risk-on（Comm Services +3.56% 係最大贏家）。\n\n**債市:** 10Y 喺 ~5.00% 邊緣徘徊（FRED 最後數據 Sep 18 = 5.01%）。「債息回落」headline 有啲誤導 — 只係由 5.01% 輕微回落，唔係 bond rally。鷹派 Fed backdrop 冇變。\n\n## 2. 🔥 Notable Movers\n\n**最大升幅：**\n- **META +11.34%**（$665.75 → $741.25）— Muse AI 13 年最佳單月，AI 重新估值。單日市值增長 ~$200B，係 Nasdaq 創新高嘅主引擎\n- **WBD +10.79%**（$27.80 → $30.80）— Paramount 反壟斷訴訟和解，$110bn 合併清障\n- **TSM +2.41%** — 先進封裝 boom 確認\n- NVDA +2.30%、AMZN +1.87%、GOOGL +1.55%\n\n**最大跌幅：**\n- **MPC -5.30%、VLO -4.84%、PSX -4.17%** — 煉油股暴跌。NC #2 話「refiners 受惠 crack spread 擴闊」係 ACTION，但實際跌 4-5%。原因：政治干預（Trump 停止煉油廠攻擊 + 柴油出口禁令呼聲）蓋過 crack spread 基本因素\n- **NEE -1.04%** — 德州暫停數據中心許可，數據中心 utilities 受壓\n\n**Sector rotation signal:** 資金離開 energy 流入 AI/comm services。煉油股同 crude 嘅 divergence 明顯：XLE -2.88% 係 crude de-escalation，refiners 跌得更多係政治干預 crack spread。\n\n## 3. 📰 News That Mattered\n\n**今日 confirmed catalysts：**\n1. **META Muse AI re-rating** — AI 樂觀重燃嘅核心。META +11.34% 係事件驅動，唔係 macro。\n2. **WBD/Paramount 合併清障** — 反壟斷和解，merger arb 進展。\n3. **德州數據中心許可暫停** — 數據中心 boom 遇到第一個政治阻力。\n4. **煉油政治干預** — Trump 施壓停止煉油廠攻擊 + 柴油出口禁令，係 refiners 暴跌主因。\n\n**NC #2 calls scorecard：**\n- ✓ TSM 先進封裝（+2.41% 中）\n- ✓ META Muse AI（+11.34% 大中）\n- ✓ 數據中心反彈 concern（NEE -1.04% 確認）\n- ✗ **PSX/MPC/VLO refiners** — 方向錯。NC 話「受益 crack spread」，實際跌 4-5%。政治干預係 NC 冇捕捉到嘅 catalyst。\n\n**Morning Scan scorecard（9/21）：**\n- ✓ 「跟大科技」— QQQ +2.78%、XLK +2.77% 大中\n- ✓ 「避開 energy long」— XLE -2.88% 中\n- ✓ BTC $85K 突破 — 確認（BTC 再創新高）\n- ✗ 「窄幅」— 實際係 broad risk-on，唔夠 bull\n\n## 4. 🎯 Opportunities Carry Forward\n\n1. **META AI re-rating 嘅延續** — META +11.34% 係單日 event，但 Muse AI narrative 有 momentum。跟進：AI 板塊（NVDA/TSM）有冇 follow-through，定係 META 一枝獨秀嘅 squeeze。\n2. **WBD/Paramount merger arb** — 反壟斷清障後，merger arb spread 收窄。WBD +10.79% 後要睇合併條款係咪已 price in。\n3. **煉油 crack spread 政治化** — 雙向 trade：若柴油出口禁令真係落實，refiners 進一步受壓；若 Trump-Xi 峰會改善地緣，crude 溢價收縮。refiners 依家係「政治風險」唔係「crack spread」trade。\n4. **TSM 先進封裝** — 半導體 cycle 持續。下週 MU 業績（9/30）會係 AI 半導體嘅 test。\n\n**After-hours / tomorrow set-up：**\n- 明晚 S&P Global PMI Flash（Sep 23）— 製造業/服務業景氣\n- Fed Barr 演講（明晚）\n- 本週最大 catalyst：**週四 Trump-Xi 峰會**（UN General Assembly 期間）\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚要睇實（macro_calendar.json）：**\n- 🟡 08:15pm HKT｜ADP 就業變動（週度）\n- 🟡 10:05pm HKT｜Fed Williams 演講\n- 🟡 10:20pm HKT｜Fed Jefferson 演講\n- 🟡 01:00am HKT｜Fed Barkin 演講\n- 🟡 04:30am HKT｜API 原油庫存（Sep/18）\n\n**明晚：**\n- 🟡 S&P Global 製造業/服務業 PMI Flash（Sep）\n- 🟡 Fed Barr 演講\n- 🟡 EIA 原油庫存\n\n**Overnight risk：**\n- **Trump-Xi 峰會（週四 9/24）** — 本週最大 swing。有實質關稅減免 → de-escalation 持續；冇成果 → de-escalation trade 反轉。\n- **伊朗/俄羅斯地緣** — 煉油廠攻擊若升級，柴油溢價回流，refiners 反彈但 crude 受壓。\n- **鷹派 Fed** — 10Y 企喺 5% 邊緣，任何 hawkish 訊號都會打擊科技股估值。\n\n**Fed context:** 下次 FOMC Oct 27-28（仲有 5 週）— risk-on window，但 9 月 FOMC 嘅 hawkish stance（Warsh 被比作 Volcker）係懸喺頭頂嘅 risk。\n\n## 6. 💡 My Take\n\n**今日一句話：** 市場選擇咗 AI 樂觀（META +11%、Nasdaq 新高），暫時 ignore 鷹派 Fed 同油價 shock — 但呢個背離好脆弱。\n\n**最重要 takeaway:** 煉油股方向錯示範咗一個重點 — crack spread 基本因素係真，但政治干預（柴油出口禁令 + 停止煉油廠攻擊）先係依家市場 pricing 嘅嘢。Morning Scan 嘅「避開 energy long」比 NC #2 嘅「refiners ACTION」更啱。\n\n**Tomorrow bias:** Neutral-to-Cautiously-Bullish。AI momentum（META/半導體）有 follow-through 空間，但 10Y 5% + 鷹派 Fed 係天花板。真正 swing 喺週四 Trump-Xi 峰會 — 之前市場可能窄幅震盪消化今日 AI 反彈。",
+      "risks": [
+        "Trump-Xi 峰會（週四 9/24）冇實質成果 → de-escalation trade 反轉",
+        "柴油出口禁令落實 → refiners 進一步受壓",
+        "10Y 5% + 鷹派 Fed，任何 hawkish 訊號打擊科技股估值"
+      ],
+      "my_take": "市場選擇 AI 樂觀（META +11%、Nasdaq 新高），暫時 ignore 鷹派 Fed 同油價 shock。最關鍵教訓：煉油股「crack spread 基本因素」被政治干預（柴油出口禁令 + 停止煉油廠攻擊）蓋過，Morning Scan「避開 energy long」比 NC「refiners ACTION」更啱。週四 Trump-Xi 峰會係下一個 swing。"
     }
   ],
   "news_curator": [
