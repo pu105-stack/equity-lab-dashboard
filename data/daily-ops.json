@@ -3471,40 +3471,6 @@
       "my_take": "De-escalation 反彈但窄幅脆弱。鷹派 Warsh Fed（10Y 5%）vs Trump-Xi 峰會樂觀情緒，兩股力量對衝。跟大科技+金融，避開能源 long 同利率敏感板塊。週四 Trump-Xi 峰會係最大 swing factor。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-22",
-      "time": "08:06 HKT",
-      "status": "success",
-      "market_direction": "Nasdaq 破頂、AI 樂觀重燃、債息回落 — 科技股反彈，鷹派 Fed 被市場 ignore；原油~$100 但柴油/航空燃油創紀錄",
-      "headlines": [
-        "[RECENT] ACTION: PARA/WBD — $110bn Warner Bros 合併清障",
-        "[RECENT] ACTION: 煉油股 — 全球煉油緊縮推柴油創紀錄",
-        "[RECENT] WATCH: Trump-Xi 峰會本周 — 稀土出口急降",
-        "[RECENT] WATCH: 德州暫停數據中心許可 — AI buildout 遇電網瓶頸",
-        "[RECENT] WATCH: META Muse 13年最佳單月",
-        "[RECENT] MEME: 隱私幣 ZEC/XMR 單月+90%"
-      ],
-      "opportunities": [
-        "PARA/WBD: 反壟斷訴訟和解，$110bn 合併最後障礙清除，merger arbitrage",
-        "PSX/MPC/VLO: 煉油 crack spread 創紀錄，柴油/航空燃油緊缺",
-        "TSM: 先進封裝 boom，結構性受惠"
-      ],
-      "analysis": "美股周一強勢反彈，Nasdaq 破頂、AI 樂觀重燃、債息回落，市場將 Warsh 加息視為已反映甚至鴿派。但表層強勢下有多個背離：原油~$100 但煉油產品（柴油/航空燃油）創紀錄、德州暫停數據中心許可威脅 AI capex、Wells Fargo 下調目標至 7,700 警告 5-10% 下行。核心機會在媒體併購（PARA/WBD）同煉油裂解價差。",
-      "risks": [
-        "鷹派 Fed（Warsh）下一步 — 區域銀行 KRE 脆弱",
-        "S&P 500 26 年最高估值 + breadth 惡化",
-        "柴油/航空燃油危機蔓延（Europe fuel crisis）",
-        "Texas 數據中心許可凍結威脅 AI capex 週期"
-      ],
-      "my_take": "市場正在「科技股 AI 樂觀」同「鷹派 Fed + 油價 shock」之間拉扯，而周一選擇了前者。但背離訊號明顯：油價 shock 轉移到煉油產品（crack spread 創紀錄），這才是真正的實體經濟通脹源。煉油股（PSX/MPC/VLO）係被忽略的受益者。同時 media 併購（PARA/WBD）係罕見的事件驅動機會，值得跟進。",
-      "key_takeaways": [
-        "Nasdaq 破頂但 breadth 惡化 — 反彈集中喺科技",
-        "煉油 crack spread 創紀錄 — 煉油股係 hidden winner",
-        "PARA/WBD $110bn 合併清障 — merger arb 機會",
-        "德州數據中心凍結 — AI buildout 嘅第一個實體約束"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-22",
       "time": "08:34 HKT",
@@ -3529,6 +3495,72 @@
         "10Y 5% + 鷹派 Fed，任何 hawkish 訊號打擊科技股估值"
       ],
       "my_take": "市場選擇 AI 樂觀（META +11%、Nasdaq 新高），暫時 ignore 鷹派 Fed 同油價 shock。最關鍵教訓：煉油股「crack spread 基本因素」被政治干預（柴油出口禁令 + 停止煉油廠攻擊）蓋過，Morning Scan「避開 energy long」比 NC「refiners ACTION」更啱。週四 Trump-Xi 峰會係下一個 swing。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-22",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "Risk-on rotation — 地緣 de-escalation 加速（油價跌穿$100、沙特管道重啟、伊朗 Hormuz 重開提議），AI 樂觀情緒推升全球股市（Nasdaq 逼近歷史新高），加密市值重返$3T。Fed「仍是鴿派」辯論 + 債息回落，等待本周就業數據。",
+      "headlines": [
+        "[NEW] ACTION: OIL — 油價跌穿$100，沙特重啟管道 + Hormuz 重開提議（de-escalation 加速）",
+        "[NEW] ACTION: BABA — 阿里 Zhenwu V900 AI 晶片 + 數據中心擴張",
+        "[NEW] WATCH: MU — Micron 跌3個月後分析師睇110%上行",
+        "[NEW] WATCH: NVO — 考慮收購擴大減重 pipeline",
+        "[NEW] WATCH: SNDK — Sandisk 年內+600%",
+        "[NEW] WATCH: VICR — Q3 營收展望上調 +9.9%",
+        "[NEW] WATCH: CRYPTO — 市值重返$3T + Binance 入股 Circle",
+        "[RECENT] WATCH: MACRO — Xi-Trump summit 本周舉行"
+      ],
+      "opportunities": [
+        "OIL: 沙特重啟東西管道 + 伊朗 Hormuz 7日重開提議 → Brent 跌穿$100/$98。de-escalation 方向明確，energy short 已擁擠，更乾淨嘅表達係 risk-on 受惠（AI/科技/消費）。反向風險：BofA 警告供應再收緊油價可上 $150。",
+        "BABA: Zhenwu V900 AI 晶片 + 數據中心擴張，股價跳升。中國 AI 自給自足主題（美國出口管制驅動國產晶片），有真實 catalyst，但中國 macro 陰影仍在。",
+        "MU: 單一分析師 110% bull case 係弱訊號，但 memory (DRAM/HBM) 係 AI 核心，等更多券商確認。",
+        "NVO: M&A 可緩解 pipeline 憂慮（2030 目標下挫後），但執行風險高。",
+        "SNDK/VICR: memory 超級週期 + AI 電源，momentum 強但 SNDK +600% 後追入風險高。",
+        "CRYPTO: risk-on + 穩定幣 adoption 利好 CRCL/COIN，但 Binance 制裁調查係 overlay risk。",
+        "MACRO: Xi-Trump summit 係本周 macro catalyst，方向偏 de-escalation（中美、伊朗），利好 risk-on。"
+      ],
+      "analysis": "今個 Asia/Europe session 嘅主線係 de-escalation 加速。沙特重啟東西管道 + 伊朗提出 Hormuz 7日重開 + 可能的 Trump-Pezeshkian 會面，令油價跌穿 $100/$98。呢個係自昨日以嚟 de-escalation trade 嘅新催化劑（油價跌穿關鍵位）。Second-order effect：risk-on 全面回歸 — AI 股回勇、Nasdaq 逼近新高、加密市值重返 $3T。同時中國 AI 主題獨立發力（BABA 晶片）。",
+      "risks": [
+        "若 Hormuz 重開談判破裂，油價會快速 snap back（BofA 睇 $150）",
+        "Binance 被美聯邦檢察官查制裁違規 — crypto overlay risk",
+        "中國 macro 陰影壓抑 BABA/Tencent 估值",
+        "房市凍結 + 高利率利淡 housing chain（HD 警告）"
+      ],
+      "my_take": "市場焦點一直放喺「伊朗戰爭溢價」，但真正嘅 trade 係 de-escalation 嘅 second-order effect — 唔係 short oil（已擁擠，油價已由戰爭高位回落），而係 risk-on 嘅 AI/科技受惠（「As oil swoons, AI recharges」）。另一個被忽略嘅點：中國 AI 自給自足（BABA 晶片、Tencent）喺美國出口管制下加速，係結構性 theme 而唔係短線 noise。反向風險：Hormuz 談判若破裂，油價 snap back 會顛覆成個 risk-on trade。",
+      "key_takeaways": [
+        "de-escalation 加速：油價跌穿$100，沙特管道 + Hormuz 重開",
+        "risk-on 回歸：AI 股回勇 + 加密市值重返$3T",
+        "中國 AI 自給自足：BABA 晶片 + 數據中心",
+        "反向風險：Hormuz 談判破裂 → 油價 snap back"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-22",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Bullish — de-escalation 加速 + Fed 鴿派 + 油價暴跌，risk-on 確認，但 Xi-Trump summit (Thu) 係 tail-risk",
+      "headlines": [
+        "油價跌穿 $100（沙特管道重啟 + Hormuz 重開）→ de-escalation 加速",
+        "INTC 大升 +12%（自訂晶片/foundry theme）",
+        "Trump 簽 Greenland/Denmark 協議 → 資源股爆升（GRML +230%, GLND +140%）",
+        "Paramount 清障，$110bn Warner Bros 合併確認（WBD +10.8%）"
+      ],
+      "focus": [
+        "OIL de-escalation → risk-on 受惠（AI/科技）",
+        "INTC +12% — 自訂晶片挑戰 NVDA 壟斷 thesis",
+        "Comm Services (+4.75%) — WBD/PARA merger",
+        "BABA — 中國 AI 自給自足結構性 theme"
+      ],
+      "analysis": "# Morning Scan — 2026-09-22\n\n## Fed Context\nFOMC 上星期（Sep 15-16）開完會，Sep 16 出 statement + Sep 17 出 SEP projections。市場共識：Fed「仍是鴿派」——降息立場維持，債息回落（10Y 由 5.01% 回落到 ~4.96%）。本周冇 FOMC，只有 Fed 官員講話（今日 Williams、Jefferson、Barkin）。下次 FOMC 約 6 星期後。核心 macro backdrop：Fed 鴿派 + 油價暴跌 + 就業數據即將到（JOLTs Sep 29、ADP weekly 今日）＝risk-on 溫床，但 10Y 仍企 5% 高位，係科技股估值嘅天花板。\n\n## 📰 今日重點頭條\n1. 油價跌穿 $100（NYT/Bloomberg）— 沙特管道重啟 + 伊朗 Hormuz 重開提議 → de-escalation 加速\n2. Trump 簽 Greenland/Denmark 協議（UN）— 稀土/資源股爆升（GRML +230%, GLND +140%）\n3. Paramount 清障，$110bn Warner Bros 合併確認（WBD +10.8%）\n4. INTC 大升 +12% — 自訂晶片 / foundry theme（Seeking Alpha: Custom Chips May Outpace GPUs By 2027）\n5. Xi-Trump summit 本周四（Sep 24）— 中美關係關鍵\n6. BofA 警告油價若供應再收緊可上 $150 — 反向風險\n7. 中國 AI 自給自足加速（BABA Zhenwu V900 晶片）\n8. 加密市值重返 $3T + Binance 入股 Circle\n\n## 1. 🌍 隔夜市場\n- US: SPY +1.55% (773.5), QQQ +2.77% (741.47), DIA +0.76% (519.78) — 科技領漲，Nasdaq 逼近歷史新高\n- VIX 14.67 (-1.34%) — 低波動，complacency\n- 油價 CL=F $90.52 (-5.49%) — 暴跌穿 $100\n- Gold $4374 (-0.21%) — 高位整固\n- 10Y Treasury ~4.96% (^TNX -0.70%) — 債息回落\n\n## 📈 昨日市場爆升／暴跌榜\n爆升榜（多數 micro/small cap，但 Greenland theme 突出）：\n- GRML +230% (Greenland Mines), GLND +140% (Greenland Energy)\n- BTTC +117%, VEEE +100%, CRMU +76%\n- 大型股：INTC +12.1%, WBD +10.8%, NVDA +2.3%\n\n暴跌榜（多數 SPAC/rights 噪音）：\n- KFIIR -42%, SMX -35%, NBRGR -35%, MBRX -33%\n- 冇大型股暴跌 — 健康\n\n活躍榜：BTTC, WBD, GRML, INTC, NVDA\n\nSector theme: 唔係單一 sector — 兩條線：① Greenland/資源（Trump deal），② AI/科技（INTC, NVDA）。Comm Services +4.75% 係 WBD/PARA merger 驅動。\n\n## 2. 📡 今日重點事件\n- 08:00am HKT UN General Assembly（Trump 演講，伊朗戰爭陰影）\n- 08:15pm HKT ADP Employment Change Weekly\n- 10:05pm HKT Fed Williams 講話\n- 10:20pm HKT Fed Jefferson 講話\n- 01:00am HKT Fed Barkin 講話\n- 04:30am HKT API Crude Oil Stock Change\n\n本周 HIGH：Thu Sep 24 Xi-Trump Summit、Fri Sep 25 Durable Goods、Tue Sep 29 JOLTs\n\n## 3. 🔥 Sector Watch\n- Momentum: Communication Services (+4.75%, merger), Technology (+1.31%), Real Estate/Utilities (defensive bid + 債息回落)\n- Risk: Basic Materials (-0.76%, 油價跌拖累), Industrials (-0.61%)\n- Rotation signal: 資金由能源/原料轉向科技/通訊 — classic de-escalation rotation\n\n## 4. 🎯 Pre-market Opportunities\n- OIL (de-escalation): 油價已跌 -5.5%，short oil 已擁擠 — 唔追 short，轉睇 risk-on 受惠（AI/科技）\n- BABA: 中國 AI 自給自足 theme — 結構性\n- INTC: +12% 值得深挖 — 自訂晶片/foundry 挑戰 NVDA 壟斷 thesis\n- WBD/PARA: 合併清障，Comm Services 催化\n- MU (WATCH): 下周三 earnings，分析師 110% 上行（弱訊號）\n\n## 📅 未來一個月業績重點\n- Wed Sep 23: CTAS ($79B, est $1.35)\n- Thu Sep 24: COST ($397B, est $6.48)\n- Wed Sep 30: MU 🎯 ($1179B, est $31.24) — HBM/memory cycle 關鍵\n- Thu Oct 1: ACN 🎯, NKE 🎯\n\n## 5. 📋 Today's Agenda\n- 今日 catalyst: UN General Assembly + 3 個 Fed 講話 + ADP\n- 本周關鍵: Xi-Trump Summit (Thu) — 決定 de-escalation trade 命脈\n- SPY 關鍵位: support 766 (day low) / 760 (50d MA), resistance 775-779 (year high)\n\n## 6. 💡 My Take\nBias: Bullish（risk-on 確認）但帶 tail-risk hedge。核心係 de-escalation second-order effect：唔係 short oil（已擁擠），而係 long AI/科技 + Comm Services。真正要睇實嘅係 Xi-Trump summit（Thu）——若 Hormuz 談判破裂，油價 snap back 會顛覆成個 risk-on trade（BofA 已警告油價可上 $150）。另外 10Y 企 5% 高位，係科技股估值天花板——若債息重上 5.0% 以上，QQQ 呢個逼近歷史新高嘅位置會好脆弱。",
+      "risks": [
+        "Xi-Trump summit (Thu) 若破裂 → 油價 snap back（BofA 警告可上 $150）",
+        "10Y 企 5% 高位 → 科技股估值天花板",
+        "ADP/就業數據若轉差 → risk-on 邏輯鬆動"
+      ],
+      "my_take": "Bullish（risk-on 確認）但帶 tail-risk。核心係 de-escalation second-order effect——唔追 short oil（已擁擠），而係 long AI/科技 + Comm Services。關鍵風險：Xi-Trump summit（Thu）若破裂，油價 snap back 顛覆成個 risk-on trade；10Y 企 5% 高位係科技股估值天花板，債息重上 5.0% 會令 QQQ 逼近歷史新高嘅位置好脆弱。"
     }
   ],
   "news_curator": [
