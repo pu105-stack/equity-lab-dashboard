@@ -3563,40 +3563,6 @@
       "my_take": "Bullish（risk-on 確認）但帶 tail-risk。核心係 de-escalation second-order effect——唔追 short oil（已擁擠），而係 long AI/科技 + Comm Services。關鍵風險：Xi-Trump summit（Thu）若破裂，油價 snap back 顛覆成個 risk-on trade；10Y 企 5% 高位係科技股估值天花板，債息重上 5.0% 會令 QQQ 逼近歷史新高嘅位置好脆弱。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-23",
-      "time": "08:07 HKT",
-      "status": "success",
-      "market_direction": "Nasdaq 100 創新高（AI Fomo 回歸），S&P 500 平收；油價連跌5日穿$100，柴油反創新高$6.53",
-      "headlines": [
-        "[RECENT] ACTION: LEN — Berkshire 建倉近10%",
-        "[RECENT] WATCH: META — Muse 爆紅單日+$200B",
-        "[RECENT] WATCH: 煉油股 — 柴油$6.53創新高+出口禁令",
-        "[RECENT] WATCH: CRYPTO — CLARITY失敗+監管急寫新規",
-        "[RECENT] WATCH: CSCO -5% 降評",
-        "[RECENT] WATCH: INTC +25%/5日",
-        "[RECENT] WATCH: RCL -6% Sandals交易"
-      ],
-      "opportunities": [
-        "LEN: Berkshire 近10%建倉，Buffett系罕有入手受挫房屋建築商，價值訊號強",
-        "META: Muse AI購物助手爆紅，單日增$200B市值，AI commerce起飛",
-        "PSX/MPC/VLO: 柴油創新高$6.53（Hormuz衝擊+煉油緊縮），但Trump撐出口禁令成政策風險"
-      ],
-      "analysis": "美國session：AI Fomo 回歸推 Nasdaq 100 創新高，但 S&P 平收顯示廣度有限。能源端出現分化——原油連跌5日穿$100（de-escalation），但柴油/航空燃油反創新高（Hormuz 產品流衝擊+煉油產能緊縮）。兩大單一催化劑：Berkshire 建倉 Lennar（價值訊號）、Meta Muse 爆紅（AI commerce）。",
-      "risks": [
-        "Trump UNGA 威脅殲滅伊朗——rhetoric升溫但談判同步進行，若破裂油價重新定價",
-        "柴油出口禁令若落實，煉油股出口收入受壓",
-        "Fed 加息後，市場開始對沖更淺的加息週期（政策不確定）"
-      ],
-      "my_take": "市場正處於「AI momentum + 能源分化」格局。最乾淨的訊號係 Berkshire 建倉 Lennar——smart money 喺房市最悲觀時反向買入受挫房屋建築商，值得追蹤。Meta Muse 爆紅係 AI 由基建轉向 consumer/commerce 應用的分水嶺，但股價已反映大半。能源端要分開睇：原油 de-escalation 利空上游，但柴油 crack spread 破紀錄利潤煉油股——呢個 spread 先係真正嘅投資機會，惟出口禁令係懸在頭上嘅政策風險。",
-      "key_takeaways": [
-        "Berkshire 近10%建倉 LEN——價值訊號",
-        "Meta Muse 單日+$200B，AI commerce 起飛",
-        "原油穿$100 vs 柴油$6.53創新高——能源分化",
-        "CLARITY Act 失敗，監管急寫 crypto 新規"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-23",
       "time": "08:34 HKT",
@@ -3624,6 +3590,67 @@
         "Fed Barr 演講（10:05pm HKT）— 若 reinforce 二次加息鷹派，短線債息上行壓力"
       ],
       "my_take": "Risk-on 週二延續但明顯收窄：資金繼續買半導體（SMH +1.9%）同原物料（XLB +1.65%），但能源、金融、通訊集體失血，證明 de-escalation + AI momentum 以外冇闊度。今日最乾淨嘅新訊號係 Berkshire 建倉 LEN——smart money 喺房市悲觀時反向出手，呢個比追 META 嘅 AI 泡沫更值得跟。明日全場焦點只有一個：Trump-Xi 峰會，成個 de-escalation trade 係賺係蝕都睇佢，峰會前唔好重倉單邊。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-23",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "AI FOMO 回歸 Nasdaq 創新高，但房貸利率升破 7% + 伊朗 de-escalation 夾擊",
+      "headlines": [
+        "[RECENT] 🎯 OIL 油輪航運 — 運費創紀錄 $1.2M/日 vs Brent <$100",
+        "[RECENT] 🎯 MU/SNDK — 記憶體供不應求 gap 擴闊，MU 重返 $1,000",
+        "[RECENT] ⚠️ AVGO — 中國審查 Broadcom 數據中心依賴",
+        "[NEW] ⚠️ MACRO — 房貸利率升破 7%（兩年高位）",
+        "[NEW] ⚠️ CRYPTO — Bitcoin 跌穿 $86K，資金轉向 ZEC",
+        "[RECENT] ⚠️ MACRO — Trump-Xi 峰會明日（9/24）"
+      ],
+      "opportunities": [
+        "FRO/STNG/INSW/DHT/TNK: 油輪運費創紀錄，實體航運 disruption 未解",
+        "MU/SNDK: 記憶體供不應求 gap 擴闊，NAND 成 AI 關鍵基建"
+      ],
+      "analysis": "油價跌（de-escalation 預期）但 tanker 運費創紀錄（實體 disruption）——市場 focus 頭條，忽略實體航運瓶頸。利率主題（房貸 >7%、金融股跌、Collins 鷹派）係今日真正 macro undercurrent。",
+      "risks": [
+        "AVGO: 中國審查 Broadcom 依賴（地緣結構性風險）",
+        "房貸利率 >7% 壓縮房市 affordability",
+        "Warsh Fed 鷹派加息路徑壓縮 risk appetite"
+      ],
+      "my_take": "最有趣背離：油價跌但運費創紀錄。市場 focus 頭條 de-escalation，忽略實體航運瓶頸。呢個 gap 遲早收斂——tanker stocks 係低調受惠者。Trump-Xi 峰會預期偏低，反而係 good setup：低預期下任何正面驚喜都係 upside catalyst。",
+      "key_takeaways": [
+        "油輪運費 $1.2M/日創紀錄，但油價跌 = 實體 vs 價格背離",
+        "房貸利率升破 7%（兩年高位），金融股受壓",
+        "記憶體供不應求 gap 擴闊，MU 重返 $1,000",
+        "AVGO 遭中國審查數據中心依賴（地緣風險）",
+        "Trump-Xi 峰會明日，預期偏低 = upside 空間"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-23",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-cautiously-bullish — AI 動能 vs breadth 收窄 + 息口壓力",
+      "headlines": [
+        "AI FOMO 回歸 Nasdaq 創新高，但 S&P breadth 收窄",
+        "10Y 債息 ~5%、房貸破 7%，金融股領跌 -1.67%",
+        "美伊首度會談，市場消化 de-escalation",
+        "記憶體 supercycle：MU 重返 $1,000",
+        "Trump-Xi 峰會明日（9/24），低預期 setup"
+      ],
+      "focus": [
+        "油輪 FRO/STNG/INSW/DHT/TNK — 運費創紀錄 vs 油價背離",
+        "MU/SNDK — 記憶體 supercycle，9/30 earnings",
+        "AVGO — 中國數據中心審查地緣風險",
+        "Trump-Xi 峰會 — 低門檻 catalyst"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-09-23 (週三)\n\n📰 今日重點頭條\n1. AI FOMO 回歸 — Nasdaq (QQQ +0.81%) 再創新高，但 S&P 500 有 breadth 問題（指數靠 AI 大股撐住，廣度收窄）。\n2. 金融股領跌 — 10Y 債息企穩 ~5%，30Y 房貸利率破 7%（兩年高位），Financial Services sector -1.67%，10% 借款人轉投風險較高房貸。\n3. 美伊首度會談（6 月以來首次），Trump 仍威脅「殲滅」，市場繼續消化 de-escalation。\n4. 全球天然氣市場因伊朗戰爭持續緊張（IGU 高層表態），伊朗航班受新限制（squeezed at sea）。\n5. Trump 支持柴油出口禁令，白宮考慮中，油價跌但成品油緊張。\n6. 記憶體供不應求 gap 擴闊 — MU 重返 $1,000，NAND 成 AI 關鍵基建（News Curator）。\n7. Bitcoin 跌穿 $86K，資金輪動 BCH / ZEC（隱私幣 momentum）。\n8. Trump-Xi 峰會明日（9/24），稀土籌碼 + 預期偏低。\n9. 中國審查數據中心對 Broadcom 依賴（AVGO）— 地緣結構性風險。\n10. 液冷技術推動工業股 +16%（AI 基建外溢至工業設備）。\n\n🌍 隔夜市場\n- SPY $773.38 (-0.02%) 平收、QQQ $747.46 (+0.81%) 創新高、DIA $518.00 (-0.34%)、IWM $287.21 (+0.57%)。\n- 10Y 債息 ~4.96%（偏高水平），VIX 14.87（低波、complacent）。\n- 科技領漲 +1.80%，金融股領跌 -1.67%，資金集中 AI 成長，價值/金融遭棄。\n- 油價偏弱（de-escalation 預期），但天然氣緊張 + 柴油禁令 = 成品油與原油背離。\n\n📈 昨日爆升／暴跌榜\n- 爆升：JAGX +1190%（異常 microcap）、ZEO +57%、RAIN +54%、GRML +50%、KFIIR +73%。\n- 暴跌：SOS -54.6%、CMPX -31.9%、TGL -29.4%、HUBC -29.3%、BTTC -28.8%。\n- 活躍：ZEO、FAMI、GRAB (+8.9%)、CTNT、QNME。\n- 解讀：大部份係 penny stock / microcap 單日異動，唔係機構資金，噪音為主。唯一值得留意係 GRAB (+8.9%) 有實質資金。\n\n📡 今日重點事件（source: macro_calendar.json）\n- 09:45PM HKT — S&P Global Composite PMI Flash（prev 56）/ Services（prev 56.5, fcast 56）/ Manufacturing（prev 53.9, fcast 53.6）🟡\n- 10:05PM HKT — Fed Barr 講話 🟡\n- 10:30PM HKT — EIA 原油庫存（prev -0.64, fcast -0.7）🟡\n- 本週 HIGH：Trump-Xi 峰會（9/24）、Durable Goods（9/25）、JOLTs（9/29）、GDP QoQ Final + Core PCE（9/30）。\n\n🔥 Sector Watch\n- 強勢：Technology +1.80%（AI momentum）、Basic Materials +1.57%（稀土/鈾 UUUU 主導）、Industrials +0.84%。\n- 弱勢：Financial Services -1.67%（息口壓頂）、Communication Services -0.61%、Energy -0.47%。\n- Rotation 訊號：資金由金融/價值 → 科技成長；但 breadth 收窄係結構警號，指數新高靠少數大股。\n\n🎯 Pre-market Opportunities（consolidated from News Curator）\n- ACTION 油輪 FRO/STNG/INSW/DHT/TNK：運費創紀錄 $1.2M/日，但 Brent <$100 —— 實體航運 disruption 未解，價格與實體背離，gap 遲早收斂。今日留意 VLCC 運費指數有冇再衝高。\n- ACTION MU / SNDK：記憶體 supercycle，MU 重返 $1,000，NAND 係 AI 關鍵基建；9/30 earnings（🎯）係下一個 catalyst，搶跑 risk 高但 trend 強。\n- WATCH AVGO：中國審查數據中心對 Broadcom 依賴，地緣結構性風險，回調即係機會但要控制倉位。\n- WATCH 稀土/鈾 UUUU：Trump-Xi 稀土籌碼 + uranium strength，基本金屬 +1.57% 係印證。\n- WATCH Trump-Xi 峰會（9/24）：預期偏低 = low bar catalyst，任何正面驚喜都係 upside，尤其關稅/稀土/半導體出口管制相關。\n\n📅 未來一個月業績重點\n- 本週：CTAS（9/23）、COST（9/24, $398B）、MU（9/30 🎯 $1.24T, est EPS $31.24）。\n- 下週：ACN（10/1 🎯）、NKE（10/1 🎯）。\n- 月中重磅：TSM（10/15, $2.34T）、ASML（10/14, $674B）、INTC（10/22 🎯, $655B）、NFLX（10/20, $305B）。\n- 銀行週 10/13-14：JPM、GS、C、BLK、BAC、MS、WFC —— 房貸利率破 7% 下，NII 指引係關鍵，將主導金融股方向。\n\n📋 Today's Agenda\n- 今日：PMI Flash（9:45PM）+ Barr 講話（10:05PM）。\n- 明日：Trump-Xi 峰會 —— 本週最重要 catalyst。\n- 週五：Durable Goods Orders。\n- 下週：JOLTs（9/29）、GDP + Core PCE（9/30）。\n- Key levels：SPY 支撐 $760（50MA）、阻力 $779（year high）；QQQ 已突破 year high $748，站穩則 AI 動能持續。\n\n💡 My Take\nNeutral-to-cautiously-bullish。AI momentum 係真（QQQ 新高 + tech +1.80%），但兩個結構性警號唔可以忽略：breadth 收窄 + 10Y 債息企穩 ~5% 令金融股領跌。市場內部開始分裂，指數新高靠少數 AI 大股。最有趣嘅機會係 tanker 背離（運費創紀錄但油價跌），呢個 gap 遲早收斂。Trump-Xi 峰會低預期 = 低門檻 catalyst。今日 PMI Flash 若 manufacturing 跌向 50 或 services 明顯走弱，會放大金融股壓力、觸發避險輪動。",
+      "risks": [
+        "Breadth 收窄 + 10Y ~5%，金融股壓力或擴散",
+        "Trump-Xi 峰會若破裂（稀土/關稅），科技股回吐",
+        "PMI Flash 若 manufacturing 走弱，觸發避險輪動",
+        "伊朗 de-escalation 若逆轉，油價/天然氣再衝高"
+      ],
+      "my_take": "AI momentum 真但 breadth 收窄 + 10Y ~5% 係警號。最有趣係 tanker 運費創紀錄 vs 油價跌嘅背離。Trump-Xi 峰會低預期 = low bar catalyst。今日 PMI Flash 係 short-term trigger。"
     }
   ],
   "news_curator": [
