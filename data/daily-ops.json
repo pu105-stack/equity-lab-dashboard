@@ -3561,6 +3561,69 @@
         "ADP/就業數據若轉差 → risk-on 邏輯鬆動"
       ],
       "my_take": "Bullish（risk-on 確認）但帶 tail-risk。核心係 de-escalation second-order effect——唔追 short oil（已擁擠），而係 long AI/科技 + Comm Services。關鍵風險：Xi-Trump summit（Thu）若破裂，油價 snap back 顛覆成個 risk-on trade；10Y 企 5% 高位係科技股估值天花板，債息重上 5.0% 會令 QQQ 逼近歷史新高嘅位置好脆弱。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-23",
+      "time": "08:07 HKT",
+      "status": "success",
+      "market_direction": "Nasdaq 100 創新高（AI Fomo 回歸），S&P 500 平收；油價連跌5日穿$100，柴油反創新高$6.53",
+      "headlines": [
+        "[RECENT] ACTION: LEN — Berkshire 建倉近10%",
+        "[RECENT] WATCH: META — Muse 爆紅單日+$200B",
+        "[RECENT] WATCH: 煉油股 — 柴油$6.53創新高+出口禁令",
+        "[RECENT] WATCH: CRYPTO — CLARITY失敗+監管急寫新規",
+        "[RECENT] WATCH: CSCO -5% 降評",
+        "[RECENT] WATCH: INTC +25%/5日",
+        "[RECENT] WATCH: RCL -6% Sandals交易"
+      ],
+      "opportunities": [
+        "LEN: Berkshire 近10%建倉，Buffett系罕有入手受挫房屋建築商，價值訊號強",
+        "META: Muse AI購物助手爆紅，單日增$200B市值，AI commerce起飛",
+        "PSX/MPC/VLO: 柴油創新高$6.53（Hormuz衝擊+煉油緊縮），但Trump撐出口禁令成政策風險"
+      ],
+      "analysis": "美國session：AI Fomo 回歸推 Nasdaq 100 創新高，但 S&P 平收顯示廣度有限。能源端出現分化——原油連跌5日穿$100（de-escalation），但柴油/航空燃油反創新高（Hormuz 產品流衝擊+煉油產能緊縮）。兩大單一催化劑：Berkshire 建倉 Lennar（價值訊號）、Meta Muse 爆紅（AI commerce）。",
+      "risks": [
+        "Trump UNGA 威脅殲滅伊朗——rhetoric升溫但談判同步進行，若破裂油價重新定價",
+        "柴油出口禁令若落實，煉油股出口收入受壓",
+        "Fed 加息後，市場開始對沖更淺的加息週期（政策不確定）"
+      ],
+      "my_take": "市場正處於「AI momentum + 能源分化」格局。最乾淨的訊號係 Berkshire 建倉 Lennar——smart money 喺房市最悲觀時反向買入受挫房屋建築商，值得追蹤。Meta Muse 爆紅係 AI 由基建轉向 consumer/commerce 應用的分水嶺，但股價已反映大半。能源端要分開睇：原油 de-escalation 利空上游，但柴油 crack spread 破紀錄利潤煉油股——呢個 spread 先係真正嘅投資機會，惟出口禁令係懸在頭上嘅政策風險。",
+      "key_takeaways": [
+        "Berkshire 近10%建倉 LEN——價值訊號",
+        "Meta Muse 單日+$200B，AI commerce 起飛",
+        "原油穿$100 vs 柴油$6.53創新高——能源分化",
+        "CLARITY Act 失敗，監管急寫 crypto 新規"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-23",
+      "time": "08:34 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 持續但分化 — 半導體/原物料創新高，能源/金融/通訊失血；Trump-Xi 峰會前窄幅偏強",
+      "headlines": [
+        "Trump 表態支持柴油出口禁令（燃料價破紀錄）— 煉油股 VLO/MPC/PSX 當日重挫",
+        "Berkshire 披露建倉 LEN 近 10% — 價值訊號，LEN +6.4%",
+        "Trump 於 UN 對伊朗再撂「殲滅」狠話 — 地緣溢價未完全退場",
+        "颶風 Polo 升級 Cat 5 直撲南加州 — 保險/能源供應潛在擾動",
+        "INTC 5 日累升 +27% — foundry/自訂晶片 momentum 未熄",
+        "CSCO -4.5%（降評）、RCL -6.1%（Sandals 交易不受落）"
+      ],
+      "opportunities": [
+        "LEN: Berkshire 罕有反向買入受挫房屋建築商，smart money 價值訊號，+6.4% 後仍可跟蹤基本面確認",
+        "INTC: foundry/自訂晶片 theme 5 日 +27%，momentum 強但已遠離均線，追價需注意回吐",
+        "煉油股 VLO/MPC/PSX: 柴油 crack spread 破紀錄 vs 出口禁令恐慌，若禁令落空係 dip-buy 機會",
+        "XLB/原物料: Greenland/Denmark 資源 theme（XLB +1.65%）延續，de-escalation 以外嘅隱藏贏家"
+      ],
+      "analysis": "📊 美股收市回顧 — 2026-09-23（檢討 9/22 美股時段）\n\n【今日重點頭條】\n• Trump 表態支持柴油出口禁令（investing_com）— 燃料價破紀錄下嘅政策震撼彈，直接打殘煉油股\n• Berkshire 披露建倉 LEN 近 10% — 罕有反向買入受挫房屋建築商，smart money 價值訊號\n• Trump 於 UN 對伊朗再撂「殲滅」狠話（cbs_news）— 地緣溢價未完全退場，油價反彈嘅火種仍在\n• 颶風 Polo 升級 Cat 5 直撲南加州（cbs_news）— 能源供應/保險潛在擾動\n• 北韓/歐洲車廠危機等 secondary headlines — 對美股無直接定價\n\n【Market Recap】\n指數收窄分化：SPY 773.38（-0.02%，平收）、QQQ 747.46（+0.81%，創新高）、DOW 518（-0.34%）、IWM 287.21（+0.57%）。VIX 落到 14.21（5 日 -17%），risk-on 但 calm 到近乎麻木。\n10Y 債息企 4.96%，貼住 5% 天花板——科技股估值嘅隱形屋頂。\n\nSector 明顯分化：\n- 贏家：SMH +1.92%（半導體）、XLB +1.65%（原物料，Greenland/Denmark 資源 theme）、XLP +0.99%、XLK +0.73%\n- 輸家：XLF -1.97%（金融）、XLE -1.09%（能源）、XLC -1.06%（通訊，META 回吐拖累）\n\n油價崩：WTI $89.94（由 $102 一周瀉 12%），de-escalation 嘅主旋律。但柴油 crack spread 破紀錄（$6.53），煉油股反而因出口禁令恐慌大跌——能源端內部嚴重分化。\n\n【Notable Movers】\n• LEN +6.38% — Berkshire 建倉近 10%，今日唯一 clean 嘅價值 catalyst\n• INTC +1.71%（5 日 +27%）— foundry/自訂晶片 momentum 未熄，但已遠離均線\n• RCL -6.14% — Sandals 交易市場唔 buy，旅遊/郵輪短期壓力\n• CSCO -4.50% — 降評，通訊設備繼續弱\n• VLO -4.10% / MPC -3.16% / PSX -1.90% — 柴油破紀錄但出口禁令恐慌主導，煉油股遭雙殺\n• META -0.63% — 週一 Muse 爆紅 +11% 後回吐，證明 AI commerce 故事股價已反映大半\n\n【News That Mattered / NC 檢討】\nNC 嘅 calls 大部分命中：LEN（✓ +6.4%）、CSCO（✓ -4.5%）、RCL（✓ -6.1%）、INTC（✓ +1.7%）、煉油股（✓ 全線大跌）。\n但有一個 miss：NC 標 META「Muse 爆紅 +$200B」其實係週一嘅 move，週二 META 已經回吐 -0.63%——AI consumer 應用以經係 momentum 尾聲，唔係起爆點。\nNC 亦漏咗兩個重要訊號：金融股 XLF -1.97% 全場最弱（債息 5% 壓力），同原物料 XLB +1.65%（Greenland/Denmark 資源 theme 延續）——呢個係 de-escalation 以外嘅隱藏贏家。\n\n【Opportunities Carry Forward】\n1. LEN — Berkshire 價值訊號最乾淨，+6.4% 後唔追，但值得放上 watchlist 睇基本面確認（房市數據、管理層回應）\n2. 煉油股 VLO/MPC/PSX — crack spread 破紀錄係真盈利，出口禁令若落空/推遲係 dip-buy 機會；但禁令係政策風險，等消息明朗\n3. XLB/原物料 — Greenland/Denmark 資源 theme 有第二波潛力，唔只係油價故事\n4. INTC — momentum 強但 +27% 已透支，追價風險高，等回調再評估\n\n【Risks / Watchlist 今晚】\n• Trump-Xi 峰會（9/24 08:00 HKT）— 全週 risk-on 嘅 hinge。破裂 → 油價 snap back（BofA 警告 $150），成個 de-escalation trade 反轉\n• S&P Global Flash PMI（今夜 9:45pm HKT）— mfg 53.6 vs 53.9、svc 56 vs 56.5，預期雙降，若比預期更弱即考驗 risk-on 邏輯\n• Fed Barr 演講（10:05pm HKT）— 若 reinforce 二次加息，短線債息上行\n• EIA 原油庫存（10:30pm HKT）— 油價 $90 位置敏感\n• 10Y 4.96% 逼近 5% — QQQ 歷史新高位置好脆弱\n\n【My Take】\nRisk-on 週二延續但明顯收窄：資金繼續買半導體（SMH +1.9%）同原物料（XLB +1.65%），但能源、金融、通訊集體失血，證明 de-escalation + AI momentum 以外冇闊度。今日最乾淨嘅新訊號係 Berkshire 建倉 LEN——smart money 喺房市悲觀時反向出手，呢個比追 META 嘅 AI 泡沫更值得跟。明日全場焦點只有一個：Trump-Xi 峰會，成個 de-escalation trade 係賺係蝕都睇佢，峰會前唔好重倉單邊。",
+      "risks": [
+        "Trump-Xi 峰會（9/24 08:00 HKT）— 全週 risk-on 核心 hinge，破裂 → 油價 snap back（BofA 警告可上 $150）",
+        "今夜 S&P Global Flash PMI（9:45pm HKT）— mfg 53.6 vs 53.9、svc 56 vs 56.5 預期雙降，轉弱即考驗 risk-on 邏輯",
+        "10Y 企 4.96% 逼近 5% 天花板 — 科技股估值受限，QQQ 歷史新高位置脆弱",
+        "Fed Barr 演講（10:05pm HKT）— 若 reinforce 二次加息鷹派，短線債息上行壓力"
+      ],
+      "my_take": "Risk-on 週二延續但明顯收窄：資金繼續買半導體（SMH +1.9%）同原物料（XLB +1.65%），但能源、金融、通訊集體失血，證明 de-escalation + AI momentum 以外冇闊度。今日最乾淨嘅新訊號係 Berkshire 建倉 LEN——smart money 喺房市悲觀時反向出手，呢個比追 META 嘅 AI 泡沫更值得跟。明日全場焦點只有一個：Trump-Xi 峰會，成個 de-escalation trade 係賺係蝕都睇佢，峰會前唔好重倉單邊。"
     }
   ],
   "news_curator": [
