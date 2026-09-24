@@ -3653,41 +3653,6 @@
       "my_take": "AI momentum 真但 breadth 收窄 + 10Y ~5% 係警號。最有趣係 tanker 運費創紀錄 vs 油價跌嘅背離。Trump-Xi 峰會低預期 = low bar catalyst。今日 PMI Flash 係 short-term trigger。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-24",
-      "time": "08:06 HKT",
-      "status": "success",
-      "market_direction": "Nasdaq 創新高後回落，美債息急升至兩年高位主導 risk-off；資金由大型科技輪動至網絡安全/企業軟件",
-      "headlines": [
-        "[RECENT] ⚠️ MACRO: 美債息急升至兩年高位 — 市場預期 Warsh 再加息",
-        "[RECENT] 🎯 META: Meta Connect 揭幕 — Muse 升級 + camera-free glasses，顛覆擴散至 travel/grocery",
-        "[RECENT] 🎯 OIL: 白宮否決柴油出口禁令 — 煉油裂解價差維持高位",
-        "[RECENT] ⚠️ AAPL: OpenAI 指 Apple ChatGPT 工具表現遠遜預期",
-        "[RECENT] 📌 市場: Michael Burry 加碼做空 Nasdaq-100（歷史新高）",
-        "[RECENT] 🎯 PLTR: 網絡安全 rally，大型科技回落（板塊輪動）",
-        "[RECENT] ⚠️ CRYPTO: Bitcoin Cash +30%（CME 期貨）",
-        "[RECENT] 📌 MU/SNDK: 記憶體供不應求續報"
-      ],
-      "opportunities": [
-        "META: Meta Connect 2026 — Muse 顛覆成 market-wide theme，META 贏家、travel booking casualty",
-        "PSX/MPC/VLO: 柴油出口禁令否決，煉油裂解價差維持",
-        "PLTR/CRWD/PANW/OKTA: 網絡安全板塊輪動"
-      ],
-      "analysis": "本 session 核心 macro theme 係美債息急升，市場由 AI Fomo 轉向 Warsh 再加息 risk-off。Nasdaq 新高後大型科技回落，資金輪動至網絡安全/企業軟件，rate-sensitive 受壓。Meta Connect 揭幕，Muse 由單一爆紅 app 升級做 market-wide disruption theme。",
-      "risks": [
-        "美債息急升 — rate-sensitive（房產、成長股）持續受壓",
-        "Burry 做空 chips + Nasdaq 新高，AI 估值 tolerance 可能到頂",
-        "Trump-Xi 峰會結果不確定 — 影響 NVDA/semi"
-      ],
-      "my_take": "Dual narrative：債息主導 macro risk-off，Muse 主導 micro disruption。Contrarian：Burry 做空 chips + Nasdaq 新高 + 債息急升共振，AI 估值可能到頂。",
-      "key_takeaways": [
-        "美債息急升至兩年高位係主導 macro 風險",
-        "Meta Muse 顛覆擴散至 travel/grocery/e-commerce",
-        "柴油出口禁令否決，煉油股風險消除",
-        "資金輪動至網絡安全/企業軟件"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-24",
       "time": "08:33 HKT",
@@ -3715,6 +3680,67 @@
         "Burry 做空 chips + Nasdaq 新高 + 債息急升三訊號共振 — AI 估值 tolerance 可能已到頂"
       ],
       "my_take": "今日係典型「rate-driven risk-off on AI-FOMO 頂」。Nasdaq 觸新高即回落 -0.69%，主兇係債息急升兩年高位——正正係琴日 Morning Scan 嘅警號兌現。Micro 故事係 Muse 顛覆（EXPE/ABNB -7.6~-7.7%），但 macro 先係主角。資金由 mega-cap AI（GOOGL -3.8%、NVDA -1.5%）輪出，淨係流入網絡安全（CRWD/PANW/OKTA +5%）。明日中性偏謹慎——jobless claims + durable goods + Fed 演講決定債息係繼續衝定企穩，喺有方向前唔好重倉單邊。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-24",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "債息急升(30yr 2004年新高)+油價反彈回$105+Trump-Xi峰會展開，risk-off主導",
+      "headlines": [
+        "[RECENT] ACTION: OIL — 油價反彈回$105，伊朗Hormuz談判膠著+柴油出口禁令風險(PSX/MPC/VLO)",
+        "[NEW] ACTION: GOOGL — Gemini 4即將就緒，AI競賽追趕catalyst",
+        "[RECENT] WATCH: MACRO — 30yr國債息2004年新高，stagflationary",
+        "[RECENT] WATCH: MGM — Diller撤回$18B收購，deal-premium消退",
+        "[RECENT] WATCH: CRYPTO — BTC跌穿$83K但ETF逆勢吸金$347M",
+        "[RECENT] WATCH: META — JPMorgan稱Muse係ChatGPT以來最強AI應用",
+        "[NEW] NOTE: DEFENSE — 丹麥警告俄羅斯數月內或攻擊NATO",
+        "[RECENT] NOTE: MACRO — Trump-Xi峰會2個月停火延長+首次AI對話",
+        "[NEW] NOTE: TECH — Cyber初創Island估值$6.4B，AI攻擊推升支出"
+      ],
+      "opportunities": [
+        "OIL: 油價反彈回$105，伊朗Hormuz談判膠著+柴油禁令風險，refiner(PSX/MPC/VLO)裂解價差維持高位",
+        "GOOGL: Gemini 4即將就緒，DeepMind新主管確認，AI競賽追趕catalyst",
+        "META: JPMorgan「ChatGPT以來最強AI應用」講法，若成真要重估估值"
+      ],
+      "analysis": "債息急升(30yr 2004年新高)與油價反彈($105)構成stagflationary risk-off，壓制growth/科技估值；但Trump-Xi峰會trade truce延長+首次AI對話係de-escalation利好。最大framing反轉係oil — 上一輪de-escalation跌穿$100，依家伊朗談判膠著推返$105。",
+      "risks": [
+        "30yr國債息2004年新高，市場定價2027年前加息4次",
+        "油價反彈至$105，stagflationary壓力",
+        "伊朗Hormuz談判膠著，地緣風險回升",
+        "丹麥警告俄羅斯數月內或攻擊NATO成員國"
+      ],
+      "my_take": "今日係債息主導嘅risk-off，但Trump-Xi峰會係潛在risk-on反轉catalyst。值得留意oil逆轉(由de-escalation跌穿$100到依家$105) — 呢個係近期framing最大反轉。",
+      "key_takeaways": [
+        "30yr國債息升至2004年新高，Williams鷹派，市場定價再加息",
+        "油價反彈回$105，伊朗Hormuz談判膠著",
+        "Trump-Xi峰會展開，2個月貿易停火延長+首次AI對話",
+        "Bitcoin跌穿$83K但ETF逆勢吸金$347M(價格/資金背離)"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-24",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bearish-leaning（stagflationary：債息 + 油價主導）",
+      "headlines": [
+        "債息急升：30yr 2004 新高、10Y 5.11%，Williams 稱年底前再加息合理",
+        "油價反彈回 Brent $105，伊朗 Hormuz 談判膠著 + 柴油出口禁令風險",
+        "Trump-Xi 峰會展開——de-escalation catalyst"
+      ],
+      "focus": [
+        "Energy refiners (PSX/MPC/VLO) — 裂解價差高位",
+        "GOOGL — Gemini 4 + DeepMind 新主管，AI 追趕 catalyst",
+        "Trump-Xi 峰會 joint statement — 潛在 risk-on 反轉 catalyst"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-09-24（週四）\n\n## Fed Context — 鴿派 read 反轉，債息重燃 stagflation 壓力\nFOMC 9/15-16 加息 25bp 至 3.75–4.00%（12-0 全票）已於上週完整覆蓋，今日重點唔係 FOMC 本身，而係市場對「鴿派 read」嘅反轉：\n- 9/22 仲係「Fed 鴿派、10Y 由 5.01% 回落至 4.96%」，隔夜債息重新急升——10Y 抽上 5.11%（+3%），30Y 觸 2004 年新高。\n- Williams 明確講「年底前再加息合理」，直接推翻「加息已到尾聲」嘅鴿派 narrative。今日 Barkin、Hammack、Paulson 密集講話，若接力鷹派會火上加油。\n- 核心 macro backdrop 由「de-escalation + Fed 鴿派」轉向「stagflationary」：油價反彈（Brent $105）+ 債息急升 = 典型停滯性通脹組合，壓 growth multiple。\n- 下次 FOMC 約 6 星期後，冇 dot plot。\n\n## 📰 今日重點頭條（Raw Headlines）\n1. 債息急升：30yr 觸 2004 年新高、10Y 5.11%；Guardian 指英國「加息 increasingly likely」，高能源價推升全球通脹預期 → 全球債市賣壓。\n2. Trump-Xi 峰會展開（🔴 HIGH）——de-escalation catalyst；Washington Post 民調指美國人對華觀感回暖。\n3. 油價反彈回 Brent $105：伊朗 Hormuz 談判膠著 + 柴油出口禁令風險重燃。\n4. Williams 鷹派：年底前再加息合理。\n5. Hurricane Polo 成 Category 5（off Mexico）——能源供應風險監察。\n\n## 🌍 隔夜市場（9/23 收市）\n- 美股 risk-off：S&P 7706（-0.76%）、Nasdaq 26936（-0.69%）、Dow 51512（-1.03%，最弱）。\n- VIX 16.0（+5.3%）——仍算低、市場未恐慌，但開始升。\n- 債息：10Y 5.11%（+3%）、30Y 2004 新高。\n- 油：Brent $105（+1.9%）、WTI $93.7——Brent-WTI spread 擴至 $11+，地緣溢價集中喺全球基準 Brent。\n- 貴金屬：金 $4304（-0.3%）、銀 $64——高位橫行。\n- 美元：DXY 101.3（持平）。\n\n## 📈 昨日市場爆升／暴跌榜（FMP，上日收市數據）\n- 📈 Top Gainers：BENF +439%、WHLR +191%、VSA +84%（VisionSys AI）——多數係 sub-$5 micro-cap／penny，流動性差，唔值得跟。\n- 📉 Top Losers：JAGX -74%（Jaguar Health）、ADGM -53%、HVII -51%——micro-cap 崩塌，無系統性 signal。\n- 📊 Most Active 先係重點：NVDA -1.47%（$225，$5.46T）、INTC -1.02%、IONQ +4.42%（量子）、BITO（BTC ETF）-2%、HYG（高息債）-0.72%、WBD。\n- Sector theme：半導體走弱（NVDA/INTC 跌 + 反向 ETF SOXS +3.8%）+ credit 轉弱（HYG 跌）= 典型 risk-off 結構。BTC ETF 跌，但 News Curator 指現貨 ETF 逆勢吸金 $347M——價格／資金背離。\n\n## 📡 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n- 🔴 Trump-Xi 峰會（HIGH）——今日最關鍵 catalyst。\n- 🟡 Initial Jobless Claims 8:30PM HKT（prev=196，fcast=201）。\n- 🟡 New Home Sales 10:00PM HKT（prev=0.607M，fcast=0.62M）。\n- 🟡 Fed 講話：Williams 4:10PM（已鷹派）、Barkin 8:00PM、Hammack 8:50PM、Paulson 10:10PM。\n- 本週 upcoming HIGH：週五 Durable Goods Orders；下週二 JOLTs；下週三 GDP Final + Core PCE + Personal Spending/Income；下週四 ISM Manufacturing PMI。\n\n## 🔥 Sector Watch\n- Momentum：Energy（refiners PSX/MPC/VLO，裂解價差高企）、貴金屬（避險 + 通脹對沖）。\n- Risk：Financials／credit（債息急升壓估值、HYG 走弱）、高估值 growth（stagflation 壓 multiple）。\n- Rotation signal：由「de-escalation risk-on」轉向「stagflation risk-off」，資金流向 energy／貴金屬避險；AI 大股仍係唯一 quality 避風港，但 breadth 持續收窄。\n\n## 🎯 Pre-market Opportunities（News Curator Consolidate）\n- OIL refiners（PSX/MPC/VLO）— ACTION：油價反彈 + 柴油出口禁令風險 → 裂解價差高位。今日 Hormuz 談判若再傳壞消息，refiner 有 follow-through。\n- GOOGL — ACTION：Gemini 4 就緒 + DeepMind 新主管確認，AI 追趕 catalyst；但 stagflation 環境下高 multiple 受壓，宜等回調。\n- MGM — WATCH：Diller 撤回 $18B 收購，deal-premium 消退而非基本面惡化，回調後或現價值機會，但短期動能轉弱。\n- BTC — WATCH：跌穿 $83K 但 ETF 逆勢吸金 $347M，價格／資金背離；若峰會 de-escalation 成真，有反彈空間。\n- META — WATCH：JPMorgan「ChatGPT 以來最強 AI 應用」講法，若成真要重估。\n\n## 📅 未來一個月業績重點\n- 今日 COST（AMC，$399B）：消費股指標，通脹環境下 member growth + 毛利率係重點。\n- 9/30 MU（AMC，🎯 $1238B）：記憶體週期 + AI HBM 需求，係 semis 重要 catalyst。\n- 10/1 ACN（BMO，🎯）：AI consulting demand 指標。\n- 10/1 NKE（AMC，🎯）：消費疲軟 signal。\n- 10/8 PEP（BMO）：定價能力 vs 銷量。\n\n## 📋 Today's Agenda\n- 今日 catalyst：Trump-Xi 峰會 joint statement（若有）+ Initial Jobless Claims + Fed speeches（Williams 已鷹派）。\n- Key levels：SPY $767.8、52w high $779.4（resistance）；失守 $750 有更深回調。QQQ $741、ATH $748.7。\n\n## 💡 My Take\n- Market bias：Bearish-leaning——兩條相反力量對決，債息暫時主導。\n- 核心係「stagflationary reversal」：上週市場買緊「Fed 鴿派 + de-escalation + 油價跌」，今朝全部反轉——債息急升（Williams 鷹派）、油價反彈（Hormuz 膠著），Trump-Xi 峰會成為唯一 de-escalation 希望。\n- 今日最緊要睇實：Trump-Xi joint statement 有冇超預期（AI safety 合作、稀土讓步）——有就 risk-on 反轉，冇就債息繼續主導 risk-off。\n- 改變 thesis 嘅 overnight signal：油價由 de-escalation 跌穿 $100 反彈回 $105，係近期 framing 最大反轉——energy 由「跌」轉「升」，refiner 由「avoid」轉「action」。\n",
+      "risks": [
+        "債息持續急升壓縮高估值 growth multiple",
+        "Hormuz 談判破裂推油價急升，加劇 stagflation",
+        "Trump-Xi 峰會若流於空泛，de-escalation 溢價消退"
+      ],
+      "my_take": "Stagflationary reversal：債息急升（30yr 2004 新高、10Y 5.11%）+ 油價反彈回 Brent $105，推翻上週「Fed 鴿派 + de-escalation」narrative。今日係 Trump-Xi 峰會（de-escalation 希望）對決債息（risk-off 主導）。睇實 joint statement 有冇超預期 AI／稀土讓步，有就 risk-on 反轉，冇就 energy（refiners）同貴金屬繼續係唯一避風港。"
     }
   ],
   "news_curator": [
