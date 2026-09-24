@@ -3651,6 +3651,70 @@
         "伊朗 de-escalation 若逆轉，油價/天然氣再衝高"
       ],
       "my_take": "AI momentum 真但 breadth 收窄 + 10Y ~5% 係警號。最有趣係 tanker 運費創紀錄 vs 油價跌嘅背離。Trump-Xi 峰會低預期 = low bar catalyst。今日 PMI Flash 係 short-term trigger。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-24",
+      "time": "08:06 HKT",
+      "status": "success",
+      "market_direction": "Nasdaq 創新高後回落，美債息急升至兩年高位主導 risk-off；資金由大型科技輪動至網絡安全/企業軟件",
+      "headlines": [
+        "[RECENT] ⚠️ MACRO: 美債息急升至兩年高位 — 市場預期 Warsh 再加息",
+        "[RECENT] 🎯 META: Meta Connect 揭幕 — Muse 升級 + camera-free glasses，顛覆擴散至 travel/grocery",
+        "[RECENT] 🎯 OIL: 白宮否決柴油出口禁令 — 煉油裂解價差維持高位",
+        "[RECENT] ⚠️ AAPL: OpenAI 指 Apple ChatGPT 工具表現遠遜預期",
+        "[RECENT] 📌 市場: Michael Burry 加碼做空 Nasdaq-100（歷史新高）",
+        "[RECENT] 🎯 PLTR: 網絡安全 rally，大型科技回落（板塊輪動）",
+        "[RECENT] ⚠️ CRYPTO: Bitcoin Cash +30%（CME 期貨）",
+        "[RECENT] 📌 MU/SNDK: 記憶體供不應求續報"
+      ],
+      "opportunities": [
+        "META: Meta Connect 2026 — Muse 顛覆成 market-wide theme，META 贏家、travel booking casualty",
+        "PSX/MPC/VLO: 柴油出口禁令否決，煉油裂解價差維持",
+        "PLTR/CRWD/PANW/OKTA: 網絡安全板塊輪動"
+      ],
+      "analysis": "本 session 核心 macro theme 係美債息急升，市場由 AI Fomo 轉向 Warsh 再加息 risk-off。Nasdaq 新高後大型科技回落，資金輪動至網絡安全/企業軟件，rate-sensitive 受壓。Meta Connect 揭幕，Muse 由單一爆紅 app 升級做 market-wide disruption theme。",
+      "risks": [
+        "美債息急升 — rate-sensitive（房產、成長股）持續受壓",
+        "Burry 做空 chips + Nasdaq 新高，AI 估值 tolerance 可能到頂",
+        "Trump-Xi 峰會結果不確定 — 影響 NVDA/semi"
+      ],
+      "my_take": "Dual narrative：債息主導 macro risk-off，Muse 主導 micro disruption。Contrarian：Burry 做空 chips + Nasdaq 新高 + 債息急升共振，AI 估值可能到頂。",
+      "key_takeaways": [
+        "美債息急升至兩年高位係主導 macro 風險",
+        "Meta Muse 顛覆擴散至 travel/grocery/e-commerce",
+        "柴油出口禁令否決，煉油股風險消除",
+        "資金輪動至網絡安全/企業軟件"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-24",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Risk-off — 美債息急升至兩年高位主導，Nasdaq 創新高後回落，資金由 mega-cap AI 輪動至網絡安全",
+      "headlines": [
+        "美債息急升至兩年高位 — Warsh 再加息預期主導 risk-off，Dow -1.03% 三大指數最傷",
+        "Meta Connect 揭幕 — Muse 升級 + camera-free glasses，EXPE -7.7% / ABNB -7.6% / SHOP -3.7% 成首輪 casualty",
+        "Trump-Xi 峰會 — 美國稱貿易停火延長，de-escalation 站穩、low-bar catalyst 過關",
+        "網絡安全板塊輪動 — CRWD/PANW/OKTA +5%，PLTR +3.7% 收今年新高",
+        "GOOGL -3.8% — Muse 競爭 + AI 顛覆疑慮，mega-cap 最弱一員",
+        "記憶體獲利回吐 — MU -2.2% 失守 $1,000、SNDK -3.7%，supercycle 短線停一停"
+      ],
+      "opportunities": [
+        "CRWD/PANW/OKTA/PLTR: 網絡安全集體 +4~5%，risk-off tape 中資金唯一明確避風港，睇明日 follow-through 確認係咪真 sector rotation",
+        "META: Connect catalyst + Muse 顛覆 narrative 擴散，risk-off 日仍 +1% 收，相對強度突出，係 disruption 嘅 clean winner",
+        "GOOGL: -3.8% mega-cap 最弱，Muse 對 Amazon 嘅 standoff + AI 競爭疑慮，潛在 underweight/對沖標的",
+        "EXPE/ABNB: Muse disruption 首輪 casualty，若 narrative 繼續向 travel/e-commerce 擴散，係結構性下跌而非 noise"
+      ],
+      "analysis": "📊 美股收市回顧 — 2026-09-24（檢討 9/23 美股時段）\n\n【今日重點頭條】\n• 美債息急升至兩年高位（cnbc/investing）— 市場預期 Warsh 再加息，今日最核心 macro driver，Dow -1.03% 最傷\n• Meta Connect 揭幕（the_verge/investing_com）— Muse 升級 + camera-free glasses + video chat，AI 顛覆由單一 app 升級成 market-wide theme\n• Trump-Xi 峰會（investing_com）— 美國稱貿易停火延長，Trump 為 Xi 安排盛大場面，de-escalation 站穩\n• Meta 對 Amazon 嘅 Muse standoff（cnbc_top）— 「a sign of things to come」，AI 顛覆衝突格局嘅預演\n• OpenAI 指 Apple ChatGPT 工具表現遠遜預期 — AAPL 壓力\n\n【Market Recap】\n指數全線回落、small cap 最傷：S&P 500 7706.03（-0.76%）、Nasdaq 26936.04（-0.69%，盤中觸新高後回吐）、Dow 51511.59（-1.03%）、Russell 2000 2838.66（-1.28%）。VIX +2.08% 至 15.18，仍然偏低但方向向上。\n主兇係美債息急升兩年高位——利率敏感嘅 Dow 同 small cap 跌幅最深，確認呢個係 rate-driven risk-off 而唔係基本面轉差。\n\nSector 輪動明顯：\n- 贏家：網絡安全/企業軟件（CRWD/PANW/OKTA/PLTR +4~5%）、MSFT +0.52%\n- 輸家：mega-cap AI（GOOGL -3.80%、AMZN -2.24%、NVDA -1.47%）、travel/e-commerce（EXPE -7.72%、ABNB -7.56%、SHOP -3.66%）\n\n【Notable Movers】\n• PANW +5.00% / CRWD +4.97% / OKTA +4.45% / PLTR +3.68% — 網絡安全板塊集體爆上，PLTR 收今年新高，risk-off tape 中唯一明確資金流向\n• META +1.02% — Connect catalyst + Muse 顛覆 narrative，risk-off 日仍收綠，相對強度突出\n• EXPE -7.72% / ABNB -7.56% — Muse 顛覆首輪 casualty，travel booking 係重災區\n• GOOGL -3.80% — mega-cap 最弱，Muse 競爭 + AI 顛覆疑慮\n• SHOP -3.66% — e-commerce 同遭 Muse narrative 波及\n• SNDK -3.73% / MU -2.22% — 記憶體 supercycle 獲利回吐，MU 失守 $1,000\n• 煉油股（PSX/MPC/VLO）— 平收（-0.1~-0.3%），白宮否決柴油出口禁令嘅利多今日未發酵\n\n【News That Mattered / NC 檢討】\nNC 嘅 calls 今日命中度唔錯：\n✓ MACRO 債息（WATCH）— 精準命中，債息急升兩年高位係今日唯一主兇\n✓ PLTR/網絡安全（ACTION）— CRWD/PANW/OKTA +4~5% 全部兌現\n✓ META Connect（ACTION）— META +1% 收、Muse 顛覆 narrative 擴散，EXPE/ABNB/SHOP 證實係 casualty\n✓ Trump-Xi（WATCH）— 貿易停火延長，de-escalation 站穩\n✗ OIL 煉油股（ACTION）— 白宮否決出口禁令嘅利多今日冇發酵，PSX/MPC/VLO 全部平收，呢個 call 暫時落空\n✗ MU/SNDK（WATCH）— 記憶體供不應求嘅 bullish thesis 今日被獲利回吐反噬，MU -2.2% 失守 $1,000\n\nNC 漏咗一個重要訊號：GOOGL -3.8% 嘅 mega-cap 跌幅——NC 提「大型科技 GOOGL/MSFT 回調」但冇標 GOOGL 做獨立 risk，實際上 MSFT 係 +0.52%，真正嘅弱係 GOOGL（Muse 競爭 + AI 顛覆疑慮），呢個係明日要重點跟嘅分化。\n\n【Opportunities Carry Forward】\n1. 網絡安全（CRWD/PANW/OKTA/PLTR）— 集體 +4~5% 係今日唯一乾淨嘅資金流向。關鍵問題：呢個係一日 rotation 定 durable sector trade？明日 follow-through 確認。\n2. META — Connect 之後 Muse 顛覆 narrative 由單一 app 升級做 market-wide disruption theme，META 係 clean winner（risk-off 日仍 +1%）。\n3. GOOGL — mega-cap 最弱，Muse 競爭 + AI 顛覆疑慮，若 narrative 繼續擴散係結構性 underweight 候選。\n4. EXPE/ABNB — 唔好急住撈底。Muse 顛覆若係結構性，呢啲係下跌中繼而唔係 dip-buy。\n\n【Risks / Watchlist 今晚】\n• Initial Jobless Claims（今夜 8:30pm HKT）+ Current Account Q2 — 就業數據若轉弱，考驗「加息 + 衰退」雙重壓力\n• Fed 四場演講（Williams 4:10pm、Barkin 8:00pm、Hammack 8:50pm、Paulson 10:10pm）— 任何鷹派訊號即推高債息，risk-off 加劇\n• New Home Sales Aug（10:00pm HKT）— 房市對債息敏感，債息兩年高位下係領先警號\n• 明日 Durable Goods Orders MoM（8:30pm HKT, HIGH）— 資本開支前瞻\n• 10Y 債息兩年高位 — 續升即考驗 Nasdaq 歷史新高位置\n• Burry 做空 chips + Nasdaq 新高 + 債息急升三訊號共振 — AI 估值 tolerance 可能已到頂\n\n【My Take】\n今日係典型「rate-driven risk-off on AI-FOMO 頂」。Nasdaq 觸新高即回落 -0.69%，主兇係債息急升兩年高位——正正係琴日 Morning Scan 嘅警號兌現。Micro 故事係 Muse 顛覆（EXPE/ABNB -7.6~-7.7%），但 macro 先係主角。資金由 mega-cap AI（GOOGL -3.8%、NVDA -1.5%）輪出，淨係流入網絡安全（CRWD/PANW/OKTA +5%）。明日中性偏謹慎——jobless claims + durable goods + Fed 演講決定債息係繼續衝定企穩，喺有方向前唔好重倉單邊。",
+      "risks": [
+        "今夜 Initial Jobless Claims (8:30pm HKT) + Fed 四場演講（Williams/Barkin/Hammack/Paulson）— 任何鷹派訊號推高債息，risk-off 加劇",
+        "明日 Durable Goods Orders MoM (8:30pm HKT, HIGH) — 資本開支前瞻訊號",
+        "10Y 債息企兩年高位 — 續升即考驗科技股估值，Nasdaq 歷史新高位置脆弱",
+        "Burry 做空 chips + Nasdaq 新高 + 債息急升三訊號共振 — AI 估值 tolerance 可能已到頂"
+      ],
+      "my_take": "今日係典型「rate-driven risk-off on AI-FOMO 頂」。Nasdaq 觸新高即回落 -0.69%，主兇係債息急升兩年高位——正正係琴日 Morning Scan 嘅警號兌現。Micro 故事係 Muse 顛覆（EXPE/ABNB -7.6~-7.7%），但 macro 先係主角。資金由 mega-cap AI（GOOGL -3.8%、NVDA -1.5%）輪出，淨係流入網絡安全（CRWD/PANW/OKTA +5%）。明日中性偏謹慎——jobless claims + durable goods + Fed 演講決定債息係繼續衝定企穩，喺有方向前唔好重倉單邊。"
     }
   ],
   "news_curator": [
