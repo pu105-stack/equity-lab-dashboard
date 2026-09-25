@@ -3741,6 +3741,65 @@
         "Trump-Xi 峰會若流於空泛，de-escalation 溢價消退"
       ],
       "my_take": "Stagflationary reversal：債息急升（30yr 2004 新高、10Y 5.11%）+ 油價反彈回 Brent $105，推翻上週「Fed 鴿派 + de-escalation」narrative。今日係 Trump-Xi 峰會（de-escalation 希望）對決債息（risk-off 主導）。睇實 joint statement 有冇超預期 AI／稀土讓步，有就 risk-on 反轉，冇就 energy（refiners）同貴金屬繼續係唯一避風港。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-25",
+      "time": "08:07 HKT",
+      "status": "success",
+      "market_direction": "Dow連跌第四週，美債息急升推高加息預期；META領AI momentum(+4.5%)，ORCL force majeure壓AI datacenter主題",
+      "headlines": [
+        "[NEW] ACTION: META — Muse裝置發佈 +4.5%",
+        "[NEW] WATCH: ORCL — Stargate force majeure -3.5%",
+        "[NEW] WATCH: MACRO — 美債息急升 Warsh加息壓力",
+        "[RECENT] WATCH: OIL — 美伊戰爭升溫",
+        "[RECENT] WATCH: MACRO — 房貸7.45%",
+        "[NEW] WATCH: AKAM — Anthropic交易但股價反跌",
+        "[NEW] WATCH: COST — 業績beat但謹慎"
+      ],
+      "opportunities": [
+        "META: Muse裝置落地，$2T在望，但已run一個月追高風險",
+        "ORCL/OWL: force majeure係AI datacenter執行風險"
+      ],
+      "analysis": "US session核心矛盾：AI momentum(META+4.5%) vs 利率急升(債息/Warsh加息bet)。ORCL force majeure係AI datacenter融資主題嘅第一道裂痕。",
+      "risks": [
+        "利率急升",
+        "AI datacenter執行風險",
+        "美伊戰爭擴戰",
+        "房貸8%"
+      ],
+      "my_take": "利率係最大overhang——債息急升+加息bet spike，任何AI估值都受壓。META momentum強但係crowded trade，ORCL force majeure值得警惕係AI capex故事嘅第一個實質裂痕。",
+      "key_takeaways": [
+        "ORCL force majeure = AI datacenter執行風險首現",
+        "美債息+Warsh加息 = 全場最大macro risk",
+        "META $2T在望但追高風險"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-25",
+      "time": "08:35 HKT",
+      "status": "success",
+      "market_direction": "債息破5%主導 — 指數flat但Dow第四週連跌，AI內部分化（consumer device強/datacenter裂）",
+      "headlines": [
+        "10Y 5.11%破位 + 30Y房貸7.45%，債市逼Warsh加息",
+        "META +4.5% Muse裝置發佈，搶先OpenAI打入consumer AI",
+        "ORCL -3.47% Stargate force majeure，AI datacenter第一道裂痕",
+        "AKAM -6.78% Anthropic $12B交易但股價反跌",
+        "油價反彈USO +2.86%，美伊7個月戰爭升溫"
+      ],
+      "opportunities": [
+        "META: consumer AI device先手但crowded，等回調唔追高",
+        "AMD: semis分化，+2.38%跑贏AVGO/NVDA",
+        "債息總開關: 10Y 5.11%破位，Durable Goods + Fed講話定方向"
+      ],
+      "analysis": "📊 Evening Review — 2026-09-25 (Fri) 08:30 HKT\n\n═══════════════════════════════════════\n🏦 Fed Context — 宏觀背景\n═══════════════════════════════════════\n本週冇新 FOMC 決定（上次 Sep 15-16 已完，下次 Oct 27-28）。真正主線唔係 Fed 會議，而係債市自己喺度做「加息定價」：\n\n• 10Y 國債孳息 5.11%（Sep 23），再度突破 5% 心理關口 — 呢個係成個風險資產嘅 overhang\n• 30Y 房貸利率急升至 7.45%，「8% 唔係幻想」— 伊朗戰爭推高通脹預期，債市逼 Warsh 出手\n• CNBC「Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed」— Warsh 信譽受考驗\n• 債市唔信 Treasury 安撫（「Why investors aren't buying yet another attempt by the Treasury to calm the rattled bond market」）\n\nFed press release 呢週都係 routine（stablecoin GENIUS Act 框架、enforcement actions），冇 market-moving 嘢。但今晚有三個 Fed 官員講話（Williams 5:15pm、Schmid 9:20pm、Hammack 2:00am HKT）— 喺債息破 5% 嘅敏感時刻，任何 hawkish 語氣都會加劇壓力。\n\n═══════════════════════════════════════\n📰 今日重點頭條（Raw Headlines）\n═══════════════════════════════════════\n1. 債息急升 + 房貸 7.45%：30Y mortgage 單日急升，8% 唔係幻想，債市逼 Warsh（cnbc/marketwatch）— 今日最重磅 macro\n2. META +4.5%：Zuckerberg 發佈 $1,299 VR 眼鏡 + Muse Charm 掛墜，搶先 OpenAI 打入 consumer AI 裝置市場（cnbc）\n3. ORCL/OWL Stargate 數據中心 force majeure — AI 融資主題受壓，ORCL -3.47%（investing_com/Reuters）\n4. AKAM -6.78%：Anthropic $12B 交易但股價反跌（背離），Anthropic 尋 IPO 前 50.1% 投票權（investing_com）\n5. 油價反彈 USO +2.86%：美伊 7 個月戰爭升溫，雙方互放話擴大戰事（cbs_news）\n6. Trump-Xi 白宮峰會「great fanfare, low expectations」— Xi 呼籲美中 AI 合作（bloomberg/investing_com）\n7. COST Q4 業績 beat 但投資者謹慎（折扣油價+批量折扣吸引通脹疲憊消費者）\n8. TSLA Semi 電動卡車正式投產（Nevada 廠開幕）\n9. Polymarket 控告 NY AG 阻止預測市場監管（crypto/監管）\n10. Waymo 快速擴張（GOOGL，fleet data）\n\n═══════════════════════════════════════\n📊 Market Recap\n═══════════════════════════════════════\n指數層面平淡，但內部係「債息主導」嘅混合盤：\n\n| 指數 | 收市 | 變幅 |\n| Dow | 51,350 | -0.31%（第四週連跌）|\n| S&P 500 | 7,704 | -0.02%（flat）|\n| Nasdaq | 26,939 | +0.01%（flat）|\n| VIX | 15.67 | +3.2%（由 15.18）|\n\n• 贏家：XLC +1.27%（META 帶動）、XLV +0.63%（防守醫療）、XLE +0.37%（油價反彈）\n• 輸家：XLB -1.19%、XLU -0.98%、XLP -0.89%、XLI -0.75%（原材料/公用/必需消費/工業全線受債息壓）\n• SMH -0.15%（半導體接近 flat，但內部分化：AMD +2.38% vs AVGO -1.30%）\n\n關鍵訊號：指數 flat 但結構係「債息敏感板塊全面受壓」— 原材料、公用、必需消費、工業全部下跌，反映 10Y 破 5% 對 long-duration / 高槓桿板塊嘅壓制。Dow 第四週連跌，rate-sensitive 嘅價值/週期股最傷。\n\n═══════════════════════════════════════\n🔥 Notable Movers\n═══════════════════════════════════════\n📈 META +4.50%（$777.59）— Muse 裝置 + VR 眼鏡正式發佈，consumer AI device 先手。但已 run 一個月，crowded trade\n📈 AMD +2.38%（$629.26）— semis 分化，資金喺 AI 硬件內揀 AMD\n📈 GOOGL +1.34% — Waymo 擴張 + Xi 呼籲 AI 合作\n📉 AKAM -6.78%（$110.41）— Anthropic $12B 交易但股價反跌，執行/成本憂慮\n📉 ORCL -3.47%（$139.54）— Stargate force majeure，AI datacenter 執行風險第一道裂痕\n📉 COST -0.91%（$896.48）— 業績 beat 但投資者謹慎（sell the news）\n📉 AVGO -1.30%、NVDA -0.41%、MSFT -0.53% — AI 硬件龍頭集體偏軟\n\nRotation signal：資金喺 AI 內部「硬件→consumer device」— META（consumer AI）強 vs ORCL/AVGO（datacenter infra）弱。呢個同債息破 5% 一致：capex 密集嘅 datacenter 故事最受加息壓力。\n\n═══════════════════════════════════════\n📰 News That Mattered — NC calls 檢討\n═══════════════════════════════════════\nNC（今日 08:07）近乎全中：\n\n✅ NC ACTION META：中咗（+4.5%，Muse 發佈兌現）\n✅ NC WATCH ORCL/OWL：中咗（ORCL -3.47%，Stargate force majeure）\n✅ NC WATCH MACRO（債息/Warsh）：中咗（10Y 破 5.11%，30Y 房貸 7.45%）\n✅ NC WATCH OIL：中咗（USO +2.86%，美伊升溫）\n✅ NC WATCH AKAM：中咗（-6.78%，Anthropic 背離）\n✅ NC WATCH COST：中咗（beat 但謹慎，-0.91%）\n\nNC 漏咗 / under-weight：\n• AMD +2.38% — semis 內部最強，NC 冇 cover 呢個分化\n• Trump-Xi 峰會 angle — 今日重要地緣 headline，NC 冇 capture\n\n今日係 NC 命中率極高嘅一日。唯一要警惕：NC 對「META 追高風險」嘅警告係啱嘅，META 已 run 一個月。\n\n═══════════════════════════════════════\n🎯 Opportunities Carry Forward\n═══════════════════════════════════════\n1. 📡 META（值得關注，唔係追高）— consumer AI device 先手，Muse 可能開新 revenue stream，但 +4.5% 後已 crowded。thesis bullish 但 entry 唔好\n2. 📡 AMD（semis 分化）— +2.38% 跑贏 AVGO/NVDA，資金喺 AI 硬件內揀贏家。若 semis 反彈，AMD 係 beta 最高嘅一環\n3. ⚠️ ORCL/OWL（AI capex 裂痕）— Stargate force majeure 係 AI 融資故事第一個實質警號。若擴散，成個 AI datacenter 估值受壓，係今晚要盯實嘅 risk 多過 opportunity\n4. 🎯 債息係總開關 — 10Y 5.11% 破位，今晚 Durable Goods + Michigan sentiment + 三個 Fed 講話決定債息方向。債息見頂先有 risk-on，見頂前長 duration 全部受壓\n\n═══════════════════════════════════════\n⚠️ Risks / Watchlist（今晚）\n═══════════════════════════════════════\n今晚（Sep 25 HKT）事件（來自 macro_calendar.json）：\n• 🔴 8:30pm HKT — Durable Goods Orders MoM（Aug）— HIGH，今晚最重要數據，驗證製造業/資本開支\n• 🟡 10:00pm HKT — Michigan Consumer Sentiment Final（Sep）— 消費信心 + 通脹預期\n• 🟡 5:15pm / 9:20pm / 2:00am HKT — Fed Williams / Schmid / Hammack 講話 — 債息破 5% 敏感時刻，hawkish 語氣會加劇壓力\n\nOvernight risk：\n• 債息破 5% 未止 — 30Y 房貸 7.45%、8% 唔係幻想，債市逼 Warsh\n• ORCL Stargate force majeure — AI datacenter 執行風險第一道裂痕\n• 美伊 7 個月戰爭升溫 — 油價反彈（USO +2.86%），供應衝擊推通脹預期\n• Trump-Xi 峰會 — 「great fanfare, low expectations」，若無實質成果係 negative\n\n（持倉風險：唔作持倉數據，唔知實際敞口）\n\n═══════════════════════════════════════\n💡 My Take\n═══════════════════════════════════════\n今日主線係債息，唔係 AI。指數 flat（S&P -0.02%）但係「借返嚟嘅平靜」— 10Y 破 5.11%、30Y 房貸 7.45%、Dow 第四週連跌，債市喺逼 Warsh 加息。AI trade 內部喺分化：consumer device（META +4.5%）強，datacenter infra（ORCL -3.47%、AKAM -6.78%）裂開。呢個唔係 AI trade 死亡，係「capex 密集故事」開始受債息考驗。\n\n明日 bias：Neutral-to-Cautious。今晚 Durable Goods + 三個 Fed 講話係關鍵，債息方向定 risk-on/risk-off。債息見頂前，long duration / datacenter 密集嘅 AI 估值全部受壓，能源（油價反彈）同防守（XLV）係相對安全嘅避風塘。META 係唯一同 macro 脫鈎嘅 AI 獨立行情，但 crowded 追高風險大。",
+      "risks": [
+        "債息破5%未止，30Y房貸8%唔係幻想",
+        "ORCL Stargate force majeure擴散至AI datacenter估值",
+        "今晚8:30pm Durable Goods + 三個Fed講話"
+      ],
+      "my_take": "今日主線係債息唔係AI。指數flat但10Y破5.11%、30Y房貸7.45%、Dow第四週連跌，債市逼Warsh加息。AI內部分化：consumer device（META+4.5%）強，datacenter infra（ORCL-3.47%、AKAM-6.78%）裂開。明日bias：Neutral-to-Cautious，債息見頂前long duration受壓，能源+防守相對安全。"
     }
   ],
   "news_curator": [
