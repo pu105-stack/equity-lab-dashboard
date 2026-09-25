@@ -3824,6 +3824,39 @@
         "VIX 低位（14.2）嘅 complacency：一旦 catalyst 惡化，波動可以瞬間放大"
       ],
       "my_take": "債息係呢個星期嘅主導力量。鷹派 Warsh Fed 加咗息但債息失控（10yr 5.11%、30yr 5.4% 見 2004 年新高），配合伊朗油價溢價，形成 risk-off macro 框架（Dow 連跌4週、小型股弱、公用事業被拋）。唯一嘅 asymmetric upside catalyst 係伊朗 Hormuz de-escalation——若落實，成條「油價→通脹→息率」壓力鏈一次過逆轉。今日 bias 中性偏 bearish，操作重心係等 catalyst 明確，唔急於撈底，尤其喺 Core PCE（9/30）同 NFP（10/2）之前。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-09-26",
+      "time": "06:04 HKT",
+      "status": "success",
+      "market_direction": "鷹派 Warsh regime + 債息急升（10Y 5.11%、30Y 2004 新高）主導 risk-off；伊朗 Hormuz de-escalation 係唯一可逆轉「油價→通脹→息率→股價」壓力鏈嘅 asymmetric catalyst；AI 內部由硬體→消費裝置輪動（META 強 vs ORCL 裂）",
+      "opportunities": [
+        "🎯 LEN: Berkshire 建倉近 10%，smart money 喺房市最悲觀時反向買入受挫房屋建築商",
+        "🎯 VLO: 柴油 crack spread 破紀錄 + 白宮否決出口禁令，煉油股係實體 disruption 低調受惠者",
+        "🎯 FRO: 油輪運費創紀錄 $1.2M/日 vs Brent 跌穿 $100，價格/實體背離",
+        "📡 MU: 記憶體超級週期 vs cycle-peak 估值，9/30 業績係半導體 bellwether",
+        "📡 META: Muse 升級 market-wide disruption，但 crowded 追高風險大",
+        "📡 GOOGL: Gemini 4 追趕 catalyst，但債息壓大型科技估值",
+        "📡 NVO: Novo flop 後急補救 vs LLY 擴大優勢，GLP-1 競爭格局在變",
+        "📡 BRK.B: Buffett 辭任主席，過渡風險 vs 價值重估"
+      ],
+      "risks": [
+        "⚠️ ORCL: Stargate force majeure 係 AI datacenter capex 故事第一個實質裂痕",
+        "⚠️ NKE: 11 年新低，turnaround 無法說服華爾街，高油價高息侵蝕消費"
+      ],
+      "analysis": "本週主線係債息，唔係股票：鷹派 Warsh regime（9/15-16 加息 25bp + 點陣圖 higher-for-longer）+ 伊朗油價溢價，推 10Y 債息破 5.11%、30Y 觸 2004 年新高、房貸 7.45%。Dow 連跌第 4 週、小型股弱、公用事業被拋——典型 risk-off 格局。唯一可逆轉成條壓力鏈嘅係伊朗 Hormuz de-escalation（7 日重開計劃 + 分階段 deal），呢個係全週最關鍵嘅 asymmetric catalyst。\n\nAI trade 內部開始分化：consumer device（META Muse +4.5%、單日 +$200B）強 vs datacenter infra（ORCL Stargate force majeure -3.47%、AKAM -6.78%）裂開。呢個唔係 AI trade 死亡，係「capex 密集故事」開始受債息考驗。\n\n能源端要分開睇：原油 de-escalation 利空上游，但柴油 crack spread 破紀錄（$6.53）+ 油輪運費 $1.2M/日，實體航運/煉油 disruption 未解——煉油股（VLO）同油輪（FRO）係低調受惠者。\n\n價值端有兩大訊號：Berkshire 逆勢建倉近 10% Lennar（房市最悲觀時反向買入），同 Buffett 辭任主席（Howard 接任非執行主席）——前者係乾淨嘅價值訊號，後者係過渡風險 vs continuity 嘅兩邊賭。\n\n下週 catalyst 密集：9/30 Core PCE + MU 業績、10/1 ACN/NKE、10/2 NFP——喺 Fed 已 hawkish 轉向嘅背景下，任何一個爆冷都會大幅改變加息預期，唔係普通數據週。",
+      "my_take": "本週最清晰嘅判斷：債息係總開關，股票新聞係 noise。喺 10Y 破 5%、30Y 2004 新高嘅環境下，long-duration / capex 密集嘅 AI 估值全部受壓，資金縮去兩類資產——實體 disruption 受益嘅能源（煉油/油輪）同獨立 macro 嘅價值訊號（LEN）。\n\n我嘅三個 stance：① 能源係本週最少變數嘅 trade，但唔係 short oil（已擁擠），而係 crack spread 同運費嘅實體受益者（VLO/FRO）；② MU 9/30 業績係下週最重要嘅 bellwether，決定半導體同 AI 硬件方向，但估值已 cycle-peak，唔好 pre-position；③ ORCL force majeure 係 AI capex 故事第一道裂痕，若擴散會係板塊級風險，要實住。\n\n改唔改 thesis？維持「債息見頂前股市難有大升幅」，但加一個條件——伊朗 de-escalation 係唯一可快速推翻呢個 thesis 嘅 catalyst。所以操作重心係：唔好急於撈底，等 Core PCE（9/30）同 NFP（10/2）明確先出手。",
+      "focus": [
+        "Bond Yield Regime: 10Y 5.11% / 30Y 2004 high",
+        "Energy Physical Disruption: VLO, FRO",
+        "Housing Value Signal: LEN",
+        "Semis Bellwether: MU",
+        "Consumer AI Disruption: META",
+        "AI Capex Crack: ORCL",
+        "GLP-1 Battle: NVO/LLY",
+        "Consumer Downgrade: NKE"
+      ]
     }
   ],
   "news_curator": [
