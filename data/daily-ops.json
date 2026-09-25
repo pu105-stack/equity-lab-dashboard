@@ -3743,39 +3743,6 @@
       "my_take": "Stagflationary reversal：債息急升（30yr 2004 新高、10Y 5.11%）+ 油價反彈回 Brent $105，推翻上週「Fed 鴿派 + de-escalation」narrative。今日係 Trump-Xi 峰會（de-escalation 希望）對決債息（risk-off 主導）。睇實 joint statement 有冇超預期 AI／稀土讓步，有就 risk-on 反轉，冇就 energy（refiners）同貴金屬繼續係唯一避風港。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-25",
-      "time": "08:07 HKT",
-      "status": "success",
-      "market_direction": "Dow連跌第四週，美債息急升推高加息預期；META領AI momentum(+4.5%)，ORCL force majeure壓AI datacenter主題",
-      "headlines": [
-        "[NEW] ACTION: META — Muse裝置發佈 +4.5%",
-        "[NEW] WATCH: ORCL — Stargate force majeure -3.5%",
-        "[NEW] WATCH: MACRO — 美債息急升 Warsh加息壓力",
-        "[RECENT] WATCH: OIL — 美伊戰爭升溫",
-        "[RECENT] WATCH: MACRO — 房貸7.45%",
-        "[NEW] WATCH: AKAM — Anthropic交易但股價反跌",
-        "[NEW] WATCH: COST — 業績beat但謹慎"
-      ],
-      "opportunities": [
-        "META: Muse裝置落地，$2T在望，但已run一個月追高風險",
-        "ORCL/OWL: force majeure係AI datacenter執行風險"
-      ],
-      "analysis": "US session核心矛盾：AI momentum(META+4.5%) vs 利率急升(債息/Warsh加息bet)。ORCL force majeure係AI datacenter融資主題嘅第一道裂痕。",
-      "risks": [
-        "利率急升",
-        "AI datacenter執行風險",
-        "美伊戰爭擴戰",
-        "房貸8%"
-      ],
-      "my_take": "利率係最大overhang——債息急升+加息bet spike，任何AI估值都受壓。META momentum強但係crowded trade，ORCL force majeure值得警惕係AI capex故事嘅第一個實質裂痕。",
-      "key_takeaways": [
-        "ORCL force majeure = AI datacenter執行風險首現",
-        "美債息+Warsh加息 = 全場最大macro risk",
-        "META $2T在望但追高風險"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-25",
       "time": "08:35 HKT",
@@ -3800,6 +3767,63 @@
         "今晚8:30pm Durable Goods + 三個Fed講話"
       ],
       "my_take": "今日主線係債息唔係AI。指數flat但10Y破5.11%、30Y房貸7.45%、Dow第四週連跌，債市逼Warsh加息。AI內部分化：consumer device（META+4.5%）強，datacenter infra（ORCL-3.47%、AKAM-6.78%）裂開。明日bias：Neutral-to-Cautious，債息見頂前long duration受壓，能源+防守相對安全。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-25",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "Dow 邁向連跌第4週但 AI 樂觀情緒回流；伊朗7日 Hormuz 計劃係關鍵 swing factor，油價 $107、美債息近 5.5%",
+      "headlines": [
+        "[NEW] ACTION OIL: 伊朗提7日 Hormuz 重開計劃，美伊探索分階段 deal（de-escalation）",
+        "[NEW] WATCH NVO/LLY: Novo 資本市場日 flop 後 licensing deal 令瑞典 biotech 暴漲150%",
+        "[RECENT] WATCH ORCL: force majeure 後續，Oracle 日本逆勢漲7%",
+        "[RECENT] WATCH PRECIOUS_METALS: 金價 $4300 拉鋸，加息預期壓制"
+      ],
+      "opportunities": [
+        "OIL de-escalation: 伊朗7日 Hormuz 計劃若落實 → 油價戰爭溢價瓦解 → 通脹緩和 → 息率回落 → risk-on",
+        "NVO/LLY: GLP-1 追趕戰，Lilly 持續搶佔，Novo 靠 M&A/licensing 補救"
+      ],
+      "analysis": "市場同一時間消化兩個相反力量：伊朗戰爭推高油價/通脹/息率（risk-off），但 de-escalation 提案若落實會一次過逆轉呢條鏈。真正 catalyst 係 Hormuz deal 成唔成事。",
+      "risks": [
+        "伊朗 de-escalation 談判破裂，油價再衝高",
+        "美債息持續升，壓制估值"
+      ],
+      "my_take": "真正嘅 catalyst 係 Hormuz deal 成唔成事，唔係今日任何單一股票新聞。油價同息率係 master switch。",
+      "key_takeaways": [
+        "伊朗提出7日 Hormuz 重開計劃 + 重啟核談判 — 係本周最大 macro catalyst",
+        "若 deal 落實，油價戰爭溢價瓦解，通脹/息率壓力緩和，利好 risk-on",
+        "Novo 靠 licensing deal 追趕 Lilly，GLP-1 競爭格局 Lilly 領先",
+        "ORCL force majeure 波及 AI 融資鏈，但核心業務（日本子公司）仍強勁"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-25",
+      "time": "20:35 HKT",
+      "status": "success",
+      "market_direction": "Neutral 偏 Bearish —— 債息急升 + 鷹派 Fed + 伊朗油價溢價形成 risk-off，但伊朗 de-escalation 係 asymmetric upside catalyst",
+      "headlines": [
+        "債息急升：10年期 5.11%、30年期 5.40%（2004年新高）——鷹派 Warsh Fed 加息後債息失控",
+        "FOMC 9/16 加息 +25bp 至 3.75-4.00%，點陣圖上修（2026 中位數 4.1%）暗示今年仲有一次加息",
+        "伊朗提出7日 Hormuz 重開計劃 + 美伊探索分階段 deal——de-escalation 係最大 catalyst",
+        "Dow 連跌4週，資金避險縮喺大型科技權重股",
+        "金價 $4300 拉鋸，被加息預期壓住"
+      ],
+      "focus": [
+        "OIL / 能源（XLE, USO）—— 伊朗 Hormuz deal 係成個市場 bias 嘅 swing factor",
+        "半導體（MU 9/30 業績）—— AI HBM 需求 bellwether，INTC +3.9% 係前置 signal",
+        "公用事業（XLU）—— 高息最大受害者，債息 5% 令 dividend stock 失吸引力",
+        "Fed 講者（Schmid/Hammack）—— hawkish regime 下任何鷹派措辭都係 risk"
+      ],
+      "analysis": "🌅 Morning Scan — 2026年9月25日（星期五）\n\n═══════════════════════════════════════\n🏛 Fed Context — 鷹派 Warsh regime 嘅代價\n═══════════════════════════════════════\n\nFOMC 9月15-16日會議已經落實咗 +25bp 加息（聯邦基金目標區間升至 3.75–4.00%，有效利率 3.88%）。呢個係 Kevin Warsh 上任後嘅「regime change」——由過去嘅寬鬆路徑，轉向鷹派加息抗通脹。\n\n最新 SEP 點陣圖（9月16日）透露咗更鷹派嘅 signal：\n• 2026 年底聯邦基金利率中位數 4.1%（6月預測係 3.8%）→ 暗示今年內仲有一次加息\n• 2027 中位數 4.1%（6月係 3.6%）→ 大幅上修，higher-for-longer\n• 2026 核心 PCE 上修至 3.4%（6月 3.3%），整體 PCE 3.7%（6月 3.6%）\n• 2026 失業率下修至 4.1%（6月 4.3%）→ 勞工市場仲係緊\n\n聯儲局加咗息，但市場唔收貨。債息繼續急升：\n• 2年期 4.85%（月初 4.39%）\n• 10年期 5.11%（月初 4.79%）\n• 30年期 5.40%（月初 5.27%）——2004年以嚟新高\n\nCNBC 用「Surging Treasury yields pose a brand new problem for Kevin Warsh」做標題。核心矛盾係：伊朗僵局推高油價→通脹預期升溫→市場預期聯儲局要再加息→債息失控。聯儲局夾喺「加息抗油價通脹」同「高息壓垮經濟」之間。\n\n今日有三個 Fed 講者：Schmid（9:20pm HKT）、Hammack（凌晨2:00am HKT）。喺呢個 hawkish regime 底下，任何鷹派措辭都會進一步推高加息預期，壓低股市。呢個係今日 intraday 要實嘅 risk。\n\n我的 take：債息係呢個星期嘅主導力量，唔係股票。5% 嘅 10年期對估值（尤其長 duration 科技股）係實質威脅。除非伊朗 de-escalation 令油價急回、通脹預期紓緩，否則債息向 5.5% 衝嘅壓力會持續。\n\n═══════════════════════════════════════\n📰 今日重點頭條（Raw Headlines）\n═══════════════════════════════════════\n\n1. 【CNBC】Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed —— 債息失控係今日最大 macro 風險\n2. 【CNBC】Warsh's regime change at the Fed pushes ahead – and meets resistance —— 鷹派路線遇到內部阻力\n3. 【Bloomberg】Bond Yields Soar, Spiking Fed Rate Hike Bets —— 市場開始計價更多加息\n4. 【Bloomberg】Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets —— 金價 $4300 被加息預期壓住\n5. 【CNBC】Stock futures tick higher, but Dow heads for fourth straight losing week —— Dow 連跌4週，資金避險\n6. 【SCMP】Trump's warm welcome for Xi met with caution and uncertainty in Taiwan —— 中美峰會，台灣問題仍係懸念\n7. 【NYT/DealBook】Trump, Xi and the Tech Moguls —— 科技巨頭喺中美博弈嘅位置\n8. 【CoinDesk】Fed moves on proposals to implement GENIUS Act for stablecoins —— 穩定幣監管推進\n9. 【247wallst】Buffett Bought 10% of Lennar the Day After It Cut Guidance —— 巴菲特逆勢加倉房屋股\n10. 【Seeking Alpha】RBA Preview: A Decisive Hike To Keep Inflation In Check —— 全球央行同步轉鷹\n\n主題清晰：債息急升 + 全球央行轉鷹 + 伊朗油價溢價 + 中美地緣博弈。AI 樂觀情緒（全球股票基金5週來首次流入）係唯一嘅 counterweight。\n\n═══════════════════════════════════════\n🌍 隔夜市場\n═══════════════════════════════════════\n\n美股（9月24日收市）：\n• SPY $767.18（-0.08%）—— 貼近歷史高位 $779，但上攻乏力\n• QQQ $741.10（-0.01%）—— 科技權重喺高位拉鋸\n• DIA $512.68（-0.31%）—— Dow 最弱，已跌破50日線（$527.7），連跌4週\n• IWM $281.66（-0.09%）—— 小型股仍低於50日線（$294），相對弱勢\n\n結構性 signal：Dow 同小型股弱，係典型嘅「risk-off + 高息」格局——利率敏感嘅傳統藍籌同高槓桿小型股被拋售，資金縮喺大型科技權重股避險。\n\n債券／商品：\n• 30年期 5.40%（2004年新高）—— 長債熊市\n• 10年期 5.11% —— 估值殺手\n• 原油 WTI $96-107 區間波動，USO 昨日 +2.86% 反彈\n• 黃金 GLD -0.30%（$391.69），$4300 金價被加息預期壓住\n\nVIX 14.21 —— 處於低位。呢個係「complacency」signal：市場表面上冷靜，但債息咁急升，VIX 低企反而係脆弱性嘅標誌。一旦伊朗 deal 破裂或者數據爆冷，VIX 可以瞬間反彈。\n\n美元：強勢（高息支持），壓制大宗商品。\n\n═══════════════════════════════════════\n📈 昨日市場爆升／暴跌榜\n═══════════════════════════════════════\n\n爆升榜（Top Gainers）—— 全部係 penny stock / 微型股，無機構性 signal：\n• APUS +114.9%（製藥）｜SRZN +108.4%（生物科技）｜GLND +83.9%（能源）\n• PMAX +80.6%、STAK +53.2%、PFSA +47.8%\n\n暴跌榜（Top Losers）—— 同樣係 micro-cap 噪音：\n• BENF -50.0%｜TRT -36.6%｜XXII -35.5%｜IPEXU -32.0%｜WHLR -31.3%\n\n活躍榜（Most Active）—— 唯一有參考價值：\n• INTC +3.91% —— 半導體資金回流，值得留意（下週 MU 業績前嘅前置 signal）\n• DCX -17.9% —— 數字貨幣概念急挫\n\n我的 take：噚日嘅 movers 係典型 micro-cap 噪音，冇 clean sector theme。真正嘅機構資金信號唔喺 gainers/losers 榜，而係喺兩個地方：(1) 債息急升（資金撤離利率敏感資產）；(2) INTC +3.9% + USO +2.9%（半導體同能源係資金流入方向）。今日要跟嘅係呢兩個 institutional 方向，唔係 penny stock。\n\n═══════════════════════════════════════\n📡 今日重點事件（來源：macro_calendar.json）\n═══════════════════════════════════════\n\n• 🔴 HIGH 8:30pm HKT｜Durable Goods Orders MoM（8月）prev 1.1% → fcast -0.4%\n   —— 若大幅低於預期，會加強「經濟放緩」narrative，但同時可能令債息回落\n• 🟡 MED 8:30pm HKT｜Durable Goods Ex-Transportation MoM prev 0.4% → fcast 0.6%\n• 🟡 MED 9:20pm HKT｜Fed Schmid Speech —— 鷹派講者，睇會唔會 reinforce 加息\n• 🟡 MED 10:00pm HKT｜Michigan Consumer Sentiment Final（9月）prev 51.7 → fcast 47.6\n   —— 消費者信心急跌，配合高油價高息嘅 consumer pain\n• 🟡 MED 2:00am HKT（週六凌晨）｜Fed Hammack Speech\n\n本週餘下 HIGH 事件（下個交易日開始）：\n• 9月29日 JOLTs Job Openings（8月）\n• 9月30日 Core PCE MoM + GDP Q2 Final + Personal Income/Spending —— 通脹關鍵日\n• 10月1日 ISM Manufacturing PMI\n• 10月2日 Non-Farm Payrolls + Unemployment Rate —— 就業關鍵日\n\n我的 take：今個星期係「通脹 + 就業」嘅 double-header。喺 Fed 已經 hawkish 轉向嘅背景下，Core PCE（9/30）同 NFP（10/2）任何一個爆冷都會大幅改變加息預期。呢個唔係普通數據週——係決定債息方向嘅一週。\n\n═══════════════════════════════════════\n🔥 Sector Watch\n═══════════════════════════════════════\n\nMomentum（資金流入）：\n• 🛢 能源（XLE +0.37%，USO +2.86%）—— 油價 $96-107 高位，伊朗 deal 係最大 catalyst\n• 🔧 半導體（SMH 高位，INTC +3.9%）—— AI 需求 + 下週 MU 業績前置\n\nRisk（資金流出）：\n• 🏠 公用事業（XLU -0.98%）—— 高息殺傷力最大嘅 sector，債息 5% 令 dividend stock 失去吸引力\n• 🏭 工業（XLI -0.75%）—— 經濟放緩 + 高息雙重打擊\n• 🏦 金融（XLF 持平）—— 表面穩，但 Warsh regime 若再加息，net interest margin 受壓\n\nRotation signal：資金由「債券替代品」（utilities、consumer staples）轉向「通脹受益」（能源）同「成長」（半導體）。呢個係典型嘅 stagflation-ish rotation。\n\n═══════════════════════════════════════\n🎯 Pre-market Opportunities（Consolidated from News Curator）\n═══════════════════════════════════════\n\n🎯 ACTION — OIL（de-escalation trade）\n伊朗提出7日 Hormuz 重開計劃 + 美伊探索分階段 deal。若落實，油價戰爭溢價（$107 高位 vs $96 現價）會瓦解。\n部署：呢個係今日最關鍵嘅 catalyst，唔係單一股票。若確認 de-escalation，油價急回→通脹預期紓緩→債息回落→全線股市 relief rally。若破裂，油價再衝高位→債息向 5.5%→risk-off 加劇。今日要實住 Hormuz 新聞，成個 market bias 取決於此。\n\n👀 WATCH — NVO / LLY（GLP-1 追趕戰）\nNovo 資本市場日 flop 後急補救，licensing deal 令瑞典 biotech 暴漲 150%。GLP-1 競爭格局在變。\n部署：LLY 係呢場仗嘅贏家，但估值已反映。NVO 急補救反而係 short-term 波動 source。今日睇有冇更多 deal 消息。\n\n👀 WATCH — ORCL（force majeure 後續）\nBlue Owl 項目延遲波及 AI 融資，但 Oracle 日本逆勢漲 7%。\n部署：AI 融資鏈嘅傳導風險要留意，但日本市場 demand 強。ORCL 係 AI infra 嘅晴雨表。\n\n👀 WATCH — PRECIOUS_METALS（金價 $4300 拉鋸）\n伊朗僵局推高金價，但加息預期又壓住金價。兩個相反力量喺 $4300 拉鋸。\n部署：金價突破方向 = 債息方向 = 市場 risk 方向。今日唔好直接 trade 金，用金價做 macro 温度計。\n\n═══════════════════════════════════════\n📅 未來一個月業績重點\n═══════════════════════════════════════\n\n本週（7日內）：\n• 9月30日（三）MU（Micron）AMC 🎯 —— 記憶體週期 + AI HBM 需求嘅 bellwether，半導體全板塊嘅方向標\n• 10月1日（四）ACN（Accenture）BMO 🎯 —— IT 服務 + AI consulting 需求讀數，企業 AI capex 嘅領先指標\n• 10月1日（四）NKE（Nike）AMC 🎯 —— 消費 discretionary 讀數，睇高油價高息點樣侵蝕消費力\n\n下週：\n• 10月8日（四）PEP（PepsiCo）BMO —— 消費必需，睇定價能力 vs 銷量\n• 10月9日（五）DAL（Delta）BMO —— 航空，油價直接成本衝擊\n\n我的 take：MU 係呢個 earnings cycle 最重要嘅一隻——佢會定義半導體同 AI 硬件嘅方向。若 MU 指引強（HBM 需求），會 confirm AI capex 未見頂；若指引弱，成個半導體板塊會回調。ACN 係 AI 變現能力嘅讀數。喺債息 5% 嘅環境下，呢啲 growth 股嘅 earnings 要夠強先頂得住估值。\n\n═══════════════════════════════════════\n📋 Today's Agenda\n═══════════════════════════════════════\n\n• 本週 catalyst：Core PCE（9/30）+ NFP（10/2）—— 決定債息方向嘅關鍵數據\n• 今日即時 catalyst：Durable Goods（8:30pm）、Fed Schmid（9:20pm）、Michigan Sentiment（10:00pm）\n• Key levels：SPY 上方 $779（歷史高位阻力）、下方 $763（噚日低點）——若債息續升，$763 失守會測試 $760（50日線）\n• Hormuz deal 新聞 —— 成個星期嘅 swing factor，任何實質進展都係大 catalyst\n\n═══════════════════════════════════════\n💡 My Take\n═══════════════════════════════════════\n\n市場 bias：Neutral 偏 Bearish（tilt bearish）。\n\n核心判斷：呢個星期嘅主導力量係債息，唔係股票新聞。鷹派 Warsh regime + 伊朗油價溢價 + 債息 5%+ 呢三樣嘢形成咗一個 risk-off 嘅 macro 框架。Dow 連跌4週、小型股弱、公用事業被拋，全部係呢個框架嘅表現。\n\n但係有一個重要嘅 asymmetric catalyst：伊朗 de-escalation。如果 Hormuz deal 落實，成條「油價→通脹→息率→股價」嘅壓力鏈會一次過逆轉，觸發 relief rally。呢個唔係「可能」，而係 News Curator 已經標咗做 ACTION——伊朗已經擺咗提案上枱。\n\n今日最緊要睇實：\n1. Hormuz deal 有冇實質進展（成個市場 bias 取決於此）\n2. Fed Schmid / Hammack 講嘢（會唔會 reinforce 鷹派）\n3. Durable Goods + Michigan Sentiment（會唔會加劇經濟放緩 narrative）\n\n改唔改 thesis？我嘅之前 thesis 係「債息見頂前股市難有大升幅」。今日維持，但加一個條件：伊朗 de-escalation 係唯一可以快速推翻呢個 thesis 嘅 catalyst。所以呢個星期嘅操作重心係——唔好急於撈底，等 catalyst 明確先出手，尤其喺 Core PCE（9/30）同 NFP（10/2）之前。",
+      "risks": [
+        "債息向 5.5% 衝：長 duration 科技股估值受壓",
+        "伊朗 deal 破裂：油價再衝 $107+，通脹預期升溫，risk-off 加劇",
+        "Core PCE（9/30）+ NFP（10/2）爆冷：加息預期大幅上修",
+        "VIX 低位（14.2）嘅 complacency：一旦 catalyst 惡化，波動可以瞬間放大"
+      ],
+      "my_take": "債息係呢個星期嘅主導力量。鷹派 Warsh Fed 加咗息但債息失控（10yr 5.11%、30yr 5.4% 見 2004 年新高），配合伊朗油價溢價，形成 risk-off macro 框架（Dow 連跌4週、小型股弱、公用事業被拋）。唯一嘅 asymmetric upside catalyst 係伊朗 Hormuz de-escalation——若落實，成條「油價→通脹→息率」壓力鏈一次過逆轉。今日 bias 中性偏 bearish，操作重心係等 catalyst 明確，唔急於撈底，尤其喺 Core PCE（9/30）同 NFP（10/2）之前。"
     }
   ],
   "news_curator": [
