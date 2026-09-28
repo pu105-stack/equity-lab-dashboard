@@ -3859,34 +3859,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-28",
-      "time": "08:07 HKT",
-      "status": "success",
-      "market_direction": "周末市況淡靜，主導故事係美伊戰爭：市場正在 pricing de-escalation，油價不升反跌",
-      "headlines": [
-        "[RECENT] WATCH: OIL — Trump 拒絕伊朗和平協議但暗示和談本週重啟，油價不升反跌",
-        "[NEW] ACTION: NVDA/BABA — 中國考慮允許字節跳動/阿里購買 Nvidia 新晶片",
-        "[RECENT] ACTION: OIL — Trump 考慮柴油出口禁令（VLO/PSX/MPC）",
-        "[RECENT] WATCH: META — Muse AI 熱潮 vs 今日回調 3.3%"
-      ],
-      "opportunities": [
-        "NVDA/BABA: 中國擬開放 Nvidia 晶片採購 — 潛在新需求來源",
-        "OIL: 美伊戰爭二元風險 — 市場 pricing 和談，破局則 oil spike"
-      ],
-      "analysis": "Headlines 講 escalation，市場資金做 de-escalation 交易。國債收益率 >5% 壓制風險資產。",
-      "risks": [
-        "美伊和談破局 → oil spike + risk-off",
-        "國債收益率持續上行 → 高槓桿 AI 公司融資壓力"
-      ],
-      "my_take": "Trump 係唯一 catalyst：同時拒絕協議 + 釋放和談信號 + 考慮柴油出口禁令壓油價。和談成事則 risk-on 受惠，破局則反向。",
-      "key_takeaways": [
-        "油價不升反跌 = 市場 pricing de-escalation",
-        "國債收益率突破 5% 係宏觀壓力",
-        "中國開放 Nvidia 晶片採購係潛在催化劑"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-28",
       "time": "08:33 HKT",
@@ -3913,6 +3885,64 @@
         "下次 FOMC Oct 27-28（約一個月後），鷹派 Warsh 下無減息緩衝"
       ],
       "my_take": "市場 vote de-escalation（油 -9%、國防 -5%），但 10Y 5.18% 債息係未解除 tail risk。明晚 JOLTs（HIGH）係第一個裁判：熱 → 債息破位壓 Nasdaq，冷 → risk-on 有得上。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-28",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "Risk-off：油價升穿 $108 推高通脹預期，債市拋售加劇，美股期貨轉跌",
+      "headlines": [
+        "[NEW] ACTION: NVDA — 破紀錄 $150B 回購",
+        "[NEW] WATCH: OIL — 油價升穿 $108",
+        "[NEW] WATCH: MACRO — 10 月加息預期升溫",
+        "[NEW] ACTION: 中美下調 $60B 關稅"
+      ],
+      "opportunities": [
+        "NVDA: 破紀錄 $150B 回購，risk-off 中嘅結構性支撐",
+        "中美關稅: $60B 下調，de-escalation counterweight",
+        "OIL: 油價反轉升穿 $108，反 NC #2 解讀"
+      ],
+      "analysis": "市場同時面對伊朗 escalation 同中美 de-escalation 兩股相反力量，但主導力量係債市拋售——油價升穿 $108 推高通脹預期，鷹派 Warsh Fed 談 10 月加息。",
+      "risks": [
+        "油價持續升 → 滯脹風險",
+        "10 月加息預期升溫",
+        "伊朗恐襲陰謀升級 kinetic 風險"
+      ],
+      "my_take": "NVDA 花 $150B 回購托價係估值憂慮嘅訊號。債市先係真正風險——yields 升會打擊 gold、crypto、高槓桿 AI 股。",
+      "key_takeaways": [
+        "油價升穿 $108，債市拋售係主導力量",
+        "NVDA $150B 回購係 risk-off 中唯一亮點",
+        "中美 $60B 關稅下調係 counterweight"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-28",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bearish-leaning / Defensive — 加息週期 + 油價推高通脹，債市拋售",
+      "headlines": [
+        "FT: 債市拋售加劇，油價升穿 $108",
+        "FT: NVDA 破紀錄 $150B 回購",
+        "NYT: 中美承諾下調 $60B 關稅",
+        "OilPrice: 美伊僵局推高歐洲天然氣",
+        "Fed 9 月加息 25bp 至 3.75-4.00%，10 月或再加"
+      ],
+      "focus": [
+        "Energy（油價 $108 主線）",
+        "NVDA（$150B 回購，AI 龍頭結構支撐）",
+        "Defense（RAF Fairford 恐襲陰謀）",
+        "長久期科技（加息週期受害者）"
+      ],
+      "analysis": "# Morning Scan — 2026-09-28 (Mon)\n\n## Fed Context（macro backdrop）\n聯儲局 9 月 15-16 日 FOMC 以 **12-0 一致投票加息 25bp**，聯邦基金利率區間升至 **3.75-4.00%**。聲明核心：「Inflation remains elevated」（通脹仍然偏高）、「economic activity is expanding at a solid pace」（經濟穩固擴張）、「will deliver price stability」（堅決壓低通脹）。呢個係一個**加息週期**——唔係市場慣常嘅減息環境。Warsh 主導嘅鷹派 Fed 唔會因為油價帶動嘅通脹而手軟。\n\n下次 FOMC：**10 月 27-28**，市場已開始 price in 10 月再加 25bp。呢個就係成個 risk-off 嘅根源：**加息週期 + 通脹黏性 = 長久期資產估值殺手**。\n\n今週 Fed press release 冇市場影響（都係銀行審批、stablecoin 監管框架等 administrative 事項）。真正要睇實嘅係星期三 Core PCE。\n\n## 📰 今日重點頭條（raw headlines）\n1. 【FT】Bond sell-off deepens as oil rises above $108 — 債市拋售加劇，油價升穿 $108（USO）\n2. 【FT】Nvidia launches record $150bn share buyback — NVDA 破紀錄回購\n3. 【NYT】China and the U.S. Pledge to Cut Tariffs on $60 Billion in Goods — 中美關稅下調，de-escalation\n4. 【OilPrice】European Gas Prices Rally on U.S.-Iran Stalemate — 伊朗僵局推高天然氣（UNG）\n5. 【Investing】Premarket movers: Boeing falls on software glitch — BA 軟件故障\n6. 【Investing】BoE's Ramsden signals shift on rates — 英倫銀行轉向\n7. 【MarketWatch】The history of this market's bad-breadth signal points to risks ahead — 市場廣度惡化警告\n8. 【247wallst】Adobe's Rollercoaster Ride Continues — ADBE 波動\n9. 【BBC/Defense】RAF Fairford 伊朗關聯恐襲陰謀 — geopolitical risk\n10. Gold Fields $27B 收購遭拒\n\n## 🌍 隔夜市場\n- 美股上周五收綠：SPY +0.54%（$771.35）、DIA +0.94%（$517.49）、QQQ +0.46%（$744.50）——Dow 領跑（value/cyclical 輪動）\n- 但周末油價反轉升穿 $108，美股期貨周一轉跌\n- VIX 由 14.87 升至 **16.13**——恐慌緩慢升溫\n- 債市拋售加劇（10Y yield 升）——最核心 macro driver\n- 油價 $108+、天然氣 rally（伊朗僵局）\n- 黃金 +0.43%（$393）——但「yields 主導」，同油價反向，唔係純避險買盤\n- 白銀 $58（已跌穿 $63.55 關鍵位，加速賣壓）\n- Bitcoin $83K——risk-off\n\n## 📈 昨日爆升／暴跌榜（FMP）\n注意：FMP gainers/losers 未經市值篩選，頂部全部係 microcap/penny stock。呢個本身係 signal——**retail 投機泡沫**，喺 VIX 升 + 債市拋售環境下極脆弱。\n\n爆升（全部 microcap 投機）：IMMP +1911%、FBGL +929%、GMEX +751%\n暴跌：AXG -84.62%、IPEX -57.75%、WYY -50.59%\n活躍：AIFF +68.91%、GPUS -6.35%、**INTC -3.45%（唯一大市值 mover，高成交量）**\n\nSector theme：冇 clean rotation，主要 single-event/speculative。主線仍係 energy（油價）+ 半導體（INTC 弱 vs NVDA buyback 強嘅分歧）。\n\n## 📡 今日重點事件（source: macro_calendar.json）\n- 今日（周一）相對平靜：Dallas Fed Manufacturing（10:30PM HKT，prev 11.6）、Fed Barkin Speech（01:30AM HKT）\n- 本週 HIGH 事件：\n  - Tue Sep 29 10:00PM HKT：JOLTs（fcast 7.24M vs prev 7.271M）\n  - Wed Sep 30 08:30PM HKT：GDP Q2 final（fcast 1.5% vs prev 2.1%）、**Core PCE MoM（fcast 0.3% vs prev 0.2%）**、Personal Spending/Income\n  - Thu Oct 1 10:00PM HKT：ISM Manufacturing（fcast 54.9 vs prev 54.6）\n  - Fri Oct 2 08:30PM HKT：**NFP（fcast 84K vs prev 162K）**、Unemployment（4.1%）\n\n本週兩個關鍵 macro 風險：\n1. **Wed Core PCE**——若 print 0.3%+ MoM（高過前值 0.2%），確認通脹黏性，債市再拋售，長久期科技受壓。\n2. **Fri NFP**——forecast 84K（vs 前值 162K），若真係咁弱，係 stagflation 信號（高通脹 + 弱就業 = 最差組合），令 Fed 陷兩難。\n\n## 🔥 Sector Watch\n- **Energy（油氣）↑**——油價 $108+、伊朗僵局、天然氣 rally。而家最強 momentum。\n- **貴金屬 中性偏謹慎**——黃金反油價而行（yields 主導），唔好當避險；白銀已破位向下。\n- **Defense ↑**——RAF Fairford 恐襲陰謀 + 伊朗 escalation，geopolitical 溢價。\n- **半導體 分歧**——NVDA $150B buyback（結構性支撐）vs INTC 弱 + 加息週期壓估值。\n- **長久期科技 ↓**——加息週期 = 高 discount rate = 最直接受害者。\n\n## 🎯 Pre-market Opportunities（consolidate from News Curator）\n- **NVDA**（ACTION）——$150B 破紀錄回購，risk-off 中嘅結構性支撐，但亦係估值憂慮訊號。部署：若大市因 PCE 拋售，NVDA 相對抗跌，但唔好追高，等回調。\n- **中美關稅下調 $60B**（ACTION）——de-escalation counterweight，受益：對華出口/供應鏈敏感股（consumer、tech hardware）。\n- **OIL/Energy**（WATCH）——油價升穿 $108 反轉 NC #2 嘅 de-escalation 解讀，伊朗僵局持續則能源股有 follow-through。\n- **DEFENSE**（WATCH）——RAF Fairford 恐襲陰謀，geopolitical risk premium。\n- **MACRO 加息**（WATCH）——10 月加息預期升溫、債市拋售，要睇實 yield。\n\n## 📅 未來一個月業績重點（source: earnings_calendar.json）\n本週（輕業績週）：\n- Wed Sep 30：**MU（Micron）AMC 🎯**——記憶體/AI 週期，半導體 sentiment 風向標。\n- Thu Oct 1：**ACN（Accenture）BMO 🎯**——IT 服務，AI 落地需求 indicator。\n- Thu Oct 1：**NKE（Nike）AMC 🎯**——消費/中國需求（關稅下調受益者）。\n\n下週：\n- Thu Oct 8：PEP BMO——防禦性消費，加息週期下避風港測試。\n- Fri Oct 9：DAL BMO——航空，油價 $108 對成本係逆風。\n\n## 📋 Today's Agenda\n- 周一相對平靜，主要消化周末油價 + 債市拋售\n- 關鍵位：SPY 收 $771.35，50-day MA $761.57（support），year high $779.37（resistance）\n- 若期貨延續跌勢，SPY 先睇 50-day $761\n- 本週 catalyst：Wed Core PCE + GDP、Fri NFP\n\n## 💡 My Take\n**Bias：Bearish-leaning / Defensive（防守性偏淡）**\n\n成個 macro 結構係一個**加息週期**（Fed 9 月先加 25bp，10 月可能再加），疊加油價 $108 推高通脹，令債市拋售、yield 升、長久期資產估值受壓。呢個唔係普通回調，係結構性轉向。\n\n但唔係一面倒睇淡——兩個 counterweight：NVDA $150B 回購 + 中美關稅下調。\n\n今日最緊要睇實：**債市 yield**（10Y 繼續升則 risk-off 加劇）。本週 catalyst 係 **Wed Core PCE** 同 **Fri NFP**。\n\n改變 thesis 嘅信號：若 Wed Core PCE print ≤0.1%（通脹降溫）→ 加息預期降溫，risk-on 反彈。若 print 0.3%+ 而 Fri NFP 又弱 → stagflation 恐慌，加速拋售。",
+      "risks": [
+        "Wed Core PCE 若熱（0.3%+）→ 債市再拋售",
+        "Fri NFP 若弱（84K）→ stagflation 恐慌",
+        "retail 投機泡沫（microcap +1911%）在 risk-off 下脆弱",
+        "油價持續 > $108 → 通脹黏性強化加息預期"
+      ],
+      "my_take": "防守性偏淡。Fed 正處加息週期（9 月加 25bp 至 3.75-4.00%，10 月或再加），油價 $108 推高通脹，債市拋售令長久期資產估值受壓。兩大 counterweight：NVDA $150B 回購 + 中美關稅下調。本週睇實 Wed Core PCE 同 Fri NFP——若 PCE 熱而 NFP 弱，係 stagflation 恐慌。"
     }
   ],
   "news_curator": [
