@@ -3857,6 +3857,62 @@
         "GLP-1 Battle: NVO/LLY",
         "Consumer Downgrade: NKE"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-28",
+      "time": "08:07 HKT",
+      "status": "success",
+      "market_direction": "周末市況淡靜，主導故事係美伊戰爭：市場正在 pricing de-escalation，油價不升反跌",
+      "headlines": [
+        "[RECENT] WATCH: OIL — Trump 拒絕伊朗和平協議但暗示和談本週重啟，油價不升反跌",
+        "[NEW] ACTION: NVDA/BABA — 中國考慮允許字節跳動/阿里購買 Nvidia 新晶片",
+        "[RECENT] ACTION: OIL — Trump 考慮柴油出口禁令（VLO/PSX/MPC）",
+        "[RECENT] WATCH: META — Muse AI 熱潮 vs 今日回調 3.3%"
+      ],
+      "opportunities": [
+        "NVDA/BABA: 中國擬開放 Nvidia 晶片採購 — 潛在新需求來源",
+        "OIL: 美伊戰爭二元風險 — 市場 pricing 和談，破局則 oil spike"
+      ],
+      "analysis": "Headlines 講 escalation，市場資金做 de-escalation 交易。國債收益率 >5% 壓制風險資產。",
+      "risks": [
+        "美伊和談破局 → oil spike + risk-off",
+        "國債收益率持續上行 → 高槓桿 AI 公司融資壓力"
+      ],
+      "my_take": "Trump 係唯一 catalyst：同時拒絕協議 + 釋放和談信號 + 考慮柴油出口禁令壓油價。和談成事則 risk-on 受惠，破局則反向。",
+      "key_takeaways": [
+        "油價不升反跌 = 市場 pricing de-escalation",
+        "國債收益率突破 5% 係宏觀壓力",
+        "中國開放 Nvidia 晶片採購係潛在催化劑"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-28",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "De-escalation rally 開始被 pricing in（油價週跌 9%、國防股週跌 5%），但 10Y 5.18% 債息壓力未解除",
+      "headlines": [
+        "美伊戰爭 de-escalation 被資金定價：油價週跌 ~9%、國防股全線走弱，市場唔信 escalation 論述",
+        "10Y 國債收益率企穩 5.18%（週 +23bps），鷹派 Warsh regime 下 rate 壓力持續",
+        "META Muse AI 熱潮週 +12.9%，但週五 -3.3% 回調，考驗係 fad 定 trend",
+        "Micron 盈利增長論成立：MU 週 +6.5% 跑贏 NVDA +1.3%",
+        "Trump 考慮柴油出口禁令 + 油崩：煉油股 VLO/PSX/MPC 週跌 6-7%",
+        "AI 內部輪動確認：消費裝置（AAPL/MSFT/META）強 vs 資料中心（ORCL -7.1%、AVGO -1.3%）裂開"
+      ],
+      "opportunities": [
+        "MU/NVDA: Micron 盈利增長論證成立，MU 週 +6.5% 跑贏 NVDA — carry 到業績確認前",
+        "OIL/煉油股: 柴油出口禁令若落實，VLO/PSX/MPC 有 further downside，但油價反彈會對沖",
+        "META: Muse AI +12.9% 後 -3.3% 回調，睇回調係吸納定見頂"
+      ],
+      "analysis": "📊 Market Recap\n\n週五（最後交易日）risk-on：SPY +0.54%、QQQ +0.46%、DIA +0.94%、VIX 急跌 -5.1%。但更值得睇嘅係週線——呢個係一條 de-escalation trade：\n\n• QQQ 週 +3.85% 領先，SPY +1.15%，但 DIA -0.17%、IWM -1.21%（small cap / 道指落後）\n• 油價週跌 ~9%（$101.9 → $92.4），國防股週跌 2-5%——資金用真金白銀定價和談，唔信 headlines 嘅 escalation 論述\n• 10Y 國債收益率企穩 5.18%（週 +23bps）——rate 壓力同 de-escalation 動能並存，係呢個市場最核心嘅張力\n• Sector：XLK +3.5%、XLC +1.9% 係贏家；XLU -3.9%、XLE -3.5%、XLRE -2.3% 係輸家（utility/energy/REIT 全係 rate-sensitive 板塊，債息 >5% 直接殺估值）\n\n🔥 Notable Movers\n\n• META +12.9%（Muse AI 熱潮）但週五 -3.3% 回調——12.9% 週漲後首次明顯回吐，考驗係 trend 定 fad\n• MU +6.5% vs NVDA +1.3%——Micron 盈利增長論成立，NC 呢個 call 完全命中\n• MSFT +4.5%（週五 +3.7%）——消費裝置端 AI 強勢\n• ORCL -7.1%、AVGO -1.3%——資料中心裂開，AI 內部由硬體輪動去消費裝置\n• 煉油股 VLO -6.3% / PSX -6.4% / MPC -7.4%——柴油出口禁令 + 油崩雙殺\n• 國防 LMT -2.6% / NOC -3.2% / GD -4.6% / RTX -2.4%——de-escalation 直接殺國防\n\n📰 News That Mattered（NC calls 覆盤）\n\nNC 命中（大部分）：\n✓ 油跌、國防跌（de-escalation 定價）——完全命中\n✓ MU > NVDA（Micron 盈利增長）——命中\n✓ 煉油股下跌（柴油出口禁令）——命中，且幅度比預期更狠\n✓ META 回調風險——命中（週五 -3.3%）\n\nNC 未中：\n✗ BABA 冇彈（週 -3.1%）——「中國允許買 Nvidia 晶片」冇轉化為 BABA 反彈\n✗ GDDY 收購傳聞冇反應（週 -0.3%，週五 -3.6%）\n✗ 技術股對 5% 債息抗性強——NC 擔心債息 >5% 壓 Nasdaq，但 QQQ 週 +3.85% 完全冇被壓低\n\n關鍵 insight：市場目前對 rate 敏感嘅係 utility/REIT/small cap（債息受害者），而 mega-cap AI 成長股（QQQ）暫時免疫——呢個「rate 分化」係 NC 冇 fully capture 嘅嘢。\n\n🎯 Opportunities Carry Forward\n\n1. De-escalation 動能：若本週和談落實，能源/國防繼續走弱，risk-on（尤其 mega-cap AI）受惠。呢個係今週最大嘅 directional bet。\n2. MU vs NVDA：Micron 盈利增長故事可 carry，但接近業績前要小心——若 MU 業績 confirm，NVDA 相對跑輸會持續。\n3. 煉油股：柴油出口禁令若落實，VLO/PSX/MPC 有 further downside；但注意油價若因和談破局反彈會對沖呢個空頭邏輯。\n4. META Muse AI：12.9% 週漲後 -3.3% 回調，睇呢個回調係吸納位定係動能見頂——今晚/明晚 pre-market 反應係關鍵。\n\n⚠️ Risks / Watchlist\n\n• 明晚 JOLTs Job Openings（10pm HKT，HIGH）：prev 7.271M / fc 7.23M。鷹派 Warsh regime 下，若 JOLTs 熱（>7.3M）→ 債息再破位 → 直接壓 Nasdaq。呢個係今週第一個 macro 考驗。\n• 今晚 Dallas Fed Manufacturing（10:30pm HKT，MED）+ Fed Barkin speech（1:30am HKT，MED）——Barkin 講嘢要聽有冇 hawkish 加碼。\n• Iran 和談破局 = oil spike 二元風險（asymmetric downside，現時油價已回落令破局嘅 upside 更大）。\n• 下次 FOMC Oct 27-28，無減息緩衝，5.18% 債息對 utility/REIT/small cap 持續係結構性壓力。\n• 持倉風險：唔作持倉，但 rate-sensitive 板塊（utility/REIT/國防/煉油）若和談落實會持續失血。\n\n💡 My Take\n\n今日一句：市場用真金白銀 vote de-escalation（油 -9%、國防 -5%、VIX -5%），但 5.18% 債息係一條未解除嘅 tail risk。\n\n最重要 takeaway：油價週跌 9% 呢個 magnitude 已經唔係 noise——市場完全唔信 headlines 嘅 escalation 論述，直接定價和談。呢個係 asymmetric 機會：和談成功 = 上，破局 = 下。但真正嘅隱形殺手係 rate：10Y 5.18% 壓住 utility/REIT/small cap，而 mega-cap AI 暫時免疫形成「rate 分化」。明晚 JOLTs 係第一個裁判。\n\nTomorrow bias：中性偏 bullish——de-escalation 動能 + mega-cap AI 相對強勢支撐；但若明晚 JOLTs 熱令債息再破位，轉防守、減 rate-sensitive 暴露。\n",
+      "risks": [
+        "明晚 JOLTs Job Openings（HIGH）：prev 7.271M / fc 7.23M，若熱 → 債息再破位 → 壓 Nasdaq",
+        "Iran 和談破局 = oil spike 二元風險（asymmetric downside）",
+        "10Y 5.18% 債息持續壓制高槓桿 AI 融資 + 成長股估值",
+        "下次 FOMC Oct 27-28（約一個月後），鷹派 Warsh 下無減息緩衝"
+      ],
+      "my_take": "市場 vote de-escalation（油 -9%、國防 -5%），但 10Y 5.18% 債息係未解除 tail risk。明晚 JOLTs（HIGH）係第一個裁判：熱 → 債息破位壓 Nasdaq，冷 → risk-on 有得上。"
     }
   ],
   "news_curator": [
