@@ -3943,6 +3943,65 @@
         "油價持續 > $108 → 通脹黏性強化加息預期"
       ],
       "my_take": "防守性偏淡。Fed 正處加息週期（9 月加 25bp 至 3.75-4.00%，10 月或再加），油價 $108 推高通脹，債市拋售令長久期資產估值受壓。兩大 counterweight：NVDA $150B 回購 + 中美關稅下調。本週睇實 Wed Core PCE 同 Fri NFP——若 PCE 熱而 NFP 弱，係 stagflation 恐慌。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-29",
+      "time": "08:06 HKT",
+      "status": "success",
+      "market_direction": "Risk-off — 債息破5% + 油價續升，SPY -0.74% / QQQ -1.07%，黃金 -3.94%",
+      "headlines": [
+        "[NEW] AMD — $8.2B 收購 World Labs，押注 physical AI（市場 -3.6% skeptical）",
+        "[NEW] MDB — CEO 跳槽 Meta，崩 18%",
+        "[NEW] MACRO — 債市拋售加深，10Y 破 5%",
+        "[RECENT] OIL — 油價續升 + 柴油出口禁令風險，Iran-US 膠著",
+        "[NEW] PRECIOUS_METALS — 黃金 -3.9%，避險失效"
+      ],
+      "opportunities": [
+        "OIL: 能源長倉係唯一逆市贏家，油價近一年高位",
+        "AMD: physical AI 收購係長線 strategic，但市場短期 skeptical",
+        "MDB: governance shock，等 leadership 明朗先入"
+      ],
+      "analysis": "US session risk-off。債息（10Y 破5%）取代地緣成為市場主軸。油價升 + 黃金跌背離 = 資金為 higher-for-longer + 再通脹定價，非避險。AMD 收購 World Labs 押注 physical AI，市場以 -3.6% 表態 skeptical。MDB CEO 跳槽 Meta 係 governance shock。",
+      "risks": [
+        "債息持續破位，成長股/高估值 AI 股壓力加大",
+        "MDB 領導真空可能拖累基本面",
+        "油價急升 → 通脹預期 → Fed 更鷹（higher-for-longer 風險）"
+      ],
+      "my_take": "債息而家先係市場主軸，唔係地緣。油價升 + 黃金跌嘅背離證明資金喺為 higher-for-longer + 再通脹定價。能源長倉係唯一逆市贏家。",
+      "key_takeaways": [
+        "10Y 美債破 5%，risk-off 主軸",
+        "油價近一年高位，能源係唯一逆市贏家",
+        "黃金 -3.9%，避險失效（yields 主導）",
+        "AMD physical AI 收購 + MDB CEO 跳槽，兩單重大 single-name 事件"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-09-29",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "De-escalation rally 逆轉 — 債息破5%企穩 + 油價回升主導 risk-off，黃金 -3.94% 避險失效",
+      "headlines": [
+        "AMD $8.2B 收購 World Labs（physical AI），市場 -3.6% 投反對票",
+        "MDB CEO 跳槽 Meta 崩 18%，AI 人才戰 governance shock",
+        "10Y 債息破 5% 企穩（5.17%），油價近一年高位",
+        "黃金 -3.94% / 白銀 -5.49% 崩跌，避險失效",
+        "NVDA 破紀錄 $150B 回購逆市 +1.68%"
+      ],
+      "opportunities": [
+        "OIL/XLE/USO: 油價近一年高位 + 伊朗-US 膠著，reflation 下唯一 supply constraint 支撐板塊",
+        "NVDA: $150B 回購結構性 bid，但屬托價信號而非增長信號",
+        "XLV/XLP: 防守輪動 continuation，債息 >5% 下 safe harbor"
+      ],
+      "analysis": "# Evening Review — 2026-09-29（回顧 9/28 美股收市）\n\n## 📰 今日重點頭條\n\nRaw news_summary DB 過去 24h 大半係貴金屬峰會 slideshow noise（Beaver Creek），真正 market-moving 得幾條，NC 全部有 capture，冇漏 major catalyst：\n\n1. 【investing.com】AMD to buy Fei-Fei Li's World Labs in $8.2B bet on 'physical AI'（AMD）✓ NC cover\n2. 【WSJ】Goldman Sachs board discussed plan to name Waldron as next CEO（GS）✓ NC cover\n3. 【abc_news】Pentagon breach exposed sensitive data on ~3M people（國防）✓ NC cover\n4. 【NC】10Y 債息破 5% + 油價續升 — 市場主軸（MACRO）\n5. 【NC】MDB CEO 跳槽 Meta 崩 18% — governance shock（MDB/META）\n6. 【NC】NVDA 破紀錄 $150B 回購逆市 +1.68%（NVDA）\n\n## 📊 Market Recap\n\n一句：**de-escalation rally 正式逆轉**，市場由「和談定價」轉去「再通脹 + 鷹派 Fed」定價。\n\n- SPY -0.74%（765.61）、QQQ -1.07%（736.53）、DIA -0.67%、IWM -0.69% — 全面下跌，無板塊避難\n- 10Y 債息 5.17%（週內 4.96% → 5.11% → 5.18% → 5.17%），確認企穩 5% 之上 — 唔係 blip，係 regime shift\n- Sector 贏家：XLV +0.33%（醫療）、XLP +0.27%（必需消費）、XLE +0.10%（能源）— 防守 + 能源\n- Sector 輸家：XLC -1.58%（META 拖累）、XLY -1.41%（消費）、XLF -1.19%（金融）\n- 關鍵信號：**黃金 -3.94%、白銀 -5.49% 崩跌，而油價 +1.13% 升** — 呢個背離係成個 market 最核心嘅訊息：資金唔係避險（避險會買黃金），而係為「higher-for-longer + 再通脹」定價。黃金係零息資產，10Y 由 4.96% 衝上 5.17%，黃金嘅機會成本直接爆升。\n\n## 🔥 Notable Movers\n\n- **MDB -18.46%**（$410 → $335）— CEO 跳槽 Meta，AI 人才戰嘅 governance shock。單一事件，但係警號：AI 最頂尖 talent 正被 mega-cap 挖角。\n- **META -4.79%** — 挖走 MDB CEO + Muse AI 回調，雙重壓力。\n- **AMD -3.61%** — $8.2B 買 World Labs（physical AI），市場 skeptical。\n- **SLV -5.49% / GLD -3.94%** — 貴金屬崩，避險失效。\n- **GS -2.05%** — Waldron 接班討論，唔係壞消息，只係 noise。\n- **NVDA +1.68%** — 唯一逆市 mega-cap，$150B 回購托價，risk-off 中嘅結構性 bid。\n- **USO +1.13%** — 油價近一年高位，伊朗-US 膠著。\n\n## 📰 News That Mattered（NC calls 覆盤）\n\n**NC 命中：**\n✓ MDB 崩 18%（governance shock）— 完全命中\n✓ AMD -3.6%（World Labs skeptical）— 命中\n✓ META -4.8%（Muse AI 回調）— 命中\n✓ 債息破 5% + 油價升 = 再通脹 — 命中，NC #2 核心 thesis\n✓ 黃金 -3.9% 避險失效 — 命中\n✓ NVDA 逆市 — 命中\n\n**NC 錯過：**\n✗ 上週五嘅「de-escalation 定價」（油 -9%、國防 -5%）— 今日完全逆轉，油價回升。呢個係成個 week 最大反轉。NC #1 喺 9/28 晚已自行修正（「油價反轉升穿 $108，反 NC #2 de-escalation 解讀」），但 9/28 早嘅 Evening Review 仍 base 喺 de-escalation 上。\n\n**核心 insight：** 上週嘅「rate 分化」（mega-cap AI 對 5% 債息免疫）今日已經破功 — QQQ -1.07% 開始跑輸防守板塊，5% 債息終於追上 AI complex。上週 Evening Review 講「mega-cap AI 暫時免疫」呢個判斷今日需要修正。\n\n## 🎯 Opportunities Carry Forward\n\n1. **能源長倉（OIL / XLE / USO）** — NC 嘅 ACTION，油價近一年高位 + 伊朗-US 膠著 + 柴油出口禁令懸而未決。reflation 環境下，能源係唯一有 supply constraint 支撐嘅板塊。留意明天有冇 continuation。\n2. **NVDA buyback 結構性支撐** — $150B 回購喺 risk-off 中係結構性 bid，但呢個係「托價」而非「增長」signal：回購托價 = 管理層自己都驚估值回落，唔好過度解讀做 bullish。\n3. **防守板塊（XLV/XLP）** — 若債息持續 >5%，醫療/必需消費嘅防守輪動有 continuation。\n4. **貴金屬** — 唔係機會，係風險。黃金/白銀崩跌證明喺鷹派 Fed regime 下避險資產唔 work，唔好撈底。\n\n## ⚠️ Risks / Watchlist\n\n今晚（9/29 HKT）：\n- **JOLTs Job Openings（10pm HKT，🔴 HIGH）** — 上週 Evening Review 已 flag 呢個做「第一個裁判」。prev 7.271M / fc 7.23M。若熱 → 債息再破位 → 直接壓 Nasdaq。\n- **CB Consumer Confidence（10pm，🟡 MED）** — 通脹預期成分要留意。\n- **Fed Goolsbee / Musalem / Williams speech（1-2am HKT）** — 三個 Fed 官員講嘢，聽有冇 hawkish 加碼。\n\n明天（9/30 HKT）：\n- **Core PCE（8:30pm，🔴 HIGH）** — 成個 week 最重磅。Morning Scan 已講「若 PCE 熱而 NFP 弱，係 stagflation 恐慌」，Core PCE 係 Warsh Fed 最睇重嘅通脹指標。\n\n結構性風險：\n- **10Y 站穩 5% 之上** — regime shift，唔係短期 noise。高槓桿 AI 融資 + 成長股估值持續受壓。\n- **Iran-US 膠著** — 油價二元風險，破局 = oil spike，asymmetric downside。\n- **下次 FOMC Oct 27-28** — 鷹派 Warsh 下無減息緩衝。\n- 持倉風險：唔作持倉（portfolio.json 空）。\n\n## 💡 My Take\n\n今日一句：**市場由「和談定價」180 度轉去「再通脹 + 鷹派 Fed」定價 — 黃金崩、油升、債息破 5%，避險資產失效。**\n\n最重要 takeaway：上週嘅 de-escalation rally 係 dead cat。今日 price action（油 +1.13% vs 金 -3.94%）證明資金唔係避險，而係喺為「higher-for-longer + 再通脹」定價 — 正正係 Morning Scan 嘅 stagflation 前奏。5% 債息由「mega-cap AI 免疫」變成「全面壓制」，上週嘅 rate 分化已經收斂。\n\nTomorrow bias：**中性偏 bearish**。今晚 JOLTs + 明晚 Core PCE 係兩個 macro 裁判，risk-off 未完。除非今晚 JOLTs 冷（<7.2M）令債息回吐，否則防守 + 能源係唯一 safe harbor。mega-cap AI 嘅「免疫」已經消失，唔好再當佢係避風港。",
+      "risks": [
+        "今晚 JOLTs（10pm，HIGH）— 熱則債息破位壓 Nasdaq",
+        "明晚 Core PCE（8:30pm，HIGH）— 成個 week 最重磅，stagflation 恐慌",
+        "10Y 站穩 5% 之上 — regime shift，高槓桿 AI + 成長股估值受壓",
+        "Iran-US 膠著 — 油價二元風險 asymmetric downside"
+      ],
+      "my_take": "市場由「和談定價」180 度轉去「再通脹 + 鷹派 Fed」定價 — 黃金 -3.94% 崩、油價升、10Y 債息破 5% 企穩，避險資產失效。5% 債息由「mega-cap AI 免疫」變「全面壓制」，rate 分化收斂。今晚 JOLTs + 明晚 Core PCE 兩個 macro 裁判決定 risk-off 有冇得收。"
     }
   ],
   "news_curator": [
