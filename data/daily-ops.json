@@ -3945,38 +3945,6 @@
       "my_take": "防守性偏淡。Fed 正處加息週期（9 月加 25bp 至 3.75-4.00%，10 月或再加），油價 $108 推高通脹，債市拋售令長久期資產估值受壓。兩大 counterweight：NVDA $150B 回購 + 中美關稅下調。本週睇實 Wed Core PCE 同 Fri NFP——若 PCE 熱而 NFP 弱，係 stagflation 恐慌。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-09-29",
-      "time": "08:06 HKT",
-      "status": "success",
-      "market_direction": "Risk-off — 債息破5% + 油價續升，SPY -0.74% / QQQ -1.07%，黃金 -3.94%",
-      "headlines": [
-        "[NEW] AMD — $8.2B 收購 World Labs，押注 physical AI（市場 -3.6% skeptical）",
-        "[NEW] MDB — CEO 跳槽 Meta，崩 18%",
-        "[NEW] MACRO — 債市拋售加深，10Y 破 5%",
-        "[RECENT] OIL — 油價續升 + 柴油出口禁令風險，Iran-US 膠著",
-        "[NEW] PRECIOUS_METALS — 黃金 -3.9%，避險失效"
-      ],
-      "opportunities": [
-        "OIL: 能源長倉係唯一逆市贏家，油價近一年高位",
-        "AMD: physical AI 收購係長線 strategic，但市場短期 skeptical",
-        "MDB: governance shock，等 leadership 明朗先入"
-      ],
-      "analysis": "US session risk-off。債息（10Y 破5%）取代地緣成為市場主軸。油價升 + 黃金跌背離 = 資金為 higher-for-longer + 再通脹定價，非避險。AMD 收購 World Labs 押注 physical AI，市場以 -3.6% 表態 skeptical。MDB CEO 跳槽 Meta 係 governance shock。",
-      "risks": [
-        "債息持續破位，成長股/高估值 AI 股壓力加大",
-        "MDB 領導真空可能拖累基本面",
-        "油價急升 → 通脹預期 → Fed 更鷹（higher-for-longer 風險）"
-      ],
-      "my_take": "債息而家先係市場主軸，唔係地緣。油價升 + 黃金跌嘅背離證明資金喺為 higher-for-longer + 再通脹定價。能源長倉係唯一逆市贏家。",
-      "key_takeaways": [
-        "10Y 美債破 5%，risk-off 主軸",
-        "油價近一年高位，能源係唯一逆市贏家",
-        "黃金 -3.9%，避險失效（yields 主導）",
-        "AMD physical AI 收購 + MDB CEO 跳槽，兩單重大 single-name 事件"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-09-29",
       "time": "08:33 HKT",
@@ -4002,6 +3970,136 @@
         "Iran-US 膠著 — 油價二元風險 asymmetric downside"
       ],
       "my_take": "市場由「和談定價」180 度轉去「再通脹 + 鷹派 Fed」定價 — 黃金 -3.94% 崩、油價升、10Y 債息破 5% 企穩，避險資產失效。5% 債息由「mega-cap AI 免疫」變「全面壓制」，rate 分化收斂。今晚 JOLTs + 明晚 Core PCE 兩個 macro 裁判決定 risk-off 有冇得收。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-09-29",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "債市拋售主導（10Y 破 5% 續見 6%，30Y 24年高位），risk-off 壓股市+gold，crypto 逆勢反彈",
+      "headlines": [
+        "[NEW] 🎯 NVO — $2.6B 收購中國減肥藥權利（第二筆授權）",
+        "[RECENT] 🎯 COIN — Coinbase 獲 CFTC 批准美國衍生品清算所",
+        "[NEW] 🎯 BTC-USD — 反彈至 $84K，ETF 淨流入 $30M，9月有望破十年紀錄",
+        "[RECENT] ⚠️ NVDA — 續報：AI safety 平台 + Samsung $1B 注資 AI 基建 + 保險分攤風險",
+        "[RECENT] ⚠️ MACRO — 續報：30Y 國債 24年高位，分析師睇 10Y 見 6%",
+        "[RECENT] ⚠️ OIL — 續報：柴油出口禁令風險升溫 + Saudi 重啟紅海原油裝載",
+        "[NEW] ⚠️ META — Muse 推出 Small Business 版本 + Zuckerberg/Amodei 會見 Trump",
+        "[RECENT] ⚠️ TSM — 傳考慮美國第二個晶片製造基地",
+        "[RECENT] ⚠️ BLK — 歐洲銀行推自家 ETF 挑戰 BlackRock/Vanguard",
+        "[RECENT] 📌 MACRO — Oura 推遲美國 IPO（市場 jitters 加深）",
+        "[RECENT] 📌 MACRO — Anthropic IPO 文件警告「existential risks」",
+        "[RECENT] 📌 DEFENSE — SpaceX 有望反彈（TD Cowen）"
+      ],
+      "opportunities": [
+        "[NEW] 🎯 NVO — 第二筆授權：$2.6B 收購中國減肥藥權利\n├ 故事年齡: [NEW] (~2.5h)\n├ 消息: \"Novo buys rights to Chinese weight-loss pill in $2.6bn deal\" (FT, 2026-09-29)\n├ 市場反應: 上週 capital-markets day 後 NVO 遭拋售，兩日內第二筆 licensing deal 補強 obesity pipeline\n├ My call: ACTION — 拋售後估值回調，$2.6B 中國口服減肥藥補足 GLP-1 口服缺口",
+        "[RECENT] 🎯 COIN — CFTC 批准美國衍生品清算所\n├ 故事年齡: [RECENT] (~8h)\n├ 消息: \"Coinbase gets CFTC approval for US derivatives clearinghouse\" (CoinTelegraph, 2026-09-29)\n├ 市場反應: 機構 crypto 基建大突破，配合 BTC 反彈 + Morgan Stanley crypto lab\n├ My call: ACTION — 監管 tailwind + 衍生品清算所係長期 revenue 引擎",
+        "[NEW] 🎯 BTC-USD — Bitcoin 反彈至 $84K，9月有望破十年紀錄\n├ 故事年齡: [NEW] (~2h)\n├ 消息: \"Bitcoin rebounds above $84,000 as ETFs draw in $30 million\" (CoinDesk, 2026-09-29)\n├ 市場反應: 債市拋售（10Y >5%、30Y 24年高位）下 BTC 逆勢反彈 — crypto 獨立於 risk-off\n├ My call: ACTION — contrarian signal，crypto 獨立 narrative 重現",
+        "[RECENT] ⚠️ NVDA — 續報：AI safety 平台 + Samsung $1B 注資 NVDA/KKR AI 基建\n├ 故事年齡: [RECENT] (~10h，隔夜 US session)\n├ 消息: \"Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm\" (CNBC, 2026-09-29)\n├ 市場反應: $150B buyback 後（已 curated）資金續流入 AI 基建，CNBC 指 buyback 顯示股價「太便宜」\n├ My call: WATCH — buyback 已 pricing，但 AI 基建資金持續流入係 structural",
+        "[RECENT] ⚠️ MACRO — 續報：30Y 國債 24年高位，分析師睇 10Y 見 6%\n├ 故事年齡: [RECENT] 續報（10Y 破 5% 已 12h+ 前 curated，新 escalation angle）\n├ 消息: \"Yardeni 'Not Convinced' 5.25% Is the Top in Yields\" (Bloomberg, 2026-09-29)\n├ 市場反應: 美股連跌、gold -3.9% 避險失效、IPO 凍結（Oura 推遲）— higher-for-longer 全面壓制\n├ My call: WATCH — 呢個係今輪主線，correction 風險升溫",
+        "[RECENT] ⚠️ OIL — 續報：柴油出口禁令（Trump/UK 角力）+ Saudi 重啟紅海裝載\n├ 故事年齡: [RECENT] 續報（Hormuz 已 5+ 日，de-escalation + 新政策風險）\n├ 消息: \"UK tries to stop Trump's diesel export ban\" (BBC, 2026-09-29)\n├ 市場反應: Saudi 重啟紅海裝載 + Mideast 出口反彈 = de-escalation，但柴油禁令係新 policy risk，Texas 放寬 dyed diesel\n├ My call: WATCH — 油價 de-escalation 但柴油禁令係 refiners (VLO/PSX/MPC) 新變數",
+        "[NEW] ⚠️ META — Muse 推出 SMB 版本 + Zuckerberg/Amodei 週二會見 Trump\n├ 故事年齡: [NEW] (~2.5h)\n├ 消息: \"Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market\" (CNBC, 2026-09-29)\n├ 市場反應: Muse AI 熱潮月漲 30% 後昨日回調 -4.8%（已 curated），今日擴充 SMB 變現邏輯\n├ My call: WATCH — 變現擴張但估值已高，Trump 會面或涉 AI 監管",
+        "[RECENT] ⚠️ TSM — 傳考慮美國第二個晶片製造基地\n├ 故事年齡: [RECENT] (~2.5h)\n├ 消息: \"Here's where TSMC is reportedly eyeing a second U.S. site for a chip-making hub\" (MarketWatch, 2026-09-29)\n├ 市場反應: 延續美國製造回流 theme，US-China AI race 下 TSMC 地緣地位更關鍵\n├ My call: WATCH — 結構性利好但 capital intensive，短期 neutral",
+        "[RECENT] ⚠️ BLK — 歐洲銀行推自家 ETF 挑戰 BlackRock/Vanguard\n├ 故事年齡: [RECENT] (~8h)\n├ 消息: \"European banks launch in-house ETFs to challenge BlackRock and Vanguard\" (FT, 2026-09-29)\n├ 市場反應: ETF 費用戰升溫，BlackRock 歐洲市佔面對長期 structural 壓力\n├ My call: WATCH — 長期 structural 威脅但短期影響細"
+      ],
+      "analysis": "主線係 higher-for-longer 債市拋售引發 correction 風險；副線係 crypto/AI 嘅獨立強勢（BTC 反彈、COIN 清算所、NVDA AI 基建資金）。",
+      "risks": [
+        "10Y 國債見 6% 預期升溫",
+        "gold 避險失效 -3.9%",
+        "IPO 窗口凍結",
+        "柴油出口禁令政策風險"
+      ],
+      "my_take": "最大故事喺債市唔係股市。但 contrarian 位喺 crypto——BTC 逆勢反彈 + 機構 adoption（Morgan Stanley crypto lab、Coinbase CFTC 清算所）暗示 crypto 可能重新定位做 yields 對沖。",
+      "key_takeaways": [
+        "10Y 破 5% 後分析師睇 6%，30Y 24年高位",
+        "BTC 反彈 $84K + $30M ETF 淨流入（contrarian）",
+        "COIN 獲 CFTC 衍生品清算所批准",
+        "NVO $2.6B 收購中國減肥藥",
+        "柴油出口禁令成 refiners 新變數"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-09-29",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Bearish / Risk-off — 債市拋售主導，10Y 醞釀 6%，equities 與 gold 受壓，唯 crypto/AI 巨型股逆勢",
+      "headlines": [
+        "10Y 破 5% 後 Yardeni 睇 6%，債市拋售主導",
+        "Anthropic 支出展望提振 AI 需求，晶片股反彈",
+        "Oura 推遲 IPO，風險胃納下降"
+      ],
+      "focus": [
+        "MU — 聽日 AMC 業績，$1.19T 巨無霸，本週最大 catalyst",
+        "NVDA — AI 韌性 vs INTC 破位，AI 結構性信心",
+        "Crypto — BTC $84K 逆勢反彈，yields 對沖 narrative"
+      ],
+      "analysis": "# Morning Scan — 2026-09-29 (Tue)\n\n## Fed Context\n上次 FOMC（Sep 15-16）已過，SEP 點陣圖消化完畢。本週無新 statement，但 Fed 言論密集：今日 Goolsbee / Musalem / Williams 相繼講話。主線唔係 Fed 開會，而係市場自行 reprice — 10Y 破 5%、30Y 創 24 年高位，Yardeni 直言「唔信 5.25% 係頂」。GENIUS Act stablecoin 框架公開諮詢（Sep 24）對 crypto 係結構性正面。\n\n真正嘅 Fed 風險喺本週數據：Core PCE（Wed）、ISM（Thu）、NFP（Fri）。如果 PCE 熱、NFP 強，10Y 見 6% 嘅劇本會加速，equities 嘅「健康回調」就會變質。呢個係今週成個 trade 嘅核心 — 數據會判定債市恐慌係唔係 overreaction。\n\n## 今日重點頭條（raw headlines）\n1. 🔴 Yardeni「唔信 5.25% 係 yield 頂」(Bloomberg) — 債市拋售主線，10Y 醞釀 6%\n2. 🔴 全球晶片股升，Anthropic 支出展望提振 AI 需求 (Investing) — AI capex 未死\n3. 🟠 Oura 推遲美國 IPO，秋季市場不安加劇 (Investing) — 風險胃納下降又一 signal\n4. 🟠 高息正在「摧毀」兩隻 ETF，交易員睇一隻會反彈 (CNBC) — 利率敏感資產受壓\n5. 🟠 Intel 兩日蒸發近 10%，「comeback trade」是否破位 (Invezz) — INTC\n6. 🟡 India 擬加碼勘探，Hormuz 危機威脅供應 (Oilprice) — 油價地緣溢價\n7. 🟡 伊朗稱等待回應 Trump 已拒絕嘅停火方案 (CBS) — 中東 de-escalation 未定\n8. 🟡 Nu Holdings 用戶暴增但市場唔俾估值 (Seeking Alpha) — NU 跌 10%\n9. 🟡 Rosatom 將伊朗 Bushehr 核電廠停機維修 (Investing) — 地緣變數\n10. 🟢 加拿大進口限制生效 (CNBC) — 貿易政策\n\n## 隔夜市場\nSPY -0.74%（$765.61）、QQQ -1.07%（$736.53）、DIA -0.67%（$514.02）。VIX 15.73（-2.1%）— 呢個係最關鍵嘅矛盾：債市恐慌、股市淡定。GLD -3.94%（避險失效，實質利率壓制金價），USO +1.13%（Hormuz 地緣溢價支撐油價）。BTC 反彈 $84K（crypto 獨立 narrative 重現）。\n\n## 昨日爆升／暴跌榜\n爆升（全部 micro-cap/penny，無 institutional 價值）：KNRX +305%、KOD +178%、SOAR +78%、LFCR +55%、EGG +52%\n暴跌（中概 ADR + distressed 主導）：XHLD -92%、NCI -84%、MSGY -61%、NCT -44%、GETY -40%\n活躍（真正 signal）：SOAR、ARAY、KNRX、**NU -10%**、**NVDA +1.68%**、**INTC -5.67%**\n→ 重點唔係 penny stocks，而係 actives 榜兩個 large-cap 分化：NVDA +1.68%（AI 韌性）vs INTC -5.67%（turnaround 破位，兩日 -10%）。NVDA/INTC 分化 = AI 巨型股 vs 傳統 semis 嘅分歧，AI 未受債市衝擊。\n\n## 今日重點事件（macro_calendar 為準）\n- 🔴 10:00PM HKT | JOLTs Job Openings (Aug) prev 7.271M / fcast 7.23M — 勞動市場信號，直接影響債市\n- 🟡 09:00PM | Case-Shiller 房價 (Jul)；10:00PM | Consumer Confidence (Sep)\n- 🟡 Fed Goolsbee / Musalem / Williams 講話（凌晨）\n本週重磅數據（HIGH）：Wed Core PCE + GDP final + Personal Income/Spending、Thu ISM Mfg、Fri NFP + Unemployment。呢個係 macro 密集周，數據會定債市方向。\n\n## Sector Watch\nNASDAQ 各 sector 昨日：Energy -2.46%（最差，但油價升 — 柴油禁令係 refiner 變數）、Comm Services -2.03%、Industrials -1.15%、Tech -0.34%。Healthcare +1.05%（最好）、Basic Materials +0.82%、Consumer Defensive +0.07%。→ 經典 risk-off 防守輪動（Healthcare/Defensive 升、Growth/Energy 跌），但 VIX 未跟上 — 防守輪動通常係 correction 前奏。\n\n## 機會（consolidate News Curator）\nACTION：\n- **NVO** — $2.6B 收購中國口服減肥藥權利，拋售後估值回調，補足 GLP-1 口服缺口。obesity pipeline 兩日內第二筆 deal，基本面加碼。\n- **COIN** — CFTC 批准美國衍生品清算所，機構 crypto 基建大突破，配合 BTC 反彈。\n- **BTC-USD** — 債市拋售中逆勢反彈 $84K，ETF $30M 淨流入，重新定位做「yields 對沖」。\n\nWATCH：\n- **NVDA** — Samsung $1B 注資 AI 基建 + $150B buyback 後資金續流入，但已 pricing，追高要謹慎。\n- **MU** — 聽日 AMC 業績（$1.19T 巨無霸），係本週最大 single-stock catalyst，業績前 -2.6% 反映資金離場觀望。\n- **META** — Muse SMB 版擴充變現，但月漲 30% 後估值高，Trump 會面涉 AI 監管。\n- **TSM** — 傳考慮美國第二晶片基地，結構性利好但 capital intensive，短期 neutral。\n- **OIL/Refiners（VLO/PSX/MPC）** — 柴油出口禁令係新 policy risk，refiner margin 變數。\n\n## 未來一個月業績重點\n本週：**MU（Wed AMC 🎯）**、ACN（Thu BMO 🎯）、NKE（Thu AMC 🎯）\n下週：PEP（Oct 8）、DAL（Oct 9）、然後 Oct 13 銀行季正式開跑 — JPM / JNJ / UNH / GS / C（🎯）/ BLK\n→ MU 業績係 AI memory cycle 嘅試金石，會定整個 semis/AI complex 嘅 tone。銀行季（Oct 13）會反映 higher-for-longer 下嘅 net interest margin 影響。\n\n## Agenda\n本週 macro 數據 + 業績密集。SPY 50d MA ~$762 係近期支持，year high $779 係阻力。今日睇實：JOLTs（10PM HKT）→ 10Y 走勢 → MU 業績前 positioning。\n\n## My Take\nBearish-leaning risk-off，但市場未 fully price（VIX 15.7 太低係警號）。債市係 canary：10Y 破 5% 後 6% 預期升溫，gold 避險失效，IPO 凍結。核心張力係債市話 correction、股市話「AI 結構性牛市未變」。我傾向債市最終贏 — 除非本週 PCE/NFP 轉鴿，否則 10Y 6% 劇本會令 growth/equities 繼續受壓。Contrarian 位喺 crypto（BTC 獨立）+ AI 巨型股（NVDA）。今日最緊要睇實：JOLTs + 10Y 走勢 + MU 業績前 positioning；唔好喺防守輪動中追 growth。",
+      "risks": [
+        "10Y 見 6% 劇本加速 → growth/equities 進一步 correction",
+        "VIX 15.7 太低，防守輪動係 correction 前奏",
+        "本週 PCE/NFP 若過熱，債市恐慌加劇"
+      ],
+      "my_take": "債市拋售係今輪主線（10Y 破 5% 後 6% 預期升溫），equities + gold 同步受壓，但 VIX 15.7 太低反映股市未 fully price。核心張力：債市話 correction、股市話 AI 結構性牛市未變。我傾向債市最終贏 — 除非本週 PCE/NFP 轉鴿。Contrarian 位喺 crypto（BTC $84K 獨立）+ AI 巨型股（NVDA）。今日睇實 JOLTs、10Y 走勢、MU 業績前 positioning。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-09",
+      "time": "08:05 HKT",
+      "status": "success",
+      "market_direction": "risk-off rotation — 中期選舉藍潮後 AI 交易受壓、國債反彈、crypto 兩月新低、中東地緣升溫",
+      "headlines": [
+        "[NEW] ⚠️ NVDA: 董事會調查黃仁勳中國間諜關係，Huang 承認婚外情",
+        "[NEW] ⚠️ DEFENSE: 胡塞襲利雅德 Aramco 塔 + Khor Mor 氣田攻擊",
+        "[RECENT] ⚠️ MACRO: 中期選舉藍潮，能源政策重塑 + AI 交易遭重擊",
+        "[RECENT] ⚠️ CRYPTO: BTC 兩月新低但礦股逆勢大漲 13%",
+        "[RECENT] 🎯 ABNB: Q3 營收 +19%「增長模式」"
+      ],
+      "opportunities": [
+        "ABNB: Q3 營收 +19% 至 $4.87B，Chesky 宣告增長模式 — 清晰正 earnings catalyst",
+        "NVDA: 間諜醜聞治理危機 overhang，但基本面未變 — 等調查結果先決策",
+        "CRYPTO: BTC 跌但礦股升（divergence）— 可能係見底領先訊號"
+      ],
+      "analysis": "US session 主題係中期選舉藍潮引發嘅 risk-off rotation。民主黨重奪國會重塑能源政策，AI 交易遭重擊、國債反彈、crypto 兩月新低。同時 NVDA 間諜醜聞（董事會調查 + Huang 承認婚外情）係今週最大單一風險。中東再升級（胡塞襲利雅德 + Khor Mor 氣田）推升地緣溢價。",
+      "risks": [
+        "NVDA 治理危機可能擴大為 AI 交易終結訊號",
+        "中東地緣升級推高油價，供應中斷真實",
+        "藍潮後能源/AI 政策不確定性持續"
+      ],
+      "my_take": "兩個主題值得留意：(1) NVDA 醜聞係 governance 問題 vs 基本面 — 我 lean 後者，短期唔急於抄底；(2) 藍潮 = 結構性 rotation 唔係一次性 event，真正機會喺落後板塊（清潔能源 TAN、防守公用事業），而唔係追 AI 反彈。最大 contrarian 角度：BTC 跌緊但礦股升緊，過去呢個背離係加密市場見底領先訊號。",
+      "key_takeaways": [
+        "NVDA 間諜醜聞係今週最大單一事件，等董事會調查結果",
+        "中期選舉藍潮觸發結構性 rotation，非一次性 event",
+        "BTC vs 礦股背離可能係見底領先訊號"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-09",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Risk-off 後技術反彈 — 藍潮+NVDA 醜聞雙重打擊，等明日 CPI 判決",
+      "headlines": [
+        "Nvidia 開調查：Jensen Huang 與中國間諜關係（週末爆出，今晚開市考牌）",
+        "ABNB Q3 營收 +19%，NC ACTION call 中咗（+11.7%）",
+        "藍潮重塑能源政策：XLE -8.37%、XLK -5.44% 全週重挫",
+        "BTC 兩月新低但礦股 RIOT/BTDR +13% — contrarian 背離",
+        "明日 CPI（Nov 10 9:30pm）本週最大 catalyst"
+      ],
+      "opportunities": [
+        "ABNB: 營收 +19% + 增長模式，earnings catalyst 清晰，follow-through",
+        "RIOT/BTDR: 礦股逆 BTC 弱勢 +13%，見底領先訊號（觀察未行動）",
+        "TAN/XLU: 藍潮結構性 rotation，clean energy + 防守落後補漲",
+        "XLC: 通訊服務全週 +4.52% 跑贏，AI 交易內部背離"
+      ],
+      "analysis": "📊 Evening Review — 2026-11-09（星期一 08:30 HKT）\n\n═══════════════════════════════════════\n🏦 Fed Context — 宏觀背景\n═══════════════════════════════════════\n本週核心 macro 變數係 **明日（Nov 10）CPI**——唔係 Fed。上一個 FOMC meeting 係 Oct 27-28（Warsh 主政），Implementation Note + Press Conference 已經出街；Sep 15-16 嘅 FOMC Minutes 亦啱啱入 feed。但下一個 FOMC 決定仲有段距離，所以短線嘅判決點係 CPI，唔係 Fed。\n\n「藍潮」中期選舉 + 上週三（Nov 5）嘅 -4.4% SPY 大插，令市場將「能源政策重構 + AI 交易受壓 + 國債反彈」一齊定價。CPI 若熱（能源/勞動成本黏性），會坐實「通脹未死 → Fed 保持鷹派」嘅 narrative；若涼，先有空間俾市場喘氣。\n\n個 gap 係：市場已經將一堆 bad news 一次過 price 落去（VIX 由 16.6 爆上 28 再回 25.6），但 NVDA 醜聞係週末先爆、未經開市消化——今晚（Monday US session）先係佢嘅第一個考牌日。\n\n═══════════════════════════════════════\n📰 今日重點頭條（Raw Headlines）\n═══════════════════════════════════════\n1. 🔴 Nvidia 開調查：Jensen Huang 與中國間諜關係（NYT/Bloomberg/ABC，NVDA）— 【NC 有捕捉 ✅ WATCH】\n2. 🔴 FOMC Implementation Note + Press Conference（Oct 27-28）+ Sep 15-16 Minutes（Fed）— 【Fed 常規，非突發】\n3. 🟢 ABNB Q3 營收 +19% 至 $4.87B，Chesky 宣告「增長模式」（ABNB）— 【NC 有捕捉 ✅ ACTION】\n4. 🔴 中東升級：胡塞襲利雅德 + Khor Mor 氣田攻擊 + 伊朗威脅（DEFENSE/OIL）\n5. 🟡 中期選舉藍潮重塑能源政策 → 能源股重挫、AI 交易受壓（MACRO）\n6. 🟡 BTC 兩月新低但礦股 Bitdeer/Riot 逆勢 +13%（CRYPTO divergence）— 【NC 有捕捉 ✅ WATCH】\n7. 🟡 美股期貨微升 — 投資者觀望 AI trade + 更多數據/業績（CNBC）\n8. 🟡 XAUUSD 4080 阻力回落，4030 成焦點（GOLD）\n\nHeadline 訊號：NVDA 醜聞係今晚開市最 sharp 嘅 catalyst；藍潮嘅結構性 rotation 已喺上週三價格入場；crypto 礦股背離係最值得盯嘅 contrarian signal。\n\n═══════════════════════════════════════\n📊 Market Recap（上週五 Nov 6 close）\n═══════════════════════════════════════\n• SPY $735.29（+0.31%）| QQQ $656.10（+1.40%）| DIA $512.22（-0.40%）\n• 全週：SPY -2.24%｜QQQ -3.67%｜DIA -1.37% —— 科技跑輸大盤\n• VIX 25.64（週三 Nov 5 由 16.61 爆上 28.18，現回 25.64 —— 仍屬高波動區）\n\n上週真正嘅 shock 係 **週三 Nov 5**：SPY -4.41%、QQQ -6.49%、NVDA -9.26%，藍潮選舉結果 + AI 交易重估一次過引爆。週五係技術性反彈（QQQ +1.40% 領漲），但 DIA 仲係跌 —— 反彈集中喺科技/通訊，唔係 broad。\n\nSector（全週）：\n• 🔴 贏家：XLC 通訊服務 +4.52%、XLRE 房地產 +0.82%、XLV 醫療 +0.11%\n• 🔴 輸家：XLE 能源 -8.37%、XLK 科技 -5.44%、XLI 工業 -4.15%、XLB 原物料 -3.20%\n\nRotation 好清晰：**資金出能源 + 半導體硬件，入通訊服務 + 防守**。能源 -8.37% 係藍潮「反化石燃料」政策預期嘅直接反映；但注意 XLC（Mega-cap 互聯網）+4.52% 同 XLK（半導體）嘅背離 —— AI 交易嘅「受壓」其實集中喺 hardware/semis，唔係成個科技 complex。\n\n═══════════════════════════════════════\n🔥 Notable Movers\n═══════════════════════════════════════\n📈 ABNB +11.7%（$189.99）— Q3 營收 +19% + Chesky「增長模式」，NC 嘅 ACTION call 中咗，仲有 follow-through 空間\n📈 RIOT +13.2%（$16.71）、BTDR +13.2%（$6.01）— 礦股逆 BTC 弱勢大漲，背離訊號（詳見下）\n📈 XLK +1.45% — 週五科技反彈，NVDA +2.78% 至 $186.64\n📉 XLP -1.28% — 消費必需品週五領跌，防禦性資金鬆動\n\n冇質量嘅 penny stock 異動 —— 主流資金喺 sector rotation，唔喺投機股。\n\n═══════════════════════════════════════\n📰 News That Mattered\n═══════════════════════════════════════\n1. **NVDA 治理危機（新爆、週末）**：董事會調查黃仁勳與中國間諜關係，Huang 承認婚外情。呢個係 governance overhang，唔係基本面 break —— 但 NVDA 係 AI bellwether，sentiment 傳導風險大，短期唔急於抄底（同 NC 觀點一致）。今晚開市係第一個考牌日。\n2. **藍潮結構性 rotation**：中期選舉藍潮 → 能源政策重構（XLE -8.37% 已反映）+ 潛在企業稅上調壓制 mega-cap tech。呢個係結構性 theme，唔係一次性 event。\n3. **中東地緣升溫**：胡塞襲利雅德 + Khor Mor 氣田攻擊，防禦/油價風險溢價未消。\n4. **FOMC（Oct 27-28）**：Implementation Note + Press Conference 出街，Sep 15-16 Minutes 亦釋出 —— 短期無新 Fed 決定，焦點轉去 CPI。\n\nNC 成績單：ABNB ACTION ✅ 中（+11.7%）、NVDA WATCH ✅ 預判醜聞方向、CRYPTO 背離 ✅ 數據確認（BTC 兩月低但 RIOT/BTDR +13%）。唯一 NC 冇 cover 到嘅係 XLC 通訊服務全週 +4.52% 嘅強勢 —— 呢個「AI 交易受壓但互聯網股反彈」嘅內部背離值得 follow。\n\n═══════════════════════════════════════\n🎯 Opportunities Carry Forward\n═══════════════════════════════════════\n• **ABNB** — 營收 +19% + 增長模式，earnings catalyst 清晰，反彈後有 momentum，值得跟 follow-through（但已 +11.7%，追高要小心）\n• **Crypto 礦股背離（RIOT/BTDR）** — BTC 兩月低但礦股逆勢 +13%，歷史上呢個背離係加密市場見底嘅領先訊號。宜觀察、未宜行動，睇 BTC 會唔會企穩 $74-75K\n• **藍潮落後板塊（清潔能源 TAN / 防守公用 XLU）** — 藍潮 = 結構性 rotation，真正機會喺落後嘅 clean energy + 防守，唔係追 AI 反彈。但呢個係 multi-month theme，唔係 Monday trade\n• **XLC 通訊服務** — 全週 +4.52% 跑贏，mega-cap 互聯網喺 AI 交易受壓時反而吸納資金，值得盯呢個內部背離\n\n═══════════════════════════════════════\n⚠️ Risks / Watchlist\n═══════════════════════════════════════\n🔴 **明日 CPI（Nov 10 9:30pm HKT）** — Core Inflation MoM/YoY + Headline MoM/YoY，全部 HIGH。本週最重大 catalyst，決勝局。\n🔴 **NVDA 今晚開市** — 醜聞消化，governance overhang 可能拖累成個 AI/semis complex\n🟡 **中東地緣** — 胡塞 + 伊朗威脅，油價/防禦溢價未消\n🟡 **國債供應** — 本週 3Y（今日）/10Y（明日）/30Y 拍賣，藍潮財政擴張 + 供應壓力 = duration 風險\n🟡 **ADP 就業（Nov 10 8:15pm HKT）** — CPI 前哨\n\n（註：冇持倉數據 —— 呢啲係純 research 風險，唔涉及任何倉位）\n\n═══════════════════════════════════════\n💡 My Take\n═══════════════════════════════════════\n今日總結：上週係「藍潮 + AI 交易重估」嘅 shock week，週五技術性反彈，但 NVDA 醜聞週末爆出，令今晚開市多咗一個未消化嘅 catalyst。最重要 takeaway：**市場已 price 咗大部分 bad news，但 NVDA + CPI 兩個 binary event 未落地**。\n\nTomorrow bias：**Neutral-to-cautious**。CPI 判決 + NVDA 開市兩個事件前，唔係 aggressive 嘅好時機。等 CPI 落地先有方向。若 CPI 涼 → 反彈空間大（AI trade 超賣）；若 CPI 熱 → 鷹派 narrative 坐實，risk asset 再受壓。\n\n最緊要盯實三樣：① NVDA 今晚開市點消化醜聞（sentiment 定 fundamental）② 明日 CPI（本週判決點）③ crypto 礦股背離會唔會演變成 BTC 見底。",
+      "risks": [
+        "明日 CPI（HIGH）— 本週判決點，熱則坐實鷹派",
+        "NVDA 今晚開市消化醜聞 — governance overhang 拖累 semis",
+        "中東地緣升溫（胡塞襲利雅德 + Khor Mor）",
+        "國債供應週（3Y/10Y/30Y）+ 藍潮財政擴張 = duration 壓力"
+      ],
+      "my_take": "上週「藍潮 + AI 重估」shock week，週五技術反彈但 NVDA 醜聞週末爆出。明日 CPI 係本週判決點，bias Neutral-to-cautious，等 CPI 落地先有方向。"
     }
   ],
   "news_curator": [
