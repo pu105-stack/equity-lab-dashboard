@@ -4043,37 +4043,6 @@
       "my_take": "債市拋售係今輪主線（10Y 破 5% 後 6% 預期升溫），equities + gold 同步受壓，但 VIX 15.7 太低反映股市未 fully price。核心張力：債市話 correction、股市話 AI 結構性牛市未變。我傾向債市最終贏 — 除非本週 PCE/NFP 轉鴿。Contrarian 位喺 crypto（BTC $84K 獨立）+ AI 巨型股（NVDA）。今日睇實 JOLTs、10Y 走勢、MU 業績前 positioning。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-09",
-      "time": "08:05 HKT",
-      "status": "success",
-      "market_direction": "risk-off rotation — 中期選舉藍潮後 AI 交易受壓、國債反彈、crypto 兩月新低、中東地緣升溫",
-      "headlines": [
-        "[NEW] ⚠️ NVDA: 董事會調查黃仁勳中國間諜關係，Huang 承認婚外情",
-        "[NEW] ⚠️ DEFENSE: 胡塞襲利雅德 Aramco 塔 + Khor Mor 氣田攻擊",
-        "[RECENT] ⚠️ MACRO: 中期選舉藍潮，能源政策重塑 + AI 交易遭重擊",
-        "[RECENT] ⚠️ CRYPTO: BTC 兩月新低但礦股逆勢大漲 13%",
-        "[RECENT] 🎯 ABNB: Q3 營收 +19%「增長模式」"
-      ],
-      "opportunities": [
-        "ABNB: Q3 營收 +19% 至 $4.87B，Chesky 宣告增長模式 — 清晰正 earnings catalyst",
-        "NVDA: 間諜醜聞治理危機 overhang，但基本面未變 — 等調查結果先決策",
-        "CRYPTO: BTC 跌但礦股升（divergence）— 可能係見底領先訊號"
-      ],
-      "analysis": "US session 主題係中期選舉藍潮引發嘅 risk-off rotation。民主黨重奪國會重塑能源政策，AI 交易遭重擊、國債反彈、crypto 兩月新低。同時 NVDA 間諜醜聞（董事會調查 + Huang 承認婚外情）係今週最大單一風險。中東再升級（胡塞襲利雅德 + Khor Mor 氣田）推升地緣溢價。",
-      "risks": [
-        "NVDA 治理危機可能擴大為 AI 交易終結訊號",
-        "中東地緣升級推高油價，供應中斷真實",
-        "藍潮後能源/AI 政策不確定性持續"
-      ],
-      "my_take": "兩個主題值得留意：(1) NVDA 醜聞係 governance 問題 vs 基本面 — 我 lean 後者，短期唔急於抄底；(2) 藍潮 = 結構性 rotation 唔係一次性 event，真正機會喺落後板塊（清潔能源 TAN、防守公用事業），而唔係追 AI 反彈。最大 contrarian 角度：BTC 跌緊但礦股升緊，過去呢個背離係加密市場見底領先訊號。",
-      "key_takeaways": [
-        "NVDA 間諜醜聞係今週最大單一事件，等董事會調查結果",
-        "中期選舉藍潮觸發結構性 rotation，非一次性 event",
-        "BTC vs 礦股背離可能係見底領先訊號"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-09",
       "time": "08:33 HKT",
@@ -4100,6 +4069,69 @@
         "國債供應週（3Y/10Y/30Y）+ 藍潮財政擴張 = duration 壓力"
       ],
       "my_take": "上週「藍潮 + AI 重估」shock week，週五技術反彈但 NVDA 醜聞週末爆出。明日 CPI 係本週判決點，bias Neutral-to-cautious，等 CPI 落地先有方向。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-09",
+      "time": "20:04 HKT",
+      "status": "success",
+      "market_direction": "AI 貿易遭 NVDA 治理衝擊重創，但伊朗降溫 + 歐洲銀行併購支撐大市，明日 CPI 是催化劑",
+      "headlines": [
+        "[RECENT] ⚠️ NVDA — 黃仁勳承認婚外情，關鍵人物風險浮現，股價 -5%（續報）",
+        "[NEW] ⚠️ MACRO — 明日 CPI 料重燃通脹 (YoY 3.9%)，10Y 已見 5.19%",
+        "[NEW] ⚠️ OIL — 伊朗降溫：特朗普稱無理由升級，油價回落（續報）",
+        "[NEW] 🎯 歐洲銀行併購潮 — UniCredit 吞 Commerzbank + 法農購 Banco BPM",
+        "[NEW] 🎯 COIN — Coinbase 獲聯邦銀行監管機構核發美國信託牌照",
+        "[NEW] ⚠️ 板塊輪動 — Citi 削美股加歐洲，AI 震盪後轉向",
+        "[RECENT] 📌 BTC — 比特幣 ETF 單週流出 $1.3B，五連跌週",
+        "[NEW] 📌 TSLA — 馬斯克帝國面對民主黨反彈",
+        "[NEW] 📌 PLTR — Palantir 聘前民主黨參議員應對新國會審查"
+      ],
+      "opportunities": [
+        "歐洲銀行併購潮: UniCredit 吞 Commerzbank + 法農購 Banco BPM",
+        "COIN: Coinbase 獲美國信託牌照",
+        "NVDA: 關鍵人物風險，股價 -5%，Q3 earnings 11/17"
+      ],
+      "analysis": "NVDA 黃仁勳承認婚外情，董事會獨立調查，無繼任計劃，股價 -5%（$200B 市值蒸發）。伊朗降溫，油價回落。明日 CPI 料重燃通脹。",
+      "risks": [
+        "NVDA 治理衝擊",
+        "明日 CPI 重燃通脹",
+        "10Y 5.19% 高企"
+      ],
+      "my_take": "NVDA 治理衝擊係 AI 貿易最大單一風險，但市場對個別公司 vs 大市的割裂（S&P futures 反升）顯示賣壓集中而非系統性。伊朗降溫 + 歐洲銀行併購提供多元化機會。明日 CPI 若確認重燃通脹（YoY 3.9%），將考驗 5.19% 的 10Y 及 Warsh 鷹派 Fed — 這比 NVDA 更影響大市方向。",
+      "key_takeaways": [
+        "NVDA 治理衝擊 -5%",
+        "伊朗降溫油價回落",
+        "明日 CPI YoY 3.9%",
+        "歐洲銀行併購潮"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-09",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-bearish（短線）— 科技受壓，風格轉向 value/歐洲",
+      "headlines": [
+        "NVDA 治理衝擊：黃仁勳涉「中國間諜」關係受查，-5%，市值蒸發 $200B",
+        "明日 CPI forecast 3.9% 重燃通脹，10Y 見 5.19%",
+        "伊朗降溫：特朗普稱「no reason」升級，油價回落",
+        "Citi 建議 sit out 全球科技、加歐洲 — 板塊輪動訊號",
+        "歐洲銀行併購潮：UniCredit/Commerzbank + 法農/Banco BPM"
+      ],
+      "focus": [
+        "半導體反彈（SOXL +12%）— AI trade 韌性測試",
+        "歐洲金融（併購潮 + 輪動承接）",
+        "10Y 5.19% — 科技 multiple 壓制關鍵",
+        "NVDA 11/17 earnings — AI trade 總審判"
+      ],
+      "analysis": "# 🌅 Morning Scan — 2026-11-09（週一）\n\n## Fed Context — 宏觀背景\n\n**上次 FOMC（10月27-28日）：按兵不動。** 有效聯邦基金利率維持 3.88%（目標區間 3.75–4.00%），DFF 由 10月20日至今一路 flat 喺 3.88%，確認係 hold。Warsh 鷹派立場不變，冇任何鴿派 signal。\n\n**下次 FOMC：12月8-9日。** 中間隔咗一個完整嘅 CPI + NFP 數據週期，Warsh 有充足理由 keep hawkish。\n\n**關鍵 macro 主線：通脹重燃。** 聽日（週二 11/10）CPI 係成個星期嘅 single most important catalyst：\n- 整體 CPI YoY：prev 3.7% → forecast **3.9%**（重燃）\n- 核心 CPI YoY：prev 2.6% → forecast **2.8%**（同樣加速）\n- 10Y 已喺盤中見到 **5.19%**（FRED 日收 4.84% 滯後未反映最新 spike）\n\nNY Fed 1年期通脹預期今日 release，prev 3.9% —— 通脹預期 anchor 已經上移。呢個係 Warsh 最唔想見到嘅 combination：實際通脹重燃 + 預期上移。如果明日 CPI confirm 3.9%，10Y 企穩 5% 以上，高估值科技股嘅 multiple compression 會加劇。\n\n## 📰 今日重點頭條（Raw Headlines）\n\n1. **NVDA 治理衝擊**（Bloomberg/CNBC/NYT）：黃仁勳涉與「中國間諜」關係受查，股價 -5%，市值單日蒸發 $200B。NYT 標題「What to Know About Nvidia's Investigation of Its C.E.O.」—— 事件喺發酵，唔係一次性。\n2. **伊朗降溫**（CBS）：特朗普稱「no reason」升級戰爭 —— 地緣溢價退潮。\n3. **Citi 板塊輪動**（MarketWatch）：Citi 建議客戶喺 AI 情緒改善前「sit out」全球科技 trade，削美股、加歐洲。\n4. **Iraq 對美石油銷售跌至 2003 年戰後最低**（OilPrice）：供應結構性收緊，但被伊朗降溫壓制。\n5. **Tesla 擴張 robotaxi 至 San Antonio**（TechCrunch）：TSLA 繼續執行政務對沖策略。\n6. **NHTSA 調查 120 萬架 Ford**（Investing）：F 的 airbag 部署問題。\n7. **JPM 下調 IREN / Helios 目標價**（Investing）：AI data-center 板塊嘅 capex 質疑浮現。\n8. **GOLD「SELL」訊號**（TradingView 技術面）：金價技術面短線見頂訊號，但實質仍喺升。\n\n## 🌍 隔夜市場\n\n- **SPY** $735.29（+0.31%），**低於 50日MA（$765.68）約 4%** —— 中期趨勢已破位。\n- **QQQ** $656.10（+1.40%），**低於 50日MA（$720.97）約 9%** —— 科技股係呢輪跌勢重災區，今日有技術性反彈。\n- **DIA** $512.22（-0.40%）—— 道指相對抗跌，value 資金避風港。\n- **IWM** $273.67（+0.99%）—— 小型股反彈，低於 50日MA 3%。\n- **VIX** 23.5（由週五盤中 27.7 高位回落）—— 恐慌見頂回落，但 23 仍屬偏高。\n- **原油** $88.15（由 $90.83 跌）—— 伊朗降溫 + 地緣溢價退潮。\n- **黃金** $4,122（由 $4,075 升）—— 避險 + 通脹對沖買盤，同油價走勢背離。\n\n**隔夜結論：** 大市係「科技股受創、但非系統性」—— S&P futures 反升、VIX 回落、value 抗跌，賣壓集中喺 NVDA 同高估值 AI 股，唔係全面 risk-off。\n\n## 📈 昨日市場爆升／暴跌榜\n\n**爆升榜（Top Gainers）—— 幾乎全係 microcap pump：**\n- WCT +877%、CISS +463%、ALPS +424%、SMX +276%、SDA +144% —— 全部係 $5 以下嘅 penny/microcap，無基本面跟進價值，純 speculation。\n\n**暴跌榜（Top Losers）：**\n- SITC -81%（SITE Centers，零售 REIT，似係 spin-off/特別股息除權事件）\n- AIRS -63%、BDSX -57%、JDZG -47%、IONZ -46% —— 醫療/中概小型股，single-event driven。\n\n**活躍榜（Most Active）—— 有 real signal：**\n- **SOXL +12.48%**（Direxion 3x 半導體）—— 半導體喺 NVDA 衝擊後出現反彈，係 AI trade 回穩嘅領先指標。\n- SDA +144%、RCT +41%、VIVK +34% —— microcap 資金博弈。\n\n**Sector theme：** 爆升/暴跌榜本身冇咩 sector 共識（全部 microcap），真正嘅 sector story 喺 SOXL 反彈 + Citi 輪動建議 —— 資金喺 AI 股內部換倉（high-beta 反彈），同時整體轉向歐洲/value。\n\n## 📡 今日重點事件\n\n- 🟡 **NY Fed 1年期通脹預期**（今日，prev 3.9%）—— 通脹預期 anchor 係咪上移。\n- 🟡 **3年期國債拍賣**（02:00AM HKT）—— 債市需求測試，5% yield 附近有冇買盤。\n- 🔴 **明日 CPI（週二 11/10，09:30PM HKT）** —— 成個星期最重要，forecast YoY 3.9%（prev 3.7%）。\n- 🔴 **週四 Existing Home Sales（11/12）**、**週五 PPI（11/13）**。\n\n## 🔥 Sector Watch\n\n- **有 momentum：** 歐洲金融（併購潮催化）、能源（供應收緊 vs 伊朗降溫對沖）、半導體反彈（SOXL）。\n- **有 risk：** 高估值 AI/科技（NVDA 治理 + 5% 以上 yield 雙重壓制）、比特幣相關（ETF 單週流出 $1.3B，五連跌週）。\n- **Rotation signal：** Citi 明確建議「sit out 全球科技、加歐洲」—— 資金由美股科技轉向歐洲/value/金融嘅訊號越嚟越清晰。\n\n## 🎯 Pre-market Opportunities（從 News Curator Consolidate）\n\n- **🎯 歐洲銀行併購潮（ACTION）：** UniCredit 吞 Commerzbank + Crédit Agricole 購 Banco BPM。歐洲金融整合加速，配合 Citi 輪動建議，呢個係 macro rotation 嘅實體承接。今日部署：留意歐洲銀行股（UniCredit、Commerzbank、Crédit Agricole）同美國 money-center bank 嘅相對表現。\n- **🎯 COIN（ACTION）：** Coinbase 獲聯邦銀行監管機構核發美國信託牌照 —— 監管里程碑，BTC 雖弱但 COIN 嘅牌照價值係結構性利好。今日部署：睇 COIN 會唔會逆 BTC 弱勢走獨立行情。\n- **⚠️ NVDA（WATCH）：** 治理衝擊未完，Q3 earnings 11/17 係 AI trade 嘅總審判。今日部署：唔好急住接刀，睇 SOXL/半導體反彈力度確認 AI trade 係咪見底，等 11/17 earnings 先做決定。\n- **⚠️ MACRO/CPI（WATCH）：** 明日 CPI 係大市方向嘅真正催化劑，比 NVDA 更影響方向。\n- **⚠️ OIL（WATCH）：** 伊朗降溫令油價回落，但 Iraq 供應結構性收緊 —— 短線偏弱、中線偏多嘅矛盾格局。\n\n## 📅 未來一個月業績重點\n\n**本週（11/09 – 11/13）：**\n- **週一**：KKR（$88B）、CEG（$85B）、B（$66B）、OXY（$56B）、**RKLB（$29B 🎯，AMC）**\n- **週二**：PBR（$121B）、TDG（$66B）\n- **週四**：**CSCO（$377B）**、**AMAT（$253B，半導體設備，NVDA 衝擊下嘅 read-through 關鍵）**、NU（$57B）\n- **週五**：MUFG（$251B）、SMFG（$150B）、MFG（$117B）—— 日本銀行，受日本央行政策影響\n\n**下週（11/16 – 11/20）：**\n- **週二 11/17**：**NVDA（$4377B 🎯，AMC）—— 全月最重要，AI trade 總審判**、HD（$349B）、DIS（$202B）、PDD（$119B）\n- **週三 11/18**：PANW（$258B，資安，AI 之外嘅科技防禦）、LOW、TGT\n- **週四 11/19**：**WMT（$1013B，消費防禦指標）**、INTU（$95B）\n\n**每間公司一句：** AMAT（週四）會係半導體設備 capex 嘅真實溫度計，喺 NVDA 11/17 前先行 preview AI capex 係咪見頂。NVDA 11/17 係 AI 估值嘅 ultimate test —— 若 guide 唔夠強，QQQ 嘅 9% 折價可能仲未跌完。\n\n## 📋 Today's Agenda\n\n- 本週 catalyst schedule：今日 NY Fed 通脹預期 + 3年期拍賣 → 明日 CPI（重頭戲）→ 週四 AMAT/CSCO → 週五 PPI。\n- **Key levels：** SPY support 睇 $730（今日盤中 low $734.58 附近），若破位下試 $720；resistance 睇 $742（今日 high）。真正嘅方向確認要等明日 CPI。\n\n## 💡 My Take\n\n**Overall bias：Neutral-bearish（短線），但唔係恐慌。** 大市嘅核心矛盾係「single-stock 治理風險 vs macro 通脹重燃」，兩者都壓制高估值科技，但 value/歐洲/金融有承接。\n\n今日最緊要睇實三樣嘢：\n1. **半導體反彈（SOXL）係咪持續** —— 若 NVDA 衝擊後半導體企穩反彈，代表 AI trade 有韌性，回調係 healthy；若反彈一日遊，代表資金真係撤出 AI。\n2. **10Y 係咪企穩 5% 以上** —— 明日 CPI 前，債市會預先反映。5.19% 係咪 hold 得住，決定科技股 multiple 有冇仲要壓。\n3. **歐洲/value 輪動係咪擴散** —— Citi 建議 + 歐洲銀行併購若持續發酵，代表呢個唔係 AI 短期 noise，而係一個中期風格切換。\n\n改變 thesis 嘅 overnight signal：伊朗降溫（偏多）+ Citi 明確輪動（偏空科技）+ 半導體反彈（偏多 AI）。三者疊加，結論係「大市唔會崩，但科技/高估值要俾時間消化，風格轉向 value/歐洲/能源」。\n",
+      "risks": [
+        "CPI 重燃通脹，10Y 企穩 5%+，高估值科技 multiple 進一步壓縮",
+        "NVDA 治理衝擊發酵，AI 板塊情緒惡化",
+        "比特幣 ETF 五連跌週流出，加密相關風險"
+      ],
+      "my_take": "大市 Neutral-bearish（短線），非系統性 risk-off。核心矛盾：NVDA 治理衝擊（-5%，$200B 市值）打擊高估值 AI，加埋明日 CPI forecast 3.9% 重燃通脹、10Y 見 5.19%，科技 multiple 有排壓。但伊朗降溫、歐洲銀行併購、半導體反彈（SOXL +12%）顯示賣壓集中而唔係全面。今日部署：唔接 NVDA 刀，睇 SOXL 反彈持續性 + 10Y 企唔企穩 5%，重心轉向歐洲金融/value/能源。真正方向要等明日 CPI 確認。"
     }
   ],
   "news_curator": [
