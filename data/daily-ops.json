@@ -4132,6 +4132,70 @@
         "比特幣 ETF 五連跌週流出，加密相關風險"
       ],
       "my_take": "大市 Neutral-bearish（短線），非系統性 risk-off。核心矛盾：NVDA 治理衝擊（-5%，$200B 市值）打擊高估值 AI，加埋明日 CPI forecast 3.9% 重燃通脹、10Y 見 5.19%，科技 multiple 有排壓。但伊朗降溫、歐洲銀行併購、半導體反彈（SOXL +12%）顯示賣壓集中而唔係全面。今日部署：唔接 NVDA 刀，睇 SOXL 反彈持續性 + 10Y 企唔企穩 5%，重心轉向歐洲金融/value/能源。真正方向要等明日 CPI 確認。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-10",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "S&P 抹平中期選舉跌幅、反彈擴散至 Big Tech 以外，但 NVDA 間諜醜聞令 AI/科技股分化。今日 CPI 係關鍵考驗，10Y 5.19%。油價 Brent -7%。",
+      "headlines": [
+        "[RECENT] ⚠️ NVDA — 特朗普稱 FBI 調查黃仁勳間諜醜聞，關鍵人物風險升溫（續報）",
+        "[NEW] 🎯 AMD/AVGO — NVDA 間諜醜聞的真正贏家？資金輪動契機",
+        "[NEW] ⚠️ MACRO — 今日 CPI (Nov 10 8:30am ET) 料降溫，10Y 企 5.19%",
+        "[RECENT] ⚠️ OIL — Brent -7% 伊朗和平希望，但沙特 East-West 管道遇襲被市場 ignore（續報）",
+        "[NEW] 🎯 SECZ — Securitize +10%，進軍 $6T 資產支持金融（River One 收購）",
+        "[NEW] 📌 DEFENSE — 共和黨 Massie 提案彈劾國防部長 Hegseth，特朗普力挺",
+        "[NEW] 📌 RKLB — Rocket Lab「defining」季度 miss，股價回吐",
+        "[NEW] 📌 SANM/TTD — Sanmina +20% 超預期，Trade Desk Q3 beat",
+        "[NEW] 📌 LCID — Lucid miss 預期，擴沙特貸款",
+        "[RECENT] 📌 BTC/GLD — 比特幣與黃金同列 2026 兩大最差資產",
+        "[NEW] 📌 MACRO — 特朗普政府將 WuXi AppTec 移出中國軍方清單",
+        "[NEW] 📌 MACRO — S&P 500 抹平中期選舉跌幅，反彈擴散至 Big Tech 以外"
+      ],
+      "opportunities": [
+        "AMD/AVGO: NVDA 間諜醜聞真正贏家，資金輪動",
+        "SECZ: Securitize +10%，進軍 $6T 資產支持金融"
+      ],
+      "analysis": "NVDA 間諜醜聞進入 FBI 調查階段，特朗普力挺黃仁勳。市場將 AMD/AVGO 視為資金輪動受惠者。CPI 今日出爐料因油價下跌而降溫，但 Fed 仍鷹派 (10Y 5.19%)。油價 Brent -7% 反映伊朗 de-escalation fully priced in。",
+      "risks": [
+        "NVDA 關鍵人物風險 (FBI 調查 + 無明確繼任者)",
+        "CPI 若高於預期 → 10Y 5.19% 再上攻，重擊成長股",
+        "沙特 East-West 管道遇襲若升級 → 油價 supply risk 被低估"
+      ],
+      "my_take": "NVDA 間諜醜聞係最大 idiosyncratic risk，但係 rotation catalyst — AMD/AVGO/TSM 受惠。油價 -7% 反映伊朗 de-escalation fully priced in，意味沙特管道遇襲若升級 supply risk 係 underpriced。",
+      "key_takeaways": [
+        "NVDA FBI 調查 + 特朗普力挺，AMD/AVGO 成 rotation 受惠者",
+        "今日 CPI 8:30am ET 出爐，10Y 5.19%",
+        "Brent -7%，沙特管道遇襲被市場 ignore",
+        "S&P 抹平中期選舉跌幅"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-10",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "強勢 risk-on 反彈，半導體內部輪動（NVDA→AMD/AVGO）",
+      "headlines": [
+        "NVDA 間諜醜聞續燒：Commerce 調查被叫停、黃仁勳聘 PR firm",
+        "資金大輪動：AMD +13%、AVGO +9%、SMH +5%，AI 多極化",
+        "CPI 前哨：S&P 期貨持平，屏息等今晚 8:30am ET CPI",
+        "伊朗 de-escalation：Brent -7%",
+        "Hegseth 彈劾案正式提出，特朗普力挺"
+      ],
+      "opportunities": [
+        "AMD/AVGO: NVDA 醜聞資金輪動嘅直接受惠者，CPI 降溫可續",
+        "RKLB: 業績 miss 但 buy the dip，space 板塊 risk appetite 高",
+        "TTD/SANM: 財報超預期動能股，睇 follow-through"
+      ],
+      "analysis": "## 📰 今日重點頭條（Raw Headlines）\n\n- **NVDA 間諜醜聞續燒** [NYTimes/TechCrunch]：黃仁勳一年前已聘用專長處理「性醜聞」嘅 PR firm（TechCrunch），紐時再爆 Commerce Dept 對 Megaspeed 嘅調查喺 Nvidia 介入後被叫停。治理風險由「傳聞」升級成「連環指控」。\n- **NVDA 資金大輪動**：AMD +13.3%、AVGO +8.8%、SMH +5.1%，AI trade 由單極走向多極。\n- **CPI 前哨** [CNBC]：S&P 期貨持平，市場屏息等今晚 8:30am ET CPI。\n- **伊朗 de-escalation**：Brent -7%，油價將和平 fully priced in。\n- **Hegseth 彈劾** [CBS/ABC]：Massie 正式提出彈劾案，特朗普稱「就算被彈劾都撐佢」— 國防板塊政治噪音升溫。\n- **RKLB**：Rocket Lab defining quarter miss，但股價 +10.9%（市場 buy the dip）。\n- **SANM +11.1% / TTD +15.5%**：財報超預期嘅動能股接力。\n- **LCID +9.4%**：Lucid 業績 miss 但擴大沙特貸款（流動性救急，非基本面轉強）。\n- **BTC/GLD**：2026 兩大最差資產（GLD +1.9% 今日反彈，但全年仍跑輸）。\n\n## 1. 📊 Market Recap\n\n今日（週一 11/9）係強勢 risk-on 日，中期選舉跌幅全數抹平：\n- SPY **+2.37%**（752.69）、QQQ **+3.54%**（679.35）、DIA **+2.17%**（523.33）\n- VIX **-22.3%** → 19.92，恐慌情緒急退\n- SMH（半導體）**+5.05%**，但係 NVDA **-4.27%**（178.67）逆勢下跌 — 證明係內部輪動，唔係全面 AI 反彈\n- 10Y 收 4.864%（TNX），News Curator 提到盤中一度見 5.19% 高位後回落\n- 油價續跌（USO -3.87%）、XLF +1.45%、XLE +0.52% — 資金偏好 growth 而唔係 value/能源\n\nMorning Scan 今日 thesis 係「Neutral-bearish、科技受壓、轉向 value/歐洲」，結果大市暴力反彈、growth 領先。方向判斷錯咗一半 — 但我哋「唔接 NVDA 刀、睇半導體反彈」嘅具體部署係啱嘅。\n\n## 2. 🔥 Notable Movers\n\n**贏家：**\n- **AMD +13.26%**（508.58）— NVDA 醜聞最大受惠者，資金直接輪入\n- **AVGO +8.78%**（319.48）— 同 AMD 一齊承接 AI 多極化\n- **TTD +15.47%**（14.93）— Trade Desk 財報 beat，動能最強\n- **SANM +11.11%**（149.64）— Sanmina 財報超預期\n- **RKLB +10.91%**（58.86）— 業績 miss 但股價 buy the dip，市場對成長股容忍度高\n- **LCID +9.42%**（3.60）— 沙特貸款擴容，流動性救急反彈\n\n**輸家：**\n- **NVDA -4.27%**（178.67）— 治理風險唯一重災區\n- **USO -3.87%** — 伊朗和平 full priced in，能源承壓\n- **SECZ +0.14%**（6.97）— News Curator 嘅 ACTION call 冇走出來\n\nSector rotation：資金由 NVDA 單極 → AMD/AVGO/TSM 多極，半導體內部換血，唔係出場。\n\n## 3. 📰 News That Mattered\n\n**News Curator 命中率：**\n- ✅ **AMD/AVGO 輪動（ACTION）** — 大中，AMD +13%、AVGO +9%\n- ❌ **SECZ（ACTION）** — 冇走出來，+0.14%，call 落空\n- ✅ **NVDA 醜聞（WATCH）** — 續報，NYT 再爆 Commerce 調查被叫停\n- ✅ **MACRO CPI（WATCH）** — 今晚見真章\n- ✅ **OIL -7%（WATCH）** — 成真，Brent 大跌\n\n**NC 冇 cover 到、raw news 先見：**\n- Megaspeed Commerce 調查被 NVDA 介入叫停（紐時）— 呢個係 NVDA 醜聞嘅新升級，值得今晚盯實\n- 黃仁勳一年前已聘 PR firm 處理 scandal — 暗示醜聞有預謀性，唔係突發\n\n## 4. 🎯 Opportunities Carry Forward\n\n- **AMD/AVGO 輪動持續性** — 若今晚 CPI 降溫、risk-on 延續，半導體多極化資金會繼續流入，AMD 高位整固後可再上\n- **RKLB 反彈動能** — 業績 miss 但市場照買，space 板塊 risk appetite 高\n- **TTD/SANM 財報接力** — 動能股，睇有冇 follow-through\n- **NVDA 反彈機會（逆向）** — 若醜聞證實唔涉及核心業務，超跌反彈空間大，但係刀口舔血，等 CPI + 醜聞落定先\n- **能源 underweight** — 伊朗和平 + 油價續跌，能源反彈要等供應端催化\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚（Step 0 Part C macro_calendar.json）：**\n- 🔴 **09:30pm HKT — CPI（Oct）**：Core/Headline MoM + YoY 一齊出。News Curator 講料降溫，但 10Y 企 5% 附近，一個 hot print 足以打爆今晚 risk-on。**今晚最重要事件。**\n- 🟡 **08:15pm HKT — ADP Employment Change**：就業先行指標\n- 🟡 **02:00am HKT — 10Y Note Auction**：bid-to-cover 弱 → 債息再上\n- 🟡 **05:30am HKT — API Crude Stock**：油價後續催化\n\n**Overnight risk：**\n- **NVDA 醜聞發酵** — 任何新指控會再挫 AI 情緒，拖累已反彈嘅 AMD/AVGO\n- **沙特 East-West 管道遇襲** — 被市場 ignore，若升級，油價 supply risk 係 underpriced\n\n（持倉風險：不作持倉數據 — 我唔知我哋有冇持倉。）\n\n## 6. 💡 My Take\n\n今日係「輪動驗證日」— 大市強力反彈，但主角唔係 NVDA，而係 AMD/AVGO。Morning Scan 睇中性偏空，結果 growth 領漲，證明呢輪調整係半導體內部換血，唔係系統性 risk-off。最大嘅懸而未決係今晚 CPI：若降溫確認，risk-on 有得延續；若熱，10Y 會再上，今日反彈即刻回吐。明日 bias 睇 CPI 結果 — 我傾向 bullish（料降溫），但 hot print 一票否決。",
+      "risks": [
+        "今晚 CPI（9:30pm HKT）— hot print 打爆 risk-on",
+        "NVDA 醜聞再升級拖累 AMD/AVGO",
+        "沙特管道遇襲被 ignore，油價 supply risk underpriced"
+      ],
+      "my_take": "輪動驗證日：NVDA 醜聞下資金大輪動，AMD/AVGO 承接 AI 多極化，大市強勁反彈抹平中期選舉跌幅。懸念全押今晚 CPI — 降溫則 risk-on 延續（我傾 bullish），hot print 一票否決今日反彈。"
     }
   ],
   "news_curator": [
