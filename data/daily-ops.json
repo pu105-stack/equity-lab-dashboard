@@ -4134,44 +4134,6 @@
       "my_take": "大市 Neutral-bearish（短線），非系統性 risk-off。核心矛盾：NVDA 治理衝擊（-5%，$200B 市值）打擊高估值 AI，加埋明日 CPI forecast 3.9% 重燃通脹、10Y 見 5.19%，科技 multiple 有排壓。但伊朗降溫、歐洲銀行併購、半導體反彈（SOXL +12%）顯示賣壓集中而唔係全面。今日部署：唔接 NVDA 刀，睇 SOXL 反彈持續性 + 10Y 企唔企穩 5%，重心轉向歐洲金融/value/能源。真正方向要等明日 CPI 確認。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-10",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "S&P 抹平中期選舉跌幅、反彈擴散至 Big Tech 以外，但 NVDA 間諜醜聞令 AI/科技股分化。今日 CPI 係關鍵考驗，10Y 5.19%。油價 Brent -7%。",
-      "headlines": [
-        "[RECENT] ⚠️ NVDA — 特朗普稱 FBI 調查黃仁勳間諜醜聞，關鍵人物風險升溫（續報）",
-        "[NEW] 🎯 AMD/AVGO — NVDA 間諜醜聞的真正贏家？資金輪動契機",
-        "[NEW] ⚠️ MACRO — 今日 CPI (Nov 10 8:30am ET) 料降溫，10Y 企 5.19%",
-        "[RECENT] ⚠️ OIL — Brent -7% 伊朗和平希望，但沙特 East-West 管道遇襲被市場 ignore（續報）",
-        "[NEW] 🎯 SECZ — Securitize +10%，進軍 $6T 資產支持金融（River One 收購）",
-        "[NEW] 📌 DEFENSE — 共和黨 Massie 提案彈劾國防部長 Hegseth，特朗普力挺",
-        "[NEW] 📌 RKLB — Rocket Lab「defining」季度 miss，股價回吐",
-        "[NEW] 📌 SANM/TTD — Sanmina +20% 超預期，Trade Desk Q3 beat",
-        "[NEW] 📌 LCID — Lucid miss 預期，擴沙特貸款",
-        "[RECENT] 📌 BTC/GLD — 比特幣與黃金同列 2026 兩大最差資產",
-        "[NEW] 📌 MACRO — 特朗普政府將 WuXi AppTec 移出中國軍方清單",
-        "[NEW] 📌 MACRO — S&P 500 抹平中期選舉跌幅，反彈擴散至 Big Tech 以外"
-      ],
-      "opportunities": [
-        "AMD/AVGO: NVDA 間諜醜聞真正贏家，資金輪動",
-        "SECZ: Securitize +10%，進軍 $6T 資產支持金融"
-      ],
-      "analysis": "NVDA 間諜醜聞進入 FBI 調查階段，特朗普力挺黃仁勳。市場將 AMD/AVGO 視為資金輪動受惠者。CPI 今日出爐料因油價下跌而降溫，但 Fed 仍鷹派 (10Y 5.19%)。油價 Brent -7% 反映伊朗 de-escalation fully priced in。",
-      "risks": [
-        "NVDA 關鍵人物風險 (FBI 調查 + 無明確繼任者)",
-        "CPI 若高於預期 → 10Y 5.19% 再上攻，重擊成長股",
-        "沙特 East-West 管道遇襲若升級 → 油價 supply risk 被低估"
-      ],
-      "my_take": "NVDA 間諜醜聞係最大 idiosyncratic risk，但係 rotation catalyst — AMD/AVGO/TSM 受惠。油價 -7% 反映伊朗 de-escalation fully priced in，意味沙特管道遇襲若升級 supply risk 係 underpriced。",
-      "key_takeaways": [
-        "NVDA FBI 調查 + 特朗普力挺，AMD/AVGO 成 rotation 受惠者",
-        "今日 CPI 8:30am ET 出爐，10Y 5.19%",
-        "Brent -7%，沙特管道遇襲被市場 ignore",
-        "S&P 抹平中期選舉跌幅"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-10",
       "time": "08:32 HKT",
@@ -4196,6 +4158,61 @@
         "沙特管道遇襲被 ignore，油價 supply risk underpriced"
       ],
       "my_take": "輪動驗證日：NVDA 醜聞下資金大輪動，AMD/AVGO 承接 AI 多極化，大市強勁反彈抹平中期選舉跌幅。懸念全押今晚 CPI — 降溫則 risk-on 延續（我傾 bullish），hot print 一票否決今日反彈。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-10",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "股市反彈但科技受壓：SPY +2.4%（選舉後復甦），NVDA -4.3% 拖累半導體，資金輪動至 AMD/AVGO；油價跌穿 $90。今晚 CPI (21:30 HKT) 為關鍵。",
+      "headlines": [
+        "[NEW] ⚠️ MACRO: Waller 撐 12 月加息、開門見 50bp — 今晚 CPI 料 3.9%",
+        "[NEW] 🎯 AMD/AVGO: NVDA 醜聞資金輪動兌現 AMD +13%/AVGO +9%",
+        "[RECENT] ⚠️ NVDA: 股東訴訟+董事會審查，股價 -4.3%",
+        "[RECENT] ⚠️ OIL: Brent 跌穿 $90（8月以來首次）"
+      ],
+      "opportunities": [
+        "AMD/AVGO: NVDA 間諜醜聞的資金輪動贏家，AMD +13.3%、AVGO +8.8%，同 NVDA -4.3% 形成強烈對比",
+        "MACRO: Waller 明示 50bp 條件（core CPI ≥0.3%），今晚 CPI 為二元催化劑，市場未 pricing 半碼"
+      ],
+      "analysis": "今日核心係兩條線：① NVDA 間諜醜聞引致資金由 NVDA 大規模輪動至 AMD/AVGO（+13%/+9% vs -4.3%）；② Waller 撐 12 月加息並明示若 core CPI ≥0.3% 支持 50bp，今晚 21:30 CPI 料升至 3.9% YoY 為二元催化劑。油價因伊朗降溫跌穿 $90，軟銀因數據中心減值蝕 $7B 成 AI capex 警號。",
+      "risks": [
+        "CPI 若 core MoM ≥0.3% → Waller 支持 50bp，市場未 pricing，長債/成長股有再跌風險",
+        "NVDA 醜聞持續發酵（訴訟、董事會、國會審查），關鍵人物風險未出清",
+        "AI capex 回撤訊號（SoftBank 減值、HSBC 撤離半導體）可能擴散"
+      ],
+      "my_take": "市場今日展現罕見的「輪動」格局：指數升、但資金棄 NVDA 搶 AMD/AVGO。真正未定價的風險喺今晚 CPI — Waller 已把 50bp 擺上枱，市場仍以 25bp 為主（FedWatch 0% 半碼）。若 core MoM ≥0.3%，長債收益率與科技估值會有第二波壓力。油價跌穿 $90 係結構性（伊朗降溫），但防守性押注反而要小心過早離場。",
+      "key_takeaways": [
+        "NVDA→AMD/AVGO 資金輪動已兌現（+13%/+9% vs -4.3%），非猜測",
+        "今晚 CPI 為 Waller 50bp 的觸發開關，core MoM 0.3% 是紅線",
+        "油價結構性走低（$90 失守），伊朗風險溢價消退",
+        "AI capex 現裂縫（SoftBank 減值 + HSBC 轉向）"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-10",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Bullish（戰術）— CPI 今晚定生死",
+      "headlines": [
+        "今晚 21:30 CPI：core MoM 0.3% 定 0.2% 係分水嶺，Waller 開 50bp 大門",
+        "NVDA 間諜醜聞觸發資金輪動：AMD +13.3%、AVGO +8.8%、NVDA -4.3%",
+        "FOMC 維持 3.75-4.00%，Cook+Hammack 兩票異議主張即刻加息",
+        "Brent 跌穿 $90（8月以來首次），伊朗降溫結構性訊號"
+      ],
+      "focus": [
+        "CPI（21:30 HKT）— 今日唯一決定性事件",
+        "AMD / AVGO — 半導體內部輪動受益者（但 AMD 已 +13% 慎追高）",
+        "NVDA — 11/17 業績 + 醜聞未出清，回避做多"
+      ],
+      "analysis": "## Fed Context — Macro Backdrop\n\n**FOMC（10月27-28日）維持利率 3.75%–4.00%，10-2 投票通過，但有兩票異議。**\n\n- 決定：維持聯邦基金利率 target range 喺 3-3/4 至 4 厘，支持雙重使命。\n- 投票：10-2。Lisa Cook 同 Beth Hammack 反對，主張呢次就加息 25bp —— 兩個 hawkish 異議係明確嘅鷹派信號。\n- 經濟評估：「經濟活動正以強勁步伐擴張」，地緣政治令不確定性偏高，但內需韌性、生產力強、資本開支穩健、就業跟得上。\n- 通脹評估：**「Inflation remains elevated」** —— 全文最重要一句。委員會明言「The Committee will deliver price stability」，措辭罕見地鷹派。\n- 下次 FOMC：**Dec 8-9（帶 SEP / dot plot）**。市場焦點已轉向 12 月會唔會加息。\n\n**關鍵 macro 變數：今晚 CPI（21:30 HKT）。** Governor Waller 已明言支持 12 月加息，並將 50bp 擺上枱「若 core CPI MoM ≥0.3%」。市場目前仍以 25bp 為主（FedWatch 顯示 0% 半碼機率）——即係話市場同 Waller 之間存在明顯嘅定價分歧，CPI 係打破呢個分歧嘅二元催化劑。\n\n**對今日 sector/opportunity 嘅含義：** 喺通脹重新加速（headline YoY forecast 3.9%）、Fed 鷹派、12 月有 dot plot 嘅背景下，長久期資產（high-multiple tech、債券）最脆弱。昨日嘅反彈係「選舉後 relief + 資金輪動」，但唔係 macro 轉向——CPI 出爐前，任何追高都要控住風險。\n\n## 1. 🌍 隔夜市場\n\n- **美股收高（週一）：** SPY +2.37%（收 752.69）、QQQ +3.54%（收 679.35）、DOW +2.17%（收 523.33）。選舉後 relief rally，broad-based。\n- **指數技術位：** SPY 收 752.69，50 日均線 765.35 喺頭頂形成阻力，200 日均線 730.70 係下方支撐。SPY 今日開盤大概會喺 750 附近消化。\n- **亞洲時段：** 金價亞洲盤重挫（「Heavy Selling Hits Gold Before CPI」），USDJPY 逼近強支撐，risk 情緒偏暖。\n- **油價：** Brent 跌穿 $90（8 月以來首次）——伊朗降溫 + 需求憂慮嘅結構性訊號。\n- **黃金：** 喺 CPI 前被 heavy selling，50 MA $4,128 成天花板，下方 $4,019/$4,072 係支撐。\n- **Crypto：** BTC 落後反彈（加息機率 96% 壓制），BlackRock BTC ETF 連續 7 日淨流出。\n- **債市：** 今晚有 10 年期公債拍賣（02:00 HKT），bid-to-cover 係 yield 方向嘅 secondary signal。\n\n## 2. 📡 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n\n**🔴 今晚 21:30 HKT — 美國 10 月 CPI（本日唯一 headline event，二元催化劑）**\n\n| 指標 | Previous | Forecast |\n|---|---|---|\n| Core CPI MoM | 0.3% | 0.2% |\n| Core CPI YoY | 2.6% | 2.8% |\n| Headline CPI MoM | 0.6% | 0.3% |\n| Headline CPI YoY | 3.7% | 3.9% |\n\n- **點解重要：** headline YoY forecast 3.9% = 通脹重新加速、遠離 2% 目標。Waller 話 core MoM ≥0.3% 就開 50bp 大門。若 core MoM 真係 print 0.3%+（vs 0.2% consensus），長債 yield 同科技估值會承受第二波壓力。\n- **其他：** 21:15 ADP 每週就業（MED）、02:00 10 年期公債拍賣、05:30 API 原油庫存。\n- **本週 upcoming HIGH：** 週四 Existing Home Sales（23:00）、週五 PPI MoM（21:30）、下週二 Retail Sales（21:30）。\n- **地緣：** Trump 稱伊朗戰爭「status quo」但警告美軍「locked and loaded」；美軍協調沙特油輪過霍爾木茲海峽。地緣溢價未清零，但方向係降溫。\n\n## 3. 🔥 Sector Watch\n\n**昨日 sector 表現（Nov 9，跨交易所平均）：**\n- Utilities +3.65% / Industrials +3.21% / Technology +2.74% / Consumer Defensive +1.43% / Real Estate +1.40% / Consumer Cyclical +1.23% / Healthcare +1.10% / Basic Materials +0.80% / Energy +0.21% / Comm Services +0.05% / **Financial Services -0.05%**\n\n- **Momentum：** Utilities + Industrials 帶頭 —— 典型選舉後 relief 格局（防守 + 景氣雙升）。Technology +2.74% 係「假強」—— 實際係資金棄 NVDA 搶 AMD/AVGO 撐起嘅輪動，唔係全面科技強勢。\n- **Risk：** Financial Services 逆市微跌 —— 喺加息預期升溫下，銀行股理應受惠，但昨日冇跟升，係一個需要留意嘅背離信號。\n- **Rotation signal：** 半導體內部出現罕見輪動（NVDA → AMD/AVGO），HSBC 明確撤離半導體、轉向應用層同雲。呢個唔係一次性，而係 trend。\n\n## 4. 🎯 Pre-market Opportunities\n\n**ACTION（高信心）：**\n- **AMD / AVGO — 資金輪動受益者。** NVDA 間諜醜聞觸發資金由 NVDA 流出，AMD +13.3%、AVGO +8.8% 兌現。呢個輪動有基本面 support（HSBC 都話撤離半導體去應用/雲），但 AMD 已 +13%，今日追高要等回調。AMD 前兩日仲 -17%，波動極大——只適合高風險者。\n\n**WATCH（需睇 catalyst）：**\n- **MACRO（今晚 CPI）— 今日真正主角。** Waller 50bp 論 vs 市場 25bp 定價。core MoM ≥0.3% → 科技/長債雙殺；≤0.2% → risk-on 延續、輪動強化。呢個係今日唯一決定性事件。\n- **NVDA — 關鍵人物風險未出清。** 股東訴訟 + 董事會審查 + CEO 涉間諜醜聞，11月17日仲要業績。現價反彈係死貓彈定超跌反彈，未有結論。回避做多，除非想賭 11/17 業績。\n- **CRYPTO — 落後反彈但逆風未除。** 加息機率 96% + ETF 7 連流出，反彈力度弱。WATCH，唔好急住接刀。\n\n**NOTE：**\n- **OIL — Brent 跌穿 $90** 係結構性（伊朗降溫），energy 板塊昨日 +0.21% 已反映。防守性 energy 押注要小心過早離場。\n- **TECH 背離：** TSMC 10 月營收跳升、但 SK Hynix/Tokyo Electron 背離 —— 半導體供應鏈內部 signal 混雜。\n- **SFTBY — SoftBank 數據中心減值蝕 $7B**，AI infra 資本開支嘅另一警號。\n\n## 📅 未來一個月業績重點\n\n**呢個星期：**\n- **週二（今日）**：PBR/PBRA（$119B，AMC）、TDG（$66B，BMO）\n- **週四 Nov 12**：CSCO（$370B，AMC）、AMAT（$264B，AMC）、BN（$102B）、NU（$58B）—— AMAT 係半導體 capital equipment 風向標，喺 NVDA 醜聞背景下更受關注\n- **週五 Nov 13**：MUFG/SMFG/MFG（日本銀行三巨頭）\n\n**下週（重頭戲）：**\n- **🎯 NVDA — Nov 17（AMC，$4.5T）**：成個月最重要業績。間諜醜聞 + 董事會審查 + 呢次業績，三重事件撞埋一齊。指引一句話可以決定成個半導體/科技板塊方向。係 macro 以外、下週最大單一催化劑。\n- **Nov 17**：HD（$343B，BMO）、DIS（$202B，BMO）、PDD（$118B）、BHP（$203B）\n- **Nov 18-19**：PANW、WMT（$996B，BMO）、BABA（$265B）、INTU、ROST、TJX、LOW、TGT\n- **Nov 24**：DELL（$209B）、ADI（$176B）、MDT、ADSK\n\n## 5. 📋 Today's Agenda\n\n- **21:30 HKT — CPI**：今日唯一決定性事件，其他全部係 noise。\n- **SPY levels：** 阻力 765（50MA），support 730（200MA）。今日開盤大概喺 750 附近消化，CPI 前難有大動作。\n- **呢個星期 catalyst：** 週四 Existing Home Sales + CSCO/AMAT 業績、週五 PPI + 日本銀行業績、下週二 Retail Sales + NVDA 業績。\n- **Key watch：** 半導體內部輪動（NVDA vs AMD/AVGO）今日會唔會延續；油價會唔會進一步跌破 $88。\n\n## 6. 💡 My Take\n\n**Overall bias：Bullish（戰術上）但 CPI-dependent（結構上）。**\n\n昨日嘅 +2.4% 反彈係「選舉後 relief rally + 半導體內部輪動」，breadth 好（11 個 sector 9 個升）、防守同景氣雙升——呢個係健康嘅 risk-on 格局。但喺結構上，個市踩緊一條好危險嘅鋼線：**headline 通脹 forecast 升到 3.9%、Fed 有兩個異議想即刻加息、Waller 要 12 月開 50bp 大門**——呢啲係加息週期入面嘅 signal，唔係減息週期。\n\n今日最緊要睇實：**今晚 21:30 嘅 core CPI MoM。** 0.3% 定 0.2% 係成個故事嘅分水嶺。print 0.3%+ → 長債 yield 衝、high-multiple tech 第二波殺跌、輪動到 AMD/AVGO 嘅資金都會獲利了結；print ≤0.2% → risk-on 延續、NVDA 醜聞成為噪音、科技重新追高。\n\n**改變我 thesis 嘅 signal：** 若今晚 core CPI YoY 突破 2.8%（即核心通脹加速 confirm），我會將整體 bias 由 bullish 轉向 neutral-to-defensive，並重新評估 12 月 50bp 加息嘅機率。反之若 core MoM ≤0.1%，我會更積極睇好半導體輪動同景氣股。",
+      "risks": [
+        "core CPI MoM ≥0.3% → 長債 yield 衝、high-multiple tech 第二波殺跌",
+        "12 月 FOMC（Dec 8-9 SEP）50bp 加息風險未定價",
+        "NVDA 關鍵人物風險（股東訴訟 + 董事會審查）未出清"
+      ],
+      "my_take": "戰術 bullish、結構 CPI-dependent。昨日選舉後 relief rally breadth 健康，但 headline 通脹 forecast 3.9% + Fed 兩票異議想加息 + Waller 開 50bp 大門 = 加息週期信號。今晚 21:30 core CPI MoM 係分水嶺：≥0.3% 科技/長債雙殺，≤0.2% risk-on 延續。NVDA 醜聞係噪音，真正主角係 CPI。"
     }
   ],
   "news_curator": [
