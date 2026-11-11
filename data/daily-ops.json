@@ -4213,6 +4213,70 @@
         "NVDA 關鍵人物風險（股東訴訟 + 董事會審查）未出清"
       ],
       "my_take": "戰術 bullish、結構 CPI-dependent。昨日選舉後 relief rally breadth 健康，但 headline 通脹 forecast 3.9% + Fed 兩票異議想加息 + Waller 開 50bp 大門 = 加息週期信號。今晚 21:30 core CPI MoM 係分水嶺：≥0.3% 科技/長債雙殺，≤0.2% risk-on 延續。NVDA 醜聞係噪音，真正主角係 CPI。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-11",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "Risk-off — Hot CPI (10月 +0.4% MoM 高於預期) 確認加息路徑，Waller 開門見 50bp 12月加息，10Y 重返 5%，美元最佳單日，股債金幣齊跌",
+      "headlines": [
+        "[RECENT] ⚠️ MACRO — Hot CPI 確認加息路徑：10Y 重返 5%、美元最佳單日、股債金齊跌",
+        "[OLD] ⚠️ NVDA — 續報：第二日拋售 -5.5% 至 $169，眾議院醞釀傳票，AMD 輪動退潮",
+        "[NEW] 🎯 CRWV — CoreWeave 業績 beat + 上調指引，反證 AI 需求未冷卻",
+        "[NEW] 📌 TECH — Anthropic 巨型 IPO 將更綁定 NVDA，GOOGL/AMZN 收穫豐",
+        "[RECENT] ⚠️ MACRO — 加息押注重擊 rate-sensitive fintech：UPST -11%、SOFI -4%、AFRM -3%",
+        "[NEW] ⚠️ PRECIOUS_METALS — 黃金跌穿 $4,000 支持，GLD -2.7%，加息押注升溫",
+        "[RECENT] ⚠️ CRYPTO — BTC 11 週新低，1D MA200 超賣，$110k 反彈契機？",
+        "[RECENT] 📌 OIL — API 原油+蒸餾油庫存大增，但 contrarian 喊 $100 目標",
+        "[NEW] 📌 MACRO — 消費者壓力：信用卡債破紀錄 $1.29T、HELOC 自 2005 最大升幅",
+        "[NEW] 📌 GOLD — Barrick 分拆北美黃金資產 IPO"
+      ],
+      "opportunities": [
+        "CRWV: CoreWeave 業績 beat + 上調指引，反證 AI 需求未冷卻（但 COO 沽 $629K）",
+        "MACRO: Hot CPI 確認加息路徑，10Y 重返 5%，duration 資產被重擊"
+      ],
+      "analysis": "Risk-off 主導。Hot CPI (0.4% MoM) + Waller 開門見 50bp 加息，10Y 重返 5%，美元最佳單日，股債金幣齊跌。NVDA 第二日拋售，AMD 輪動退潮。",
+      "risks": [
+        "Fed 12月加息(可能 50bp) → duration 資產(fintech/crypto/gold)續跌",
+        "NVDA 醜聞續發酵(傳票+訴訟) → AI 交易再受壓",
+        "黃金跌穿 $4,000 若確認 → 技術性破位"
+      ],
+      "my_take": "今週真正 driver 係 hot CPI + 加息 repricing，唔係 NVDA 醜聞。Duration 敏感資產係震央。CoreWeave beat 係關鍵反證——AI 需求未冷卻，NVDA/AI 拋售係 sentiment 問題。",
+      "key_takeaways": [
+        "CPI 10月 +0.4% MoM 高於預期，12月加息(或50bp)機率急升",
+        "10Y 重返 5%，美元最佳單日",
+        "NVDA 第二日拋售至 $169，AMD 輪動退潮",
+        "黃金跌穿 $4,000，BTC 11 週新低",
+        "CoreWeave beat 反證 AI 需求未冷卻"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-11",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "Risk-off rotation — hot CPI 確認加息，duration 資產殺跌、金融/價值企穩",
+      "headlines": [
+        "Hot CPI +0.4% MoM 高於預期 → Fed 開門更快加息 → 12月 50bp 風險重燃",
+        "NVDA 醜聞加深：律所調查 + 眾議院傳票，股價第二日 -5.5%",
+        "CoreWeave beat + 上調指引，反證 AI 需求未冷卻（CRWV）",
+        "10Y 重返 5%，黃金跌穿 $4,000，BTC 11 週新低",
+        "NVDA→非 NVDA 輪動延續：AVGO +3.9%、AMD +1.3%、TSM +2.0%"
+      ],
+      "opportunities": [
+        "XLF: 加息受惠，逆市 +0.5% 領先訊號",
+        "AVGO/AMD/TSM: NVDA→非 NVDA AI 輪動延續",
+        "CRWV: AI demand 溫度計，beat + 上調指引"
+      ],
+      "analysis": "## 📰 今日重點頭條\n\n今日個市真正嘅 driver 唔係 NVDA 醜聞，而係 **hot CPI + 加息 repricing**。10 月 CPI 按月 +0.4%（高過預期），Fed 官員即時「開門俾更快加息」，Waller 更將 12 月 50bp 擺上枱。10Y 重返 5%（前日 4.88%），美元最佳單日，股債金幣齊跌——但指數跌幅溫和，因為係 rotation 唔係 crash。\n\n核心 headline 排序（按 market impact）：\n\n1. **Hot CPI +0.4% MoM**（高於預期）→ Fed「開門俾更快加息」→ 12 月 50bp 風險重燃（macro，本日 headline）\n2. **NVDA 醜聞加深** — 聘請大型律所調查中國間諜風波、眾議院醞釀傳票，股價第二日 -5.5%（NVDA）\n3. **CoreWeave 業績 beat + 上調指引** — 反證 AI 需求未冷卻（CRWV）〔NC ACTION 命中〕\n4. **黃金跌穿 $4,000**（GLD -2.7%）\n5. **BTC 11 週新低**、逼近 MA200 超賣（BTC-USD）\n6. **10Y 重返 5%** — duration 資產震央（TLT -1.3%）\n7. **NVDA→非 NVDA AI 輪動延續**：AVGO +3.9%、AMD +1.3%、TSM +2.0%\n8. **金融股逆市造好**：XLF +0.5%（加息受惠）\n9. **消費者壓力信號**：信用卡債 $1.29T 破紀錄、HELOC 自 2005 最大升幅\n10. **政治噪音**（非 market）：Hegseth 彈劾被擋、GOP 揀 Jordan/Thune 做領袖\n\n---\n\n## 1. 📊 Market Recap\n\n| 指數 | 收盤 | 變幅 |\n|---|---|---|\n| SPY | 749.92 | -0.37% |\n| QQQ | 674.76 | -0.68% |\n| DIA | 521.73 | -0.31% |\n| VIX | 19.46 | -2.31% |\n\n表面指數跌幅溫和（SPY 只 -0.37%），但結構上係一次清晰嘅 **duration rotation**：\n\n- **輸家（長久期）**：XLK -1.15%、SMH -0.78%、TLT -1.32%、IWM -0.68%\n- **贏家（短久期/價值）**：XLF +0.52%、XLE +0.44%、XLV +0.29%、XLP +0.15%\n\n**關鍵訊號：VIX 喺指數下跌日反而 -2.31% 落到 19.46。** 呢個唔係恐慌性拋售，而係有序嘅板塊輪動——資金由長久期 growth 撤出、流入金融/能源/防守。加息週期確認，市場喺「重新定價」而唔係「panic」。\n\n債市先係真正震央：10Y 由 4.88% 重返 5%，2Y 4.56%，短端向加息靠攏。呢個係 hot CPI 之後嘅即時 repricing。\n\n---\n\n## 2. 🔥 Notable Movers\n\n**大跌（duration + AI 震央）：**\n- **NVDA -5.47% → $168.89**：第二日拋售。間諜醜聞 + 律所調查 + 眾議院傳票，關鍵人物風險未出清\n- **MSFT -2.20%**：高估值 mega-cap tech 被 de-rate\n- **MSTR -3.60% / COIN -2.92% / BTC -2.19%**：crypto 全線受挫，11 週新低\n- **HOOD -2.39% / PYPL -2.11%**：fintech 長久期遭拋\n- **GLD -2.68%**：黃金跌穿 $4,000 關鍵位\n\n**逆市造好（rotation 受惠）：**\n- **AVGO +3.91%**：NVDA→非 NVDA 輪動延續，連續第二日強勢\n- **TSM +2.02% / AMD +1.30%**：AI 供應鏈資金再分配\n- **AMZN +1.48%**：相對防守嘅 mega-cap\n\n**最值得咀嚼嘅係 CoreWeave（CRWV）：** 業績 beat + 上調指引，但收市 -0.51%。喺呢種 tape 下，連強勁嘅 AI beat 都拉唔起股價——證明 AI 拋售係 **sentiment/估值問題，唔係 demand 問題**。呢個係本日最重要嘅結構性訊號。\n\n---\n\n## 3. 📰 News That Mattered\n\n**NC / Morning Scan 嘅 calls 點樣 play out：**\n\nMorning Scan（11/10 20:33）明確講「戰術 bullish、結構 CPI-dependent」，並列咗三條 risk：\n1. ✅ **「core CPI MoM ≥0.3% → 長債 yield 衝、high-multiple tech 第二波殺跌」** — 完美命中。CPI 出 +0.4%，TLT -1.3%、NVDA -5.5%、MSFT -2.2%\n2. ✅ **「12 月 FOMC 50bp 加息風險未定價」** — 正在被 price in。Fed 官員已開門「更快加息」\n3. ✅ **「NVDA 關鍵人物風險未出清」** — 命中。NVDA -5.47%，律所調查 + 傳票\n\nMorning Scan 嘅 CPI-dependent 框架完全經得起驗證——CPI 出嚟 hot，risk-off 即刻啟動。呢個係高質量嘅 forward-looking call。\n\n**NC 嘅 macro call 亦中**：hot CPI → 加息 repricing → duration 資產（fintech/crypto/gold）被重擊。全部兌現。\n\n**Raw headlines 見到但 NC 冇 cover 到：**\n- Fed 官員「open door to a quicker round of rate hikes」——呢條係加息 repricing 嘅關鍵佐證，NC 有提 Waller 但未充分強調「更快加息」呢個集體 signal\n- 信用卡債 $1.29T 破紀錄 + HELOC 自 2005 最大升幅——消費者槓桿壓力係 hot CPI 嘅底層原因，值得 carry forward\n\n---\n\n## 4. 🎯 Opportunities Carry Forward\n\n1. **金融股（XLF / 銀行）** — 加息受惠最直接。若 12 月 50bp 被進一步 price in，bank net interest margin 擴張邏輯繼續。今日 XLF 逆市 +0.52% 係領先訊號。\n\n2. **NVDA→非 NVDA AI 輪動（AVGO / AMD / TSM）** — AVGO 連續兩日強勢（+8.8% → +3.9%）。若 NVDA 醜聞深化，資金會繼續向 AI 供應鏈嘅「乾淨」名字遷移。但要留意：呢個係 relative 交易，唔係 absolute 安全。\n\n3. **CoreWeave（CRWV）作為 AI demand 溫度計** — beat + 上調指引反證 AI capex 未冷卻。但 COO 沽 $629K + 今日收跌，追入 risk 高。更值錢嘅係佢作為 signal：若陸續有 AI 基建 beat，NVDA/AI 拋售可能係買入機會。\n\n4. **黃金 $4,000 攻防** — GLD 跌穿 $4,000。若決定性失守，long-duration unwind 仲有排走；若守住，呢度可能係企穩位。今晚先觀察，唔急。\n\n---\n\n## 5. ⚠️ Risks / Watchlist\n\n**今晚（11/11）美國時段事件（macro_calendar.json — source of truth）：**\n- 08:00PM HKT — MBA 週度按揭利率（MED，影響有限，非 headline）\n- 今晚冇 HIGH importance 事件——相對平靜嘅一日\n\n**聽日（11/12）重點：**\n- 🔴 11:00PM HKT — **Existing Home Sales（Oct）**（HIGH）\n- 🟡 09:30PM HKT — **Initial Jobless Claims**\n- 🟡 02:00AM HKT — **30 年期公債拍賣**（bid-to-cover 係 yield 方向 secondary signal）\n- 🟡 03:00AM HKT — 月度預算聲明\n\n**Overnight risk：**\n1. **12 月 FOMC（Dec 8-9，帶 SEP/dot plot）50bp 加息風險** — 市場正重新定價，任何 Fed 官員再加碼鷹派都係 duration 資產嘅額外壓力\n2. **NVDA 醜聞演變** — 律所調查結果、眾議院傳票進展、股東訴訟——關鍵人物風險未出清，隨時有新催化\n3. **黃金 $4,000 + BTC MA200 雙重技術位** — 若同時失守，long-duration unwind 加速，可能波及成長股\n4. **消費者槓桿** — 信用卡債 $1.29T + HELOC 急升 = hot CPI 嘅結構性底層，通脹可能更 sticky\n\n**持倉風險：** 唔會作持倉——我哋冇已知持倉，所有 ticker 都係研究標的。\n\n---\n\n## 6. 💡 My Take\n\n今日故事一句講晒：**hot CPI 確認加息路徑，但呢個係 rotation 唔係 crash。** 指數跌幅溫和（SPY -0.37%），但底下係一次清晰嘅 duration 清洗——長久期 growth、crypto、黃金、fintech 全部被重擊，金融/價值企穩。Morning Scan 嘅 CPI-dependent 框架完美命中。\n\n最重要 takeaway：**CoreWeave beat 係關鍵反證。** 喺 AI 拋售最恐慌嘅一日，一間 AI 基建公司交咗 beat + 上調指引——證明 AI demand 未冷卻，NVDA/AI 拋售係估值/sentiment 問題，唔係 fundamental。\n\n聽日 bias：**neutral-to-defensive（偏防守）**。CPI 衝擊已吸收，但 12 月 50bp 加息風險正被 price in + NVDA 醜聞未出清，duration 資產短期仍受壓。金融/價值應能續跑，長久期 growth 等兩個催化先諗反彈：① 更多 CoreWeave 式 AI beat，② 黃金 $4,000 / BTC MA200 企穩。\n",
+      "risks": [
+        "12月 FOMC (Dec 8-9) 50bp 加息風險正被 price in",
+        "NVDA 醜聞演變：律所調查 + 傳票，關鍵人物風險未出清",
+        "黃金 $4,000 + BTC MA200 雙重技術位，若失守 long-duration unwind 加速",
+        "消費者槓桿：信用卡債 $1.29T + HELOC 急升 = 通脹更 sticky"
+      ],
+      "my_take": "Hot CPI 確認加息路徑，但係 rotation 唔係 crash。Morning Scan 嘅 CPI-dependent 框架完美命中。CoreWeave beat 係關鍵反證——AI demand 未冷卻，拋售係估值問題。聽日 neutral-to-defensive：金融/價值續跑，長久期 growth 等 AI beat 或黃金/BTC 企穩先諗反彈。"
     }
   ],
   "news_curator": [
