@@ -4215,43 +4215,6 @@
       "my_take": "戰術 bullish、結構 CPI-dependent。昨日選舉後 relief rally breadth 健康，但 headline 通脹 forecast 3.9% + Fed 兩票異議想加息 + Waller 開 50bp 大門 = 加息週期信號。今晚 21:30 core CPI MoM 係分水嶺：≥0.3% 科技/長債雙殺，≤0.2% risk-on 延續。NVDA 醜聞係噪音，真正主角係 CPI。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-11",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "Risk-off — Hot CPI (10月 +0.4% MoM 高於預期) 確認加息路徑，Waller 開門見 50bp 12月加息，10Y 重返 5%，美元最佳單日，股債金幣齊跌",
-      "headlines": [
-        "[RECENT] ⚠️ MACRO — Hot CPI 確認加息路徑：10Y 重返 5%、美元最佳單日、股債金齊跌",
-        "[OLD] ⚠️ NVDA — 續報：第二日拋售 -5.5% 至 $169，眾議院醞釀傳票，AMD 輪動退潮",
-        "[NEW] 🎯 CRWV — CoreWeave 業績 beat + 上調指引，反證 AI 需求未冷卻",
-        "[NEW] 📌 TECH — Anthropic 巨型 IPO 將更綁定 NVDA，GOOGL/AMZN 收穫豐",
-        "[RECENT] ⚠️ MACRO — 加息押注重擊 rate-sensitive fintech：UPST -11%、SOFI -4%、AFRM -3%",
-        "[NEW] ⚠️ PRECIOUS_METALS — 黃金跌穿 $4,000 支持，GLD -2.7%，加息押注升溫",
-        "[RECENT] ⚠️ CRYPTO — BTC 11 週新低，1D MA200 超賣，$110k 反彈契機？",
-        "[RECENT] 📌 OIL — API 原油+蒸餾油庫存大增，但 contrarian 喊 $100 目標",
-        "[NEW] 📌 MACRO — 消費者壓力：信用卡債破紀錄 $1.29T、HELOC 自 2005 最大升幅",
-        "[NEW] 📌 GOLD — Barrick 分拆北美黃金資產 IPO"
-      ],
-      "opportunities": [
-        "CRWV: CoreWeave 業績 beat + 上調指引，反證 AI 需求未冷卻（但 COO 沽 $629K）",
-        "MACRO: Hot CPI 確認加息路徑，10Y 重返 5%，duration 資產被重擊"
-      ],
-      "analysis": "Risk-off 主導。Hot CPI (0.4% MoM) + Waller 開門見 50bp 加息，10Y 重返 5%，美元最佳單日，股債金幣齊跌。NVDA 第二日拋售，AMD 輪動退潮。",
-      "risks": [
-        "Fed 12月加息(可能 50bp) → duration 資產(fintech/crypto/gold)續跌",
-        "NVDA 醜聞續發酵(傳票+訴訟) → AI 交易再受壓",
-        "黃金跌穿 $4,000 若確認 → 技術性破位"
-      ],
-      "my_take": "今週真正 driver 係 hot CPI + 加息 repricing，唔係 NVDA 醜聞。Duration 敏感資產係震央。CoreWeave beat 係關鍵反證——AI 需求未冷卻，NVDA/AI 拋售係 sentiment 問題。",
-      "key_takeaways": [
-        "CPI 10月 +0.4% MoM 高於預期，12月加息(或50bp)機率急升",
-        "10Y 重返 5%，美元最佳單日",
-        "NVDA 第二日拋售至 $169，AMD 輪動退潮",
-        "黃金跌穿 $4,000，BTC 11 週新低",
-        "CoreWeave beat 反證 AI 需求未冷卻"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-11",
       "time": "08:32 HKT",
@@ -4277,6 +4240,67 @@
         "消費者槓桿：信用卡債 $1.29T + HELOC 急升 = 通脹更 sticky"
       ],
       "my_take": "Hot CPI 確認加息路徑，但係 rotation 唔係 crash。Morning Scan 嘅 CPI-dependent 框架完美命中。CoreWeave beat 係關鍵反證——AI demand 未冷卻，拋售係估值問題。聽日 neutral-to-defensive：金融/價值續跑，長久期 growth 等 AI beat 或黃金/BTC 企穩先諗反彈。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-11",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "風險偏好回穩但加息壓力未除：AI基建反彈（CoreWeave +11%、Anthropic IPO 估值升至 $1.5tn）對抗 10Y 重返 5% 的加息陰靈，油價因地緣風險溢價反彈，BTC 仍弱。",
+      "headlines": [
+        "[NEW] ACTION: CRWV — CoreWeave 升 11% + 新融資 playbook，反證 AI 需求未冷卻",
+        "[NEW] ACTION: TECH — Anthropic IPO 估值升至 $1.5tn",
+        "[RECENT] WATCH: NVDA — 反彈 5% 但阿里巴巴擬分拆 T-Head 晶片",
+        "[RECENT] WATCH: MACRO — Goldman 調整聯儲局利率預測，10Y 企 5%",
+        "[RECENT] WATCH: OIL — 油價反彈，伊朗和平樂觀消退",
+        "[RECENT] WATCH: CRYPTO — BTC 短期持有人 47K BTC 虧損轉交易所"
+      ],
+      "opportunities": [
+        "CRWV: 績業 beat 後 +11%，新融資 playbook 紓緩債務憂慮，是 AI 需求的最強反證",
+        "TECH: Anthropic IPO 估值升至 $1.5tn，再綁定 NVDA/GOOGL/AMZN",
+        "NVDA: 反彈 5% 是技術性，等 earnings 確認 demand + 黃仁勳去留",
+        "MACRO: 加息路徑是最大 macro 變數，Goldman 轉向是 signal",
+        "OIL: 地緣風險溢價重新定價，Bessent 轉移是 escalation signal，但供需仍偏鬆",
+        "CRYPTO: 投降拋售可能是底部 signal，但加息 + 股市動盪未明朗"
+      ],
+      "analysis": "今日主線：AI 基建反彈對抗加息陰靈。CoreWeave +11% 和 Anthropic $1.5tn IPO 估值表明 AI 需求未冷卻，但 10Y 重返 5% + Goldman 調整利率預測是機構層面的冷水。兩股力量在拉抽，注意下週 NVDA earnings 是解壓導索。",
+      "risks": [
+        "加息路徑未明，rate-sensitive 資產繼續受壓",
+        "NVDA 黃仁勳去留不确定，關鍵人物風險未解",
+        "AI 巨型 IPO 估值過進取，市場 safety alarm 已響"
+      ],
+      "my_take": "市場正在對貚一個問題：AI 基建貸款頂峰還是加息頂峰？CoreWeave 的 +11% 和 Anthropic $1.5tn 是拉的一邊，10Y 5% 和 Goldman 轉向是推的一邊。我傾向認為 AI 需求未冷卻（CoreWeave 是實際業績而非情緒），但加息會抽緊估值倍數。下週 NVDA earnings 是最重要變數——若 demand guide 穩定，AI 基建彈得起來；若輪動退潮，整個复量估值要重定。",
+      "key_takeaways": [
+        "AI 基建反彈對抗加息陰靈，下週 NVDA earnings 是解壓導索",
+        "Anthropic IPO 估值升至 $1.5tn，再綁定 NVDA/GOOGL/AMZN",
+        "Goldman 調整利率預測 + 10Y 5%，加息路徑是最大 macro 變數",
+        "油價反彈，伊朗和平樂觀消退 + Bessent 轉移軍事基地"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-11",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-defensive — 加息預期升溫壓制科技，能源/黃金/價值強",
+      "headlines": [
+        "10Y 重返 5%，市場轉向更多 Fed 加息預期",
+        "CoreWeave 新融資 playbook 紓緩債務，AI 基建需求未冷卻",
+        "財長 Bessent 因伊朗威脅遷往軍事基地，油價反彈",
+        "NVDA 上交易日 -5.47%，Nov 17 earnings 係主菜"
+      ],
+      "focus": [
+        "能源/黃金 — 伊朗風險 + 通脹對沖",
+        "NVDA — Nov 17 earnings 前哨",
+        "CRWV — AI 基建融資重估"
+      ],
+      "analysis": "# 開市掃瞄 — 2026-11-11\n\n## Fed Context — 加息幽靈回歸\n上次 FOMC（Oct 27-28）已過，statement 已喺 Oct 28 出咗。下次會議 **Dec 8-9，附 SEP（dot plot）**——呢個係關鍵，因為市場而家重新定價緊「加息」而唔係「減息」。\n\n本週核心 signal：**10Y 殖利率重返 5%**，2Y 企 4.56%，curve 繼續 steepening（10Y-2Y 利差 0.25-0.38%）。觸發點係「核心服務 CPI 難睇」——通脹唔止冇降溫，仲喺擴散。市場反應好清楚：美債期貨下跌、Goldman 正式調整聯儲局利率預測（由減息轉向更多加息）。加息押注直接打擊 rate-sensitive fintech（UPST -11%、SOFI -4%、AFRM -3%）。\n\n呢個係一個 **regime shift**：由「減息牛」轉向「reflation + 加息壓力」。對今日 sector analysis 嘅含義：估值倍數（尤其高 duration 嘅成長股/半導體）會被抽緊，而 value/cyclicals/能源/黃金相對受益。\n\n## 今日重點頭條（Raw Headlines）\n1. **CoreWeave 新融資 playbook 紓緩債務憂慮，股價 pop（CRWV）**——AI 基建融資企穩\n2. **Goldman Sachs 調整聯儲局利率預測**——華爾街龍頭轉向更多加息\n3. **美債期貨下跌，市場見更多 Fed 加息**——rate path 重新定價\n4. **10Y 殖利率飆升，通脹擴散至核心服務 CPI**——「ugly core services」\n5. **財長 Bessent 因「伊朗威脅」遷往軍事基地**——地緣政治升溫\n6. **伊朗否認與美談判，霍爾木茲海峽「直到要求被滿足」繼續封閉**——油價風險溢價\n7. **RWE 與 KKR 達成 $16B 英國離岸風電協議（KKR）**\n8. **BofA 上調 Walmart 目標價（WMT）**——share gains outlook\n9. **歐洲股市逼近歷史高位**——歐股吸收科技波動\n10. **美股震盪後，跡象顯示「言之過早話最壞已過」**——contrarian 訊號\n\n## 隔夜市場\n上一個交易日（Nov 10）美股全線回落：SPY -0.37%（$749.92）、QQQ -0.68%（$674.76）、DIA -0.31%（$521.73）、IWM -0.68%（$280.58）。**QQQ 已跌穿 200 日線（$681）**，50 日線（$719）更遠在頭頂——科技係明確弱勢板塊。相對地 DIA 企喺 50/200 日線之上，價值/道指成分係防守贏家。\n\nVIX 18.55（-4.7%）——留意：10Y 升到 5%、加息預期升溫，但 VIX 冇爆，仲跌返 20 樓下。呢個係「慢磨式輪動」而唔係「恐慌拋售」。油價 $87.28（+1.44%）因伊朗風險溢價反彈；金價 $4,053（+0.56%）企喺歷史高位附近，係通脹對沖買盤。\n\n## 昨日爆升／暴跌榜\n**爆升榜**全係 penny stock：SMX +106%、PEPG +93%、INLF +80%、TTEC +72%、MI +65%——零機構主題，純賭場資金。\n**暴跌榜**係 distressed names：NXXT -93%、IHRT -65%、MVST -64%、BMGL -64%、MNTK -57%。\n**活躍榜**先係真正 story：NVDA 以 -5.47% 做最活躍 + 半導體 3x 槓桿 ETF SOXL 上榜——確認資金喺半導體撤離。\n結論：movers 冇 sector theme，真正訊號係「NVDA 最活躍 + 半導體弱勢」。\n\n## 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n- 今日（Nov 11）：MBA 按揭數據（MED，噪音，可忽略）\n- **Thu Nov 12**：Initial Jobless Claims（prev 189K / fcast 195K）、Existing Home Sales（HIGH，prev 3.99M / fcast 3.85M）\n- **Fri Nov 13 09:30PM**：**PPI MoM（HIGH，prev 1.3% / fcast 0.4%）**——本週最關鍵通脹數據。上月 1.3% 係好熱，若今次回落唔到 0.4%，加息恐慌會再升一級\n- **Tue Nov 17 09:30PM**：Retail Sales MoM（HIGH，prev 0.8% / fcast 0%）\n- **Wed Nov 18**：Housing Starts（HIGH）、Building Permits（HIGH）\n\n## Sector Watch\n- **能源（強）**：伊朗封鎖霍爾木茲 + 油價反彈 → 油股/油服受益\n- **黃金/礦業（強）**：金價歷史高位 + 通脹對沖買盤\n- **科技/半導體（弱）**：QQQ 跌穿 200 日線、NVDA 年高跌逾 30%\n- **Rate-sensitive fintech（弱）**：加息押注重擊 UPST/SOFI/AFRM\n- **價值/道指（相對強）**：DIA 企喺兩條均線上，rotation 贏家\n\n## Pre-market Opportunities（News Curator 整合）\n- 🎯 **CRWV（CoreWeave）**：新融資 playbook 紓緩債務憂慮，pre-market +11%。反證 AI 需求未冷卻。但注意股價年高 $138 → 而家 $49，跌咗 65%，技術面仍然破碎。今日睇佢係「價值重估」定「死貓彈」。\n- 🎯 **AI 巨型上市接力**：Anthropic IPO 估值升至 $1.5tn——AI 基建融資鏈未斷。\n- 📡 **NVDA**：pre-market 反彈 5%，但上交易日 -5.47% 收 $168.89，遠低於 200 日線 $204。**Nov 17 earnings 先係主菜**，反彈只係前菜。\n- 📡 **OIL**：伊朗地緣風險溢價，油價反彈——追能源係順勢。\n- 📡 **CRYPTO**：BTC 短期持有人投降拋售，短期弱勢。\n\n## 未來一個月業績重點\n- **Nov 17 — NVDA**：EPS est $2.47 / Rev est $108.8B。**本季最重要 earnings**。市場要喺度確認：AI 需求 guide 企唔企得穩。\n- **Dec 1 — MRVL**：EPS $1.1 / Rev $3.2B——AI 網絡/客製晶片次級檢驗\n- **Dec 9 — ADBE + AVGO**：AVGO（EPS $3.83 / Rev $34.9B）係另一隻 AI 巨型\n- **Dec 14 — ORCL**：EPS $1.88 / Rev $21.3B——AI 雲/數據中心需求\n\n## My Take\n整體 bias：**Neutral-to-defensive，科技偏空，能源/黃金/價值偏多**。\n\n市場而家喺答一條問題：**「AI 基建貸款頂峰」定「加息頂峰」邊個先嚟？** CoreWeave +11% 同 Anthropic $1.5tn 係拉嘅一邊（AI 需求未冷卻），10Y 5% 同 Goldman 轉向係推嘅一邊（加息抽緊估值）。\n\n我嘅睇法：AI 需求未冷卻（CoreWeave 係實際融資業績而唔係情緒），但加息會持續抽緊高 duration 估值。短期呢場仗係「reflation 贏、成長輸」。**Nov 17 NVDA earnings 係最重要變數**——若 demand guide 穩定，AI 基建可以彈返；若輪動退潮，成個科技估值要重定。\n\n今日最緊要睇實：Fri 嘅 PPI（若回落唔到 0.4%，加息恐慌升一級）+ NVDA pre-market 反彈能否延續 + 油價會唔會因伊朗再突破。",
+      "risks": [
+        "Fri PPI 若回落唔到 0.4%，加息恐慌再升一級",
+        "QQQ 跌穿 200 日線，科技技術面破碎",
+        "伊朗霍爾木茲封鎖若升級，油價急升抽緊市場"
+      ],
+      "my_take": "Neutral-to-defensive。加息預期（10Y 5%）壓制科技估值，能源/黃金/價值相對強。核心變數係 Nov 17 NVDA earnings——AI 需求 guide 企唔企得穩。今日睇 PPI 前哨 + NVDA 反彈延續性。"
     }
   ],
   "news_curator": [
