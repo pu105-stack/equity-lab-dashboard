@@ -4301,6 +4301,62 @@
         "伊朗霍爾木茲封鎖若升級，油價急升抽緊市場"
       ],
       "my_take": "Neutral-to-defensive。加息預期（10Y 5%）壓制科技估值，能源/黃金/價值相對強。核心變數係 Nov 17 NVDA earnings——AI 需求 guide 企唔企得穩。今日睇 PPI 前哨 + NVDA 反彈延續性。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-12",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "NVDA 接班風險主導，AI trade 靠 CoreWeave Q3 復甦；加息押注升溫壓制 rate-sensitive",
+      "headlines": [
+        "[RECENT] WATCH: NVDA — 董事會準備撤換 CEO Huang，接班風險升級",
+        "[RECENT] ACTION: CRWV/MU — CoreWeave Q3 爆升 24%，AI demand 未冷卻",
+        "[NEW] WATCH: MSTR — MSCI 剔出全球指數",
+        "[RECENT] WATCH: MACRO — 2Y 債息 19 個月最大跳升 + AI 通脹論"
+      ],
+      "opportunities": [
+        "CRWV/MU: CoreWeave Q3 爆升 24% 重燃 AI trade，Micron/Lumentum 受惠",
+        "AMD/AVGO: NVDA 治理危機下資金輪動延續"
+      ],
+      "analysis": "NVDA 危機係 idiosyncratic（治理），非 fundamental（AI 需求）。CoreWeave Q3 證實 AI demand 完好，機會喺 AI trade ex-NVDA。",
+      "risks": [
+        "NVDA 接班風險拖泥帶水 → 再跌一浸",
+        "MSTR 被動資金流出 + 加息環境 = 比特幣 treasury 雙重逆風",
+        "2Y 債息跳升 → rate-sensitive / 高估值資產續受壓"
+      ],
+      "my_take": "NVDA 壞消息已大量 priced in（-28%），乾淨撤換 = relief。機會喺 AI trade ex-NVDA 輪動。",
+      "key_takeaways": [
+        "AI 需求基本面完好，NVDA 危機係治理問題唔係需求問題",
+        "加息押注升溫，rate-sensitive 資產逆風",
+        "MSTR 剔出 MSCI 係比特幣 treasury 主題新逆風"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-12",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "Risk-on 反轉 — AI trade ex-NVDA 領漲，VIX 回落至 17.5",
+      "headlines": [
+        "NVDA 董事會擬撤換 CEO Huang（WSJ），股價反彈 +2.87%（relief 解讀）",
+        "CoreWeave Q3 爆升 +24%，AI 基建需求未冷卻（CRWV）",
+        "Micron +11.89%，HBM/記憶體 AI 需求爆發（MU）",
+        "2Y 債息 19 個月最大跳升，加息押注升溫",
+        "Bitcoin 受加息預期拖累，企 $74k 樓下",
+        "Diamondback 大股東減持 $1.86B（FANG）"
+      ],
+      "opportunities": [
+        "CRWV: CoreWeave Q3 爆升 24%，AI demand 確認，續睇 follow-through",
+        "AMD/AVGO/MU: AI trade ex-NVDA 輪動受益，但 MU +12% 慎追高",
+        "NVDA: 董事會乾淨撤換 = 移除 overhang 係 relief，Nov 17 earnings 係主菜"
+      ],
+      "analysis": "# 美股收市回顧 — 2026-11-12 08:30 HKT\n\n## 📰 今日重點頭條\n1. **NVDA 董事會擬撤換 CEO Jensen Huang（WSJ）** — 但股價反而收 +2.87%，市場解讀「換人 = 移除 overhang = relief」（NVDA）\n2. **CoreWeave Q3 爆升 +24.71%** — AI 基建需求未冷卻，重燃 AI trade（CRWV）\n3. **Micron +11.89%** — HBM/記憶體 AI 需求爆發，單日近 12% 係極強 signal（MU）\n4. **2Y 債息 19 個月最大跳升** — 加息押注升溫，Bowman AI 通脹論（MACRO）\n5. **Bitcoin 受加息預期拖累，企 $74k 樓下**（BTC-USD）\n6. **Diamondback 大股東（10% owner）減持 $1.86B**（FANG）\n7. **Jensen Huang 再被指與 Nvidia 高管有婚外情** — 醜聞持續發酵（NVDA）\n8. **Mississippi 補選民主黨 Scott Colom 爆冷勝出** — 參院版圖微調（宏觀）\n9. **United Airlines 封鎖 AI agents 登入平台**（UAL）\n10. **Polymarket 裁員收縮，預測市場競爭加劇**\n\n## 📊 Market Recap\n今日係**risk-on 反轉日**，一掃尋日防守氣氛：\n- **SPY +1.32%** → $759.81（5 日區間 732-766，接近上沿）\n- **QQQ +2.31%** → $690.38 — **收復 200 日線（$681）**，尋日「科技技術面破碎」嘅警報即日反轉\n- **DIA +0.52%** → $524.44（價值/道指升幅明顯落後，資金由防守轉回成長）\n- **VIX -10.12%** → 17.49，跌穿 18，risk appetite 全面回歸\n\nSector：**XLK 科技 +3.23% 領漲**、XLE 能源 +1.86%（油價 + 伊朗溢價）、XLI 工業 +1.33%。防守板塊（XLV 醫療 +0.04%、XLP 必需消費 +0.46%、XLU 公用 +0.21%）明顯滯後 — 資金由防守轉回風險資產。\n\n## 🔥 Notable Movers\n- **CRWV +24.71%** → $60.77（Q3 爆升，AI demand 確認，NC 嘅 ACTION 命中）\n- **MU +11.89%** → $811.30（AI 記憶體需求，5 日由 $650 彈到 $827，動能極強）\n- **AMD +7.32%** → $552.90（NVDA 治理危機下資金輪動受益）\n- **AVGO +3.99%** → $345.22（同上）\n- **NVDA +2.87%** → $173.73（「撤換 CEO」被解讀為 relief，但 -28% from 高位、蒸發 $430bn 嘅傷痕仍在）\n- **MSTR +1.06%** → $122.35（MSCI 剔出全球指數嘅被動流出 overhang 未解除）\n\n核心 signal：**AI trade ex-NVDA 全面開火**。CoreWeave +24% + Micron +12% 同時爆升，證明 AI 需求基本面完好 — NVDA 嘅問題係治理/人事（idiosyncratic），唔係需求（fundamental）。\n\n## 📰 News That Mattered\n**NC #2 嘅 calls 覆盤：**\n- ✅ **CRWV ACTION 命中** — CoreWeave Q3 +24%，方向、幅度都準\n- ✅ **NVDA WATCH 命中但方向需修正** — NC 話「壞消息已大量 priced in，乾淨撤換係 relief」，今日 +2.87% 完全印證 relief 邏輯，唔係再跌\n- ✅ **MACRO WATCH（2Y 債息跳升/加息押注）命中** — 但今日科技照升，macro 陰霾被 micro 催化劑蓋過\n- ✅ **MSTR WATCH（MSCI 剔出）命中** — MSTR 今日只微升 +1.06%，明顯跑輸大市，被動流出壓力仍在\n\n**尋日 Morning Scan 嘅 thesis 覆盤（錯咗）：**\n- Morning Scan 判斷「Neutral-to-defensive，加息預期壓制科技」，實際科技 +3.23% 領漲 — **防守 call 錯咗**\n- Morning Scan 風險「QQQ 跌穿 200 日線，科技技術面破碎」，今日 QQQ 即日收復 — **technical breakdown 反轉**\n\n**錯喺邊度？** Morning Scan 俾 macro（10Y 5%、加息押注）主導判斷，但低估咗 micro 催化劑（CoreWeave/Micron AI earnings）嘅殺傷力。教訓：**earnings 催化劑喺單日可以完全蓋過 rate narrative**。\n\n## 🎯 Opportunities Carry Forward\n1. **AI trade ex-NVDA（AMD/AVGO/MU/CRWV）** — 輪動受益確定，但 MU 單日 +12%、CRWV +24% 已經彈咗一大截，追高要謹慎，睇 follow-through 定獲利回吐\n2. **NVDA 本身** — 若董事會乾淨撤換（移除 overhang），$173 呢個位係 relief 起點；真正 catalyst 係 **Nov 17 earnings**（Morning Scan flagged），AI 需求 guide 企唔企得穩先係主菜\n3. **Anthropic IPO** — NC 話係「AI trade 下一棒催化劑」，值得 keep on radar\n\n## ⚠️ Risks / Watchlist\n今晚（Nov 12）要睇實：\n- **🟡 9:30pm HKT — Initial Jobless Claims**（就業數據前哨）\n- **🔴 11:00pm HKT — Existing Home Sales（Oct）** — HIGH，房市對息口極敏感\n- **🟡 2:00am HKT — 30-Year Bond Auction** — 喺「加息押注升溫」環境下，若 bid-to-cover 弱 = 債息再飆 = rate-sensitive 資產再受壓\n- **明日 🔴 PPI MoM（Nov 13）** — **本週最關鍵**。Morning Scan 已 flag：若 PPI 回落唔到 0.4%，加息恐慌再升一級。呢個係 macro vs micro 對撼嘅判官\n\nOvernight risk：\n- **NVDA 治理下一步** — 醜聞（再爆婚外情指控）持續發酵，若董事會拖泥帶水 = 再跌一浸\n- **BTC 企 $74k 樓下** — 加息預期壓制加密資產，留意會否失守\n- **MSTR 被動流出** — MSCI 剔出生效前嘅資金流出壓力\n\n## 💡 My Take\n今日係 risk-on 反轉 — AI earnings 催化劑（CoreWeave +24%、Micron +12%）完全蓋過加息 macro 陰霾，資金由防守輪入 AI ex-NVDA，而 NVDA 本身喺「撤換 CEO」消息下反而反彈。尋日「防守」call 錯咗，但關鍵唔係道歉 — 而係認清 macro（加息）同 micro（AI 需求）兩條 narrative 而家正面對撼。明日 PPI 係判官：PPI 高企 → 加息恐慌壓制高 duration 成長；PPI 回落 → AI trade 再上。我 lean neutral-to-bullish，但明日 PPI 出嚟前唔好 full risk。\n",
+      "risks": [
+        "Fri PPI（Nov 13）若回落唔到 0.4%，加息恐慌再升一級",
+        "今晚 30Y 債券拍賣（2am HKT）若需求弱 = 債息再飆",
+        "NVDA 治理危機若拖泥帶水 = 再跌一浸"
+      ],
+      "my_take": "Risk-on 反轉日 — AI earnings 催化劑（CoreWeave +24%、Micron +12%）蓋過加息 macro 陰霾，資金輪入 AI ex-NVDA，NVDA 喺「撤換 CEO」下反而 relief 反彈。尋日防守 call 錯咗，macro/micro 兩條 narrative 正面對撼，明日 PPI 係判官。"
     }
   ],
   "news_curator": [
