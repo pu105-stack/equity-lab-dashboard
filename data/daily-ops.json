@@ -4303,35 +4303,6 @@
       "my_take": "Neutral-to-defensive。加息預期（10Y 5%）壓制科技估值，能源/黃金/價值相對強。核心變數係 Nov 17 NVDA earnings——AI 需求 guide 企唔企得穩。今日睇 PPI 前哨 + NVDA 反彈延續性。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-12",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "NVDA 接班風險主導，AI trade 靠 CoreWeave Q3 復甦；加息押注升溫壓制 rate-sensitive",
-      "headlines": [
-        "[RECENT] WATCH: NVDA — 董事會準備撤換 CEO Huang，接班風險升級",
-        "[RECENT] ACTION: CRWV/MU — CoreWeave Q3 爆升 24%，AI demand 未冷卻",
-        "[NEW] WATCH: MSTR — MSCI 剔出全球指數",
-        "[RECENT] WATCH: MACRO — 2Y 債息 19 個月最大跳升 + AI 通脹論"
-      ],
-      "opportunities": [
-        "CRWV/MU: CoreWeave Q3 爆升 24% 重燃 AI trade，Micron/Lumentum 受惠",
-        "AMD/AVGO: NVDA 治理危機下資金輪動延續"
-      ],
-      "analysis": "NVDA 危機係 idiosyncratic（治理），非 fundamental（AI 需求）。CoreWeave Q3 證實 AI demand 完好，機會喺 AI trade ex-NVDA。",
-      "risks": [
-        "NVDA 接班風險拖泥帶水 → 再跌一浸",
-        "MSTR 被動資金流出 + 加息環境 = 比特幣 treasury 雙重逆風",
-        "2Y 債息跳升 → rate-sensitive / 高估值資產續受壓"
-      ],
-      "my_take": "NVDA 壞消息已大量 priced in（-28%），乾淨撤換 = relief。機會喺 AI trade ex-NVDA 輪動。",
-      "key_takeaways": [
-        "AI 需求基本面完好，NVDA 危機係治理問題唔係需求問題",
-        "加息押注升溫，rate-sensitive 資產逆風",
-        "MSTR 剔出 MSCI 係比特幣 treasury 主題新逆風"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-12",
       "time": "08:32 HKT",
@@ -4357,6 +4328,59 @@
         "NVDA 治理危機若拖泥帶水 = 再跌一浸"
       ],
       "my_take": "Risk-on 反轉日 — AI earnings 催化劑（CoreWeave +24%、Micron +12%）蓋過加息 macro 陰霾，資金輪入 AI ex-NVDA，NVDA 喺「撤換 CEO」下反而 relief 反彈。尋日防守 call 錯咗，macro/micro 兩條 narrative 正面對撼，明日 PPI 係判官。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-12",
+      "time": "20:07 HKT",
+      "status": "success",
+      "market_direction": "NVDA 治理危機主導 AI trade 情緒，但 SPY +1.3% 顯示風險仍屬個股層面",
+      "headlines": [
+        "[NEW] ACTION: NVDA — 董事會定奪 Jensen 去留，第二段婚外情曝光，盤前 -7%",
+        "[NEW] WATCH: MACRO — 中期選舉藍潮，民主黨奪密西西比參院席位",
+        "[NEW] WATCH: MU — Cotton 籲禁中國 CXMT",
+        "[NEW] NOTE: DEFENSE — 烏克蘭 Starshield 再度中斷",
+        "[NEW] NOTE: OIL — 俄羅斯柴油出口翻倍",
+        "[RECENT] WATCH: MACRO — ECB+Fed 全球緊縮共振"
+      ],
+      "opportunities": [
+        "NVDA: 董事會今日決策 binary event，治理折讓 vs 利空出盡反彈",
+        "MU: 禁 CXMT 國產替代邏輯，Micron 直接受惠"
+      ],
+      "analysis": "市場恐慌係 NVDA 冇咗靈魂人物，唔係 AI 需求消失。CoreWeave Q3 beat +24% 證明 demand 仍在，資金由 NVDA 輪動去其他 AI 標的。",
+      "risks": [
+        "NVDA 接班真空 = 結構性折讓，唔會一日 pricing",
+        "中期選舉藍潮 → Tech 監管升溫"
+      ],
+      "my_take": "最危險唔係 Jensen 去留，而係 NVDA 長期冇接班人選。今日 board meeting 係 binary event：留任+接班計劃 → 暴力反彈；撤換冇接班 → 折讓加深。兩者都係 event-driven 交易機會。",
+      "key_takeaways": [
+        "NVDA 治理危機達決策點",
+        "CoreWeave 反證 AI demand 未冷卻",
+        "中期選舉藍潮確立"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-12",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral — 個股事件導向",
+      "headlines": [
+        "NVDA 董事會今日定奪 Jensen Huang 去留",
+        "CoreWeave Q3 beat +24.7% 證 AI demand 未熄",
+        "中期選舉藍潮確立"
+      ],
+      "focus": [
+        "NVDA（board binary event）",
+        "MU（禁 CXMT 邏輯）",
+        "非 NVDA AI infra 輪動"
+      ],
+      "analysis": "# Morning Scan — 2026-11-12\n\n## Fed Context\n上次 FOMC Oct 27-28（press conference 已存庫）。本週冇新 FOMC statement，FOMC minutes（Sep 15-16）已於 Nov 9 出。下次 FOMC 料 12 月中（未入 macro calendar 14 天範圍）。\nKevin Warsh stance 冇新 signal。ECB 方面，Reuters poll 指 12 月最後一次加息、但通脹風險留門多一次 — 全球緊縮共振仍係 backdrop。\n更關鍵嘅 macro overhang 係中期選舉藍潮（民主黨奪密西西比參院席位）：政策轉向利 Tech 監管、不利 Big Tech 減稅 — 呢個係結構性壓制，唔係單日事件。\n\n## 今日重點頭條\n1. NVDA：董事會今日開會定奪 Jensen Huang 去留，第二段婚外情曝光 (Guardian) — 治理危機達決策點\n2. NVDA：Nvidia stock falls 7% as investors await Huang's fate (CNBC) — 盤前 -7%\n3. NVDA：Nvidia Punches a Hole in Bull Case for AI Stocks (Bloomberg)\n4. BTC/NVDA：Bitcoin dips with Nvidia as ETF outflows reach day five (CoinDesk)\n5. MACRO：ECB set for last rate hike in December (Reuters poll via Investing)\n6. BIIB：Biogen's big lupus study readout (STAT)\n7. ALNY：Alnylam needs to solve its heart drug problem (STAT)\n8. OIL：India Boosts Gulf Oil Imports as Russian Crude loses price advantage (OilPrice)\n9. MACRO：中期選舉藍潮確立（News Curator）\n\n## 隔夜市場\n- SPY +1.32% → 759.81（但仍低於 21MA 760.65 / 50MA 764.96）\n- QQQ +2.31% → 690.38（低於 50MA 719.04，逼近 200MA 681.71；距 year high 762.86 仍 -9.5%）\n- DIA +0.52% → 524.44；IWM +0.89% → 283.09\n- SOXX +6.01% → 155.40（半導體領漲，但仍遠低於 50MA 172.5）\n- 核心矛盾：昨日係 CoreWeave Q3 beat (+24.7%) 觸發嘅 AI 反彈，但 SPY/QQQ 均仍在 50MA 之下 → 呢個係 downtrend 內嘅 relief rally，唔係 trend reversal。\n\n## 昨日爆升／暴跌榜\n- Gainers 主要係 micro-cap noise（NextNRG +811%、WHLR +133%、SCKT +85%）— 無 sector theme，屬散戶/新股炒作。\n- Losers 亦係 penny 新股（ENGS -86%、CHSN -71%、BMGL -65%）— 同大市無關。\n- 真正 signal 喺 actives：SOXL +17.78%（半導體 3x 槓桿）、NVDA +2.87%、SHFS +54%。\n- 結論：昨日 theme 係「半導體 / AI infra 反彈」，今日 NVDA 治理危機可能中斷。\n\n## 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n- 9:30pm HKT Initial Jobless Claims (prev 189k, fcast 195k) — MED\n- 11:00pm HKT Existing Home Sales (prev 3.99M, fcast 3.85M) — HIGH（今日唯一 HIGH）\n- 1:00am HKT EIA Crude Oil Stocks (fcast -1.483M)\n- 未來 7 日 HIGH：Fri Nov 13 PPI MoM (prev 1.3, fcast 0.4)、Tue Nov 17 Retail Sales (prev 0.8, fcast 0)、Wed Nov 18 Housing Starts / Building Permits\n- 警示：PPI prev 1.3% MoM 係好大嘅數、fcast 0.4% — 若再爆，重燃通脹擔憂，壓 AI growth。\n\n## Sector Watch\n- 半導體：風暴中心。SOXX 昨日 +6% 反彈，但今日 NVDA 危機 + 週五 PPI 通脹風險 = 高波動。\n- AI infra（非 NVDA）：CoreWeave +24.7% 證明 demand 未熄，資金「換帥」去其他 AI 標的。\n- 記憶體：Cotton 籲禁中國 CXMT → MU 直接受惠（國產替代邏輯）。\n- 能源：俄羅斯柴油出口翻倍 + 印度轉買 Gulf 油 → 供給過剩，油價偏弱。\n- 防禦／太空：烏克蘭 Starshield 中斷 → 衛星通訊地緣風險（利好國防/衛星）。\n\n## Pre-market Opportunities\n- NVDA：今日 board meeting 係 binary event。留任 + 接班計劃 = short squeeze；撤換無接班 = 折讓加深。係 event-driven 交易窗口，唔係長線價值判斷。博反彈要等 board 結果出咗先。\n- MU：Cotton 禁 CXMT 邏輯，Micron 直接受惠，相對獨立於 NVDA 治理風波，係「非 NVDA」半導體標的。\n- 非 NVDA AI infra（CoreWeave 等）：若 NVDA 折讓加深，資金輪動去其他 AI infra。\n- SOXL/SOXX：高 beta 博反彈工具，但只適合 board 結果明確後入場。\n\n## 未來一個月業績重點\n⚠️ earnings_calendar.json 為空（total_events=0）— earnings_briefing.py 今日 12:00 UTC run 疑似 fetch 失敗，無法 report 未來業績日期，需手動 check 或等下次 run 修正。\n\n## Agenda\n- 今日 catalyst：NVDA board meeting（出結果時間未知）+ 11:00pm HKT Existing Home Sales。\n- 下一個 macro 大事件：週五 PPI。\n- Key levels：SPY support 754.91（昨日低）/ 750；resistance 762.51（昨日高）/ 764.96（50MA）。QQQ support 681.71（200MA），resistance 695.57。\n\n## My Take\nOverall bias：Neutral，偏個股事件導向。大盤企穩但仍在 50MA 之下，方向等 NVDA board 結果 + 週五 PPI。\n最緊要睇實：NVDA board 決議（今日）+ PPI（週五）。\nOvernight signal 冇改變之前 thesis，反而確認「AI trade 換帥不熄火」— 昨日 CoreWeave +24.7% 已係證據，今日 NVDA 治理危機係 noise，唔係 AI demand 嘅 signal。\n風險：若 NVDA 撤換 Huang 且無接班，AI 複雜可能單日 -5% 至 -10%，拖累 SPY 測試 750；若留任，可能暴力反彈。\n",
+      "risks": [
+        "NVDA 撤換 Huang 且無接班 → AI 複雜 -5%~-10%",
+        "週五 PPI 再爆 → 重燃通脹擔憂"
+      ],
+      "my_take": "AI trade 換帥不熄火：CoreWeave +24.7% 證 demand 仍在，NVDA 治理危機係 event-driven noise 而非 AI 熄火 signal。今日係 NVDA board 決議嘅 binary 日，大盤方向等結果 + 週五 PPI。"
     }
   ],
   "news_curator": [
