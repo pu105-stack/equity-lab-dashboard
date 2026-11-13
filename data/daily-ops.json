@@ -4381,6 +4381,64 @@
         "週五 PPI 再爆 → 重燃通脹擔憂"
       ],
       "my_take": "AI trade 換帥不熄火：CoreWeave +24.7% 證 demand 仍在，NVDA 治理危機係 event-driven noise 而非 AI 熄火 signal。今日係 NVDA board 決議嘅 binary 日，大盤方向等結果 + 週五 PPI。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-13",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "NVDA 辭職震盪未平，債息急升壓制風險資產；資金輪動至 AMD/AVGO、Cisco、Cerebras 等 AI 基建二線",
+      "headlines": [
+        "[RECENT] ACTION: AMD/AVGO — NVDA 領導真空加速資金輪動，AMD 獲升級",
+        "[RECENT] WATCH: NVDA — Huang 正式辭職，接班風險＋中國晶片管制成焦點",
+        "[RECENT] ACTION: CSCO — 業績 beat，AI 基建收入本財年翻倍",
+        "[RECENT] ACTION: CBRS — Cerebras +17% 微軟大單，AI 算力需求信號",
+        "[RECENT] WATCH: MACRO — 債息 2022 年最大升幅，Fed 加息預期壓制"
+      ],
+      "opportunities": [
+        "AMD/AVGO: NVDA 接班真空下的最直接受惠者，AMD 獲券商升級",
+        "CSCO: 業績 beat + AI 基建收入指引翻倍，二線 AI 網絡股重估",
+        "CBRS: Cerebras +17%，微軟大單印證 AI 算力需求未冷卻",
+        "SOL: DTCC 2027 代幣化擴展至 Solana，機構敘事升級"
+      ],
+      "analysis": "US session 主線仍是 NVDA Jensen Huang 辭職餘波。市場反應有兩層：一是 NVDA 單一股票 -4%、一週蒸發 ~$500B；二是 S&P 500 大致免疫（SPY 企穩），資金輪動到 AMD/AVGO/Cisco/Cerebras 等 AI 二線受惠者。同時債息創 2022 年最大單日升幅、Fed 加息預期升溫，成為壓制風險資產的第二條主線——rate-sensitive 的 crypto、黃金、太陽能同步受壓。",
+      "risks": [
+        "Fed 加息預期升溫：債息急升壓制成長股估值",
+        "BTC 12 週新低 + MSCI 剔 MSTR，被動資金流出",
+        "NVDA 接班不確定 + 中國晶片管制升級風險"
+      ],
+      "my_take": "NVDA 辭職本身已是「預期內」事件（董事會早幾日已放風），真正的 uncertainty 轉移到：① 誰接班（Tim Cook 純屬 Trump 放風，不可當真）；② 下週二 NVDA 業績（上市以來首次無 Huang）能否守得住 $108B 指引；③ 中國會不會趁亂升級晶片管制。資金已開始為「後 Huang 時代」定價——AMD/AVGO 輪動、AI 二線（CSCO/CBRS）重估。我傾向相信 AI demand 未冷卻（Cerebras 微軟大單、Cisco 指引是實證），NVDA 的護城河唔會因一人辭職而蒸發，但短期波動未完，等業績確認先加倉。",
+      "key_takeaways": [
+        "NVDA 辭職屬預期內，焦點轉向接班 + 下週二業績",
+        "資金輪動實證：AMD/AVGO 升級、CSCO/CBRS 業績 beat",
+        "債息急升係第二主線，壓制 crypto/黃金/太陽能"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-13",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "債息破5%壓制 + NVDA換帥兌現，資金輪動AI二線",
+      "headlines": [
+        "NVDA: Huang 正式辭職，收 -4.34%（盤中一度 -7%）",
+        "10Y 債息升穿 5.10%，2022 以來最大單日升幅",
+        "Trump「控制 Strait」言論 → 油價 +3.25%",
+        "AMD +5.86% / AVGO +5.54% 資金輪動至 AI 二線",
+        "BTC 12 週新低、MSTR -6.49%（MSCI 剔出）"
+      ],
+      "opportunities": [
+        "AMD/AVGO: NVDA 換帥資金輪動受益，但連升兩日勿追高",
+        "NVDA: 下週二業績（首次無 Huang）$108B 指引係分水嶺",
+        "CSCO: AI 基建收入翻倍，低 beta 非 NVDA 選擇"
+      ],
+      "analysis": "# Evening Review — 2026-11-13（美股收市回顧）\n\n## 📰 今日重點頭條\n1. 【NVDA】Jensen Huang 正式辭職獲董事會確認，盤中一度 -7% 後收窄至 -4.34%（CNBC／NYT \"What Led to His Downfall\"／FT）\n2. 【NVDA】FT 反方聲音：\"AI boom will lift Nvidia even after Huang's exit\" — 機構普遍認為 demand 未受影響\n3. 【MACRO】10 年期美債息升穿 5.10%，單日 +2.1%，為 2022 年以來最大單日升幅 — 今日真正嘅主軸\n4. 【OIL】Trump 稱「唔使 Iran deal，我哋控制咗佢哋嘅 Strait」→ 油價 +3.25%（USO）\n5. 【GOLD】金價跌穿 $3,900，GLD -2.82%，實際利率抽升壓制\n6. 【CRYPTO】BTC 觸 12 週新低 $71K，MSTR -6.49%（MSCI 剔出）\n7. 【MSFT】Outlook/365 大規模中斷仍持續（The Verge），股價 +0.36% 幾乎無反應\n8. 【AI 二線】AMD +5.86%、AVGO +5.54% — 資金由 NVDA 輪動至 AI 基建二線\n\nNC 命中率覆盤：AMD/AVGO ✅、CSCO ✅、NVDA ✅、債息 ✅、BTC/MSTR ✅、SOL ❌（crypto 整體 downtrend 無視 DTCC 敘事）、油「回軟」判斷 ⚠️（Trump 言論反而推升油價）\n\n## 1. 📊 Market Recap\n- SPY -0.35% → 757.12（仍低於 50MA 764.96，downtrend 未逆轉）\n- QQQ -0.32% → 688.17；DIA -0.38% → 522.47\n- IWM -1.64% → 278.44（小型股最傷 — 利率敏感）\n- VIX +6.92% → 18.7（升至近三週高位，但仍 <20）\n- 10Y 債息 5.10%（+2.1%）\n- Sector：XLE +1.51% 唯一錄得升幅（地緣溢價）；XLB -1.28%、XLC -0.96%、XLI -0.89% 最弱；XLU -0.02% 防守性持平\n\n## 2. 🔥 Notable Movers\n- AMD +5.86%、AVGO +5.54% — 後 NVDA 時代資金輪動主角\n- NVDA -4.34% — 換帥兌現但未崩（盤前曾 -7%）\n- MSTR -6.49% — MSCI 剔出 + BTC 弱勢雙重打擊\n- USO +3.25% — Trump Iran Strait 言論\n- GLD -2.82% — 實際利率抽升\n- CBRS -3.29% — 前日 +7.9%（微軟大單）後獲利回吐\n- CSCO +1.24% — 業績 beat，AI 基建收入本財年翻倍\n\n## 3. 📰 News That Mattered\n今日核心唔係 NVDA，係債息。10Y 升穿 5.10% 係 2022 年以來最大單日升幅，呢個先係壓制風險資產嘅主軸 — NVDA 換帥只係疊加喺上面嘅事件。Morning Scan 嘅 core thesis「換帥不熄火」今日得到驗證：NVDA 只跌 4.34%（非恐嚇性 5-10%），而 AMD/AVGO 輪動 + CSCO AI 基建指引證明 AI demand 根本未冷卻。\n\nNC calls 逐項覆盤：\n- ✅ AMD/AVGO 輪動 — 精準命中（+5.5~5.9%）\n- ✅ CSCO 業績 — 命中，但 +1.24% 溫和\n- ⚠️ CBRS — 方向啱（AI 算力 demand），但今日 -3.3% 回吐，追高者接刀\n- ❌ SOL 代幣化 — 錯咗，crypto 整體 downtrend，SOL -2.25% 無視 DTCC 敘事\n- ✅ NVDA WATCH／債息／BTC MSTR — 全中\n\n## 4. 🎯 Opportunities Carry Forward\n1. **AMD / AVGO 輪動** — 若 NVDA 業績前持續弱勢，資金會繼續流入 AI 二線。AMD +5.86% 係 momentum 確認，但已連升兩日，追高要謹慎。\n2. **NVDA 下週二業績（上市以來首次無 Huang）** — 全場焦點。$108B 指引係分水嶺：守得住 → 換帥恐慌證偽，NVDA 反彈帶動 AI 全線；守唔住 → AI capex 見頂擔憂重燃，AMD/AVGO 輪動邏輯都會逆轉。\n3. **CSCO AI 基建敘事** — 業績 beat + AI 基建收入翻倍，係「非 NVDA」AI exposure 嘅穩陣選擇，相對低 beta。\n4. **能源（XLE）地緣溢價** — Trump Strait 言論推升油價，但係 event-driven，言論一旦降溫會急回，只宜短線。\n\n## 5. ⚠️ Risks / Watchlist\n- **今晚 9:30pm HKT PPI MoM（HIGH）** — prev 1.3% MoM（極大）、fcast 0.4%。若再爆，10Y 債息可能突破 5.10% 抽升，直接壓制科技/growth。呢個係今晚最大 overnight risk。\n- **10Y 債息 5.10%** — 已到心理關口，持續向上 = 金融條件收緊，利率敏感（IWM/成長股）續壓。\n- **NVDA 業績下週二** — 換帥後首次業績，governance uncertainty 未散，volatility 未盡。\n- **Crypto 下行** — BTC 12 週新低 + MSCI 剔 MSTR，risk sentiment 指標走弱，留意蔓延。\n- **地緣** — Trump Iran Strait 言論若升級，油價續升 → 通脹 → 債息 → 全線風險資產承壓。\n\n## 6. 💡 My Take\n今日係「換帥兌現 + 債息破 5%」嘅雙重測試，結果係 NVDA 跌但未崩、AI 二線接力升 — 證明 AI trade 嘅底層 demand 冇熄火，Morning Scan 嘅「換帥不熄火」判斷成立。但債息 5.10% 先係真正嘅結構性壓制，今晚 PPI 決定債息走向，繼而決定明日科技股方向。Bias：中性偏謹慎 — 等 PPI 出爐先有方向，唔好喺 PPI 前追高 AMD/AVGO。",
+      "risks": [
+        "今晚 9:30pm PPI MoM（HIGH, prev 1.3% fcast 0.4%）— 再爆壓科技",
+        "10Y 債息 5.10% 心理關口，續升收緊金融條件",
+        "Crypto 下行蔓延（BTC 12 週新低）"
+      ],
+      "my_take": "NVDA 換帥兌現但未崩（-4.34%），AMD/AVGO 輪動 + CSCO 指引證明 AI demand 冇熄火 — Morning Scan「換帥不熄火」判斷成立。真正壓制係 10Y 債息升穿 5.10%（2022 以來最大升幅），今晚 PPI 決定債息走向、繼而決定明日科技股方向。Bias 中性偏謹慎，PPI 前勿追高。"
     }
   ],
   "news_curator": [
