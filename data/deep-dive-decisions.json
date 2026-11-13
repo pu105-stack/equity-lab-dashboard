@@ -1,4 +1,61 @@
 {
-  "decisions": [],
-  "last_synced": "2026-09-26T12:07:56.900001+08:00"
+  "decisions": [
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "實質利率回升直接壓制，金價跌穿 $3,900 / 52 週低位，趨勢向下，無 compelling upside。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "Downside：Huang 辭職形成治理真空 + 國會/中國晶片監管升級；Upside：市場「望穿」醜聞創數月最佳週、壞消息已大量 priced in。11/17 業績（上市以來首次無 Huang）$108B 指引守唔守得住係分水嶺，係二元事件，唔係長線價值判斷。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "AMD/AVGO",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "NVDA 領導真空下資金輪動最大受益者（AMD +13%、AVGO +9%），但已連升兩日、追高要謹慎，且輪動邏輯綁住 NVDA 業績 — 若指引 miss，輪動會逆轉。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "ABNB",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "週一清晰 earnings catalyst 命中（+11.7%），Q3 營收 +19% 並由 Chesky 宣告「增長模式」，重啟增長故事，follow-through 空間仍在。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "MU",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "HBM AI 記憶體需求爆發 + Cotton 籲禁中國 CXMT（國產替代 tailwind），係結構性 bull thesis；但單日 +12%、5 日由 $650 彈到 $827，追高有回吐風險。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "CSCO",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "業績 beat 且 AI 基建收入本財年翻倍，證實 AI 需求未冷卻；相對低 beta 嘅「非 NVDA」AI 曝光，無未解決重大風險，係穩陣嘅 AI exposure 選擇。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "XOM/CVX",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "Hormuz 再升級，US attack 後 Iran 威脅 unlimited response，油價逆市 +3.25%，能源風險溢價重新入場，係唯一 bright spot；但係地緣溢價而非基本面，伊朗降溫即快速回吐，只宜短線。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "BTC-USD",
+      "status": "deep_dive",
+      "updated_at": "2026-11-13",
+      "reasoning": "BTC 12 週新低 + MSTR 被 MSCI 剔出，crypto 全線下行，risk sentiment 指標走弱，留意蔓延至其他 risk assets。",
+      "source": "⚠️ 風險"
+    }
+  ],
+  "last_synced": "2026-11-14T06:01:39.918837+08:00"
 }

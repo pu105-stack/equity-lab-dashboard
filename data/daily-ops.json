@@ -4459,6 +4459,33 @@
         "NVDA 治理危機未解，11/17 業績係高波動二元事件"
       ],
       "my_take": "市場主線由「和平樂觀」轉向「再通脹 + 地緣風險」。Fed 12月加息預期 + 債息急升係壓制一切的力量（金價破位、成長股乏力）；唯一 fresh catalyst 係伊朗 Hormuz 再升級（能源風險溢價重新入場）。今日 PPI 係關鍵催化劑，NVDA 11/17 業績係下星期最大二元事件。整體 bias：Neutral-to-Cautious，防守 + 揀能源強勢。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-11-14",
+      "time": "06:01 HKT",
+      "status": "success",
+      "market_direction": "Fed 加息 repricing（10Y 5.10%）壓制 duration 資產，NVDA 治理危機主導 AI 交易情緒，但 CoreWeave/Micron/CSCO 反證 AI demand 未冷卻",
+      "opportunities": [
+        "🎯 CSCO: AI 基建收入本財年翻倍，低 beta「非 NVDA」AI 曝光",
+        "🎯 ABNB: Q3 營收 +19%，增長模式重啟",
+        "📡 NVDA: 治理真空 vs 壞消息 priced in，11/17 業績係分水嶺",
+        "📡 AMD/AVGO: 輪動受益但已連升兩日，綁住 NVDA 業績",
+        "📡 MU: AI 記憶體 + 國產替代，但單日 +12% 追高風險",
+        "📡 XOM/CVX: Hormuz 地緣溢價，event-driven 只宜短線"
+      ],
+      "risks": [
+        "⚠️ GLD: 實質利率回升，跌穿 52 週低位",
+        "⚠️ BTC-USD: 12 週新低 + MSTR 被 MSCI 剔出"
+      ],
+      "analysis": "本週主線係 Fed 加息 repricing：hot CPI（+0.4% MoM）+ PPI 前哨令 10Y 債息衝上 5.10%（2022 年以來最大單日升幅），實質利率回升直接壓制黃金（跌穿 $3,900/52 週低位）同 crypto（BTC 12 週新低、MSTR 被 MSCI 剔出）等 duration 資產。另一條主線係 NVDA 治理危機：Huang 辭職 + 國會/中國晶片監管升級，但市場「望穿」醜聞創數月最佳週，壞消息已大量 priced in — 證明呢個係 idiosyncratic（治理/人事）而非 fundamental（AI 需求）問題。最強嘅結構性信號係「AI trade ex-NVDA」輪動：CoreWeave +24%、Micron +12%、CSCO AI 基建收入翻倍，全部反證 AI demand 未冷卻，資金只係由 NVDA 換帥去其他 AI 標的。能源係唯一 bright spot：Hormuz 再升級令油價 +3.25%，但係地緣溢價非基本面。",
+      "my_take": "本週嘅真正 driver 係 Fed 加息 repricing，唔係 NVDA 醜聞 — 10Y 5.10% 抽緊估值倍數，duration 資產（GLD/BTC/成長股）係震央。機會喺「AI trade ex-NVDA」：CSCO 係最穩陣嘅低 beta AI 曝光，AMD/AVGO/MU 係輪動受益但追高要控風險。NVDA 本身係 11/17 業績嘅二元事件，$108B 指引係分水嶺。能源（XOM/CVX）係地緣溢價短線交易，唔係基本面。Overall 我 lean：防守 duration、精選 AI 基建二線，等 NVDA 業績確認 AI demand 先決定加唔加倉。",
+      "focus": [
+        "AI 基建二線: CSCO/AMD/AVGO/MU",
+        "NVDA 業績(11/17): NVDA",
+        "地緣溢價: XOM/CVX",
+        "Duration 風險: GLD/BTC"
+      ]
     }
   ],
   "news_curator": [
