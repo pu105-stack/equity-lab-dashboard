@@ -4488,40 +4488,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-16",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "NVDA 領導真空 + 明日財報 + Anthropic IPO + 加密貨幣 crash + 伊朗局勢升溫",
-      "headlines": [
-        "[NEW] WATCH: NVDA — Jensen Huang 密謀回歸，明日財報",
-        "[NEW] WATCH: Anthropic IPO 本週登場",
-        "[RECENT] WATCH: BTC-USD — 加密貨幣 crash 反彈",
-        "[RECENT] WATCH: INTC — 29% 暴跌後遭訴訟",
-        "[NEW] WATCH: 伊朗連續第二日攻擊巴林美軍基地",
-        "[NEW] WATCH: FANG — Diamondback $5B 收購",
-        "[RECENT] WATCH: DIS — 新 CEO 裁員計劃",
-        "[NEW] WATCH: 特朗普-習近平會面"
-      ],
-      "opportunities": [
-        "NVDA: 辭職(~2日) + 回歸傳聞(<6h) + 明日財報，股價 $162 由年高 $243 跌 33%",
-        "BTC-USD: 4個月低位 $62K 反彈，ETF 流出 $1.07B，資金流向 AI",
-        "FANG: Permian 併購潮，伊朗戰爭支撐油價"
-      ],
-      "analysis": "本週係 AI 板塊關鍵週：NVDA 財報 + Anthropic IPO 同時到。Jensen Huang 辭職造成 leadership vacuum 係最大 overhang。加密貨幣資金流向 AI。伊朗戰爭支撐油價但救唔到金價。",
-      "risks": [
-        "NVDA CEO 未定 + China spy 溢出中美關係",
-        "加密貨幣結構性資金流出",
-        "伊朗局勢進一步升級"
-      ],
-      "my_take": "AI 板塊進入高波動週。NVDA 財報 + Anthropic IPO 決定短期 AI sentiment。加密貨幣同 AI 之間嘅資金 rotation 係本週最值得追蹤嘅結構性訊號。伊朗戰爭已反映於油價，但地緣 tail risk 仍在。",
-      "key_takeaways": [
-        "NVDA 明日財報 + Jensen Huang comeback 傳聞 = 高波動事件",
-        "Anthropic IPO 觸發 crypto ETF 資金流出 — AI vs crypto 資金 rotation",
-        "伊朗連續攻擊巴林美軍基地，油價受支撐但金價照跌"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-16",
       "time": "08:33 HKT",
@@ -4551,6 +4517,69 @@
         "Nov 17 Retail Sales (Oct) HIGH — 消費韌性驗證"
       ],
       "my_take": "科技 leadership vacuum 係最大 overhang，但週五嘅防禦輪動（XLP/XLE/XLV 跑贏、QQQ -1.2% vs Dow +0.13%）顯示資金係轉倉而非離場。本週係 AI 板塊關鍵週：NVDA 財報 + Anthropic IPO + DIS 財報齊到，加密資金正流向 AI。我傾向等 NVDA print 出嚟先定方向，唔 front-run binary 事件；唯一主動嘅係能源（伊朗 + 防禦對沖）。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-16",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "AI trade 動盪持續（NVDA 領導權真空+明日財報），美元創2026高位壓低金價/幣價；伊朗續攻但未見避險買盤，Fed 鷹派重定價主導風險偏好。",
+      "headlines": [
+        "[RECENT] NVDA: Huang 回歸談判推進，明日財報成 AI trade 終極考驗",
+        "[NEW] 美國擬收緊對華晶片限制，Xi 會面前 semi 風險升溫",
+        "[NEW] 台灣國防預算加碼17%升級 F-16V，國防主題延續",
+        "[NEW] Goldman 警告油市 2027 大幅供應過剩",
+        "[RECENT] 伊朗續攻巴林+Hormuz 油輪觸雷，但稱開放與美談判",
+        "[RECENT] 黃金跌至一年新低，美元創2026高位",
+        "[RECENT] Bitcoin 18週低位 $62K，爆倉逾$18億",
+        "[RECENT] Fed 鷹派重定價，Collins 稱漸進加息",
+        "[RECENT] 特朗普赴亞洲二會習近平",
+        "[RECENT] Anthropic IPO 本週登場"
+      ],
+      "opportunities": [
+        "NVDA: 明日財報+CEO 真空，係 AI trade 方向嘅決定性事件",
+        "LMT: 台灣 F-16V 升級 17% 預算加碼，國防支出主題延續",
+        "GLD: 一年新低+鷹派重定價，係結構性關注位而非追空點"
+      ],
+      "analysis": "本 run 主軸係 AI trade 動盪遇上宏觀鷹派重定價。NVDA 領導權真空（Huang 回歸談判 vs Tim Cook 接任傳聞）疊加明日財報，係成個 AI 複合體嘅方向分水嶺。同時美元創 2026 高位，打壓 gold/bitcoin 等 non-yielder，Fed 加息預期（Collins/BOE）令風險資產承壓。地緣方面伊朗續攻但開放談判、避險買盤未現，反映市場已習慣衝突溢價。",
+      "risks": [
+        "NVDA 財報若不達預期，AI trade 可能出現第二輪 de-rating",
+        "中國晶片限制升級，semi 板塊（AMD/TSM/NVDA 中國收入）承壓",
+        "Fed 鷹派超預期，美元續強會進一步壓低 gold/bitcoin"
+      ],
+      "my_take": "市場正處於 AI 敘事 + 鷹派宏觀嘅雙重壓力下。明日 NVDA 財報係 single point of failure — 若 Huang 回歸 + 強勁 guidance 同時落地，AI trade 可能 V 型反彈；若 guidance 弱，成個複合體再 de-rate。黃金/比特幣嘅崩跌唔係避險失敗，而係美元+實質利率嘅直接受害者，呢個係結構性而非 panic。",
+      "key_takeaways": [
+        "NVDA 明日財報 = AI trade 分水嶺，關注 Huang 回歸訊號",
+        "美元創2026高位，壓低 gold/bitcoin — 鷹派重定價主導",
+        "伊朗續攻但開放談判，避險溢價未現 — 市場已習慣",
+        "中國晶片限制 + 台灣國防預算，地緣對 semi/defense 嘅雙向催化"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-16",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Bearish — AI trade 動盪 + 鷹派宏觀，防禦性輪動",
+      "headlines": [
+        "NVDA 董事會逼退 Jensen Huang，Colette Kress 暫代 CEO，明日財報係 AI trade 分水嶺",
+        "台灣 F-16V 升級 +17% 預算，國防主題延續（LMT）",
+        "美元 2026 高位 + GLD 一年新低，實質利率壓制風險資產",
+        "Semi 複合體極端對沖（SOXL -11% vs SOXS +11%），資金轉防禦"
+      ],
+      "focus": [
+        "NVDA — 財報 + 領導層真空，AI trade single point of failure",
+        "Semi 複合體 — SOXL/SOXS 極端動盪",
+        "LMT/國防 — 台灣 F-16V 獨立催化",
+        "Consumer Defensive — 防禦輪動受益"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-11-16 (週一)\n\n## Fed Context\n本週冇新 FOMC statement。上次決策係 Oct 27-28（statement Oct 28 已出），市場正處於「Fed 鷹派重定價」嘅消化期——美元創 2026 高位，實質利率上行，直接壓制金價（GLD 一年新低）同風險資產估值。下一次 FOMC 係 Dec 8-9，帶 SEP + dot plot + press conference——呢個係短期內最大嘅 macro catalyst，市場會喺之前一路同「仲要唔要加碼鷹派」對賭。今日嘅 macro 重點係紐約州製造業指數（fcast 18 vs prev 25.5，預期急降），但真正重頭戲係週二 Retail Sales + 週三 Housing Starts（都係 HIGH）。鷹派 macro backdrop 疊加 AI 敘事動盪 = 今日 risk-off 主軸。\n\n## 今日重點頭條（依市場衝擊排序）\n1. [WSJ] NVIDIA 董事會逼退 Jensen Huang——兩段婚外情（其一涉疑似中國間諜）→ CFO Colette Kress 暫代 CEO，董事會啟動繼任尋覓。NVDA 明日 AMC 財報係辭職後首份。→ NVDA / SOXX / 成個 AI 複合體\n2. [SCMP] 台灣公布 17% 預算加碼升級 F-16V 機隊 → LMT（國防主題延續）\n3. [Bloomberg] Goldman 警告油市 2027 年面臨「可觀」供應過剩 → USO / XOM\n4. [TradingView] Gold 4H 掃至 3,835——流動性掃蕩，GLD 一年新低\n5. [NYT] Trump 亞洲之行——地緣政治／關稅 signal 要盯\n6. [Investing] UBS 生技會議多股發表進展（PRAX/CYTK/IBRX/IDYA）→ 生技板塊零星催化\n\n## 隔夜市場\n- SPY $754.37 (-0.36%)、QQQ $679.89 (-1.20%)、DIA $523.15 (+0.13%)、IWM $277.54 (-0.32%)\n- 結構清晰：科技（QQQ -1.2%）跑輸，道指/價值（DIA +0.13%）企穩——典型防禦性輪動\n- 板塊：Consumer Defensive +1.07%、Energy +0.45%、Financials +0.19% 領漲；Real Estate -1.83%（利率敏感最傷）、Consumer Cyclical -1.50%、Utilities -1.28%、Tech -1.12% 領跌\n- 美元 2026 高位、金價一年新低、BTC 18 週低位 $62K（週末爆倉 $18 億）——實質利率上行直接打擊無息資產\n\n## 昨日爆升／暴跌榜\n- 爆升榜 Top 5 幾乎全係低流通 penny（TGL +2685%、KALA +2486%、NCT +690%、SGRX +617%、MBS +599%）——單一事件／炒作，冇跟進價值，pass\n- 暴跌榜同樣係 penny junk（OPTT -53%、OGEN -43%、SST -41%、XXII -41%、RMIX -37%）——非系統性，唔恐慌\n- 活躍榜先係真 signal：NVDA（-2.01%）成交爆量，SOXL -11.00% vs SOXS +11.07%——semi 複合體極端對沖，AI trade 信心動搖；NU +11.75% 係少數亮點\n- Sector theme：movers 本身冇 common theme（零散 penny），但 semi 複合體嘅極端動盪先係今日要跟嘅主軸\n\n## 今日重點事件\n- 09:30PM HKT [MED] NY Empire State Manufacturing（prev 25.5, fcast 18）——預期急降，若大幅低於預期會強化 growth 憂慮\n- 01:00AM HKT [MED] NOPA 大豆油庫存\n- 本週 HIGH：週二 Retail Sales MoM、週三 Housing Starts + Building Permits（都係 09:30PM HKT）\n- 地緣：伊朗續攻但開放談判——避險溢價未現，油價未見 panic bid\n\n## Sector Watch\n- 🔥 防守：Consumer Defensive（+1.07%）連續領漲——資金搵安全\n- 🔥 國防：台灣 F-16V +17% 預算係新催化，國防主題延續（LMT 領軍）\n- ⚠️ Semi：SOXL -11% 反映 AI trade 動搖，NVDA 財報前難有 risk-on\n- ⚠️ 利率敏感：Real Estate -1.83%、Utilities -1.28%——鷹派重定價直接受害\n\n## Pre-market 機會（News Curator consolidate）\n- 🎯 NVDA：明日 AMC 財報 + CEO 真空 = AI trade 分水嶺。呢個係 single point of failure——若 Kress 交出強勁 guidance，AI trade V 型反彈；若 guidance 弱，成個複合體再 de-rate。今日唔好追空追多，等財報。\n- 🎯 LMT：台灣 F-16V 升級 17% 預算加碼，國防主題有實質催化，值得跟。\n- 👀 中國晶片限制升級：semi（NVDA/AMD/TSM）中國收入風險，NVDA 財報 guidance 會係關鍵驗證點。\n- 👀 GLD：一年新低係結構性關注位，但唔係追空點——美元+實質利率係直接 driver，等美元見頂先諗。\n- 👀 BTC-USD：18 週低位 $62K，週末 $18 億爆倉——risk-off 受害者，唔係避險失敗。\n\n## 未來一個月業績重點\n本週（notable）：\n- 週二 11/17：🎯 NVDA（$4.0T，AMC）——AI 分水嶺，本週甚至本月最重要財報；HD、BHP、DIS 同日\n- 週三 11/18：PANW（$264B，AMC）、TJX、LOW、TGT——零售 + 資安\n- 週四 11/19：WMT（$1.0T，BMO）——消費健康度風向標；BABA、PDD、INTU、NTES、ROST、KEYS\n- 週一 11/23：HPE\n\n下週：DELL（$236B）、ADI（$198B）、MDT、ADSK、DE\n\n重點：NVDA 係 tracked ticker 兼市場焦點。WMT 財報會驗證 consumer defensive 輪動嘅基本面支撐。零售（HD/LOW/TGT/TJX/WMT）集中喺本週——同週二 Retail Sales macro 一齊出，消費板塊會係本週第二條主線。\n\n## Today's Agenda\n- 今日（Mon）：紐約州製造業指數（fcast 急降）；pre-market 睇 NVDA 相關 semi 有冇再跌\n- 週二：Retail Sales（HIGH）+ NVDA 財報 AMC——本週兩個最大催化撞埋同一日\n- 週三：Housing Starts + Building Permits（HIGH）+ PANW 財報\n- 週四：WMT + BABA + PDD 財報\n- Key levels：SPY $747.89（昨日 day low）係第一 support，跌破睇 $740 區間；QQQ $671.71 係 support，科技若再失守會加速防禦輪動\n\n## My Take\n整體 bias：Neutral-to-Bearish。今日唔係開新倉嘅日子，而係 set context 準備週二嘅日子。成個市場嘅核心矛盾係「AI 敘事動盪（NVDA 領導層真空）+ 鷹派宏觀（美元/實質利率高位）」雙重壓力——資金明顯轉向防禦（Consumer Defensive +1.07%、道指企穩），同時 semi 複合體極端對沖。NVDA 週二財報係 single point of failure：我唔會喺財報前押注方向，但會盯住「guidance 對中國晶片限制 + CEO 真空」兩個關鍵。國防（LMT）係唯一有獨立催化、唔受 AI/利率主軸拖累嘅主題，值得作為防禦配置。金價/比特幣嘅崩跌係結構性（實質利率）而非 panic——唔係買點，等美元見頂先有得諗。今日最緊要睇實：紐約州製造業指數會唔會確認 growth 放緩，以及 semi 複合體 pre-market 有冇進一步恐慌盤。",
+      "risks": [
+        "NVDA guidance 弱 → AI 複合體 de-rate",
+        "中國晶片限制升級 → semi 中國收入風險",
+        "美元走強 + 實質利率上行 → 持續壓制風險資產"
+      ],
+      "my_take": "Neutral-to-Bearish。市場喺「AI 敘事動盪（NVDA 領導層真空）+ 鷹派宏觀（美元/實質利率高位）」雙重壓力下，資金明顯轉防禦。今日係 set context 準備週二嘅日子——NVDA 財報 + Retail Sales 撞埋同一日，係本週嘅 single point of failure。唔喺財報前押注 NVDA 方向；國防（LMT）有獨立催化，係唯一唔受 AI/利率主軸拖累嘅主題。金價/比特幣崩跌係結構性，唔係買點。"
     }
   ],
   "news_curator": [
