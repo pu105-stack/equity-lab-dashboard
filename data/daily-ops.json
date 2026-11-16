@@ -4486,6 +4486,71 @@
         "地緣溢價: XOM/CVX",
         "Duration 風險: GLD/BTC"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-16",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "NVDA 領導真空 + 明日財報 + Anthropic IPO + 加密貨幣 crash + 伊朗局勢升溫",
+      "headlines": [
+        "[NEW] WATCH: NVDA — Jensen Huang 密謀回歸，明日財報",
+        "[NEW] WATCH: Anthropic IPO 本週登場",
+        "[RECENT] WATCH: BTC-USD — 加密貨幣 crash 反彈",
+        "[RECENT] WATCH: INTC — 29% 暴跌後遭訴訟",
+        "[NEW] WATCH: 伊朗連續第二日攻擊巴林美軍基地",
+        "[NEW] WATCH: FANG — Diamondback $5B 收購",
+        "[RECENT] WATCH: DIS — 新 CEO 裁員計劃",
+        "[NEW] WATCH: 特朗普-習近平會面"
+      ],
+      "opportunities": [
+        "NVDA: 辭職(~2日) + 回歸傳聞(<6h) + 明日財報，股價 $162 由年高 $243 跌 33%",
+        "BTC-USD: 4個月低位 $62K 反彈，ETF 流出 $1.07B，資金流向 AI",
+        "FANG: Permian 併購潮，伊朗戰爭支撐油價"
+      ],
+      "analysis": "本週係 AI 板塊關鍵週：NVDA 財報 + Anthropic IPO 同時到。Jensen Huang 辭職造成 leadership vacuum 係最大 overhang。加密貨幣資金流向 AI。伊朗戰爭支撐油價但救唔到金價。",
+      "risks": [
+        "NVDA CEO 未定 + China spy 溢出中美關係",
+        "加密貨幣結構性資金流出",
+        "伊朗局勢進一步升級"
+      ],
+      "my_take": "AI 板塊進入高波動週。NVDA 財報 + Anthropic IPO 決定短期 AI sentiment。加密貨幣同 AI 之間嘅資金 rotation 係本週最值得追蹤嘅結構性訊號。伊朗戰爭已反映於油價，但地緣 tail risk 仍在。",
+      "key_takeaways": [
+        "NVDA 明日財報 + Jensen Huang comeback 傳聞 = 高波動事件",
+        "Anthropic IPO 觸發 crypto ETF 資金流出 — AI vs crypto 資金 rotation",
+        "伊朗連續攻擊巴林美軍基地，油價受支撐但金價照跌"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-16",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "Tech 領導真空下防禦輪動，SPY 貼近年高但 QQQ 落後",
+      "headlines": [
+        "NVDA 領導真空 + Nov 17 財報 — $162.85，由年高 $243 跌 33%",
+        "Anthropic IPO 本週登場 — AI trade leading indicator",
+        "伊朗連續第二日攻擊巴林美軍基地",
+        "BTC 崩至 4 個月低位 $62K，ETF 連兩週流出 $1.07B",
+        "INTC 遭股東集體訴訟（-29% 後）",
+        "FANG/Diamondback 近 $5B 收購 Double Eagle",
+        "DIS 新 CEO 裁員數千人 + Nov 17 財報",
+        "AMZN Vulcan 火箭失敗，40 顆 Kuiper 衛星全毀"
+      ],
+      "opportunities": [
+        "XLE: 伊朗升級 + 防禦輪動 + FANG 收購信號，三重支撐",
+        "Anthropic IPO: AI trade 領先指標，定價結果影響全板塊估值",
+        "NVDA 財報後: -33% 已消化大量壞消息，等業績確認需求"
+      ],
+      "analysis": "# 美股收市回顧 — 11月16日（檢討週五 11/13 收市）\n\n## 📰 今日重點頭條\n- **NVDA 領導真空 + 明日財報**（NC ✓）— Jensen Huang 密謀回歸，股價 $162.85（-2.01%），由年高 $243 跌 33%\n- **Anthropic IPO 本週登場**（NC ✓）— AI trade 嘅 leading indicator，加密資金正流向 AI\n- **伊朗連續第二日攻擊巴林美軍基地**（NC ✓）— 揚言唔會等美國先出手，地緣持續升溫\n- **BTC 崩至 4 個月低位**（NC ✓）— $64.9K，5 日由 $74K 跌 13%，ETF 連兩週流出 $1.07B\n- **INTC 遭股東集體訴訟**（NC ✓）— 29% 暴跌後法律風險浮面，$59.66（-2.52%）\n- **FANG/Diamondback 近 $5B 收購 Double Eagle**（NC ✓）— Permian 整合，$184.93（+1.50%）\n- **DIS 新 CEO 裁員數千人 + 明日財報**（NC ✓）— $118.97（+0.63%）\n- **AMZN Vulcan 火箭失敗，40 顆 Kuiper 衛星全毀**（NC ✓ NOTE）— $266.66（-0.29%）\n- **MSFT 全球 outage 修復，航班連續第三日取消**（NC ✓ NOTE）— $523.88（+0.17%）\n- **股市期貨微升，投資者備戰 NVDA 財報 + Anthropic IPO**（raw-only, CNBC）— 「AI slowdown fears」敘事成型\n\n## 1. 📊 Market Recap\n週五係典型嘅**防禦輪動日** — 科技股獨自捱沽，資金流入防守 + 能源。\n\n- **SPY** -0.36% ($754.37)、**QQQ** -1.20% ($679.89)、**DIA** +0.13% ($523.15)、**IWM** -0.32%\n- **VIX** +3.2% → 19.30（高企但未恐慌，19-20 區間橫行）\n- **Sector 贏家**：XLP +1.42%（必需消費）、XLC +1.05%（通訊）、XLE +0.98%（能源）、XLF +0.81%（金融）\n- **Sector 輸家**：XLK -2.01%（科技，最弱）、XLY -0.40%、XLI -0.39%、XLB -0.21%\n\n解讀：NVDA 領導真空令成個 AI/科技 trade 重新定價，但資金冇離場 — 只係由 growth 轉向 defensive（XLP/XLV/XLE/XLF）。Dow +0.13% vs QQQ -1.20% 嘅分化，反映呢個係**輪動**而唔係**崩盤**。SPY 仍貼近年高，risk-off 但未失控。\n\n## 2. 🔥 Notable Movers\n- **NVDA** -2.01% → $162.85 — 由年高跌 33%，leadership vacuum + comeback 傳聞令財報更難 trade\n- **INTC** -2.52% → $59.66 — 29% 崩盤後嘅集體訴訟係新嘅尾部風險，唔只係基本面\n- **FANG** +1.50% → $184.93 — Diamondback 近 $5B 收購 Double Eagle，Permian 整合信心信號\n- **BTC** -7% 至 $64.9K — 4 個月低位，ETF 連兩週流出，資金轉向 AI（Anthropic IPO）\n- **DIS** +0.63% → $118.97 — 新 CEO 裁員數千人，明日財報係考驗\n- **GLD** 持平 $355.45 — 黃金熊市（由高位跌 30%），伊朗戰爭都救唔到金價\n\n## 3. 📰 News That Mattered\n**上週五 Morning Scan 嘅 thesis 大致應驗** — 佢 flag 咗 NVDA 領導真空 + 中國晶片監管 + MSFT outage + 伊朗 Hormuz 升級。週五科技股果然捱沽（XLK -2%），伊朗週末再升級（巴林美軍基地），MSFT outage 餘波持續（航班第三日取消）。方向係啱嘅，只係幅度比預期克制。\n\n**NC 捕捉率**：8 個主要 calls 全部命中，冇 miss 到 major catalyst。唯一 NC 冇明確 framing 嘅係 CNBC 條「AI slowdown fears」敘事 — 呢個係今週 AI 板塊定價嘅核心邏輯，值得加權。\n\n**New overnight/weekend developments**：\n- 伊朗攻擊巴林美軍基地（第二日）— 地緣 risk 未緩解\n- 加密貨幣 crash 加速（$74K → $64K）— ETF 資金外流，轉向 AI\n- Anthropic IPO 細節浮面 — 本週定價\n\n## 4. 🎯 Opportunities Carry Forward\n- **XLE（能源）**：伊朗升級 + 防禦輪動 + FANG 收購信號，三重支撐。油價係地緣 risk 嘅直接對沖，XLE 連日跑贏。\n- **Anthropic IPO**：本週 AI trade 嘅關鍵事件。定價好 → 可能 re-rate 成個 AI 板塊；定價差 → 確認 froth 見頂。**呢個係 leading indicator，唔使直接 trade IPO，睇佢點影響 NVDA/其他 AI 估值。**\n- **NVDA 財報後**：-33% 已消化大量壞消息。如果 Data Center revenue 確認需求未死，個 drawdown 就係 entry。但 leadership vacuum + comeback 傳聞令 earnings 係 binary — 我傾向等 print 唔 front-run。\n\n## 5. ⚠️ Risks / Watchlist\n**今晚（Mon 11/16 US session）** — 冇 HIGH 事件，相對安靜：\n- 🟡 9:30pm HKT — NY Empire State Manufacturing Index（11月）\n- 🟡 12:30am HKT — 3/6-month Bill Auctions\n- 🟡 1:00am HKT — NOPA Soybean Oil Stocks\n\n**明日（Tue 11/17）** — 重頭戲：\n- 🔴 9:30pm HKT — Retail Sales MoM（10月）— 消費韌性嘅關鍵驗證\n- **NVDA 財報**（明日收市後）+ **DIS 財報**\n\n**Overnight 風險**：伊朗第三日攻擊、crypto 崩盤外溢至 risk sentiment、Anthropic IPO 定價。\n\n## 6. 💡 My Take\n今日最重要嘅 takeaway：**科技股嘅 leadership vacuum 係市場最大嘅 overhang，但資金只係輪動而唔係離場** — Dow +0.13%、XLP/XLE/XLV 跑贏、SPY 貼近年高。呢個係「risk-off 但唔恐慌」嘅格局。\n\n明日 bias：**neutral-to-cautious on tech, constructive on defensive/energy**。NVDA 財報係 binary，Anthropic IPO 係風向標，兩者都未定。與其 front-run，我寧願等 print 出嚟先定方向。唯一主動嘅地方係能源（伊朗 + 防禦）同 crypto→AI 嘅資金流動追蹤。",
+      "risks": [
+        "NVDA Nov 17 財報 binary — 領導真空 + comeback 傳聞",
+        "Anthropic IPO 定價",
+        "伊朗第三日攻擊風險",
+        "Crypto 崩盤外溢至 risk sentiment",
+        "Nov 17 Retail Sales (Oct) HIGH — 消費韌性驗證"
+      ],
+      "my_take": "科技 leadership vacuum 係最大 overhang，但週五嘅防禦輪動（XLP/XLE/XLV 跑贏、QQQ -1.2% vs Dow +0.13%）顯示資金係轉倉而非離場。本週係 AI 板塊關鍵週：NVDA 財報 + Anthropic IPO + DIS 財報齊到，加密資金正流向 AI。我傾向等 NVDA print 出嚟先定方向，唔 front-run binary 事件；唯一主動嘅係能源（伊朗 + 防禦對沖）。"
     }
   ],
   "news_curator": [
