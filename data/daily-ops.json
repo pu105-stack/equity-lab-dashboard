@@ -4582,43 +4582,6 @@
       "my_take": "Neutral-to-Bearish。市場喺「AI 敘事動盪（NVDA 領導層真空）+ 鷹派宏觀（美元/實質利率高位）」雙重壓力下，資金明顯轉防禦。今日係 set context 準備週二嘅日子——NVDA 財報 + Retail Sales 撞埋同一日，係本週嘅 single point of failure。唔喺財報前押注 NVDA 方向；國防（LMT）有獨立催化，係唯一唔受 AI/利率主軸拖累嘅主題。金價/比特幣崩跌係結構性，唔係買點。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-17",
-      "time": "08:05 HKT",
-      "status": "success",
-      "market_direction": "Risk-off：NVDA 財報前夕 + Fed 鷹派重定價（美元19個月新高、10Y 4.88%）+ Bitcoin 六週連跌，科技股領跌 Nasdaq -2.5%",
-      "headlines": [
-        "[NEW] NVDA 今日盤後 Q3 財報 — Huang 回歸爭議未決，董事會拒復職、Trump 公開支持",
-        "[RECENT] Anthropic IPO 據報超額認購 6 倍 — AI trade 試金石",
-        "[RECENT] Bitcoin 六週連跌至 $62K — 礦工遭 AI 駭客劫持，ETF 一週流出 $1.07B",
-        "[NEW] 美元創 19 個月新高，10Y 4.88% — Fed 鷹派重定價，金價一年低",
-        "[NEW] 美大型銀行集體 outage — Microsoft 認係幾個月前 bug",
-        "[NEW] California 起訴 OpenAI — 80 宗 AI「失控」事件",
-        "[NEW] Trump-Xi-Putin 亞洲三邊峰會本週登場"
-      ],
-      "opportunities": [
-        "NVDA: 今日財報 + leadership vacuum 雙重不確定，等財報出先 trade（Viper 睇事件/volatility，唔落方向）",
-        "COIN: Binance hack 推機構資金轉向受監管託管，結構性 tailwind（slow grind）",
-        "JPM: 大型銀行 outage 疑係 shared vendor bug，短線 noise，非 fundamental risk",
-        "AI 監管: California 起訴 OpenAI 80 宗失控，間接利好 Anthropic，AI sentiment 風險",
-        "Anthropic IPO 超額認購 6 倍: 本週另一大 catalyst，定價決定 AI trade 情緒方向"
-      ],
-      "analysis": "本週係 AI trade 終極考驗週：NVDA 財報（今日）+ Anthropic IPO（本週）+ FOMC minutes（本週）三件大事撞埋。市場已 risk-off 成個禮拜，但最大 catalyst（NVDA 財報）未發生。",
-      "risks": [
-        "Fed 加息預期升溫 — 美元/美債息壓住所有 risk asset",
-        "美收緊對華 data center 晶片限制 — semi 供應鏈風險",
-        "Bitcoin 礦工遭 AI 駭客劫持 — crypto mining 安全風險",
-        "AI 監管（California v OpenAI）— AI trade sentiment 風險"
-      ],
-      "my_take": "真正 opportunity 唔係喺 NVDA 落 directional bet，而係財報後嘅 reaction。NVDA guide 到 China 限制下收入 → AI trade 或 V 型反彈；guide 弱 → semi 再跌。等 event 出先 trade。Contrarian：Burry 話 get out、fear&greed 指數 10（極端恐慌），通常係 short squeeze setup，但對住 leadership vacuum + 監管 + Fed 加息，唔好撈刀。",
-      "key_takeaways": [
-        "NVDA 財報係本週最大 catalyst，等 event 出先 trade",
-        "Fed 鷹派重定價係最強 macro headwind",
-        "COIN 受惠於 Binance hack 後嘅機構託管轉向",
-        "Anthropic IPO 定價決定 AI trade 情緒方向"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-17",
       "time": "08:32 HKT",
@@ -4643,6 +4606,62 @@
         "美元 19 個月高位持續壓制 risk asset"
       ],
       "my_take": "今日係預演 — semi 複合體喺財報前已開始 de-rate，NVDA 今晚財報先係判決。防禦性輪動兌現，真正 alpha 喺財報後 reaction，唔係撈刀。今晚 Retail Sales + NVDA 撞埋係本週最關鍵一夜，bias 中性偏淡。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-17",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "避險 — Fed 鷹派重定價（美元19個月新高）+ NVDA 財報前夕 tech 去風險。SPY -1.9%，NVDA 較52wk高位跌36%。",
+      "headlines": [
+        "[NEW] ACTION: NVDA — 今晚盤後 Q3 財報（Huang 辭職後首次），options 定價 $335B swing",
+        "[NEW] ACTION: HD — CFO McPhail 升任 CEO + 業績 beat",
+        "[RECENT] WATCH: 黃金 — 通脹熱但金價照跌",
+        "[RECENT] WATCH: BTC — Wintermute 警告 $50k，Fed 加息預期升溫",
+        "[RECENT] NOTE: 油價 — Hormuz 升溫但油價續跌"
+      ],
+      "opportunities": [
+        "NVDA: 今晚財報係成個 AI trade 嘅方向性 catalyst，二元事件，睇 Kress 首秀 guidance + China 風險交代",
+        "HD: 內部 CFO 升任 = 乾淨交接，業績 beat，Housing Starts 明晚係下一個 catalyst"
+      ],
+      "analysis": "今日主線係 Fed 鷹派重定價 + NVDA 財報前夕去風險。美元19個月新高壓制黃金同 crypto，通脹熱但金價照跌反映實質利率主導。地緣方面 Iran/Hormuz 升溫但油價續跌，供應過剩蓋過地緣溢價。NVDA 今晚財報係 Huang 辭職後首次，加埋今日成立出口管制委員會 + China「必要措施」反制，係 AI trade 嘅多重交匯點。",
+      "risks": [
+        "NVDA 財報 miss → AI trade 再跌一浸",
+        "China 晶片反制升級 → 中概 + 半導體供應鏈風險",
+        "Fed 加息預期持續升溫 → 黃金/BTC 弱勢未止"
+      ],
+      "my_take": "市場已由「AI 盛世」轉入「AI 去風險」。NVDA 今晚唔止係業績，係治理 + 地緣 + 估值的多重考驗。如果 Kress 首秀能穩住 guidance 並交代清楚 China 風險，AI trade 有機會反彈；反之，$156 可能只係中途站。黃金/BTC 嘅下跌唔係避險失靈，係 Fed 鷹派（美元19個月新高）令 cash 成為唯一避險。",
+      "key_takeaways": [
+        "NVDA 今晚盤後財報 = 單一最大 catalyst，二元事件唔好 front-run",
+        "Fed 鷹派重定價係今輪 risk-off 主因（美元新高 → 壓金/壓幣/壓科技估值）",
+        "油價背離地緣 = 供應過剩主導，勿當 Hormuz 係新鮮 catalyst"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-17",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Bearish / Risk-off — AI 去風險 + Fed 鷹派重定價",
+      "headlines": [
+        "NVDA 今晚 Q3 財報（Huang 辭職後 Kress 首秀）+ 成立出口管制委員會",
+        "歐洲晶片股因美國新 AI chip 出口限制下跌，SOXL -16%",
+        "伊朗局勢升級：第三艘美航母抵中東、Hormuz 油輪遭襲",
+        "美元 19 個月新高，黃金/BTC 承壓"
+      ],
+      "focus": [
+        "NVDA — 二元事件，今晚盤後定調 AI trade",
+        "半導體板塊 — 全球性去風險",
+        "零售鏈 — Retail Sales + HD/LOW/TGT/WMT 業績",
+        "防務/地緣 — 避險資金流入 potential"
+      ],
+      "analysis": "Fed Context — macro backdrop\n\n冇新 FOMC statement（上次係 Oct 27-28 會議，press conference 已出）。今個星期以至未來 30 日都冇 Fed rate decision，市場有近一個月冇 Fed 直接干預。當前 macro 主軸係「鷹派重定價」—— 美元升到 19 個月新高、10Y 債息企穩高位，Oct 會議後市場重新 pricing「higher for longer」。呢個背景下，macro data（今日 Retail Sales、Nov 25 Core PCE）同 earnings 成為主要 driver。\n\n今日最緊要嘅 macro 係 Retail Sales（Oct）：prev 0.8 → fcast 0.2，係一個雙刃事件——大幅放緩會強化「消費降溫」narrative，但同時令市場期待 Fed 更早轉鴿。\n\n📰 今日重點頭條（按 market impact 排序）\n\n1. NVDA 今晚 Q3 財報（Bloomberg: \"Nvidia's Earnings Come at a Time of Mounting Tech Turmoil\"）— 全場焦點，唔止業績，係 governance + 地緣 + 估值三重考驗。\n2. NVDA 成立出口管制委員會（FT）— Huang 辭職後治理重整，兼應對新一輪 AI chip 出口限制。\n3. 歐洲晶片股因美國新 AI chip 出口限制下跌 — 半導體板塊全球性去風險，SOXL 單日 -16%。\n4. 伊朗局勢升級（CNBC）— 第三艘美航母抵中東 + Hormuz 油輪遭襲，油價風險溢價（USO）。\n5. 烏克蘭襲擊克里米亞大橋（CNBC）— 地緣風險升溫。\n6. 美國主要銀行大規模服務中斷（CBS，已恢復）— 短期 noise。\n7. Solana Foundation 收購 CoinGecko 多數股權 — crypto infra 整合（SOL-USD）。\n8. Baird 重申 Coinbase 評級並點名 crypto 逆風（COIN）。\n\n🌍 隔夜市場\n\n- SPY $739.95（上日 -1.9%）、QQQ $661.75、DIA $515.68 —— 全線回落，risk-off。\n- 美元 19 個月新高 —— 壓制黃金、新興市場、crypto。\n- 黃金 GLD $352.93 逆通脹回落 —— 避險唔係買金，係買 cash（美元）。\n- 油價 USO $140.03 —— 受 Hormuz 襲擊支撐，中東風險溢價。\n- BTC 滑向 $64k，Wintermute 警告 $50k —— 高 beta 資產承壓。\n\n📈 昨日市場爆升／暴跌榜\n\n- Gainers 全部 penny/micro-cap（LOBO +908%、MOBX +452%、EDBL +311%…）—— pump-and-dump noise，冇 sector theme，唔值得跟。\n- Losers 同樣 micro-cap（SENEA -79%、MTEX -40%…）。\n- 真正 signal 喺 Most Active：NVDA -4.12%、SOXL -16.39%（3x 半導體槓桿 ETF 重挫）、DVLT -53%、SHFS -24%。\n- 結論：movers 冇 institutional theme，但 NVDA + SOXL 嘅跌法確認「AI/semis 去風險」係主軸。\n\n📡 今日重點（macro_calendar.json — SOURCE OF TRUTH）\n\n- 🔴 Retail Sales MoM（Oct）09:30pm HKT — prev 0.8 → fcast 0.2，今日最緊要。\n- 🟡 Import/Export Prices MoM（Oct）09:30pm HKT — 通脹 input signal。\n- 🟡 Industrial Production MoM（Oct）10:15pm HKT — prev 0.7 → fcast 0.1。\n- 🟡 NAHB Housing Index（Nov）11:00pm HKT — prev 29 / fcast 29。\n- 明日（Nov 18）：🔴 Housing Starts + Building Permits 09:30pm HKT —— HD 業績後直接跟進。\n\n🔥 Sector Watch\n\n- 半導體（去風險主軸）：NVDA 財報前夕全球 semis 去風險，SOXL -16%，今晚 NVDA 定生死。\n- 防務／地緣（升溫）：伊朗 + 烏克蘭 + 美航母，防務板塊有避險資金流入 potential。\n- 消費／零售（等數據）：今日 Retail Sales + 呢星期 HD/LOW/TGT/WMT 業績，成條零售鏈出 signal。\n- 黃金（壓制）：通脹熱但金價跌，美元主導，唔好追。\n- Crypto（承壓）：Fed 鷹派 + 高 beta 去風險，BTC $64k 唔穩。\n\n🎯 Pre-market Opportunities（consolidate from News Curator）\n\n- NVDA（ACTION）：今晚盤後 Q3 財報，Huang 辭職後 Kress 首秀 + 出口管制委員會。二元事件。部署：唔好 pre-position，睇 guidance + China risk 交代，等財報後先動。\n- HD（ACTION）：CFO McPhail 升 CEO + 業績 beat，交接平穩，Housing Starts 明晚係下一個 catalyst。部署：beat 已出，追 housing 數據鏈（HD→LOW→housing）。\n- GLD/IAU（WATCH）：金價跌但係美元壓制，唔係基本面惡化——等美元見頂先考慮。\n- BTC-USD（WATCH）：$64k 唔穩、$50k warning——高風險，唔接刀。\n- TSLA（WATCH）：Musk 擬 $10.1B Houston 廠，capex 擴張 story，但 Fed 鷹派壓高 beta。\n- JD／中概（WATCH）：業績 beat 但股價跌，中概失寵，唔好撈底。\n\n📅 未來一個月業績重點\n\n- 今晚（Nov 17 AMC）：NVDA 🎯 $3.9T — AI 龍頭，全場定調。\n- 今朝已出：HD BMO（beat + CEO 交接）、DIS BMO、BHP。\n- Wed Nov 18：PANW AMC（網絡安全）、TJX/LOW/TGT BMO（零售鏈）。\n- Thu Nov 19：WMT BMO $1T、BABA/PDD BMO（中概）、INTU AMC。\n- 下周：HPE（Nov 23）、DELL AMC（Nov 24，AI server 需求）、ADI BMO。\n- Dec 1：CRWD AMC、MRVL 🎯 AMC — AI 半導體第二梯隊。\n\n📋 Today's Agenda\n\n- 09:30pm HKT — Retail Sales（今日最緊要 macro）。\n- 今晚盤後 — NVDA Q3 財報（全場焦點）。\n- 明日 — Housing Starts / Building Permits。\n- 重點：兩大 catalyst（Retail Sales + NVDA）決定今日至明早方向。\n\n💡 My Take\n\n市場已由「AI 盛世」轉入「AI 去風險」。今日兩條主線：① Retail Sales 會唔會確認消費降溫（雙刃——放緩=增長憂慮 vs 放緩=Fed 更快轉鴿）；② NVDA 財報係 AI trade 嘅審判日。我嘅 bias：short-term bearish/risk-off，但若 Kress 首秀穩住 guidance + 交代清楚 China 風險，AI trade 有條件反彈。黃金/BTC 嘅下跌唔係避險失靈，係美元（cash）成為唯一避險——呢個係 Fed 鷹派重定價嘅核心訊號。今日唔接刀，睇實 Retail Sales + NVDA 兩個 catalyst 先。",
+      "risks": [
+        "NVDA guidance 或 China risk 唔及預期 → AI/semis 再下殺",
+        "Retail Sales 大幅放緩 → 消費降溫 narrative 強化",
+        "美元持續走強 → 黃金/新興市場/crypto 持續承壓"
+      ],
+      "my_take": "Short-term bearish/risk-off。AI 去風險 + Fed 鷹派重定價（美元19個月新高）令 cash 成為唯一避險。今日兩大 catalyst：Retail Sales（09:30pm HKT）同 NVDA Q3 財報（盤後）——唔接刀，等 catalyst 出結果先。"
     }
   ],
   "news_curator": [
