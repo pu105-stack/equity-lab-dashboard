@@ -4662,6 +4662,67 @@
         "美元持續走強 → 黃金/新興市場/crypto 持續承壓"
       ],
       "my_take": "Short-term bearish/risk-off。AI 去風險 + Fed 鷹派重定價（美元19個月新高）令 cash 成為唯一避險。今日兩大 catalyst：Retail Sales（09:30pm HKT）同 NVDA Q3 財報（盤後）——唔接刀，等 catalyst 出結果先。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-18",
+      "time": "08:04 HKT",
+      "status": "success",
+      "market_direction": "Risk-off 持續 — 美元強 + Fed鷹派 + 6%美債壓風險資產；NVDA 財報勁但 AI trade 深度 de-rate",
+      "headlines": [
+        "[NEW] ⚠️ NVDA — Q3 營收翻倍 $115.8B、指引 $130B，股價貼 52 週低",
+        "[RECENT] ⚠️ Anthropic IPO — 訂價高於 $78，Amazon+Google 持股近 30%",
+        "[RECENT] 📌 烏克蘭炸克里米亞大橋",
+        "[RECENT] ⚠️ ServiceNow — beat 後 14 日蒸發 $590億",
+        "[NEW] 📌 Fidelity: 6% 美債未算超便宜"
+      ],
+      "opportunities": [
+        "NVDA: 業績 blowout (營收 $115.8B 翻倍、指引 $130B) 但股價 $155 貼 52 週低，較年高 $243 跌 36% — AI trade 深度 de-rate",
+        "Anthropic IPO: AI trade 試金石，$1T+ 估值 vs $900bn capex 賭注，Amazon/Google 雙重股東",
+        "ServiceNow/CoreWeave/Nebius: AI 應用+infra 估值壓縮，債務成本上升係警號"
+      ],
+      "analysis": "US session 主線係 AI trade 嘅終極考驗：NVDA 首個「無 Huang」財報交出營收翻倍 $115.8B + 指引 $130B 嘅 blowout，但股價仍貼 52 週低位，反映市場對 AI capex 見頂嘅擔憂未散。Anthropic IPO 本周登場，Amazon+Google 將持股近 30%，係 AI 資金嘅試金石。另一邊，ServiceNow beat 後照跌 14 日蒸發 $590億、Nebius 3日跌31%、CoreWeave 債務成本 16%，顯示 AI 應用層同 infra 層都被深度 de-rate。宏觀層面 6% 美債 + 美元 19 個月新高持續壓風險資產。",
+      "risks": [
+        "AI trade 持續 de-rate — 就算 blowout 財報股價都無力反映",
+        "NVDA 治理真空 — 董事會拒復職 Huang，暫任 CEO Kress 過渡",
+        "利率背景 — 6% 美債 + Fed 鷹派，風險資產估值受壓"
+      ],
+      "my_take": "市場核心矛盾：基本面(AI 需求)同估值(AI 泡沫擔憂)嚴重背離。NVDA 營收翻倍證實需求未死，但股價貼 52 週低說明市場已經 price in 咗 capex 見頂。呢種背離通常係底部特徵之一，但需要 catalyst 反轉 —— 盤前資金會唔會追呢份 blowout 財報係關鍵 test。Anthropic IPO 如果成功定價 $1T+，可能係 AI trade 嘅轉捩點。",
+      "key_takeaways": [
+        "NVDA blowout 財報 vs 股價 52 週低 = AI trade 深度 de-rate",
+        "Anthropic IPO (Amazon+Google 持股 30%) 係 AI 資金試金石",
+        "ServiceNow/Nebius/CoreWeave 反映 AI 應用+infra 估值壓縮",
+        "宏觀 risk-off：6% 美債 + 美元 19 個月新高"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-18",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "Risk-off 第二日但跌幅收窄，NVDA 盤後 blowout 反彈成 AI trade 底部試探",
+      "headlines": [
+        "NVDA Q3 blowout（營收 $115.8B 翻倍、指引 $130B），盤後 +4% 至 $162",
+        "DIA -1.6% 領跌，VIX 抽升至 25.46，risk-off 第二日",
+        "Huang 表態願回任 CEO，Lutnick 對 NVDA 出口管制放軟",
+        "Anthropic IPO 訂價高於 $78",
+        "10Y 5.12%、30Y 5.46%，長債逼近 6%",
+        "COIN -4%，BTC 六週連跌",
+        "HD -2.45%，業績 beat 救唔到"
+      ],
+      "opportunities": [
+        "NVDA: 盤後 +4% 若守住 $160，semi 複合體反彈，AI trade 底部試探",
+        "Anthropic IPO: 本週 AI trade 情緒催化，$1T+ 定價係轉捩點",
+        "LMT/ITA: 國防獨立催化，唔受 AI/利率主軸拖累"
+      ],
+      "analysis": "**Market Recap（Nov 17 美股收市）**\nRisk-off 第二日，但跌幅收窄。SPY -1.0%（739.95→732.44）、QQQ -0.7%（661.75→656.95）、DIA -1.6%（507.31，最傷）、IWM -1.4%（269.05）。VIX 由 22.91 抽升至 25.46（+11%），恐慌未退。Dow 同細價股領跌、藍籌+利率敏感板塊最受壓，反映「鷹派利率 + 美元強」壓制風險資產嘅宏觀主軸。科技跌幅相對淺（QQQ -0.7%），因 NVDA 財報前資金唔敢大動作。\n\n**Notable Movers**\n- COIN -4.0%：BTC 六週連跌，crypto 係美元強嘅直接受害者\n- HD -2.45%：NC 上個 session 叫 ACTION（CFO 升任 + beat），但業績 beat 救唔到，房貸利率高企壓制\n- LMT +0.88%、ITA 靠穩：國防主題獨立催化 intact，少數唔受利率主軸拖累嘅板塊\n- SOXL +0.6%、SMH -0.4%：semi 複合體財報前暫時企穩，等 NVDA 判決\n- GLD -0.13%、SLV +0.6%：貴金屬跌勢喘定，未確認見底\n\n**News That Mattered**\n- NVDA Q3 財報 blowout：營收 $115.8B 翻倍、指引 $130B，但收市 $155.46 貼 52 週低。盤後 +4.2% 至 $162 —— 資金初步追呢份 blowout，NC 嘅「盤前 test」初步 pass。\n- NVDA 治理 + 出口管制：Huang 表態願回任、董事會拒復職、Kress 稱「一切如常」；商務部長 Lutnick 對 NVDA 出口管制放軟口風 —— 地緣 risk 略緩。\n- Anthropic IPO 訂價高於 $78，Amazon+Google 持股近 30% —— 本週 AI trade 第二催化。\n- 烏克蘭炸克里米亞大橋 —— 地緣升溫但油價照跌，供應過剩主導。\n- 利率：10Y 5.12%、30Y 5.46%（一週內 10Y 由 4.98% 升至 5.12%），長債逼近 6%，Fidelity 稱未算超便宜。\n\n**NC Calls Post-Mortem**\n- ✅ NVDA（WATCH）：方向中 —— blowout 確認，盤後 +4% 兌現「資金會追」\n- ❌ HD（ACTION）：miss —— beat 救唔到，-2.45%\n- ✅ GLD/BTC（WATCH 弱勢）：中 —— COIN -4%，弱勢未止\n- ✅ Anthropic（WATCH）：中 —— 訂價 $78+ 確認\n\n**Opportunities Carry Forward**\n- NVDA 盤後 +4% 係今晚最關鍵 setup：若明早守住 $160+，semi 複合體（AMD/SMH/SOXL）會跟住反彈，AI trade 可能係結構性底部而非反彈陷阱\n- Anthropic IPO 本週登場 —— 若定價 $1T+ 成功，AI trade 情緒轉捩點\n- 國防（LMT/ITA）：獨立催化，唔受 AI/利率主軸拖累，最穩嘅 carry\n\n**Risks / Watchlist（今晚）**\n- 09:30pm HKT Housing Starts + Building Permits（HIGH）—— 直接影響 HD/房建，利率高企下若弱會再壓消費\n- 11:00pm Pending Home Sales\n- 02:00am 20Y bond auction —— 若 demand 弱，yield 再抽，壓風險資產\n- NVDA 盤後漲幅若明早回吐 → AI trade double-top de-rate\n- 10Y/30Y 續升 → growth 估值持續受壓\n\n**My Take**\n今日係「基本面 vs 估值」嘅分水嶺：NVDA 營收翻倍證實 AI 需求未死，盤後 +4% 說明市場終於肯獎勵基本面。但一晚嘅反彈唔等於反轉 —— 利率背景（10Y 5.1% 續升）係結構性 headwind，capex 見頂 narrative 需要 Anthropic IPO + semi 持續走強先真正打破。Bias：AI trade 短線中性偏多（NVDA reaction 主導），但反彈空間受利率壓制。",
+      "risks": [
+        "09:30pm Housing Starts/Building Permits（HIGH）壓 HD/房建",
+        "NVDA 盤後漲幅明早回吐 → AI trade 再 de-rate",
+        "10Y/30Y 續升 → growth 估值受壓",
+        "02:00am 20Y auction demand 弱 → yield 再抽"
+      ],
+      "my_take": "NVDA blowout 財報 + 盤後 +4% 係今晚唯一重要訊號 —— 市場終於肯為基本面付錢。但呢個係一晚嘅反應，capex 見頂 narrative 未死，Anthropic IPO + 利率走勢先係本週 AI trade 嘅真正判決。短線中性偏多，反彈空間受 5% 利率壓制。"
     }
   ],
   "news_curator": [
