@@ -4664,38 +4664,6 @@
       "my_take": "Short-term bearish/risk-off。AI 去風險 + Fed 鷹派重定價（美元19個月新高）令 cash 成為唯一避險。今日兩大 catalyst：Retail Sales（09:30pm HKT）同 NVDA Q3 財報（盤後）——唔接刀，等 catalyst 出結果先。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-18",
-      "time": "08:04 HKT",
-      "status": "success",
-      "market_direction": "Risk-off 持續 — 美元強 + Fed鷹派 + 6%美債壓風險資產；NVDA 財報勁但 AI trade 深度 de-rate",
-      "headlines": [
-        "[NEW] ⚠️ NVDA — Q3 營收翻倍 $115.8B、指引 $130B，股價貼 52 週低",
-        "[RECENT] ⚠️ Anthropic IPO — 訂價高於 $78，Amazon+Google 持股近 30%",
-        "[RECENT] 📌 烏克蘭炸克里米亞大橋",
-        "[RECENT] ⚠️ ServiceNow — beat 後 14 日蒸發 $590億",
-        "[NEW] 📌 Fidelity: 6% 美債未算超便宜"
-      ],
-      "opportunities": [
-        "NVDA: 業績 blowout (營收 $115.8B 翻倍、指引 $130B) 但股價 $155 貼 52 週低，較年高 $243 跌 36% — AI trade 深度 de-rate",
-        "Anthropic IPO: AI trade 試金石，$1T+ 估值 vs $900bn capex 賭注，Amazon/Google 雙重股東",
-        "ServiceNow/CoreWeave/Nebius: AI 應用+infra 估值壓縮，債務成本上升係警號"
-      ],
-      "analysis": "US session 主線係 AI trade 嘅終極考驗：NVDA 首個「無 Huang」財報交出營收翻倍 $115.8B + 指引 $130B 嘅 blowout，但股價仍貼 52 週低位，反映市場對 AI capex 見頂嘅擔憂未散。Anthropic IPO 本周登場，Amazon+Google 將持股近 30%，係 AI 資金嘅試金石。另一邊，ServiceNow beat 後照跌 14 日蒸發 $590億、Nebius 3日跌31%、CoreWeave 債務成本 16%，顯示 AI 應用層同 infra 層都被深度 de-rate。宏觀層面 6% 美債 + 美元 19 個月新高持續壓風險資產。",
-      "risks": [
-        "AI trade 持續 de-rate — 就算 blowout 財報股價都無力反映",
-        "NVDA 治理真空 — 董事會拒復職 Huang，暫任 CEO Kress 過渡",
-        "利率背景 — 6% 美債 + Fed 鷹派，風險資產估值受壓"
-      ],
-      "my_take": "市場核心矛盾：基本面(AI 需求)同估值(AI 泡沫擔憂)嚴重背離。NVDA 營收翻倍證實需求未死，但股價貼 52 週低說明市場已經 price in 咗 capex 見頂。呢種背離通常係底部特徵之一，但需要 catalyst 反轉 —— 盤前資金會唔會追呢份 blowout 財報係關鍵 test。Anthropic IPO 如果成功定價 $1T+，可能係 AI trade 嘅轉捩點。",
-      "key_takeaways": [
-        "NVDA blowout 財報 vs 股價 52 週低 = AI trade 深度 de-rate",
-        "Anthropic IPO (Amazon+Google 持股 30%) 係 AI 資金試金石",
-        "ServiceNow/Nebius/CoreWeave 反映 AI 應用+infra 估值壓縮",
-        "宏觀 risk-off：6% 美債 + 美元 19 個月新高"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-18",
       "time": "08:32 HKT",
@@ -4723,6 +4691,64 @@
         "02:00am 20Y auction demand 弱 → yield 再抽"
       ],
       "my_take": "NVDA blowout 財報 + 盤後 +4% 係今晚唯一重要訊號 —— 市場終於肯為基本面付錢。但呢個係一晚嘅反應，capex 見頂 narrative 未死，Anthropic IPO + 利率走勢先係本週 AI trade 嘅真正判決。短線中性偏多，反彈空間受 5% 利率壓制。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-18",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "分化市 — AI/科技反彈（NVDA 業績 +3%），但黃金白銀跌、油跌、crypto 弱、信貸壓力升",
+      "headlines": [
+        "[NEW] NVDA 業績 beat + 指引上調，AI 股反彈",
+        "[NEW] GTA VI 明晚登場，TTWO",
+        "[RECENT] Anthropic IPO 訂價在即",
+        "[NEW] Target/Lowe's 零售績優",
+        "[NEW] UK 通脹一年高位",
+        "[NEW] 信貸市場 Fear Factor"
+      ],
+      "opportunities": [
+        "TTWO: GTA VI 11/19 登場，媒體好評，明確 catalyst",
+        "TGT: Q3 五年最強銷售增長，beat + raise",
+        "NVDA: 業績 beat + FY28 指引 75%，但董事會否決 Huang 回歸"
+      ],
+      "analysis": "AI trade 因 NVDA 指引上調而反彈，但 leadership 真空 + 中國國安風險未解。零售股（Target/Lowe's）績優顯示消費者仍強。宏觀逆風（UK 通脹 + 信貸 fear factor + Fed 鷹派）壓住貴金屬、油、crypto。",
+      "risks": [
+        "NVDA 領導層真空 + 中國軍方求購晶片國安調查",
+        "信貸市場 Fear Factor 可能蔓延至風險資產",
+        "全球通脹 re-acceleration（UK 一年高位）"
+      ],
+      "my_take": "市場正喺度定價一個「business fine、leadership broken」嘅 NVDA。指引上調到 75% 係真信號，但董事會請 Heidrick & Struggles 搵永久 CEO，等於黃仁勳時代正式落幕。短線 AI 反彈有撐，但中線要睇中國國安調查會唔會 cut 落 NVDA 中國收入。零售績優（TGT/LOW）同宏觀悲觀論（信貸 fear + 通脹）背離，呢個 gap 值得留意。",
+      "key_takeaways": [
+        "NVDA 指引上調至 75% growth，業務 vs 領導層分離",
+        "GTA VI 明晚 launch，TTWO 短線 catalyst",
+        "零售強 vs 宏觀憂，分化市",
+        "信貸 Fear Factor 係最值得警惕嘅風險訊號"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-18",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-Bearish — risk-off，但 NVDA 業績撐 AI",
+      "headlines": [
+        "NVDA 業績 beat + 指引 75%，但董事會否決黃仁勳回歸、中國國安調查",
+        "三大指數跌穿 50 日 MA，Energy -3.07% 領跌（Iran/Hormuz）",
+        "TGT 五年最強銷售增長、LOW/TJX 今日業績（零售週）",
+        "信貸市場 Fear Factor（Davidson Kempner）、30 年房貸利率 7.21%"
+      ],
+      "focus": [
+        "NVDA — 業績 vs 治理危機嘅定價",
+        "TGT/LOW — 零售績優 vs 宏觀悲觀背離",
+        "房屋數據 — 高息壓樓市憂慮"
+      ],
+      "analysis": "# Morning Scan — 2026年11月18日\n\n## Fed Context\n上次 FOMC 係 10 月 27-28 日（statement + press conference + implementation note 已於 11 月 9 日公佈），距今三週，市場已 price in。今個星期冇市場重磅 Fed 講話／政策變動，只有例行 regulatory 公告（payment services 定價、third-party risk guidance）。**下次 FOMC：12 月 8-9 日（SEP + press conference）**——呢個先係下一個 macro 引爆點，有 dot plot 同經濟預測，距離而家約三週。路徑係：11 月 25 日先過 Core PCE 嗰關，12 月 8-9 日先到 Fed 決策。喺呢段「Fed 真空期」，市場焦點由 macro 轉向 micro（業績）+ 地緣政治（Iran）+ AI 治理（NVDA）。\n\n## 📰 今日重點頭條（Raw Headlines Landscape）\n1. **NVDA 治理危機**（Seeking Alpha「The AI Trade Will Move On Without Jensen Huang」）：業績 beat + 指引上調到 75% 增長，但董事會否決黃仁勳回歸，請 Heidrick & Struggles 搵永久 CEO——「business fine、leadership broken」。\n2. **中國國安風險**：Trump 政府考慮強制美企披露中國 AI 使用（investing.com）；NVDA 中國收入存疑。\n3. **信貸市場 Fear Factor**：Davidson Kempner 警告信貸市場「Fear Factor」，債務 repricing（Bloomberg）。\n4. **Iran/Hormuz 升級**：Iran 聲稱無人機襲擊科威特美軍據點（ABC）；小型船隻貿易喺 Hormuz 興旺、Iran 針對超級油輪（OilPrice）；Trump 想撇甩伊朗戰爭但未完（WaPo）。\n5. **零售績優**：Target 五年最強銷售增長 + 上調指引（CNBC）；LOW/TJX 今日派成績表。\n6. **黃金白銀跌**：Silver -3.55% 到 $45.61（60 日新低）；Gold 4H 圖「bull trap」。\n7. **GTA VI 11/19 登場**：媒體好評（TTWO 但昨日 -4.47%）。\n8. **Anthropic IPO 訂價在即**：Hyperliquid 預期 +24%。\n9. **DealBook Summit 今日**：NYT/Dealbook 都預告。\n10. **德意志銀行洩密**：考驗 CEO Sewing 改革承諾（investing.com）。\n\n## 🌍 隔夜市場\n- SPY $732.44（-1.01%）、QQQ $656.95（-0.73%）、DIA $507.31（-1.62%）——三大指數全線收跌，且全部跌穿 50 日 MA（SPY 763.8 / QQQ 716.7 / DIA 518.9），技術上呈弱勢。\n- 板塊：Energy -3.07%（油價 + Iran）、Utilities -2.22%、Financial Services -1.74% 領跌；只有 Industrials +0.99%、Healthcare +0.13% 企穩。\n- 黃金、白銀、crypto 全線走弱——典型 risk-off 訊號。\n- 債市：20 年期拍賣今晚，30 年房貸利率 7.21% 高企，信貸壓力升。\n\n## 📈 昨日爆升／暴跌榜\n**爆升榜（微市值 speculative，冇主流跟進價值）：** SLS +156%（生命科學）、GP +86%、FRTT +78%、SMTK +66%、MPU +48%——全部係單事件／資金炒作，唔係 sector theme。\n\n**暴跌榜（同樣微市值崩盤）：** GDHG -82%、CUE -80%、RCAX -63%（2X Long RCAT 反向槓桿）、MDRN -50%、SCLX -49%。\n\n**活躍榜（先係真正重點）：** SHFS -36%、FRTT +78%、**NVDA -0.44%**、YFOR -30%、LICN -19%。\n\n**結論：** 爆升／暴跌榜幾乎全係 penny 噪音，冇 broad sector signal。真正嘅資金焦點喺 NVDA（成交量前列）+ 零售（TGT/LOW 業績）。FMP 榜單對今日部署冇實質幫助，重點係 NVDA 同零售。\n\n## 📡 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n- 08:00PM HKT：MBA 房貸利率（30 年 7.21%，高企）\n- **09:30PM HKT：Housing Starts（HIGH，prev 1.221M / fcast 1.245M）+ Building Permits Prel（HIGH，prev 1.4M / fcast 1.377M）**\n- 11:00PM HKT：Pending Home Sales（prev -7.3% MoM，fcast -2%）\n- 11:30PM HKT：EIA 原油庫存\n- 02:00AM HKT：20 年期債券拍賣\n- 今日係「房屋數據日」——房貸利率 7.2% 高位，Housing Starts/Permits 若偏弱會加深「高息壓樓市」憂慮。\n\n下週（11/25）先係重磅：Core PCE + GDP 2nd est + Durable Goods + Personal Income/Spending。\n\n## 🔥 Sector Watch\n- **Momentum：Industrials**（+0.99%，唯一企穩，可能係 defense/infrastructure 受 Iran 局勢帶動）。\n- **Risk：Energy**（-3.07%，油價受 Iran/Hormuz 影響但反而跌，顯示需求憂慮 > 供應憂慮）；Utilities -2.22%（債息敏感）。\n- **分化信號：** Tech -1.01% 但 NVDA 業績強——AI trade 內部分化，資金揀 fundamental 強嘅（NVDA）避開純估值。\n- **Rotation：** 資金由能源/公用/金融撤出，湧向工業/醫療，典型 risk-off 佈局。\n\n## 🎯 Pre-market Opportunities（Consolidate News Curator）\n- **NVDA（WATCH → 今日核心）**：業績 beat + 指引 75% 增長係真信號，但「黃仁勳落幕 + 中國國安調查」係兩大陰影。今日部署：睇開市後資金買「業績」定賣「治理」。企穩 $155 以上並反彈 = 短線 AI 有撐；跌破 $150 心理關口 = 治理風險主導。\n- **TTWO（ACTION，但注意昨日 -4.47%）**：GTA VI 11/19 登場、媒體好評，但股價昨日反跌 4.5%——可能係「sell the news」提前消化，或 macro risk-off 拖累。今日部署：睇 launch 玩家數據，若超預期，回調係買點。\n- **TGT（ACTION）**：Q3 五年最強銷售增長 + 上調指引，今日 BMO 派成績表。部署：業績確認會帶動零售板塊（TGT/LOW/WMT）；若衝高回落，反映「好消息已 price in」。\n- **TCEHY（WATCH）**：Q3 增長放緩但雲業務受惠 AI——中國本地雲喺 NVDA 供應鏈受限下反而受益。\n- **Anthropic IPO（WATCH）**：訂價在即、Hyperliquid 預期 +24%——AI 新股熱度測試。\n\n## 📅 未來一個月業績重點\n**今週（零售週）：**\n- 11/18：PANW（$259B AMC，網絡安全）、TJX（$144B BMO）、LOW（$126B BMO）、TGT（$73B BMO）\n- 11/19：WMT（$1.0T BMO，零售巨頭）、BABA（$220B）、PDD（$111B）、INTU（$92B AMC）、ROST、NTES\n- 11/23：HPE\n- 11/24：DELL（$204B AMC，AI server 需求）、ADI、MDT、ADSK\n- 11/25：DE（$176B）\n\n**下週：**\n- 12/1：CRWD（$229B）、MRVL（$127B，🎯 tracked，AI 芯片）\n- 12/2：CRM（$177B）、SNOW、BMO（加拿大銀行）\n\n**重點：** WMT/BABA/PDD 反映美中消費；DELL/MRVL 反映 AI infra 需求；CRWD 反映網絡安全支出。\n\n## 📋 Today's Agenda\n- 今日催化：Housing Starts/Permits（9:30PM HKT）、TGT/LOW/TJX 業績（BMO）、PANW（AMC）、20 年債拍賣。\n- 本週催化：WMT 業績（11/19）、GTA VI launch（11/19）、DealBook Summit。\n- Key levels：SPY $727（昨日低點，跌破 = 進一步回調）／$740（50 日 MA 壓力位）；NVDA $150 心理關口。\n\n## 💡 My Take\n整體 bias：**Neutral-Bearish（短期）**。三大指數全線跌穿 50 日 MA，能源/金融/公用領跌，信貸市場 Fear Factor 升溫——risk-off 格局明顯。但 AI 板塊有 NVDA 業績支撐，唔係全面崩盤。\n\n今日最緊要睇實三樣：\n1. **NVDA 開市反應**——「業績好但治理壞」點定價，係今日 AI trade 嘅晴雨表。\n2. **TGT/LOW 零售業績**——零售績優 vs 宏觀悲觀論（信貸 fear + 通脹）嘅背離，若零售強但大盤唔跟，確認「consumer fine、market worried」嘅分化。\n3. **房屋數據**——若 Starts/Permits 偏弱，加深高息壓樓市憂慮，債息 + 房產相關板塊受壓。\n\n改變 thesis 嘅 overnight signal：NVDA 治理危機係新風險（之前冇計入），若中國國安調查升級 cut NVDA 中國收入，AI trade 中線邏輯受損。",
+      "risks": [
+        "中國國安調查升級 cut NVDA 中國收入 → AI trade 中線受損",
+        "信貸 repricing + 高房貸利率 → risk-off 蔓延",
+        "Iran/Hormuz 局勢再升級 → 油價/避險資產異動"
+      ],
+      "my_take": "Risk-off 分化市：三大指數跌穿 50 日 MA，能源/金融/公用領跌、信貸 Fear Factor 升溫，但 NVDA 業績強（指引 75% 增長）支撐 AI。核心矛盾係 NVDA「business fine、leadership broken」+ 中國國安風險。今日睇實 NVDA 開市定價、TGT/LOW 零售業績 vs 宏觀悲觀嘅背離、房屋數據。"
     }
   ],
   "news_curator": [
