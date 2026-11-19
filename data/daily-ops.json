@@ -4749,6 +4749,67 @@
         "Iran/Hormuz 局勢再升級 → 油價/避險資產異動"
       ],
       "my_take": "Risk-off 分化市：三大指數跌穿 50 日 MA，能源/金融/公用領跌、信貸 Fear Factor 升溫，但 NVDA 業績強（指引 75% 增長）支撐 AI。核心矛盾係 NVDA「business fine、leadership broken」+ 中國國安風險。今日睇實 NVDA 開市定價、TGT/LOW 零售業績 vs 宏觀悲觀嘅背離、房屋數據。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-19",
+      "time": "08:02 HKT",
+      "status": "success",
+      "market_direction": "鷹派 Fed 會議紀錄主導 — 美元創 2024 以來最大升浪，S&P 失守關鍵支持跌至 7 月低位，黃金/BTC/銀全線受壓。Anthropic 史上最大 IPO 今日登場。",
+      "headlines": [
+        "[NEW] ACTION: ANT/AMZN/GOOGL — Anthropic 史上最大 IPO 今日登場",
+        "[NEW] ACTION: PANW — Q1 業績 beat，AI 網絡安全定價權確立",
+        "[NEW] WATCH: Fed 會議紀錄鷹派，12 月加息預期升溫",
+        "[RECENT] WATCH: NVDA 爆數但股價貼 52 週低，估值十年最低"
+      ],
+      "opportunities": [
+        "ANT/AMZN/GOOGL: Anthropic IPO 定價 $83、$81B 史上最大，Amazon+Google 持股近 30%",
+        "PANW: AI 攻防升級係結構性 trend，Q1 beat 確立定價權",
+        "MU: Jensen 事件係正面，半導體資金輪動候選",
+        "NVDA: 估值十年最低 + Ackman 轟董事會，contrarian 修復空間"
+      ],
+      "analysis": "Fed 會議紀錄鷹派（12 月或加息 >25bp）壓低風險資產，美元 19 個月新高，黃金失守 $3,750、BTC 跌破 $63K。但 AI 主線未斷：Anthropic 史上最大 IPO 今日上市，PANW 業績 beat 顯示 AI 網絡安全需求實淨，NVDA 爆數但股價貼 52 週低（治理爭議蓋過基本面）。",
+      "risks": [
+        "Fed 12 月加息 shock 持續壓制風險資產",
+        "NVDA 領導層真空 + 中國業務風險未解",
+        "Anthropic IPO 若破發，AI 板塊估值重估",
+        "BTC $60K 若失守，或滑向 $50K"
+      ],
+      "my_take": "市場而家係「Fed 加息 shock」同「AI 估值重估」兩條線打架。Fed minutes 鷹派壓低所有 risk asset，但 Anthropic 史上最大 IPO 今日登場係 AI trade 終極試金石 — 首日表現強會證明 AI 需求實淨，對 NVDA/MSFT 估值有拉動；破發則成個 AI 板塊要重估。",
+      "key_takeaways": [
+        "Fed 會議紀錄鷹派，12 月加息 >25bp 在望，美元 2024 以來最大升浪",
+        "Anthropic IPO 定價 $83、$81B 史上最大，今日(11/19)上市",
+        "NVDA 爆數但貼 52 週低，估值十年最低，治理爭議主導",
+        "黃金失守 $3,750、BTC 跌破 $63K，避險邏輯失效"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-19",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "Fed 鷹派 regime shift + AI/價值分化",
+      "headlines": [
+        "FOMC 會議紀錄：12 月加息、甚至更大（美元 19 個月新高）",
+        "Anthropic 史上最大 IPO 定價 $83/股，今日上市",
+        "PANW Q1 beat +9.9%，AI 網絡安全定價權",
+        "NVDA 貼 52 週低、估值十年最平但 leadership vacuum",
+        "黃金跌破 $3,750、BTC 跌破 $63K"
+      ],
+      "opportunities": [
+        "Anthropic IPO 首日 — AI trade 終極試金石（AMZN/GOOGL proxy）",
+        "PANW: AI 網絡安全定價權，但估值唔平要謹慎",
+        "TTWO: GTA VI 今日 launch 媒體好評",
+        "MU: 半導體輪動邏輯未兌現，等 signal"
+      ],
+      "analysis": "## 📰 今日重頭條（Raw Headlines）\n\n1. **[Fed] FOMC 會議紀錄（Oct 27-28）**：官員預期 12 月加息，上次會議有分歧、部分人傾向更大幅度加息 → 美元 19 個月新高、S&P 失守關鍵支持（NC ✅ 已捕捉「12 月加息預期升溫」）\n2. **[FMP] Anthropic 史上最大 IPO**：定價 $83/股、$81B，Amazon+Google 持股近 30%，今日(11/19)上市（NC ✅ ACTION）\n3. **[FMP] PANW Q1 業績 beat**：AI 網絡安全定價權確立，股價 +9.9%（NC ✅ ACTION）\n4. **[FMP] Musk：逼走 Jensen Huang 等於「踢走 Michael Jordan」** — NVDA leadership 爭議持續發酵（NC ✅ WATCH）\n5. **[FMP] NVDA「十年最平」**：Q3 beat + 指引 75%，但貼 52 週低，Ackman 轟董事會恐慌（NC ✅ WATCH）\n6. **[Kitco] 黃金跌破 $3,750、白銀大跌** — 鷹派 Fed 壓制貴金屬（NC ✅ WATCH）\n7. **[FMP] BTC 跌破 $63K**，$60K 係臨界點；Citi 下調 BTC/ETH 預測（NC ✅ WATCH）\n8. **[FMP] 10 年期美債 5.07%** — 鷹派重定價已大幅反映（raw news 先見到，NC 冇 direct cover）\n9. **[FMP] Regeneron 藥物 Livsayis 獲 FDA 批准** — 首個 gMG siRNA 療法（raw news 先見到，NC 冇 cover）\n10. **[FMP] GTA VI 今日登場** — TTWO 媒體好評（NC #1 ✅ ACTION）\n\n## 📊 Market Recap\n\n- **SPY -0.31%**（5日 -3.56%）、**QQQ +0.39%**（5日 -4.16%）、**DIA -1.10%**（5日 -3.97%）、**IWM +0.40%**（5日 -2.99%）\n- **明顯分化**：科技/AI 頂住（QQQ +0.39%、XLK +0.34%），價值/週期股領跌（DIA -1.10%、XLF -1.14%、XLE -3.27%、XLV -2.20%）\n- **VIX 24.56**，今日 -3.53% 但 5 日 +31% — 仍高企但未恐慌\n- **美元 19 個月新高**（+0.31%），10Y 美債 5.07%（今日微跌，鷹派已大幅反映）\n- 呢個唔係全面 risk-off，而係 **rotation**：資金由 rate-sensitive 價值/週期股 + 貴金屬/crypto 流出，流入有 idiosyncratic catalyst 嘅 AI/科技\n\n## 🔥 Notable Movers\n\n- **PANW +9.90%** — Q1 beat + AI 網絡安全定價權（真 catalyst，值得跟進）\n- **TTWO +6.22%** — GTA VI 今日 launch，媒體好評（catalyst 就係今日）\n- **TGT +4.01%** — Q3 五年最強銷售（零售強 vs 宏觀悲觀背離）\n- **AMZN +3.82%** — Anthropic IPO 持股受益（IPO 前溢價）\n- **GOOGL +0.80%** — 同樣持股，幅度細，市場對 Anthropic 溢價打折\n- **NVDA -2.89%** — Q3 beat 但貼 52 週低，leadership vacuum + 中國調查壓制（估值十年最平但冇人敢接刀）\n- **SLV -4.55%、GLD -3.20%、BTC -3.21%** — 鷹派 Fed 重定價，貴金屬/crypto 全線受壓\n- **XLE -3.27%** — 油價續跌（Iran/Hormuz 風險溢價消退 + 需求憂慮）\n\n## 📰 News That Mattered\n\n今日 confirmed catalyst 係 **Fed 會議紀錄**。October FOMC minutes 揭示咗一個 regime shift：\n- 官員預期 **12 月加息**（唔係減息）\n- 上次會議有 dissension，部分人傾向 **更大幅度加息**（Waller「shock」警告令市場諗 50bps）\n- 擔心 **AI 對通脹嘅影響**\n\n呢個直接解釋咗：美元 19 個月新高、黃金/BTC/白銀被砸、Dow 領跌。另外「Warsh 更接近 Waller 政策立場」— Warsh 偏鷹，進一步確認 hawkish regime。\n\n**NC calls 回顧（命中率好高）：**\n- ✅ Fed minutes 12 月加息 → 美元/貴金屬/BTC 全中\n- ✅ PANW Q1 beat → +9.9% 大中\n- ✅ AMZN/GOOGL Anthropic IPO → AMZN +3.82% 中、GOOGL 只 +0.80% 半中\n- ✅ NVDA 貼 52 週低 → -2.89% 中\n- ✅ 貴金屬跌破 $3,750 → 中\n- ❌ MU「Jensen 事件正面」→ MU 今日 -1.00%，半導體輪動未兌現\n\n**NC 冇 cover 到嘅 raw news：**\n- REGN 藥物 FDA 批准（首個 gMG siRNA）\n- 10Y 美債 5.07% 鷹派重定價已反映（yield 今日微跌）\n- Thorne：「Fed Rate Hike Talk 係 irresponsible、PANW growth too slow」— 呢個係 PANW 牛 case 嘅 dissenting view，值得留意\n\n## 🎯 Opportunities Carry Forward\n\n- **Anthropic IPO 首日（今日 11/19）** — AI trade 嘅「終極試金石」。首日強 = AI 需求實淨，拉動 NVDA/MSFT/GOOGL/AMZN；破發 = 全板塊估值重估。AMZN（持股最大）係最純 proxy\n- **PANW** — Q1 beat 確立 AI 網絡安全定價權，但 Thorne 話 growth too slow + 股價 +9.9% 後估值唔平，追高要謹慎。睇首日後資金持續性\n- **TTWO** — GTA VI 今日 launch，媒體好評 + 股價已 +6.22%，睇 launch 首日銷量/玩家數作 follow-through\n- **MU / 半導體輪動** — 「Jensen 事件正面」今日未兌現，但 NVDA 資金輪動邏輯仍成立，等明確 signal\n\n## ⚠️ Risks / Watchlist（今晚）\n\n今晚 events（from macro_calendar.json）：\n- **21:30 HKT — Initial Jobless Claims**（MEDIUM）：鷹派背景下若就業強勁 → 支持加息 → 美元再上、risk asset 再壓\n- **21:30 HKT — Philadelphia Fed Manufacturing Index**（MEDIUM）\n- **02:00 HKT — 10-Year TIPS Auction**（MEDIUM）：睇 demand，鷹派下需求弱 → 實質利率上 → 黃金/BTC 再壓\n\nOvernight risk：\n- **Anthropic IPO 破發** — 最大 risk。首日破發 → AI 板塊估值重估，NVDA/MSFT/AMZN/GOOGL 連鎖下跌\n- **NVDA China 國安調查升級** — cut 中國收入 → AI trade 中線受損\n- **Fed 鷹派 follow-through** — 12 月 50bps 預期升溫 → 全面 risk-off\n- **貴金屬/crypto** — 黃金失守 $3,750、BTC 失守 $63K，$60K 失守 → crypto 加速下跌風險\n\n## 💡 My Take\n\n今日核心唔係「跌市」，而係 **Fed 由減息轉加息嘅 regime shift 開始被定價**。鷹派會議紀錄（12 月加息、甚至更大）推高美元、砸低貴金屬/crypto、壓低價值/週期股，但 AI/科技靠 Anthropic IPO + PANW beat 頂住，形成「股/債貴金屬背離」。明日最關鍵係 Anthropic 首日表現 — 佢係 AI 需求嘅終極驗證，強則 AI trade 反彈，破發則全板塊重估。",
+      "risks": [
+        "Anthropic IPO 破發 → AI 板塊估值重估",
+        "NVDA China 國安調查升級",
+        "Fed 12 月 50bps 預期升溫 → 全面 risk-off",
+        "BTC 失守 $60K → crypto 加速下跌"
+      ],
+      "my_take": "Fed regime shift（減息→加息）開始被定價：美元 19 個月新高、黃金/BTC/白銀被砸、Dow 領跌，但 AI 靠 Anthropic IPO + PANW beat 頂住形成分化。明日最關鍵係 Anthropic IPO 首日 — 終極試金石，強則 AI trade 反彈、破發則全板塊重估。Bias：Neutral 偏 AI，等首日結果 + Jobless Claims 出咗先定方向。"
     }
   ],
   "news_curator": [
