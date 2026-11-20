@@ -1,4 +1,75 @@
 {
-  "decisions": [],
-  "last_synced": "2026-11-14T12:10:11.327528+08:00"
+  "decisions": [
+    {
+      "ticker": "LMT",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "台灣公布 17% 預算加碼升級 F-16V 機隊，國防主題獨立催化，唔受 AI/利率主軸拖累，多次大跌市相對抗跌。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "PANW",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "Q1 業績 beat + open-weight 模型保安敘事，紅市中 +6.4% 係唯一相對強勢。市場開始獎勵「真 AI 盈利」（保安 revenue 綁 open-weight model，唔係訓練 capex）。",
+      "source": "🎯 機會"
+    },
+    {
+      "ticker": "AMD",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "沽空報告指涉中國 exposure -7.7% 插至 $489，Commerce 收緊 AI 晶片出口規則 -4%，疊加 semi 複合體 de-rate，冇 near-term catalyst 反轉。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "Q3 營收翻倍 $115.8B + 指引 $130B 係真信號，但董事會否決 Huang 回歸、請 Heidrick & Struggles 搵永久 CEO、California AG subpoena + Megaspeed 中國軍方晶片調查，六日蒸發 $669B、貼 52 週低 $145.71。基本面勁 vs 治理真空 + 中國風險，等 capitulation flush 先落判斷。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "ANT",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "史上最大 IPO（$81B / $83 定價 / $1T+ 估值）首日 +17% 收 $97，但 high-open-low-close、盤前 -6%，救唔到 AI trade。市場正測試「AI 泡沫頂部」vs「新牛市起點」，首日 pop 冇 follow-through 係警示。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "TSM",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "TSMC 避開美國出口限制（台灣 -6.2%、1991 年以來最差一週後），foundry 主導地位 intact；但中國晶片收入風險 + 亞洲 AI rout 係 downside。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "AMZN",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "Anthropic 直接受益者（$18B 持股 IPO 價已值 $159B），但 Vulcan 火箭失敗 40 顆 Kuiper 衛星全毀 + AI capex 見頂疑慮係 downside。",
+      "source": "📡 值得關注"
+    },
+    {
+      "ticker": "MSTR",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "Strategy 比特幣策略解體、或被迫沽 BTC；BTC 失守 $60K，BlackRock IBIT 破紀錄 $541M 流出，Citi 下調 BTC/ETH 預測。Fed 鷹派 + 流動性收縮下冇 near-term catalyst。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "GLD",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "金價 14 個月低（$3,500 關口受考驗），實質利率上行直接打擊無息資產，避險邏輯短期失效（rate-driven flush 而非 panic bid）。Contrarian：央行買金 + 2027 $5,000 目標未變，但屬長線 thesis 非短期 catalyst。",
+      "source": "⚠️ 風險"
+    },
+    {
+      "ticker": "RTX",
+      "status": "deep_dive",
+      "updated_at": "2026-11-20",
+      "reasoning": "Raytheon 授 Ursa Major/Avio 做 Tomahawk 第二供應商，反映國防供應鏈去瓶頸（de-bottlenecking）係結構性主題，唔係伊朗/烏克蘭 headline 驅動（油價冇反應已證明）。",
+      "source": "🎯 機會"
+    }
+  ],
+  "last_synced": "2026-11-21T06:02:18.731705+08:00"
 }
