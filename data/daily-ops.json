@@ -4835,6 +4835,69 @@
         "地緣：Iran 反擊 + 中美晶片管制升級"
       ],
       "my_take": "Fed 紀要鷹派(price in 加息)+ 警示 AI 債務風險，撞正 Anthropic $1T IPO。ANT 首日 price action 係 AI 泡沫 litmus test——high-open-low-close 即見頂第一支煙，強勢帶動 AMZN/GOOGL 即 trade 未死。今日 WMT 業績係消費風向標。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-20",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "AI trade 持續 unwinding — NVDA 六日 -$669B、AMD 沽空報告 -7.7%、S&P 六連跌。市場區分 AI 應用層 vs AI capex 賭注。",
+      "headlines": [
+        "[RECENT] WATCH: NVDA — California AG subpoena + Megaspeed 中國軍方調查，六日 -$669B",
+        "[RECENT] WATCH: AMD — 沽空報告中國 exposure，-7.7%",
+        "[RECENT] WATCH: ANT — IPO 首日 +17% 但救唔到 AI trade",
+        "[RECENT] ACTION: PANW — 業績 beat + open-weight 保安，紅市 +6.4%",
+        "[RECENT] WATCH: UNH — Medicare 欺詐打擊 -5.5%",
+        "[RECENT] WATCH: JPM — 客戶資料外洩",
+        "[RECENT] WATCH: INTU — 指引疲弱 + 出售 Mailchimp",
+        "[RECENT] NOTE: 金銀續跌，避險邏輯失效"
+      ],
+      "opportunities": [
+        "PANW: 紅市中唯一相對強勢，業績 beat + open-weight 模型保安定位區別於 AI capex trade"
+      ],
+      "analysis": "市場開始區分 AI 應用層（PANW +6%）同 AI infra（NVDA/AMD/CRWV 齊跌）。Anthropic 紀錄 IPO 都救唔到 AI trade，反映投資者質疑 capex 周期。",
+      "risks": [
+        "NVDA 貼 52 週低，unwind 未完成",
+        "AMD 沽空報告中國 exposure",
+        "UNH 政策打擊",
+        "金銀續跌，避險失效"
+      ],
+      "my_take": "等 AI capitulation flush 先諗反彈。金銀續跌確認 real rates 主導，唔好當避險。",
+      "key_takeaways": [
+        "AI trade unwind 未停 — NVDA 貼 52 週低、AMD -7.7%、S&P 六連跌",
+        "市場區分 AI 應用層 vs infra — PANW 紅市 +6%，Anthropic IPO 都救唔到 capex 股",
+        "避險邏輯失效 — 金價 35% off top 照跌，real rates 主導",
+        "監管風險升級 — NVDA China subpoena、UNH Medicare 欺詐打擊"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-20",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "Bearish-to-neutral — AI trade 進入 unwind，等 capitulation flush",
+      "headlines": [
+        "Anthropic IPO 首日 +17% 收 $97 / $1.8T 市值，但高開低走救唔到 AI trade",
+        "NVDA -3.3% 貼 52 週低 $145.71，六連跌蒸發 $669B（CA AG subpoena + China chip probe）",
+        "AMD -7.7%，沽空報告指涉中國 exposure",
+        "PANW +6.4% 唯一相對強勢，AI 應用層 vs infra 分叉",
+        "UNH -5.5%，政府打擊 Medicare Advantage 欺詐",
+        "三大指數全線 -2%，VIX +15.8% 到 28.44"
+      ],
+      "opportunities": [
+        "PANW: AI 應用層 vs infra 輪動嘅 anchor，唯一相對強勢，睇可否持續",
+        "XLE/電力: AI data center 電力需求，紅市唯一接近持平嘅硬需求故事",
+        "AI 硬件: NVDA/AMD/SMH 接近 capitulation，等 flush 先 bottom-fish",
+        "下週 DELL/ADI/MRVL 業績 = AI 硬件需求試金石"
+      ],
+      "analysis": "🌆 Evening Review — 2026-11-20 (Fri)\n\n## 一、Post-mortem：Morning Scan 個 thesis 中咗幾多？\n\n尋晚(11/19) Morning Scan 個核心判語係：「ANT 首日 price action 係 AI 泡沫 litmus test —— high-open-low-close 即見頂第一支煙，強勢帶動 AMZN/GOOGL 即 trade 未死。」\n\n結果今日呢個 litmus test 出咗嚟，而且係最壞嗰種：\n\n- **ANT 首日 $83 定價 → 開 $111.50（+34%）→ 高見 $115.10 → 收 $97.17（+17%）**，市值 $1.8T，晉身全球第 7 大上市公司。但個 price action 係 textbook high-open-low-close：開高 +34% 一路 fade 到 +17%，盤中最低 $92.72。CNBC 條 headline 直白到：「Anthropic was supposed to save the AI trade. What went wrong?」\n- 同時 **NVDA -3.30% 收 $145.98，貼 52 週低 $145.71**，六連跌累計蒸發 $669B。尋晚個「若龍頭見頂、板塊缺乏新買盤」完全應驗。\n- 三大指數全線 -2% 級別（SPY -1.96% / QQQ -2.19% / DIA -2.18% / IWM -2.18%），S&P 六連跌，VIX +15.8% 爆到 28.44（盤中高 29.13）。\n\nMorning Scan 個「見頂第一支煙」判定 = **中咗**。ANT 個 pop 係散戶/IPO 情緒，唔係 AI trade 復甦嘅信號。\n\nNews Curator 今日表現亦係全中：唯一 ACTION call **PANW +6.41%**，係紅市唯一綠燈；所有 WATCH（NVDA/AMD/ANT/UNH/INTU）全部照單全收。NC 對「AI 應用層 vs AI infra」嘅區分今日被市場完全確認。\n\n## 二、Market Recap（11/19 收市）\n\n| 指標 | 收市 | 日變 | 備註 |\n|---|---|---|---|\n| SPY | 715.87 | -1.96% | 六連跌，低於 200 日均線 |\n| QQQ | 645.04 | -2.19% | 回測四月低位 |\n| DIA | 490.79 | -2.18% | Dow 重挫，破 $500 |\n| IWM | 264.22 | -2.18% | 小盤無避風港 |\n| VIX | 28.44 | +15.8% | 盤中高 29.13，恐慌升溫 |\n\nBreadth 訊號係 distribution：SPY volume 76.1M（前日 51.8M），放量下跌。冇一個 sector 逆市企穩，全部收紅。\n\n**Sector 表現（最差 → 最好）：**\n- 金礦 GDX **-3.77%**（最差）、銀 SLV -2.60% —— 避險邏輯徹底失效，real rates 主導\n- 消費可選 XLY **-2.79%**、半導體 SMH -2.62% / SOXX -2.75% —— AI 硬件 + 消費雙殺\n- 醫療 XLV -2.05%、材料 XLB -2.06%、工業 XLI -2.00%、科技 XLK -1.90%\n- 黃金 GLD -1.76%、REITs XLRE -1.70%、金融 XLF -1.49%\n- 最抗跌：必需消費 XLP -1.45%、公用 XLU -1.24%、能源 XLE **-0.65%**（唯一接近持平）\n\n解讀：呢個係 classic risk-off rotation，資金由高 beta（半導體/消費/金礦）撤向防守（公用/必需消費/能源）。能源抗跌仲有個獨特催化 —— AI data center 電力需求（「5 隻能源股受惠 Anthropic $1.5T debut」）。\n\n## 三、Notable Movers\n\n**🎯 綠（有 catalyst）：**\n- **PANW +6.41% 收 $361.73** —— 業績 beat + open-weight 模型保安敘事。市場開始獎勵「真 AI 盈利」（保安 revenue 綁 open-weight model，唔係訓練 capex）。係紅市唯一相對強勢股。\n- **ANT（IPO）+17% 收 $97 / 市值 $1.8T** —— 但高開低走，high-open-low-close，pop 冇 follow-through。\n\n**⚠️ 紅（有 catalyst）：**\n- **AMD -7.73% 收 $489.19** —— 沽空報告指涉中國 exposure，盤中低見 $470.56。\n- **UNH -5.55% 收 $330.48** —— 政府信號打擊 Medicare Advantage 欺詐，兩日 -19%。\n- **NVDA -3.30% 收 $145.98** —— California AG subpoena + Megaspeed 中國軍方晶片調查 + Alibaba 間諜訴訟，貼 52 週低。\n- **INTU -1.03%** —— 指引疲弱 + 出售 Mailchimp，軟件股憂慮蔓延。\n\n冇 common sector theme 嘅 gainer，除咗 PANW 全部係下跌。呢個唔係健康 rotation，係 risk-off 全面撤退。\n\n## 四、News That Mattered\n\n1. **Anthropic IPO 完結但救唔到 AI trade**（confirm catalyst）—— 史上最大 IPO，$1.8T 市值，但華爾街照 sell off。CNBC：「Anthropic was supposed to save the AI trade.」\n2. **NVDA California AG subpoena + China chip diversion probe**（confirm）—— 監管 + 地緣雙重壓。\n3. **AMD 沽空報告涉中國 exposure**（confirm）—— 半導體中國曝險 narrative 擴散。\n4. **UNH Medicare Advantage 欺詐打擊**（confirm）—— 醫療保健政策風險。\n5. **Alibaba 涉 NVDA 間諜案股東訴訟**（new overnight）—— BABA 被指隱瞞同 NVDA 間諜案被告嘅關係，中美地緣 legal risk 升級。\n6. **Consumers stock doomsday pantries as tech outages cause jitters**（sentiment）—— 消費恐慌情緒嘅 anecdotal signal。\n7. **Elastic Q2 業績：record margins amid AI growth，但股價照跌** —— 又一個「AI growth 唔再帶動股價」嘅確認。\n\n## 五、Opportunities Carry Forward\n\n1. **「AI 應用層 vs AI infra」輪動（PANW 做 anchor）** —— 今日市場第一次明確區分「真 AI 盈利」同「capex 賭注」。PANW 係呢個 trade 嘅領先指標。carry forward：睇實 PANW 係咪能持續相對強勢，如果續強，同類 open-weight / application-layer 保安/軟件股會跟。\n2. **能源/電力（AI data center 需求）** —— XLE 今日 -0.65% 唯一接近持平，Anthropic $1.5T 估值得益者之一係電力。呢個係 AI trade unwinding 中少數「唔使靠估值撐」嘅硬需求故事。\n3. **AI 硬件 capitulation flush** —— NVDA 貼 52 週低、AMD 沽空報告、SMH -2.62%。unwind 未完成，但正接近 capitulation。等 flush（VIX 上 30 / NVDA 放量急跌一日）先諗 bottom-fish。\n4. **下週業績 = AI 硬件需求試金石** —— Mon 11/23 HPE、Tue 11/24 DELL/ADI/MDT/ADSK、Wed 11/25 DE。DELL/ADI/MRVL 業績直接驗證 Fed 紀要個「AI 硬件 revenue 失望」警告係咪坐實。\n\n## 六、Risks / Watchlist\n\n**今晚（macro_calendar.json）：**\n- 11:00PM HKT — Michigan Consumer Sentiment Final（MEDIUM）—— 消費信心數據，直接測試「doomsday pantry」情緒。\n- 03:00AM HKT — Baker Hughes Gas Rig Count（MEDIUM）—— 低影響。\n\n**明日（11/21）冇 HIGH 級 USD 事件** —— 週五通常低成交，但 VIX 28 代表 overnight gap 風險高。\n\n**持續風險：**\n- NVDA/AMD 中國曝險 narrative —— 監管 + 地緣 + 法律三重壓，唔似一日內消化。\n- 地緣：Trump-Xi-Putin 峰會後 China chip 管制升級、Iran 波斯灣緊張。\n- 感恩節週（下週四休市）thin liquidity + Nov 25 Core PCE MoM + GDP Q3 二讀 + Durable Goods 數據潮。\n- 下次 FOMC 12月8-9日（有 dot plot/SEP），市場已 price in 加息 —— 鷹派 surprise 空間存在。\n\n## 七、My Take\n\n**今日一句總結：** Anthropic 史上最大 IPO 都救唔到 AI trade，Morning Scan 個「high-open-low-close = 見頂第一支煙」判定完全應驗 —— AI 泡沫正式進入 unwind 階段。\n\n**最重要 takeaway：** 市場終於開始區分「賣 AI 鏟子嘅」（NVDA/AMD/半導體，capex 賭注）同「真係賺到 AI 錢嘅」（PANW，application layer）。呢個區分會主導未來幾個月嘅資金流向。\n\n**明日 bias：** Bearish-to-neutral。週五冇 HIGH 事件，但 VIX 28 + 感恩節前 thin liquidity，唔好追反彈。AI 硬件仲差一個 capitulation flush。等 DELL/ADI/MRVL 下週業績確認 AI 硬件需求真偽，先有下一條大方向。\n",
+      "risks": [
+        "今晚 11PM Michigan Consumer Sentiment Final（消費信心 vs doomsday pantry 情緒）",
+        "NVDA/AMD 中國曝險監管 + 地緣 + 法律三重壓，未消化",
+        "感恩節週 thin liquidity + Nov 25 Core PCE/GDP 數據潮",
+        "VIX 28.44 未到 capitulation，overnight gap 風險高"
+      ],
+      "my_take": "Anthropic 史上最大 IPO 高開低走（開 +34% 收 +17%）都救唔到 AI trade，Morning Scan 個「high-open-low-close = 見頂第一支煙」判定應驗。市場正式區分「AI 應用層」（PANW +6.41%）同「AI infra capex」（NVDA 貼 52 週低、AMD -7.7%）。VIX 28.44 未到 capitulation，明日 bearish-to-neutral，等 AI 硬件 flush 同下週 DELL/ADI/MRVL 業績先有下一條大方向。"
     }
   ],
   "news_curator": [
