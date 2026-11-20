@@ -4837,40 +4837,6 @@
       "my_take": "Fed 紀要鷹派(price in 加息)+ 警示 AI 債務風險，撞正 Anthropic $1T IPO。ANT 首日 price action 係 AI 泡沫 litmus test——high-open-low-close 即見頂第一支煙，強勢帶動 AMZN/GOOGL 即 trade 未死。今日 WMT 業績係消費風向標。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-20",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "AI trade 持續 unwinding — NVDA 六日 -$669B、AMD 沽空報告 -7.7%、S&P 六連跌。市場區分 AI 應用層 vs AI capex 賭注。",
-      "headlines": [
-        "[RECENT] WATCH: NVDA — California AG subpoena + Megaspeed 中國軍方調查，六日 -$669B",
-        "[RECENT] WATCH: AMD — 沽空報告中國 exposure，-7.7%",
-        "[RECENT] WATCH: ANT — IPO 首日 +17% 但救唔到 AI trade",
-        "[RECENT] ACTION: PANW — 業績 beat + open-weight 保安，紅市 +6.4%",
-        "[RECENT] WATCH: UNH — Medicare 欺詐打擊 -5.5%",
-        "[RECENT] WATCH: JPM — 客戶資料外洩",
-        "[RECENT] WATCH: INTU — 指引疲弱 + 出售 Mailchimp",
-        "[RECENT] NOTE: 金銀續跌，避險邏輯失效"
-      ],
-      "opportunities": [
-        "PANW: 紅市中唯一相對強勢，業績 beat + open-weight 模型保安定位區別於 AI capex trade"
-      ],
-      "analysis": "市場開始區分 AI 應用層（PANW +6%）同 AI infra（NVDA/AMD/CRWV 齊跌）。Anthropic 紀錄 IPO 都救唔到 AI trade，反映投資者質疑 capex 周期。",
-      "risks": [
-        "NVDA 貼 52 週低，unwind 未完成",
-        "AMD 沽空報告中國 exposure",
-        "UNH 政策打擊",
-        "金銀續跌，避險失效"
-      ],
-      "my_take": "等 AI capitulation flush 先諗反彈。金銀續跌確認 real rates 主導，唔好當避險。",
-      "key_takeaways": [
-        "AI trade unwind 未停 — NVDA 貼 52 週低、AMD -7.7%、S&P 六連跌",
-        "市場區分 AI 應用層 vs infra — PANW 紅市 +6%，Anthropic IPO 都救唔到 capex 股",
-        "避險邏輯失效 — 金價 35% off top 照跌，real rates 主導",
-        "監管風險升級 — NVDA China subpoena、UNH Medicare 欺詐打擊"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-20",
       "time": "08:32 HKT",
@@ -4898,6 +4864,62 @@
         "VIX 28.44 未到 capitulation，overnight gap 風險高"
       ],
       "my_take": "Anthropic 史上最大 IPO 高開低走（開 +34% 收 +17%）都救唔到 AI trade，Morning Scan 個「high-open-low-close = 見頂第一支煙」判定應驗。市場正式區分「AI 應用層」（PANW +6.41%）同「AI infra capex」（NVDA 貼 52 週低、AMD -7.7%）。VIX 28.44 未到 capitulation，明日 bearish-to-neutral，等 AI 硬件 flush 同下週 DELL/ADI/MRVL 業績先有下一條大方向。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-20",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "AI rout 擴散亞洲（台灣 -6.2%），鷹派 Fed 下避險資產（金/銀/比特幣）同步崩跌 — 全面風險去槓桿",
+      "headlines": [
+        "[NEW] ⚠️ MACRO: 亞洲血洗 台灣-6.2% 1991來最差週",
+        "[RECENT] ⚠️ MACRO: Fed紀錄 部分官員力主加息",
+        "[RECENT] ⚠️ GLD: 金價14個月低 $3,500受考驗",
+        "[NEW] ⚠️ AMD: Commerce收緊晶片出口 -4%",
+        "[RECENT] ⚠️ ANT: IPO續報 盤前-6%"
+      ],
+      "opportunities": [
+        "RTX: 國防供應鏈第二供應商(結構性backlog)",
+        "GLD: 結構性多頭未死(UBS $5,000/GS $4,650)但唔好接刀",
+        "BA: 董事逆市買入 insider訊號"
+      ],
+      "analysis": "市場同時 price 鷹派 Fed（實際利率升）＋ AI 泡沫去槓桿。避險資產同風險資產一齊跌，係流動性收縮而非板塊輪動。亞洲股市（台灣-6.2%/KOSPI-5.2%）跟隨美股 AI rout 血洗。黃金/白銀/比特幣同步崩跌，避險邏輯短期失效。伊朗/烏克蘭地緣 headlines 冇推升油價（WTI 60日低），證明供應過剩主導。",
+      "risks": [
+        "Fed 加息預期升溫 → 實際利率升壓制一切 risk assets",
+        "AI 出口管制訊號矛盾（批准售華 vs 收緊規則）",
+        "半導體/科技股 capitulation 未確認，唔好接刀"
+      ],
+      "my_take": "流動性收縮期：避險+風險資產齊跌。Contrarian：①黃金跌勢係 rate-driven flush 非 thesis break；②AI trade capitulation 先係真正機會浮現時；③國防真 story 係供應鏈去瓶頸唔係地緣 headlines。",
+      "key_takeaways": [
+        "亞洲股市 -6% 血洗，AI rout 全球化",
+        "Fed 紀錄鷹派，12月加息預期升溫",
+        "金銀幣避險資產全線崩跌，避險邏輯失效",
+        "伊朗/烏克蘭 headlines 冇推升油價，供應過剩主導"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-20",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Bearish — AI 去槓桿 + 鷹派 Fed，流動性收縮",
+      "headlines": [
+        "Fed Minutes 鷹派 + 點名 AI 融資結構係系統性風險",
+        "亞洲血洗：台灣 -6.2%，AI 供應鏈恐慌擴散",
+        "Anthropic IPO 首日 +17% 但盤前 -6%，AI trade capitulation",
+        "NVDA -3.3% / SOXL -8%，半導體係 rout 震央"
+      ],
+      "focus": [
+        "半導體/AI — risk-off 核心",
+        "國防 RTX — structural long"
+      ],
+      "analysis": "## Fed Context — 鷹派 Minutes + AI 泡沫風險警示\n\n昨晚（Nov 18 公佈）FOMC Minutes（10月27-28會議）係今次 AI rout 嘅 smoking gun：\n\n**① Fed 自己點名 AI 融資結構係系統性風險。** Staff 金融穩定評估明確指出「AI buildout 相關債務急速增長，off-balance-sheet leasing 同 circular financing 安排，一旦 AI 投資回報令人失望，可能放大虧損」。Nearly all participants 都討論咗「AI 投資回報令市場失望」嘅情境。呢個唔係華爾街分析師唱淡，係聯儲局 staff 親自寫入金融穩定評估 — macro 級別嘅 validation。\n\n**② 鷹派 stance。** News Curator 捕捉到「部分官員力主加息」— 實際利率上行預期，直接打擊高估值成長股（AI/半導體）。\n\n**③ 避險資產同步崩。** 金價 14 個月低、銀價同跌、BTC IBIT 破紀錄流出。避險同風險資產一齊跌 = 流動性收縮，唔係板塊輪動。\n\n下次 FOMC 未有喺 macro calendar 出現（預期 12 月中），但鷹派 backdrop 已定調，Core PCE（Nov 25）係下一個驗證點。\n\n## 📰 今日重點頭條\n\n1. **Fed Minutes 鷹派 + AI 融資風險警示** — 今次 rout 核心 driver\n2. **亞洲血洗：台灣 -6.2%** — AI 供應鏈恐慌擴散\n3. **Anthropic IPO 首日 +17% 但即日回吐、盤前 -6%** — AI trade capitulation 信號\n4. **伊朗拒核檢、美軍威嚇升溫** — 但油價冇反應（WTI 60 日低），證明 defense 故事唔係 headline-driven\n5. **AMD 晶片出口收緊** — 半導體多一重監管風險\n6. **IBIT 破紀錄流出** — BTC/加密 risk-off\n7. **Big Pharma 用 AI 縮短藥物開發時間** — 少數 AI 正循環 signal\n8. **JPMorgan「Beyond Big Tech 有機會」** — 資金開始搵 Big Tech 以外嘅機會\n\n## 1. 🌍 隔夜市場\n\n- **SPY** -1.96%（715.87）、**QQQ** -2.19%（645.04）、**DIA** -2.18%（490.79）— 全面 red\n- **VIX** 30.34（+6.68%）— 升穿 30，但未到 panic（年高 35.3），仍有下跌空間或急速反彈彈性\n- **台灣 -6.2%** 亞洲最傷，AI 供應鏈重災\n- **金 GLD 335.18**（14 個月低）、**銀 SLV 39.64** — 避險失效，rate-driven flush\n- **WTI 60 日低** — 地緣 headlines 冇撐起油價\n- **BTC** IBIT 破紀錄流出\n\n## 📈 昨日爆升／暴跌榜\n\n**爆升榜**（全部 penny / 小型投機股，冇基本面意義）：VIVS +142.92%、LVWR +76.55%、MPU +67.61%、ILLR +67%、SEAT +63.28% → 純資金炒作，唔值得跟。\n\n**暴跌榜**（全部 penny，避開）：FCHL -88.29%、BOXL -56.03%、AZI -47.12%、TDTH -44.66%、CISO -39.67%。\n\n**活躍榜**（先有市場意義）：\n- **ANT（Anthropic）+17.07%** — IPO 首日，但盤前 -6%\n- **NVDA -3.30%** — 半導體龍頭 confirm 跌勢\n- **SOXL -8.04%** — 3x 半導體 ETF 暴跌，confirm AI rout\n- VIVS +142.92%、CHSN -3.33%\n\n**Sector theme：** 半導體/AI 係今次唯一真正嘅 macro driver，penny movers 全部係 noise。\n\n## 2. 📡 今日重點事件\n\n- **11:00PM HKT｜Michigan Consumer Sentiment Final（Nov）** — prev 48，fcast 51.5。初步值極弱（48），若 final 大升至 51.5，對消費信心係好消息，但喺鷹派 Fed 下未必能改變 risk-off。\n- **11:00PM HKT｜Michigan Inflation Expectations Final** — 留意通脹預期有冇上修（鷹派加成）。\n\n## 3. 🔥 Sector Watch\n\n- **半導體 / AI（risk-off 核心）**：NVDA -3.3%、SOXL -8%、台灣 -6.2%、AMD 出口收緊。Fed 點名 AI 融資風險 = 去槓桿未完成。\n- **國防（structural long）**：RTX 供應鏈第二供應商（Ursa Major/Avio），backlog 結構性。伊朗 headlines 冇推油價 = 呢個 story 係供應鏈去瓶頸，唔係事件驅動。\n- **黃金/貴金屬（短線失效，長線 thesis intact）**：14 個月低係 rate-driven flush，央行買金 + 大行 2027 $5,000 目標未變，但而家唔係接刀時機。\n- **Big Pharma（AI 正循環）**：AI 縮短藥物開發時間，係 AI 少數真正落地嘅商業應用。\n\n## 4. 🎯 Pre-market Opportunities\n\n- **RTX（ACTION）**：國防供應鏈去瓶頸，結構性 backlog。部署：唔追高，等 AI rout 拖累大盤時，若 RTX 抗跌或回調企穩，係相對強勢嘅避風港。\n- **AMD（WATCH）**：晶片出口收緊 + AI rout 雙重壓力。睇實會否進一步跌穿關鍵位 — 出口收緊係 real 監管風險。\n- **GLD（WATCH）**：14 個月低。等 rate-driven flush 見底信號（VIX 回落 / 實際利率見頂）先考慮，而家唔接刀。\n- **ANT（WATCH）**：IPO 首日 +17% 即日回吐、盤前 -6% — AI 新股 capitulation，睇實係咪 AI trade 嘅 final flush 指標。\n- **BTC（WATCH）**：IBIT 破紀錄流出，加密同步去槓桿。\n\n## 📅 未來一個月業績重點\n\n**本週（下週一至三）：**\n- **Mon Nov 23｜HPE（$61B）AMC** — AI server 玩家，guide 直接反映 AI 硬體需求。\n- **Tue Nov 24｜DELL（$199B）AMC** — AI server 龍頭之一，係 AI capex thesis 最直接驗證。\n- **Tue Nov 24｜ADI（$185B）BMO** — 類比晶片，工業/車用復甦信號。\n- **Wed Nov 25｜DE（$174B）BMO** — 農業機械，全球需求指標。\n\n**下週：**\n- **Tue Dec 01｜MRVL（$128B）🎯** — tracked ticker，AI 客製化晶片，earnings 直接測試 AI capex 可持續性。\n- **Tue Dec 01｜CRWD（$243B）** — 網路安全。\n- **Wed Dec 02｜CRM（$157B）、SNOW（$99B）** — SaaS/AI 軟體。\n- **Thu Dec 03｜加拿大銀行（RY、TD、CM、BNS、BMO）** — 金融板塊。\n\n**重點：** DELL + HPE + MRVL 係 AI 硬體鏈嘅連續驗證。喺 Fed 點名 AI 融資風險嘅背景下，呢三間嘅 guide 會決定 AI rout 係「健康回調」定「趨勢反轉」。\n\n## 5. 📋 Today's Agenda\n\n- **11PM HKT｜Michigan Consumer Sentiment Final** — 消費信心數據\n- **Key levels：** SPY 715.87，跌穿 715 睇 710 → 700；上方阻力 730（prev close）\n- **Catalyst：** 今晚美股開盤跟隨台灣 -6.2% 亞洲血洗，AI 半導體係重災區，睇 NVDA/SOXL 會否止跌\n\n## 6. 💡 My Take\n\n**Market bias：Bearish（risk-off）**\n\nFed Minutes 係今次嘅 smoking gun — 聯儲局 staff 親自將「AI 融資結構」寫入金融穩定風險，呢個係 macro 級別 validation，唔係普通 sentiment 惡化。避險資產（金/銀/BTC）同風險資產一齊跌 = 流動性收縮，唔係 rotation。\n\n**今日最緊要睇實：**\n1. NVDA/SOXL 會否止跌 — 半導體係 rout 震央\n2. Michigan Consumer Sentiment Final — 通脹預期有冇上修（鷹派加成）\n3. ANT（Anthropic）盤前表現 — AI 新股 capitulation 指標\n\n**Contrarian 觀察：**\n- 國防（RTX）係唯一 structural story，供應鏈去瓶頸唔靠 headlines\n- 黃金短線失效但長線 thesis intact（央行買金 + 2027 $5,000 目標），等 flush 見底先接\n- 半導體 capitulation 係歷史性機會浮現嘅時候（MU/QCOM 類），但唔急 — 等 VIX 回落或實際利率見頂信號",
+      "risks": [
+        "Fed 點名 AI 融資風險 → 去槓桿未完成，仍有下跌空間",
+        "AMD 晶片出口收緊，半導體多一重監管風險",
+        "Michigan 通脹預期若上修 → 鷹派加碼"
+      ],
+      "my_take": "Bearish（risk-off）。Fed Minutes 親自點名 AI 融資結構係系統性風險，係 macro 級別 validation；避險資產（金/銀/BTC）與風險資產齊跌 = 流動性收縮而非 rotation。今日盯 NVDA/SOXL 止跌信號、Michigan Consumer Sentiment Final、ANT 盤前 capitulation。Contrarian：國防 RTX 係唯一 structural story；黃金短線失效長線 thesis intact 但未到接刀時機；半導體 capitulation 係歷史性機會浮現時機（MU/QCOM），等 VIX 回落先動手。"
     }
   ],
   "news_curator": [
