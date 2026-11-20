@@ -4920,6 +4920,37 @@
         "Michigan 通脹預期若上修 → 鷹派加碼"
       ],
       "my_take": "Bearish（risk-off）。Fed Minutes 親自點名 AI 融資結構係系統性風險，係 macro 級別 validation；避險資產（金/銀/BTC）與風險資產齊跌 = 流動性收縮而非 rotation。今日盯 NVDA/SOXL 止跌信號、Michigan Consumer Sentiment Final、ANT 盤前 capitulation。Contrarian：國防 RTX 係唯一 structural story；黃金短線失效長線 thesis intact 但未到接刀時機；半導體 capitulation 係歷史性機會浮現時機（MU/QCOM），等 VIX 回落先動手。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-11-21",
+      "time": "06:02 HKT",
+      "status": "success",
+      "market_direction": "鷹派 Fed + AI 泡沫去槓桿雙殺，避險與風險資產同跌 = 流動性收縮而非板塊輪動",
+      "opportunities": [
+        "🎯 PANW: Q1 業績 beat + open-weight 模型保安敘事，紅市中 +6.4% 係唯一相對強勢。市場開始獎勵「真 AI 盈利」（保安 revenue 綁 o",
+        "🎯 RTX: Raytheon 授 Ursa Major/Avio 做 Tomahawk 第二供應商，反映國防供應鏈去瓶頸（de-bottlenecking）係結構性主題，唔",
+        "🎯 LMT: 台灣公布 17% 預算加碼升級 F-16V 機隊，國防主題獨立催化，唔受 AI/利率主軸拖累，多次大跌市相對抗跌。"
+      ],
+      "watches": [
+        "📡 NVDA: Q3 營收翻倍 $115.8B + 指引 $130B 係真信號，但董事會否決 Huang 回歸、請 Heidrick & Struggles 搵永久 CEO、C",
+        "📡 ANT: 史上最大 IPO（$81B / $83 定價 / $1T+ 估值）首日 +17% 收 $97，但 high-open-low-close、盤前 -6%，救唔到 ",
+        "📡 TSM: TSMC 避開美國出口限制（台灣 -6.2%、1991 年以來最差一週後），foundry 主導地位 intact；但中國晶片收入風險 + 亞洲 AI rout",
+        "📡 AMZN: Anthropic 直接受益者（$18B 持股 IPO 價已值 $159B），但 Vulcan 火箭失敗 40 顆 Kuiper 衛星全毀 + AI capex"
+      ],
+      "risks": [
+        "⚠️ MSTR: Strategy 比特幣策略解體、或被迫沽 BTC；BTC 失守 $60K，BlackRock IBIT 破紀錄 $541M 流出，Citi 下調 BTC/ET",
+        "⚠️ GLD: 金價 14 個月低（$3,500 關口受考驗），實質利率上行直接打擊無息資產，避險邏輯短期失效（rate-driven flush 而非 panic bid）。",
+        "⚠️ AMD: 沽空報告指涉中國 exposure -7.7% 插至 $489，Commerce 收緊 AI 晶片出口規則 -4%，疊加 semi 複合體 de-rate，冇 "
+      ],
+      "analysis": "本週主軸係流動性收縮而非板塊輪動：鷹派 Fed（實際利率升）+ AI 泡沫去槓桿雙殺，避險資產（金/銀/BTC）同風險資產一齊跌。Fed staff 自己點名 AI 融資結構（off-balance-sheet leasing、circular financing）係系統性風險，呢個係 macro 級別 validation，唔係華爾街唱淡。資金由 AI infra（NVDA/AMD/ANT）同貴金屬流出，湧向兩個乾淨主題：① 國防供應鏈（結構性、唔受利率/AI 拖累）；② 真 AI 盈利（PANW，保安 revenue 綁 open-weight model 而非訓練 capex）。NVDA/ANT 係兩面 battleground，AI infra 需要 capitulation flush 先見底。",
+      "my_take": "呢個星期最乾淨嘅兩條長倉線：國防（RTX/LMT 供應鏈去瓶頸 + 台灣預算）同「真 AI 盈利」（PANW）。兩者都唔靠 AI capex 敘事、唔受實質利率壓制，係流動性收縮市入面唯一有結構性催化嘅板塊。NVDA/ANT 係最大兩面局：基本面未死（營收翻倍、$1T IPO 都成到），但治理真空 + 中國風險 + 泡沫疑慮未清，等 capitulation flush 先落手，唔好撈刀。避險資產（金/BTC）短期都唔係避風港——實質利率上行係直接打擊，「避險失效」係今週最重要嘅 macro signal。Bias：防守優於進攻，國防 + 真 AI 盈利做矛，避開一切 rate-sensitive 同 AI infra 賭注。",
+      "focus": [
+        "國防供應鏈: RTX, LMT",
+        "真 AI 盈利: PANW",
+        "AI infra 去槓桿: NVDA, ANT, TSM, AMZN, AMD",
+        "Rate-driven haven flush: GLD, MSTR"
+      ]
     }
   ],
   "news_curator": [
