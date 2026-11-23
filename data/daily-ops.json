@@ -4953,37 +4953,6 @@
       ]
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-23",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "科技股反彈但信心脆弱 — AI trade 修正未確認見底，Fed 加息風險壓頂",
-      "headlines": [
-        "[RECENT] ⚠️ MACRO — AI/科技股血洗後反彈，Nasdaq 100 四年首入熊市",
-        "[RECENT] ⚠️ NVDA — Bessent 要求交代售華晶片",
-        "[RECENT] 🎯 ORCL — Tepper 開倉 $172M",
-        "[RECENT] 🎯 RING — 金礦股被低估",
-        "[RECENT] 🔥 DOGE-USD — Trump 迷因幣晚餐救亡"
-      ],
-      "opportunities": [
-        "ORCL: Tepper Appaloosa $172M 開倉，估值 bargain bin",
-        "RING: 金價崩跌令金礦股被低估，白銀 MS 仍睇 $71.40"
-      ],
-      "analysis": "市場主軸係 AI trade 去槓桿 + Fed 加息風險。黃金同比特幣同 AI 股一齊跌，反映流動性收縮多過基本面惡化。",
-      "risks": [
-        "Fed 通脹戰或需再加息",
-        "NVDA 中國晶片監管風險",
-        "Delta 系統故障（感恩節出行）"
-      ],
-      "my_take": "AI trade 去槓桿 + Fed 加息風險係主軸。避險資產同 AI 股齊跌 = 流動性收縮。金礦股同 Oracle 呢類被錯殺資產值得留意，但唔急接刀。",
-      "key_takeaways": [
-        "Nasdaq 100 四年首入熊市，最差一週自 2020",
-        "金價 $3,500 14個月低，白銀一週跌 16%",
-        "比特幣收復 $60K，$1.8B 槓桿清洗",
-        "民主黨 258 席最大眾議院多數"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-23",
       "time": "08:33 HKT",
@@ -5010,6 +4979,64 @@
         "今晚 S&P Global PMI Flash（10:45PM HKT）— 十一月經濟第一讀"
       ],
       "my_take": "AI trade 被迫去槓桿已到 capitulation 階段（金銀與 AI 齊跌 = 流動性收縮非輪動），但 Fed 把 AI 融資定性為系統性風險，基本面 re-rating 未完。非 bottom call，等 VIX 見頂 + Core PCE（週三）落地先出手。短線期貨反彈/BTC 收復/債息回落係企穩訊號。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-23",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "AI 沽售潮後市場嘗試反彈，但 Fed 加息陰霾未散",
+      "headlines": [
+        "[NEW] ACTION: CRWD/ZS — 網絡安全史上最大併購 $43.9B 全股票收購",
+        "[NEW] ACTION: NVDA — Trump 促重聘 Huang，盤前 +8%",
+        "[RECENT] WATCH: MACRO — 反彈屬技術性，Fed 加息陰霾未散",
+        "[RECENT] WATCH: GLD — 金價由 $3,500 反彈 3%",
+        "[RECENT] WATCH: BTC-USD — 反彈至 $61K 但 Hayes 警告 $50K"
+      ],
+      "opportunities": [
+        "CRWD: $43.9B 收購 ZS，34% 溢價、$10B ARR、$1B 收入協同，網絡安全板塊 consolidation",
+        "NVDA: Trump/Bessent U-turn 促重聘 Huang，盤前 +8%，AI/semi 最大催化劑（投機性）",
+        "SOXX/MU: 半導體超賣反彈，Micron 有支撐"
+      ],
+      "analysis": "上周五 AI 沽售潮：SPY -3.64%、QQQ -5.67%、NVDA -14%（18個月低）、GLD -3.67%。Nasdaq 100 四年首入熊市。周一市場嘗試反彈，但屬技術性，PCE 本周 + Fed 加息路徑先係關鍵。",
+      "risks": [
+        "Fed 或需再加息（Warsh 通脹戰），Ackman 警告衰退",
+        "黃金/BTC 若繼續同股市一齊跌 = 強制去槓桿未完",
+        "NVDA Huang 重聘屬投機性，董事會上周明言無意"
+      ],
+      "my_take": "Deleveraging/liquidity 事件，非健康輪動。CRWD-ZS 併購 = 底部訊號，NVDA Huang 重聘 = 投機性催化劑。睇 PCE + 黃金/BTC 能否止跌。",
+      "key_takeaways": [
+        "CRWD $43.9B 收購 ZS — 網絡安全史上最大併購",
+        "NVDA 盤前 +8% — Trump 促重聘 Huang",
+        "市場反彈屬技術性，Fed 加息陰霾未散"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-23",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Cautious Bearish — 技術性反彈，PCE 前唔追",
+      "headlines": [
+        "CRWD $43.9B 全股票收購 ZS——網絡安全史上最大併購",
+        "NVDA 盤前 +8%，傳 Trump 促重聘黃仁勳（投機性）",
+        "Fed 加息陰霾未散，周三 PCE + GDP 數據 dump 係試金石",
+        "金價守 $3,502、BTC 反彈 $61K 但 ETF 流出 $1.8B"
+      ],
+      "focus": [
+        "CRWD/ZS/PANW/FTNT — 網絡安全 consolidation 催化",
+        "NVDA/SOXX/MU — 半導體超賣反彈（等企穩）",
+        "MACRO — 周三 PCE + Fed 加息路徑",
+        "GLD/BTC — 去槓桿金絲雀"
+      ],
+      "analysis": "🌅 Morning Scan — 2026-11-23（周一）\n\n## Fed Context — 宏觀背景\n\n市場正由「加息陰霾」主導。上周五 SPY -3.64%、QQQ -5.67%、NVDA -14%（18 個月低），Nasdaq 100 四年來首度進入熊市。根因唔係 AI 基本面崩，而係流動性／去槓桿事件：AI 股、黃金、加密幣一齊跌，只有國債守得住，台灣融資追繳金額暴增 200 倍——係強制沽售，唔係健康輪動。\n\nFed 路徑係核心變數。10 月 27-28 FOMC 會議紀要上周已出（11/18-19 發布），下一次 FOMC 係 12 月 8-9 日（SEP + 記者會）。通脹數據正向上走：PCE YoY 3.6% → forecast 3.8%，Core PCE YoY 3.1% → forecast 3.2%——呢個就係加息（而非減息）預期嘅來源。周三（11/25）嘅 PCE + GDP 數據 dump 係成個反彈嘅試金石：如果 Core PCE 再升，加息預期升溫，反彈隨時散。\n\n## 📰 今日重點頭條（Raw Landscape）\n\n- 【CNBC】CrowdStrike 以 $43.9B 全股票收購 Zscaler——網絡安全史上最大併購（CRWD, ZS）\n- 【CNBC/TradingView】NVDA 盤前 +8%，傳 Trump/Bessent 態度 U-turn 促重聘黃仁勳（NVDA）\n- 【BBC/CBS】烏克蘭無人機擊沉利比亞港口俄軍護衛艦，伊朗誓言以「一切手段」終結美海軍封鎖（DEFENSE/OIL）\n- 【CoinDesk】Bitcoin 反彈重上 $61K，但 ETF 單週流出 $1.8B（史上第三大）（BTC-USD）\n- 【TradingView】金價以 $3,502.80 作底部支撐，反彈至 $3,625（GLD）\n- 【Investing】油價續跌第四週，供應回升 + 伊朗再升級憂慮（USO）\n- 【Investing】高盛 Snider 列出市場復甦三大訊號\n- 【TradingView】NASDAQ 出現 1W MA100 買入訊號，目標 34000（反向觀點）\n\n## 1. 🌍 隔夜市場\n\n- SPY $689.81（-3.64%）、QQQ $608.45（-5.67%）、DIA $481.08（-1.87%）——上周五收盤\n- 周一歐股／期指反彈，NVDA 盤前 +8%、ZS 盤前 +13%，屬技術性超賣反彈\n- 防禦資金湧入：SPDN（反向 S&P）+3.63%，而 SOXL -31.83%、TQQQ -15.94% 反映槓桿多頭遭重創\n- 金價守住 $3,502、油價續跌——避險與通脹交易同時退潮，資金只去國債\n\n## 📈 昨日市場爆升／暴跌榜\n\n- 活躍榜：NVDA -14.01%（18 個月低）、SOXL -31.83%、TQQQ -15.94%、INTC -7.97%、ANT（Anthropic）-8.50%\n- 爆升榜：CYAB +2798%、LSTA +1381%、AUUD +1151%——全係 penny stock 抽水，無研究價值\n- 暴跌榜：VWAV -72%、BKHA -71%、WETO -68%——同樣係 microcap 單一事件\n- Sector theme：真正嘅 movers 全部集中喺半導體／AI 槓桿工具（NVDA/SOXL/TQQQ），係 single-event（AI 去槓桿）驅動，唔係板塊輪動。防禦性資金（SPDN）係唯一明確 flow。\n\n## 2. 📡 今日重點事件（macro_calendar.json — SOURCE OF TRUTH）\n\n今日（11/23 周一）：\n- 21:30 HKT — Chicago Fed National Activity Index（MEDIUM，prev 0.07）\n- 22:45 HKT — S&P Global PMI Flash（MEDIUM，Mfg fcast 54.5 / Svcs fcast 55.6）\n\n本周 HIGH 事件（全部集中周三 11/25，21:30 HKT 一齊出）：\n- 🔴 GDP QoQ 2nd Est（prev 1.5% / fcast 3.4%）\n- 🔴 Core PCE MoM（prev 0.3% / fcast 0.3%）\n- 🔴 Personal Spending MoM（prev 0.5% / fcast 0.4%）\n- 🔴 Personal Income MoM（prev 0.2% / fcast 0.4%）\n- 🔴 Durable Goods Orders（prev 1.8% / fcast 0.4%）\n- 🟡 Core PCE YoY（prev 3.1% / fcast 3.2%）＋ PCE YoY（prev 3.6% / fcast 3.8%）——通脹向上，係加息預期嘅燃料\n\n註：周四（11/26）感恩節休市、周五半日，本周數據被壓縮到周三，流動性偏薄。\n\n## 3. 🔥 Sector Watch\n\n- 半導體（SOXX/MU）：超賣反彈最猛，QCOM -42%、SK Hynix -48% 後有技術性支撐，但 NVDA 企穩先有得彈\n- 網絡安全（CRWD/ZS/PANW/FTNT/OKTA）：$43.9B 併購觸發 consolidation 催化，係 risk-off 中最明確嘅板塊 beta\n- 國債／防禦：資金唯一避風港，加息預期下長債仍受壓，短債受捧\n- 風險板塊：槓桿 ETF、加密貨幣（BTC ETF 單週流出 $1.8B）、高估值 AI 應用\n\n## 4. 🎯 Pre-market Opportunities（News Curator Consolidate）\n\n- **CRWD/ZS（ACTION）**：$43.9B 全股票、34% 溢價、$10B ARR、$1B 收入協同。ZS 盤前 +13% 已反映。今日部署：睇 PANW/FTNT/OKTA 嘅跟漲，呢啲係「被收購候選」邏輯；CRWD 因全股票支付可能短期受壓，係更佳 entry。\n- **NVDA（ACTION，投機）**：Trump 促重聘黃仁勳，盤前 +8%。但董事會上周明言無意，純投機性催化。今日部署：唔追高，若黃仁勳回歸確認先係真 catalyst；否則只係超賣反彈嘅情緒出口。\n- **SOXX/MU（ACTION）**：半導體超賣反彈，Micron 有支撐。今日部署：等 NVDA 企穩再入，唔好喺去槓桿未完時抄底。\n- **WATCH — MACRO**：反彈屬技術性，周三 PCE + Fed 路徑先係關鍵。唔好當底部已現。\n\n## 📅 未來一個月業績重點\n\n本周（感恩節壓縮週）：\n- 周一 HPE（$60B，AMC）｜周二 DELL（$199B）、ADI（$183B）、BHP（$176B）、MDT（$129B）、ADSK（$51B）｜周三 DE（$168B）\n- DELL/ADI 係 AI 硬件鏈嘅風向標，喺半導體去槓桿背景下跌指引會放大波動\n\n下兩周（tracked tickers 🎯）：\n- Dec 1 — MRVL 🎯（$121B，est $0.79）：AI 網絡芯片，係 semi 反彈嘅關鍵驗證\n- Dec 9 — AVGO 🎯（$1655B，est $3.45）：AI 巨頭，最大催化劑\n- Dec 9 — ADBE 🎯（$86B）｜Dec 14 — ORCL 🎯（$334B）\n- Dec 16 — MU 🎯（$781B，est $37.95）：記憶體價格週期\n- Dec 17 — ACN 🎯、NKE 🎯\n\n## 5. 📋 Today's Agenda\n\n- 今日：反彈成色測試（NVDA +8% 能否企穩、ZS +13% 能否帶動網絡安全板塊）\n- 今日 22:45 HKT：S&P PMI Flash——睇增長動能\n- 周三 21:30 HKT：PCE + GDP 數據 dump——本周最重要，決定加息預期方向\n- 周四：感恩節休市，流動性低，勿持重倉過夜\n\n## 6. 💡 My Take\n\nBias：Neutral-to-Cautious Bearish（短期技術性反彈，中期未確認底部）。\n\n今日嘅反彈係「超賣 + 兩個 idiosyncratic catalyst（CRWD/ZS 併購、NVDA 黃仁勳傳聞）」驅動，唔係結構性轉向。真正嘅 macro 障礙未解：Fed 加息路徑 + 通脹向上（Core PCE forecast 3.2%）。去槓桿訊號（AI/黃金/加密一齊跌，只有國債守）暗示強制沽售可能未完成。\n\n兩個真正底部訊號浮現：CRWD-ZS $44B 併購（risk-off 中仍有買家出手）係最健康嘅訊號；但 NVDA 黃仁勳重聘純屬投機。關鍵問題係死貓跳定真底——答案喺周三 PCE。喺此之前，唔好追 AI/semi 反彈，睇住兩個「金絲雀」：金價（$3,502 底部）同 BTC（$61K 但 ETF 流出 $1.8B），若佢哋同股市一齊再跌，即係強制去槓桿未完，仲有得跌。",
+      "risks": [
+        "Fed 加息預期升溫（Core PCE forecast 3.2% 向上）",
+        "去槓桿可能未完（AI/黃金/加密一齊跌）",
+        "感恩節周流動性薄，反彈易夭折",
+        "NVDA 黃仁勳傳聞純投機，董事會無意"
+      ],
+      "my_take": "短期技術性反彈，中期未確認底部。CRWD-ZS 併購係健康底部訊號，NVDA 黃仁勳傳聞屬投機。真正障礙係 Fed 加息 + 通脹向上（周三 PCE 係試金石）。金價/BTC 係去槓桿金絲雀——未止跌前唔好追反彈。"
     }
   ],
   "news_curator": [
