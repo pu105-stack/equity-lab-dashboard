@@ -4951,6 +4951,65 @@
         "AI infra 去槓桿: NVDA, ANT, TSM, AMZN, AMD",
         "Rate-driven haven flush: GLD, MSTR"
       ]
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-23",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "科技股反彈但信心脆弱 — AI trade 修正未確認見底，Fed 加息風險壓頂",
+      "headlines": [
+        "[RECENT] ⚠️ MACRO — AI/科技股血洗後反彈，Nasdaq 100 四年首入熊市",
+        "[RECENT] ⚠️ NVDA — Bessent 要求交代售華晶片",
+        "[RECENT] 🎯 ORCL — Tepper 開倉 $172M",
+        "[RECENT] 🎯 RING — 金礦股被低估",
+        "[RECENT] 🔥 DOGE-USD — Trump 迷因幣晚餐救亡"
+      ],
+      "opportunities": [
+        "ORCL: Tepper Appaloosa $172M 開倉，估值 bargain bin",
+        "RING: 金價崩跌令金礦股被低估，白銀 MS 仍睇 $71.40"
+      ],
+      "analysis": "市場主軸係 AI trade 去槓桿 + Fed 加息風險。黃金同比特幣同 AI 股一齊跌，反映流動性收縮多過基本面惡化。",
+      "risks": [
+        "Fed 通脹戰或需再加息",
+        "NVDA 中國晶片監管風險",
+        "Delta 系統故障（感恩節出行）"
+      ],
+      "my_take": "AI trade 去槓桿 + Fed 加息風險係主軸。避險資產同 AI 股齊跌 = 流動性收縮。金礦股同 Oracle 呢類被錯殺資產值得留意，但唔急接刀。",
+      "key_takeaways": [
+        "Nasdaq 100 四年首入熊市，最差一週自 2020",
+        "金價 $3,500 14個月低，白銀一週跌 16%",
+        "比特幣收復 $60K，$1.8B 槓桿清洗",
+        "民主黨 258 席最大眾議院多數"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-23",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "AI 去槓桿 capitulation，防守板塊獨綠，VIX 一週翻倍",
+      "headlines": [
+        "Nasdaq 今年轉負，四年來首次跌入熊市（QQQ -19.9% from high）",
+        "NVDA -14% 單日（-47.5% from high），半導體係 rout 震央",
+        "Fed Minutes 鷹派 + 點名 AI 融資結構為系統性風險",
+        "金銀與 AI 齊跌（GLD -24.6%、SLV -47% from high）= 流動性收縮非輪動",
+        "期貨反彈 + BTC 收復 $60K + 10Y yield 回落至 4.91% = 短線企穩訊號"
+      ],
+      "opportunities": [
+        "MU/QCOM: 半導體 capitulation 歷史性機會，等 VIX 見頂先",
+        "ORCL: Tepper $172M 開倉 + bargain bin 估值，中期累積對象",
+        "RING: 金價崩跌令金礦股錯殺，等金價企穩",
+        "XLP/XLV/XLU: 防守板塊避風港"
+      ],
+      "analysis": "📰 今日重點頭條（Raw Headlines — news_summary DB）\n\n1. CNBC — Stock futures rebound to start shortened week after tech rout（期貨反彈，感恩節短週開局）\n2. ValueWalk — Nasdaq turns negative for 2026 as Friday tech rout caps worst week since 2020（Nasdaq 今年轉負，2020 年來最差一週）\n3. Bloomberg — Stock Traders Brace For More Volatility After Tech-Driven Rout（交易員預期波動未結束）\n4. Bloomberg — Asia-Pacific stocks/currencies react after Nasdaq, S&P selloff（亞太開市跟跌，恐慌擴散）\n5. CBS — Delta Air Lines hit with delays after baggage network system issue（DAL 系統故障）\n6. Investing — OpenAI scientist proposes industry AI limits tied to model intelligence metric（AI 監管/上限倡議浮面）\n7. Investing — Beijing to bar young 'red-chip' firms from listing outside mainland China（紅籌境外上市收緊）\n8. NBC — Trump hosts exclusive dinner for investors in his declining meme coin（DOGE-USD 救亡）\n9. 247WallSt — Jim Cramer warns market 'destroying savings for the many'（散戶情緒指標觸底）\n10. TradingView — XAUUSD trendline broke（黃金技術面破位）\n\n其中 #1/#2/#3/#5/#7/#8 被 NC 捕捉到（match），#6/#9 係 raw news 先見到。\n\n────────────────────\n1. 📊 Market Recap\n\n- SPY -3.64%（週 -8.89%），QQQ -5.67%（週 -11.58%），DIA -1.98%（週 -7.92%），IWM -2.88%\n- QQQ 收 608.45，距 10/6 高位 -19.9% → 四年來首次跌入熊市，Nasdaq 今年轉負\n- VIX 35.89（前日 28.44，一週前 18.70）→ 一週近乎翻倍，恐慌極速升溫\n- 10Y yield 5.05% → 4.91%（risk-off 湧入國債，避險資金未離場）\n- 板塊：XLP +0.67%（唯一綠）、XLV -0.12%、XLE -0.62%、XLU -0.74% 全部防守抗跌；XLK -7.27%（週 -14.25%，災難級）\n\n一句總結：呢個唔係普通 correction，係 AI trade 嘅 capitulation，而避險資產（金銀）同步崩跌，確認係流動性收縮（margin call / 被迫去槓桿），唔係健康嘅 rotation。\n\n────────────────────\n2. 🔥 Notable Movers\n\n- NVDA -14.0%（週 -24.5%，距高位 -47.5%）— 半導體震央\n- AMD -13.3%（週 -27.5%，距高位 -34.7%）\n- AVGO -12.2%（週 -16.5%）\n- ORCL -8.5%（週 -20.4%，距高位 -59.2%）\n- TSLA -7.6%（週 -13.0%）\n- META -5.9%（週 -10.1%）\n- 避險資產齊崩：GLD -3.7%（距高位 -24.6%）、SLV -6.7%（週 -18.1%，距高位 -47%）、BTC 曾重挫後 +1.9% 收復 $60K\n\n值得跟進定 noise？NVDA/AMD/AVGO 嘅 -12% 到 -14% 單日跌幅，喺公司層面冇即時壞消息，純粹係去槓桿嘅機械性賣壓 —— 呢類係 capitulation 特徵，唔係基本面 news。留意嘅係：如果下週反彈，呢啲係最彈得勁嘅名。\n\n────────────────────\n3. 📰 News That Mattered\n\nNC 全中主線：AI 去槓桿 + 流動性收縮。NC 嘅「My Take」講明「金銀BTC同AI股一齊跌 = 流動性收縮多過基本面惡化」—— 呢個判斷被金銀雙殺完全驗證。\n\nMorning Scan（週五 8:33pm）嘅 Bearish call 亦被市場放大兌現：\n- 預期 NVDA -3.3%，實際 -14% → rout 遠超開市前定價\n- 預期「Fed 點名 AI 融資風險 → 去槓桿未完成」→ Fed Minutes（10/27-28，11/19 出）真係鷹派 + 點名 AI 融資結構係系統性風險\n- 避險失效嘅判斷（「黃金短線失效」）→ GLD -24.6% 從高位，驗證\n\nNC 嘅 ACTION call 表現：\n- ORCL（Tepper $172M 開倉）— 週五再 -8.5%，累積型價值 call 未兌現，屬「等企穩」唔係即日 trade\n- RING（金礦股錯殺）— 金銀繼續跌，thesis 未到確認時機\n\nRaw news 見到但 NC 未 cover：#6 OpenAI 倡 AI 上限（監管風險新變數）、#9 Cramer 恐慌式言論（散戶 capitulation 情緒指標）。\n\n────────────────────\n4. 🎯 Opportunities Carry Forward\n\n- 半導體 capitulation 浮現（MU/QCOM）— Morning Scan 早已指「歷史性機會」，但條件係「等 VIX 回落」。VIX 35.89 未見頂，繼續等。\n- ORCL — Tepper Appaloosa $172M 開倉 + 估值 bargain bin，距高位 -59% 已經 price in 大量壞消息，屬中期累積對象。\n- RING（金礦股）— 金價崩到 -24.6% 後，金礦股被過度錯殺，但等金價企穩先。\n- 防守板塊（XLP/XLV/XLU）— 若 rout 持續，係資金避風港；若反彈，反過來係超買。\n\n────────────────────\n5. ⚠️ Risks / Watchlist\n\n今晚（週一）：\n- 🟡 10:45PM HKT — S&P Global PMI Flash（製造業/服務業/綜合，11月）→ 十一月經濟第一讀，若遜預期會加深衰退憂慮\n\n本週重頭戲（週三 11/25，全部 9:30PM HKT，🔴 HIGH）：\n- Core PCE MoM（10月）— Fed 最睇嘅通脹指標，市場而家驚緊加息，任何 hot print = 再插一輪\n- Personal Income / Spending（10月）\n- GDP Growth QoQ 2nd Est（Q3）\n- Durable Goods Orders（10月）\n\n結構性風險：\n- 感恩節短週（週四休市、週五半日）→ 薄流動性 = 波動放大，capitulation 可能未完全釋放\n- 下次 FOMC 係 12 月中，Fed 鷹派 stance（潛在加息）未變，AI 融資被定性為系統性風險係結構性、唔係週期性\n\n────────────────────\n6. 💡 My Take\n\n一句總結：AI trade 嘅被迫去槓桿已經殺到 capitulation 階段（避險資產同風險資產齊跌 = 機械性賣壓），但 Fed 把 AI 融資定性為系統性風險，意味基本面 re-rating 未完 —— 呢個唔係 bottom call，係「等 VIX 確認見頂先出手」嘅觀望。\n\n今日最重要 takeaway：Morning Scan + NC 兩邊都正確判斷咗「流動性收縮」而唔係「板塊輪動」，呢個判斷框架經得起考驗，值得 keep 住做往後嘅基準。\n\n明日 bias：Neutral-to-cautiously-constructive。期貨反彈 + BTC 收復 $60K + 10Y yield 回落，係短線企穩訊號；但 Core PCE（週三）先係本週真正嘅方向決定者，喺呢個數據出之前，唔好急住接半導體嘅刀。",
+      "risks": [
+        "週三 Core PCE（10月）+ Personal Income/Spending + GDP 2nd Est + Durable Goods — 本週方向決定者",
+        "感恩節短週薄流動性 = 波動放大",
+        "Fed 鷹派 stance 未變，12 月中 FOMC 前加息陰霾",
+        "今晚 S&P Global PMI Flash（10:45PM HKT）— 十一月經濟第一讀"
+      ],
+      "my_take": "AI trade 被迫去槓桿已到 capitulation 階段（金銀與 AI 齊跌 = 流動性收縮非輪動），但 Fed 把 AI 融資定性為系統性風險，基本面 re-rating 未完。非 bottom call，等 VIX 見頂 + Core PCE（週三）落地先出手。短線期貨反彈/BTC 收復/債息回落係企穩訊號。"
     }
   ],
   "news_curator": [
