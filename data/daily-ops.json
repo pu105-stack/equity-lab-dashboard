@@ -5039,36 +5039,6 @@
       "my_take": "短期技術性反彈，中期未確認底部。CRWD-ZS 併購係健康底部訊號，NVDA 黃仁勳傳聞屬投機。真正障礙係 Fed 加息 + 通脹向上（周三 PCE 係試金石）。金價/BTC 係去槓桿金絲雀——未止跌前唔好追反彈。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-24",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "AI trade 強勢反彈 — NVDA 重聘 Huang 引爆 risk-on，Nasdaq +6.5% 創 2025 年 4 月來最佳單日",
-      "headlines": [
-        "[NEW] ACTION: NVDA — Huang 正式重聘，+31.5% 史上最大單日市值增幅",
-        "[RECENT] WATCH: CRWD — $44B 收購 Zscaler，市場反應分歧",
-        "[RECENT] WATCH: BTC-USD — 411 天最長跌浪 + CFTC 放寬加密計提",
-        "[RECENT] WATCH: DEFENSE — 伊朗誓言突破海軍封鎖 + 俄核武入軌"
-      ],
-      "opportunities": [
-        "NVDA: 重聘催化劑已 fire，+31% 部分係 mechanical buying（short covering），唔好追高",
-        "CRWD: $44B 全股票收購 ZS，AI agent 時代網絡安全整合邏輯合理，但市場担心 dilution"
-      ],
-      "analysis": "今日係 NVDA 主導嘅歷史性一日。Jensen Huang 喺 Trump 介入下正式重聘，NVDA +31.5% 創 2003 年來最大單日升幅，單日 +$952B 市值（史上最大），帶動 Nasdaq +6.5%。但 Nomura 警告升幅有大量 mechanical buying（short covering + options unwinding），short-leveraged funds 虧損高達 92%，意味部分升幅係技術性回補而唔係 fundamental 轉變。",
-      "risks": [
-        "NVDA 升幅或屬技術性反彈，mechanical buying 消退後可能回吐",
-        "伊朗/俄羅斯地緣風險升溫，但油價金價已反映",
-        "Medicare 13 藥減價持續壓 pharma"
-      ],
-      "my_take": "市場今日慶祝 Huang 回歸，但呢個係治理風險嘅信號而唔係單純利好 —— 一個 CEO 可以因醜聞落台、兩週後又被政治壓力拉返嚟，Nvidia 嘅公司治理已被華爾街教授公開批評。+31% 嘅升幅有相當部分係被逼空同 options 回補推高，短線追高風險大。反而值得留意嘅係 AI trade 嘅二線反彈（CoreWeave +30%、Oracle），同埋無人機/國防股嘅動量。",
-      "key_takeaways": [
-        "NVDA +31.5% / +$952B 市值，史上最大單日，但含大量機械性買盤",
-        "Nasdaq +6.5% / S&P +4.7% / Dow +1448pts，2025 年 4 月來最佳單日",
-        "CFTC 放寬比特幣/以太幣/穩定幣計入金融要求，crypto 監管利好",
-        "伊朗誓言突破海軍封鎖，俄羅斯擬核武入軌，地緣風險未解"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-24",
       "time": "08:32 HKT",
@@ -5096,6 +5066,62 @@
         "Fed 鷹派（Williams/Warsh）+ Ackman 衰退警告，macro overhang 未除"
       ],
       "my_take": "今日係一場暴力 squeeze，唔係健康 re-rating。NVDA +31% 有相當部分係 short covering + options 回補，係治理危機嘅「救火反彈」而唔係基本面突破——Megaspeed 醜聞根本未解決。真正乾淨嘅錢喺 AI 二線（MU/CRWV/ORCL）同國防。明日 Core PCE 係本周試金石：若通脹再上修，Fed 鷹派（Williams/Warsh）會即刻重新壓低反彈，squeeze 變 dead-cat。Bias：短期中性偏謹慎，PCE 前唔加倉，等數據落地先落手。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-24",
+      "time": "20:03 HKT",
+      "status": "success",
+      "market_direction": "AI/科技股反彈回吐，Fed 加息預期壓頂；加密+黃金雙雙流血",
+      "headlines": [
+        "[RECENT] ACTION: NVDA — 續報：+31.5% 後盤前回吐，政治反彈+管治質疑",
+        "[NEW] ACTION: SNY/INSM — Sanofi $41B 收購 Insmed，pharma 併購潮",
+        "[NEW] ACTION: GM/F — Pentagon 洽軍用無人機",
+        "[NEW] ACTION: MU — Micron 雙重升級"
+      ],
+      "opportunities": [
+        "SNY/INSM: patent cliff 引爆 pharma 併購潮，睇下一個 target",
+        "GM/F: 傳統車廠進軍國防，估值重估催化",
+        "MU: 記憶體週期買點"
+      ],
+      "analysis": "「Jensen put」— 市場賭 Trump 為 AI 托底，但管治風險係真。反彈易回吐。中美科技緩和（Xi 延遲報復 + 中國暫停關鍵礦物管制）令地緣溢價回落。",
+      "risks": [
+        "NVDA 管治風險未解決，反彈易回吐",
+        "加密+黃金避險敘事失效，Fed 加息預期壓頂",
+        "Boeing-中國交易係政治性催化，唔確定性高"
+      ],
+      "my_take": "最實質機會唔喺 NVDA，而係 pharma 併購潮 + 中美科技緩和。加密同黃金嘅避險敘事已失效。",
+      "key_takeaways": [
+        "NVDA +31.5% 後盤前 -5.6%，反彈係 sentiment 驅動",
+        "Sanofi $41B 收購 Insmed，3 年最大 pharma 交易",
+        "金價 1980s 來最差 60 日，BTC 11.6M 水底"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-24",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Neutral-to-Bullish（等數據模式）",
+      "headlines": [
+        "NVDA 盤前回吐 -5.6%（週一 +31.5% blowoff 後消化）",
+        "Warsh Fed 通脹憂慮壓頂，AI 熱潮成 macro 矛盾",
+        "Sanofi $41B 收購 Insmed 引爆 pharma 併購潮"
+      ],
+      "focus": [
+        "MU（記憶體週期雙重升級）",
+        "pharma 併購潮（patent cliff）",
+        "GM/F 軍用無人機",
+        "週三 Core PCE（決戰日）"
+      ],
+      "analysis": "# 🌅 Morning Scan — 2026年11月24日（週二）\n\n## Fed Context — 宏觀背景\n\n**上週 FOMC minutes（10月27-28日會議，11月18日發布）已消化，本週無新 statement、無會議。** 下次 FOMC 喺 12 月中（估 15-16 日），到時先有 dot plot。\n\n核心 macro 敘事：**「Warsh 嘅 Fed」正被 AI 熱潮同通脹憂慮夾擊**（Investing 頭條直接點名）。市場由「年內減息」劇本，急轉去「加息預期壓頂」——呢個轉向係今輪加密同黃金「避險敘事」失效嘅根源：GLD 60 日表現係 1980s 以來最差，BTC 跌穿 $60K、11.6M BTC 水底。\n\n對今日嘅啟示：**AI trade 嘅最大敵人唔係管治，而係通脹數據。** 如果星期三 PCE 偏熱，Warsh 委員會嘅鷹派傾斜會直接打壓呢個靠流動性餵大嘅 AI 反彈。今個星期成個 risk-on 格局嘅成敗，押喺星期三朝早（HKT 晚 9:30）嗰個 PCE 身上。\n\n## 📰 今日重點頭條\n\n1. **【CNBC】NVDA 盤前回吐 -5.6%，「回吐週一升幅一部分」** — AI 反彈嘅 follow-through 成疑（NVDA）\n2. **【TradingView】NVDA 單日 +31%：點解黃仁勳「回歸」拉起成個 AI sector** — 政治性反彈，唔係基本面驅動（NVDA）\n3. **【Investing】BofA 因管治改善重申 NVDA Buy** — 華爾街開始幫管治風險「洗白」（NVDA）\n4. **【Investing】Anthropic 跌穿 $83 IPO 價** — AI 新股情緒轉弱，IPO rally 解體（ANT）\n5. **【CBS】伊朗誓言用「一切手段」結束美國海軍封鎖** — 地緣風險升溫，解釋金價反彈\n6. **【Investing】「AI 熱潮籠罩 Warsh 嘅 Fed，通脹憂慮升溫」** — 本週核心 macro 矛盾\n7. **【Investing】BofA 因 FDA 批准上調 BridgeBio 目標價 / 因臨床失敗下調 Arcus** — pharma 併購+FDA 主題延續\n8. **【CBI】英國零售商錄得 2022 年底以來最佳月份** — 全球消費仍有韌性\n\n## 🌍 隔夜市場（週一收市）\n\n- **SPY +4.71%（$722.29）、QQQ +7.00%（$651.03）、DIA +3.06%** — 極端 risk-on，AI 引爆\n- **NVDA +31.48%（$165.05）**、MU +19.04%、MRVL +18.37% — 半導體大反彈\n- **VXX -13.58%** — 波動率崩塌，市場貪婪\n- **USO -4.49%** — 油價跌，risk-off 商品\n- **GLD +3.15%** — 金價反彈，但係喺伊朗地緣 + 「60 日最差」跌勢入面嘅反彈，唔係轉勢\n- 今日盤前：NVDA -5.6%，期貨回吐 — **週一係 parabolic 級別嘅 blowoff，今日係獲利回吐嘅 health check**\n\n## 📈 昨日爆升／暴跌榜\n\n**爆升榜（Top Gainers）— 主題 = AI / 機器人 / 投機 microcap：**\n- WETO +240%（機器人）、BNAI +118%（AI）、OTLY +109%（Oatly）、PAAI +96%（AI）、DCGO +66%\n- 冇大市值質優股 — 呢啲係 liquidity 溢出嘅投機跡象，唔係機構建倉\n\n**暴跌榜（Top Losers）— 主題 = 淡倉被絞殺：**\n- NVD -63%（2x short NVDA）、NVDS -47%（1.5x short NVDA）、SOXS -41%（3x short 半導體）、CAPR -75%（生物科技臨床失敗）\n- **暴跌榜幾乎全係 inverse ETF 被週一 AI 反彈絞殺** — 呢個係結構性訊號：淡倉擠壓（short squeeze）已經發生，唔係開始\n\n**活躍榜（Most Active）：** NVDA +31.5%、SOXL +40%（3x long 半導體）、ANT -1.4%（Anthropic 破 IPO 價）\n\n## 📡 今日重點事件（macro_calendar.json 來源）\n\n**今日（11月24日）：**\n- 🟡 11:00PM HKT — **CB 消費者信心（11月）prev 91.7 / fcast 92.5** — 今日最緊要，信心跌破 92 會加劇衰退憂慮\n- 🟡 10:00PM HKT — Case-Shiller 20 城房價 MoM（9月）prev 0.3 / fcast 0.2\n- 🟡 拍賣：52 週票據 + 5 年期票據 + 2 年 FRN — 睇 bid-to-cover 反映債市需求\n\n**本週 HIGH 事件（重中之重）：**\n- 🔴 **週三 11/25 09:30PM HKT — Core PCE MoM（10月）+ 個人支出 + 個人收入 + GDP Q3 二讀 + 耐用品訂單** — 一日五連發，本週 macro 決戰日。PCE 係 Warsh Fed 最睇重嘅通脹指標，偏熱即殺 AI trade\n- 🔴 12/1 11:00PM HKT — ISM 製造業 PMI + JOLTs 職位空缺\n\n## 🔥 Sector Watch\n\n- **Healthcare（週一早段 +1.71%）：** Sanofi $41B 收購 Insmed（3 年最大 pharma 交易）引爆 patent cliff 併購潮。FDA 批准（BridgeBio）+ 臨床失敗（Arcus）並存 — 選股型市場，唔係 beta 型\n- **半導體／AI：** 週一 blowoff 後今日回吐，係正常。關鍵係 NVDA 管治風險未清 + 星期三 PCE\n- **Industrials（-2.70%）、Real Estate（-1.85%）：** 早段最弱 — 利率敏感 + 傳統週期股被抽血去 AI trade。GM/Ford 軍用無人機（Pentagon 洽談）係唯一嘅亮點催化\n- **能源（-1.16%）：** 油價跌 + 伊朗封鎖風險，兩股相反力量對沖\n\n## 🎯 機會（News Curator 整合）\n\n- **NVDA（續報）：** +31.5% 後盤前 -5.6%。反彈係「Jensen put」（市場賭 Trump 為 AI 托底）+ BofA 管治洗白，但管治風險未解決。**今日部署：唔追，等回吐企穩。真 catalyst 係星期三 PCE。**\n- **MU（記憶體）：** 雙重升級 + 記憶體週期買點，週一 +19%。**半導體入面最實質嘅基本面 story，優於純 sentiment 嘅 NVDA。**\n- **SNY/INSM（pharma 併購潮）：** Sanofi $41B 收購 Insmed，patent cliff 引爆併購。**下一 target 係關鍵 — 揾有 pending patent cliff + 低估值嘅 mid-cap pharma。**\n- **GM/F（軍用無人機）：** Pentagon 洽 GM/Ford 生產軍用無人機，傳統車廠估值重估催化。GM +3.72%、F +4.34% 已起動。**防守型嘅「科技重估」故事。**\n- **WATCH — ANTHROPIC：** 跌穿 $83 IPO 價，AI 新股情緒轉弱。**訊號：AI 熱潮喺 IPO 市場已經開始分層，唔係所有 AI 都受惠。**\n\n## 📅 未來一個月業績重點\n\n**本週：**\n- 🎯 **DELL（今日 AMC，$177B）：** AI 伺服器需求嘅試金石 — 直接反映 AI capex 有冇見頂\n- **ADI（今日 BMO）、ADSK（今日 AMC）、MDT（今日 BMO）、DE（週三 BMO）**\n- 🎯 **MRVL（12/1 AMC，$107B）：** 半導體高波動股，週一 +18% 後要睇業績接唔接得住；tracked ticker\n- **CRWD（12/1 AMC，$235B）：** 網絡安全龍頭\n\n**下週：**\n- **CRM（12/2 AMC）、SNOW（12/2 AMC）** — SaaS/AI 應用層\n- **加拿大銀行密集（RY/TD/CM/BMO/BNS，12/2-3）** — 銀行業績反映信貸週期\n- **SNPS（12/8）、AZO（12/8）**\n\n## 📋 Today's Agenda\n\n- 今日 catalyst：CB 消費者信心（11pm HKT）+ 多場國債拍賣\n- 本週決戰日：**週三 PCE + GDP + 耐用品**（HKT 晚 9:30）\n- 業績：DELL 今晚（AI capex 試金石）\n- Key levels：SPY 週一由 $690 爆上 $722，今日睇 $713（dayLow）做第一個支持；跌穿 $713 代表週一反彈嘅一半回吐\n\n## 💡 My Take\n\n**整體 bias：Neutral-to-Bullish，但係「等數據」模式。**\n\n週一係 parabolic blowoff（NVDA +31%、QQQ +7%、VIX -13.6%），今日盤前回吐係健康嘅 — 唔係轉勢，係消化。但我要講清楚：**呢個反彈嘅根基係「Jensen put」同 sentiment，唔係盈利修正。** 管治風險未清，Anthropic 破 IPO 價顯示 AI 熱潮喺 IPO 市場已經開始分層。\n\n**今日最緊要睇實：** ① NVDA 回吐深度（跌穿 $156 即日低就危險）② 消費者信心會唔會跌破 92 ③ 國債拍賣 bid-to-cover（債市係咪繼續賣）。\n\n**改變 thesis 嘅訊號：** 如果星期三 Core PCE MoM 高過預期，Warsh Fed 嘅鷹派敘事會直接終結呢個 AI 反彈 — 到時 AI trade 要全面轉防守。喺嗰個數據出嚟之前，我傾向持有優質基本面（MU、pharma 併購潮），唔好喺 NVDA 高位追入。",
+      "risks": [
+        "週三 PCE 偏熱 → AI trade 反轉",
+        "NVDA 管治風險未清，反彈係 sentiment 驅動",
+        "Anthropic 破 IPO 價，AI 新股情緒分層",
+        "伊朗海軍封鎖地緣風險升溫"
+      ],
+      "my_take": "週一 AI parabolic blowoff（NVDA +31%、QQQ +7%），今日盤前回吐係健康消化。反彈根基係 Jensen put + sentiment 而非盈利修正，管治風險未清，Anthropic 破 IPO 價顯示 AI 新股情緒分層。真正決戰係週三 Core PCE——偏熱即終結 AI trade。數據出嚟前，傾向優質基本面（MU、pharma 併購潮），唔喺 NVDA 高位追。"
     }
   ],
   "news_curator": [
