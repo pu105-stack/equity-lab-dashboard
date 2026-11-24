@@ -5037,6 +5037,65 @@
         "NVDA 黃仁勳傳聞純投機，董事會無意"
       ],
       "my_take": "短期技術性反彈，中期未確認底部。CRWD-ZS 併購係健康底部訊號，NVDA 黃仁勳傳聞屬投機。真正障礙係 Fed 加息 + 通脹向上（周三 PCE 係試金石）。金價/BTC 係去槓桿金絲雀——未止跌前唔好追反彈。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-24",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "AI trade 強勢反彈 — NVDA 重聘 Huang 引爆 risk-on，Nasdaq +6.5% 創 2025 年 4 月來最佳單日",
+      "headlines": [
+        "[NEW] ACTION: NVDA — Huang 正式重聘，+31.5% 史上最大單日市值增幅",
+        "[RECENT] WATCH: CRWD — $44B 收購 Zscaler，市場反應分歧",
+        "[RECENT] WATCH: BTC-USD — 411 天最長跌浪 + CFTC 放寬加密計提",
+        "[RECENT] WATCH: DEFENSE — 伊朗誓言突破海軍封鎖 + 俄核武入軌"
+      ],
+      "opportunities": [
+        "NVDA: 重聘催化劑已 fire，+31% 部分係 mechanical buying（short covering），唔好追高",
+        "CRWD: $44B 全股票收購 ZS，AI agent 時代網絡安全整合邏輯合理，但市場担心 dilution"
+      ],
+      "analysis": "今日係 NVDA 主導嘅歷史性一日。Jensen Huang 喺 Trump 介入下正式重聘，NVDA +31.5% 創 2003 年來最大單日升幅，單日 +$952B 市值（史上最大），帶動 Nasdaq +6.5%。但 Nomura 警告升幅有大量 mechanical buying（short covering + options unwinding），short-leveraged funds 虧損高達 92%，意味部分升幅係技術性回補而唔係 fundamental 轉變。",
+      "risks": [
+        "NVDA 升幅或屬技術性反彈，mechanical buying 消退後可能回吐",
+        "伊朗/俄羅斯地緣風險升溫，但油價金價已反映",
+        "Medicare 13 藥減價持續壓 pharma"
+      ],
+      "my_take": "市場今日慶祝 Huang 回歸，但呢個係治理風險嘅信號而唔係單純利好 —— 一個 CEO 可以因醜聞落台、兩週後又被政治壓力拉返嚟，Nvidia 嘅公司治理已被華爾街教授公開批評。+31% 嘅升幅有相當部分係被逼空同 options 回補推高，短線追高風險大。反而值得留意嘅係 AI trade 嘅二線反彈（CoreWeave +30%、Oracle），同埋無人機/國防股嘅動量。",
+      "key_takeaways": [
+        "NVDA +31.5% / +$952B 市值，史上最大單日，但含大量機械性買盤",
+        "Nasdaq +6.5% / S&P +4.7% / Dow +1448pts，2025 年 4 月來最佳單日",
+        "CFTC 放寬比特幣/以太幣/穩定幣計入金融要求，crypto 監管利好",
+        "伊朗誓言突破海軍封鎖，俄羅斯擬核武入軌，地緣風險未解"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-24",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "暴力 squeeze 反彈（SPY +4.7% / QQQ +7%），但恐慌未散、PCE 前唔追",
+      "headlines": [
+        "NVDA 正式重聘黃仁勳，+31.5% 創 2003 年來最大單日、+$952B 市值",
+        "特朗普政府制裁 NVDA 醜聞核心 Megaspeed 新加坡空殼公司",
+        "CRWD $44B 全股票收購 Zscaler——CRWD -8.9% / ZS +17.7%",
+        "Fed John Williams：或需隨時間再加息壓通脹（鷹派）",
+        "Bill Ackman：Fed 再加息美國或陷衰退",
+        "烏克蘭無人艇利比亞擊沉俄軍 Merkury 軍艦"
+      ],
+      "opportunities": [
+        "MU: AI 二線補漲 +19%，冇治理包袱，squeeze 消退後資金搵乾淨 AI exposure 首選",
+        "CRWV: CoreWeave +22%，AI infra 純故事反彈",
+        "ORCL: +12%，Tepper 開倉 + bargain 估值，中期累積對象",
+        "國防/無人機 UMAC/ONDS/RCAT: 地緣催化未退，但收盤 fade = 純動量"
+      ],
+      "analysis": "📊 美股收市回顧 — 2026-11-24（收 11-23 美股）\n\n## 📰 今日重點頭條\n1. NVDA 正式重聘黃仁勳任 CEO，+31.5% 創 2003 年來最大單日、+$952B 市值（NYT/Bloomberg/247wallst）\n2. 特朗普政府制裁 Megaspeed——NVDA 醜聞核心嘅新加坡空殼公司（NYT）— 治理風險並未落幕\n3. CRWD $44B 全股票收購 Zscaler，網絡安全史上最大併購；CRWD -8.9%（dilution 担心）/ ZS +17.7%\n4. Fed 紐約主席 John Williams：為壓通脹「或需隨時間再加息」（CNBC）— 鷹派 signal\n5. Bill Ackman 警告：若 Fed 再加息，美國或陷衰退（MarketWatch）\n6. 烏克蘭無人艇在利比亞擊沉俄軍 Merkury 軍艦（BBC/Defense News）— 戰事擴至北非\n7. Real Clear Markets 評論：Kevin Warsh 與批評者「誤將價格上漲當通脹」\n\n## 📊 Market Recap\nSPY +4.71%、QQQ +7.00%、DIA +3.06% — 全面 risk-on 反彈，Nasdaq 100 創 2025 年 4 月來最佳單日。\nVIX 由 35.89 收 26.62（-25.8%），但盤中先插至 15.39 再彈回 — 恐慌未完全消散，收市仍高於 20。\n反彈由 NVDA 引爆，擴散至成個 AI/semi 複合體 + 高 beta 二線。成交量極大（NVDA 7.76 億股，遠超平日），係強制回補主導嘅 squeeze，唔係健康 accumulation。\n\n## 🔥 Notable Movers\n- NVDA +31.5%（$125.5 → $165.1）— 短擠 + options 回補，mechanical buying\n- ZS +17.7% / CRWD -8.9% — 同一併購，收購方捱沽、被收購方狂升 = 典型 dilution 定價\n- MU +19.0%、CRWV(CoreWeave) +22.3%、ORCL +12.3% — AI 二線補漲，laggard catch-up\n- AMD +6.9% — 反彈但遜同業，SA 文章「80% growth 都唔夠」反映 de-rate 未清\n- UMAC +10.1%、ONDS +7.2%、RCAT +5.6% — 無人機動量，但收盤遠低於盤中高（intraday fade）\n\n## 📰 News That Mattered\n真正 catalyst 得一個：Huang 重聘。但呢個係治理事件，唔係基本面事件 —— 一個因醜聞落台嘅 CEO，兩週後因政治壓力回歸，市場嘅反應係用 +31% 去慶祝「救火成功」。真正值得警惕嘅係：NVDA 嘅醜聞（Megaspeed 制裁）根本未解決，只係被風險偏好淹沒。\n\n上個 Morning Scan（11-23 20:33）嘅 calls 檢討：\n- CRWD-ZS「健康底部訊號」→ 中咗。風險溢價崩塌中仍有 $44B 買家出手，確實係底部訊號。但方向值得細味：市場懲罰收購方（CRWD -8.9%），獎勵被收購方（ZS +17.7%）。\n- NVDA「純投機、董事會無意」→ 錯咗。傳聞嘅 catalyst 唔只 fire，仲引爆咗歷史級 squeeze。教訓：當 Trump/Bessent U-turn + 董事會反口呢種級別嘅信號被 telegraphed，「純投機」嘅 framing 會嚴重低估成事概率。\n- 「技術性反彈、PCE 前唔追」→ 框架啱，但市場冇等 PCE 就 rip 咗。方向性 caution 冇錯，但用「技術性」去形容一個 +7% 嘅歷史級反彈係 underweight 咗 squeeze 嘅暴力程度。\n\n## 🎯 Opportunities Carry Forward\n1. AI 二線補漲：MU/CRWV/ORCL 今日 +12% ~ +22%，反彈落後於 NVDA 但基本面 story 更乾淨（冇治理包袱）。若 squeeze 消退後資金要搵 AI exposure 嘅「乾淨下家」，呢批係首選。\n2. 國防/無人機：UMAC/ONDS/RCAT 動量仍在，地緣催化未退（烏克蘭擊沉俄艦、伊朗海軍封鎖威脅）。但今日收盤 fade 係警號——純動量，缺催化劑 follow-through，屬 Viper 短線範疇。\n3. 半導體超賣反彈：MU +19% 但 QCOM/SK Hynix 未確認企穩。等 NVDA 企穩 + PCE 落地先判斷係咪真底。\n\n## ⚠️ Risks / Watchlist\n今晚（11-24）：\n- 9:15PM HKT ADP 就業週度\n- 10:00PM HKT S&P/Case-Shiller 房價\n- 11:00PM HKT CB Consumer Confidence（11月）— 通脹預期會唔會再上修？\n- 12:30AM / 2:00AM HKT 美債拍賣（52週、5年、2年 FRN）— 睇需求有冇受加息預期打擊\n\n明日（11-25）9:30PM HKT — 本周方向決定者（全部 HIGH）：\n- 🔴 Core PCE Price Index MoM（10月）— Fed 首選通脹指標\n- 🔴 GDP Growth Rate QoQ 2nd Est（Q3）\n- 🔴 Durable Goods Orders MoM（10月）\n- 🔴 Personal Spending / Income MoM（10月）\n\n其餘風險：\n- NVDA 機械買盤（short covering）消退後回吐風險 — +31% 唔可能無縫 hold 住\n- 感恩節周薄流動性 = 波動放大，反彈易夭折\n- Fed 鷹派 stance 未變：Williams「或需隨時間再加息」+ Warsh 通脹戰 + Ackman 衰退警告，三重 macro overhang\n- 地緣：伊朗海軍封鎖 + 俄核武入軌 + 烏戰擴至利比亞",
+      "risks": [
+        "明日 9:30PM HKT Core PCE + GDP 2nd Est + Durable Goods + Personal Spending——本周方向決定者",
+        "NVDA 機械買盤（short covering）消退後回吐風險",
+        "感恩節周薄流動性 = 波動放大",
+        "Fed 鷹派（Williams/Warsh）+ Ackman 衰退警告，macro overhang 未除"
+      ],
+      "my_take": "今日係一場暴力 squeeze，唔係健康 re-rating。NVDA +31% 有相當部分係 short covering + options 回補，係治理危機嘅「救火反彈」而唔係基本面突破——Megaspeed 醜聞根本未解決。真正乾淨嘅錢喺 AI 二線（MU/CRWV/ORCL）同國防。明日 Core PCE 係本周試金石：若通脹再上修，Fed 鷹派（Williams/Warsh）會即刻重新壓低反彈，squeeze 變 dead-cat。Bias：短期中性偏謹慎，PCE 前唔加倉，等數據落地先落手。"
     }
   ],
   "news_curator": [
