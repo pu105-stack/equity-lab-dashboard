@@ -5122,6 +5122,67 @@
         "伊朗海軍封鎖地緣風險升溫"
       ],
       "my_take": "週一 AI parabolic blowoff（NVDA +31%、QQQ +7%），今日盤前回吐係健康消化。反彈根基係 Jensen put + sentiment 而非盈利修正，管治風險未清，Anthropic 破 IPO 價顯示 AI 新股情緒分層。真正決戰係週三 Core PCE——偏熱即終結 AI trade。數據出嚟前，傾向優質基本面（MU、pharma 併購潮），唔喺 NVDA 高位追。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-25",
+      "time": "08:03 HKT",
+      "status": "success",
+      "market_direction": "AI硬件sell-the-news：DELL -11.8%、HPE -16.3%、MU -11%、AMBA -20%，業績亮眼但被血洗；黃仁勳relief rally蒸發，Nasdaq -1.5%；關稅升溫+金價續跌",
+      "headlines": [
+        "[NEW] ACTION: DELL — AI server backlog $132B破紀錄+$25B buyback但股價-11.8%，AI capex信心動搖",
+        "[NEW] WATCH: NVDA — AG Blanche拒確認DOJ調查，黃仁勳稱接受治療，管治風險未解",
+        "[NEW] WATCH: TARIFF — Trump關稅擴至中國+EU+墨西哥+日本，加碼加息預期",
+        "[RECENT] WATCH: GOLD — 金價由$3,678跌$130，PCE前測試$3,600",
+        "[NEW] WATCH: CYBER — CIA網絡被入侵+50油輪疑遭伊朗黑客攻擊"
+      ],
+      "opportunities": [
+        "DELL: backlog $132B+buyback $25B但-11.8% — 利好出盡",
+        "HPE/MU/AMBA: AI硬件sell-the-news群組",
+        "CRWD/PANW: 網絡安全支出主題再燃",
+        "INSM: Sanofi $41B收購確認，+14%收$170"
+      ],
+      "analysis": "AI硬件「業績靚」已不足以支撐估值。DELL破紀錄backlog卻-11.8%，HPE史上最強增長卻-16.3%，係成個AI capex敘事信心動搖嘅訊號。加上Anthropic跌穿IPO價、NVDA管治風險未解，AI trade由回調買入轉向反彈沽出。",
+      "risks": [
+        "AI capex敘事信心動搖，硬件反彈係沽出機會",
+        "關稅升溫推高通脹→加息預期→壓制估值",
+        "避險資產(金/幣)同AI一齊跌，資金離場非輪動"
+      ],
+      "my_take": "市場最清晰signal：AI硬件「利好出盡」。避險資產同AI trade一齊被血洗，資金冇去避險係直接離場，典型late-cycle。今朝值錢嘅係識別轉折，唔係追邊隻。",
+      "key_takeaways": [
+        "DELL/HPE/MU/AMBA業績靚但股價崩 — AI硬件進入sell-the-news",
+        "關稅擴至4大地區，加息預期再壓估值",
+        "網絡安全(CIA入侵+油輪黑客)主題再燃"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-25",
+      "time": "08:33 HKT",
+      "status": "success",
+      "market_direction": "AI 硬件 sell-the-news + value rotation（Dow +0.85% vs 納指 -1.48%）",
+      "headlines": [
+        "DELL beat + 指引上調 $10B 但 -11.83% — 利好出盡",
+        "HPE -16.3% margin 憂慮、MU -11% 記憶體短缺警告、AMBA -20%",
+        "Bessent 新一輪關稅（中+EU+墨+日）",
+        "Sanofi $41B 收購 INSM 確認（+14%）",
+        "CRWD-ZS $43.9B 併購 + CIA 網絡入侵",
+        "GLD -2.27% PCE 前續跌"
+      ],
+      "opportunities": [
+        "CRWD/PANW/FTNT/ZS: 網絡安全唯一獨立強勢主題",
+        "Value/cyclical: Dow +0.85% 結構性輪動",
+        "INSM/SNY: pharma 併購潮延續",
+        "PCE 後方向性交易: 偏熱空 AI 反彈 / 偏冷 AI 超賣反彈"
+      ],
+      "analysis": "🌆 Evening Review — 2026-11-25（Tue US session）\n\n═══════════════════════════════════════\n🏦 Fed Context — 宏觀背景\n═══════════════════════════════════════\n下次 FOMC 係 12 月 8-9 日（SEP + dot plot + 記者會），市場正 price in「加息而唔係減息」——Warsh 主政下通脹憂慮係主軸。上次 FOMC（10/27-28）紀要已點名 AI 融資結構（off-balance-sheet 租賃 + circular financing）係系統性風險。今晚 Core PCE 就係呢個「加息 vs AI 估值」矛盾嘅驗證點。DB 唔通讀唔到近期 Fed press release，但宏觀 backdrop 冇變：通脹向上（PCE YoY fcast 3.8%）係加息預期嘅燃料。\n\n═══════════════════════════════════════\n📰 今日重點頭條（Raw Headlines）\n═══════════════════════════════════════\n1. 【DELL 業績】Q3 beat + 全年指引上調 $10B，AI server backlog +619% 至 $132B，但股價 -11.83% — 利好出盡最清晰訊號\n2. 【HPE】Q4 業績史上最強增長，但 margin 憂慮 → -16.31%\n3. 【MU／記憶體】記憶體短缺警告，晶片板塊集體 selloff → MU -11%（Rambus -11.4%、MaxLinear 插水）\n4. 【NVDA 管治】Jensen Huang「每日 90 分鐘 therapy、向員工道歉」；AG Blanche 拒確認 DOJ 調查\n5. 【關稅】Scott Bessent 公布新一輪關稅（中國 + EU + 墨西哥 + 日本），期指早段回落\n6. 【Sanofi-INSM】$41B 收購確認，INSM +14% 收 $170 — pharma 併購潮延續\n7. 【CRWD-ZS】$43.9B 全股票併購，7 間大行下調 ZS 評級 — 併購溢價風險轉移\n8. 【網絡安全】CIA 網絡被入侵 + 50 艘油輪疑遭伊朗關聯黑客攻擊\n9. 【金價】GLD -2.27%，PCE 前續跌，關稅→加息邏輯壓制避險資產\n\n═══════════════════════════════════════\n📊 Market Recap\n═══════════════════════════════════════\n- SPY $718.78 (-0.49%)｜QQQ $638.10 (-1.99%)｜DIA $499.74 (+0.79%)｜IWM $267.14 (+0.53%)\n- 納指 -1.48%、道指 +0.85% — 明顯 value rotation，唔係 broad selloff\n- VIX 26.36 (-0.98%)，仍然偏高但未恐慌\n- 結構：科技/半導體重挫，資金明確轉向 value/cyclical/small cap\n\n═══════════════════════════════════════\n🔥 Notable Movers\n═══════════════════════════════════════\n暴跌（AI 硬件 sell-the-news 群組）：\n  AMBA -20.0%｜HPE -16.3%｜DELL -11.8%｜MU -11.0%｜AMD -8.9%｜SMCI -7.8%｜NVDA -5.9%｜AVGO -4.0%\n反彈／抗跌：\n  INSM +14.1%（Sanofi 收購）｜USO +1.6%（關稅地緣）｜FTNT/ZS/CRWD +1%（cyber 抗跌）\n主題極清晰：冇一個 AI hardware 股可以靠靚業績企穩，反而 value/cyber 企得穩。\n\n═══════════════════════════════════════\n📰 News That Mattered（post-mortem）\n═══════════════════════════════════════\n- Morning Scan（Nov 24 20:34）thesis：Neutral-to-Bullish「等數據模式」，明言「反彈根基係 Jensen put + sentiment 而非盈利修正」「DELL 業績係 AI 硬件風向標」，部署傾向「優質基本面（MU）」、唔喺 NVDA 高位追。\n- 結果檢視：DELL 業績 beat 但股價崩 → 完全證實「sentiment 驅動」判斷；但 MU call 錯咗（-11% 記憶體短缺警告）——「優質基本面」喺 sell-the-news 潮下照樣被血洗。\n- News Curator #2（今朝 08:00）嘅「AI 硬件 sell-the-news」判斷完全命中，DELL/HPE/MU/AMBA 全部落喺佢嘅 ACTION 名單。\n- 關稅 escalation（Bessent）+ PCE 前金價續跌，同 NC 嘅 macro 預測一致。\n\n═══════════════════════════════════════\n🎯 Opportunities Carry Forward\n═══════════════════════════════════════\n- 網絡安全（CRWD/PANW/FTNT/ZS）：CIA 入侵 + 50 油輪黑客 + $43.9B 併購 consolidation — 今日唯一獨立於 AI capex 嘅強勢主題，仲可以 carry\n- Value/cyclical rotation（Dow +0.85%）：資金由 AI 撤出轉 value，係結構性輪動信號，值得跟多一兩日\n- Pharma M&A（INSM/SNY）：$41B 併購確認，patent cliff 併購潮延續，同板塊嘅併購候選可挖\n- 今晚 PCE 定調後嘅方向性交易：偏熱 → AI 反彈就係沽出機會；偏冷 → AI hardware 超賣反彈窗口\n\n═══════════════════════════════════════\n⚠️ Risks / Watchlist\n═══════════════════════════════════════\n- 今晚 9:30PM HKT PCE 全家桶（Core PCE MoM fcast 0.3%、PCE YoY fcast 3.8%、GDP Q3 二讀 fcast 3.5%、Durable Goods fcast 0.6%）— 一日五連發，本週決戰\n- 關稅 escalation 蔓延（Bessent 新一輪：中國 + EU + 墨西哥 + 日本）\n- NVDA 管治風險未解（DOJ 調查 + CEO 醜聞）\n- AI hardware「利好出盡」會否擴散成更深 de-rating — $132B backlog 都托唔起股價，係 AI capex 敘事信心動搖嘅警號\n\n═══════════════════════════════════════\n💡 My Take\n═══════════════════════════════════════\n今日係 AI trade 嘅「利好出盡」確認日：DELL $132B backlog + 上調指引都只能收 -11.83%，證明「業績靚」已不足以支撐 AI 硬件估值。資金明確由 AI/科技輪動去 value/cyclical（道指 +0.85% vs 納指 -1.48%），避險資產（金）同 AI 一齊被沽，係典型 late-cycle 流動性收縮特徵。今晚 Core PCE 係 single point of failure——偏熱即坐實「加息 + AI de-rate」，偏冷先有條件 relief rally。Bias：Neutral-to-Bearish，唔接刀，等 PCE 出嚟先定方向。",
+      "risks": [
+        "今晚 9:30PM HKT Core PCE + GDP 二讀 + Durable Goods 五連發",
+        "關稅 escalation 蔓延",
+        "NVDA 管治風險未解",
+        "AI hardware 利好出盡或擴散成更深 de-rating"
+      ],
+      "my_take": "AI trade「利好出盡」確認日：DELL $132B backlog 都 -11.83%，業績靚已托唔起估值。資金由 AI 輪動去 value/cyber（Dow +0.85% vs 納指 -1.48%）。今晚 Core PCE 係 single point of failure——偏熱坐實加息+AI de-rate，偏冷先有反彈。Bias Neutral-to-Bearish，唔接刀。"
     }
   ],
   "news_curator": [
