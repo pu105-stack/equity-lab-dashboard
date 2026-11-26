@@ -5222,40 +5222,6 @@
       "my_take": "三大負面 catalyst 疊加（Fed 加息週期 + AI capex 瓦解 + 關稅 Round 2），今晚 PCE 是關鍵驗證點。若 PCE YoY 報 3.8%+ 將鎖死 12 月加息，半導體再遭重擊。資金正輪動去價值/防守，但今日流動性薄，等數據出咗先部署，唔接刀。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-26",
-      "time": "08:04 HKT",
-      "status": "success",
-      "market_direction": "美國通脹 + 關稅 + AI 管治三重夾擊，Nasdaq 盤中 -3.8% 後 V 形反彈近平收，Fed 12 月加息鎖定",
-      "headlines": [
-        "[RECENT] MACRO: PCE 3.8% + GDP 4.3% 鎖定 Fed 12 月加息",
-        "[RECENT] MACRO: Trump 感恩節關稅（中國/歐盟/14 夥伴）",
-        "[RECENT] NVDA: S&P 考慮管治/key-man 風險下調信貸評級",
-        "[RECENT] AMAT/LRCX/KLAC: 中國晶片管制重擊設備股",
-        "[RECENT] GLD: 金價 14 個月低位後守 $3500",
-        "[RECENT] BTC-USD: 插 $57.3K 後重奪 $60K",
-        "[RECENT] BA: $2.8B 空軍 KC-46 合約"
-      ],
-      "opportunities": [
-        "AMAT/LRCX/KLAC: 中國晶片管制重擊設備股，AMAT -6% 超賣（UBS 維持 $575 目標）— contrarian 買點",
-        "BA: 24 小時內收 60 架機 + $2.8B 空軍 KC-46 合約，國防 backlog 支撐"
-      ],
-      "analysis": "hot PCE 3.8% + GDP 4.3% 鎖定 12 月加息，Trump 感恩節關稅加碼，AI 管治風險浮面（NVDA key-man risk）。盤中 Nasdaq -3.8% 後 V 形反彈，SPY 收 -0.29%、DIA +0.31%。資金由 AI/半導體輪動去其他板塊。",
-      "risks": [
-        "Fed 12 月加息後流動性環境更緊",
-        "關稅升級引發 stagflation 風險",
-        "NVDA 管治風險係信任問題，非業績問題",
-        "金價破位風險：Fed 加息 = 實際利率上行 = 黃金逆風"
-      ],
-      "my_take": "市場仍有承接力（V 反彈），但資金輪動離開 AI/半導體。真正風險係「加息 + 關稅 + AI 估值重估」三線並發。NVDA 管治風險係新維度。",
-      "key_takeaways": [
-        "PCE 3.8% 鎖定 12 月加息",
-        "盤中 -3.8% V 反彈，大市仍強但 AI 落後",
-        "金價守 $3500 但 Fed 加息係逆風",
-        "中國晶片管制重擊半導體設備股"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-26",
       "time": "08:32 HKT",
@@ -5283,6 +5249,61 @@
         "感恩節半日市流動性薄，波動易放大"
       ],
       "my_take": "三重負面 catalyst 之下市場做咗 V 形反彈 + 清晰輪動：錢無走，只係由 AI/半導體搬去價值/景氣/小型股。NVDA 管治醜聞係新變數（信任問題非業績），AI 估值重估未完。感恩節半日市唔追價，睇好價值/景氣，AI/半導體等企穩。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-26",
+      "time": "20:05 HKT",
+      "status": "success",
+      "market_direction": "AI 賣壓未止（NVDA -3.9%、自高位 -40%），出口管制擴至東南亞；Hormuz 水雷令地緣溢價重返（USO +3.3%）",
+      "headlines": [
+        "[NEW] ACTION: OIL — Hormuz 水雷擊中油輪，USO +3.3%",
+        "[RECENT] WATCH: NVDA — 停止向東南亞出貨，管制擴至亞洲數據中心",
+        "[RECENT] WATCH: SFTBY — SoftBank 違約風險升溫 -6.5%",
+        "[NEW] WATCH: NEE — NextEra-Dominion 電網交易因 AI 電價遭反彈"
+      ],
+      "opportunities": [
+        "OIL(USO): Hormuz 水雷 +3.3%，地緣溢價重返，等 OPEC+ 確認",
+        "NVDA: 管制擴至東南亞數據中心，需求端衝擊超預期",
+        "SFTBY: AI 信貸鏈風險 proxy",
+        "NEE: AI 電力基建 friction"
+      ],
+      "analysis": "今日兩條主線：AI 賣壓 + 出口管制擴至東南亞；Hormuz 水雷令地緣溢價重返。兩者皆係真 catalyst。",
+      "risks": [
+        "NVDA 需求端衝擊超預期",
+        "SoftBank 違約風險",
+        "油價反彈未必持久（單次水雷事件）"
+      ],
+      "my_take": "最值得跟進 NVDA 管制擴張 — 若東南亞數據中心投資放緩，AI 硬件復甦需重新評估。油價等 OPEC+ 確認。",
+      "key_takeaways": [
+        "NVDA 停止向東南亞出貨，出口管制擴至亞洲數據中心",
+        "Hormuz 水雷令油價 +3.3%，地緣溢價重返",
+        "SoftBank 違約風險升溫，AI 信貸鏈開始受壓"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-26",
+      "time": "20:33 HKT",
+      "status": "success",
+      "market_direction": "Neutral — 感恩節休市，AI 硬件 bearish-lean",
+      "headlines": [
+        "Fitch：美國晶片管制拖慢亞洲數據中心投資",
+        "Hormuz 水雷油價 +3.3%",
+        "NVDA 管制擴至東南亞 -40% 自高位"
+      ],
+      "focus": [
+        "NVDA — 出口管制需求端衝擊",
+        "USO — 地緣溢價",
+        "MRVL/AVGO — AI 業績驗證"
+      ],
+      "analysis": "🌅 Morning Scan — 11月26日（感恩節）\n\n📰 今日重頭條\n• [Investing] Fitch：美國晶片管制將拖慢亞洲數據中心投資 — NVDA / AI 硬件（今日最關鍵）\n• [CNBC] 美國加關稅威脅施壓盟友簽貿易協議 — 宏觀 / 貿易\n• [Seeking Alpha] M2 貨幣供應 YTD 增 $1.2 萬億 — 流動性\n• [Coindesk] 加密做市商 Auros 傳結束營運 — BTC / 加密信貸\n• [Cointelegraph] BTC 望向 $61K，感恩節流動性稀薄 — BTC\n• [Seeking Alpha] Rackspace：核心業務萎縮，全押 AI（降評）— RXT\n• [Bloomberg] 馬來西亞或介入 AirAsia 財務危機 — 亞洲航空\n• [BBC] 曼谷煉油廠爆炸 + Hormuz 水雷（NC）— 油價\n\n🌍 隔夜市場\n• SPY -0.29%（$716.70，失守 50 日線 $758 同 200 日線 $733）\n• QQQ -0.65%（$633.93，較 50 日線 $708 更深跌）\n• 道指 +0.31%（$501.27）— 明顯防守 / 價值輪動，Dow 逆市上升\n• 納指 -0.62% vs 標普 -0.25% — 科技跑輸大市\n• VIX 26.85（-5.1%，但仍高企 27 水平）\n• 10 年期債息 4.85%（-1.1%，略回軟）\n• 金：GLD +0.61%，守住 15 個月低位（$313.96）反彈\n• 油：USO +3.29%，Hormuz 水雷地緣溢價重返\n\n📈 昨日爆升／暴跌榜\n• 爆升榜清一色微市值生科（BGLC +114%、TOPP +79%、RADX +62%、NRSN +60%、LONA +58%）— penny 泵盤噪音，無 follow-through 邏輯\n• 暴跌榜：HCTI -84%、RMTX -81%（生科爆煲）、PDC -33%（加密 perps）\n• 活躍榜：NVDA -3.91%（唯一有宏觀意義）、SOXL -1.78%（半導體槓桿 ETF）、ANT +1.08%（Anthropic）\n• Sector theme：生科 penny pump/dump + 加密弱勢 + AI 硬件持續失血。真正值得睇嘅只有 NVDA。\n\n📡 今日重點（macro_calendar — source of truth）\n• 今日感恩節：美股休市，零數據\n• 週五 11/27：半日市（凌晨 2:00 收市），仍無數據\n• 下週 HIGH：ISM 製造業 PMI（12/1）、JOLTs 職位空缺（12/1）、ISM 服務業 PMI（12/3）、非農 NFP（12/4）\n• Fed：靜默期，下次 FOMC 12 月中；10 月會議紀要（11/19 發布）已消化\n\n🔥 Sector Watch\n• 防守／價值受捧（道指 +0.31% vs 納指 -0.62%）\n• AI 硬件持續受壓（NVDA 自高位 -40%，管制擴至東南亞）\n• 軟件受惠輪動（資金硬件 → 軟件）\n• 能源 / 石油受地緣帶動\n• 黃金 tentative bid（息口回軟支撐，但非結構性）\n\n🎯 機會（從 News Curator + raw headlines 整合）\n• USO / 油：Hormuz 水雷 +3.3% — WATCH，單次事件勿追，等 OPEC+ 確認供應受阻\n• GLD / 金：守住 15 個月低位反彈，10 年息回軟 — WATCH，息口敏感非結構性買入\n• NVDA：管制擴至東南亞數據中心 — RISK，需求端衝擊超預期\n• SFTBY：SoftBank 違約風險升溫 -6.5% — RISK，AI 信貸鏈開始受壓\n• NEE：NextEra-Dominion 電網交易因 AI 電價遭反彈 — WATCH\n• 軟件股：資金由硬件輪入，避開賣壓 — 輪動受惠者\n\n📅 未來一個月業績重點\n• 本週：MRVL（12/1，🎯 AI 半導體關鍵 read）、CRM（12/2）、SNOW（12/2）、加國銀行 RY/TD/CM（12/3）\n• 下週：AVGO（12/9，🎯 巨型 AI read）、ADBE（12/9，🎯）、SNPS（12/8）、COST（12/10）\n• MRVL 業績係 AI 半導體需求嘅直接驗證；AVGO 一週後接力，兩個都係 tracked\n\n📋 Agenda\n• 感恩節休市 + 週五半日 — 流動性稀薄，唔好追價\n• 下週先係真正考驗：ISM / JOLTs / NFP + MRVL、CRM 業績\n\n💡 My Take\n今日美股休市，無 live action — 但 positioning 先係重點。市場 bias 中性，但對 AI 硬件維持 bearish 到 lean。最關鍵一條：NVDA 出口管制由中國擴至東南亞數據中心，Fitch 明言會拖慢亞洲 DC 投資 — 呢個係需求端真 catalyst，唔係 noise。若東南亞數據中心投資真係放緩，成個 AI 硬件復甦 thesis 要重新定價。兩類 catalyst 要分清：真 catalyst（出口管制、油價地緣）vs 噪音（生科 penny 泵盤）。油勿追單次水雷事件，等 OPEC+。金嘅反彈係息口驅動，10 年息回軟有支撐但未到結構性買入。",
+      "risks": [
+        "AI 硬件需求端衝擊超預期",
+        "SoftBank/AI 信貸鏈受壓",
+        "感恩節流動性稀薄加劇波動"
+      ],
+      "my_take": "感恩節休市，無 live action，重點係下週 positioning。對 AI 硬件維持 bearish-lean：NVDA 出口管制擴至東南亞數據中心係需求端真 catalyst，若亞洲 DC 投資放緩，AI 硬件復甦要重新定價。油勿追單次水雷事件，等 OPEC+；金反彈係息口驅動未結構性。下週 MRVL（12/1）同 AVGO（12/9）兩大 AI 業績先係真正驗證。"
     }
   ],
   "news_curator": [
