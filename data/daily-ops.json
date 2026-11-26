@@ -5124,38 +5124,6 @@
       "my_take": "週一 AI parabolic blowoff（NVDA +31%、QQQ +7%），今日盤前回吐係健康消化。反彈根基係 Jensen put + sentiment 而非盈利修正，管治風險未清，Anthropic 破 IPO 價顯示 AI 新股情緒分層。真正決戰係週三 Core PCE——偏熱即終結 AI trade。數據出嚟前，傾向優質基本面（MU、pharma 併購潮），唔喺 NVDA 高位追。"
     },
     {
-      "pipeline": "新聞分析-NewsCurator",
-      "date": "2026-11-25",
-      "time": "08:03 HKT",
-      "status": "success",
-      "market_direction": "AI硬件sell-the-news：DELL -11.8%、HPE -16.3%、MU -11%、AMBA -20%，業績亮眼但被血洗；黃仁勳relief rally蒸發，Nasdaq -1.5%；關稅升溫+金價續跌",
-      "headlines": [
-        "[NEW] ACTION: DELL — AI server backlog $132B破紀錄+$25B buyback但股價-11.8%，AI capex信心動搖",
-        "[NEW] WATCH: NVDA — AG Blanche拒確認DOJ調查，黃仁勳稱接受治療，管治風險未解",
-        "[NEW] WATCH: TARIFF — Trump關稅擴至中國+EU+墨西哥+日本，加碼加息預期",
-        "[RECENT] WATCH: GOLD — 金價由$3,678跌$130，PCE前測試$3,600",
-        "[NEW] WATCH: CYBER — CIA網絡被入侵+50油輪疑遭伊朗黑客攻擊"
-      ],
-      "opportunities": [
-        "DELL: backlog $132B+buyback $25B但-11.8% — 利好出盡",
-        "HPE/MU/AMBA: AI硬件sell-the-news群組",
-        "CRWD/PANW: 網絡安全支出主題再燃",
-        "INSM: Sanofi $41B收購確認，+14%收$170"
-      ],
-      "analysis": "AI硬件「業績靚」已不足以支撐估值。DELL破紀錄backlog卻-11.8%，HPE史上最強增長卻-16.3%，係成個AI capex敘事信心動搖嘅訊號。加上Anthropic跌穿IPO價、NVDA管治風險未解，AI trade由回調買入轉向反彈沽出。",
-      "risks": [
-        "AI capex敘事信心動搖，硬件反彈係沽出機會",
-        "關稅升溫推高通脹→加息預期→壓制估值",
-        "避險資產(金/幣)同AI一齊跌，資金離場非輪動"
-      ],
-      "my_take": "市場最清晰signal：AI硬件「利好出盡」。避險資產同AI trade一齊被血洗，資金冇去避險係直接離場，典型late-cycle。今朝值錢嘅係識別轉折，唔係追邊隻。",
-      "key_takeaways": [
-        "DELL/HPE/MU/AMBA業績靚但股價崩 — AI硬件進入sell-the-news",
-        "關稅擴至4大地區，加息預期再壓估值",
-        "網絡安全(CIA入侵+油輪黑客)主題再燃"
-      ]
-    },
-    {
       "pipeline": "美股收市回顧",
       "date": "2026-11-25",
       "time": "08:33 HKT",
@@ -5183,6 +5151,138 @@
         "AI hardware 利好出盡或擴散成更深 de-rating"
       ],
       "my_take": "AI trade「利好出盡」確認日：DELL $132B backlog 都 -11.83%，業績靚已托唔起估值。資金由 AI 輪動去 value/cyber（Dow +0.85% vs 納指 -1.48%）。今晚 Core PCE 係 single point of failure——偏熱坐實加息+AI de-rate，偏冷先有反彈。Bias Neutral-to-Bearish，唔接刀。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-25",
+      "time": "20:06 HKT",
+      "status": "success",
+      "market_direction": "關稅「第二波」成為今日主導 catalyst — Nasdaq futures 跌逾 2%，AI trade 繼續 unravelling 並 spill over 到亞洲。英國能源帳單 +26%（第三季連升）揭示歐洲 gas 通脹重燃。Houthi 襲擊利雅得 PIF 大樓，但油價因供應過剩續弱，地緣溢價未反映。PCE 前美債收益率回落，Fed 官員對通脹成因有分歧。",
+      "headlines": [
+        "[RECENT] 🎯 關稅 Round 2.0 — 16 經濟體工業補貼稅將公布",
+        "[NEW] 🎯 英國能源帳單 +26% — 歐洲 gas 通脹重燃",
+        "[NEW] 🎯 Indra 上調 2030 營收目標至 €12B — 歐洲國防科技 momentum",
+        "[NEW] ⚠️ Houthi 襲擊利雅得 PIF 大樓 — 地緣升溫但油價冇反應",
+        "[RECENT] ⚠️ Fed 官員對通脹成因有分歧 + PCE 前收益率回落",
+        "[RECENT] ⚠️ AI rout 溢出亞洲 — 半導體再挫",
+        "[RECENT] 📌 銅價因 AI 恐慌挫 但實體供應緊",
+        "[NEW] 📌 亞洲代幣化加速 — HK 債務平台 + SBI/SMFG Solana venture",
+        "[RECENT] 📌 金價失去避險地位 輸俾 bitcoin",
+        "[NEW] 📌 EasyJet 利潤 -96% — 燃油+伊朗戰+消費轉弱"
+      ],
+      "opportunities": [
+        "關稅 Round 2.0 — 16 經濟體工業補貼稅將公布",
+        "英國能源帳單 +26% — 歐洲 gas 通脹重燃",
+        "Indra 上調 2030 營收目標至 €12B — 歐洲國防科技 momentum",
+        "Houthi 襲擊利雅得 PIF 大樓 — 地緣升溫但油價冇反應",
+        "Fed 官員對通脹成因有分歧 + PCE 前收益率回落",
+        "AI rout 溢出亞洲 — 半導體再挫"
+      ],
+      "analysis": "關稅第二波主導 risk-off，AI 放大跌幅；歐洲能源通脹重燃；地緣升溫但供應過剩壓油價。",
+      "risks": [
+        "關稅 16 經濟體公布細節可能超預期",
+        "AI 半導體反彈沽出主導",
+        "PCE 數據可能再觸發 risk-off"
+      ],
+      "my_take": "今日最清晰嘅 signal：**關稅第二波係真正嘅 macro catalyst，而 AI 只係佢嘅放大鏡**。Nasdaq -2% 唔單止係 AI capex 信心問題，係「關稅 16 經濟體」嘅工業補貼調查結果將公布 — 呢個係 trade war 由「邊境稅」轉向「產業政策稅」嘅質變。但 247wallst 一個關鍵細節：most exposed funds「barely flinched」— 市場可能讀啱 AI 但讀漏關稅。\n\n同時，英國能源帳單 +26% + EasyJet -96% + Fed 官員對通脹成因有分歧 — 三件事拼埋一齊指向同一結論：**通脹冇死，只係由需求型轉咗做供給型（能源+關稅）**。呢個對「Fed 幾時減息」嘅市場定價有重大含義，PCE 係關鍵驗證點。\n\nContrarian angle：當全世界喺沽 AI，WSJ 話 copper physical supply tight、CAT（data-center 發電機股）被 AI 恐慌誤傷 — 結構性供應緊嘅實體資產可能係下一波輪動目標。",
+      "key_takeaways": [
+        "關稅 Round 2.0（16 經濟體工業補貼）係主導 catalyst",
+        "歐洲能源通脹重燃 = 供給型通脹未死",
+        "AI「利好出盡」+ 關稅火上加油 = 反彈沽出",
+        "銅/實體供應緊 + 金失避險地位 = 結構性輪動候選"
+      ]
+    },
+    {
+      "pipeline": "開市掃瞄",
+      "date": "2026-11-25",
+      "time": "20:34 HKT",
+      "status": "success",
+      "market_direction": "Bearish/防守 — Fed 加息週期 + AI 崩盤 + 關稅 Round 2 三重疊加",
+      "headlines": [
+        "中國等 16 經濟體面臨美國工業補貼關稅 — 關稅 Round 2.0",
+        "半導體崩盤：SOXX -8.3%、NVDA -5.9%、SOXL -24.6%",
+        "Fed 翻轉成加息週期 — 12 月加息機率 ~100%",
+        "今日 PCE 數據是關鍵 — YoY 預 3.8% 前 3.6%（通脹重燃）",
+        "道指逆市 +0.79% — 資金輪動去價值/防守",
+        "VIX 突破 30 (+17%) — 恐慌升溫"
+      ],
+      "focus": [
+        "半導體/AI — 最大風險，唔接刀",
+        "價值/防守輪動 — DIA 逆市升，銀行/能源/公用",
+        "銅/CAT — 實體供應緊，被 AI 恐慌誤傷（contrarian）",
+        "IDR.MC — 歐洲國防科技 momentum"
+      ],
+      "analysis": "【Fed Context — 貨幣政策 regime shift】\n\n背景：聯邦基金利率 3.75%–4.00%，主席 Kevin Warsh（5 月上任，廢除 forward guidance）。上次 FOMC（10 月 27–28）維持利率不變。下次 FOMC：12 月 8–9 日，附帶 dot plot + 記者會（12 月 9 日 2:30pm ET）。\n\n核心變化：市場已經由「減息預期」徹底翻轉成「加息週期」。CME FedWatch 顯示 12 月加息機率 ~100%、1 月 75.4%、3 月 ~100%。Waller 公開要求 12 月 jumbo 50bp（「you might need to shock people」），BofA/德銀/JPM 一致上調至連續三次 25bp（利率將去到 4.5%–4.75%，甚至 5%）。同時 Trump 公開要求減息，與 Fed 正面對撼。\n\n關鍵驗證點：今晚 9:30pm HKT 嘅 PCE 數據。PCE YoY 預期 3.8%（前值 3.6%）— 如果成真，係通脹重新加速嘅硬證據，直接鎖死 12 月加息路徑。\n\n【今日重點頭條】\n1. 中國等 16 經濟體面臨美國工業補貼關稅 — 「關稅 Round 2.0」由邊境稅轉向產業政策稅（FMP/Reuters）\n2. 中國反擊新一輪 Trump 關稅前景（FMP）\n3. Tech selloff 持續 — futures 進一步探底，AI 憂慮重燃（FMP/Benzinga）\n4. SOXX -8.3%、NVDA -5.9% — 半導體股災（FMP quote）\n5. Fed 官員對高通脹成因有分歧（FMP）\n6. 油價供應過剩憂慮壓過沙特煉油廠遇襲（FMP）\n7. 銅價因 AI 恐慌挫，但實體供應仍然緊張（WSJ/FMP）\n\n【隔夜市場】\n- SPY 718.78 (-0.49%)、QQQ 638.10 (-1.99%)、DIA 499.74 (+0.79%)\n- 半導體崩盤：SOXX 128.62 (-8.27%)、SOXL -24.55%、NVDA 155.38 (-5.86%)\n- NVDA 由 52 週高位 243.37 跌 36% — 正式步入熊市區\n- VIX 30.84 (+17%) — 恐慌指數突破 30，創近期新高\n- 道指逆市上升 = 資金由科技股輪動到價值/防守股\n- 隔夜 Asia/Europe 跟跌，AI rout 溢出亞洲\n\n【昨日爆升暴跌榜】\n- 爆升榜全是 penny 垃圾股（JAGX +109%、AKAN +102%、BENF +101%）— 無質素可言，唔係資金輪動信號\n- 暴跌榜同樣是 microcap（EVRL -58%、SRTM -54%、CRMT -54%）\n- 真正信號喺 Most Active：SOXL -24.55%、NVDA -5.86%、ANT(Anthropic) -6.54%、SPDN(標普熊ETF) +0.56%\n- Sector theme：單一主題 — AI/半導體崩盤，資金避險去防守\n\n【今日重點事件】(macro_calendar.json)\n- 9:30pm HKT — 數據大禮包：Core PCE MoM (預 0.3%)、PCE YoY (預 3.8% 前 3.6%)、GDP QoQ 二次估值 (預 3.5% 前 1.5%)、耐用品訂單 (預 0.6% 前 1.8%)、個人支出 (預 0.4%)、初領失業金 (預 200k)\n- 11:00pm HKT — 新屋銷售\n- 11:30pm HKT — EIA 原油庫存\n- 本週是感恩節短週：週四休市、週五半日 — 流動性偏薄，放大幅度\n\n【Sector Watch】\n- 半導體/AI：最大風險區，SOXX 跌破 50 日線（167 vs 現價 128），NVDA -36% from high — 唔好接刀\n- 價值/防守：DIA 逆市 +0.79%，資金正在輪動 — 睇實銀行、能源、公用事業\n- 能源：供應過剩壓過地緣溢價（沙特遇襲油價冇反應）— 弱\n- 銅/實體供應：價格因 AI 恐慌被誤傷，實體供應緊 — 潛在 contrarian\n\n【Pre-market 機會】\n- IDR.MC (Indra)：上調 2030 營收目標至 €12B，歐洲國防科技 momentum — 跟\n- CAT：data-center 發電機被 AI 恐慌誤傷，結構性供應緊 — contrarian WATCH\n- FCX/銅：實體供應緊 vs 價格挫 — 供應鏈邏輯 WATCH\n- 價值輪動標的：銀行/防守，避開高 beta AI\n\n【未來一個月業績】\n- 今日 (11/25)：DE (Deere, $171B) BMO\n- 12/01：MRVL (Marvell, $127B) AMC 🎯 — 半導體，AI-adjacent，見證 AI capex 信心\n- 12/02：CRM (Salesforce, $153B)、SNOW ($96B)\n- 12/09：AVGO (Broadcom, $1497B) AMC 🎯 — 半導體巨頭，剛好喺 FOMC 之後，是 AI 半導體 sentiment 嘅試金石\n- 12/09：ADBE ($87B) 🎯\n\n【Agenda】\n- 今日 catalyst：PCE 數據（9:30pm HKT）— 通脹硬數據，鎖定 12 月加息路徑\n- 本週：感恩節短週，流動性薄\n- 下週：ISM 製造業 PMI + JOLTs (12/01)\n- 12/8-9：FOMC（加息 + dot plot）\n- SPY 關鍵位：支撐 712（昨低），已跌破 50 日線 759 — 技術面轉弱\n\n【My Take】\n總體偏防守/偏淡。三個負面 catalyst 疊加：(1) Fed 由減息翻轉成加息週期（regime shift，最重要），(2) AI capex 信心瓦解（半導體熊市），(3) 關稅 Round 2 轉向產業政策。今晚 PCE 是關鍵 — 若 YoY 報 3.8%+，直接鎖死 12 月加息，半導體將再遭重擊。Contrarian 角度：資金正輪動去價值/防守（DIA 逆市升），實體供應緊嘅銅、CAT 等被 AI 恐慌誤傷 — 但今日唔係接刀嘅日子，等 PCE 出咗先再部署。",
+      "risks": [
+        "PCE 報 3.8%+ 鎖死 12 月加息 → 半導體再遭重擊",
+        "感恩節短週流動性薄 → 波動放大",
+        "關稅 Round 2 細節公布 → 貿易戰升級",
+        "DB 故障 — 分析未能寫入 pipeline_reports（本地 daily-ops.json 已寫）"
+      ],
+      "my_take": "三大負面 catalyst 疊加（Fed 加息週期 + AI capex 瓦解 + 關稅 Round 2），今晚 PCE 是關鍵驗證點。若 PCE YoY 報 3.8%+ 將鎖死 12 月加息，半導體再遭重擊。資金正輪動去價值/防守，但今日流動性薄，等數據出咗先部署，唔接刀。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-26",
+      "time": "08:04 HKT",
+      "status": "success",
+      "market_direction": "美國通脹 + 關稅 + AI 管治三重夾擊，Nasdaq 盤中 -3.8% 後 V 形反彈近平收，Fed 12 月加息鎖定",
+      "headlines": [
+        "[RECENT] MACRO: PCE 3.8% + GDP 4.3% 鎖定 Fed 12 月加息",
+        "[RECENT] MACRO: Trump 感恩節關稅（中國/歐盟/14 夥伴）",
+        "[RECENT] NVDA: S&P 考慮管治/key-man 風險下調信貸評級",
+        "[RECENT] AMAT/LRCX/KLAC: 中國晶片管制重擊設備股",
+        "[RECENT] GLD: 金價 14 個月低位後守 $3500",
+        "[RECENT] BTC-USD: 插 $57.3K 後重奪 $60K",
+        "[RECENT] BA: $2.8B 空軍 KC-46 合約"
+      ],
+      "opportunities": [
+        "AMAT/LRCX/KLAC: 中國晶片管制重擊設備股，AMAT -6% 超賣（UBS 維持 $575 目標）— contrarian 買點",
+        "BA: 24 小時內收 60 架機 + $2.8B 空軍 KC-46 合約，國防 backlog 支撐"
+      ],
+      "analysis": "hot PCE 3.8% + GDP 4.3% 鎖定 12 月加息，Trump 感恩節關稅加碼，AI 管治風險浮面（NVDA key-man risk）。盤中 Nasdaq -3.8% 後 V 形反彈，SPY 收 -0.29%、DIA +0.31%。資金由 AI/半導體輪動去其他板塊。",
+      "risks": [
+        "Fed 12 月加息後流動性環境更緊",
+        "關稅升級引發 stagflation 風險",
+        "NVDA 管治風險係信任問題，非業績問題",
+        "金價破位風險：Fed 加息 = 實際利率上行 = 黃金逆風"
+      ],
+      "my_take": "市場仍有承接力（V 反彈），但資金輪動離開 AI/半導體。真正風險係「加息 + 關稅 + AI 估值重估」三線並發。NVDA 管治風險係新維度。",
+      "key_takeaways": [
+        "PCE 3.8% 鎖定 12 月加息",
+        "盤中 -3.8% V 反彈，大市仍強但 AI 落後",
+        "金價守 $3500 但 Fed 加息係逆風",
+        "中國晶片管制重擊半導體設備股"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-26",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "輪動市 — 大市 V 形反彈有承接，資金由 AI/半導體輪去價值/景氣/防守",
+      "headlines": [
+        "NVDA 管治醜聞：Jensen Huang 違反 code of conduct，S&P 考慮管治/key-man 風險降信貸評級",
+        "關稅 Round 2.0：Trump 提議對中國/歐盟 + 14 夥伴加關稅",
+        "熱 PCE 3.8% + GDP 4.3% 鎖死 12 月加息",
+        "中國晶片管制重擊半導體設備股 AMAT/LRCX/KLAC",
+        "Nasdaq 盤中 -3.8% 後 V 形反彈，SPY 收 -0.29%、DIA +0.31%"
+      ],
+      "opportunities": [
+        "AMAT: UBS 維持 $575 目標，現價 $311 超賣，但等企穩先入",
+        "LRCX/KLAC: 中國管制 + AI 恐慌雙殺後超賣，反彈彈性大",
+        "價值輪動 XLI/XLE/XLF/IWM: 資金由 AI 輪出嘅明確去向",
+        "BA: $2.8B KC-46 空軍合約 + 國防 backlog 支撐"
+      ],
+      "analysis": "【今日市場總結】2026-11-26（感恩節休市，回顧 11-25 收市）\n\n核心結論：三重負面 catalyst（熱 PCE + 關稅 Round 2 + NVDA 管治醜聞）將 Nasdaq 盤中打到 -3.8%，但 dip buyers 即日 V 形反彈收復大部份失地 — SPY 收 -0.29%、DIA 反而 +0.31%。呢個唔係崩盤，係「輪動 + AI 信任危機」嘅組合拳。\n\n【Fed Context — 加息週期確認】\n- 11-25 熱 PCE 出爐：PCE YoY 3.8%（前 3.6%）、GDP QoQ 4.3% — 通脹重新加速嘅硬證據，直接鎖死 12 月加息。\n- 12 月 8-9 日 FOMC（附 dot plot + 記者會），市場已定價加息機率 ~100%。Warsh 廢除 forward guidance，市場喺黑暗中定價。\n- 特別信號：10 年期債息喺 sticky inflation 之下反而跌（資金買債避險）— 反映市場驚嘅唔係通脹本身，而係加息令 AI/高估值資產承壓。\n- 下次高影響事件：12/4 NFP（預 90 vs 前 165，就業急降溫）+ 12/10 凌晨 FOMC 利率決議。\n\n【Market Recap — 輪動，唔係崩盤】\n- SPY -0.29%、QQQ -0.65%、DIA +0.31%、IWM +0.65%（小型股逆市升）\n- VIX 28.29（+7.3%），盤中曾觸 30 — 恐慌仍在但未失控\n- 板塊輪動極清晰：XLK -0.83%、SMH -1.01%（科技/半導體輸）vs XLI +0.83%、XLE +0.74%、XLF +0.71%、XLU +0.48%（價值/景氣/防守贏）\n- 結論：錢無走，只係由 AI/半導體搬去價值/景氣/小型股，breadth 其實唔差。\n\n【Notable Movers】\n- NVDA -3.91% → $149.30，由 52 週高位 $243 累跌 39%，正式熊市區 + 管治醜聞 + S&P 考慮降信貸評級\n- AMAT -3.89%（盤中 -6%）、LRCX -5.68%（盤中 -7%）— 中國晶片管制重擊設備股\n- BA +0.57% — $2.8B KC-46 空軍合約 + 60 架機，國防 backlog 支撐\n- GLD +0.61% — 金價 14 個月低位後喘定，Fed 加息係結構性逆風\n- BTC +1.71% — PCE 後插 $57.3K 再重奪 $60K，情緒反覆\n- ANT(Anthropic) +1.07% → $82.79 — IPO 首日插 8% 後重奪發行價 $83\n\n【News That Mattered】\n1. NVDA 管治醜聞（全新維度 — 唔係業績，係信任）：Jensen Huang 違反 code of conduct、S&P 考慮管治/key-man 風險下調信貸評級、訴訟累積、Trump 力保 Huang、Vance 否認調查。\n2. 關稅 Round 2.0：Trump 提議對中國、歐盟 + 14 夥伴加關稅，India 貿易協議成焦點。\n3. 熱 PCE 3.8% + GDP 4.3% 鎖死 12 月加息。\n4. 中國晶片管制 → 半導體設備股（AMAT/LRCX/KLAC）。\n5. 金價跌至 14 個月低位。\n\nNews Curator 表現評估：NC 準確捕捉半導體設備（AMAT/LRCX/KLAC）、BA 國防、NVDA 管治風險、金價逆風四大主線 — 命中率高。唯一 nuance：NC 標 AMAT「-6% 超賣」係盤中價，收市已收窄至 -3.89%，反映 V 形反彈比 NC 預期更強。\n\n【Opportunities Carry Forward】\n1. AMAT/LRCX/KLAC（半導體設備）— 中國管制 + AI 恐慌雙殺後超賣。UBS 維持 AMAT $575 目標（現價 $311，潛在 ~85% 上行）。若 V 形反彈持續，設備股反彈最急；但屬 falling knife，要等企穩先入。\n2. 價值/景氣輪動（XLI/XLE/XLF/IWM）— 資金由 AI 輪出嘅去向清晰，可持續性比單日反彈高，係「去邊度」嘅 trade。\n3. BA — 國防 backlog + $2.8B 新合約，防守板塊相對強勢。\n\n【Risks / Watchlist】\n- 今晚/聽日：感恩節休市（11-26 全日休市、11-27 半日），今晚無 HIGH 事件。聽晚僅 MEDIUM（零售/批發庫存 + 商品貿易差，9:30pm HKT）。\n- 11-27 半日市：流動性薄，波動易被放大，唔追價。\n- NVDA 管治醜聞：S&P 若落實降評級，可能觸發機構強制拋售 — 多週 overhang，難定價。\n- 12/4 NFP：預 90 vs 前 165 — 就業急降溫，若成真將為「加息 vs 衰退」添變數。\n- 12/8-9 FOMC：dot plot + 記者會，若 terminal rate 上調至 5%+，高估值資產再遭重擊。\n- 關稅 Round 2.0：感恩節關稅落地，China/EU/India 反制風險。\n\n【My Take】\n今日最重要嘅 takeaway：市場喺三重負面 catalyst 下做咗 V 形反彈 + 清晰輪動 — 大市有承接力，但 AI/半導體正陷入「信任危機」主導嘅 downtrend（NVDA 管治醜聞係新變數，唔係業績問題，係信任問題）。聽日感恩節半日市，流動性薄，唔追價；方向睇好價值/景氣，AI/半導體等企穩信號先部署。",
+      "risks": [
+        "NVDA 管治醜聞：S&P 若降評級或觸發機構強制拋售，多週 overhang",
+        "12/4 NFP 預 90 vs 前 165 — 就業急降溫，'加息 vs 衰退' 變數",
+        "12/8-9 FOMC dot plot + 記者會 — terminal rate 若上調至 5%+ 再壓估值",
+        "關稅 Round 2.0 落地，China/EU/India 反制風險",
+        "感恩節半日市流動性薄，波動易放大"
+      ],
+      "my_take": "三重負面 catalyst 之下市場做咗 V 形反彈 + 清晰輪動：錢無走，只係由 AI/半導體搬去價值/景氣/小型股。NVDA 管治醜聞係新變數（信任問題非業績），AI 估值重估未完。感恩節半日市唔追價，睇好價值/景氣，AI/半導體等企穩。"
     }
   ],
   "news_curator": [
