@@ -5388,6 +5388,41 @@
         "Black Friday 薄流動性"
       ],
       "my_take": "短線反彈、中線未穩。週三見底反彈屬 relief rally 唔係趨勢反轉——NVDA 仍喺 50/200 日均線下、-38% off high，資金 11 週最大流出，加上 Warsh 鷹派 + Dec 9 dot plot。Black Friday 半日市流動性薄，輕倉觀望；NVDA 收復 $165 + VIX 跌穿 20 先轉好，跌破 $141 反彈完。"
+    },
+    {
+      "pipeline": "每週篩選",
+      "date": "2026-11-28",
+      "time": "06:03 HKT",
+      "status": "success",
+      "market_direction": "AI 硬件熊市持續（NVDA -39% off high + 治理危機），PCE 3.8% 鎖定 Fed 12/9 加息，資金輪動去防守/國防/價值/event-driven pharma 併購。",
+      "opportunities": [
+        "🎯 DIS: AI 熊市下最乾淨嘅防守倉位：streaming 逆市創 52 週新高（$125.60），資金由高 beta 科技輪入防守性 entertainment。News Curator 嘅 ACTION call 已中，趨勢持續而唔係單日反彈。",
+        "🎯 BA: 24 小時內收 60 架機 + $2.8B KC-46 空軍合約，國防 backlog 提供 visibility。伊朗襲科威特 + Hormuz 護航 = 地緣催化持續，係 AI 熊市下嘅 defense 避風港。",
+        "🎯 LMT: 寬護城河（F-35 獨家 + 機密許可）+ beta 僅 0.095，喺鷹派 Fed（12/9 加息風險）下最抗跌嘅防禦標的。backlog $2,920 億創新高，上週深潛確認 Wide moat，伊朗升級 = 政策背書。",
+        "🎯 SNY: Sanofi $41B 收購 Insmed（3 年最大 pharma 交易）引爆 patent-cliff 併購潮。FDA 批准（BridgeBio）與併購催化並存，係選股型市場入面少數有 event catalyst 嘅板塊。下一 target 邏輯：有專利懸崖風險嘅 mid-cap biotech。",
+        "📡 AMAT: 中國晶片管制重擊 + AI 恐慌雙殺後超賣。UBS 維持 $575 目標（現價 $311，~85% 上行）。但屬 falling knife——中國管制係結構性需求衝擊，需等企穩信號先入，唔好接刀。",
+        "📡 USO: Hormuz 水雷 + 伊朗襲科威特/沙特 = 地緣溢價重返。但伊拉克增產至 3.6M bpd = 供應過剩，且週四升級尚未 price-in（stale 價格）。等確認 Hormuz 實質封鎖持續先追，忌追單次事件。",
+        "📡 GLD: 金價 14 個月低位，跌穿央行平均買入成本——歷史上前兩次出現都係中長期底部區域。但 Fed 12/9 加息係結構性逆風，ETF 流出放大跌勢、避險買盤未現。二元賭注：FOMC 若意外偏鴿會劇烈反彈。",
+        "📡 PANW: 網絡安全平台龍頭，Wide moat（switching costs + platformization），Q1 業績大 beat + CRWD-ZS $44B 併購 + CIA 被入侵 = 板塊 consolidation 催化。但 70x forward P/E 喺鷹派 Fed 下係最脆弱嘅 multiple 收縮對象。",
+        "📡 MU: 記憶體週期買點 + 雙重升級，半導體入面最實質嘅基本面 story（優於純 sentiment 嘅 NVDA）。但 AI 硬件 sell-the-news（業績靚但 -11%）顯示 AI capex 信心動搖，需等需求確認先加倉。"
+      ],
+      "risks": [
+        "⚠️ NVDA: 管治危機（復職 + Trump 利益衝突 + S&P 考慮降評級）+ 出口管制擴至東南亞數據中心 = 需求端衝擊超預期。自高位 -39%，係信任問題而非業績問題，多週 overhang 難定價，反彈屬 relief。",
+        "⚠️ SFTBY: SoftBank 違約風險升溫，-6.5% 創新低，係 AI 信貸鏈受壓嘅縮影。若 AI 融資鏈斷裂，高槓桿 AI 持倉者（SFTBY/CRWV/SNDK）首當其衝。冇 near-term catalyst。",
+        "⚠️ MSTR: BTC 仍喺下跌趨勢，mNAV 跌破 1（~0.70x）令「發股買 BTC」嘅 accretion 引擎反轉成稀釋。軟件業務收入縮水，FCF -$22.6B。上週深潛確認 None-to-Narrow moat，BTC 熊市下冇催化劑。"
+      ],
+      "analysis": "本週主軸係「AI 信任危機 + 加息」共振嘅輪動。AI 硬件由「業績靚但股價崩」（DELL/HPE/MU sell-the-news）升級到管治危機（NVDA S&P 降評風險 + 東南亞出口管制）+ 信貸鏈壓力（SFTBY/CRWV/SNDK）。PCE 3.8% + GDP 4.3% 鎖死 12/9 加息，高 beta AI 未見底、反彈屬 relief。資金明顯輪動去三類：(1) 防守（DIS 52 週新高、軟件）(2) 國防（BA $2.8B 合約、LMT/RTX 避險）(3) event-driven pharma 併購潮（SNY/INSM）。油（USO）同金（GLD）都係二元事件 trade，等 FOMC + 地緣確認。下週三連催化 MRVL（12/1）+ AVGO（12/9）+ FOMC（12/9）先係 AI 硬件 narrative 決戰週。",
+      "my_take": "減磅 AI 硬件、偏防守/國防。DIS 係 AI 熊市下最乾淨嘅防守倉位（52 週新高 + streaming 防守資金），BA/LMT 靠國防 backlog + 地緣升級做避風港。pharma 併購潮（SNY/INSM）係少數有 event catalyst 嘅長線 theme。AMAT 等 semicon 設備超賣有 85% 上行目標，但係 falling knife，要等企穩。油金都係二元事件、唔接刀。NVDA/SFTBY/MSTR 三隻係 AI 信貸鏈 + 治理危機嘅風險源，反彈沽出。核心紀律：唔接刀、等 12/9 FOMC + MRVL/AVGO 業績確認，先部署下一波。",
+      "focus": [
+        "防守/價值輪動: DIS",
+        "國防: BA, LMT",
+        "Pharma M&A: SNY, INSM",
+        "半導體設備超賣: AMAT",
+        "能源/地緣: USO",
+        "貴金屬二元: GLD",
+        "網絡安全: PANW",
+        "AI 信貸鏈風險: NVDA, SFTBY, MSTR"
+      ]
     }
   ],
   "news_curator": [
