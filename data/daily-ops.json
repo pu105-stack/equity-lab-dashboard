@@ -5304,6 +5304,62 @@
         "感恩節流動性稀薄加劇波動"
       ],
       "my_take": "感恩節休市，無 live action，重點係下週 positioning。對 AI 硬件維持 bearish-lean：NVDA 出口管制擴至東南亞數據中心係需求端真 catalyst，若亞洲 DC 投資放緩，AI 硬件復甦要重新定價。油勿追單次水雷事件，等 OPEC+；金反彈係息口驅動未結構性。下週 MRVL（12/1）同 AVGO（12/9）兩大 AI 業績先係真正驗證。"
+    },
+    {
+      "pipeline": "新聞分析-NewsCurator",
+      "date": "2026-11-27",
+      "time": "08:13 HKT",
+      "status": "success",
+      "market_direction": "AI/tech 熊市持續（NVDA -39% 由高位、CRWV -69%、SNDK -75%、QQQ -17%），資金轉防守（DIS 創 52 週新高）＋地緣溢價（油 +3.3%）。Fed 12/9 加息前鷹派，Trump 攻擊 GDP 數據信譽。",
+      "headlines": [
+        "[RECENT] WATCH: NVDA — Jensen Huang 復職 + Trump 持倉利益衝突，治理危機未解",
+        "[RECENT] WATCH: MACRO — Trump 斥 Q3 GDP「假數據」，Fed 12/9 加息前數據信譽受挑戰",
+        "[NEW] WATCH: OIL — 伊朗無人機襲科威特殺 2 意人，地緣升級（Hormuz 續報）",
+        "[RECENT] WATCH: CRWV — CoreWeave 違約憂慮，Meta 擔保 $4.5bn 貸款救場",
+        "[NEW] ACTION: DIS — 收市創 2022/4 以來新高，AI 賣壓下資金轉防守"
+      ],
+      "opportunities": [
+        "DIS: 逆市創 52 週新高，streaming 防守性受追捧，資金由 AI 轉向防守"
+      ],
+      "analysis": "AI 熊市唔止係估值回調，係由 NVDA 治理危機（復職+Trump 利益衝突）＋ AI 基建融資鏈斷裂（CRWV/SNDK 由高位腰斬）＋ Fed 加息三重壓力共振。資金已明顯轉向防守（DIS、軟件股）。地緣（伊朗襲科威特）係新增變數，但油價反彈幅度有限，市場對供應衝擊仍存疑。",
+      "risks": [
+        "NVDA 治理危機 + 出口管制擴至亞洲，股價 39% off 高位",
+        "CRWV/SNDK AI 基建信貸壓力，違約憂慮",
+        "Fed 12/9 加息 + Trump 攻擊 GDP 數據信譽"
+      ],
+      "my_take": "AI 熊市由治理危機 + 融資鏈斷裂 + Fed 加息三重壓力共振，非單純估值回調。資金轉防守係主線，DIS 係最清晰受惠者。地緣（伊朗襲科威特）係新變數但市場未全面 panic。",
+      "key_takeaways": [
+        "NVDA 復職冇解決 AI selloff，Trump 利益衝突加劇政治風險",
+        "資金由 AI/hardware 轉向防守/streaming（DIS 52 週新高）",
+        "伊朗襲科威特 = 地緣升級，但油價反彈有限，供應衝擊存疑"
+      ]
+    },
+    {
+      "pipeline": "美股收市回顧",
+      "date": "2026-11-27",
+      "time": "08:32 HKT",
+      "status": "success",
+      "market_direction": "感恩節休市（無新 session）— 地緣升級主導 overnight，Black Friday 半日市前瞻",
+      "headlines": [
+        "伊朗無人機襲科威特殺 2 名 Rheinmetall 意大利技術員（首宗致命）",
+        "沙特 Jazan 煉油廠遇襲 1 死部分停運",
+        "Hormuz 兩油輪觸雷，超級油輪棄船燃燒",
+        "Trump 稱選前發布「假經濟數字」，攻擊 GDP 數據信譽",
+        "Fed 12/9 加息前鷹派立場明確"
+      ],
+      "opportunities": [
+        "OIL/能源鏈: 地緣升級未 price-in，Black Friday 開盤 gap-up 風險",
+        "DIS: 防守性 streaming 主線，52 週新高突破",
+        "國防: 戰爭升級 tailwind"
+      ],
+      "analysis": "📊 Evening Review — 11月27日（感恩節休市翌日）\n\n⚠️ 特別提示：今晚（11/27 08:30 HKT）對應嘅係美國感恩節（11/26 週四）——美股、美債全線休市。所以今晚冇「收市」可以檢討，last trading session 係 11/25 週三（已由 11/26 嘅 Evening Review 覆蓋）。今晚嘅價值喺 overnight developments + 對今晚 Black Friday 半日市嘅 forward view。\n\n📰 今日重點頭條（Overnight / Raw News）\n1. 【地緣升級】伊朗無人機襲科威特，擊殺 2 名 Rheinmetall 意大利技術人員 —— 係科威特數月來首宗致命襲擊。伊朗否認，指稱係美以 false flag。（source: ABC/SBS/Reuters）\n2. 【地緣升級】沙特 Jazan 煉油廠遇襲，1 名工人死亡、部分營運停擺 —— 沙特聯軍指責胡塞武裝。（source: GulfNews）\n3. 【地緣升級】兩艘油輪喺 Hormuz 海峽觸雷 —— 其中一艘載 200 萬桶原油嘅超級油輪棄船燃燒。Hormuz 自 2 月戰爭爆發以嚟實質關閉，美國軍艦正護航。（source: Xinhua/ABC）\n4. 【數據信譽危機】Trump 聲稱選前發布咗「假經濟數字」—— 攻擊 GDP 數據可信度，正值 Fed 12/9 加息決策前。（source: CBS）\n5. 【Fed 鷹派】FOMC 10/27-28 會議紀錄（11/24 發布）+ 市場預期 12/9 加息 —— 加息前鷹派立場明確。\n\n📊 Market Recap（last session = 11/25 週三）\n- 大市：SPY -0.29%、QQQ -0.65%，但 DIA +0.31% —— 防守/價值輪動持續，納指落後道指。\n- VIX 26.8（-5.3%）—— 恐慌略降，但仍處高位區間。\n- 10Y 美債 4.85%（-6bps）—— 收益率回落，息口敏感資產有喘息。\n- 冇新 session 可以 recAP，以上係感恩節前最後一個交易日嘅收盤 state。\n\n🔥 Notable Movers（11/25 收盤）\n- DIS +2.52%（$125.60，52 週新高）—— NC 嘅 ACTION call 中咗，streaming 防守性資金追捧。\n- NVDA -3.91%（$149.30）—— AI 治理危機（復職 + Trump 利益衝突）繼續壓估值，自高位 -39%。\n- SNDK -5.57%（$73.61）—— AI 基建融資鏈壓力嘅縮影。\n- USO +3.29%（$139.89）—— 地緣溢價，但呢個係週三 Hormuz 水雷消息嘅反應，尚未反映週四科威特/沙特升級。\n\n📰 News That Mattered\n- 地緣係今晚唯一真正嘅 overnight catalyst。伊朗襲科威特（首宗致命）+ 沙特煉油廠遇襲 + 超級油輪棄船 —— 三件事一齊嚟，係 US-Israel-Iran 戰爭嘅 escalation，唔係單次事件。但油期貨週四同樣休市，所以 USO +3.3% 係 stale 價格 —— Black Friday 半日市開盤可能 gap up。\n- NC 嘅 call 檢討：DIS（ACTION）中咗；油（WATCH）中咗方向但幅度未反映最新升級；NVDA 治理危機（WATCH）持續有效。\n- Trump 攻擊 GDP 數據信譽係新變數 —— 喺 Fed 12/9 加息決策前攻擊數據可信度，會放大市場對 macro 數據嘅不信任。\n\n🎯 Opportunities Carry Forward\n- OIL / 能源鏈：地緣升級 + 油價尚未 price-in 週四嘅科威特/沙特襲擊 → 今晚 Black Friday 開盤若 gap up，係 escalation trade。但忌追單次事件，等確認 Hormuz 實質封鎖持續。\n- DIS：防守性 streaming 資金主線，52 週新高突破，係 AI 熊市下嘅乾淨倉位。\n- 國防：伊朗襲擊 Rheinmetall 設施 + 戰爭升級，國防板塊有 tailwind。\n- 下週催化劑：MRVL（12/1）、AVGO（12/9）兩大 AI 業績 —— 先係 AI 硬件 narrative 嘅真正驗證，仲有 FOMC 12/9 加息決策。\n\n⚠️ Risks / Watchlist\n- 今晚事件（macro_calendar）：全屬 MEDIUM —— Retail/Wholesale Inventories、Goods Trade Balance（adv Oct）9:30pm HKT、Baker Hughes 天然氣鑽井數 3:00am HKT。冇 HIGH 事件。\n- 明日（11/28 週六）零 events —— 冇 macro 催化劑。\n- Black Friday 半日市（1pm ET / 2am HKT 收市）—— 流動性極薄，地緣 headline 會被放大，oil/defense 可能劇烈波動。\n- 下週三連催化：MRVL（12/1）+ AVGO（12/9）+ FOMC（12/9）—— 加息風險 + AI 業績驗證一齊到。\n- Fed 12/9 加息風險：鷹派立場明確，若宏觀數據（尤其 Trump 質疑嘅 GDP）再度偏熱，加息坐實。\n\n💡 My Take\n今晚冇收市可檢討，但 overnight 地緣升級（伊朗襲科威特 + 沙特煉油廠 + 超級油輪棄船）係真正嘅新變數，而油價尚未 price-in 週四升級。Black Friday 半日市流動性薄，oil/defense 會係主要波動源。下週 MRVL + AVGO + FOMC 三連催化先係 AI 熊市嘅決戰週。Bias：能源/防守偏多、AI 硬件繼續 bearish-lean、等數據唔接刀。",
+      "risks": [
+        "Black Friday 半日市流動性薄，地緣 headline 被放大",
+        "下週三連催化: MRVL(12/1)+AVGO(12/9)+FOMC(12/9)",
+        "Fed 12/9 加息風險 + Trump 質疑 GDP 數據信譽",
+        "油價若僅單次事件反彈，勿追"
+      ],
+      "my_take": "感恩節休市，冇收市可檢討。真正新變數係 overnight 地緣升級（伊朗襲科威特 + 沙特煉油廠 + 超級油輪棄船），油價尚未 price-in。Black Friday 半日市流動性薄，oil/defense 係波動源。下週 MRVL + AVGO + FOMC 三連催化係 AI 熊市決戰週。Bias：能源/防守偏多，AI 硬件 bearish-lean，唔接刀。"
     }
   ],
   "news_curator": [
