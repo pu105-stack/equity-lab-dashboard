@@ -1,13 +1,6 @@
 {
   "decisions": [
     {
-      "ticker": "NVDA",
-      "status": "deep_dive",
-      "updated_at": "2026-11-27",
-      "reasoning": "管治危機（復職 + Trump 利益衝突 + S&P 考慮降評級）+ 出口管制擴至東南亞數據中心 = 需求端衝擊超預期。自高位 -39%，係信任問題而非業績問題，多週 overhang 難定價，反彈屬 relief。",
-      "source": "⚠️ 風險"
-    },
-    {
       "ticker": "USO",
       "status": "deep_dive",
       "updated_at": "2026-11-27",
@@ -36,5 +29,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-11-28T12:07:08.372339+08:00"
+  "last_synced": "2026-11-28T12:07:13.208361+08:00"
 }
