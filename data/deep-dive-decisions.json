@@ -15,24 +15,10 @@
       "source": "📡 值得關注"
     },
     {
-      "ticker": "AMAT",
-      "status": "deep_dive",
-      "updated_at": "2026-11-27",
-      "reasoning": "中國晶片管制重擊 + AI 恐慌雙殺後超賣。UBS 維持 $575 目標（現價 $311，~85% 上行）。但屬 falling knife——中國管制係結構性需求衝擊，需等企穩信號先入，唔好接刀。",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "SNY",
       "status": "deep_dive",
       "updated_at": "2026-11-27",
       "reasoning": "Sanofi $41B 收購 Insmed（3 年最大 pharma 交易）引爆 patent-cliff 併購潮。FDA 批准（BridgeBio）與併購催化並存，係選股型市場入面少數有 event catalyst 嘅板塊。下一 target 邏輯：有專利懸崖風險嘅 mid-cap biotech。",
-      "source": "🎯 機會"
-    },
-    {
-      "ticker": "BA",
-      "status": "deep_dive",
-      "updated_at": "2026-11-27",
-      "reasoning": "24 小時內收 60 架機 + $2.8B KC-46 空軍合約，國防 backlog 提供 visibility。伊朗襲科威特 + Hormuz 護航 = 地緣催化持續，係 AI 熊市下嘅 defense 避風港。",
       "source": "🎯 機會"
     },
     {
@@ -50,10 +36,10 @@
       "source": "📡 值得關注"
     },
     {
-      "ticker": "DIS",
+      "ticker": "BA",
       "status": "deep_dive",
       "updated_at": "2026-11-27",
-      "reasoning": "AI 熊市下最乾淨嘅防守倉位：streaming 逆市創 52 週新高（$125.60），資金由高 beta 科技輪入防守性 entertainment。News Curator 嘅 ACTION call 已中，趨勢持續而唔係單日反彈。",
+      "reasoning": "24 小時內收 60 架機 + $2.8B KC-46 空軍合約，國防 backlog 提供 visibility。伊朗襲科威特 + Hormuz 護航 = 地緣催化持續，係 AI 熊市下嘅 defense 避風港。",
       "source": "🎯 機會"
     },
     {
@@ -71,5 +57,5 @@
       "source": "⚠️ 風險"
     }
   ],
-  "last_synced": "2026-11-28T12:06:31.915973+08:00"
+  "last_synced": "2026-11-28T12:06:52.009296+08:00"
 }
