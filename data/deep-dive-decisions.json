@@ -15,13 +15,6 @@
       "source": "🎯 機會"
     },
     {
-      "ticker": "MU",
-      "status": "deep_dive",
-      "updated_at": "2026-11-27",
-      "reasoning": "記憶體週期買點 + 雙重升級，半導體入面最實質嘅基本面 story（優於純 sentiment 嘅 NVDA）。但 AI 硬件 sell-the-news（業績靚但 -11%）顯示 AI capex 信心動搖，需等需求確認先加倉。",
-      "source": "📡 值得關注"
-    },
-    {
       "ticker": "BA",
       "status": "deep_dive",
       "updated_at": "2026-11-27",
@@ -29,5 +22,5 @@
       "source": "🎯 機會"
     }
   ],
-  "last_synced": "2026-11-28T12:07:17.427979+08:00"
+  "last_synced": "2026-11-28T12:07:22.500265+08:00"
 }
