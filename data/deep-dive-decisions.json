@@ -1,12 +1,4 @@
 {
-  "decisions": [
-    {
-      "ticker": "USO",
-      "status": "deep_dive",
-      "updated_at": "2026-11-27",
-      "reasoning": "Hormuz 水雷 + 伊朗襲科威特/沙特 = 地緣溢價重返。但伊拉克增產至 3.6M bpd = 供應過剩，且週四升級尚未 price-in（stale 價格）。等確認 Hormuz 實質封鎖持續先追，忌追單次事件。",
-      "source": "📡 值得關注"
-    }
-  ],
-  "last_synced": "2026-11-28T12:12:36.389076+08:00"
+  "decisions": [],
+  "last_synced": "2026-11-28T12:13:54.069673+08:00"
 }
