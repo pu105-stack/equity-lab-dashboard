@@ -48,14 +48,7 @@
       "updated_at": "2026-11-27",
       "reasoning": "BTC 仍喺下跌趨勢，mNAV 跌破 1（~0.70x）令「發股買 BTC」嘅 accretion 引擎反轉成稀釋。軟件業務收入縮水，FCF -$22.6B。上週深潛確認 None-to-Narrow moat，BTC 熊市下冇催化劑。",
       "source": "⚠️ 風險"
-    },
-    {
-      "ticker": "SFTBY",
-      "status": "deep_dive",
-      "updated_at": "2026-11-27",
-      "reasoning": "SoftBank 違約風險升溫，-6.5% 創新低，係 AI 信貸鏈受壓嘅縮影。若 AI 融資鏈斷裂，高槓桿 AI 持倉者（SFTBY/CRWV/SNDK）首當其衝。冇 near-term catalyst。",
-      "source": "⚠️ 風險"
     }
   ],
-  "last_synced": "2026-11-28T12:06:52.009296+08:00"
+  "last_synced": "2026-11-28T12:07:01.678029+08:00"
 }
